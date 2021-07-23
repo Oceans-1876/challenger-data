@@ -1,0 +1,185 @@
+1488
+THE VOYAGE OF H.M.S. CHALLENGER.
+Clathria-continued.
+elegantula, 536, 1363.
+frondifera, 718, 1363.
+inanchorata, 547, 1328.
+lendenfeldi, 553, 1363.
+Clathrocanium,
+coarctatum, 881.
+diadema, 1041.
+reginæ, 1060.
+sphærocephalum, 881.
+squarrosum, 881, 1041, 1047.
+triomma, 1041, 1047, 1051.
+Clathrocircus,
+decaporus, 986, 1040, 1046.
+dictyospyris, 1051.
+multiforis, 880, 1006, 1011, 1015,
+1022, 1027, 1031, 1040, 1051,
+1055, 1060.
+octoporus, 1254.
+stapedius, 1040.
+Clathrocorys,
+giltschii, 1060.
+murrayi, 1041.
+teuscheri, 881, 1052.
+Clathrocyclas,
+alcmenæ, 1052.
+basilea, 167, 1254.
+collaris, 1023.
+coscinodiscus, 1047, 1052.
+danaës, 1268.
+domina, 1006, 1012 1016, 1023.
+jovis, 1062.
+latonæ, 1207.
+principessa, 1012.
+semeles, 1047.
+Clathrolychnus,
+araneosus, 1062.
+periplectus, 1047.
+Clathromitra,
+pentacantha, 1023.
+pterophormis, 1011.
+Clathrosphæra,
+arachnoides, 1021.
+circum texta, 941, 949, 957, 960,
+967, 972, 976, 979.
+lamellosa, 1031, 1038, 1050, 1055,
+1059.
+Clathrospyris,
+pyramidalis, 1051.
+Clathurella, 177, 284, 361, 1308, 1346.
+araneosa, 177, 1346.
+cala, 1225, 1308.
+chariessa, 177, 267, 284, 293, 361,
+1308, 1311, 1313, 1346, 1356.
+chyta, 267, 1308.
+circumvoluta, 164,177,1346,1356.
+crispata, 274, 361, 1346, 1356.
+formosa, 177, 267, 284, 293,
+1308, 1311, 1313, 1346.
+homæotata, 333, 1297.
+Clathurella—continued.
+hormophora, 164, 177, 361, 1346,
+1356.
+leufroyi, 274, 1346.
+pachia, 177, 1346.
+perparva, 361, 1346.
+perpauxilla, 177, 1346.
+phyxanor, 333, 1297.
+porcellana, 361, 1346.
+pudens, 177, 1346.
+reticulata, 274, 1346.
+streptophora, 1270, 1308.
+(Daphnella),
+aulacoëssa, 728, 1400.
+compsa, 639, 1346.
+monoceros, 329, 1279.
+Clavagella,
+torresi, 702, 1395.
+Clavelina, 1451.
+enormis, 415, 1414.
+oblonga, 245, 1414.
+Clavella,
+australasiæ, 555, 1367.
+Clavicula,
+delicata, 442.
+Clavularia,
+cylindrica, 392, 1331.
+elongata, 281, 1303.
+tubaria, 161, 1331.
+Clavulina,
+angularis, 181, 196, 630, 686, 862.
+var. difformis, 717.
+communis, 115, 166, 182, 196,
+198, 427, 449, 498, 511, 522,
+529, 581, 587, 588, 640, 857,
+876, 903, 949, 965, 1111, 1131,
+1154, 1158, 1162, 1201, 1217.
+cylindrica, 166, 641, 686.
+parisiensis, 115, 134, 166, 182,
+196, 198, 215, 641, 686, 717,
+937, 979.
+var. humilis, 182.
+Clematissa, 1360.
+obtusa, 1160, 1331.
+robusta, 1156, 1331.
+verrilli, 392, 1331.
+Clementia,
+papyracea, 704, 1395.
+Cleodora, 79, 249, 252, 388, 425, 428,
+499, 530, 552, 895.
+890.
+compressa, 546, 676, 866, 967.
+cuspidata, 233.
+pleuropus, 233.
+Cleonardo,
+longipes, 1114.
+Clibanarius, 748, 1342.
+strigimanus, 539, 1388.
+Climacosphenia,
+elongata, 904.
+Climacosphenia-continued.
+moniligera, 287, 904.
+Clinus,
+microcirrhis, 1121, 1417.
+Clio, 249, 252, 388, 425, 428, 499, 530,
+552, 895.
+australis, 524.
+chaptali, 676.
+cuspidata, 165, 233, 285, 294,
+892, 982.
+polita, 285, 294, 353.
+pyramidata, 133, 142, 165, 180,
+195, 200, 233, 252, 277, 280,
+285, 294, 353, 366, 425, 580,
+661, 685, 866, 892, 964, 975,
+982, 986, 1105, 1200, 1219,
+1225, 1269.
+sulcata, 487, 500, 505.
+(Creseis),
+acicula, 124, 165, 180, 195, 200,
+252, 285, 290, 294, 315, 353,
+366, 661, 676, 685, 734, 778,
+782, 813, 835, 848, 866, 940,
+986, 1105, 1201, 1208, 1210,
+1233, 1257, 1266.
+balantium, 848, 890.
+conica, 866.
+virgula, 165, 180, 195, 315, 334,
+353, 545, 675, 685, 813, 835,
+848, 866, 892, 1008, 1126, 1255.
+(Hyalocylix),
+striata, 180, 195, 285, 294, 353,
+661, 676, 685, 778, 782, 866,
+892, 967,982, 1008, 1082, 1229,
+1269.
+(Styliola),
+subula, 133, 142, 165, 180, 195,
+200, 277, 285, 294, 353, 366,
+575, 580, 661, 676, 685, 866,
+892, 975, 982, 986, 1106, 1219,
+1225, 1229,
+1269.
+Cliona,
+dissimilis, 719, 1363.
+Clionella,
+aglaophanes, 177, 1346.
+amblia, 177, 1346.
+exsculpta, 177, 1346.
+lophoëssa, 351, 1322, 1326.
+var. platia, 351, 361, 1346.
+quadruplex, 267, 1308.
+tholoïdes, 361, 1346.
+lionopsis,
+modesta, 982.
+Clistophæna,
+armata, 1016.
+enneolena, 1112.
+hexolena, 881, 950.
+polyolena, 1042, 1052, 1056, 1060.
+pyramidalis, 1060.
+rüstiana, 1012.
+balantium,
+-

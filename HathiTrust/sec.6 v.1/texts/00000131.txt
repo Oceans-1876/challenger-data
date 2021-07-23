@@ -1,0 +1,49 @@
+SUMMARY OF RESULTS.
+57
+of his Geodesy to the study of the question : “ Wie die Tieffe einers Weihers, Graben,
+See und anderer stillstehender Wasser, sollen künstlich abgemessen und ergründet
+werden?” He takes a hollow tin or copper sphere, hermetically closed, and provided with
+an eye by which a metal plate is attached. The top of the plate is furnished
+with a hook fitting into the eye of the sphere, the under part being fitted with
+a heavy foot. Whenever the apparatus touches the bottom the sphere is freed from the
+hook, and returns to the surface. This is exactly the idea of Cusanus, but Puehler
+added an apparatus to act as a clepsydra, measuring the time the sphere takes to
+re-appear. For this purpose he advises the use of a clay vase with a small hole at the
+bottom. The moment the bathometer is dropped, the vase is applied to the surface of
+the water, which filters through the small orifice at the bottom. He had noted the
+quantity of water entering the vase in a former experiment with his bathometer in water
+of which he knew the depth.
+Cusanus' idea was again taken up by a Neapolitan architect named Alberti, of whom Alberti's
+APPARATUS.
+Blancanus' speaks in a work on architecture. Alberti describes an apparatus con-
+sisting of a heavy sphere (a) and a light bent metal tube (6), which is released on
+touching the bottom, and acts as a float. He says :-“Given water of known depth (P),
+b requires t (time measured by the clepsydra) to return to the surface, then you have
+for an unknown depth tı:t=P.: P, p=
+tri
+ti'
+Cusanus, Puehler, Alberti, and all their successors who have endeavoured to solve the
+problem of the depth of the sea by means of apparatus with self-detaching floats, take it for
+granted that the descent of a heavy body through a resisting medium, such as water, is
+always uniform. This is only approximately the case. One might, indeed, admit that,
+when the appliance goes down, the velocity is very nearly uniform, for resistance here
+paralyses acceleration ; but we must also admit that there will be acceleration of motion
+when the float, detached from the weight, returns to the surface.
+More than a century later Robert Hooke continued these bathymetrical experiments. Hooke's
+APPARATUS.
+He had a sphere made of wood, well varnished, and provided with a steel spring, to which
+a piece of metal was suspended; this became detached on coming in contact with the
+bottom, and allowed the float to ascend. Soon after this Rochon made experiments
+in the Indian Ocean with a modified apparatus of this celebrated English physicist. But
+sinken: und wenn du das erden gefäss auf daz wasser setzest und das wasser berürt, lasse die Kugel auss der hand :
+darnach sihe wenn die Kugel uber daz wasser auffart: in dem selben augenblick verhalt das löchlein das an dem boden
+des erden gefäss ist: als dann weg das wasser das in den erden gefässe gefunden auf das aller fleyssigest, merck das
+gewicht, wie schwär es gewogen hat: dergleichen sächte oder messe auch die tieffe des Wassers, an dem ort da du das
+instrument gesenkt hast: und was für eine Proportion der Zal der Schwäre des gewichts des wassers zu der Zal der
+klaffter und tieffe des wassers hat: solche Proportion wird auch haben die zal oder schwäre des wassers in dem erden
+gefässe gefunden, wie jetz gesagt, zu der zal der Klaffter, die die tieffe des wassers ist” (Ein kurtze und grundliche
+anlaytung zu dem rechten Verstand Geometriæ, Dillingen 1563, p. 652).
+1 Blancanus, Sphæra mundi seu Cosmographia, Mutinæ, 1635, pp. 1470 et seq.
+2 See Phil. Trans., vol. ii. pp. 439 et seq., 1667 (reproduced in the tail-piece to this Introduction).
+(SUMMARY OF RESULTS CHALL. EXP.—1894.)
+8

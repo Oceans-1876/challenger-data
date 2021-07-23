@@ -1,0 +1,183 @@
+SUMMARY OF RESULTS.
+1519
+Lima-continued.
+goliath, 922, 1161, 1321, 1326,
+1344, 1447.
+lata, 339, 781, 1344, 1359, 1396.
+multicostata, 237, 565, 626, 1308,
+1314, 1396, 1426.
+murrayi, 579, 1344.
+squamosa, 127, 820, 1396, 1426.
+tahitensis, 1075, 1396.
+(Ctenoides),
+tenera, 650, 1396.
+(Limatula), 329, 395, 509, 1182,
+1279, 1296, 1308, 1344.
+bullata, 541, 565, 1396, 1426.
+confusa, 164, 283, 351, 1308,
+1312, 1313, 1321, 1326, 1344.
+laminifera, 164, 174, 1344, 1356.
+pygmæa, 438,472,1344,1359,1396.
+subovata, 283, 1308.
+torresiana, 705, 1396.
+(Mantellum),
+hians, 202, 1396.
+loscombii, 273, 395, 1344, 1356,
+1447.
+Limacina, 137, 430, 482, 517, 522, 664,
+735, 835, 853, 871, 959, 1025,
+1068, 1203, 1207, 1209, 1264,
+1455.
+antarctica, 498.
+australis, 450, 482, 487, 500.
+bulimoides, 133, 142, 165, 180,
+190, 195, 294, 315, 353, 366,
+545, 661, 675, 685, 782, 866,
+953, 967, 1229, 1269.
+helicoides, 285.
+inflata, 133, 142, 165, 180, 195,
+277, 280, 285, 294, 315, 353,
+366, 384, 425, 545, 639, 661,
+675, 685, 782, 848, 866, 1008,
+1225, 1229.
+lesueuri, 133, 142, 165, 180, 195,
+294, 315, 353, 366, 545, 661,
+685, 848, 967, 1008, 1229, 1269.
+triacantha, 165, 180, 195, 280,
+285, 294.
+trochiformis, 353, 545, 848, 866,
+1008, 1229.
+Limatula (see Lima).
+Limnadia, 575.
+Limnetis, 575.
+Limopsis, 117, 333, 551, 609.
+aurita, 163, 237, 267, 1308, 1311,
+1313, 1344.
+bassi, 541, 1396.
+brazieri, 564, 1396.
+cancellata, 704, 727, 1396, 1426.
+cristata, 144, 1279.
+lata, 608, 1321.
+marionensis, 438, 1344.
+minuta, 112, 127, 132, 174, 272,
+Limopsis-continued.
+1321, 1326, 1327, 1344, 1356,
+1359, 1396.
+pelagica, 333,900,1296,1301,1344.
+straminea, 485, 1344.
+torresi, 683, 1344.
+Limulus, 836.
+Linckia,
+guildingii, 306, 1375.
+miliaris, 646, 827, 1375, 1423.
+pacifica,
+var. diplax, 623, 646, 1375,
+1423.
+Lingula, 1439.
+anatina, 833, 1414.
+Lingulina,
+carinata, 182, 354, 1002.
+var, seminuda, 115, 134, 166,
+182, 196, 198, 354, 1201.
+Linopneustes, 1361.
+murrayi, 814, 899, 1336, 1355.
+Liocranchia (see Cranchia).
+Lioscorpius, 1361.
+longiceps, 749, 789, 1351, 1357.
+Liosphæra,
+hexagonia, 1050.
+peridromium, 973.
+polypora, 878, 1044.
+rhodococcus, 1014.
+Liponema, 1450.
+multiporum, 451, 933, 1142, 1292,
+1298, 1300, 1332, 1438, 1446.
+Liriola (see Siphonaria).
+Liriospyris,
+amphithecta, 1016.
+heteropoda, 880.
+hexapoda, 1011, 1016, 1023.
+Lirus,
+paucidens, 895.
+porosus, 617.
+Lispognathus,
+thomsoni, 114, 421, 579, 1313,
+1356, 1448.
+Lissocarcimus,
+lævis, 819, 1391.
+polybioides, 561, 1391.
+Lithactinia,
+galeriformis, 644, 1369.
+pileiformis, 644, 1369.
+Lithadia,
+cariosa, 377, 1391.
+Lithapium,
+halicapsa, 1031.
+monocyrtis, 1021.
+pyriforme, 1015, 1039.
+Litharachnium,
+araneosum, 1047.
+discoides, 1251.
+epeira, 1062
+pilidium, 1118.
+Lithatractus,
+carduelis, 1022, 1027, 1031, 1039,
+1050, 1055, 1059.
+cirsium, 958.
+conifer, 1039, 1045, 1206.
+conostylus, 1039.
+convallaria, 1022.
+echiniscus, 1222.
+fragilis, 1050.
+gamoporus, 1039, 1050, 1055,
+1059.
+hexagonalis, 979.
+jugatus, 1015, 1022, 1027, 1031,
+1039, 1050.
+leptostylus, 1031, 1039, 1050.
+lobatus, 1015, 1022, 1027, 1031,
+1039, 1050.
+pachystylus, 1039.
+rosetta, 1136.
+Lithelius,
+capreolus, 1061.
+solaris, 1017, 1019, 1024, 1028,
+1032, 1046, 1053.
+spiralis, 1040, 1255, 1257, 1261,
+1266.
+Lithobotrys,
+mascula, 1060.
+orchidea, 1041.
+sphærothorax, 880.
+Lithocampe,
+aquilonaris, 950.
+diaphana, 1226.
+diploconus, 882.
+eupora, 1254.
+fusiformis, 1043.
+heptacola, 1017.
+hexacola, 1013.
+multiseriata, 798, 875, 1017.
+nereidum, 167, 1218.
+octocola, 1061.
+ovata, 882, 1043.
+polycola, 875.
+quadrarticulata, 254.
+urceolata, 1052.
+Lithochytris,
+cortina, 1016.
+galeata, 1042, 1218.
+lanterna, 957.
+lucerna, 1042.
+pteropus, 1023.
+pyramidalis, 1012, 1016, 1023.
+pyriformis, 881, 1254.
+Lithocircus,
+crambessa, 880.
+decimalis, 1268.
+furcatus, 979.
+hexablastus, 1011, 1015, 1022.
+magnificus, 1268.
+quadricornis, 167, 1132.
+tarandus, 1053.
+1

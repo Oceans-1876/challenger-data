@@ -1,0 +1,96 @@
+264
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATION 72.
+Temperature of water :-
+71:0
+Surface,
+25 fathoms,
+50
+>>
+75
+100
+200
+300
+400
+64.2
+63.4
+62.6
+61.8
+57.7
+52.5
+48.0
+500 fathoms,
+600
+700
+800
+900
+1000
+1100
+Bottom,
+45.2
+43.2
+41:3
+40.0
+39.2
+38.5
+38.1
+37.8
+19
+Density at 60° F. at surface, 1.02718.
+Depth, 1240 fathoms ; deposit, Pteropod Ooze, containing 81:59 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4 P.M. shortened and furled sails, and got up steam to sound. At 4.30 P.M.
+sounded in 1240 fathoms. Obtained a series of temperatures down to 1100 fathoms.
+At 6.30 P.M. completed observations, and at 6.40 P.M. made all plain sail.
+Distance from Fayal at noon, 210 miles, and from Flores, 114 miles. Made good 73
+miles. Amount of current 15 miles, direction N. 57° E.
+ORGANISMS FROM
+THE DEPOSIT.
+DIATOMACEÆ.—. The following species of Diatoms were observed by Mr. Comber in the
+deposit from this Station, and shells of Tellina are recorded in the Station-book (see also
+Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+Nitzschia marina, Grunow.
+Coscinodiscus nodulifer, Janisch.
+Grammatophora serpentina, Ehrenberg.
+decrescens, Grunow.
+Hemidiscus cuneiformis, Wallich.
+radiatus, Ehrenberg.
+Coscinodiscus excentricus, Ehrenberg.
+africanus, Janisch.
+lineatus, Ehrenberg.
+Ethmodiscus sp. (?).
+tumidus, Janisch.
+Asteromphalus brookei, Bailey.
+curvatulus, Grunow.
+Bacteriastrum varians, Lauder.
+STATION 73.
+Station 73 (Sounding 137), Bermuda to Azores (see Charts 6 and 10, and
+Diagram 3).
+;
+June 30, 1873 ; lat. 38° 30' N., long. 31° 14' W.
+Temperature of air at noon, 68°.8; mean for the day, 68°.5.
+Temperature of water :-
+o
+.
+Surface,
+100 fathoms,
+200
+300
+400
+500
+69.0
+59.8
+57.0
+54.0
+49.0
+45.5
+600 fathoms,
+700
+800
+900
+Bottom,
+43-4
+42:0
+41:0
+40.0
+39.4

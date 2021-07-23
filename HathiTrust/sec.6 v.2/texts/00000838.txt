@@ -1,0 +1,182 @@
+1556
+THE VOYAGE OF H.M.S. CHALLENGER.
+Sertularia-continued.
+articulata, 462, 1373.
+catena, 172, 1333.
+clausa, 1189, 1316.
+cylindritheca, 373, 1373.
+echinocarpa, 462, 1373.
+exigua, 270, 1333.
+exserta, 488, 1373.
+gracilis, 1164, 1373.
+implexa, 1172, 1373.
+integritheca, 373, 1373.
+laxa, 270, 1333.
+leiocarpa, 393, 1333.
+operculata, 1140, 1373, 1445, 1448.
+polyzonias, 1175, 1373, 1445, 1448.
+producta, 839, 1316.
+secunda, 462, 1373.
+Sesarma,
+mülleri, 377, 1393.
+schüttei, 561, 1393.
+(Holometopus),
+aubryi, 668, 736, 860, 1393,
+1425.
+Sestertius,
+duplicidentes, 835.
+Setarches,
+fidjiensis, 634, 1354.
+Setella, 853, 858, 882, 884, 885, 887,
+916, 953, 990, 994, 1068, 1106,
+1223.
+gracilis, 545, 675, 835, 852, 986,
+1207, 1237, 1255, 1260.
+Sethamphora,
+costata, 1011, 1016, 1023, 1027,
+1031, 1041, 1052, 1056, 1060.
+dodecapleura, 881.
+enneapleura, 1218.
+favosa, 881.
+hexapleura, 1016.
+microstoma, 868, 881.
+serrata, 1047, 1254.
+Sethocapsa,
+ampulla, 1012.
+bulla, 1023.
+macroceros, 1032.
+pyriformis, 1006, 1012, 1016,
+1023, 1027, 1032, 1012, 1052,
+1056, 1060.
+Sethocephalus,
+platycryphalus, 1098.
+Sethochytris,
+pyramis, 1011.
+triconiscus, 1023.
+Sethoconus,
+anthocyrtis, 970.
+bimarginatus, 1132.
+facetus, 1047, 1054, 1057,
+1062.
+lophophæna, 1132.
+mitra, 881, 1042, 1047, 1250.
+Sethoconus-continued.
+orthoceras, 1207.
+pileus, 1004, 1006, 1008, 1013,
+1018, 1020, 1024, 1029, 1033,
+1047, 1054, 1057, 1062.
+rayianus, 1018, 1020, 1024, 1029,
+1033, 1047, 1054.
+setosus, 1018, 1020, 1024, 1029,
+1033, 1047, 1054.
+tabulatus, 1250.
+trochus, 777, 782, 793, 798, 813,
+838, 843, 845, 850, 858, 863,
+869, 871, 876, 881, 882, 889,
+894, 905, 916, 920, 922, 939,
+941, 943, 944, 950, 953, 958,
+960, 967, 970, 973, 977, 980,
+982, 986, 988, 992, 1004, 1006,
+1008, 1013, 1018, 1020, 1024,
+1029, 1033, 1047, 1054, 1057,
+1062, 1064, 1068, 1082.
+venosus, 1017.
+virgultus, 1095.
+Sethocorys,
+ajacis, 881.
+amphora, 1042.
+odysseus, 881, 1052.
+patrocli, 1006, 1012, 1016, 1023,
+1027, 1031, 1042, 1052, 1056,
+1060.
+Sethocyrtis,
+agamemnonis, 957.
+diomedis, 881, 1012, 1016, 1023,
+1047.
+oxycephalis, 1006, 1012, 1016,
+1023, 1027, 1031, 1042, 1052,
+1056, 1060.
+pleuracantha, 777, 882, 1018,
+1062.
+Sethodiscus,
+cristatus, 1089.
+lenticula, 879, 1059.
+macrococcus, 879, 957, 1039.
+micrococcus, 1226.
+microporus, 1095.
+phacoides, 1032, 1015, 1053,
+1056, 1061.
+Sethomelissa,
+hymenoptera, 1041.
+Sethopera,
+oceania, 1268.
+tricostata, 881.
+Sethophæna,
+enneaptera, 1042.
+hexaptera, 1023.
+polyptera, 980.
+tetraptera, 1132.
+Sethophormis,
+arachnium, 1016.
+asteriscus, 1052.
+astrodiscus, 1254.
+Sethophormis-continued.
+aurelia, 1006, 1011, 1016, 1023,
+1027, 1031, 1041, 1052, 1056,
+1060.
+cruciata, 1047.
+dodecaster, 1118.
+enneactis, 1218.
+enneastrum, 980.
+eupilium, 1047.
+floscula, 1207.
+hexalactis, 1060.
+leptopilium, 1101.
+medusa, 958.
+pentalactis, 1016.
+rotula, 1031, 1041, 1052, 1056,
+1060.
+triloba, 957.
+umbrella, 922, 939, 941, 943.
+Sethopilium,
+cyrtopus, 1023.
+macropus, 1041.
+orthopus, 880, 1016.
+Sethopora,
+pyrum, 986.
+Sethopyramis,
+bicornis, 950.
+cyclomma, 1254.
+enneactis, 1011, 1016, 1023.
+hexagonalis, 1226.
+hexalactis, 1023.
+maxima, 1041.
+quadrata, 881, 957.
+spinosa, 1006.
+trapezoides, 1089.
+Sethornithium,
+dictyopterum, 1012.
+Sethosphæra,
+entosiphonia, 1050.
+entosolenia, 1021.
+Sethostaurus,
+conostaurus, 1221.
+coronatus, 1022.
+cruciatus, 1039.
+gigas, 879, 1045.
+orthostaurus, 1015.
+rhombostaurus, 1045, 1265.
+Sethostylus,
+dentatus, 1050.
+dicylindrus, 1022.
+distyliscus, 1010.
+hastatus, 879, 1268.
+serratus, 1217.
+spicatus, 1254.
+Setia (sce Rissoa).
+Sicydium, 669, 1421.
+nigrescens, 1001, 1421.
+Sicyonia,
+carinata, 169, 375, 1388, 1425.
+lævis, 865, 1342.
+lancifer, 723, 1388.

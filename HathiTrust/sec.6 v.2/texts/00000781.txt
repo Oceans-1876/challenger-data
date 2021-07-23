@@ -1,0 +1,185 @@
+SUMMARY OF RESULTS.
+1499
+Diphyes-continued.
+770, 773, 775, 782, 790, 793, 797,
+799, 808, 817, 836, 815, 853, 868,
+869, 889, 965, 980, 1007, 1018,
+1025, 1064, 1102, 1263, 1266, 1268,
+1269.
+Diphyopsis,
+angustata, 662, 871, 1013, 1077.
+compressa, 1210, 1222, 1255,
+1266.
+Diplacanthopoma, 1361.
+brachysoma, 364, 1353.
+Diplactura,
+diplobrachia, 1011.
+diploconus, 1022.
+Diplocheilus, 1429.
+mirabilis, 537, 1372.
+Diplocolpus,
+cristatus, 1226.
+dentatus, 958.
+serratus, 1062.
+sulcatus, 1101.
+Diploconus,
+amalla, 1046.
+cotyliscus, 1251.
+cyathiscus, 882.
+cylindrus, 950.
+hexaphyllus, 1017.
+Diplocyathus, 1429.
+dichotomus, 693, 1372.
+Diplocyclas,
+bicincta, 980.
+bicorona, 1042.
+Diplodonta, 395, 564, 1344, 1395.
+amboinensis, 764, 1395.
+apicalis, 127, 1395.
+conspicua,
+704,
+1395,
+1426.
+corpulenta, 704, 727, 1395,
+1426.
+scalpta, 704, 1395.
+subglobosa, 704, 1395, 1426.
+subgranulosa, 806, 1395.
+Diplophos,
+pacificus, 1029.
+Diplophysa,
+köllikeri, 1062.
+Diploria,
+cerebriformis, 241, 1368.
+Diplosoma,
+macdonaldi, 379, 1415.
+Diplosomoides,
+molle, 737, 1415.
+Diplosphæra,
+dictyota, 1038.
+hexagonalis, 1013, 1017, 1019,
+1024, 1028, 1032, 1045, 1053,
+1056, 1061.
+polygonalis, 1095.
+triglochin, 1008.
+Diporaspis,
+nephropora, 958.
+zygopora, 1046.
+Diporula,
+hastigera, 276.
+Dipospyris,
+chelifer, 1022.
+cubus, 880, 1051.
+forcipata, 880, 1006, 1011, 1015,
+1022.
+irregularis, 1016, 1022.
+sigmopodium, 880, 1254.
+Dipsaccus (see Ancilla).
+Discalia,
+medusina, 1095.
+Discina, 220, 495, 772, 848, 964, 1125,
+1438, 1439.
+atlantica, 333, 681, 754, 935, 963,
+1036, 1130, 1287, 1288, 1289,
+1290, 1297, 1299, 1300, 1301,
+1310, 1311, 1313, 1352, 1438.
+stella, 730, 1414.
+Discoarachne, 1429.
+brevipes, 412, 1393.
+Discodermia,
+discifurca, 554, 1364.
+ornata, 1271, 1364.
+panoplia, 743, 1329.
+Discodoris,
+morphæa, 833, 1410.
+Disconalia,
+gastroblasta, 674, 1284.
+pectyllis, 507, 1292.
+Discophora, 1269.
+Discopyle,
+osculata, 1051.
+Discorbina, 304, 1202.
+allomorphinoides, 139, 687.
+araucana, 153, 449, 481.
+bertheloti, 212, 262, 1126.
+biconcava, 687.
+concinna, 1071.
+elegans, 687.
+eximia, 687.
+globularis, 196,199,400,1154,1172.
+opercularis, 687.
+orbicularis, 182, 191, 196, 199,
+630, 631, 640, 687,862.
+parisiensis, 481, 492.
+patelliformis, 139, 687, 1002.
+pileolus, 630.
+rarescens, 134, 687.
+rosacea, 200, 354, 492, 630, 641,
+687, 1002, 1071, 1163.
+rugosa, 124, 354, 631, 687.
+saulcii, 1072.
+tabernacularis, 630, 1003.
+valvulata, 630.
+ventricosa, 687.
+vesicularis, 687, 717.
+Discorbina-continued.
+vilardeboana, 124, 191, 354, 492,
+965.
+Discozonium,
+cyclonium, 1011.
+hexagonium, 1039.
+trigonium, 1060.
+Distaplia,
+vallii, 821, 1415.
+Distephanus,
+aculeata, 1261.
+asteroides, 1052.
+corona, 894.
+crux, 1251.
+diadema, 1104.
+mesophthalmus, 1033, 1047, 1054.
+octonarius, 1032, 1254.
+pentasterias, 967, 1032, 1043,
+1052.
+speculum, 167, 516.
+Distichopora,
+irregularis, 823, 1367.
+Distoma,
+glauci, 1033.
+Distomum, 325, 448, 975, 977, 980, 982,
+1013, 1020, 1202, 1213, 1215,
+1219, 1256, 1263.
+halosauri, 448.
+okeni, 617.
+Distorsio (see Triton).
+Distriactis,
+alterna, 1265.
+liriantha, 1010.
+palmantha, 1206.
+Distympanium,
+distephanus, 1250.
+Disyringa,
+dissimilis, 690, 719, 1364, 1422.
+Dithyrus, 889, 890.
+Ditrupa, 1220.
+Ditrypa,
+arietina, 271, 1337, 1358, 1380.
+Ditylum,
+brightwellii, 931.
+Divaricella (see Lucina).
+Dizonium,
+amphacanthum, 1031.
+circulare, 1061.
+ellipticum, 1040, 1095.
+octacanthum, 1053.
+pleuracanthum, 875.
+stauracanthum, 1217.
+transversum, 1060.
+Dodecas, 1361.
+elongata, 469, 1340.
+Dodecaspis,
+tricinata, 1137.
+trizonia, 611.
+Dolabrifera,
+triangularis, 413, 1401.
+727,

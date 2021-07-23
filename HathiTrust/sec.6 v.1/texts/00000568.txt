@@ -1,0 +1,112 @@
+424
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATION 142.
+>
+99
+Х
+x
+Х
+Х
+Х
+x
+99
+Hapolyhragmium emaciatum, Brady.
+turbinatum, Brady.
+Textularia agglutinans, d'Orbigny.
+aspera, Brady.
+sagittula, Defrance.
+Gaudryina rugosa, d’Orbigny.
+Bulimina aculeata, d'Orbigny.
+buchiana, d'Orbigny.
+inflata, Seguenza.
+marginata, d'Orbigny.
+punctata, d'Orbigny.
+pyrula, d'Orbigny.
+Bolivina robusta, Brady.
+Cassidulina crassa, d'Orbigny.
+lævigata, d'Orbigny.
+Lagena alveolata, Brady, var. substriata, Brady.
+marginata (Walker and Boys).
+sulcata (Walker and Jacob).
+var. interrupta, Williamson.
+Nodosaria (Glandulina) æqualis, Reuss.
+onsobrina, d'Orbigny.
+var. emaciata, Reuss.
+lævigata, d'Orbigny
+obliqua (Linné).
+perversa, Schwager.
+radicula (Linne).
+scalaris (Batsch).
+Frondicularia inæqualis, Costa.
+Marginulina costata, Batsch.
+Vaginulina linearis (Montagu).
+Cristellaria acutauricularis (Fichtel and Moll).
+obtusata, Reuss.
+var. subalata, Brady.
+rotulata (Lamarck).
+Amphicoryne falx (Jones and Parker).
+Polymorphina myristiformis, Williamson.
+Uvigerina angulosa, Williamson.
+canariensis, d'Orbiguy.
+Uvigerina pygmæa, d'Orbigny.
+schwageri, Brady.
+tenuistriata, Reuss.
+Sagrina nodosa, Parker and Jones.
+striata, Schwager.
+x Globigerina æquilateralis, Brady.
+bulloides, d'Orbigny.
+var. triloba, Reuss.
+conglobata, Brady.
+dubia, Egger.
+inflata, d'Orbigny.
+rubra, d'Orbigay
+sacculifera, Brady.
+x Orbulina universa, d'Orbigny.
+x Pullenia obliquiloculata, Parker and Jones.
+x Sphæroidina bulloides, d'Orbigny.
+dehiscens, Parker and Jones.
+Truncatulina haidingerii (d'Orbigny).
+lobatula (Walker and Jacob).
+refulgens (Montfort).
+variabilis, d'Orbigny.
+wuellerstorfi (Schwager).
+Anomalina ariminensis (d'Orbigny).
+coronata, Parker and Jones.
+Rupertia stabilis, Wallich.
+x Pulvinulina canariensis (d'Orbigny).
+elegans (d'Orbigny).
+menardii (d'Orbigny).
+micheliniana (d'Orbigny).
+oblonga (Williamson).
+partschiana (d'Orbigny).
+umbonata, Reuss,
+Rotalia orbicularis, d'Orbigny.
+soldanii, d'Orbigny.
+99
+9
+9
+Х
+Х
+sp. (?).
+Nonionina sp. (1).
+Polystomella macella (Fichtel and Moll).
+Operculina ammonoides (Gronovius).
+DIATOMACEÆ.—The following species of Diatoms were observed by Mr. Comber, who
+received much assistance from Mr. E. Grove in determining the critical species in the
+Southern Ocean deposits :
+Navicula gregoriana, Greville.
+Grammatophora marina, Kutzing.
+exemta, A. Schmidt.
+Coscinodiscus excentricus, Ehrenberg.
+Pleurosigma directum, Grunow.
+curvatulus, Grunow.
+Campyloneis grevillei, Grunow.
+lentiginosus, Janisch.
+Cocconeis scutellum, Ehrenberg.
+nodulifer, Janisch.
+pseudomarginata, Gregory.
+radiatus, Ehrenberg.
+grantiana, Greville.
+var. minor, Rattray.
+9
+9)

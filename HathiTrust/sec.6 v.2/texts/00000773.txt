@@ -1,0 +1,183 @@
+SUMMARY OF RESULTS.
+1491
+Cornutella-continued.
+sethoconus, 1047, 1218.
+spiralis, 1041.
+Corocalyptra,
+agnesæ, 881, 1033.
+elisabethæ, 1042, 1251.
+emmæ, 1054.
+ludovicæ, 1047.
+margarethæ, 922.
+Coronidium,
+acacia, 1254.
+cervicorne, 1051.
+dyostephanus, 880, 1006.
+Coronosphaera,
+calycina, 1038, 1050.
+convolvulus, 1038, 1044, 1250.
+diadema, 878, 1021, 1027,
+1031.
+Coronula,
+diadema, 243, 1385.
+Corticifera, 1450.
+lutea, 240, 1367.
+tuberculosa, 406, 1367.
+Cortina,
+cervina, 1011.
+conifera, 1022.
+dendroides, 1015, 1022, 1027,
+1031, 1040, 1051, 1055, 1060.
+furcata, 1046, 1218.
+Cortinetta,
+cortiniscus, 1061.
+tripodiscus, 1043.
+Cortiniscus,
+dipylaris, 1022.
+tripodiscus, 1031, 1010, 1051,
+1055, 1060.
+tripylaris, 1254.
+Corycæus, 139, 148, 149, 150, 322, 325,
+617, 677, 782, 783, 790, 836,
+852, 853, 869, 870, 871, 1003,
+1009, 1025, 1082.
+limbatus, 1235.
+obtusus, 931, 1207.
+pellucidus, 149, 314, 1121, 1207,
+1237.
+speciosus, 334.
+varius, 545, 575, 585, 660, 675,
+773, 778, 799, 835, 986, 1093,
+1185, 1208, 1226, 1235, 1237,
+1255, 1257, 1258, 1260, 1262,
+1266.
+venustus, 575, 675, 799, 835,
+1255, 1266.
+Corynactis, 864, 1332.
+Corynascidia,
+suhmi, 447, 1125, 1287, 1289,
+1310.
+Corynura,
+barbata, 835.
+gracilis, 778, 835.
+Coryphæna, 157, 852, 853, 870, 885,
+960, 1064, 1079.
+equisetis, 1263.
+hippurus, 1068, 1263.
+Coryphænoides,
+denticulatus, 599, 1417.
+Coscinaspis,
+ceriopora, 845.
+coscinopora, 1231.
+isopora, 858.
+orthopora, 1053.
+peripora, 919.
+polypora, 1257.
+rhacopora, 1062.
+stigmopora, 988.
+Coscinoderma,
+altum, 391, 1362.
+denticulatum, 994, 1362.
+Coscinodiscus, 92, 253, 511, 514, 670,
+673, 734, 760, 797, 873, 882,
+893, 904, 916, 931, 938, 974,
+994, 1013, 1028, 1043, 1119,
+1163, 1181, 1226, 1237, 1263,
+1268.
+africanus, 191, 264, 425, 516, 760,
+812, 889, 892, 938, 1012, 1028,
+1043.
+var. wallichiana, 443, 481,
+493, 516, 517, 712, 1012.
+anguste-lineatus, 135, 220, 278,
+287, 517, 888, 938, 972, 1028.
+antarcticus, 481, 516.
+apiculatus, 198, 425, 812, 931,
+938.
+var, ambigua, 892, 911.
+var. compacta, 516.
+var. woodwardii, 904, 1119.
+apollinis, 812.
+argus, 938, 950, 972, 1028.
+asteromphalus, 220, 278, 287,
+516, 904, 931, 938, 950, 1012.
+var. princeps, 904.
+var. pulchra, 904.
+atlanticus, 197, 278, 403, 481,
+493, 515.
+biangulatus, 1119.
+bipartitus, 904.
+blandus, 287.
+borealis, 220, 938, 950, 974, 1012.
+centralis, 220, 287, 403, 405, 481,
+493, 514, 516, 760, 889, 892,
+904, 972, 974, 1028.
+concavus, 191, 197, 220, 287,
+303, 405, 930, 1012, 1028.
+concinnus, 220, 287, 303, 425,
+493, 516, 760, 889, 904, 931,
+974, 1012, 1043, 1119.
+r. jonesiana, 733, 904, 911,
+938, 950, 1028.
+var. kerguelensis, 481.
+Coscinodiscus-continued.
+convexus, 481, 493, 516, 517,
+760, 938, 950, 974, 1012,
+1028.
+crassus, 135, 220, 733, 950,
+1028.
+curvatulus, 135, 220, 264, 287,
+303, 319, 403, 405, 424, 493,
+733, 812, 889, 931, 938, 974,
+1119.
+var. directa, 287.
+var. elegans, 515.
+var. genuina, 481, 892, 972,
+1028.
+var. maculata, 515.
+var. recta, 443, 733, 889,
+938, 1028, 1043.
+var. subocellata, 287, 481,
+493, 515, 812.
+cycloteres, 515, 517.
+decrescens, 220, 264, 278, 287,
+425, 931, 938, 950, 1028.
+var. polaris, 514, 515.
+var. repleta, 515.
+decussatus, 911.
+denarius, 135, 220, 443, 516, 517,
+888.
+denticulatus, 516.
+dubiosus, 889.
+elegans, 130, 135, 198, 220, 287,
+303, 403, 405, 425, 515, 1012,
+1028.
+elegantulus, 516.
+entoleion, 931.
+excavatus, 950, 1028.
+var. biocellata, 1028.
+var. quadriocellata, 1012.
+excentricus, 135, 191, 197, 220,
+264, 287, 303, 319, 405, 424,
+443, 514, 515, 517, 733, 812,
+888, 892, 904, 930, 938, 950,
+972, 974, 1012, 1028, 1119.
+var. minor, 974.
+var. punctifera, 760, 938,
+1028, 1043.
+var. sublineatus, 481.
+extravagans, 931.
+fasciculatus, 220, 515.
+fimbriato-limbatus, 938, 950.
+fimbriatus, 904, 1028, 1043.
+gazellæ, 733, 889, 892, 938.
+gigas, 733, 904, 1028.
+var. diorama, 892, 911, 938.
+grandis, 515.
+var, sparsa, 515.
+griseus, 135, 1028.
+var. gallopagensis, 515.
+humilis, 1027, 1043.
+imperator,
+an gazellæ, 972.
+var.

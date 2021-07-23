@@ -1,0 +1,183 @@
+1522
+THE VOYAGE OF H.M.S. CHALLENGER.
+Lyonsiella,
+grandis, 387, 1296.
+jeffreysii, 333, 1296.
+papyracea, 509, 1296.
+Lyreidus,
+tridentatus, 560, 638, 1342,
+1359, 1389.
+Lysianax,
+variegatus, 410, 1385.
+Lysiosquilla,
+maculata, 763, 829, 1386.
+Lytocarpus,
+longicornis, 826, 1373.
+racemiferus, 373, 1373.
+secundus, 826, 1373.
+spectabilis, 693, 826, 1373, 1422.
+Macrurus-continued.
+æqualis, 118, 1324.
+affinis, 1200, 1298.
+altipinnis, 919, 935, 1298, 1300,
+1324.
+armatus, 448, 455, 510, 521, 964,
+1036, 1287, 1288, 1289, 1290,
+1298, 1299, 1300, 1301, 1310,
+1313, 1354, 1438.
+asper, 935, 1298.
+australis, 592, 1354.
+carinatus, 442, 1354.
+crassiceps, 616, 621, 1324, 1325.
+denticulatus, 592, 616, 1324,
+1327, 1354.
+fasciatus, 1143, 1155, 1162, 1354,
+1357.
+fernandezianus, 1130, 1310.
+filicauda, 448, 510, 520, 1125,
+1200, 1206, 1280, 1281, 1287,
+1289, 1298, 1299, 1300, 1310.
+holotrachys, 1192, 1324.
+japonicus, 901, 1354.
+lævis, 365, 1354.
+leptolepis, 365, 1354.
+liocephalus, 935, 964, 1287, 1289,
+1298.
+longibarbis, 634, 1354.
+longifilis, 919, 1324.
+macrochir, 901, 1354.
+microlepis, 634, 1354.
+murrayi, 603, 1310.
+nasutus, 901,919,1324,1327,1354.
+parallelus, 609, 616, 621, 901,
+919, 1324, 1325, 1327, 1354,
+1447.
+rudis, 616, 621, 1324, 1325.
+sclerorhynchus, 120, 1310.
+serrulatus, 609, 1324.
+villosus, 842, 901, 1324, 1327,
+1354.
+Mactra,
+achatina, 860, 1396.
+decora, 757, 1396.
+incarnata, 820, 1396.
+incerta, 860, 1396.
+isabelleana, 1194, 1396.
+jacksoniensis, 562, 1396.
+pusilla, 562, 1396.
+(Mactrinula),
+depressa, 562, 1396.
+plicataria, 702, 1396.
+Mactrinula (sce Mactra).
+Madracis,
+asperula, 200, 201, 306, 343,
+1368, 1422.
+decactis, 240, 1369.
+Madrepora,
+aculeus, 825, 1369.
+angulata, 825, 1369.
+Macduffia, 1361.
+bonhardi, 162, 1338.
+Macellicephala (sec Polynoë).
+Macgillivraya, 586, 676, 783, 853, 869,
+871.
+spinigera, 775.
+Machairopus,
+idyoides, 482.
+Macoma (see Tellina).
+Macrocheira, 902.
+kampferi, 900, 902, 1343.
+Macrocoeloma,
+concava, 344, 376, 1391, 1425.
+septemspinosa, 376, 1391.
+trispinosa, 244, 376,
+1425.
+Macrocypris, 742, 1320.
+canariensis, 132, 1320.
+decora, 173, 358, 466, 859, 1339,
+1356, 1359, 1384.
+maculata, 409, 436, 466, 538,
+763, 1384, 1424.
+orientalis, 696, 852, 1384, 1424.
+setigera, 558, 1384.
+similis, 350, 509, 1142, 1242,
+1295, 1301, 1320, 1326, 1339,
+1356.
+tenuicauda, 173,
+1339,
+1356.
+tumida, 466, 597, 1384, 1424.
+Macrocystis, 482.
+Macrodon (sce Arca).
+Macrophthalmus,
+podophthalmus, 701, 724, 1391,
+1425.
+serratus, 909, 1391.
+Macrostylis,
+latifrons, 963, 1286.
+Macruronus,
+novæ-zelandiæ, 1153, 1354.
+Macrurus, 81, 365, 387, 521, 621, 902,
+919, 1319.
+Madrepora-continued.
+appressa, 762, 1369.
+aspera, 825, 1369.
+austera, 825, 1369.
+canalis, 825, 1369.
+capillaris, 756, 1369.
+cerealis, 761, 1369.
+cervicornis, 168, 1369.
+conferta, 645, 1369.
+confraga, 644, 1369.
+cuneata, 644, 1369.
+cytherea, 1074, 1369.
+danæ, 1073, 1369.
+diffusa, 756, 1370.
+echinata, 644, 1370.
+effusa, 762, 1370.
+gracilis, 762, 1370.
+hebes, 644, 1370.
+hyacinthus, 645, 1370
+laxa, 644, 1370.
+manni, 825, 1370.
+minima, 667, 1370.
+millepora, 667, 1370
+mirabilis, 756, 1370.
+nasuta, 1074, 1370.
+nobilis, 644, 1370.
+palmata, 168, 1370.
+parilis, 825, 1074, 1370, 1422.
+paxilligera, 1074, 1370.
+plantaginea, 1074, 1370.
+pocillifera, 623, 644, 667, 1370,
+1422.
+prolifera, 168, 1370.
+prostrata, 825, 1370.
+pustulosa, 644, 1370.
+ramiculosa, 644, 1370.
+retusa, 1074, 1370.
+robusta, 644, 1370.
+rosacea, 825, 1370, 1422.
+rosaria, 644, 1370.
+scabrosa, 644, 1370.
+secale, 769, 1370.
+securis, 756, 825, 1370, 1422.
+seriata, 644, 1370.
+speciosa, 1074, 1370.
+surculosa, 1074, 1370.
+tenuis, 825, 1370.
+tubigera, 756, 1370.
+vastula, 645, 1370.
+virgata, 1074, 1370.
+Maandrina,
+labyrinthica, 241, 1370.
+sinuosissima, 241, 1370.
+strigosa, 241, 1370.
+Mæra,
+bruzelii, 421, 1340.
+rubromaculata, 421, 559, 1340,
+1359, 1385.
+Magasella,
+cumingi, 573, 1414.
+1391,
+358,

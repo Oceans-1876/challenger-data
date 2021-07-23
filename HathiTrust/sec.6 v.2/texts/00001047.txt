@@ -1,0 +1,65 @@
+HPERATURE ***
+AT DEPTH
+OF 600
+FATHOMS - 3900
+00
+
+40
+30
+20
+10
+0
+10
+20
+30
+40
+50
+80
+70
+80
+90
+pl
+Arctic Circle
+38
+39
+GO
+439
+39°
+42
+38
+8
+374
+363
+39°
+38
+37
+36
+EXPLANATION OF COLOURING
+Contours showing
+Height of Land"
+6000 Feet
+3000
+SEA LEVEL
+Loo Fathoms
+500
+Contours showing
+Depth of Seå
+1000
+1500
+40
+30
+20
+10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+er shown thus
+Isothermals below Average shown in Blue thus

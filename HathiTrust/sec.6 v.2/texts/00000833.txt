@@ -1,0 +1,192 @@
+SUMMARY OF RESULTS.
+1551
+22, 1193.1257.
+- 1378
+III, 13
+25.3
+.
+.
+115, IN
+*
+.
+3, 14.1.
+Rhizostoma, 735, 737, 960, 971.
+Rhizotrochus,
+fragilis, 419, 667, 1333, 1355.
+Rhodalia, 1327.
+miranda, 1189, 1316.
+Rhodarea,
+calicnlaris, 826, 1372.
+tenuidens, 762, 826, 1372, 1422.
+Rhodopsammia,
+parallela, 719, 825, 1372, 1422.
+Rhodosphæra,
+hexagonia, 1014.
+melitomma, 1031.
+pentaphylla, 1021.
+Rhoikoneis,
+bolleana, 442.
+Rhoikosigma,
+arcticum, 442.
+reichardtiana, 287.
+reichardtii, 904.
+Rhomaleocaris,
+hamulus, 682.
+Rhomboidichthys, 659, 1420.
+angustifrons, 732, 1420.
+cornutus, 364, 1354.
+pantherinus, 1001, 1420.
+pavo, 834, 1420.
+podas, 314, 1420.
+spilurus, 732, 834, 1420, 1428.
+Rhopalastrum,
+clavatum, 1218.
+irregulare, 513.
+malleus, 167, 879, 1039, 1206.
+martellum, 1268.
+pacificum, 1039, 1045.
+triceros, 1061.
+Rhopalatractus,
+fenestratus, 1016.
+foveolatus, 1012.
+fusiformis, 881, 1006
+pentacanthus, 1023.
+Rhopalocanium,
+cortinium, 1042, 1250.
+delphicum, 1023.
+lasanum, 881, 1006, 1012 1016,
+1023.
+ornatum, 881.
+Rhopalodictyum,
+abyssorum, 167 879
+bifidum, 939.
+curvatum, 167, 1045.
+elongatum, 1061.
+truncatum, 777.
+zittelii, 879.
+Rhynchonella,
+nigricans,
+var. pixydata, 486, 1352.
+Rhypticus,
+arenatus, 379, 1420.
+saponaceus, 313, 1420.
+Ringicula, 712, 1406.
+assularum, 712, 1405.
+doliaris, 570, 1406, 1449.
+peracuta, 179, 238, 363, 1309,
+1313, 1349, 1357.
+pusilla, 712, 1406, 1427.
+Rissoa, 179, 345, 542, 570, 628, 684,
+712, 729, 999, 1076, 1349,
+1406.
+amblia, 293 1309.
+costulata, 129, 1406.
+fayalensis 275, 1349.
+microstoma, 178, 1349.
+pernambucensis, 362, 1349.
+pyrrhias, 178, 1319.
+similis, 129, 1406.
+xanthias, 178, 362, 1349.
+(Alvania),
+calathus, 275, 1349.
+canariensis, 129, 1406.
+cancellata, 275, 1349.
+costata, 129, 1406.
+deliciosa, 293, 362, 1309, 1313,
+1349.
+didyma, 178, 1349.
+hispidula, 275, 1349.
+leacocki, 129, 1406.
+lusciniæ, 396, 1349.
+tarsodes, 275, 1343.
+trajectûs, 711, 729, 1406, 1427.
+(Ceratia),
+glaphyra, 396, 1349.
+macra, 396, 1349.
+pachia, 362, 1349.
+transenna, 439, 1349.
+(Cingula),
+alvearium, 178, 1349.
+glabrata, 129, 1406.
+rustica, 362, 1349.
+scopulorum, 999, 1406.
+(Onoba),
+aëdonis, 396, 1349.
+arenaria, 396, 1349, 1449.
+brachia, 178, 1349.
+fenestrata, 413, 1406.
+mercurialis, 711, 1406.
+striata, 129, 1406.
+watsoni, 129, 1406.
+(Scrobs),
+badia, 570, 1406.
+scrobiculator, 570, 1406.
+(Setia),
+albugo, 130, 1406.
+australis, 474, 1406.
+callosa, 130, 1406.
+edwardiensis, 439, 1349.
+marionensis, 439, 1349.
+philomelæ, 396, 1349.
+principis, 439, 474, 1349, 1359,
+1406.
+Rissoa (Setia)—continued.
+quisquiliarum, 275, 1349.
+sinapi, 474, 1406.
+tenuisculpta, 178, 1243, 1349,
+1357.
+triangularis, 1243, 1349.
+Rissona, 179, 712, 1349, 1406.
+chesnelii, 179, 1349.
+cincta, 570, 1406.
+dubiosa, 362, 1349.
+ephanilla, 999, 1406.
+honoluluensis, 999, 1406.
+mercurialis, 712, 1406.
+miranda, 729, 1406.
+reticulata, 712, 1406, 1427.
+scalariformis, 999, 1406.
+transenna, 656, 1406.
+triangularis, 712, 1406, 1427.
+triticea, 656, 1406.
+Rizzolia, 1452.
+australis, 572, 1410.
+Robertianella (see Polynoë).
+Roperia,
+tessellata, 938, 1028, 1043.
+Rossella, 479, 1432, 1451.
+antarctica, 432, 461, 483, 1180,
+1315, 1325, 1327, 1330, 1355,
+1357, 1365.
+Rossia, 1451.
+patagonica, 1170, 1410.
+sublevis, 1170, 1410, 1449.
+tenera, 227, 1410.
+Rostellaria, 1225.
+Rotalia, 212, 424, 427, 576, 661, 735,
+778.
+beccarii, 717, 986, 1003, 1067,
+1092, 1154, 1181.
+broeckhiana, 134, 139, 153, 1201.
+calcar, 134, 216, 295, 717.
+clathrata, 610, 1154.
+orbicularis, 115, 124, 139, 200,
+262, 286, 355, 424, 427, 529,
+582, 605, 858, 876, 903,
+1067, 1072, 1112, 1132, 1217,
+1226.
+soldanii, 134, 139, 145, 153, 183,
+191, 197, 200, 212, 216, 262,
+286, 295, 319, 342, 424, 427,
+449, 498, 512, 522, 587, 589,
+605, 641, 671, 843, 858, 876,
+937, 965, 1026, 1037, 1072,
+1078, 1092, 1112, 1132, 1136,
+1201, 1217, 1226, 1231, 1254.
+venusta, 717.
+Rotella, 1268, 275, 1309, 1349, 1359,
+1406.
+Rupertia, 1202.
+crassitesta, 687.
+stabilis, 115, 124, 197, 286, 295,
+424, 427, 1132.

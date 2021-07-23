@@ -1,0 +1,88 @@
+SUMMARY OF RESULTS.
+1451
+Placostegas.
+Staurocephalus.
+Terebella.
+MACRURA:
+Brachycarpus, n.g.
+Hepomadus, n.g.
+Pandalus.
+CEPHALOPODA :
+Rossia.
+Taonius
+OSTRACODA :
+Paradoxostoma.
+ANOMURA:
+Anapagurus.
+*Cryptodromia.
+Lithodes.
+AMPHIPODA :
+Amaryllis.
+Anonyx.
+Euthemisto.
+Halirages.
+Pardalisca.
+Pleustes.
+Rhachotropis.
+PolyzOA :
+Ætea.
+*Canda.
+Cribrilina.
+Flustramorpha
+*Hippothoa.
+Menipea. .
+Micropora.
+BRACHYURA:
+* Achæus.
+PYCNOGONIDA :
+* Colossendeis.
+ISOPODA :
+LAMELLIBRANCHIATA :
+Bathytanais, n.g.
+Ischnosoma.
+Neotanais.
+Typhlotanais.
+Astarte.
+Modiolaria.
+Sacicava.
+Yoldia.
+TUNICATA :
+* Ascidia.
+Bathyoncus, n.g.
+Boltenia.
+Clavelina.
+Didemnum.
+Hypobythius, n.g.
+Styela.
+FISHES :
+Engraulis.
+Haloporphyrus.
+Latilus.
+Myxine.
+Notacanthus.
+Raja.
+Syngnathus.
+Trachurus.
+CUMACEA:
+Diastylis.
+Leucon.
+GASTEROPODA :
+Buccinum.
+SCHIZOPODA:
+POLYPLACOPHORA :
+Boreomysis.
+Chitom.
+The following 34 genera, represented in the Challenger collections by species taken
+to the south of the tropics, are recorded from other sources to the north of the tropics,
+and, as far as can be gathered from the Challenger Zoological Reports, are not known
+from the intervening tropical zone :-
+MONAXONIDA :
+Iophon.
+TETRACTINELLIDA :
+Astrella.
+Stelletta.
+Stryphnus.
+HEXACTINELLIDA :
+Acanthascus.
+Rhabdocalyptus.
+Rossella.

@@ -1,0 +1,182 @@
+1564
+THE VOYAGE OF H.M.S. CHALLENGER.
+Technitella, 964.
+legumen, 165, 480, 581, 862, 936,
+1066.
+melo, 610, 936.
+raphanus, 133.
+Tedania, 1450.
+actiniiformis, 1123, 1284.
+commixta, 536, 1364.
+digitata, 553, 1364, 1422, 1446.
+var. bermudensis, 239, 1364.
+var, fibrosa, 239, 553, 1364.
+infundibuliformis, 1165, 1364.
+massa, 577, 1168, 1187, 1315,
+1325, 1327, 1329, 1357, 1364.
+tenuicapitata, 1149, 1159, 1172,
+1329, 1355, 1357, 1364.
+Teleoteuthis,
+caribbæa, 188, 889, 892.
+Telesto,
+rigida, 263, 1292.
+(Carijoa),
+arborea, 719, 1367.
+rupicola, 373, 1367.
+trichostemma, 691, 1367.
+Tellimya,
+subacuminata, 579, 1345.
+Tellina, 118, 264.
+compacta, 702, 1397.
+diluta, 683, 1345.
+murrayi, 683, 1345.
+(Angulus),
+lux, 702, 726, 1397, 1426.
+natalensis, 412, 1397.
+rhomboides, 649, 702, 1397, 1426.
+valtonis, 649, 1397.
+vernalis, 764, 1397.
+(Arcopagia),
+elegantissima, 702, 1397.
+pretiosa, 649, 1397.
+(Macoma),
+arafurensis, 726, 1398.
+consociata, 764, 1398.
+uruguayensis, 1194, 1398.
+(Tellinella),
+charlottæ, 597, 1398.
+huttoni, 598, 1398.
+verrucosa, 626, 1398.
+?),
+casta, 702, 1398.
+donacina, 272, 1345.
+fijiensis, 649, 1398.
+languida, 703, 1398.
+semen, 649, 703, 1398, 1426.
+semitorta, 563, 1398.
+tenuilamellata, 726, 1398.
+tenuilirata, 563, 649, 702, 1398.
+Tellinella (see Tellina).
+Temnopleurus,
+hardwicki, 721, 747, 906, 923,
+1337, 1358, 1379, 1423.
+Temnopleurus-continued.
+reynaudi, 591, 747,864,1337,1355.
+toreumaticus, 785, 1379.
+Temora,
+armata, 1261.
+dubia, 314, 551, 575, 660, 675,
+734, 778, 799, 835, 1208, 1255,
+1257, 1258, 1259, 1261.
+Tenagodus (see Siliquaria).
+Tentorium, 1450.
+semisuberites, 223, 228, 392,
+1302, 1313, 1361, 1422, 1446.
+Terebella, 137, 428, 479, 492, 845, 1451.
+crassicornis, 243, 1382.
+grubei, 548, 1338.
+kermadecensis, 619, 1319.
+(Lanice), 279, 1319.
+tlabellum, 435, 548, 1338, 1356,
+1358, 1382.
+seticornis, 1196, 1382.
+Terebellides, 455, 608, 1319.
+eh lersi, 637, 1338.
+stræmi, 219, 455, 1305,1313,1446.
+var. kerguelensis, 219, 466,
+1338.
+Terebellum,
+punctatum, 627, 807, 1407,
+1427.
+Terebra, 627, 708, 821, 1407.
+albomarginata, 653, 1407.
+bathyraphe, 909, 1407.
+conspersa, 653, 1407.
+maculata, 654, 1407.
+muscaria, 654, 1407.
+polygyrata, 728, 1407.
+straminea, 654, 1407.
+triseriata, 728, 1407.
+(Myurella),
+amæna, 654, 1407.
+babylonia, 654, 1407.
+bicolor, 568, 1407.
+cælata, 786, 1407.
+mamillata, 789, 1349.
+turrita, 708, 1407.
+undulata, 654, 820, 1407, 1427.
+Terebraria, 514, 515, 517.
+Terebratella,
+dorsata, 476, 1414.
+frielii, 219, 781, 1310, 1313, 1352.
+Terebratula, 85, 152, 459, 526, 681,
+1162, 1297.
+caput-serpentis, 423.
+cubensis, 1243, 1352.
+dalli, 935, 1297.
+moseleyi, 459, 1352.
+uva, 486, 550, 1192, 1323, 1326,
+1352, 1357.
+vitrea, 422, 1313, 1357.
+var. minor, 179, 268, 1310,
+1353.
+Terebratula-continued.
+wyvillii, 528, 681, 956, 1125,
+1135, 1182, 1280, 1281, 1287,
+1289, 1310, 1311.
+Terebratulina, 781, 1414.
+cailleti, 364, 1243, 1353.
+cancellata, 544, 1414.
+caput-serpentis, 1243, 157, 1360,
+1427, 1447.
+var. septentrionalis, 222, 227,
+422, 441, 1353, 1414.
+dalli, 935, 1297.
+murrayi, 621, 1323.
+wyvillii, 179, 1353.
+Teredo, 680, 681, 1308.
+Tergipes, 189.
+Tessaradoma,
+boreale, 152, 164, 1297, 1301,
+1352.
+Tessaraspis,
+arachnoides, 1251.
+concreta, 1060.
+hexagonalis, 982.
+irregularis, 1033.
+micropora, 882.
+pentagonalis, 1028.
+quadrata, 1218.
+quadriforis, 1266.
+rotunda, 1268.
+tetragonalis, 1095.
+Tessarastrum,
+brunonis, 1089.
+democriti, 1039.
+spinoza, 1015, 1221.
+Tessarospyris,
+clathrobursa, 1046, 1218.
+nuciformis, 1250.
+Tesserantha, 1290.
+connectens, 1123, 1284.
+Tethya, 122.
+ingalli, 536, 554, 1365, 1122.
+japonica, 804, 1365.
+seychellensis, 690, 822, 1365,
+1422.
+Tetilla, 921, 1315.
+coronida, 483, 1329.
+grandis, 461, 483, 1329, 1355,
+1357, 1365.
+var. alba, 461, 1329.
+leptoderma, 1188, 1315.
+merguiensis, 689, 1365.
+pediſera, 766, 1315.
+sandalina, 281, 1302.
+Tetrabothrium,
+torulosum, 954.
+Tetrabrachium, 1429.
+ocellatum, 731, 1421.
+Tetraclita, 829.
+cærulescens, 829, 1385.
+rosea, 559, 1385.

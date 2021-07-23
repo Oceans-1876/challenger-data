@@ -1,0 +1,54 @@
+MEAN TEMPERATURE OF
+TH
+100
+80
+90
+70
+
+120
+110
+130
+150
+140
+160
+170
+180
+150
+160
+170
+140
+37
+Tropic of Cancer
+39°
+40°
+Equator
+40-
+.
+Tropic of Capricorn
+240°
+40°
+39
+38
+Antarctic Circle
+3
+ISOTHERMAL LINES
+SHOWING THE MEAN TEMPERATURE (FAHR)
+OF THE OCEAN AT
+DEPTH OF 600 FATHOMS
+80
+90
+no
+100
+120
+230
+140
+150
+160
+180
+170
+0
+140
+160
+170
+150
+isothermuils above Average shown in Red thus

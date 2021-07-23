@@ -1,0 +1,183 @@
+SUMMARY OF RESULTS.
+1565
+Tetrahedrina,
+pyriformis, 881, 1011
+Tetraplagia,
+geometrica, 1017.
+phenaxonia, 1218
+Tetraplecta,
+pinigera, 1046.
+quadricornis, 1015.
+tetrahedra, 1051.
+Tetrapyle,
+cardiopyle, 1254.
+circopyle, 1022.
+circularis, 1006.
+cruciata, 1213.
+dodecaceros, 1040.
+nephropyle, 1040.
+pleuracantha, 875.
+pluteus, 1255, 1257, 1261, 1266.
+quadricornis, 1032, 1046, 1053,
+1057, 1061.
+quadrigata, 1032.
+quadriloba, 167.
+tetracantha, 1265.
+transversa, 1099.
+turrita, 1060.
+Tetrapylonium,
+armatum, 1015.
+octacanthum, 1040.
+pantellipticum, 1060.
+quadrangulare, 1217.
+Tetrarhynchus, 326.
+Tetraroge,
+longispinis, 786, 1421, 1428.
+var. nuda, 927, 1421.
+Tetraspora,
+poucheti, 499.
+Tetraspyris,
+calcarata, 1018.
+cubica, 1011.
+scoparia, 1024.
+stephanium, 1051.
+tetracorethra, 1033.
+Tetrastemma,
+agricola, 242, 1380.
+fuscum, 254.
+Tetrathyrus,
+arafuræ, 734.
+forcipatus, 1263.
+monceuri, 545, 575.
+Tetrodon, 160.
+honckeni, 415, 1421.
+immaculatus, 660, 787, 1421,
+1428.
+nigropunctatus, 732, 1421.
+oblongus, 929, 1421.
+pardalis, 929, 1421.
+patoca, 787, 1421.
+rubripes, 929, 1421.
+Teuthis,
+concatenata, 861, 1421.
+Teuthis-continued.
+hexagonata, 659, 1421.
+margaritifera, 861, 1421.
+marmorata, 659, 1421.
+vermiculata, 861, 1421.
+Textularia, 79, 196, 400, 631, 717, 862,
+948, 1131.
+agglutinans, 139, 166, 181, 190,
+196, 198, 211, 285, 294, 400,
+424, 581, 587, 640, 671, 685,
+717, 937, 949, 965, 979, 1037,
+1067, 1071, 1092, 1131, 1230,
+1253.
+var. porrecta, 427, 581, 630,
+685, 717, 1247.
+aspera, 133, 166, 181, 354, 424,
+581, 610, 965, 1111, 1154,
+1225.
+barrettii, 181.
+concava, 166, 181, 196, 261, 342,
+529, 604, 630, 685, 1131, 1154,
+1216.
+conica, 166, 196, 198, 581, 630,
+685, 717, 862, 1071.
+crispata, 685.
+folium, 631, 685, 1002.
+gramen, 133, 166, 181, 354, 581,
+630, 640, 685, 717, 903, 919,
+1002, 1154.
+inconspicua, 903.
+jugosa, 685.
+luculenta, 134, 166, 181, 196,
+354.
+quadrilatera, 134, 285, 294, 354,
+581, 604, 610, 631, 663, 903,
+937, 1071, 1131.
+rugosa, 630, 862.
+sagittula, 424, 427, 610, 685,
+857, 1225.
+var. fistulosa, 196, 198, 631,
+640, 685.
+siphonifera, 630, 862, 1002.
+transversaria, 685.
+trochus, 181, 196, 631, 640, 685,
+862.
+turris, 166, 181, 196, 198, 427.
+Thalamita,
+admete, 626, 648, 1393, 1425.
+crenata, 701, 1393.
+integra, 997, 1393.
+intermedia, 701, 1393.
+prymna, 626, 770, 831, 1393,
+1425.
+sexlobata, 626, 1393.
+sima, 561, 701, 1393, 1425.
+var. granulata, 626, 1393.
+stimpsoni, 626, 831, 1393, 1425.
+Thalamonyx,
+danæ,
+var. gracilipes, 626, 1393.
+Thalamoporella,
+labiata, 1191.
+steganoporoides, 440.
+Thalassæca,
+glacialoides, 506.
+(Aeipetes),
+antarctica, 506.
+Thalassema, 733.
+baronii, 375, 1380.
+Thalassicolla,
+australis, 621.
+Thalassidroma, 743, 989, 1093, 1110,
+1122, 1128, 1133, 1182, 1183,
+1186, 1203, 1211, 1212, 1241,
+1249, 1252, 1261.
+wilsoni, 204.
+Thalassina,
+scorpionoides, 648, 1388.
+Thalassiosira,
+nordenskioldii, 931.
+Thalassiothrix,
+curvata, 930.
+elongata, 973.
+frauenfeldii, 911, 930.
+var. javanica, 973.
+var. tenella, 733.
+longissima, 733, 973, 1043.
+var. antarctica, 492, 513,
+515, 517.
+nitzschioides, 443, 733, 930.
+var. lanceolata, 515.
+nordenskioldii, 443.
+Thalassocaris,
+danæ, 661.
+stimpsoni, 661, 931.
+Thalassopila,
+cladococcus, 500.
+Thalassoplaneta,
+brevispicula, 1222.
+Thalassosphæra,
+belonium, 1053.
+rhaphidium, 1250.
+Thalassoxanthium,
+cervicorne, 1044, 1061.
+hexactinium, 1206.
+medusinum, 958.
+ovodimare, 1056.
+punctatum, 1061.
+triactinium, 1017.
+triradiatum, 1136.
+Thalenessa,
+digitata, 859, 1382.
+fimbriata, 557, 1382.
+oculata, 538, 624, 1382, 1424.
+Thalessa (see Purpura).
+Thamneus,
+platyrrhynchus, 545.
+Thamnostylus, 1301.
+dinema, 497, 1292.
+Thaumastocheles,
+zaleuca, 163, 1342.

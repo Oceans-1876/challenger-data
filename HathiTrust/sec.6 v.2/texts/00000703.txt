@@ -1,0 +1,106 @@
+7, 654
+SUMMARY OF RESULTS.
+1423
+taken
+er the
+2
+Acanthaster echinites.
+Archaster typicus.
+Asterias cunninghami.
+glomerata.
+meridionalis.
+(Smilasterias) scalprifera.
+(Stolasterias) calamaria.
+Asterina exigua (3).
+Astropecten brasiliensis.
+japonicus (3).
+pectinatus (3)
+polyacanthus (4).
+velitaris.
+Calvasterias stolidota.
+Choriaster granulatus.
+Craspidaster hesperus.
+Cribrella oculata.
+simplex.
+Culcita novæ-guineæ.
+Gnathaster elongatus.
+meridionalis.
+leptoptychaster kerguelenensis.
+Linckia miliaris.
+pacifica, var. diplax.
+Luidia forficifer.
+Pentaceros productus.
+turritus (3)
+Perknaster fuscus.
+Retaster insignis.
+Stellaster incei (4).
+Amphiura depressa.
+studeri.
+Astrophyton exiguum.
+Euryale aspera.
+Gorgonocephalus pourtalesii.
+Ophiacantha imago.
+vivipara (5).
+Ophiactis asperula.
+savignyi.
+Ophiocamax vitrea.
+Ophiocnida pilosa.
+Ophiocoma erinaceus.
+scolopendrina (4).
+Ophioglypha deshayesi.
+hexactis.
+kinbergi (4)
+lymani.
+sinensis.
+Ophiolepis annulosa.
+cincta.
+Ophiomastix caryophyllata.
+Ophionnaza cacaotica,
+Ophiomyza australis (4).
+flaccida.
+vivipara.
+Ophionereis dubia (3).
+reticulata.
+Ophiothrix angulata (3)
+exigua.
+longipeda (6).
+propinqua (3).
+purpurea.
+stelligera (4).
+Ophiura cinerea.
+Astropyga pulvinata (3).
+Brissopsis luzonica.
+lyrifera.
+Cidaris tribuloides (3).
+Clypeaster humilis.
+Diadema setosum (4).
+Dorocidaris papillata.
+Echinocardium australe.
+Echinometra lucunter (5).
+subangularis.
+Echinothrix calamaris (3).
+turcarum.
+Echinus magellanicus (4).
+Eupatagus valenciennesii.
+Goniocidaris canaliculata (4).
+tubaria.
+Hipponoë variegata (3).
+Laganum depressum.
+Lovenia elongata (3).
+Maretia planulata (3).
+Microcyphus zigzag.
+Peronella decagonalis (9).
+peroni.
+Phyllacanthus annulifera (3).
+baculosa.
+Pleurechinus bothyroides.
+Salmacis rarispina (3).
+Schizaster japonicus (3).
+Spatangus purpureus.
+Sphærechinus granularis.
+Strongylocentrotus dröbachiensis.
+Temnopleurus hardwicki.
+Tocopneustes pileolus.
+Chirodota contorta (4).
+Cucumaria crocea (4).
+lævigata.

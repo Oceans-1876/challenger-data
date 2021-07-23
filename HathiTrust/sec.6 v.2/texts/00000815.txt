@@ -1,0 +1,183 @@
+SUMMARY OF RESULTS.
+1533
+Onychoteuthis, 1096, 1260.
+Oocorys,
+sulcata, 333, 1297.
+Oodeopus,
+armatus, 668, 717.
+duplex, 648, 668, 717, 1388,
+1424.
+geminidentatus, 717.
+gibbosus, 315.
+intermedius, 717.
+longispinus, 836.
+serratus, 552, 672, 717, 830.
+Oorhynchus, 1327.
+aucklandiæ, 608, 1321.
+Operculina, 295.
+amnionoides, 115, 424, 903.
+complanata, 631, 687, 863, 1003,
+1072.
+var. granulosa, 630, 640,
+687, 717, 863, 1003.
+Ophelia, 815, 902.
+Ophiacantha, 578, 792, 1148, 1151,
+1304, 1335.
+abnormis, 801, 814, 1317, 1325,
+1335.
+bidentata, 213, 217, 224, 1304,
+1310, 1313, 1376.
+cornuta, 613, 619, 1317, 1324.
+cosmica, 357, 393, 445, 452, 495,
+503, 507, 519, 738, 855, 1117,
+1124, 1285, 1288, 1289, 1290,
+1293, 1298, 1299, 1300, 1304,
+1310, 1312, 1317, 1325, 1335.
+cuspidata, 1242, 1335.
+discoidea, 720, 1376.
+granulosa, 780, 1335.
+imago, 463, 484, 489, 1335, 1355,
+1358, 1376, 1423.
+levispina, 840, 1317.
+longidens, 810, 1376.
+nodosa, 141, 1293.
+pentacrinus, 840, 1317.
+placentigera, 663, 1304.
+rosea, 434, 921, 1151, 1317, 1325,
+1335, 1355, 1446.
+scolopendrica, 918, 1317.
+segesta, 237, 1304.
+sentosa, 1117, 1285.
+serrata, 864, 1335.
+stimulea, 578, 1335.
+troscheli, 193, 1335.
+tuberculosa, 814, 1335.
+valenciennesi, 746, 1335.
+vepratica, 619, 1318.
+vivipara, 434, 463, 484, 489,
+1169, 1173, 1175, 1189, 1318,
+1325, 1327, 1335, 1355, 1358,
+1376, 1423.
+Ophiactis, 607, 720, 738, 1166, 1318,
+1376.
+Ophiactis-continued.
+asperula, 1151, 1160, 1164,
+1175, 1335, 1355, 1358, 1376,
+1423.
+canotia, 266, 1304.
+carnea, 408, 1376.
+cuspidata, 613, 619, 1318, 1324.
+flexuosa, 420, 619, 1318, 1325,
+1335.
+hirta, 577, 1335.
+mülleri, 357, 1335, 1358.
+var. quinqueradia, 357, 374,
+1376.
+nama, 619, 637, 1318, 1324.
+pectorale, 840, 1318.
+plana, 420, 1335.
+poa, 393, 1304, 1312, 1318.
+resiliens, 556, 1376.
+savignyi, 805, 828, 1376, 1423.
+Ophiambix, 1314.
+aculeatus, 663, 1304.
+Ophichthys,
+dicellurus, 1121, 1419.
+maculosus, 629, 1419.
+Ophidiaster,
+attenuatus, 270, 1334.
+cylindricus, 646, 1375.
+helicostichus, 694, 1375.
+ophidianus, 270, 1334.
+tuberifer, 694, 1375.
+Ophidium, 911.
+nurænolepis, 749, 1354.
+Ophiernus, 1450.
+vallincola, 282, 445, 503, 1293,
+1299, 1304, 1310, 1446.
+Ophiohyrsa, 1429.
+rudis, 531, 1377.
+Ophiocamax,
+vitrea, 746, 780, 788, 810, 864,
+1335, 1355, 1358, 1377, 1423.
+Ophiocephalus,
+maculatus, 796, 1419.
+vagus, 834, 1419.
+Ophioceramis,
+clausa, 613, 619, 1318, 1324.
+obstricta, 613, 746, 1318, 1325,
+1335.
+Ophiochta,
+setosa, 646, 1377.
+Ophiochiton,
+fastigatus, 738, 898, 1318, 1325,
+1335.
+lentus, 619, 898, 1318.
+Ophiochondrus,
+stelliger, 1189, 1318.
+Ophiochytra, 1290.
+epigrus, 1066, 1285.
+Ophiocnida,
+pilosa, 537, 819, 1377, 1423.
+scabra, 357, 371, 1335.
+Ophiocoma, 94, 548, 1335.
+echinata, 169, 1377.
+erinaceus, 828, 995, 1377, 1423.
+granulata, 94.
+pica, 769, 1377.
+pumila, 241, 1377.
+scolopendrina, 408, 624, 646,
+828, 1377, 1423.
+Ophioconis,
+antarctica, 434, 484, 1335, 1355.
+pulverulenta, 624, 1335.
+Ophiocopa, 1361.
+spatula, 864, 1335.
+Ophiocreas,
+abyssicola, 947, 1285.
+carnosus, 1151, 1335.
+caudatus, 899, 1335.
+lumbricus, 192.
+edipus, 840, 1239, 1242, 1318,
+1325, 1335, 1355.
+Ophiocten, 1450.
+amitinum, 434, 445, 463, 494,
+507, 1293, 1299, 1300, 1304,
+1310, 1312, 1335, 1355.
+hastatum, 282, 445, 601, 1304,
+1310, 1446.
+pallidum, 503, 527, 1278, 1281,
+1293.
+sericeum, 434, 1377.
+umbraticum, 1205, 1278.
+Ophiocymbium, 1301.
+cavernosum, 507, 1293.
+Ophiodiscus,
+annulatus, 1123, 1128, 1284.
+sulcatus, 1123, 1128, 1303.
+Ophiogeron,
+edentulus, 279, 663, 1304, 1312,
+1318.
+Ophioglypha, 528, 585, 591, 964, 1278,
+1335.
+acervata, 357, 1335.
+æqualis, 855, 1304.
+albata, 921, 1318.
+ambigua, 463, 1377.
+brevispina, 463, 1377.
+bullata, 213, 234, 248, 253, 386,
+1278, 1281, 1293, 1299, 1304,
+1446.
+confragosa, 114, 1189, 1318, 1325,
+1335, 1446.
+convexa, 947, 962, 1246, 1285,
+1288.
+costata, 417, 419, 1335, 1358, 1377.
+deshayesi, 463, 484, 488, 1335,
+1355, 1358, 1377, 1423.
+elevata, 434, 1335.
+falcifera, 172, 1335.
+flagellata, 898, 1335.
+fraterna, 507, 1293.
+hexactis, 434, 462, 1377, 1423.
+i

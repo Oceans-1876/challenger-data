@@ -1,0 +1,183 @@
+SUMMARY OF RESULTS.
+--
+1571
+Tryphosa,
+antennipotens, 485, 1340.
+barbatipes, 467, 1386.
+Tubipora,
+musica, 823, 1367.
+Tubucellaria,
+hirsuta, 550, 1352.
+opuntioides, 339, 1413.
+Tubularia, 117, 670, 797, 870, 1141.
+polycarpa, 428.
+Tubulipora,
+fimbria, 1179, 1413, 1449.
+flabellaris, 1791, 1413, 1449.
+Tugalia (see Emarginula).
+Turbinaria, 719.
+æqualis, 692, 1372.
+brassica, 623, 1372.
+cinerascens, 692, 1372.
+crater, 692, 762, 1372, 1422.
+patula, 692, 1372.
+peltata, 692, 1372.
+stellulata, 645, 1372.
+Turbo, 360, 706, 1350, 1408.
+petholatus, 1075, 1408.
+smaragdus, 598, 651, 1408, 1427.
+transenna, 919, 1322.
+(Bolina),
+lapillus, 651, 1408.
+(Calcar),
+henicus, 634, 1350.
+(Collonia),
+indutus, 176, 1350.
+(Lunella),
+coronatus,
+var. granulatus, 651, 1408.
+(Ninella),
+staminea, 567, 1408.
+(Senectus),
+chrysostomus, 627, 651, 706,
+1408, 1427.
+(Uvanilla),
+tentoriiformis, 567, 1408.
+Turbonilla (sec Odostomia).
+Turritella, 85, 379,532,539,560,569,1408.
+accisa, 542, 1408.
+admirabilis, 861, 1408.
+austrina, 439, 474, 1408, 1427.
+bicingulata, 128, 1408.
+carlottæ, 542, 599, 1408, 1427.
+cingulifera, 655, 709, 729, 765,
+1408, 1427.
+cordismei, 542, 1408.
+deliciosa, 684, 1350.
+exoleta, 362, 1350.
+fascialis, 655, 709, 1408, 1427.
+fastigiata, 729, 1408, 1427.
+incolor, 474, 1408.
+knysnaënsis, 413, 1408.
+lamellosa, 542, 1408.
+philippensis, 533, 1408.
+Turritella-continued.
+rosea, 599, 1408.
+runcinata, 542, 1408.
+sinuata, 569, 1408.
+(Eglisia),
+tricarinata, 821, 1408.
+Turritigera,
+stellata, 422, 1191, 1323, 1326,
+1352.
+Tuscaridium, 1020.
+cygneum, 972.
+Tuscarora, 1098, 1101, 1105, 1185.
+belknapii, 1105.
+medusa, 980.
+porcellana, 1206.
+tetrahedra, 1254.
+tubulosa, 958, 960, 967, 972.
+Tylaspis, 1290.
+anomala, 1088, 1286.
+Tylobranchion, 1429.
+speciosum, 477, 1416.
+Tylopathes,
+crispa, 1157, 1332.
+Tympanidium,
+binoctonum, 880.
+foliosum, 1132.
+spinosum, 1046.
+staurocircum, 1250.
+Tympaniscus,
+bipes, 957.
+corona, 1051.
+dipodiscus, 1022.
+dodecaster, 1250.
+quadrupes, 1040, 1118.
+tripodiscus, 1011.
+Typhis, 334, 600.
+philippensis, 533, 1409.
+Typhlapseudes, 1361.
+nereus, 163, 1340.
+Typhlomangelia (see Pleurotoma).
+Typhlonus, 675, 1290.
+nasus, 674, 772, 1288.
+Typhlotanais, 1451.
+brachyurus, 963, 1286.
+kerguelenensis, 470, 963, 1286,
+1290, 1340, 1447.
+Umbellula- continued.
+magniflora, 444, 451, 1292, 1299,
+1303.
+simplex, 962, 1284.
+thomsoni, 123, 1284.
+Umbrella,
+mediterranea, 312, 1409.
+Umbrina,
+reedi, 1115, 1421.
+Unciola, 604.
+irrorata, 226, 1386.
+Undina,
+darwinii, 551, 575, 585, 675, 717,
+778, 799, 834, 852, 986, 1024,
+1093, 1121, 1137, 1207, 1266.
+vulgaris, 314, 334, 551, 575, 660,
+675, 717, 734, 751, 778, 834,
+852, 986, 1237, 1255, 1257,
+1258, 1259, 1261, 1263.
+Upeneoides, 731, 1421.
+bensasi, 926, 1421.
+vittatus, 658, 1421.
+Upeneus,
+barberinus, 861, 1421.
+indicus, 658, 1421.
+trifasciatus, 1001, 1421.
+Uraleptus, 81.
+Uranoscopus,
+asper, 927, 1421.
+fuscomaculatus, 731, 1421.
+kaianus, 731, 749, 1354, 1360,
+1421.
+Urechinus,
+naresianus, 445, 448, 452, 519,
+1134, 1294, 1298, 1299, 1305,
+1310, 1432.
+Urocampus, 1440.
+celorhynchus, 574, 1421.
+Urolophus,
+kaianus, 749, 1354.
+Uroptychus,
+australis, 579, 615, 620, 753,
+1321, 1325, 1326, 1342, 1356.
+gracilimanus, 579, 1342.
+insignis, 437, 1342.
+nitidus, 163, 173, 1342, 1356.
+parvulus, 1157, 1342.
+politus, 620, 1321.
+spinimarginatus, 615, 841, 1321,
+1325.
+tridentatus, 764, 1389.
+Urothoë,
+lach neëssa, 468, 1340.
+Ute,
+argentea, 547, 1330.
+Utriculus, 179, 268, 571, 656, 712, 999,
+1309, 1350, 1409.
+amphizostus, 712, 1409, 1427.
+complanatus, 729, 1409.
+famelicus, 656, 1409.
+Udonella,
+caligorum, 222.
+Ulophyllia,
+aspera, 755, 1372.
+cellulosa, 755, 1372.
+Umbellula, 367, 448, 528, 1220.
+carpenteri,
+502, 506,
+1298.
+durissima, 917, 1316.
+güntheri, 332, 1292.
+huxleyi, 917, 1316.
+leptocaulis, 674, 1284.
+1292,

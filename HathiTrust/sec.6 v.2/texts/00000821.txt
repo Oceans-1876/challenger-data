@@ -1,0 +1,183 @@
+SUMMARY OF RESULTS.
+1539
+Periphema-continued.
+regina, 502, 1292.
+Periphylla,
+mirabilis, 601, 1303.
+Periplecta,
+cortina, 1046.
+monocyrtis, 1062.
+pteroscenium, 1062
+Periploma,
+compressa, 1194, 1397.
+Peripyramis,
+circumtexta, 1041.
+spongiosa, 1041, 1047, 1060.
+Perisiphonia, 1450.
+filicula, 270, 548, 1333, 1355,
+1445, 1446.
+pectinata, 270, 606, 1316.
+Perispyris,
+bicincta, 880.
+lentellipsis, 1031.
+spongiosa, 1011.
+Perissopus,
+dentatus, 1271, 1384.
+Peristethus,
+liorhynchus, 865, 1354.
+moluccense, 749, 1354.
+murrayi, 754, 1354.
+truncatum, 364, 1354.
+Perizona,
+pterygota, 1015.
+scutella, 879, 10:22.
+Perknaster, 1444.
+densus, 462, 488, 1334.
+fuscus, 462, 488, 1376, 1423.
+Perna,
+samoensis, 832, 998, 1397, 1426.
+vitrea, 998, 1397.
+Peromelissa,
+calva, 1218.
+phalacra, 881.
+psilocrana, 1052.
+Peronella,
+decagonalis, 624, 633, 695, 721,
+747, 762, 805, 819, 864, 1074,
+1336, 1355, 1358, 1378, 1423.
+peroni, 537, 557, 1378, 1423.
+Perrona (see Pleurotoma).
+Perrya,
+pulcherrima, 197, 904.
+Persephona,
+punctata, 377, 1392.
+Persicula (see Marginella).
+Petalidium,
+foliaceum, 446, 521, 1286, 1289,
+1307.
+Petalophthalmus, 387, 455, 456, 773,
+1282.
+armiger, 329, 336, 387, 455, 772,
+773, 1279.
+inermis, 456, 521.
+40
+Petalospyris,
+anthemis, 1041, 1051,
+bellidiastrum, 1011.
+dictyocubus, 1062.
+(inoceras, 1051.
+eupetala, 880.
+floscula, 1016, 1046.
+furcata, 1132.
+lobata, 1226.
+papillata, 1041, 1265.
+tessaromma, 1023.
+triomma, 957.
+Petricola,
+lapicida, 703, 1397, 1426.
+Petrolisthes, 376, 1389.
+annulipes, 699, 1389.
+armatus, 243, 1389.
+serratus, 376, 1389.
+unilobatus, 6:25, 1389.
+validus, 1120, 1166, 1389, 1425.
+violaceus, 1120, 1389.
+Petroscirtes, 659, 1419.
+oualanensis, 659, 1419.
+Petrosia,
+hispida, 460, 1363.
+similis, 419, 483, 1329, 1355,
+1357, 1422.
+var, compacta, 803, 1363.
+var, massa, 1172, 1363.
+truncata, 803, 1363.
+variabilis, 803, 1363.
+Petta,
+assimilis, 453, 1295.
+Phacodiscus,
+clypeus, 879, 1015.
+grandis, 879.
+lentiformis, 1010.
+rotula, 875, 1039, 1045.
+Phacostaurus,
+oceanidum, 1015.
+quadrigatus, 1132.
+Phacostylus,
+amphipyramis, 879.
+amphistylus, 1050.
+caudatus, 957.
+Phänocalpis,
+petalospyris, 1047, 1250.
+Phanoscenium,
+cladopodium, 1051.
+hexapodium, 1041.
+polypodium, 1060.
+Phæocolla,
+primordialis, 1047, 1054, 1057,
+1062.
+Phæodina,
+cannopylea, 1250.
+Plathon, 871, 989.
+Phakellia,
+fabellata, 553, 1363.
+papyracea, 431, 457, 1329, 1355.
+Phakellia-continued.
+ventilabrum, 1182, 1312.
+var. connexiva, 356, 1302,
+1329.
+Phalacrocorax,
+verrucosus, 464.
+Phalaropus,
+hyperboreus, 849, 850.
+Pharyngella,
+gastræa, 1213, 1218, 1221, 1222.
+invaginata, 1250.
+monoceros, 1254.
+Pharyngodictyon, 1301.
+mirabile, 455, 1297.
+Pharyngosphæra,
+stomodæa, 1095.
+Phascolion,
+botulus, 758, 1305.
+lutense, 503, 508, 1294, 1298.
+tubicola, 225, 1380.
+Phascolosoma, 948.
+capense, 408, 1380.
+catharinæ, 1198, 1294.
+flagriferum, 210, 947, 1285, 1288,
+1294.
+prioki, 840, 843, 1319.
+pudicum, 464, 1380.
+Phasianella, 345, 360, 412, 706, 998,
+1348, 1404.
+pulla, 128, 1404.
+Phatnacantha,
+icosaspis, 1057.
+octodon, 1046.
+tessaraspis, 1013.
+Phatnaspis,
+coscinoides, 1207.
+cristata, 982.
+ensiformis, 1255.
+haliommidium, 958.
+lacunaria, 1024.
+loculata, 1268.
+orthopora, 1266.
+polypora, 1218.
+quadratura, 1062.
+Phellia, 1091, 1284, 1303.
+pectinata, 1147, 1332.
+spinifera, 1160, 1188, 1316, 1325,
+1332.
+Phelloderma, 1327.
+radiatum, 1187, 1315.
+Pheronema, 122.
+carpenteri, 367, 129:2.
+giganteum, 744, 1330.
+globosum, 744, 1330.
+Philine, 571, 910, 913, 914, 1404.
+angasi, 571, 1404.
+aperta, 130, 312, 1404, 1427.
+orientalis, 821, 1404.
+quadrata, 275, 284, 1309, 1314,
+1404.

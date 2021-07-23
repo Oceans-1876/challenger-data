@@ -1,0 +1,183 @@
+SUMMARY OF RESULTS.
+1517
+24.1391
+Langerhansia (see Polynoë).
+Lanice (see Terebella).
+Lanuginella,
+pupa, 743, 1330.
+Laonome,
+haeckelii, 308, 1381.
+Laranda,
+longa, 219, 1305.
+Larcarium,
+amphistylum, 1060.
+axostylum, 879.
+chætostylum, 1057.
+hexastylum, 958.
+octostylum, 1019.
+polystylum, 1201.
+staurostylum, 1132.
+Larcidium,
+axacanthum, 1046.
+dissacanthum, 979.
+dodecanthum, 1095.
+hexacanthum, 1017.
+octacanthum, 879, 1006.
+polyacanthum, 957.
+Larcospira,
+lentelliptica, 1011.
+oliva, 513, 1040, 1046.
+quadrangula, 1060.
+sexangula, 1040.
+Larnacalpis,
+macrococcus, 875.
+phacodiscus, 979.
+subsphærica, 1015.
+triaxonia, 1006.
+Larnacantha,
+decacantha, 1268.
+dissacantha, 986.
+dodecantha, 1011.
+drymacantha, 1040.
+hexacantha, 879, 1006.
+prismatica, 1006.
+quadricornis, 1032.
+stauracantha, 1061.
+Larnacidium,
+hexabelonium, 1040.
+poly belonium, 879.
+staurobelonium, 957.
+Larnacilla,
+medullaris, 1011.
+subglobosa, 1015, 1040, 1046.
+typus, 1040.
+Larnacoma,
+hexagonium, 1217.
+lentellipticum, 1201.
+quadruplex, 1226.
+Larnacospongus,
+larnacillifer, 1186.
+tetrapylifer, 1218.
+Larnacostupa,
+dendrophora, 500.
+spinosa, 1046.
+Latilus, 1451.
+argentatus, 928, 1418.
+jugularis, 1121, 1418.
+Latirus, 713, 806, 1402.
+Latirus (sce Fasciolaria).
+Latreillia,
+australiensis, 549, 560, 1342,
+1359, 1389.
+valida, 811, 1389.
+Latreillopsis, 1429.
+bispinosa, 811, 1389.
+Latreutes,
+ensiferus, 188, 1268.
+planus, 830, 1387.
+unidentatus, 830, 1387.
+Latrunculia,
+acerata, 392, 1363.
+apicalis, 460, 1188, 1315, 1327,
+1363.
+bocagei, 460, 1363.
+brevis, 1188, 1315.
+Lauderia,
+annulata, 734, 931.
+moseleyana, 734.
+Leæna, 1450.
+abyssorum, 978, 1279.
+antarctica, 503, 1295.
+langerhansi, 602, 1305.
+neo-zealaniæ, 602, 1305.
+Leanira, 1450.
+areolata, 899, 1338.
+hystricis, 266, 279, 1305, 1312,
+1319.
+japonica, 907, 1381.
+lævis, 596, 1381.
+magellanica, 1145, 1338.
+Leaniricola, 1361.
+rotundata, 899, 1338.
+Leda, 152, 509, 1296.
+confinis, 283, 1308.
+corbuloides, 727, 1395.
+crassa, 533, 1396.
+decipiens, 174, 1344.
+despecta, 174, 1344.
+ensicula, 533, 1396.
+excisa, 260, 1296.
+hebes, 174, 1344.
+inaudax, 174, 1344.
+inopinata, 579, 1344.
+jeffreysi, 283, 1242, 1308, 1313,
+1344.
+lata, 727, 1396.
+messanensis, 132, 272, 1321,
+1326, 1344.
+micans, 650, 1396.
+neæriformis, 683, 1344.
+novæ guineensis, 727, 1396.
+prolata, 985, 1279.
+ramsayi, 579, 1344.
+rectidorsata, 112, 1344.
+Leda-continued.
+semen, 360, 1344.
+solidula, 351, 1321.
+ultima, 144, 1279.
+watsoni, 683, 1344.
+Lefroyella,
+decora, 192, 236, 1303, 1312,
+1330.
+Leiaster,
+speciosus, 646, 1375.
+Leiopus, 1314.
+leptodactylus, 282, 1307.
+Leiopyrga (see Trochus).
+Leiotealia,
+nymphæa, 461, 1332.
+Lentipes,
+concolor, 1001, 1418.
+seminudus, 1001, 1418.
+Leonura,
+terminalis, 1123, 1284.
+Lepadogaster,
+gouani, 314, 1418.
+Lepas, 123, 155, 189, 235, 428, 443,
+580, 617, 681, 849, 870, 951,
+980, 981, 984, 1029, 1064,
+1068, 1263, 1264.
+anatifera, 189, 262, 268, 403, 416,
+956, 1279, 1282, 1385.
+anserifera, 188, 747, 850, 1068,
+1268.
+fascicularis, 966, 970, 975, 977,
+980, 982.
+hillii, 309, 1029, 1385.
+pectinata, 1263.
+Lepeophtheirus,
+suhmi, 308, 1384.
+Lepeta,
+cæca, 175, 1347.
+(Pilidium),
+fulva, 283, 1309.
+Lepidepecreum,
+foraminiferum, 468, 1340.
+Lepidonotus, 780.
+cristatus, 696, 1381.
+gymnonotus, 907, 1381.
+squamatus, 270, 1338.
+wahlbergi, 409, 1381.
+Lepidonotus (see Polynoë).
+Lepidopleurus,
+dallii, 1158, 1350.
+dorsuosus, 439, 1350.
+Lepidopsetta, 1361.
+maculata, 442, 1354.
+Lepidopus, 1440.
+tenuis, 901, 1036, 1287,1290,1354.
+Lepidoradsia,
+australis, 571, 1409.
+Lepidosiren, 1439.
+Lepidotrigla,
+microptera, 928, 1418.

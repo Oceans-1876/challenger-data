@@ -1,0 +1,183 @@
+1550
+THE VOYAGE OF H.M.S. CHALLENGER.
+Reophax-continued.
+guttifera, 261,' 294,: 449, 529,
+604, 936, 964, 1067, 1084,
+1092, 1200.
+membranacea, 294,936,941,1200.
+nodulosa, 147, 1319, 353, 498,
+511, 514, 604, 631, 663, 671,
+857, 876, 936, 941, 949, 957,
+964, 979, 986, 1010, 1126,
+1200, 1247, 1253.
+pilulifera, 181, 211, 285, 319,
+353, 427, 498, 511, 529, 581,
+857, 936, 957, 1158, 1200, 1247.
+| scorpiurus, 139, 145, 166, 181,
+198, 215, 261, 285, 319, 353,
+449, 480, 492, 198, 511, 522,
+529, 581, 604, 630, 631, 685,
+717, 798, 862, 903, 936, 941,
+979, 986, 1002, 1037, 1084,
+1089, 1092, 1153, 1158, 1163,
+1216, 1230.
+spiculifera, 166, 480, 936, 964,
+1067, 1092.
+Retaster,
+gibber, 1160, 1334.
+insignis, 694, 720, 1376, 1423.
+peregrinator, 462, 1334.
+verrucosus, 1168, 1376.
+Retepora, 96, 545, 808.
+apiculata, 628, 1413.
+atlantica, 276, 1352, 1360, 1413.
+cavernosa, 459, 1323.
+columnifera, 730, 1413.
+contortuplicata, 1000, 1413.
+crassa, 534, 543, 1413, 1427.
+delicatula, 730, 1413.
+denticulata, 1000, 1413.
+gigantea, 459, 1323.
+hirsuta, 714, 1413.
+imperati, 276, 313, 1352, 1357.
+jacksoniensis, 572, 1413.
+lata, 414, 1413.
+magellensis, 1191, 1323.
+margaritacea, 664, 669, 1352.
+monilifera,
+form munita, 543.
+form umbonata, 714.
+mucronata, 807, 1413.
+philippinensis, 821, 1413.
+phænicia, 543, 1413.
+producta, 628, 833, 1413, 1427.
+simplex, 833, 861, 1413, 1427.
+tessellata, 414, 422, 1360, 1413.
+var. cæspitosa, 414, 1413.
+var. imperati, 276, 313.
+var. pubens, 414, 1352, 1413.
+tubulata, 714, 1413.
+victoriensis, 534, 543, 1413,
+1427, 1447.
+r. japonica, 543, 910, 1413.
+Reteporella,
+flabellata, 491, 1413.
+myriozoides, 459, 491, 1323.
+Rhabdammina, 211, 511, 604, 964.
+abyssorum, 115, 124, 211, 215,
+261, 285, 294, 319, 423, 427,
+449, 498, 511, 581, 663, 857,
+936, 1200.
+cornuta, 133, 604.
+discreta, 166, 181, 285, 480, 610,
+857, 1126, 1131.
+linearis, 166, 181, 211, 353, 581,
+604, 610, 936, 964, 1200.
+Rhabdocalyptus, 1451.
+ræperi, 1156, 1330.
+Rhabdodictyum,
+delicatum, 236, 1303.
+Rhabdogonium,
+minutum, 134.
+tricarinatum, 166, 182, 196, 295,
+354, 582, 641, 686.
+Rhabdonema,
+adriaticum, 278, 287, 481, 904,
+938.
+arcuatum, 938.
+minutum, 481.
+Rhabdopleura,
+normani, 399, 1352.
+Rhabdosoma, 247, 676, 845, 846, 894,
+1256.
+armatum, 1251.
+brevicaudatum, 1262.
+Rhachotropis, 1451.
+aculeatus, 226, 1386.
+kergueleni, 469, 1386.
+Rhaphidophlus,
+filifer, 803, 1364.
+gracilis, 372, 1364.
+lobatus,
+var. horrida, 406, 1364.
+Rhaphidozoum,
+ascensionis, 1237.
+asperum, 1095.
+australe, 585.
+capense, 425.
+pacificum, 1044.
+pandora, 1239.
+patagonicum, 1136.
+pelagicum, 1019.
+polymorphum, 1108.
+Rhaphitoma (sce Pleurotoma).
+Rhaphoneis, 904.
+gemmifera, 904.
+moorei, 130, 191, 197.
+surirella,
+var. australis, 938.
+Rhina,
+squatina, 1440.
+Rhincalanus,
+cornutus, 777, 799, 834, 1257.
+Rhincalanus-continued.
+gigas, 498,524,799,992, 1193, 1207.
+Rhinobrissus,
+hemiasteroides, 1074, 1378.
+Rhipidaster, 1429.
+vannipes, 720, 1376.
+Rhizammina, 640, 964, 1037.
+algæformis, 139, 152, 166, 261,
+285, 423, 429, 449, 511, 522,
+529, 640, 758, 845, 936, 956,
+964, 1036, 1066, 1111, 1126,
+1131, 1200, 1230, 1253.
+indivisa, 166, 423, 640.
+Rhizochalina,
+fistulosa, 239, 265, 718, 1302,
+1313, 1364, 1422.
+pedunculata, 666, 1364.
+putridosa, 371, 536, 553, 1384,
+1422.
+singaporensis, 391, 1329.
+Rhizocrinus, 365, 399, 1200.
+lofotensis, 171, 172, 356, 1198,
+1292, 1300, 1317, 1325, 1334.
+rawsoni, 279, 1317.
+Rhizophysa, 150.
+filiformis, 139.
+Rhizoplegma,
+lychnosphæra, 1085.
+polyacanthum, 1061.
+radicatum, 1045.
+spirale, 1013.
+trigonacantha, 1265.
+Rhizosolevia,514, 734,853, 863, 939, 953,
+982.
+alata, 931.
+arafurensis, 734
+calcar-avis, 734.
+cochlea, 734.
+furcata, 515.
+hastata, 481.
+imbricata, 734.
+indica, 517, 734.
+inermis, 515, 517.
+robusta, 734.
+setigera, 514, 515, 517, 931.
+shrubsolei, 931.
+stolterfothii, 734.
+striata, 734.
+styliformis, 514, 515, 517, 734,
+1028, 1043.
+var. polydactyla, 734.
+temperei, 734.
+Rhizosphæra,
+antarctica, 512, 516.
+leptomita, 1255, 1257, 1261,
+1265, 1267.
+serrata, 1032, 1045, 1053, 1056,
+1061.
+trigonacantha, 512, 516, 1038,
+1045.
+var.

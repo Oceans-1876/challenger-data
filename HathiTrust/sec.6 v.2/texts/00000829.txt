@@ -1,0 +1,184 @@
+SUMMARY OF RESULTS.
+1547
+1.
+Psammosphæra,
+fusca, 115, 124, 139, 181, 211,
+215, 261, 285, 353, 423, 426,
+449, 498, 522, 529, 581, 610,
+631, 876, 936, 1089, 1091, 1111,
+1200, 1216.
+Psenes,
+anomalus, 927, 1420.
+arafurensis, 741.
+cyanophrys, 160, 188, 681, 838,
+843, 850, 863, 869, 895.
+Psettus,
+argenteus, 658, 1420.
+Pseudarchaster, 1450.
+discus, 1147, 1334.
+intermedius, 224, 1376.
+tessellatus, 407, 1376.
+Pseudauliscus,
+peruvianus, 303.
+Pseudoboletia,
+indiana, 828, 1378.
+Pseudocubus,
+hexapylus, 1051.
+obeliscus, 1015.
+oetostylus, 1040.
+Pseudocythere,
+caudata, 436, 467, 1199, 1295,
+1301, 1339, 1356, 1443, 1448.
+fuogiensis, 1161, 1339.
+Pseudodromia,
+latens, 410, 1389.
+Pseudograpsus,
+albus, 649, 1393.
+Pseudomicippa,
+varians, 700, 1393.
+Pseudomma, 1452.
+australe, 532, 1387.
+sarsii, 471, 497, 1296, 1301, 1341.
+Pseudomurex (see Murex).
+Pseudophycis,
+bacchus,551,599,1354,1360,1420.
+Pseudoplexaura,
+crassa, 240, 1366.
+Pseudorhombus,
+boops, 595, 1354.
+cinnamomeus, 796, 1420.
+hectori, 595, 1354.
+ocellatus, 865, 1354.
+olivaceus, 928, 1420.
+pentophthalmus, 928, 1420.
+russelli, 731, 787, 1420, 1428.
+Pseudoscarus,
+macrorhinus, 659, 1420.
+nuchipunctatus, 659, 796, 1420,
+1128.
+Pseudosquilla,
+ciliata, 169, 996, 1387, 1424.
+Pseudostichopus,
+mollis, 435, 1155, 1160, 1337,
+1355, 1358, 1379.
+Pseudostichopus-continued.
+villosus, 249, 445, 453, 503, 508,
+847, 955, 1110, 1117, 1124,
+1134, 1278, 1280, 1281, 1285,
+1288, 1289, 1294, 1298, 1299,
+1305.
+var. violaceus, 503, 1291.
+Pseudothalestris,
+imbricata, 482.
+Pseudozius,
+bouvieri,
+var, mellissii, 1240, 1393.
+Psilaster,
+acuminatus, 407, 577, 593, 1334,
+1355, 1358, 1376.
+cassiope, 306, 1376.
+gracilis, 934, 1293.
+patagiatus, 306, 1376.
+Poilomelissa,
+calvata, 880, 1006, 1011, 1016,
+1023, 1027, 1031, 1041, 1051,
+1056, 1060.
+galeata, 777, 782, 793, 798, 813,
+838, 843, 845, 850, 858, 863,
+869, 871. 876, 882.
+phalacra, 957.
+sphærocephala, 1051,
+Psolus, 1444, 1450.
+antarcticus, 1151, 1189, 1318,
+1326, 1337, 1443, 1444.
+complanatus, 1444.
+disciformis, 1160, 1337.
+ephippifer, 435, 464, 484, 489,
+1337, 1355, 1358, 1379, 1424,
+1443, 1444.
+fabricii, 1443, 1444,
+incertus, 463, 484, 489, 1337,
+1358, 1379, 1424.
+murrayi, 1189, 1318.
+operculatus, 225, 1189, 1318,
+1327, 1379, 1444, 1446.
+squamatus, 1148, 1151, 1160,
+1337, 1356, 1443, 1444, 1448.
+Psycheotrephes, 1282.
+exigua, 1059, 1278.
+Psychropotes,
+longicauda, 503, 508, 1117, 1285,
+1288, 1294, 1298.
+fusco-purpurea, 508,
+1294.
+var. monstrosa, 508, 1294.
+loveni, 445, 1305.
+semperiana, 323, 386, 1278, 1281,
+1294.
+Psygmobranchus, 423.
+Pteraster, 1450.
+affinis, 462, 1376.
+militaris, 224, 1376.
+rugatus, 484, 1334.
+semireticulatus, 433, 1376.
+Ptei aster-continued.
+stellifer, 1160, 1334.
+Pterocanium,
+contiguum, 1042.
+eucolpum, 957.
+gravidum, 167, 881, 1218.
+orcinum, 1006, 1012, 1016, 1023,
+1027, 1032, 1042, 1052, 1056,
+1060.
+proserpinæ, 1042, 1047.
+pyramis, 1016, 1042.
+virgineum, 1042.
+Pterocodon,
+favosus, 881, 1052.
+ornatus, 1012.
+Pterocorys,
+aquila, 1042.
+campanula, 1018, 1020, 1024,
+1029, 1033, 1047, 1054, 1057,
+1062.
+carinata, 1047.
+columba, 939, 1042.
+hirundo, 1052.
+macroptera, 1042, 1226.
+pipetta, 1042, 1250.
+prismatica, 1095.
+rhinoceros, 1033, 1047, 1054,
+1057, 1062.
+tricornis, 958.
+tubulosa, 1012.
+Pteroeides,
+breviradiatum, 923, 1367.
+esperi, 818, 1367.
+Pteroidonus, 1327.
+quinquarius, 919, 1324.
+Pterois,
+lunulata, 731, 927, 1420, 1428.
+volitans, 731.
+zebra, 658, 1420.
+Pteronotus (see Murex).
+Pteropathes, 1429.
+fragilis, 338, 1367.
+Pteropilium,
+clathrocanium, 1042.
+eques, 1060.
+hoplites, 1052.
+pyramis, 1012, 1047.
+stratiotes, 1047.
+Pteroscenium,
+arcadophorum, 1011, 1041, 1047.
+arcuatum, 1041.
+macropodium, 1051.
+pinnatum, 1047, 1060.
+spinulosum, 880, 1023.
+tripocolpum, 1016.
+Pterotrachea, 121, 142, 153, 218, 327,
+334, 676, 751, 768, 783, 816, 836 838,
+868, 885, 920, 994, 1007, 1266.
+Ptilorhis,
+alberti, 695.
+var.

@@ -1,0 +1,180 @@
+SUMMARY OF RESULTS.
+1527
+Muricella-continued.
+perramosa, 897, 1331.
+tenera, 744, 1331.
+umbraticoides, 719, 1366.
+Mur ænolepis, 1429.
+marmoratus, 478, 1419.
+Mursia,
+cristimana, 411, 421, 1343, 1359,
+1392.
+curtispina, 633, 1343.
+Mussa,
+aspera, 692, 1371.
+brueggemanni, 761, 1371.
+echinata, 761, 1371.
+fistulosa, 643, 1371.
+multilobata, 755, 1371.
+Mya, 702, 1396.
+Myctiris,
+longicarpus, 701, 1392.
+platycheles, 561, 1392.
+Myelastrum,
+anomalum, 939.
+ciliatum, 1095.
+decaceros, 1053.
+dodecaceros, 1032.
+farfalla, 1061.
+giganteum, 1045.
+heteropterum, 1101.
+lobatum, 980.
+medullare, 1045.
+octocorne, 1045.
+papilio, 950.
+rotula, 1039, 1045, 1061.
+spinale, 970.
+Myliobatis,
+aquila, 926, 1419.
+Myliusia,
+callocyathus, 171, 744, 752, 1330,
+1355.
+Myochama, 595.
+anomioides, 540, 562, 1396, 1426.
+Myodora, 702, 725, 1396.
+angustata, 562, 1396.
+australica, 562, 1396.
+brevis, 562, 1396.
+crassa, 562, 1396.
+pandoriformis, 562, 1396.
+trigoni, 702, 1396.
+Myonera (see Cuspidaria).
+Myrina,
+coppingeri, 680, 1308.
+Myriochele,
+heeri, 159, 219, 1205, 1279, 1280,
+1281, 1305.
+pacifica, 1049, 1279.
+Myriodon,
+waigiensis, 715, 1419.
+Myriotrochus, 179, 609.
+Myriozoum,
+honolulense, 1000, 1413.
+immersum, 1192, 1323.
+marionense, 441, 459, 491, 1323,
+1326, 1327, 1352, 1360, 1413.
+simplex, 1192, 1323.
+Myripristis,
+kaianus, 749, 1354.
+murdjan, 658, 1419.
+Myrodes,
+eudactylus, 725, 1392.
+Mysidopsis, 1452.
+incisa, 532, 1387.
+Mysis, 137, 155, 249, 251, 260, 320,
+479, 498, 534, 1092, 1119, 1193.
+Mytilus,
+edulis, 598, 1178, 1196, 1396,
+1426.
+exustus, 344, 360, 1344, 1359,
+1396.
+hirsutus, 564, 1396.
+kerguelensis, 172, 1396.
+magellanicus, 472, 650, 1178,
+1396, 1426.
+meridionalis, 438, 485, 1344, 1356.
+sulcatus, 705, 1396.
+(Stavelia),
+horridus, 705, 1396.
+Myurella (sce Terebra).
+Myxilla,
+compressa, 1187, 1315.
+cribrigera, 1145, 1329.
+digitata, 419, 1329.
+frondosa, 612, 1315.
+fusca, 483, 1329.
+hastata, 1187, 1315.
+mariana, 431, 1363, 1422.
+var. massa, 1165, 1363.
+mollis, 1149, 1159, 1329, 1355.
+nobilis, 457, 1187, 1315, 1324,
+1325, 1329, 1355.
+var. bacillifera, 1147, 1159,
+1329.
+var. patagonica, 1147, 1159,
+1329.
+pancispinata, 743, 1329.
+plumosa,
+var. fusifera, 372, 1363.
+rosacea,
+var. japonica, 906, 1363.
+spongiosa, 1187, 1315.
+Myxine, 1440, 1451.
+australis, 902, 1166, 1354, 1360,
+1419, 1428, 1447.
+Myxobrachia, 587.
+Myzostoma, 617, 637, 716, 814, 842,
+1243, 1338.
+asymmetricum, 840, 1319.
+beardi, 747, 1338.
+calycotyle, 840, 1319.
+compressum, 445, 1305.
+cornutum, 921, 1319.
+coronatum, 445, 1306.
+deformator, 840, 1319.
+dentatum, 696, 1382.
+echinus, 637, 1319.
+elongatum, 637, 1319.
+filiferum, 696, 1382.
+fimbriatum, 222, 1382.
+fissum, 637, 1319.
+folium, 747, 1338.
+gigas, 222, 375, 1382, 1424.
+horologium, 696, 1382, 1424.
+inflator, 747, 1338.
+intermedium, 696, 1382.
+labiatum, 637, 1319.
+longicirrum, 829, 1382.
+membranaceum, 805, 1382.
+murrayi, 614, 747, 1319, 1326,
+1338.
+pentacrini, 840, 1319.
+platypus, 829, 1382.
+quadricaudatum, 722, 1382.
+quadrifilum, 696, 1382.
+tenuispinum, 614, 638, 840, 1319.
+willemoesii, 614, 638, 747, 1319,
+1326, 1338, 1356.
+wyville-thomsoni, 747, 40, 1319,
+1326, 1338.
+Myra,
+Nannastacus,
+suhmii, 835.
+Nannobrachium, 1327.
+nigrum, 842, 1324.
+Napopora, 1429.
+irregularis, 1074, 1371.
+Narcissia,
+canariensis, 306, 1375.
+trigonaria, 374, 1375.
+Naresia,
+cyathus, 154.
+Nardoa,
+tuberculata, 827, 1375.
+Naseus,
+marginatus, 659, 1419.
+Nassa, 399, 532, 539, 660, 603, 1403.
+agapeta, 651, 1403.
+dissimilis, 603, 1309.
+(Aciculina),
+babylonica, 815, 1347.
+affivis, 701, 1392.
+australis, 701, 1392.
+darnleyensis, 820, 1392.
+fugax, 725, 1392, 1425.
+Myriastra,
+clavosa, 690, 804, 1364, 1422.
+var. quadrata, 818.
+simplicifurca, 690, 1364.
+subtilis, 906, 1364.
+toxodonta, 784, 1364.

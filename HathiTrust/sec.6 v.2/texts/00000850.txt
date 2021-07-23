@@ -1,0 +1,182 @@
+1568
+THE VOYAGE OF H.M.S. CHALLENGER.
+Trapezia,
+areolata,
+var. inermis, 648, 1393.
+cymodoce, 625, 831, 1393, 1425.
+guttata, 648, 1393.
+rufopunctata, 831, 997, 1393,
+1425.
+var. intermedia, 997, 1393.
+Travisia, 1452.
+kerguelensis, 465, 1382.
+Tremoctopus,
+atlanticus, 160.
+gracilis, 895.
+quoyanus, 1068, 1263.
+Tretolophus, 1360.
+paniceus, 743, 1330.
+Tretomphalus (see Cymbalopora).
+Triacanthodes,
+anomalus, 750, 1354.
+Triactiscus,
+tricuspis, 1022.
+tripyramis, 1050.
+Tribonosphæra,
+centripetalis, 1038, 1044.
+Tribrachium,
+schmidtii, 372, 1365.
+Tribulus (see Murex).
+Triceraspyris,
+corallorrhiza, 880, 1218.
+cortiniscus, 1011.
+giraffa, 880.
+longicornis, 1254.
+maniculata, 950.
+tripodiscus, 1031, 1040, 1051,
+1056, 1060.
+Triceratium, 303, 733, 812.
+affine, 905.
+alternans, 220, 287.
+amblyoceros, 939.
+americanum, 939.
+antediluvianum, 278, 287, 303,
+443, 1028.
+arcticum, 278, 287, 303, 514,
+905.
+var. californica, 939.
+var. japonica, 939.
+var. japonica minor, 287.
+var. kerguelensis, 443, 481,
+493, 515.
+var. permagna, 939.
+armatum, 939.
+atlanticum, 135, 278, 303.
+balearicum,
+forma tetragona, 191, 198.
+cælatum, 198.
+calvescens, 905, 939.
+cuspidatum, 939.
+distinctum, 733, 939.
+favus, 812, 905, 911, 939, 1028.
+forma tetragona, 760.
+Triceratium-continued.
+ferox, 939.
+fimbriatum, 812, 939.
+flexuosum, 287, 1043.
+formosum, 278, 939.
+gibbosum, 905.
+grande, 405, 425, 905, 939.
+grunovii, 939.
+irregulare, 287.
+junctum, 405.
+latum, 812.
+muricatum, 733.
+nobilis, 287.
+parallelus, 135, 278, 287.
+pentacrinus, 278.
+forma pentagona, 191, 198.
+forma tetragona, 135, 287.
+punctatum, 198, 220.
+quadrangulare, 939.
+rivale, 939.
+robertsianum, 760, 812.
+scitulum, 939.
+forma quadrata, 733.
+sculptum, 303.
+serratum, 198, 287.
+forma tetragona, 278.
+seychellense, 888.
+tumescens, 905, 939.
+undulatum, 905.
+venulosum, 198.
+Trichiurus,
+lepturus, 901, 1354.
+Trichodesmium, 150, 153, 156, 157,
+735, 775, 836, 877, 1210.
+Trichoglossus,
+swainsoni, 696.
+Trichopleon, 1327.
+ramosum, 841, 1320.
+Trichoptilum, 1361.
+brunneum, 745, 1331.
+Trichostemma,
+irregularis, 1123, 1284.
+sarsii, 265, 679, 1302, 1310.
+Tricolocampe,
+amphizona, 1042, 1254.
+arcta, 1016, 1023, 1032, 1042,
+1052, 1056, 1060.
+cingulata, 1023, 1253.
+cylindrica, 1012, 1016, 1023,
+1027, 1032, 1042, 1052, 1056,
+1060.
+polyzona, 1016, 1023, 1027, 1032,
+1042, 1052.
+pupa, 798.
+stenozona, 986, 1042, 1047.
+urnula, 1032, 1042, 1052, 1056,
+1060.
+Tricolocapsa,
+decandollei, 881.
+dioscoridis, 1061.
+Tricolocapsa-continued.
+schleiilenii, 1250.
+theophrasti, 1042.
+Tricolospyris,
+kantiana, 880, 1046.
+leibnitziana, 875, 880.
+newtoniana, 798, 880.
+Tricyclidium,
+dictyospiris, 1250.
+semantrum, 1010, 1254.
+Tridacna,
+crocea, 704, 1398.
+gigas, 626, 1398.
+Tridacophyllia,
+manicina, 755,761, 769,1372,1422.
+Tridictyopus,
+conulus, 1250.
+vatillum, 1041, 1047, 1218.
+Triforis, 542, 571, 711, 999, 1407.
+bigemma, 178, 1349.
+dolicha, 729, 1407.
+hebes, 396, 1349.
+inflata, 178, 1350.
+levukensis, 656, 1407.
+perversa, 129, 275, 362, 1350,
+1357, 1359, 1407.
+rufula, 711, 1407.
+Trigla, 534, 545.
+leptacanthus, 749, 1354.
+macrodactylus, 1259.
+picta, 1115, 1421.
+Trigonactura,
+lauceolata, 1217.
+rhopalastrella, 879, 1031, 1039,
+1050, 1055, 1060.
+triacantha, 1011.
+trigonobrachia, 957.
+trigonodiscus, 1022.
+Trigonastrum,
+regulare, 1061.
+Trigonia, 545, 716, 1439.
+lamarckii, 564, 1398.
+margaritacea, 540, 1398.
+uniophora, 704, 727, 1398, 1426.
+Trigonocidaris,
+monolini, 614, 1318.
+Triodiscus,
+lenticula, 1022.
+trigonus, 1051.
+Triolena,
+hexabelone, 1045.
+primordialis, 1051.
+tribelone, 957.
+trigonalis, 1039.
+trispinosa, 879.
+Triopyle,
+circulus, 1039.
+hexagona, 957.
+spinigera, 1217.
+trigona, 1060.

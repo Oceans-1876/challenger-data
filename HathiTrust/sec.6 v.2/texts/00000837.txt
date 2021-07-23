@@ -1,0 +1,184 @@
+SUMMARY OF RESULTS.
+---
+1555
+34, 1354,
+Seguenzia-continued.
+monocingulata, 176, 237, 360,
+1309, 1312, 1313, 1326, 1349,
+1357.
+var. lineata, 176, 351, 1322,
+1349.
+trispinosa, 351, 1322.
+Selenaria,
+maculata, 573, 1413.
+Semantidium,
+hexastoma, 1011, 1040, 1046.
+sexangulum, 1254.
+signatorium, 950.
+Semantis,
+biforis, 1011, 1015, 1022, 1040,
+1046.
+dipyla, 880.
+distephanus, 1255.
+distoma, 956.
+sigillum, 1132.
+Semantiscus,
+hexapodius, 1015.
+hexapylus, 880.
+hexaspyris, 1040.
+Semantrum,
+signarium, 1040.
+sphragisma, 1249.
+tetrapylum, 979.
+tetrastoma, 1011, 1015, 1022.
+Semele,
+amabilis, 726, 1397.
+infans, 702, 1397.
+obliqua, 359, 1345.
+(Abra),
+braziliensis, 359, 1345.
+longicallus, 272, 1345.
+philippinensis, 815, 1345.
+profundorun, 267, 293, 319,
+956, 1279, 1281, 1296, 1300,
+1308, 1311.
+regularis, 683, 1345.
+(Theora),
+iridescens, 764, 1397.
+Semicassis (see Cassis).
+Semperella,
+schultzei, 744, 809, 1330, 1357,
+1365.
+Senectus (see Turbo).
+Sepalospyris,
+platyphylla, 1011.
+polyphylla, 1023.
+Separatista,
+chemnitzii, 807, 1406.
+Sepia,
+andreanoides, 926, 1410.
+cultrata, 549, 1350.
+elliptica, 730, 1410, 1427.
+esculenta, 926, 1410.
+kiensis, 749, 1350.
+kobiensis, 910, 1410.
+Sepia-continued.
+papuensis. 730, 1410.
+recurvirostra, 802, 1323.
+smithi, 730, 1410.
+sulcata, 749, 1350.
+(Metasepia),
+pfefferi, 730, 1410.
+Sepiella,
+maindroni, 926, 1410.
+Sepioteuthis,
+lessoniana, 661, 770.
+Septifer,
+bilocularis, 650, 1397.
+Sergestes, 385, 525, 530, 552, 676, 677,
+770, 802, 817, 835, 848, 853,
+869, 870, 871, 873, 877, 882,
+885, 887, 890, 893, 895, 920,
+943, 951, 959, 977, 980, 988,
+990, 991, 1009, 1018, 1025,
+1033, 1048, 1079, 1099, 1113,
+1202, 1203, 1207, 1223, 1227,
+1232, 1236, 1263, 1266, 1269.
+ancylops, 668, 983.
+armatus, 575, 986, 1062.
+atlanticus, 160, 208, 252, 524,
+633, 900, 1190, 1268, 1269,
+1286, 1290, 1321, 1326, 1327,
+1342, 1356, 1359.
+corniculum, 717, 853, 887, 895.
+diapontius, 1251.
+dissimilis, 314.
+dorsispinalis, 530.
+edwardsii, 188, 314, 1033.
+fermerinkii, 1139.
+intermedius, 799.
+japonicus, 801, 900, 1321, 1326,
+1342.
+junceus, 1139.
+kröyeri, 615, 1321.
+læviventralis, 853, 887.
+laterodentatus, 530.
+longicollus, 383, 1108.
+longispinus, 334, 1268.
+nasidentatus, 1126.
+oculatus, 327, 334, 340, 988,
+1006, 1062
+ovatoculus, 1270.
+parvidens, 160, 592, 992.
+penerinkii, 1270.
+præcollus, 1033.
+prehensilis, 921, 1321.
+profundus, 402, 1129, 1279,
+1281, 1307.
+rinkii, 672, 1139.
+semiarmis, 895, 1268.
+spiniventralis, 1033.
+utrinquedens, 1033.
+ventridentatus, 992.
+Seriatopora,
+aculeata, 769, 1372.
+Seriatopora-continued.
+caliendrum, 643, 823, 1372, 1422.
+cervina, 755, 823, 1372, 1422.
+compressa, 823, 1372.
+conferta, 643, 1372.
+contorta, 823, 1372.
+crassa, 823, 1372.
+gracilis, 769, 1372.
+hystrix, 643, 1372.
+ocellata, 823, 1372.
+stellata, 643, 1372.
+valida, 823, 1372.
+Seriolichthys,
+bipinnulatus, 850.
+Serolis, 352, 365, 368, 448, 479, 480,
+492, 535, 575, 602, 1184, 1307,
+1454.
+antaretica, 358, 446, 453, 1295,
+1299, 1301, 1307, 1313, 1340.
+australiensis, 539, 1386.
+bromleyana, 504, 578, 580, 602,
+603, 608, 1295, 1299, 1300,
+1301, 1307, 1312, 1313, 1320,
+1326, 1340.
+convexa, 1177, 1386.
+cornuta, 470, 1386.
+elongata, 559, 1386.
+gracilis, 350, 1320.
+latifrons, 458,470,1340,1359, 1386.
+longicaudata, 532, 1386.
+minuta, 532, 1386.
+neæra, 1184, 1190, 1286, 1289,
+1320.
+pallida, 539, 559, 1386, 1424.
+paradoxa, 1177, 1386.
+schythei, 1140, 1170, 1173, 1177,
+1386, 1424.
+septemcarinata, 436, 470, 1340,
+1359, 1386, 1421.
+tuberculata, 532, 539, 1386, 1424.
+Serpula, 76, 78, 96, 195, 371, 492, 978,
+1089, 1091, 1098, 1125, 1135,
+1148, 1196, 1243, 1266.
+narconensis, 435, 466, 489, 1358,
+1382, 1424.
+var. magellanica, 1151, 1338.
+philippinensis, 792, 1305.
+sombreriana, 163, 1338.
+vitrea, 94.
+Serranus,
+apua, 170, 1421.
+diacanthus, 731, 786, 796, 1421,
+1428.
+dispar, 629, 1421.
+hexagonatus, 657, 1421.
+impetiginosus, 1240, 1421.
+octocinctus, 926, 1421.
+Sertularia, 670.
+abietina, 221, 1373.
+annulata, 555, 1373.

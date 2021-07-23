@@ -1,0 +1,74 @@
+SUMMARY OF RESULTS.
+771
+Temperature of water :-
+STATION 198.
+9
+Surface,
+25 fathoms,
+50
+75
+100
+125
+150
+200
+85.0
+81.2
+77.2
+71:8
+65.0
+58.0
+53.6
+49.2
+300 fathoms,
+400
+500
+600
+700
+800
+Bottom,
+45:0
+42:0
+40.3
+39.5
+39.0
+39.0
+38.9
+Density at 60° F. :-
+Surface,
+50 fathoms,
+100
+200
+1.02551
+1.02578
+. 1.02586
+. 1.02568
+400 fathoms,
+800
+Bottom,
+1.02560
+. 1.02604
+. 1.02586
+99
+Depth, 2150 fathoms ; deposit, Volcanic Mud, containing no carbonate of lime
+(see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 9.30 A.M. shortened and furled sails, and proceeded under steam to sound. At
+10 A.M. sounded in 2150 fathoms. At 11 A.m. put over trawl. At 1 P.M. obtained
+serial temperatures down to 800 fathoms. The carbonic acid was determined in water
+from 800 fathoms, and amounted to 39.7 milligrammes per litre. At 6.45 P.M. trawl
+came up with a number of specimens, pieces of volcanic conglomerate, several palm fruits,
+and pieces of wood and bark. The mud also contained a large number of oval arenaceous
+bodies, believed to be the dung of Echinoderms. The wind having fallen almost to a
+calm, proceeded under steam for the remainder of the day.
+Distance at noon from Sibago Island, 274 miles. Made good 61 miles. Amount of
+current 16 miles, direction N. 68° W.
+The following species are recorded in the Zoological Reports from the trawl at
+this Station :-
+ANIMALS FROM
+TRAWL.
+DEEP-SEA KERATOSA (Haeckel, Zool. pt. 82).
+Psammophyllum reticulatum, n.g., n.sp. Several specimens ; obtained at no
+other locality.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Dytaster inermis, n.g., n.sp. One specimen ; obtained at no other locality.
+Freyella echinata, n.sp. Obtained also at Stations 205 and 216, 1050 and
+1675 fathoms.

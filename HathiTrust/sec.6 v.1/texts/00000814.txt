@@ -1,0 +1,104 @@
+640
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATIONS 174
+TO 1740.
+X
+Trochammina ringens, Brady.
+trullissata, Brady.
+Webbina clavata, Jones and Parker.
+Textularia agglutinans, d’Orbigny.
+Verneuilina spinulosa, Reuss.
+Gaudryina pupoides, d'Orbigny.
+siphonella, Reuss.
+Bulimina convoluta, Williamson.
+Bolivina robusta, Brady.
+tortuosa, Brady ().
+Cassidulina subglobosa, Brady.
+Lagena acuta (Reuss).
+apiculata, Reuss.
+marginata (Walker and Boys), var.
+semimarginata, Reuss.
+orbignyana (Seguenza).
+Nodosaria communis, d’Orbigny.
+Cristellaria cultrata (Montfort).
+Uvigerina asperula, Czjzek.
+var, ampullacea, Brady.
+x Globigerina æquilateralis, Brady.
+conglobata, Brady.
+dubia, Egger.
+x Globigerina inflata, d'Orbigny.
+sacculifera, Brady.
+x Orbulina universa, d'Orbigny.
+Pullenia quinqueloba, Reuss.
+Sphæroidina bulloides, d'Orbigny.
+х
+dehiscens, Parker and Jones.
+x Candeina nitida, d'Orbigny.
+Cymbalopora poeyi (d'Orbigny).
+Discorbina orbicularis (Terquem).
+Truncatulina dutemplei (d'Orbigny).
+lobatula (Walker and Jacob).
+ungeriana (d'Orbigny).
+Anomalina grosserugosa (Gümbel).
+x Pulvinulina crassa (d'Orbigny).
+menardi (d'Orbigny).
+micheliniana (d'Orbigny).
+tumida, Brady
+Nonionina turgida (Williamson).
+umbilicatula (Montagu).
+Operculina complanata (Defrance), var.
+granulosa, Leymerie.
+Amphistegina lessonii, d'Orbigny.
+Х
+>
+Х
+Х
+X X
+From 210 fathoms (Station 174D); the pelagic species, which make up about 12 per
+cent. of the carbonate of lime present in the deposit, are marked thus x.
+Hyperammina friabilis, Brady (?).
+Marsipella cylindrica, Brady.
+Rhizammina algæformis, Brady.
+indivisa, Brady (?).
+(?) sp.
+Biloculina bulloides, d'Orbigny.
+depressa, d'Orbigny.
+elongata, d’Orbigny.
+irregularis, d'Orbigny.
+ringens (Lamarck).
+tubulosa, Costa.
+Spiroloculina arenaria, Brady.
+convexiuscula, Brady (?).
+grata, Terquem.
+tenuis (Czjzek).
+Miliolina seminulum (Linné).
+tricarinata (d'Orbigny).
+triquetra, Brady.
+Reophax diflugiformis, Brady.
+fusiformis (Williamson).
+Haplophragmium agglutinans (d’Orbigny).
+calcareum, Brady.
+latidorsatum (Bornemann).
+sp. (?).
+sp. (?).
+Articulina conico-articulata (Batsch).
+funalis, Brady.
+sulcata, Reuss.
+Hauerina ornatissima (Karrer).
+Cornuspira foliacea (Philippi).
+involvens, Reuss.
+Peneroplis pertusus (Forskål).
+Pelosina rotundata, Brady ().
+Bathysiphon sp. (3).
+Trochammina squamata, Jones and Parker.
+Webbina clavata, Jones and Parker.
+Testularia gramen, d’Orbigny.
+sagittula, Defrance, var. fistulosa, Brady,
+trochus, d'Orbigny.
+Verneuilina spinulosa, Reuss.
+triquetra (Münster).
+variabilis, Brady (?).
+Tritaxia caperata, Brady.
+indiscreta, Brady.
+Bigenerina digitata, d'Orbigny.
+Clavulina communis, d'Orbigny.

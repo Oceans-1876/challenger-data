@@ -1,0 +1,86 @@
+526
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATION 160.
+Temperature of water :-
+43-3
+>
+93
+>
+Surface,
+50 fathoms,
+100
+150
+200
+250
+300
+350
+400
+55.0
+51.8
+48.5
+47.9
+47.7
+47.5
+47.2
+46.5
+44.9
+450 fathoms,
+500
+600
+700
+800
+900
+1000
+Bottom,
+41.6
+38.5
+370
+36.8
+36.6
+36.4
+33.9
+>
+9
+9
+Density at 60° F.:-
+.
+Surface,
+50 fathoms,
+100
+200
+1.02570
+1.02576
+1.02565
+1.02573
+300 fathoms,
+400
+Bottom,
+.
+1:02560
+1:02557
+1.02570
+.
+Depth, 2600 fathoms; deposit, Red Clay, containing 18:56 per cent. of carbonate
+of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 6.10 A.M. shortened and furled sails, put over trawl, and veered 2500 fathoms.
+At 8 A.m. brought ship to wind, and proceeded under steam to sound. Sounded in
+2600 fathoms ; veered trawl-rope to 3450 fathoms. About half a litre of Red Clay came
+up in the sounding-tube. At noon obtained temperatures down to 1000 fathoms. The
+carbonic acid was determined in the bottom water, and amounted to 53.7 milligrammes per
+litre. At 2.30 P.M. commenced heaving in trawl, which came up at 5.30 P.M. with the
+net much torn, but containing numerous specimens, a quantity of Red Clay, with many
+manganese nodules, ear-bones of Cetaceans, and sharks' teeth. To the nodules were attached
+Cirripeds, Antipathes, Terebratula, and Tunicata. Observed albatrosses, molly mawks,
+night hawks, and mutton birds. At 6 P.M. made all plain sail.
+Distance at noon from Cape Otway, 488 miles. Made good 149 miles. Amount of
+current 13 miles, direction N. 57° E.
+ANIMALS FROM
+TRAWL.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :-
+HEXACTINELLIDA (Schulze, Zool. pt. 53).
+Holascus fibulatus, n.g., n.sp. One specimen ; obtained also at Stations 146
+and 147.
+ANTIPATHARIA (Brook, Zool. pt. 80).
+Bathypathes tenuis, n.g., n.sp. Several specimens ; obtained at no other locality.
+;

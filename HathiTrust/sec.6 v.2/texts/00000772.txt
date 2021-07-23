@@ -1,0 +1,184 @@
+1490
+THE VOYAGE OF H.M.S. CHALLENGER.
+1
+Colossendeis leptorhynchus-continued.
+1157, 1296, 1300, 1301, 1308,
+1311, 1313, 1343.
+media, 1118, 1286.
+megalonyx, 472, 1170, 1173,
+1343, 1359, 1393, 1425.
+minuta, 230, 1308.
+robusta, 472, 1343.
+Colpaster, 1301.
+scutigerula, 141, 1292.
+Columbella, 260, 267, 345, 361, 568, 652,
+707, 1297, 1308, 1346, 1400.
+mercatoria, 345, 413, 1400, 1426.
+rustica, 128, 312, 1400, 1426.
+versicolor, 925, 1400.
+(Anachis),
+haliæeti, 113, 274, 1346, 1356.
+(Atilia),
+filosa, 568, 1400.
+puella, 568, 1400.
+(Conidea),
+flava, 627, 1400.
+(Mitrella),
+albina, 652, 1400.
+albomaculata, 568, 1400.
+australis, 568, 1400.
+(Pusiostoma),
+mendicaria, 652, 1400.
+(Pyrene),
+stricta, 177, 1346.
+strix, 361, 1346, 1356.
+var, subacta, 164, 177, 1346.
+(Zafra),
+greci, 274, 1346.
+troglodytes, 652, 707, 998, 1400,
+1426.
+Comactis,
+flagellifera, 406, 1367.
+Cominella,
+porcata, 413, 1400.
+(Adamsia),
+typica, 567, 1400.
+Concharium,
+diatomeum, 1254.
+nucula, 1218.
+Conchasma,
+hippurites, 512, 513.
+Conchellium,
+hippopus, 1061.
+tridacna, 972, 976, 980.
+Conchidium,
+argiope, 1237, 1239, 1251, 1255,
+1257.
+dimerella, 922.
+leptæna, 1048, 1054.
+productum, 1268.
+rhynchonella, 958, 960, 967, 970,
+973, 977, 980.
+terebratula, 1033, 1043, 1052,
+1057, 1061.
+Conchoceras,
+caudatum, 1254.
+cornutum, 1231.
+Conchoderma, 123.
+virgatum, 309, 1385.
+var. chelonophilus, 123.
+Conchonia,
+triodon, 1043.
+Conchopsis, 1048, 1054.
+aspidium, 958.
+carinata, 1184.
+compressa, 950, 958, 960, 967,
+972, 976.
+lenticula, 1043, 1052, 1056, 1061.
+navicula, 1105.
+pilidium, 1206, 1218.
+Conger,
+marginatus, 929, 1001, 1417, 1428.
+vulgaris, 1440.
+Congrogadus,
+subducens, 715, 1417.
+Congromuræna,
+anago, 929, 1417.
+guttulata, 634, 1353.
+megastoma, 929, 1417.
+Conidea (sce Columbella).
+Conopora, 1327.
+tenuis, 612, 1316.
+Conosphæra,
+orthoconus, 1038.
+plagioconus, 1010.
+platyconus, 1050.
+Conus, 361, 379, 545, 1346.
+(Cylinder),
+textile, 654, 1400.
+(Cylindrella),
+sulcatus, 832, 1400.
+(Hermes),
+croceus, 728, 1400.
+(Leptoconus),
+anemone, 542, 1400.
+jukesii, 569, 1400.
+lizardensis, 728, 1400, 1426.
+nisus, 821, 1400.
+trigonus, 728, 1400.
+vittatus, 654, 1400.
+(Lithoconus),
+eburneus, 654, 820, 1400, 1426.
+quercinus, 820, 1400.
+(Puncticulis),
+arenatus, 654, 1400.
+pulicarius, 998, 1400.
+Copilia, 137, 677, 783, 790, 802, 836,
+853, 858, 866, 868, 869, 871,
+873, 877, 882, 884, 885, 887,
+982, 987, 994, 1007, 1009,
+1018, 1025, 1063, 1079, 1082,
+1083, 1096, 1102, 1106, 1227,
+1232, 1251, 1263, 1268.
+denticulata, 119.
+Copilia-continued.
+mirabilis, 119, 545, 660, 675, 778,
+799, 835, 852, 1237, 1257,
+1262.
+Corallimorphus,
+obtectus, 507, 1292.
+profundus, 1103, 1128, 1284,
+1289, 1303.
+rigidus, 444, 758, 1123, 1284,
+1289, 1303, 1310.
+Coralliophila,
+wahlbergi, 413, 1400.
+Corallistes,
+bowerbanki, 113, 1329.
+masoni, 305, 1329.
+thomasi, 743, 1329.
+typus, 356, 1329.
+Corallium,
+rubrum, 305, 1331, 1358, 1365.
+Corax, 1087.
+Corbula, 1225.
+crassa, 702, 1395.
+macgillivrayi, 725, 1395.
+modesta, 626, 764, 1395, 1426.
+monilis, 702, 725, 1395, 1426.
+philippii, 194, 1343.
+scaphoides, 702, 1395.
+tunicata, 562, 725, 764, 1395.
+Corella,
+japonica, 796, 910, 926, 1415,
+1428.
+Corethron, 514.
+criophilum, 515, 517.
+var. tumescens, 515, 517.
+hispidum, 515, 517.
+murrayanum, 515, 517.
+pennatum, 515, 517.
+splendens, 517.
+Cornuspira, 581, 1131.
+carinata, 181, 685.
+foliacea, 133, 165, 181, 195, 285,
+294, 449, 581, 604, 610, 640,
+685, 1200.
+involvens, 133, 165, 181, 200,
+353, 480, 581, 630, 639, 640,
+685, 936, 1071, 1131.
+lacunosa, 685.
+sulcata, 687.
+Cornutanna,
+cyrtoconus, 1132.
+loxoconus, 880.
+orthoconus, 513, 1033, 1041,
+1047, 1054, 1057, 1062.
+Cornutella,
+annulata, 512, 513, 1041, 1047.
+clathrata, 512, 513, 516.
+hexagona, 1013, 1018, 1019, 1024,
+1029, 1033, 1047, 1054, 1057,
+1062.
+mitra, 880, 1023, 1041, 1047.
+1

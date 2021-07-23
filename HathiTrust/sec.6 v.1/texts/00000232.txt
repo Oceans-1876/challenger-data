@@ -1,0 +1,61 @@
+138
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATION 2.
+Temperature of water :-
+Surface,
+50 fathoms,
+100
+200
+300
+400
+67.0
+67.0
+62-0
+56.0
+52:1
+48.8
+500 fathoms,
+600
+700
+800
+900
+Bottom,
+46.0
+44.2
+42.9
+41.9
+41.0
+36.8
+.
+Density at 60° F. at surface, 1.02739; bottom, 1.02602.
+Depth, 1945 fathoms; deposit, Globigerina Ooze, containing 64.55 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 5.15 A.M. put over dredge, veering 2700 fathoms. At 7 A.M. sounded in 1945
+fathoms. At 8 A.M. the barge went away to obtain a series of temperatures at
+various depths, and returned at 1.30 P.M. At 1.30 P.M. commenced heaving in
+dredge, which came up at 3.30 P.M. half full of Globigerina Ooze.
+Position at noon, about 260 miles west of Cape Bojador; Sombrero Island distant
+2482 miles. Made good 95 miles. Amount of current 10 miles, direction S. 11° W.
+ANIMALS FROM
+DREDGE.
+The following species is recorded from the dredge at this Station :-
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Mastigoteuthis agassizii, Verrill. Fragments of tentacles ; obtained at no other
+locality by the Challenger. Recorded from North Carolina.
+In addition to the above Cephalopod fragment, the dredge contained a mutilated
+specimen of a worm belonging to the Gephyrea, thus described by Willemoes-Suhm :
+“ The animal shows characters of both the Sipunculacea and the Priapulacea : it has no
+tentacles (Priapulacea); the anus is near the mouth in the anterior part of the body
+(Sipunculacea); and it has no proboscis (Priapulacea). The pharynx is very short, and
+is attached to the walls of the body by four retractores. The pharynx shows six or seven
+folds, being composed of prominences covered by ‘Pflasterepithel,' and at their ends by
+a chitinous border. At the entrance of the mouth these papillæ with chitinous borders
+are more pointed and stronger; in each are seen some unicellular glands, granular bodies
+showing a nucleus and a nucleolus. Owing to the state of the specimen, nothing can be
+said about the rest of the body.”
+ORGANISMS FROM
+THE DEPOSIT.
+FORAMINIFERA (Brady, Zool. pt. 22).—The ooze was carefully sifted, and was found to
+contain many otoliths of fishes and Pteropod shells (see also Murray and Renard, Deep-
+Sea Deposits Chall. Exp.). The following species of Foraminifera were also observed
+-

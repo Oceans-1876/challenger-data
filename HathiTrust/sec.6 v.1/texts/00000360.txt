@@ -1,0 +1,71 @@
+250
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATION 62.
+Temperature of water :-
+40:0
+>>
+Surface,
+100 fathoms,
+200
+300
+400
+500
+600
+70.0
+63.4
+62.5
+58.2
+51.5
+45.2
+41:4
+700 fathoms,
+800
+900
+1000
+1100
+1200
+Bottom,
+39.2
+38.9
+38.6
+38.3
+380
+36.4
+Density at 60° F.:-
+.
+.
+Surface,
+150 fathoms,
+250
+. 1.02716
+1.02708
+1:02687
+500 fathoms,
+Bottom,
+1.02607
+. 1.02709
+.
+Depth, 2875 fathoms; deposit, Red Clay, containing 10.72 per cent. of carbonate
+of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 1.30 P.M. shortened and furled sails, and got up steam to sound. At 2.30 P.M.
+sounded in 2875 fathoms. At 4 P.M. obtained serial temperatures at intervals of 100
+fathoms down to 1200 fathoms. Sent down water-bottle, and obtained specimens of
+water from 150, 250, and 500 fathoms. At 6 P.M. completed observations, and made all
+plain sail.
+Distance from Fayal at noon, 1175 miles. Made good 187 miles. Amount of current
+9 miles, direction S. 27° E.
+STATION 63.
+Station 63 (Sounding 127), Bermuda to Azores (see Chart 6 and Diagram 3).
+June 19, 1873; lat. 35° 29' N., long. 50° 53' W.
+Temperature of air at noon, 70°:8; mean for the day, 70°-6.
+Temperature of water at surface, 71°:0.
+Density at 60° F. at surface, 1.02720; bottom, 1.02613.
+Depth, 2750 fathoms; deposit, Globigerina Ooze, containing 33.93 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 10 A.M. put over small trawl and veered 3700 fathoms. At noon, shortened and
+furled sails, and proceeded under steam to sound. At 1 P.M. sounded in 2750 fathoms.
+At 3.45 P.M. commenced heaving in trawl, which came up at 7 P.M. containing several
+specimens. In the evening the water was brilliantly phosphorescent, and the tow-net
+was put out several times. At 7.30 P.M. made all plain sail.
+Distance from Fayal at noon, 1077 miles. Made good 99 miles. Amount of current
+3 miles, direction N. 39º E,

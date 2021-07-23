@@ -1,0 +1,111 @@
+686
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATIONS 185
+to 185B.
+>
+>
+Clavulina angularis, d'Orbigny.
+cylindrica, Hantken.
+parisiensis, d'Orbigny.
+Bulimina aculeata, d'Orbigny.
+convoluta, Williamson.
+elegantissima, d'Orbigny.
+inflata, Seguenza.
+marginata, d'Orbigny.
+pyrula, d'Orbigny.
+subcylindrica, Brady.
+subteres, Brady
+williamsoniana, Brady.
+Virgulina schreibersiana, Czjzek.
+Bolivina ænariensis (Costa).
+amygdalæformis, Brady.
+beyrichi, Reuss, var. alata, Seguenza.
+costata, d'Orbigny.
+limbata, Brady.
+lobata, Brady.
+var. strigosa, Brady.
+nitida, Brady.
+porrecta, Brady.
+punctata, d'Orbigny.
+reticulata, Hantken.
+robusta, Brady.
+schwageriana, Brady.
+subangularis, Brady.
+Cassidulina bradyi, Norman.
+calabra (Seguenza).
+crassa, d'Orbigny.
+lævigata, d'Orbigny.
+subglobosa, Brady.
+Ehrenbergina serrata, Reuss.
+Lagena ampulla-distoma, Rymer Jones.
+>
+Lagena schulzeana, Brady.
+semistriata, Williamson.
+spiralis, Brady.
+striata (d’Orbigny).
+striatopunctata, Parker and Jones.
+sulcata (Walker and Jacob).
+trigono-marginata, Parker and Jones.
+Nodosaria catenulata, Brady.
+communis, d'Orbigny.
+consobrina, d'Orbigny, var, emaciata,
+Reuss.
+hispida, d'Orbigny.
+inflexa, Reuss.
+obliqua (Linné).
+plebeia (Reuss).
+proxima, Silvestri.
+pyrula, d'Orbigny.
+radicula (Linné).
+raphanus (Linné).
+roemeri (Neugeboren).
+scalaris (Batsch).
+soluta, Reuss.
+vertebralis (Batsch).
+Frondicularia archiaciana, d'Orbigny.
+inæqualis, Costa.
+millettii, Brady.
+spathulata, Brady.
+Rhabdogonium tricarinatum (d'Orbigny).
+Marginulina glabra, d’Orbigny.
+Vaginulina bruckenthali, Neugeboren.
+patens, Brady.
+Cristellaria acutauricularis (Fichtel and Moll).
+costata (Fichtel and Moll).
+cultrata (Montfort).
+gemmata, Brady.
+italica (Defrance)
+latifrons, Brady.
+obtusata, Reuss.
+rotulata (Lamarck).
+schloenbachi, Reuss.
+tenuis (Bornemann).
+tricarinella, Reuss.
+variabilis, Reuss.
+vortex (Fichtel and Moll).
+wetherellii (Jones).
+Amphicoryne falx (Jones and Parker).
+Polymorphina amygdaloides, Reuss.
+angusta, Egger.
+communis, d'Orbigny.
+compressa, d'Orbigny.
+aspera, Reuss.
+99
+3
+castrensis, Schwager.
+dentata (Seguenza).
+elongata (Ehrenberg).
+favoso-punctata, Brady.
+formosa, Schwager, var. brevis, Brady.
+gothica, Rymer Jones.
+gracillima (Seguenza).
+hertwigiana, Brady.
+hispida, Reuss.
+lævigata (Reuss).
+lævis (Montagu).
+marginata (Walker and Boys).
+orbignyana (Seguenza).
+quadrangularis, Brady.
+radiato-marginata, Parker and Jones.
+9
+3

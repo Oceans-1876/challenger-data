@@ -1,0 +1,27 @@
+VERTICAL
+SCALC
+FATHOMS
+_F
+V
+1900
+ma
+v
+C
+DIAGRAN 6
+Nosimal. Japan
+Bhe Mu
+E:S6
+145 2675-69*5
+Blue Mid
+trace
+2250 64
+29
+Summary of Results.
+27°
+Red Clay
+0-00%
+26"
+2425 - 68.5
+230
+STRA TU
+24°

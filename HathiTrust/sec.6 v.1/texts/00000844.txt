@@ -1,0 +1,41 @@
+668
+THE VOYAGE OF H.M.S. CHALLENGER.
+API.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophioglypha undata, n.sp. Obtained at no other locality. [Recorded in error from
+Station 176, 1450 fathoms).
+Ophiothrix purpurea, Martens (?). (63 fathoms); obtained also at Banda.
+;
+HOLOTHURIOIDEA (Théel, Zool. pt. 39).
+Synapta beselii, Jæger. A few specimens (130 fathoms); obtained also at Amboina,
+Philippines, and Tahiti. Recorded from Indian and Pacific Oceans.
+Holothuria atra, Jæger. One specimen (130 fathoms); obtained also at Fiji and
+Amboina.
+;
+;
+MACRURA (Spence Bate, Zool. pt. 52).
+Penæus gracilis, Dana. (Surface ?); obtained also at Port Jackson.
+Hemipenæus tomentosus, n.g., n.sp. One specimen (130 fathoms); obtained also
+at Station 200, 250 fathoms.
+Sergestes ancylops, Krøyer. One specimen (surface ?); obtained also in North
+Pacific. Recorded from Greenland.
+Lucifer reynaudii, M.-Edwards. (Surface ?); a widely-distributed species.
+Nematocarcinus productus, n.sp. One specimen ; obtained also at Stations 195,
+205, and 237, 1050 to 1875 fathoms. [Recorded in
+error from Station 176, 1450 fathoms).
+Oodeopus armatus, n.g., n.sp. (Surface ?); obtained also at Cape York.
+duplex, n.g., n.sp. (Surface ?); obtained also at Fiji and Cape York.
+;
+ANOMURA (Henderson, Zool. pt. 69).
+Cænobita rugosa, M.-Edwards. (Shore); obtained also at Fiji, Arrou, Admiralty,
+and Tahiti Islands.
+perlata, M.-Edwards. One specimen (shore) ; obtained also at Fiji.
+BRACHYURA (Miers, Zool. pt. 49).
+Epigrapsus politus, Heller. One specimen ; obtained at no other locality by the
+Challenger. Recorded from Nicobars and Polynesian
+Islands.
+Sesarma (Holometopus) avbryi, M.-Edwards. Many specimens (shallow water);
+obtained also at Arrou and Admiralty Islands.
+GASTEROPODA (Watson, Zool. pt. 42).
+Natica (Neverita) albumen (Linné). (Shore); obtained at no other locality by the
+Challenger. Recorded from Philippines.

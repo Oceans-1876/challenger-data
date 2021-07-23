@@ -1,0 +1,80 @@
+1238
+THE VOYAGE OF H.M.S. CHALLENGER,
+STATION 343.
+Temperature of water :-
+51
+Surface,
+10 fathoms,
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+80.8
+80.5
+80.0
+77.0
+72.5
+67.0
+62.0
+58.0
+56:3
+55.0
+53.8
+52:8
+52:0
+130 fathoms,
+140
+150
+160
+170
+180
+190
+200
+225
+250
+275
+300
+Bottom,
+51.1
+50.2
+49.7
+49:1
+48.4
+47.8
+47:1
+46.6
+45.6
+45.0
+44:3
+43.8
+40:4
+Density at 60° F. at surface, 1:02688; bottom, 1.02612.
+Depth, 425 fathoms ; deposit, Globigerina Ooze, containing 96.80 per cent. of
+carbonate of lime (sce Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 9.30 A.M. observed Ascension Island to the N.E. Shortly before noon stopped to
+sound. At noon sounded in 425 fathoms ; the sounding-tube brought up two pieces of
+Coral coated with manganese. Put dredge over and veered 800 fathoms. Obtained
+serial temperatures down to 300 fathoms. At 2.45 P.M. hove up dredge, with
+a few specimens attached to the swals and a little deposit. Proceeded towards
+Ascension, and at 4.50 P.M. stopped and anchored in 11 fathoms in Clarence Bay, off
+Fort Thornton, Georgetown. Wide-awakes, boobies, and shags were seen during the day.
+ANIMALS FROM
+DREDGE.
+The following species are recorded in the Zoological Reports from the dredge at this
+Station :-
+ALCYONARIA (Wright and Studer, Zool. pt. 64).
+Dasgorgia melanotrichos, n.sp. Stem and several branches ; obtained at no
+other locality.
+ANTIPATHARIA (Brook, Zool. pt. 80).
+Dendrobrachia fallax, n.g., n.sp. Two specimens ; obtained at no other locality.
+Only species of the genus.
+CORALS (Moseley, Zool. pt. 7).
+Caryophyllia lævicostata, n.sp. One specimen (attached to a dead Stylasterid);
+obtained at no other locality.

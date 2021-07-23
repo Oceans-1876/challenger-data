@@ -1,0 +1,45 @@
+128
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATION VIIP.
+(
+>
+Phasianella pulla (Linné). Obtained at no other locality by the Challenger.
+Recorded from North Atlantic and Mediterranean.
+Fossil-Middle Pliocene onwards.
+Scalaria (Acirsa) subdecussata, Cantraine. Obtained at no other locality by
+the Challenger. Recorded from North Atlantic and
+Mediterranean. Fossil-Pliocene of Altavilla.
+Nassa (Cæsia) limata (Chemnitz). Obtained at no other locality by the Challenger.
+Recorded from North Atlantic and Mediterranean.
+Fossil---Miocene onwards.
+Columbella rustica (Linné). Obtained also at Cape Verdes, 7 to 25 fathoms.
+Recorded from Mediterranean, Africa, and Antilles.
+Fossil---Upper Pliocene onwards.
+Fasciolaria armata (Adams). Obtained at no other locality by the Challenger.
+Recorded from California.
+Marginella (Gibberula) guancha, d'Orbigny. Obtained at no other locality by the
+Challenger. Recorded from Tenerife.
+) miliaria (Linne). Obtained also at Station 75, 450 fathoms.
+Recorded from Mediterranean and Madeira. Fossil---
+Miocene onwards.
+Ranella (Aspa) marginata (Gmelin). Obtained at no other locality by the
+Challenger. Recorded from North-West Africa. Fossil
+-Italian Middle Pliocene onwards.
+Cypræa spurca, Linné. Obtained also at Stations 113A and 122, 7 to 350 fathoms.
+Recorded from North Atlantic and Mediterranean.
+(Trivia) candidula, Gaskoin. Obtained also at Station 75, 450 fathoms.
+Recorded from Mexico, North Atlantic, and Mediterranean.
+Natica variabilis, Recluz. Obtained also at Station 75, 450 fathoms. Recorded
+from Madeira and Canaries.
+(Mamma) porcellana, d’Orbigny. Obtained also at Cape Verdes, 7 to 25
+fathoms. Recorded from Bahia, Madeira, and Canaries.
+Fossil-Post-Pliocene of Calabria.
+Cæcum elegantissimum, Carpenter. Six specimens ; obtained at no other locality
+by the Challenger.
+vitreum, Carpenter. Obtained at no other locality by the Challenger.
+Recorded from Tenerife.
+pollicare, Carpenter. One specimen ; obtained at no other locality by the
+Challenger. Recorded from Tenerife.
+Turritella bicingulata, Lamarck. Obtained at no other locality by the Challenger.
+Recorded from Cape Verdes.
+;

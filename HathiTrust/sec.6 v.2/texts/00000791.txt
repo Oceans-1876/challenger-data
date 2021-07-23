@@ -1,0 +1,184 @@
+SUMMARY OF RESULTS.
+1509
+3
+43.
+Haeckeliana,
+Haliomma,
+darwiniana, 950, 958, 960.
+antarcticum, 499.
+goetheana, 894.
+arachnium, 1017.
+lamarckiana, 1184, 1201, 1206,
+capense, 425.
+1218.
+circumtextum, 1038.
+maxima, 1250.
+clavatum, 1010.
+murrayana, 1043,1052, 1056, 1061.
+compactum, 1010, 1015, 1021,
+porcellana, 1105.
+1027, 1031, 1038, 1050.
+Hæmatopus,
+datura, 879, 1021, 1028, 1032,
+unicolor, 596.
+1041, 1053, 1056, 1061.
+Hæmulon,
+denticulatum, 957.
+chrysargyreum, 346, 1418.
+duodecinum, 1010.,
+Hagiastrum,
+enneaxiphos, 1053.
+mohammedis, 777, 1039, 1045.
+favosum, 1044, 1053, 1056, 1061.
+Halaphya,
+grande, 1254.
+elongata, 592.
+hexagonium, 1250.
+Halargyreus,
+horridum, 147, 1265.
+johnsoni, 599, 1418, 1449.
+lirianthus, 1038.
+Halcampa,
+longispinum, 1038, 1045, 1053.
+clavus, 461, 1367.
+macrodorus, 1044.
+kerguelensis, 461, 1367.
+megaporum, 1267.
+Halcampella, 305, 1367.
+melitomma, 879.
+maxima, 809, 1367.
+patagonicum, 1136.
+Halecium, 1450.
+permagnum, 1024.
+arboreum, 461, 1333.
+regulare, 1217.
+beanii, 270, 548, 1333, 1356, 1446.
+rhodococcus, 1231.
+cymiforme, 1164, 1372.
+spinulosum, 1017.
+dichotomum, 407, 1372.
+tenellum, 1257, 1261, 1265, 1267.
+fastigiatum, 393, 1333.
+tenuispinum, 1265.
+flexile, 433, 1164, 1372, 1422.
+wyvillei, 1017, 1019, 1024, 1028,
+telescopicum, 555, 1372.
+1032, 1038, 1045, 1053, 1056,
+Halicalyptra,
+1061.
+ampulla, 1011.
+Haliotis,
+castanella, 1051.
+nævosa, 565, 1402.
+petalospyris, 1016, 1023.
+varia, 832, 1402.
+spinosa, 1041.
+Haliphormis,
+Halicapsa,
+costata, 1041.
+hystrix, 513, 880, 1060.
+lagena, 1218.
+lithapium, 957.
+Haliphysema, 294, 964.
+papillata, 1011.
+Haliporus,
+triglochin, 1041, 1051.
+curvirostris, 1081, 1088, 1286,
+Halicarcinus,
+1288.
+ovatus, 533, 561, 1390, 1425.
+equalis, 776, 1341.
+planatus, 437, 471, 597, 1177,
+lævis, 329, 332, 792, 1279, 1281,
+1343, 1359, 1390, 1425.
+1296, 1299, 1307.
+Halichondria, 336, 431, 784, 1187, 1315,
+neptunus, 739, 767, 1320, 1325.
+1363.
+obliquirostris, 615, 1320.
+caduca, 1165, 1363, 1448.
+Halirages, 1451.
+latrunculioides, 1187, 1315.
+fulvocinctus, 226, 1385.
+panicea, 460, 923, 1363, 1422,
+huxleyanus, 1176, 1385.
+1446.
+Halisceptrum,
+pelliculata, 760, 1329.
+gustavianum,
+solida, 1072, 1363, 1422.
+var. parvifolia, 818, 1367.
+var, rugosa, 666, 1363.
+Halisiphonia, 1282.
+Halicornaria,
+megalotheca, 527, 1278.
+plumosa, 356, 1372.
+Halobates, 153, 157, 252, 320, 380, 676,
+Halimeda,
+838, 853, 871, 872, 884, 885,
+caulerpa, 629.
+887, 890, 944, 951, 970, 971,
+Halimedon,
+975, 977, 984, 987, 1018, 1025,
+schneideri, 468, 482, 1385.
+1064, 1068, 1263.
+Halobates-continued.
+germanus, 836, 887, 895.
+princeps, 836.
+sericeus, 895, 993, 1082.
+wüllerstorfi, 160, 252, 320, 887,
+1263.
+Halocypris, 459.
+atlantica, 522, 524, 675, 905,
+951, 1093, 1137, 1138, 1141,
+1185, 1207, 1235, 1255.
+brevirostris, 314, 524, 675, 905,
+951, 1093, 1137, 1138, 1213,
+1235.
+imbricata, 905, 951, 1207.
+Halodora,
+reynaudii, 142.
+Halomitra,
+tiara, 825, 1369.
+Halophila, 629.
+Haloporphyrus, 1451.
+ensiferus, 1192, 1324.
+inosimæ, 901, 1353.
+Halopsyche, 735, 741, 770, 802, 869, 890.
+gaudichaudi, 617, 661, 676, 782,
+817.
+Halosaurus, 902.
+affinis, 919, 1324.
+macrochir, 120, 448, 1310, 1311,
+1447.
+mediorostris, 802, 1324.
+rostratus, 251, 1280.
+Halosphæra, 642, 661, 664, 751, 790,
+960, 987, 1127, 1232, 1455.
+Hamus (see Litorina).
+Hannonia, 1429.
+typica, 412, 1393.
+Hapalogenys,
+mucronatus, 910, 1418.
+Haplocheira,
+plumosa, 469, 1385.
+Haplochiton,
+zebra, 1166, 1180, 1418, 1428.
+Haplodactylus,
+punctatus, 1121, 1418.
+Haplophragmium, 604, 640.
+agglutinans, 139, 145, 166, 196,
+211, 261, 353, 123, 498, 529,
+581, 587, 631, 640, 857, 949,
+957, 964, 979, 1126, 1131,
+1200, 1216, 1253.
+anceps, 181, 400, 639, 936, 1111,
+1126, 1200, 1216, 1253.
+calcareum, 166, 181, 353, 581,
+640.
+canariense, 285, 423, 480, 492,
+631, 876, 936, 941, 979, 1002,
+1084, 1092, 1126, 1153, 1158,
+1162, 1172, 1200, 1225.
+emaciatum, 133, 152, 166, 181,
+424, 610, 639.

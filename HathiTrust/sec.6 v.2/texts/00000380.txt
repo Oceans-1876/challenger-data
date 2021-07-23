@@ -1,0 +1,114 @@
+1116
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATION 298.
+.
+99
+1)
+Temperature of water :
+Surface,
+25 fathoms,
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+300
+400
+500
+600
+59.0
+55.8
+52.5
+50.5
+49.6
+48.3
+47.2
+46.1
+45:1
+44:1
+43.2
+42:4
+41.9
+40:3
+39.5
+38.7
+700 fathoms,
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+Bottom,
+38.1
+377
+37.2
+36.9
+36.7
+36.5
+36.3
+36.2
+36.1
+36.0
+35.9
+35.9
+35.8
+35.7
+35.7
+35.6
+Density at 60° F.:-
+Surface,
+25 fathoms,
+50
+100
+200
+.
+.
+1.02533
+1.02526
+. 1.02522
+1:02546
+1.02540
+300 fathoms,
+400
+800
+1725
+1.02529
+. 1:02540
+. 1.02544
+1.02540
+.
+Depth, 2225 fathoms; deposit, Blue Mud, containing 5'65 per cent. of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.30 A.M. shortened and furled sails, and proceeded under steam. Sounded in
+2225 fathoms. Put trawl over, veering 2700 fathoms. Obtained serial temperatures
+from surface to bottom. The carbonic acid was determined in bottom water and amounted
+to 44:3 milligrammes per litre. At 1 P.M. commenced heaving in trawl, which came up
+at 3.40 P.M. with numerous specimens, while the attached tow-nets contained a little
+mud, one manganese nodule, portions of a Cephalopod beak, and pieces of twigs.
+The mud contained many excreta of Echinoderms. Proceeded under steam, and at
+5.30 P.M. made sail. Many stormy petrels were seen.
+Valparaiso distant at noon, 122 miles. Made good 122 miles. Amount of current
+15 miles, direction S. 16° W.
+ANIMALS FROM
+TRAWL.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :--
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Porcellanaster gracilis, n.g., n.sp. Obtained at no other locality.
+Hymenaster carnosus, n.sp. Obtained at no other locality. [Recorded in error
+from Station 295].
+1

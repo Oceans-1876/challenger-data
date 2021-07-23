@@ -1,0 +1,186 @@
+SUMMARY OF RESULTS.
+1531
+1, 313
+,
+14
+Nymphaster-continued.
+bipunctus, 864, 1334.
+protentus, 141, 1293.
+symbolicus, 720, 788, 1334, 1355,
+1358, 1375.
+var. breviradiata, 720, 746,
+1334.
+Nymphon, 189, 228, 479, 535, 609, 1432.
+brachyrhynchus, 471, 1393.
+brevicaudatum, 472, 1393.
+brevicollum, 227, 1393.
+compactum, 603, 1308.
+fuscum, 471, 1393.
+gracile, 78.
+grossipes, 227, 1394.
+hamatum, 447, 454, 1296, 1300,
+1308.
+longicol um, 1118, 1287.
+longicoxa, 603, 1308.
+meridionale, 497, 1296.
+perlucidum, 767, 1321.
+procerum, 1125, 1287.
+.
+19.
+Nogagus,
+curticaudis, 892.
+grandis, 1271, 1384.
+latreillii, 617, 892.
+lunatus, 1207.
+validus, 892.
+Nomeus,
+gronovii, 1068.
+Nonionina, 200, 424.
+asterizans, 631, 687
+boueana, 200.
+depressula, 145, 529, 949, 1158,
+1217.
+pompilioides, 212, 216, 286, 430,
+449, 512, 522, 589, 671, 876,
+937, 965, 1026, 1037, 1067,
+1078, 1085, 1089, 1112,
+1217.
+scapha, 183, 197, 212, 216, 687,
+903, 1003, 1132, 1154, 1158,
+1163, 1231.
+stelligera, 1163.
+turgida, 183, 630, 640, 903.
+umbilicatula, 115, 124, 145, 183,
+191, 197, 199, 212, 262, 295,
+342, 427, 430, 449, 529, 582,
+587, 589, 605, 640, 641, 664,
+671, 687, 843, 858, 876, 937,
+949, 965, 979, 1026, 1037,
+1067, 1078, 1092, 1104, 1112,
+1132, 1136, 1154, 1217, 1231,
+1254.
+Notacanthus, 1440, 1451.
+bonapartii, 1158, 1354, 1449.
+rissoanus, 936, 1298.
+sexypinis, 599, 1419.
+Nothocaris,
+binoculus, 723, 1387.
+geniculatus, 358, 1341.
+ocellus, 781, 1387.
+rostricrescentis, 748, 1341.
+spiniserratus, 1140, 1387.
+Nothria,
+abranchiata, 503, 1224, 1295,
+1299, 1305.
+abyssicola, 1224, 1305.
+armandi, 508, 1295.
+conchylega, 117, 225, 1319, 1327,
+1381.
+ehlersi, 1117, 1124, 1285, 1288.
+macrobranchiata, 899, 1338.
+minuta, 608, 1319.
+pycnobranchiata, 1117, 1124,
+1285, 1288.
+sombreriana, 162, 1338.
+tenuisetis, 162, 172, 608, 1319,
+1326, 1338.
+willemoesii, 763, 1338.
+Notobranchæa,
+inopinata, 952.
+Notocirrus,
+capensis, 409, 1381.
+Notolopas,
+brasiliensis, 376, 1392.
+Notomastus, 465, 1338.
+agassizii, 219, 308, 1305, 1313,
+1382.
+Notonyx,
+nitidus, 725, 1392.
+Notopoides, 1361.
+latus, 748, 1342.
+Notopus,
+ovalis, 748, 1342.
+Notopygos,
+labiatus, 780, 1382.
+megalops, 202, 1382.
+Notostomus,
+brevirostris, 351, 1321.
+japonicus, 918, 1321.
+longirostris, 759, 1307.
+murrayi, 386, 1296.
+patentissimus, 772, 1286.
+perlatus, 772, 1286.
+Notothenia,
+acuta, 478, 1419.
+cyaneobrancha, 478, 1419.
+elegans, 1171, 1419.
+longipes, 1146, 1165, 1171, 1354,
+1360, 1419, 1428.
+marionensis, 441, 1419.
+mizops, 478, 1354.
+squamifrons, 478, 1419.
+Nubecularia, 1071.
+divaricata, 629, 685.
+inflata, 480, 629, 1002.
+lucifuga, 195, 629.
+tibia, 180, 685.
+Nucula, 739, 1322.
+culebrensis, 174, 1344.
+dilecta, 579, 1344.
+niponica, 900, 1344.
+nitidula, 598, 1397.
+obliqua, 704, 727, 1397, 1426.
+pernambucensis, 351, 1322.
+profundorum, 963, 1287.
+reticulata, 283, 1308.
+torresi, 683, 1344.
+umbonata, 579, 1344.
+uruguayensis, 1194, 1397.
+(Acila),
+mirabilis, 909, 1397.
+Nuculina,
+ovalis, 412, 1397.
+Nummulites,
+cumingii, 631, 863.
+Nyctiphanes,
+australis, 545, 575.
+Nymphaster,
+albidus, 306, 1375.
+basilicus, 368, 369, 1317.
+LOS
+Obelia,
+geniculata, 461, 1175, 1373, 1422,
+1445, 1448.
+Obeliscus (see Odostomia).
+Oceanapia, ,
+robusta, 239, 371, 1363.
+Oceania, 482.
+Oceanites,
+oceanicus, 506.
+Ocinebra (see Murex).
+Ocnus,
+typicus 794, 1379.
+Octacnemus,
+bythius,856,1125, 1287,1289,1310.
+Octodendron,
+araucaria, 1095.
+arboretum, 882.
+contortum, 1061.
+cubocentron, 1017.
+pinetum, 1053.
+spathillatum, 1045.
+spirale, 982.
+verticillatum, 1101.
+Octopelta,
+cultella, 1231.
+furcella, 1218.
+scutella, 1255.
+Octopus, 142, 143, 681, 729, 869, 885,
+1309, 1410.
+areolatus, 748, 1350.
+australis, 572, 1410.
+bandensis, 757, 1410.
+bermudensis, 245, 1410.
+boscii, 1360.
+var. pallida,542,549,1350,1410.
+brevipes, 889.

@@ -1,0 +1,95 @@
+1258
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATION 350.
+Temperature of water :-
+.
+Surface,
+10 fathoms,
+20
+30
+40
+50
+60
+70
+80
+90
+100
+84:0
+84:0
+75.0
+68.5
+64.8
+62.2
+60.3
+59.2
+58.3
+57.5
+56.7
+110 fathoms,
+120
+130
+140
+150
+160
+170
+180
+190
+200
+300
+56:3
+55.7
+55.2
+55.0
+545
+53.6
+52.5
+51.6
+50.7
+50.0
+45.0
+>
+Density at 60° F. :-
+Surface, .
+25 fathoms,
+50
+. 1.02615
+1:02627
+1:02627
+100 fathoms,
+110
+130
+. 1.02619
+. 1.02627
+. 1.02580
+At 1.20 P.M. stopped and took serial temperatures down to 300 fathoms, about
+40 miles to the E.N.E. of Station 100, August 16, 1873. The carbonic acid was
+determined in surface water, and amounted to 33.8 milligrammes per litre. At 3 P.M.
+proceeded.
+Cape Verde distant at noon, 460 miles ; Sierra Leone, about 140 miles E.N.E. Made
+good 129 miles. Amount of current 8 miles, direction N. 62° E.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms. — The following species are recorded from the surface at this
+Station :
+Corycæus varius, Dana.
+Oncæa obtusa, Dana.
+Saphirina inæqualis, Dana.
+COPEPODA (Brady, Zool. pt. 23).
+Eucalanus attenuatus (Dana).
+setiger, n.sp.
+Heterochæta spinifrons, Claus.
+Leuckartia flavicornis, Claus.
+Undina vulgaris, Dana.
+Scolecithrix danæ (Lubbock).
+Euchæta prestandrea, Philippi.
+Candace pectinata, Brady.
+Acartia laxa, Dana.
+Temora dubia (Lubbock).
+Oithona challengerii, n.sp.
+Miracia efferata, Dana.
+PTEROPODA (Pelseneer, Zool. pt. 65).
+Cavolinia inflexa (Lesueur), (young
+= Hyalæa depressa, d'Orbigny).
+TUNICATA (Herdman, Zool. pt. 76).
+Doliolum denticulatum, Quoy and
+Gaimard.

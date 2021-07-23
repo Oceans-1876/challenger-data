@@ -1,0 +1,180 @@
+1500
+THE VOYAGE OF H.M.S. CHALLENGER.
+Doliolum, 119, 137, 139, 327, 836, 848,
+853, 866, 868, 869, 872, 873,
+877, 882, 884, 885, 887, 893,
+895, 916, 920, 942, 945, 951,
+953, 960, 982, 987, 990, 994,
+1005, 1007, 1029, 1048, 1063,
+1068, 1092, 1096, 1099, 1102,
+1105, 1106, 1113, 1115, 1185,
+1202, 1209, 1232, 1236, 1251,
+1256, 1259, 1262, 1264, 1266,
+1268, 1269.
+affine, 889, 940, 1094, 1447.
+challengeri, 661, 940, 941, 943,
+952, 1262.
+denticulatum, 546, 575,661, 1258,
+1263.
+ehrenbergi, 586, 1185, 1263, 1269.
+krohni, 1126.
+Dolium,
+perdix, 861, 1401.
+Domoseris, 1073, 1429.
+porosa, 1073, 1368.
+regularis, 1073, 1368.
+solida, 1073, 1368.
+Donax,
+nitidus, 563, 703, 1395, 1426.
+Doracantha,
+dorataspis, 1046.
+Dorataspis,
+fusigera, 1046.
+macrocantha, 1095.
+micropora, 957.
+polypora, 1251.
+typica, 1033, 1046,1053, 1057,1062.
+Dorcadospyris,
+antilope, 880, 1031, 1040, 1051,
+1056, 1060.
+decussata, 1011, 1016, 1022,
+dentata, 1022, 1027, 1031, 1040,
+1051, 1056, 1060.
+dinoceras, 1022.
+lunulata, 1015.
+Doriopsis,
+nebulosa, 999, 1410.
+Dorippe, 802.
+facchino, 795, 1390.
+japonica, 909, 1390.
+Doris, 1148, 1180.
+Dorocidaris,
+(Cidaris),
+bracteata, 762, 1336, 1358, 1378.
+papillata, 135, 172, 339, 788, 814,
+1189, 1318, 1326, 1327, 1336,
+1355, 1358, 1378, 1423.
+Dorocidaris (see Cidaris).
+Dorodotes,
+levicarina, 723, 1387.
+reflexus, 759, 792, 1307, 1311.
+Doryichthys,
+brachyurus, 660, 1417.
+Doryichthys—continued.
+pleurotænia, 1001, 1417.
+Dorynchus,
+thomsoni, 114.
+Dorypelta,
+dodecaspis, 919.
+furcata, 1062.
+gladiata, 1017.
+lithoptera, 943.
+ramosa, 1137.
+stauroptera, 1231.
+tessa raspis, 1006.
+tetrodon, 1085.
+Dorypleres, 1360.
+dendyi, 743, 1329.
+Dosinia,
+circinaria, 563, 1395.
+deshayesii, 703, 1395.
+histrio, 703, 726, 1395, 1426.
+lambata, 598, 1395.
+mira, 726, 1395.
+sculpta, 703, 1395.
+Drepane,
+punctata, 796, 1417.
+Drepanophorus,
+lankesteri, 225, 1380.
+rubrostriatus, 307, 1380.
+serraticollis, 464,537, 1380, 1424,
+1448.
+Drepanopus,
+furcatus, 551, 1021, 1126, 1257.
+pectinatus, 482.
+Drillia (see Pleurotoma).
+Dromia,
+ciliata, 539, 1388.
+Dromidia,
+antillensis, 375, 1388.
+bicornis, 421, 1342.
+spongiosa, 410, 1388.
+Druppatractus,
+belone, 1039, 1045.
+coronatus, 1010, 1015, 1022.
+diodon, 1061.
+hippocampus, 1032, 1045, 1053.
+ichthydium, 1045.
+ostracion, 1010.
+pisciculus, 1217.
+testudo, 957, 1015.
+xiphias, 1022.
+Druppocarpus,
+ananassa, 1039, 1098.
+borassus, 1021.
+castanea, 1039.
+Druppula,
+caryota, 1015, 1021.
+cocos, 167, 871.
+drupa, 879.
+pandanus, 1021.
+Drymonema,
+victoria, 118, 1316.
+Drymosphæra,
+cladophora, 1068.
+dendrophora, 1045.
+hexagonalis, 1061.
+polygonalis, 922.
+Dryopoides, 1429.
+westwoodi, 532, 1385.
+Dules,
+marginatus, 658, 1000, 1076,
+1417, 1428.
+rupestris, 658, 1417.
+Dunkeria,
+falcifera, 238, 1309.
+Durvillea, 428, 525.
+Duymæria,
+flagellifera, 834, 1417.
+Dysactis,
+crassicornis, 1163, 1188, 1867,
+1422.
+rhodora, 1168, 1367.
+Dysporus,
+sula, 718.
+Dystympanium,
+dictyocha, 1046, 1231.
+medusa, 1218.
+Dytaster,
+æquivocus, 738, 1317.
+biserialis, 288, 1284.
+exilis, 210, 1299, 1303, 1446.
+var. carinata, 210, 1293.
+var. gracilis, 210, 386, 1128,
+1293.
+inermis, 771, 1284.
+madreporifer, 210, 213, 1293,
+1299, 1303.
+nobilis, 1205, 1278.
+spinosus, 962, 1284.
+Eatoniella,
+caliginosa, 474, 1401.
+subrufescens, 474, 1401.
+Ebalia,
+lævis, 594, 597, 1343, 1359,
+1390.
+lambriformis, 725, 1390.
+tuberculosa, 421, 540, 549, 561,
+594, 1343, 1356, 1359, 1390,
+1425.
+(Phlyxia),
+crassipes, 540, 561, 1390, 1425.
+dentifrons, 562, 1390.
+intermedia, 533, 1390.
+quadridentata,
+var. spinifera, 562, 1390.
+undecimspinosa,
+var. orbicularis, 561, 1390.
+Eburna, 539.
+(Zemira),
+australis, 541, 567, 1401, 1426.

@@ -1,0 +1,183 @@
+1544
+THE VOYAGE OF H.M.S. CHALLENGER.
+Podocyrtis-continued.
+favosa, 1042, 1047, 1132.
+flosculata, 1023, 1042.
+hexagonalis, 957.
+lithoconus, 1032, 1042, 1047.
+nana, 1226.
+pedicellaria, 1012, 1016, 1023.
+princeps, 881, 1254.
+prismatica, 881.
+scaphopodia, 1006, 1012, 1016,
+1023, 1027, 1032, 1042, 1052,
+1056, 1060.
+sphærogaster, 1016.
+surena, 950, 1042.
+triacantha, 1023.
+tripodiscus, 1012, 1016, 1023,
+1027, 1032, 1042, 1052.
+urceolata, 1012.
+Podocystis,
+adriatica, 939.
+Podophthalmus,
+vigil, 997, 1393.
+Podosira,
+ambigua, 812.
+argus, 812.
+hormoides, 443, 481, 493, 939.
+lævis, 939.
+maculata, 911.
+maxima, 443, 481, 904, 939.
+montagnei, 481, 1028.
+Pæcilasma,
+carinatum, 173, 1242, 1339, 1356.
+gracile, 578, 1339.
+Pocillastra,
+crassiuscula, 304, 1329.
+laminaris, 760, 1329.
+schulzii, 483, 1329.
+tenuilaminaris, 921, 1315.
+Pucilopsetta, 1361.
+colorata, 749, 1351.
+Poliopogon, 1450.
+amadou, 140, 141, 1292.
+gigas, 140, 612, 1315.
+Pollicipes,
+polymerus, 1450.
+Polycarpa,
+aspera, 1192, 1323.
+bassi, 544, 1415.
+irregularis, 807, 1415.
+longisiphonica, 574, 1415.
+minuta, 486, 1353.
+molguloides, 544, 1415.
+pedata, 820, 1415.
+pilella, 378, 1415.
+quadrata, 749, 1353.
+radicata,550,574,1353,1360,1415.
+rigida, 544, 1415.
+sulcata, 757, 1415.
+tinctor, 573, 1415.
+viridis 573, 1415.
+Polycheles,
+baccata, 633, 1341.
+crucifera, 163, 1341.
+helleri, 614, 856, 1307, 1312,
+1321.
+Polycirrus,
+kerguelensis, 466, 1338.
+Polyclinum,
+depressum, 714, 1415.
+fungosum, 574, 1415.
+incertum, 1171, 1415.
+minutum, 477, 1415.
+molle, 1192, 1323.
+pyriformis, 477, 1415.
+Polycolpa, 1429.
+forskalii, 780, 1373.
+Polycope,
+cingulata, 1271, 1384.
+favus, 683.
+orbicularis, 420, 467, 683, 1270,
+1339, 1356, 1359, 1384, 1443.
+Polyeunoa, 1361.
+lævis, 435, 1157, 1338, 1356.
+Polygordius, 931, 932, 1262.
+Polyipnus,
+spinosus, 777.
+Polylophus,
+philippinensis, 744, 809, 1330,
+1357, 1365.
+Polymastia, 223, 1364.
+agglutinans, 269, 1329.
+corticata, 368, 369, 1315.
+mammillaris, 223.
+robusta, 223, 1364.
+Polymixia,
+nobilis, 901, 1354.
+Polymorphina, 166, 295, 1067, 1085.
+amygdaloides, 686.
+angusta, 182, 261, 449, 511, 587,
+589, 671, 686, 858, 876, 949,
+965, 1037, 1067, 1131, 1217
+1226, 1231, 1247.
+communis, 686.
+compressa, 182, 196, 686.
+cuspidata, 522.
+elegantissima, 427, 687.
+gibba, 631.
+horrida, 687.
+lactea, 153, 196, 215, 295, 949,
+1231.
+lanceolata, 261, 449, 522, 687,
+1037, 1067, 1112, 1247.
+longicollis, 1037, 1067, 1112,
+1131, 1231.
+myristiformis, 424.
+oblonga, 631, 687.
+ovata, 182.
+problema, 687.
+regina, 261, 400, 687, 1002.
+rotundata, 182, 876, 1067, 1112.
+Polymorphina-continued.
+seguenzana, 1067.
+sororia, 153, 215, 449, 522, 1067,
+1136.
+var. cuspidata, 295, 449.
+thouini, 511.
+Polynemus,
+sexfilis, 1001, 1420.
+Polynoë, 211, 783.
+ascidioides, 527, 1279.
+attenuata, 409, 1382.
+capensis, 417, 1382.
+magnipalpa, 619, 1319.
+ocellata, 907, 1382.
+platycirrus, 538, 548, 1338, 1358,
+1382.
+pustulata, 242, 1382.
+(Admetella),
+longipedata, 445, 1305.
+(Langerhansia),
+euplectellæ, 810, 1382.
+(Lepidonotus),
+iphionoides, 780, 1382.
+(Macellicephala),
+mirabilis, 607, 1319.
+(Robertianella),
+synophthalma, 141, 367, 1295,
+1298.
+Polynoella, 1327.
+levisetosa, 918, 1319.
+Polyonyx,
+obesulus, 700, 1389.
+Polyopis, 1290.
+striata, 1123, 1284.
+Polypetta,
+alveolata, 1085.
+mammillata, 977.
+polynema, 1018.
+tabulata, 1043.
+Polyphyes,
+ungulata, 1261.
+Polyplagia,
+duodenaria, 1126.
+septenaria, 1062.
+viminaria, 950.
+Polyplecta,
+decacantha, 1231.
+enneacantha, 1015.
+heptacantha, 1046.
+Polyplumaria,
+pumila, 270, 1333.
+Polyprion, 1440.
+kneri, 1115, 1420.
+Polyrhabdus, 1301.
+oviformis, 502, 1292.
+Polysiphonia, 1327.
+tuberosa, 917, 1316.
+Polystomella, 98, 304.
+arctica, 631.
+craticulata, 630, 717, 863, 1003.
+1067,

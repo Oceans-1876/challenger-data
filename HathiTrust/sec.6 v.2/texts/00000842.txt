@@ -1,0 +1,182 @@
+1560
+THE VOYAGE OF H.M.S. CHALLENGER.
+Stapnophyllum-continued.
+globigerinum, 1035, 1283.
+pertusum, 1035, 1283.
+radiolarium, 1035, 1283.
+venosum, 1035, 1283.
+zonarium, 1035, 1283.
+Staphylinus, 328.
+Stauracantha,
+bifurca, 1017.
+diplostaura, 1101.
+johannis, 1132.
+murrayana, 1218.
+orthostaura, 611.
+pinnulata, 958.
+quadrifurca, 1207, 1213.
+tetrastaura, 1053.
+Stauracontium,
+antarcticum, 512.
+cruciferum, 1021.
+papillosum, 1059.
+setosum, 1015.
+Stauractura,
+medusina, 1022.
+octogona, 1015.
+tetragona, 1011.
+Stauralastrum,
+antiquum, 1015.
+clavigerum, 1022.
+cruciforme, 1105.
+dilatatum, 1132.
+horridum, 1031.
+lanceolatum, 1055.
+ordo, 1011.
+rhopalophorum, 1011.
+staurolonche, 1254.
+Stauranсistra,
+quadricuspis, 1038.
+Stagraspis,
+cruciata, 1024.
+furcata, 1017.
+stauracantha, 1239.
+xiphacantha, 1099.
+Statrocephalus, 1451.
+atlanticus, 266, 1305.
+australiensis, 538, 1382.
+Stavrocontium,
+tetracanthum, 1044.
+Staurocromyum,
+quadrispinum, 1010.
+quadruplex, 1038.
+Staurocyclia,
+phacostaurus, 1045, 1226.
+serrata, 1039.
+Staurodictya,
+cruciata, 1011.
+elegans, 1051.
+grandis, 1011, 1015, 1022.
+medusa, 957.
+Staurodoras,
+spongosphæra, 1044.
+Staurolonche,
+brunonis, 1021.
+epicurii, 1038.
+gassendii, 1265.
+hexagona, 253.
+lucretii, 1010.
+moleschottii, 1021.
+pertusa, 1265.
+spinozæ, 1044.
+straussii, 878.
+Staurolonchidium,
+artioscelides, 1013, 1038, 1044.
+perspicuum, 1044.
+Stauroneis,
+gregorii, 286.
+phænicenteron, 481, 939.
+pygmæa, 733.
+Staurosphæra,
+andreæ, 1010.
+bartholomæi, 1089.
+christiana, 1021.
+cruciata, 1038.
+jacobi, 1265.
+johannis, 879, 949.
+judæ, 1055.
+matthæi, 979, 1044.
+pauli, 1010.
+petri, 1206.
+philippi, 1053.
+thaddæi, 1015.
+thomæ, 1038, 1044, 1217.
+Staurostylus,
+germanicus, 957.
+græcus, 1059.
+latinus, 1044.
+Staurotheca, 1361.
+dichotoma, 433, 1333.
+Staurotholonium,
+lenticulare, 1266.
+octodoratium, 894.
+octodoronium, 1095.
+Staurotholus,
+cruciatus, 1015.
+decastylus, 875.
+dodecastylus, 1255.
+octostylus, 1060.
+polystylus, 894.
+quadratus, 1201.
+tetrastylus, 592.
+Stauroxiphus,
+gladius, 879, 1015.
+Stavelia (see Mytilus).
+Steganoporella,
+magnilabris, 1000, 1413.
+Stegocephalus,
+inflatus, 225, 1386.
+Stelechopus, 1301.
+hyocrini, 453, 1295.
+Stellaster,
+incei, 694, 720, 804, 1376, 1423.
+Stellaster-continued.
+princeps, 694, 1376.
+Stelletta, 1451.
+phrissens, 1150, 1329.
+Stelospongos,
+longispinus, 355, 1328.
+Stenella,
+acanthina, 1188, 1316.
+dæderleini, 933, 1292.
+gigantea, 636, 1316.
+johnsoni, 1241, 1331.
+spinosa, 432, 1331.
+Stenetrium,
+haswelli, 1190, 1320.
+Stenohelia,
+profunda, 161,619,1316, 1325, 1333.
+Stenopleura, 1301.
+atlantica, 332, 386, 1295, 1298.
+Stenopus,
+hispidus, 243, 648, 1388, 1425.
+Stenorhynchus, 203, 366, 535, 551, 575,
+629, 716.
+falcifer, 411, 1393.
+spinifer, 339, 1393.
+Stenothoë,
+adhærens, 421, 1340.
+Stentor, 734.
+Stephanactis,
+abyssicola, 216, 898, 1303.
+tuberculata, 898, 1332.
+Stephanaria,
+stellata, 644, 995, 1372, 1422.
+Stephanastrum,
+capitatum, 1011.
+quadratum, 1022, 1039.
+Stephanidium, 1429.
+schulzii, 809, 1367.
+Stephaniscus,
+medusinus, 1218.
+quadrifurcus, 1015.
+tetrapodius, 1031, 1040, 1051,
+1055, 1060.
+Stephanium,
+quadrupes, 1015.
+tetrapus, 1051.
+Stephanophyllia,
+complicata, 745, 1333.
+formosissima, 745, 809, 1333,
+1358, 1368.
+Stephanopyxis,
+campana, 931.
+corona, 733.
+hyalina, 733.
+palmeriana, 733, 931.
+superba, 733, 812.
+turgida, 931.
+turris, 287, 319.
+var. brevispina, 905.
+var, inermis, 481.
+var. paucispina, 931.

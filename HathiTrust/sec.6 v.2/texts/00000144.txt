@@ -1,0 +1,110 @@
+904
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATION 232.
+>
+0
+5
+Navicula brasiliensis, Grunow.
+maxima, Gregory.
+liber, Smith.
+smithii, Ralfs.
+nitescens, Ralfs.
+egyptiaca, Greville.
+bomboides, A. Schmidt.
+crabro, Ehrenberg.
+multicostata, Grunow.
+entomon, Kutzing.
+pandura, Brebisson.
+pelagi, A. Schmidt.
+gemmata, Greville.
+aspera, Ehrenberg.
+Alloroneis antillarum, Cleve and Grunow.
+Pleurosigma pulchrum, Grunow.
+affine, Grunow, var. normanni, Ralfs.
+Rhoikosigma reichartii, Grunow.
+Gomphonema geminatum, Agardh (fresh water).
+Epithemia turgida, Kutzing (fresh water).
+Cocconeis heteroidea, Hantzsch.
+pellucida, Hantzsch.
+pseudomarginata, Gregory.
+scutellum, Ehrenberg.
+Orthoneis splendida, Grunow.
+Sceptroneis clavus, Kitton.
+Grammatophora stricta, Ehrenberg.
+gibberula, Kutzing.
+japonica, Grunow.
+alriatica, Grunow.
+Synedra goulardii, Brebisson.
+superba, Kutzing
+doliolus, Wallich.
+Nitzschia jelinekii, Grunow.
+weissflogii, Grunow.
+distans, Gregory.
+marina, Grunow.
+panduriformis, Gregory.
+recta, Hantzsch.
+Surirella fastuosa, Ehrenberg.
+japonica, A. Schmidt.
+Campylodiscus bicinctus, Castracane.
+erosus, Castracane, and var.
+latus, Shadbolt.
+biangulatus, Greville.
+pfitzeri, A. Schmidt.
+undulatus, Greville.
+Perrya pulcherrima, Kitton.
+Rhaphoneis gemmifera, Ehrenberg.
+sp. (9)
+Glyphodesmis fusiformis, Cleve and Grunow ().
+Rhabdonema alriaticum, Kutzing.
+Achnanthes sp. (?).
+Gephyria media, Arnott.
+gigantea, Greville.
+Climacosphenia moniligera, Ehrenberg.
+elongata, Bailey.
+Euphyllodium sp. (?).
+Asteromphalus darvinii, Ehrenberg.
+elegans, Greville.
+cleveanus, Grunow.
+Actinocyclus punctulatus, Castracane.
+complanatur, Castracane.
+japonicus, Castracane.
+pruinosus, Castracane.
+sp. (?).
+Actinoptychus splendens, Ralfs, var. halionyx, Grunow,
+undulatus, Ehrenberg, and var.
+areolatus, A. Schmidt,
+Coscinodiscus lineatus, Ehrenberg.
+leptopus, Janisch.
+bipartitus, Rattray.
+excentricus, Ehrenberg.
+subtilis, Ehrenberg, and var.
+nitidus, Gregory.
+radiatus, Ehrenberg.
+var. media, Grunow.
+var, minor, Grunow.
+fimbriatus, Ehrenberg.
+oculus-iridis, Ehrenberg.
+asteromphalus, Ehrenberg.
+var. princeps, Grunow.
+var. pulchra, Grunow.
+centralis, Ehrenberg.
+concinnus, Smith.
+var, jonesiana, Rattray.
+gigas, Ehrenberg.
+apiculatus, Ehrenberg, var. wood-
+wardii, Rattray.
+>
+02
+sp. (?).
+Paralia sulcata, Cleve.
+Podosira macima, Grunow.
+Hyalodiscus stelliger, Bailey.
+ambiguus, Grunow.
+Cyclotella stylorum, Brightwell.
+Stictodiscus japonicus, Castracane.
+californicus, Greville.
+var. areolatus, Grunow.
+var, nankoorensis, Grunow,
+bicoronatus, Castracane.
+»
+2

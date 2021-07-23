@@ -1,0 +1,81 @@
+
+MEAN TEMPERATURE OF THE OCEA
+80
+90
+70
+60
+110
+120
+100
+130
+150
+140
+The Voyage of HMS "Challenger"
+160
+170
+160
+170
+180
+150
+140
+130
+120
+100
+no
+80
+70
+60
+38°
+50
+40
+O
+30
+Tropic of Cancer
+.
+1
+365
+20
+-215
+Equator
+37
+20
+10
+Tropic of Capricorn
+20
+38°
+30
+37°
+40
+36
+80
+BO
+Antarctic Circle
+70
+ISOTHERMAL LINES
+SHOWING THE MEAN TEMPERATURE (FAHR)
+OF THE OCEAN AT
+DEPTH OF 1000 FATHOMS
+70
+80
+90
+no
+100
+140
+130
+120
+Tracka
+150
+170
+160
+180
+170
+140
+150
+160
+130
+100
+110
+120
+A Buchan Delt.
+Isothermals above Average shown in Red thus
+..e

@@ -1,0 +1,182 @@
+1530
+THE VOYAGE OF H.M.S. CHALLENGER.
+Ninella (see Turbo).
+Niotha (see Nassa).
+Niphon,
+spinosus, 926, 1419.
+Nitocris,
+rosea, 740.
+Neptunus,
+(Achelous),
+depressifrons, 244, 1392.
+granulatus, 831, 860, 1392, 1425.
+unispinosus, 701, 1392, 1425.
+whitei, 725, 1392.
+(Amphitrite),
+gladiator, 725, 1392.
+var. argentatus, 819.
+hastatoides, 725, 795, 900, 913,
+1392, 1425.
+hastatus, 136, 1392.
+rugosus, 701, 806, 819, 1392,
+1425.
+spinipes, 806, 1392.
+tuberculosus, 736, 1392.
+(Hellenus),
+spinicarpus, 359, 1392.
+(Neptunus),
+pelagicus, 785, 1392.
+sanguinolentus, 561, 770, 997,
+1392, 1425.
+sayi, 188, 226, 1268, 1392.
+Nereis, 122.
+antillensis, 169, 1381.
+atlantica, 308, 1381.
+kerguelensis, 465, 1381.
+longisetis, 121, 1295.
+patagonica, 1169, 1381.
+(Ceratonereis),
+brasiliensis, 358, 1381.
+(Lycoris),
+pelagica, 225, 1381.
+(Perinereis),
+melanocephala, 242, 1381.
+(Platynereis),
+arafurensis, 722, 1331.
+dumerilii, 308, 1381.
+eatoni, 343, 435, 465, 1176, 1381,
+1424.
+kobiensis, 907, 1381.
+tongatabuensis, 624, 1381.
+Nerita,
+albicilla, 651, 1404.
+ascensionis, 345, 1404.
+chamäleon, 832, 1404.
+punctata, 567, 1404.
+tessellata, 176, 1347.
+Neritina, 657, 1404.
+Nettastoma,
+parviceps, 901, 1354.
+Neverita (see Natica).
+Nicidon,
+balfouriana, 614, 1319.
+Nicomache, 1450.
+benthaliana, 947, 1285.
+capensis, 409, 1381.
+japonica, 899, 1338.
+Nika,
+processa, 763, 1387.
+Nitzschia,
+acuminata, 733.
+apiculata, 442.
+forma minuta, 930.
+bilobata, 197.
+circumsuta, 191.
+constricta,
+var, antarctica, 515.
+var. similis, 481, 492, 515.
+forma parva, 733.
+distans, 442, 481, 904.
+dubia, 733, 930.
+insignis, 287, 442.
+jelinekii, 130, 904, 938.
+linearis,
+var, tenuis, 973.
+longissima,
+var. reversa, 733.
+mammalis, 733.
+marina, 197, 220, 264, 278, 287,
+302, 319, 403, 405, 492, 760,
+888, 904, 938, 1012, 1027,
+1043.
+obesa, 812.
+panduriformis, 130, 135, 191,
+197, 278, 287, 303, 812, 904,
+1027.
+plana, 130, 191, 197, 287, 812,
+911.
+punctata,
+var, coarctata, 911.
+pungens, 930.
+recta, 904.
+scalaris, 517, 888, 892.
+sigma, 733, 930.
+socialis,
+var. indica, 733, 930.
+spathulata, 130.
+vermiculata, 812.
+weissflogii, 904.
+(Tryblimella),
+salinarum, 911.
+Noctiluca, 317, 318, 416, 790, 796, 800,
+848, 849, 850, 893, 894, 895, 916,
+920, 931, 932, 940, 941, 942, 943,
+1119, 1127, 1270.
+Nodosaria, 79, 124, 134, 153, 166, 196,
+200, 261, 295, 400, 427, 522,
+582, 605, 641, 1026, 1059,
+1085, 1092, 1104, 1131.
+abyssorum, 1112.
+calomorpha, 480, 1181, 1217,
+1231.
+catenulata, 686.
+Nodosaria-continued.
+comata, 115, 166, 182, 196, 198.
+communis, 134, 139, 145, 152,
+166, 182, 196, 211, 215, 261,
+342, 354, 480, 511, 529, 581,
+589, 605, 631, 640, 641, 671,
+686, 858, 937, 965, 1037, 1067,
+1071, 1085, 1092, 1104, 1112,
+1131, 1154, 1158, 1217, 1226,
+1247, 1253.
+consobrina, 261, 424, 641, 1131.
+var, emaciata, 182, 196, 424,
+581, 686, 1112
+costulata, 166, 182, 196.
+farcimen, 182, 354, 1131.
+filiformis, 134, 166, 182, 196,
+427, 1201.
+hispida, 166, 182, 196, 581, 686,
+862, 1226.
+var. sublineata, 196, 354,
+1131.
+inflexa, 581, 686, 1067, 1131.
+intercellularis, 166, 182, 196,
+1112.
+obliqua, 134, 166, 182, 198, 215,
+295, 319, 354, 424, 427, 419,
+581, 610, 641, 686.
+perversa, 196, 400, 424, 1092.
+plebeia, 686, 1131.
+proxima, 134, 631, 686, 1002.
+pyrula, 134, 166, 581, 631, 641,
+686, 903, 1071, 1163.
+radicula, 424, 605, 686, 1247.
+raphanus, 166, 182, 215, 261,
+582, 631, 641, 686, 1131.
+roemeri, 134, 166, 182, 196, 529,
+686, 876.
+scalaris, 115, 134, 198, 295, 424,
+427, 582, 686, 903, 949.
+var, separans, 582.
+simplex, 134, 211, 605.
+soluta, 115, 134, 166, 182, 196,
+215, 286, 354, 582, 610, 686.
+rar. striata, 196.
+subcanaliculata, 166, 1071.
+verruculosa, 1112, 1131.
+vertebralis, 134, 166, 182, 196,
+427, 686, 1085.
+(Dentalina),
+mucronata, 196, 211, 319, 427,
+429, 664, 903, 1037, 1067,
+1104, 1131, 1136, 1217, 1247.
+pauperata, 1162.
+(Glandulina),
+æqualis, 182, 424, 1085, 1126,
+1201.
+lævigata, 115, 134, 166, 182, 286,
+424, 449, 581, 605 858, 965,
+1037, 1112, 1131, 1154, 1162.
+rotundata, 153, 427, 449, 582.

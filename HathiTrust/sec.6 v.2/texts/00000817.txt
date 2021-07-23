@@ -1,0 +1,195 @@
+SUMMARY OF RESULTS.
+1535
+336.
+137.
+921, 1812, ist
+1304, 137.
+537,:315, 112
+3.
+1338.
+172, 153, 1N
+634, 1333
+.
+7.
+304.
+Ophiozona,
+antillarum, 162, 1336.
+depressa, 840, 1318.
+dubia, 162, 1336.
+impressa, 374, 1377.
+insularia, 632, 1336.
+nivea, 172, 1336.
+stellata, 601, 607, 1304, 1312,
+1318.
+Ophiura,
+appressa, 374, 1377.
+brevispina, 374, 1377.
+cinerea, 169, 374, 1377, 1423.
+tongana, 408, 1377.
+Ophthalmidium, 294.
+inconstans, 133, 181, 285, 294,
+353, 449, 480, 581, 630, 639,
+685, 936, 1071.
+tumidulum, 181, 949.
+Opisthognathus,
+cornutus, 1419, 1428.
+macrolepis, 781, 1419.
+Oplophorus,
+brevirostris, 801, 1321.
+longirostris, 638, 1321.
+typus, 767, 867, 1307, 1312, 1321.
+Opostomias, 1290.
+micripnus, 524, 1288.
+Orbicella,
+cavernosa, 356, 365, 1371.
+Orbiculina, 304.
+adunca, 165, 181, 196, 353.
+orbicularis, 687.
+Orbitolites,
+complanata, 165, 196, 630, 639,
+685, 717, 1002.
+var. laciniata, 630.
+duplex, 630.
+marginalis, 165, 181, 196, 630,
+685, 862, 1002.
+tenuissima, 211, 449.
+Orbulina, 334, 428, 522, 582, 641, 642,
+661, 664, 671, 672, 673, 676,
+677, 735, 741, 751, 770, 775,
+778, 782, 783, 790, 793, 799,
+802, 817, 845, 853, 868, 869,
+873, 877, 882, 884, 885, 887,
+889, 893, 894, 916, 940, 941,
+943, 944, 951, 952, 953, 960,
+968, 971, 973, 975, 977, 980,
+982, 987, 988, 989, 992, 994,
+1007, 1009, 1018, 1048, 1054,
+1062, 1068, 1092, 1113, 1121,
+1127, 1133, 1137, 1138, 1203,
+1210, 1236, 1239, 1245, 1251,
+1256, 1260, 1262, 1263, 1266,
+1268, 1269.
+Orthoneis-continued.
+splendida, 191, 277, 287, 904,
+938.
+wrightii, 442.
+Ossifraga,
+gigantea, 506.
+Ostracion,
+boops, 661.
+cornutus, 660.
+cubicus, 660, 1419.
+quadricornis, 364, 1354.
+Ostrea, 821.
+cochlear, 96.
+imbricata, 727, 1397.
+Otaria,
+jubata, 464.
+Otolithus,
+guatucupa, 1195, 1419.
+Otosphæra,
+auriculata, 1021, 1027, 1031, 1038,
+1044, 1050.
+polymorpha, 1038, 1044.
+Owenia, 284.
+Oxycephalus, 153, 247, 334, 383, 388,
+661, 676, 790, 817, 836, 848,
+850, 868, 869, 885, 887, 889,
+893, 894, 944, 951, 960, 973,
+1025, 1048, 1115, 1213, 1269.
+clausi, 330, 992, 1251.
+longiceps, 967.
+oceanus, 871.
+porcellus, 334, 682.
+Oxygyrus, 153, 334, 751, 973, 975,
+977, 982, 1007, 1113.
+Oxypleurodon, 1361.
+stimpsoni, 748, 815, 1313, 1356.
+Oxypora,
+contorta, 761, 1371.
+Oxyrhina, 156, 976, 1087.
+Oxystele (see Trochus).
+3.
+Orbulina univers 1-continued.
+199, 200, 212, 215, 262, 286,
+295, 319, 354, 400, 424, 427,
+430, 498, 522, 529, 582, 587,
+589, 605, 610, 631, 640, 641,
+664, 671, 687, 843, 858, 876,
+903, 937, 949, 957, 965, 979,
+1002, 1026, 1037, 1067, 1078,
+1085, 1092, 1104, 1112, 1126,
+1132, 1136, 1154, 1201, 1217,
+1226, 1229, 1231, 1247, 1253.
+Orca,
+gladiator, 150.
+Orchestia,
+selkirki, 1115, 1386.
+Orchomene,
+abyssorum, 1199, 1295.
+cavimanus, 468, 1386.
+musculosus, 892.
+Orcula,
+hypsipyrga, 907, 1379.
+Orona,
+maxima, 1012.
+robusta, 1024.
+Orophaspis,
+astrolonche, 943.
+diporaspis, 1108.
+furcata, 1062.
+gladiata, 1013.
+ramosa, 919.
+tessaraspis, 943.
+Oroplegma,
+diplosphæra, 1012.
+giganteum, 1250.
+spinulosum, 1024.
+spongiosum, 950.
+velatum, 1231.
+Oroscena,
+baerii, 958.
+darwinii, 1254.
+duncanii, 1184.
+gegenbauri, 1024.
+huxleyi, 145.
+mülleri, 1012.
+Orosphæra,
+arborescens, 1226.
+clavigera, 1006.
+confluens, 1250.
+fusigera, 980.
+hastigera, 1052.
+ramigera, 1218.
+spinigera, 1265.
+Orphania, 1314.
+tenuimana, 214, 1307.
+Orphnurgus, 1361.
+asper, 162, 1337.
+Orthagoriscus,
+mola, 119.
+Orthoneis,
+coronata, 287.
+71.
+Pachastrella, 1452.
+abyssi, 392, 1329.
+Pachychalina,
+elongata, 535, 1363.
+fibrosa, 239, 371, 803, 1363,
+1422.
+fragilis, 803, 1363.
+lobata, 553, 1363.
+megalorraphis, 577, 1329.
+melior, 803, 1363.
+pedunculata, 460, 1363.
+punctata, 535, 1363.
+Pachycheles,
+barbatus, 310, 1389.
+pulchellus, 699, 724, 1389,
+Pachychlæna, 1429.
+gigantea, 415, 1415.
+obesa, 544, 1415.
+oblonga, 544, 1415.
+porosa, 182.
+universa, 115, 124, 134, 139, 145,
+147, 153, 167, 182, 191, 196,
