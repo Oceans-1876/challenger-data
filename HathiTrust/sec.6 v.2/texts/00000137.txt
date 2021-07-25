@@ -1,42 +1,42 @@
 SUMMARY OF RESULTS.
-897
+899
 STATION 232.
-list. Put dredge over again, also put over trawl twice, as the first time it did not seem
-to have been at the bottom. This is a noted ground for dredging Hyalonema. Obtained
-a series of temperatures. At 6 P.M. completed trawling and dredging, and proceeded
-towards Kobé.
-The following species are recorded in the Zoological Reports from the dredge and Animals FROM
-DREDGE AND
-trawl at this Station :-
-TRAWL.
-HEXACTINELLIDA (Schulze, Zool. pt. 53).
-Hyalonema (Stylocalyx) apertum, n.sp. Several
-Several specimens; obtained at no
-other locality.
-ALCYONARIA (Wright and Studer, Zool. pts. 64 and 81).
-Strophogorgia petersi, n.g., n.sp. One specimen ; obtained at no other locality.
-Dasygorgia geniculata, n.sp. One specimen ; obtained also at Station 201.
-Ceratoisis paucispinosa, n.sp. Three specimens ; obtained at no other locality.
-Caligorgia flabellum (Ehrenberg). A few branches ; obtained at no other locality
-by the Challenger. Recorded from Formosa, Japan,
-and Mauritius.
-Acamptogorgia arbuscula (Gray, MS.). One specimen ; obtained at no other
-locality by the Challenger.
-Acis pustulata, n.sp. One specimen ; obtained at no other locality.
-Muricella complanata, n.sp. One specimen ; obtained at no other locality.
-perramosa, Ridley. Two specimens; obtained at no other locality by
-the Challenger. Recorded from Mauritius.
-nitida, Verrill (?). One specimen ; obtained at no other locality by the
-Challenger. Recorded from Central Pacific.
-Scirpearella rubra, n.g., n.sp. One specimen ; obtained at no other locality.
-Juncella racemosa, n.sp. Several specimens; obtained at no other locality.
-Gorgonella orientalis, n.sp. One specimen ; obtained at no other locality.
-Suberogorgia verriculata (Esper). Fragments; obtained at no other locality by the
-Challenger. Recorded from W. Indies (?) and Australia.
-köllikeri, n.sp. Several pieces ; obtained at no other locality.
-Keroeides koreni, n.g., n.sp. Several fragments; obtained at no other locality.
-Only species of the genus.
-Melitodes nodosa, n.sp. Several specimens ; obtained also at Station 177.
-Parisis minor, n.sp. One specimen ; obtained at no other locality.
-Chironephthya dipsacea, n.g., n.sp. Several fragments ; obtained at no other locality.
-scoparia, n.g., n.sp. One specimen ; obtained at no other locality.
+Ophiomitra normani, n.sp. Obtained also at Stations 235 and 236, 420 to
+775 fathoms.
+Ophiocreas caudatus, n.sp. Obtained at no other locality.
+Astrony.c loveni, Müller and Troschel. Obtained also at Station 49.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Phormosoma bursarium, n.sp. Obtained also at Stations 200 and 205.
+Echinus norvegicus, Düben and Koren. For distribution see Station 46.
+Pourtalesia laguncula, n.sp. Obtained also at Stations 168, 169, 191, and 244.
+Linopneustes murrayi, n.g., n.sp.
+Obtained also at Station 210. Only species of
+the genus.
+Hemiaster gibbosus, n.sp. Obtained also at Station 191.
+Brissopsis luzonica (Gray). Obtained also at Stations 168, 188, 191, and 203.
+Schizaster ventricosus, Gray. Obtained at no other locality by the Challenger.
+HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
+Lætmogone wyville-thomsoni, n.g., n.sp. (?). One specimen ; obtained also at
+Stations 147, 158, and 300.
+Synapta aculeata, n.sp. One specimen; obtained at no other locality.
+Ankyroderma simile, n.sp. One specimen ; obtained at no other locality.
+NEMERTEA (Hubrecht, Zool. pt. 54).
+Eupolia nipponensis, n.sp. Several fragments ; obtained at no other locality.
+Cerebratulus macroren, n.sp. Obtained also at Station 169.
+sp. (?).
+ANNELIDA (M*Intosh, Zool. pt. 34).
+Latmonice japonica, n.sp. One specimen ; obtained at no other locality.
+Eunon yedoensis, n.sp. One specimen; obtained at no other locality.
+Leanira areolata, n.sp. One specimen ; obtained at no other locality.
+Leaniricola rotundata, n.g., n.sp. (Crustacean parasite on Leanira areolata).
+Lumbriconereis bifurcata, n.sp. One specimen ; obtained at no other locality.
+japonica, Marenzeller. One specimen ; obtained at no other
+locality by the Challenger. Recorded from Japan.
+Nothria macrobranchiata, n.sp. A few specimens ; obtained at no other locality.
+Maldane sarsi, Malmgren. Several specimens ; obtained at no other locality by
+the Challenger. Recorded from Europe and America.
+Nicomache japonica, n.sp.
+One specimen ; obtained at no other locality.
+Praxilla lankesteri, n.sp.
+One specimen ; obtained at no other locality.
+Amphicteis japonica, n.sp. One specimen ; obtained at no other locality.

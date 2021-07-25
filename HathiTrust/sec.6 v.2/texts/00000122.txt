@@ -1,14 +1,8 @@
-886
+888
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 228.
-Station 228 (Sounding 366), Admiralty Islands to Yokohama (see Chart 31 and
-Diagram 16).
-March 29, 1875 ; lat. 19° 24' N., long. 141° 13' E.
-Teniperature of air at noon, 81°:3; mean for the day, 79°:3.
+STATION 229.
 Temperature of water :-
 O
-2
-2
 >
 Surface,
 25 fathoms,
@@ -23,20 +17,19 @@ Surface,
 250
 275
 300
-99
-80.2
-79.0
-77.4
-75.0
-71.5
-68.3
+78.5
+75.7
+73.3
+71.0
+69.0
+66.9
 64.8
-61.3
-580
-55:2
-52.4
-49.8
-47.7
+62.5
+60:4
+58.3
+56.2
+54:1
+52.0
 400 fathoms,
 500
 600
@@ -49,51 +42,60 @@ Surface,
 1300
 1400
 1500
-42.6
-40:1
-38.9
-38.0
-37.4
-36.9
-36.4
-35.9
-35.4
-35.3
-35.2
-35.2
-35.2
-9
 Bottom,
+44-2
+40:3
+38.5
+37:7
+37.2
+36.7
+36.3
+35.8
+35:3
+35.2
+35.2
+35.2
+35.2
 Density at 60° F. :-
 Surface,
 25 fathoms,
 50
 100
-. 1:02582
-. 1:02586
-1.02592
-. 1.02584
 200 fathoms,
 300
 400
-. 1.02566
-1.02542
-. 1.02530
+. 1.02613
+. 1.02590
+. 1:02594
+. 1.02580
 .
-Depth, 2450 fathoms; deposit, Red Clay, containing only a trace of carbonate of
+. 1.20555
+1.02507
+1.02528
+Depth, 2500 fathoms; deposit, Red Clay, containing only a trace of carbonate of
 lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 5.20 A.M. got up steam. At 6 A.m. proceeded under steam. At 8 A.M. shortened
-and furled sails. At 9 A.M. sounded in 2450 fathoms. At noon obtained serial tempera-
-tures down to 1500 fathoms. Although the ship seemed to have actually passed over
-the supposed position of Lindsay Islands, as laid down in the charts (position marked as
-doubtful), no land was visible. At 1.45 P.M. completed temperature observations and
-made sail. Black and white terns and boatswain birds were observed.
-Distance at noon from No Sima lighthouse, 932 miles. Made good 61 miles.
-Amount of current 17 miles, direction N. 17° W.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.—The following are recorded in the note-books (March 29 to
-31): -Oscillatoriaceæ, Peridinium (three species), many specimens of Pyrocystis (two
-species), Diatoms, Rhabdospheres, Coccospheres, Gregarina, Globigerina, Hastigerina
-abundant, Pulvinulina, Radiolaria abundant (especially Aulosphæra), Tintinnus and
-other Infusoria, Medusa, Siphonophoræ (many forms), oval red Coelenterate larve with
+At 3.15 A.M. shortened and furled sails, and got up steam. At 5.15 A.M. stopped,
+and at 6 A.M. sounded in 2500 fathoms. At 7 A.M. put over trawl. At 10 A.m. obtained
+serial temperatures down to 1500 fathoms. The carbonic acid was determined in water
+from 300 fathoms, and amounted to 34:0 milligrammes per litre. At 2 P.M. commenced
+heaving in trawl, but at 5.30 P.M. the weights only came up, the rope having parted just
+below the weights, and the trawl and 500 fathoms of rope were lost. Lord Campbell
+shot on the wing an albatross (Diomedea brachyura), and other albatrosses, petrels,
+prions, boatswain birds, and phaleropes were seen.
+Distance at noon from No Sima lighthouse, 772 miles. Made good
+Made good 44 miles. .
+Amount of current 4 miles, direction N. 45° W.
+DIATOMACEÆ.—The following species of Diatoms were observed by Mr. Rattray and
+Mr. Comber in the deposit from this Station :
+Navicula multicostata, Grunow.
+major, Kutzing (fresh water).
+radiosa, Kutzing (fresh water).
+Nitzschia marina, Grunow.
+scalaris, W. Smith,
+Triceratium seychellense, Grunow.
+Hemidiscus cuneiformis, Wallich.
+Cerataulus turgidus, Ehrenberg.
+Coscinodiscus leptopus, Janisch.
+anguste-lineatus, A. Schmidt.
+excentricus, Ehrenberg.
+denarius, A. Schmidt.

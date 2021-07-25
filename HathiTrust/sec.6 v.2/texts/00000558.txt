@@ -1,91 +1,119 @@
-1280
+1284
 THE VOYAGE OF H.M.S. CHALLENGER.
-02
-Styela bythia, n.sp.
-squamosa, n.sp. S
-S
-Bugula reticulata, n.sp. STN
-* Cellepora solida, n.sp. S
-Cellularia crateriformis, n.sp.
-Cribrilina monoceros (Busk). S N
-Farciminaria delicatissima, n.sp.
-TN
-magna, n.sp.
-s
-Kinetoskias cyathus, n.sp.
-SN
-* Phylactella sp (?). N
-T
-s
-S
-BRACHIOPODA :
-Terebratula wyvillii, n.sp.
-FISHES :
-Astronesthes niger, Rich.
-* Bathyonus tænia, 1.sp.
-T
-* Bathypterois longicauda, n.g., n.sp.
-longipes, n.g., n.sp.
-Chauliodus sloanii, Bl. Schn. Τ Ν
-Gonostoma microdon, n.sp.
-STN
-* Halosaurus rostratus, n.sp.
 N
-* Idiacanthus ferox, n.sp.
-Macrurus filicauda, n.sp.
+N
+s
+s
+s
+N
+* Suberites senilis, n.sp.
+Amphianthus ornatum, n.g., n.sp.
+* Tedania actiniiformis, n.sp.
+* Aulorchis paradoxa, n.g., n.sp.
+* Trichostemma irregularis, n.sp.
+Corallimorphus profundus, n.g., n.sp. S
+rigidus, n.g., n.sp.
+ST
+HEXACTINELLIDA :
+Epizoanthus thalamophilus, n.sp. S
+* Bathydorus baculifer, n.g., n.sp.. S
+* Ophiodiscus annulatus, n.g., n.sp.
+s
+fimbriatus, n.g., n.sp.
+* Palythoa (?) sp.
+s
+* Caulocalyx tener, n.g., n.sp.
 S
-* Mixonus laticeps, n.g., n.sp.
+* Phellia (?) sp.
+S
+* Caulophacus elegans, n.g., n.sp.
+Polyopis striata, n.g., n.sp.
+* Another Actinian undetermined.
+* Dictyocalyx gracilis, n.g., n.sp.
 T
-* Nealotus tripes, Johnson.
-Nemichthys infuns, n.sp.
-Sternoptyx diaphana (Herm.). S TN
+CORALS:
+* Holascus ridleyi, n.g., n.sp.
+* Ilyalonema divergens, n.sp.
+T
+Bathyactis symmetrica (Pourtalès).
 S TN
+gracile, n.sp.
+robustum, n.sp.
+N
+Deltocyathus italicus, M.-Edwards and
+(Stylocalyx) depressum, n.sp.
+Haime. S TN
+TN
+Leptopenus hypocælus, n.g., n.sp.
 N
 S
-TUNICATA :
-* Abyssascidia wyvillii, n.g., n.sp.
-* Bathyoncus minutus, n.g., n.sp.
-* Hypobythius calycodes, n.g., n.sp.
-Pyrosoma sp. (?) (surface). S
+sp. (?). N
+s
+T
+T
+S
+*
+DEEP-SEA MEDUSA:
+sp. (?). S
+sp. (?).
+sp. (?). N
+T
+2
+* Malacosaccus unguiculatus, n.g., n.sp. T
+* Two Dictyonines undetermined. s
+Æginura myosura, n.g., n.sp.
+Atolla wyvillii, n.g., n.sp.
+s
+* Leonura terminalis, n.sp. S
+* Tesserantha connectens, n.g., n.sp.
+02
+ALCYONARIA :
+* Bathygorgia profunda, n.g., n.sp.
+N
+SIPHONOPHORÆ :
+* Disconalia gastroblasta, n.g., n.sp.
+T
+PENNATULIDA :
+* Scleroptilum grandiflorum, n.g., n.sp. N
+* Umbellula leptocaulis, n.sp.
+simplex, n.sp.
+thomsoni, n.sp.
+CRINOIDEA:
+Hyocrinus bethellianus, n.g., n.sp.
+ST
+T
 N
 N
 N
 T
-Notes on the Bathymetrical Distribution.—Of the species enumerated in the above
-list the following eleven species were taken at more than one Station in this zone;
-one of these (Oneirophanta mutabilis) was taken at three Stations, and another
-(Gonostoma microdon) at six Stations, the remaining nine each at two Stations.
-Bathyactis symmetrica.
-Antedon abyssicola.
-Phormosoma tenue.
-Oneirophanta mutabilis (3).
-Pseudostichopus villosus.
-Myriochele heeri.
-Scalpellum regium.
-Gennadas parrus.
-Bugula reticulata.
-Terebratula vyrillii.
-Gonostoma microdon (6).
-Of the 65 species noted in the above list as taken by the Challenger in the zone
-beyond 2500 fathoms, as well as in lesser depths (those without asterisks), the following
-29 species (or 45 per cent.) were obtained in the zone between 2000 and 2500 fathoms :--
-Stannoma coralloides.
-dendrorides.
-Bathydorus fimbriatus.
-Bathypathes patula.
-Amphianthus ornatus.
-Bathyactis symmetrica.
-Ophioglypha lacazei.
-ornata.
-Benthodytes sanguinolenta.
-Oneirophanta mutabilis.
-Pseu lostichopus villosus.
-Buskiella abyssorum.
-Eupista darwini.
-Lætmonice producta.
-Placostegus ornatus,
-Cythere dasyderma.
-dictyon.
-Benthesicymus crenatus.
-Acanthephyra sica.
-Gennadas parvus.
+*
+T
+ANTIPATHARIA :
+Bathypathes alternata, n.g., n.sp.
+N
+lyra, n.g., n.sp.
+TN
+patula, n.g., n.sp.
+Τ Ν
+ASTEROIDEA :
+* Dytaster biserialis, n.g., n.sp.
+inermis, n.g., n.sp.
+spinosus, n.g., n.sp.
+N
+* Freyella attenuata, n.sp.
+echinata, n.sp.
+tuberculata, n.sp.
+* Hymenaster carnosus, n.sp.
+echinulatus, n.sp.
+geometricus, n.sp.
+T
+*
+T
+S
+ACTINIARIA:
+* Amphianthus bathybium, n.g., n.sp.
+s
+N
+*
+s
+73

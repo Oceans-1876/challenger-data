@@ -1,82 +1,97 @@
-930
+932
 THE VOYAGE OF H.M.S. CHALLENGER.
 Japan.
-Bathysebastes albescens, Steindachner and Döderlein. One specimen (Sea of Japan);
-obtained at no other locality by the Challenger.
-Gonostoma microdon, n.sp. Two specimens (coast of Japan); for distribution see
-Station 23.
-Harpodon microchir, n.sp. One specimen (Tokio); obtained at no other locality.
-In the foregoing list 134 species are enumerated, of which 34 are new to science ;
-26 of the new species were not obtained elsewhere.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms. The following species are recorded from the surface in the
-harbours and shallow waters of Japan :-
-DIATOMACEÆ.—The following species were observed by Mr. Comber in the surface
-gatherings from Yeddo Bay :-
-Amphora quadrata, Gregory.
-proteus, Gregory.
-var. minor, Grunow.
-cymbifera, Gregory
-diducta, A. Schmidt.
-lineolata, Ehrenberg.
-ostrearia, Brebisson.
-Navicula distans, Ralfs.
-crassa, Gregory.
-irrorata, Greville, var. elliptica, Cleve.
-cluthensis, Gregory, var. minuta, Cleve.
-lyra, Ehrenberg, var. elliptica, A. Schmidt.
-coffeæformis, A. Schmidt.
-suborbicularis, Ralfs.
-var. forficula, O'Meara.
-campylodiscus, Grunow.
-smithii, Brebisson.
-bombus, Kutzing.
-weissflogii, A. Schmidt.
-splendida, Gregory.
-uspera, Ehrenberg, and var.
-schmidtiana, Grunow.
-Schizonema smithii, Agardh.
-Mastogloia meleagris, Grunow.
-sp. (?).
-Pleurosigma decorum, W. Smith.
-strigosum, W. Smith.
-elongatum, W. Smith.
-balticum, W. Smith.
-Amphiprora plicata, Gregory.
-var. japonica, Castracane.
-alata, Kutzing
-Amphiprora decussata, Grunow.
-Cocconeis scutellum, Ehrenberg.
-costata, Gregory.
-pseudo-marginata, Gregory.
-Nitzschia apiculatu, Grunow, forma minuta.
-dubia, W. Smith.
-pungens, Grunow.
-socialis, Gregory, var. indica, Castracane.
-sigma, W. Smith.
-Surirella fastuosa, Ehrenberg.
-præclara, A. Schmidt.
-Synedra fasciculata, Kutzing.
-Thalassiothrix frauenfeldii, Grunow,
-nitzschioides, Grunow (=T. currata,
-Castracane).
-Asterionella japonica, Cleve.
-Grammatophora angulosa, Ehrenberg, var. uncina,
-Grunow.
-8p. ()
-Actinocyclus moniliformis, Ralfs.
-ehrenbergii, Ralfs.
-complanatus, Castracane.
-ralfsii, Ralfs.
-99
-var.
-Actinoptychus undulatus, Ehrenberg.
-areolatus, A. Schmidt.
-vulgaris, Schumann, forma spinulosa.
-Asteromphalus flabellatus, Greville.
-darwinii, Ehrenberg, forma oblonga
-Coscinodiscus excentricus, Ehrenberg.
-minor, Ehrenberg.
-concavus, Ehrenberg.
--
+and other Annelid larvæ, Planarians and larvæ, Evadne, Daphnia, Copepods, Cirriped
+larvæ, Amphipods, Isopods, Zoëæ, small Gasteropods and Lamellibranchs, Cyphonautes,
+Appendicularia.
+On April 13, in Yokohama Bay, the tow-nets came up crammed with masses of small
+Diatoms, in greater abundance than previously observed during the cruise, among which
+were noticed a few specimens of Peridinium, Infusorians, and Medusæ. On June 6,
+after the ship returned to Yokohama from a visit to the Inland Sea, there were relatively
+very few Diatoms in the surface tow-nets, which contained, however, immense numbers
+of small Acanthometræ, larvæ of Membranipora, small shells, Peridinium, Infusorians,
+Copepods, and Cirriped larvæ. Noctiluca was present in all the hauls of the tow-net in
+the bays and harbours of Japan.
+Willemoes-Suhm writes: “I studied every day the development of Polygordius, from
+the larva of which I got the worm in a globe; I got also Cyphonautes, the larva of a
+Membranipora, and Evadne. Annelid larvæ were common, and so was a Pluteus,
+Cirriped larvæ (Nauplius and Cypris stages) were abundant, and next came Copepods,
+Zoëæ, and small shells with velum.”
+STATION 237.
+Station 237 (Sounding 379), Yokohama to Sandwich Islands (see Charts 35 and 36,
+and Diagram 17).
+June 17, 1875.; lat. 34° 37' N., long. 140° 32' E.
+Temperature of air at noon, 68°:8; mean for the day, 69°-5.
+Temperature of water :-
+.
+A
+9
+>
+22
+Surface,
+10 fathoms,
+20
+30
+40
+50
+60
+70
+80
+90
+100
+125
+150
+175
+200
+225
+73.0
+73.4
+72.0
+70:5
+69.0
+67.5
+66:1
+65.0
+64.0
+63.2
+62:4
+59.8
+570
+54.5
+52.0
+50.0
+250 fathoms,
+275
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+48.0
+46.0
+44:1
+40.8
+388
+37.7
+37.0
+36.6
+36.4
+36.2
+36.0
+35.8
+35.6
+35.4
+35.3
+35.3
+1
+.
+> >

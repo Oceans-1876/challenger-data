@@ -1,59 +1,61 @@
-1216
+1220
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 332.
-the tow-nets at the trawl was quite full of deposit. At 5 P.M. made sail. The usual
-birds, as noted at Station 229, were seen.
-Tristan da Cunha distant at noon, 730 miles. Made good 136 miles. Amount of
-current 8 miles, direction S.
-ANIMALS FROM
-TRAWL.
+Station 333.
+.
+.
+Density at 60° F. :
+Surface,
+25 fathoms,
+50
+100
+200
+.
+. 1.02612
+. 1.02612
+. 1.02620
+. 1:02620
+· 1:02581
+300 fathoms,
+400
+800
+Bottom,
+1.02558
+1.02546
+1.02571
+1:02584
+9
+Depth, 2025 fathoms; deposit, Globigerina Ooze, containing 88.97 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.30 A.M. shortened and furled sails, and got up steam. At 5 A.M. proceeded under
+steam to sound and trawl. At 5.30 A. M. sounded in 2025 fathoms. The sounding-tube
+had sunk about a foot into the deposit, but contained only a small quantity of the ooze.
+Laid out trawl and veered 2600 fathoms. Took serial temperatures. The carbonic acid
+was determined in water from 100 fathoms and bottom, and amounted respectively to
+37.2 and 44:5 milligrammes per litre. At 11.30 A.M. commenced heaving in trawl. This
+Station is about 17 miles to the westward of Station 133 of October 11, 1873. Having
+crossed the old track shortly before stopping this morning, the Challenger to-day completed
+her circuit round the world. At 1.30 P.M. trawl came up with a few specimens, and a
+little deposit, while the tow-nets at the trawl and weights also contained some of the
+A new rope was used and it came in full of turns, and the trawl-net seemed to
+have been on its back. Made sail.
+Tristan da Cunha distant at noon, 440 miles. Made good 146 miles. Amount of
+current 7 miles, direction S. 82° E.
 The following species are recorded in the Zoological Reports from the trawl at this
 Station :-
-1
-MonAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Cladorhiza inversa, n.sp. One specimen ; obtained at no other locality.
-CORALS (Moseley, Zool. pt. 7).
-Bathyactis symmetrica (Pourtalès). For distribution see Station 24.
-!
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophiomusium armigerum, n.sp. Obtained also at Stations 83, 106, and 299 (?).
-Polyzoa (Busk, Zool. pt. 30).
-Bicellaria navicularis, n.sp. Obtained also at Station 122.
-Bugula margaritifera, n.sp. Obtained also at Station 323.
-In addition to the foregoing, the Station-book records fragments of siliceous Sponge
-and a Schizopod.
-Excluding Protozoa, 7 specimens of invertebrates were obtained at this Station,
-belonging to 7 species, of which 4 are new to science; 1 of the new species was not
-obtained elsewhere.
-ORGANISMS FROM
-THE DEPOSIT.
-84 per
-The following species of Foraminifera and Radiolaria were observed in the deposit
-from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
-FORAMINIFERA (Brady, Zool. pt. 22). — The pelagic species, which make up about
-cent. of the carbonate of lime present in the deposit, are marked thus x.
-Biloculina bulloides, d'Orbigny.
-Haplophragmium anceps, Brady.
-depressa, d'Orbigny.
-globigeriniforme (Parker and
-Spiroloculina tenuis (Czjzek).
-Jones).
-Miliolina venusta (Karrer).
-latidorsatum (Bornemann).
-Psammosphæra fusca, Schulze.
-Thurammina globulifera, Brady.
-Hyperammina elongata, Brady.
-ovicula, Brady.
-ramosa, Brady.
-papillata, Brady.
-Reophas adunca, Brady.
-Ammodiscus charoides (Jones and Parker).
-dentaliniformis, Brady.
-incertus (d'Orbigny).
-difflugiformis, Brady.
-Trochammina galeata, Brady.
-scorpiurus, Montfort.
-trullissata, Brady.
-Haplophragmium agglutinans (d'Orbigny).
-Textularia concava (Karrer).
-1
+ooze.
+ANIMALS FROM
+TRAWL.
+HEXACTINELLIDA (Schulze, Zool. pt. 53).
+Caulocalyx tener, n.g., n.sp. One specimen ; obtained at no other locality. Only
+species of the genus.
+Hyalonema sp. (?). Fragment.
+ANNELIDA (MʻIntosh, Zool. pt. 34).
+Buskiella abyssorum, n.g., n.sp.
+Obtained also at Stations 101 and 106. Only
+species of the genus.
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Histiopsis atlantica, n.g., n.sp. One specimen ; obtained at no other locality.
+Only species of the genus.
+In addition to the above, the Station-book records :-Young specimen of Umbellula
+with two polyps only, Ophiothrix, Holothurian, Polyzoon, and young Ditrupa attached
+to a Sponge spicule.

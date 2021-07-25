@@ -1,42 +1,43 @@
-18
+2:2
 THE VOYAGE OF H.M.S. CHALLENGER.
-It has been long recognised that in the Atlantic the region of calms between the
-north and south trades is in all seasons north of the equator, reaching its northern
-limit, lat. 13° N., in July, and its southern limit, lat. 2° N., in January. Hence, in all
-seasons the south-east trades penetrate into the northern hemisphere, driving before
-them the warm surface waters of the South Atlantic. Thus vast quantities of the
-heated surface water of the South Atlantic are transferred bodily to the North Atlantic,
-resulting in these oceans presenting, as regards their temperature, the strongest
-contrasts to each other at all depths down to the bottom of the sea. The mean annual
-position of this region of calms may be shown by drawing on Map 51 of the Report
-on Atmospheric Circulation a line across the Atlantic, marking out the path of least
-barometric pressure of that region. Now it is this simple circumstance, the position of
-this line, which gives to the North and the South Atlantic Oceans their distinct
-contrasted features.
-Turning now to the Pacific Ocean on the same map, we find that the line of least
-barometric pressure lies not north, but south, of the equator, from long. 160° E. to
-long. 130° W.
-An examination of the maps for the separate months shows that for
-eight months of the year this state of things substantially holds good, culminating in
-December, January, and February when barometric pressure is very low in Australia.
-In these months the north-east trades and ocean currents of the Western Pacific extend
-into the South Pacific to about lat. 15° S., as shown by the current charts now in course
-of preparation by the Meteorological Council.
-The isothermals for the depth of 100 fathoms (Map 3) show that the manner of
-the distribution of the temperature in the North and South Pacific is precisely the
-reverse of what obtains in the Atlantic. In the North Pacific the highest temperature,
-70°, is restricted to two very small areas, whereas in the South Pacific the area marked
-out by the isothermal of 70° covers a very extensive region, and encloses another region,
-also very extensive, where the temperature exceeds 72º. In truth at this depth the
-South Pacific presents a region with a temperature above the general mean of the ocean,
-larger than the high temperature regions of all the other oceans combined. The rôle
-played by Australia, the low atmospheric pressure of its warmer months mainly
-bringing about the result, deserves careful consideration.
-A feature of the temperature in all the oceans is a pronounced increase in the
-eastern equatorial region of each ocean on nearing the continents. Thus in the Pacific
-about the Galapagos Islands, temperature is 62°, or 12° higher than in the same latitudes
-some distance to westward ; in the Atlantic it rises to 59° in the Gulf of Guinea, or 6°
-warmer than it is to westward; and in the Indian Ocean it rises to 60°, or 4° higher
-than it is to westward. This peculiarity arises from two causes, one being the monsoonal
-deflection of the trade winds, for some distance out to sea, out of their course to west-
-ward, so as to blow towards and in upon the heated land of the continents ; and this
+1
+also is high. In the same ocean, between lat. 10° to 40° S., and a little to the west
+of long. 10° W., the Challenger took eight observations, with a mean of 1'0264,
+which is still a high mean, but less than the mean of 1.0268 found to westward as we
+near South America. But within or close to the region where temperature falls to
+53° the five specific gravities observed by the Challenger were 1•0261, 1:0262, 1:0260,
+1·0260, and 1.0261, giving a mean of 1.0261, thus corroborating the view that the
+low temperature of 53° found here is brought, by upwelling, from greater depths.
+Depth of 200 Fathoms (Map 4).—The mean temperature of the ocean at this
+depth is 50°:1, showing thus a fall of 10°6 from the mean at 100 fathoms. The part
+of the North Atlantic where temperature is above the mean, 50°1, embraces now a very
+much wider area than that of the South Atlantic; further, within the same area the
+temperature rises much higher in the North than in the South Atlantic, the highest
+isothermal in the former being 64° whereas in the latter it is only 55°. In the North
+Atlantic the mean specific gravity is 1.0270 over the warm area, but over the similar
+area in the South Atlantic it is only 1.0261. Thus in the North Atlantic the specific
+gravity conditions favour a more rapid descent of the warmer surface water, which, as
+shown by the temperature observations, is what actually occurs.
+In the South Pacific the warm regions embrace a much wider area than in the
+North Pacific, the temperature at 200 fathoms being still higher in that half of the
+ocean which receives the overflow of warm surface waters from the other half, precisely
+as obtains between the two divisions of the Atlantic. In the South Pacific the mean
+specific gravity is 1.0259, and of the North Pacific 1.0256, these, it is to be noted, being
+both very much less than the mean specific gravity of the North Atlantic, which is
+1:0270.
+In both the Atlantic and Pacific a local higher temperature is still found in the
+eastern equatorial regions of both oceans, but the increase from the lower temperature
+to the westward is now much less than it was at 100 fathoms, being only from 2° to 3°
+instead of 12° and 6°. With these reduced differences the specific gravity differences
+are also reduced.
+Depth of 300 Fathoms (Map 5). --The mean temperature of the ocean at 300
+fathoms is 44º7, or 5°:4 less than at 200 fathoms. The higher temperature of the
+North as compared with the South Atlantic is even more pronounced than at less depths,
+as seen from a comparison of the regions of the two oceans included within the
+isothermal of 45°. Further, while the highest isothermal in the South Atlantic is 48°,
+covering a very small area, the same isothermal in the North Atlantic covers about half
+the area of the whole ocean, and includes two areas within which the temperature rises
+to fully 60°; in the western of the two it rises to 63°, or 15° higher than the highest
+temperature anywhere found in the South Atlantic. It is also to be noted that these
+two areas of warm water are both well to the west of the ocean, in other words, they
+1

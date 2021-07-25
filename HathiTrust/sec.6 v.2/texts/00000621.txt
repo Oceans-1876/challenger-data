@@ -1,115 +1,122 @@
 SUMMARY OF RESULTS.
-1313
-S
+1317
 T
-02
-dalli, n.sp.
 *
 T
 T
 T
 T
->
+s
+T
+T
+T
+T
+T
+"
+T
+T
+T
+T
+T
+* Eulima piriformis, Brugnone.
+Marginella (Gibberula) miliaria (Linne).
+psila, n.sp.
 N
+sarissa, n.sp.
+(Glabella) alta, n.sp.
+six species undetermined.
+) brachia, n.sp.
 T
-99
-T
-BRACHYURA:
-Pallene australiensis, n.sp. S
-* Anamathia pulchra, n.sp.
-T
-Phorichilidium patagonicum, n.sp.
-Cyrtomaia murrayi, n.g., n.sp.
-LAMELLIBRANCHIATA :
-Ebalia lævis (Bell). S
-tuberculosa (M.-Edwards).
-Amussium cancellatum, n.sp.
-Τ Ν
-Echinoplax moseleyi, n.g., n.sp. T
-N
-Ergasticus naresü, n.sp.
-jeffreysii, n.sp.
-* Ethusa orientalis, n.sp.
-obliquum, n.sp.
-* Eurypodius longirostris, n.sp. S
-squamigerum, n.sp. Τ Ν
-Geryon (?) incertus, n.sp. N
-torresi, n.sp.
-T
-Halicarcinus planatus (Fabricius). S * Anomia ephippium, Linné. S T
-Heterocrypta maltzani, Miers.
-* Arca tetragona, Poli. N
-* Hyastenus elegans, n.sp.
-(Barbatia) corpulenta, n.sp. ST
-Lambrus longimanus (Linné).
-( ) pteroessa, n.sp.
-TN
-* Libinia smithii, n.sp.
-S
-(Scapharca ?) culebrensis, n.sp. T
-Lispognathus thomsoni (Norman). s
+two
 (
-) inæquisculpta, n.sp.
-* Litocheira kingsleyi, n.sp.
+) elata, n.sp.
+* Eulimella acerrima, n.sp.
+( ) musica, Hinds. SN
+laxa, n.sp.
+(
+) pachia, n.sp.
+T
+rudis, n.sp.
+(
+) valida, n.sp.
+* Fasciolaria rutila, n.sp.
 s
+(Granula) agger, n.sp.
+Fenella elongata, n.sp.
 Τ Ν
-Lupocyclus (Parathranites) orientalis * Astarte magellanica, Smith. S
-n.sp.
+three species undetermined.
+* Fissurella (Lucapina) cayenensis,
 T
-Cardita astartoides, Martens. S
-* Macrocheira kämpferi, De Haan. N
-* Carditella exulata, n.sp.
-Merocryptuslambriformis M.-Edwards. S Cardium (Acanthocardium) papillosum,
-Mursia cristimana (M.-Edwards). s
-Poli. N
-curtispina, n.sp.
-(Papyridea) transversale,
-* Naxia hystrix, n.sp.
-T
-Deshayes. N
-* Oxypleurodon stimpsoni, n.g., n.sp.
-T Chama gryphoides, Linné. N
-* Paracycloïs milne-edwardsii,n.g., n.sp. T
-* Circe bermudensis, n.sp.
+Lamarck. Τ Ν
+* Mathilda sp. (?).
+Fossarus ambiguus (Linné).
+* Mitra miranda, n.sp. S
+* Fusus niphonicus, Smith. T
+(Cancilla) interlirata, Reeve.
+pagodoïdes, n.sp.
+S
+Mitrularia uncinata (Reeve). TN
+radialis, n.sp.
+S
+* Murex (Chicoreus) calcar, Kiener. T
+sarissophorus, n.sp.
+(Haustellum) sp. (?). T
+(Metula) philippinarum, n.sp. T (Ocinebra)aciculatus, Lamarck. N
+(Neptunea) despectus (Linné). N (Pseudomurex) aëdonius, n.sp. S
+( ) edwardiensis, n.sp.
+S
+) fusulus, Brocchi. N
+) mandarinus, Duclos. * Nassa (Aciculina) babylonica, 11.sp.
+(Alectryon) psilu, n.sp.
+) scalaris, n.sp. S
+* Nassaria campyla, n.sp. S
+( ) valedictus, n.sp. S
+Natica fartilis, n.sp.
+(Sipho) futile, n.sp. S
+insularum, n.sp.
+( ) libratus, n.sp.
+leptulea, n.sp.
+(Siphonorbis) amblyterus, n.sp. N * philippinensis, n.sp.
+psila, n.sp.
+S
+radiata, n.sp.
 N
-* Pilumnoplax abyssicola, n.sp. T
-minima (Montagu). N
-heterochir (Studer). S
-* Corbula philippii, n.sp.
-N
-* Pilumnus normani, n.sp.
-* Crassatella parva (Adams). T
-Platymaia wyville-thomsoni, n.g., n.sp. T
-* Crenella marionensis, n.sp.
-Platyonychus iridescens, n.sp.
-* Cryptodon barbatus (Reeve). N
-Pugettia velutina, n.sp.
-croulinensis (Jeffreys). N
-* Randallia granulata, n.sp.
-flexuosus (Montagu). N
-incrassatus (Jeffreys). T
-PYCNOGONIDA :
-marionensis, n.sp.
+* Homalogyra atomus (Philippi). S
+densicostata, Jeffreys.
+variabilis, Recluz. N
+xantha, n.sp.
+Ianthina exigua, Lamarck (surface). TN
+Iphitus tuberculatus, n.sp.
+three species undetermined. T
+Jeffreysia edwardiensis, n.sp. S
+* Nerita tessellata, Gmelin.
+* Lachesis sp. (?). S
+Odostomia nitens, Jeffreys. N
+Lampusia (Priene) murrayi, n.sp. S
+rissoïdes, Hanley. S
+Lepeta cæca (Müller). T
+turrita, Hanley. TN
+Litiopa melanostoma, Rang. TN
+unidentata (Montague). T
+Marginella brazieri, n.sp.
+(Obeliscus) nitidula (Adams).
+TN
+carinata, n.sp. S
+T
+s
+T
+>
 S
-* Ascorhynchus orthorhynchus, n.sp.
-watsoni, n.sp.
-Colossendeis leptorhynchus, n.sp.
-s
-two species undetermined. T
-s
-megalonyx, n.sp.
-s
-Dacrydium meridionalis, n.sp.
-robusta, n.sp.
-occidentale, n.sp.
-S
+*
 T
+T
+T
+T
+sp. (?). T
 T
 S
+*
 T
 T
-T
-T
-T
-s
-T
+9
+S

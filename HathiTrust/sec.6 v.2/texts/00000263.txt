@@ -1,105 +1,70 @@
 SUMMARY OF RESULTS.
-1011
+1013
 STATION 265.
-P.
--
-Heliodiscus polymorphus, Haeckel.
-marginatus, Haeckel.
-Astrophacus asteriscus, Haeckel.
-Stylocyclia amphacantha, Haeckel.
-Amphicyclia chronometra, Haeckel.
-Coccocyclia liriantha, Haeckel.
-Diplactura diplobrachia, Haeckel.
-Trigonactura triacantha, Haeckel.
-Astractura hippocratis, Haeckel.
-Stauractura tetragona, Haeckel.
-Pentactura astropecten, Haeckel.
-Echinactura goniaster, Haeckel.
-Archidiscus trioniscus, Haeckel.
-polythalamus, Haeckel.
-Azodiscus spinosus, Haeckel.
-Perichlamydium saturnus, Haeckel.
-Ommatodiscus fragilis, Stöhr.
-Xiphodictyon amphirrhopalia, Haeckel.
-Tripodictya trigonaria, Haeckel.
-Staurodictya cruciata, Haeckel.
-grandis, Haeckel.
-Stylodictya centrospira, Haeckel.
-Stauralastrum ordo, Haeckel.
-rhopalophorum, Haeckel.
-Stephanastrum capitatum, Haeckel.
-Discozonium cyclonium, Haeckel.
-Spongodiscus biconcavus, Haeckel.
-Spongasteriscus mucronatus, Haeckel.
-Larnacilla medullaris, Haeckel.
-Larnacantha dodecantha, Haeckel.
-Tholostaurus cruciformis, Haeckel.
-Tholoma metallasson, Haeckel.
-Larcospira lentelliptica, Haeckel.
-Archicircus princeps, Haeckel.
-quadratus, Haeckel.
-primordialis, Haeckel.
-Lithocircus hesablastus, Haeckel.
-Zygocircus sagittalis, Haeckel.
-dodecanthus, Haeckel.
-Cortina cervina, Haeckel.
-Semantis biforis, Haeckel.
-Semantrum tetrastoma, Haeckel.
-Semantidium hexastoma, Haeckel.
-Clathrocircus multiforis, Haeckel.
-Acanthodesmia ceratospyris, Haeckel.
-Toxarium circospyris, Haeckel.
-thorax, Haeckel.
-Tympaniscus tripodiscus, Haeckel.
-Tripospyris hexomma, Haeckel.
-Triceraspyris cortiniscus, Haeckel.
-Tristylospyris ramosa, Haeckel.
-Dipospyris forcipata, Haeckel.
-Dorcadospyris decussata, Haeckel.
-Gamospyris circulus, Haeckel.
-Stephanospyris cordata, Haeckel.
-Tetraspyris cubica, Haeckel.
-Necaspyris alterna, Haeckel.
-Liriospyris hexapoda, Haeckel.
-Aegospyris æquispina, Haeckel.
-Petalospyris bellidiastrum, Haeckel.
-Anthospyris tragopogon, Haeckel.
-Dictyospyris distoma, Haeckel.
-Sepalospyris platyphylla, Haeckel.
-Tiarospyris galea, Haeckel.
-Perispyris spongiosa, Haeckel.
-Botryopera cyrtoloba, Haeckel.
-Cannobotrys tricanna, Haeckel.
-cortina, Haeckel.
-Acrobotrys disolenia, Haeckel.
-Archipilium cyrtopterum, Haeckel.
-Tripilidium lychnocanium, Haeckel.
-cladopodium, Haeckel.
-Tripodiscium tristylospyris, Haeckel.
-Pteroscenium arcadophorum, Haeckel.
-Bathropyramis trapezoides, Haeckel.
-Halicalyptra ampulla, Haeckel.
-Calpophæna petalospyris, Haeckel.
-Cyrtocalpis lithomitra, Haeckel.
-Halicapsa papillata, Haeckel.
-Archicapsa quadriforis, Haeckel.
-Dictyophimus plectaniscus, Haeckel.
-Lithomelissa ehrenbergii, Bütschli.
-pycnoptera, Haeckel.
-Psilomelissa calvata, Haeckel.
-Clathromitra pterophormis, Haeckel.
-Lychnocanium lanterna, Haeckel.
-ventricosum, Ebrenberg.
-tripodium, Ehrenberg.
-Tetrahedrina pyriformis, Haeckel.
-Sethochytris pyramis, Haeckel.
-Sethophormis aurelia, Haeckel.
-Sethamphora costata, Haeckel.
-Sethopyramis enneactis, Haeckel.
-Plectopyramis hexapleura, Haeckel.
-Anthocyrtis butomus, Haeckel.
-Eucoronis perspicillum Haeckel.
-Plectocoronis triacantha, Haeckel.
-Podocoronis tozarium, Haeckel.
-Trissneyclus stauroporus, Haeckel.
-Acrocubus arcuatus, Haeckel.
+Coscinodiscus obscurus, A. Schmidt.
+rudis, Castracane.
+obovatns, Castracane.
+Hemidiscus cuneiformis, Wallich.
+Hemiaulus australis, Ehrenberg (= Eucampia
+balaustion, Castracane).
+polycystinorum, Ehrenberg.
+sp. ().
+Ethmodiscus sp. (?).
+1
+This deposit contains many species common to the well-known fossil deposit from
+Barbados.
+Surface Organisms. The following species are recorded from the surface in the
+vicinity of this Station -
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Sphærozoum hamatum, Haeckel.
+Cenosphæra vesparia, Haeckel.
+Siphonosphæra tubulosa, Müller.
+Staurolonchidium artioscelides, Haeckel.
+Acanthosphæra capillaris, Haeckel.
+Diplosphæra hexagonalis, Haeckel.
+Arachnosphæra dolichacantha, Haeckel.
+Rhizoplegma spirale, Haeckel.
+Spongellipsis lævis, Haeckel.
+Theodiscus divinus, Haeckel.
+Heliodrymus furcatus, Haeckel.
+Monozonium pleurostylum, Haeckel.
+Actinelius primordialis, Haeckel.
+Acanthometron bulbiferum, Haeckel.
+Zygacantha costata, Haeckel.
+Phatnacantha tessaraspis, Haeckel.
+Zygostaurus caulatus, Haeckel.
+Amphilonche conica, Haeckel.
+Orophaspis gla-liata, Haeckel.
+Icosaspis cruciata, Haeckel.
+Dictyaspis favosa, Haeckel.
+Plagonium trigeminum, Haeckel.
+Protympanium primordiale, Haeckel.
+Hexaspyris hexacorethra, Haeckel.
+Arachnocal pis sphærondes, Haeckel.
+Cornutella hexagona, Haeckel.
+Carpocanium irregulare, Haeckel.
+Sethoconus trochus, Haeckel.
+pileus, Haeckel.
+Theopilium tricostatum, Haeckel.
+Theocampe cryptoprora, Haeckel.
+Cannobelos calymmata, Haeckel.
+Sayoscena delilix, Haeckel.
+Sagmidium tricorne, Haeckel.
+Auloscena gigantea, Haeckel.
+Gazelletta robusta, Haeckel.
+Castanidium willemoesi, Haeckel.
+SIPHONOPHORÆ (Haeckel, Zool. pt. 77). FISHES (Günther, Zool. pt. 78).
+Velella patella, Brandt.
+Scopelus coccoi (Cocco).
+Diphyopsis angustata (Eschscholtz).
+The tow-nets brought in the usual things, as noted at the last two Stations, as well
+as many Hastigerina. Several sharks and dolphins were seen, and a shark was caught
+having attached Echeneis, Caligus, and a Distomum.
+Station 266 (Sounding 408), Sandwich Islands to Tahiti (see Chart 38 and
+!
+STATION 266.
+Diagram 19).
+August 26, 1875; lat. 11° 7' N., long. 152° 3' W.
+Temperature of air at noon, 81°:5; mean for the day, 79°-5.
+(SUMMARY OF RESULTS CHALL. EXP.—1893.)
+128

@@ -1,36 +1,40 @@
-900
+902
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 232.
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Phronima sedentaria (Forskål). One specimen, numerous young, and two houses ;
-obtained at no other locality by the Challenger.
-ISOPODA (Beddard, Zool. pt. 48).
-Munnopsis latifrons, n.sp. One specimen ; obtained at no other locality.
-SCHIZOPODA (Sars, Zool. pt. 37).
-Boreomysis obtusata, n.sp. One specimen ; obtained also at Station 252,
-2740 fathoms.
-MACRURA (Spence Bate, Zool. pt. 52).
-Benthesicymus altus, n.g., n.sp. One specimen ; obtained also at Stations 133,
-170, 171, 174, 184, 205, 214, and 235.
-Gennadas parvus, n.g., n.sp. Four specimens ; for distribution see Station 45.
-Sergestes japonicus, n.sp. One specimen ; obtained also at Station 207.
-atlanticus, M.-Edwards. One specimen ; for distribution see Station 42.
-Glyphocrangon hastacauda, n.sp. One specimen ; obtained at no other locality.
-Heterocarpus alphonsi, n.sp. One specimen ; obtained also at Station 214.
-Acanthephyra brachytelsonis, n.sp. Three specimens; for distribution see Station 170.
-Systellaspis lanceocaudata, n.g., n.sp. One specimen ; obtained at no other locality.
-Nematocarcinus tenuipes, n.sp. Six specimens; obtained also at Stations 218
-and 235.
-BRACHYURA (Miers, Zool. pt. 49).
-Macrocheira kämpferi, De Haan. Two specimens; obtained at no other locality by
-the Challenger. Recorded from Japan.
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Nucula niponica, n.sp. Obtained at no other locality.
-Yoldia lischkei, n.sp. Obtained at no other locality.
-Limopsis pelagica, n.sp. Obtained also at Station 106.
-Pecten vitreus (Chemnitz). For distribution see Station 204.
-GASTEROPODA (Watson, Zool. pt. 42).
-Bembic æola, n.g., n.sp. Obtained also at Station 235, 565 fathoms. Only species
-of the genus.
-Pleurotoma (Genota) engonia, n.sp.
-Obtained also at Station 169.
+Synaphobranchus brevidorsalis, n.sp. One specimen ; obtained also at Station 218.
+Myxine australis (Jenyns). Six specimens ; obtained at no other locality by the
+Challenger. Recorded from Magellan Strait.
+In addition to the foregoing, the following are recorded in the Station-book :-
+Hyalonema sieboldiï and another species (only one species noted above), Antipathes,
+several Lepadids parasitic on Macrocheira, small Amphipod, many specimens of a species
+of Pycnogonum.
+Excluding Protozoa, over 300 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 116 species, of which 84 are new to science,
+including representatives of 16 new genera; 57 of the new species and 5 new genera
+were not obtained elsewhere.
+Willemoes-Suhm writes : “ Hyalonema sieboldii is, according to our interpreter,
+called by the Japanese “ umi-wata.” Martens gives its literary history and what he saw
+of it in Japan, but he did not know where the fishermen got the specimens, nor that
+Beryx, Macrurus, Macrocheira, &c., occur along with Hyalonema. An important
+result of our dredgings to-day is to have found out where these animals, interesting in
+many ways, live, and which of them live together, the more so as they are associated
+with members of the universal deep-sea fauna. In one of the Sponges I found small
+bodies containing what appeared to be a granulated embryo. The Cælenterata and
+Echinoderms were represented by numerous large and fine specimens, including
+Pourtalesia—a decidedly deep-sea form. There were several Annelids (Aphrodita,
+Clymene, &c.), some with tubes, the most interesting being an Ophelia. Lepadids
+were found in different places, most of them on the back of the big crab. Another deep-
+sea genus, Munnopsis, was represented by a very interesting specimen with enormously
+long pereiopods, apparently a different species from that taken in the Antarctic. A small
+Amphipod seemed to be peculiar to the place, and there was a Schizopod with large
+globular eyes and loose carapace. The shrimps included a spiny and very solid species,
+previously taken several times in the deep sea, and several other species which almost
+invariably turn up in deep-water dredgings. Two middle-aged males of Macrocheira
+kümpferi were taken ; the Japanese name is “tenanga kani,” and the animal has
+probably been long known to the Japanese. The fishes were so far interesting as they
+included species of Macrurus, Halosaurus, and Scopelids, belonging to the great deep-
+sea fauna, and Beryx—a genus peculiar to the Hyalonema-ground of Setubal.”
+ORGANISMS FROM
+THE DEPOSIT.
+The following species of Foraminifera and Diatoms were observed in the deposit from
+this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-

@@ -1,21 +1,19 @@
 
-THE OCEANS AT DEF
-MEAN TEMPERATURE OF
+MEAN TEMPERATURE OF THE OCEANS AT DEF
+80
+90
 70
 80
-80
-40
-90
-100
-no
 120
+100
 130
-140
-150
-160
-170
-The Voyage of HMS "Challenger”
+110
 180
+150
+140
+The Voyage of HMS "Challenger"
+180
+170
 170
 160
 150
@@ -27,65 +25,68 @@ The Voyage of HMS "Challenger”
 80
 70
 60
-40°
-32
-35
+50%
 50
-TV
-45°
+40°
+Бои
+45
 40
-55
+500
 30
 Tropic of Cancer
-65°
-70
 20
-50°
-659
-60
+55°
+52
+/51
 Equator
-20
-50°
-$
-Tropic of Capricorn
-20
-65
-60°
-30
+50%
+10
+500
 55
-40
-50
-50
-40°
+Tropic of Capricorn.
+20
 60
+594
+55°
+30
+55°
+500
+40
+50*
+45
+50
+40
+60
+35
 Antarctic Circle
 70
 ISOTHERMAL LINES
 SHOWING THE MEAN TEMPERATURE (FAHR)
 OF THE OCEAN AT
-DEPTH OF 100 FATHOMS
+DEPTH OF 200 FATHOMS
 60
 70
 80
-BO
+00
 100
-110
+no
+130
 120
 140
-130
-Track of HMS Call
-160
+Track of HMS.(Adler
 150
 170
-170
+160
 180
 160
 150
 140
+170
 100
+no
 120
-ΠΟ
 130
 Isothermals above Average shown in Red thus
 A.Buchan Delt.
-BA
+AA
+y

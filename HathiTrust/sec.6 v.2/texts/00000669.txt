@@ -1,122 +1,98 @@
 SUMMARY OF RESULTS.
-1389
+1393
+var.
 T
-* Petrolisthes violaceus (Guérin). S
-sp. (?). T
+T
+99
+N
+*
+*
+2
+* Pilumnus labyrinthicus, Miers. T
+* Thalamita crenata (Rüppell). T
+longicornis, Hilgendorf. T
+integra, Dana. T
+minutus, De Haan,
+intermedia, n.sp.
+T
+hirsutus, Stimpson. N
+Prymna (Herbst).
+pulcher, Miers.
+seclobata, n.sp.
+T
+rufoproctatus, Stimpson. s
+sima, M.-Edwards. ST
+scabriusculus, Adams and
+var. granulata, nov.
+White. T
+stimpsoni, M.-Edwards. T
+seminudus, Miers. T
+* Thalamonyx dana, var. gracilipes, M.-
+spinifer, M.-Edwards. N
+Edwards. T
+tomentosus, Latreille. s
+Thelphusa sinuatifrons, M.- Edwards. T
+vestitus, Haswell. s
+(Geothelphusa) dehaanii,
+* Pinnotheres villosulus, Guérin-Ménéville.
+White.
+T
+(Potamonautes) perlata, M.-
+* Pisa (Arctopsis) tribulus (Linné). N
+Edwards. s
+Plagusia chabrus (Linné). S
+Trapezia areolata, Dana, var. inermis,
+depressa (Fabricius). T
+M.-Edwards. T
+Platygrapsus depressus (De Haan). N
+cymodloce (Herbst). T
+* Platyonychus bipustulatus, M.-Edwards.
+guttata, Rüppell. T
 S
+rufopunctata (Herbst). T
+* Podochela risei (Stimpson). TN
+var. intermedia,
+Podophthalmus vigil (Fabricius).
+* Portunus corrugatus (Pennant). STN * Varuna litterata (Fabricius). T
+Pseudograpsus albus, Stimpson. T * Xantho bidentatus, M.-Edwards.
+Pseudomicippa (?) varians, Miers. * Xanthodes melanodactylus, M.-Edwards.
+* Pseudozius bouvieri (M.-Edwards), var.
+Τ Ν
+mellissii, nov.
 T
-T
-*
-T
-T
-Hypoconcha panamensis, Smith.
-sabulosa (Herbst). T
-Latreillia australiensis, n.sp.
-valida, De Haan.
-Latreillopsis bispinosa, n.g., n.sp.
-Lyreidus tridentatus, De Haan. ST
-* Mastigochirus quadrilobatus, Miers.
-* Munida sancti-pauli, n.sp.
-spinifrons, n.sp.
-spinulifera, Miers.
-subrugosa (White). S.
-var. australiensis,
-T
-T
-T
-T
-*
-Polyonyx obesulus (White), Miers.
-* Porcellana sayana (Leach).
-T
-serratifrons, Stimpson.
-streptocheles, Stimpson. S
-* Porcellanella triloba, White. ST
-* Pseudodromia latens, Stimpson. S
-* Raninoides personatus, White, MS.
-T
-Raphidopus ciliatus, Stimpson.
-Remipes scutellatus (Fabricius). TN
-testudinarius, Latreille. T
-Spiropagurus elegans, Miers.
-spiriger (De Haan). T
-Uroptychus tridentatus, n.sp. (deep-water
-form ?).
-* Zanclifer caribensis (Freminville).
-T
+Xiphonectes longispinosus (Dana).
+* Pugettia incisa (De Haan).
+* Zozymus æneus (Linné). T
+Schizophrys aspera (M.-Edwards). T
+Scylla serrata (Forskål). T
+PYCNOGONIDA :
+Scyra compressipes, Stimpson. N
+* Sesarma mülleri, M.-Edwards. T
+Ascorhynchus minutus, n.sp.
+s
+schüttei, Hess. S
+Colossendeis megalonyx, n.sp.
+(IIolometopus) aubryi, M.-
+* Discoarachne brevipes, n.g., n.sp.
+Edwards. T
+* Hannonia typica, n.g., n.sp.
+* Sphærozius nitidus, Stimpson. N * Nymphon brachyrhynchus, n.sp. s
+* Stenorhynchus falcifer, Stimpson. S
+brevicaulatum, Miers. s
+spinifer, n.sp.
+brevicollum, n.sp.
+N
+* Thalamita admete (Herbst). T
+fuscum, n.sp.
+S
 T
 nov.
+T
+T
+T
 N
-T
-Pachycheles barbatus, M.-Edwards.
-pulchellus (Haswell).
-* Paguristes hians, n.sp.
-pilosus (M.-Edwards).
-T
 *
-T
-T
 S
-sp. (?). T
-T
-*
->
-T
-T
-Pagurodes piliferus, n.g., n.sp.
-* Pagurus calidus, Risso. Τ Ν
-dearmatus, n.sp.
-deformis, M.-Edwards.
-cuopsis, Dana. T
-granulatus, Olivier. S
-imbricatus, M.-Edwards.
-similimanus, n.sp.
-T
-striatus, Latreille.
-*
-T
-9
->>
-T
-sp. (?). S
-BRACHYURA :
-Acanthocyclus gayi, M.-Edwards and
-Lucas. S
-Acanthonyx lunulatus (Risso). T
-Achæopsis spinulosus, Stimpson. S
-Achæus japonicus, De Haan. N
-tenuicollis, n.sp. S
-* Actæa granulata (Audouin). T
-hirsutissima (Rüppell). T
-hystrix, n.sp.
-T
-nodulosa, White.
-peronië (M.-Edwards). S
-rufopunctata (M.-Edwards), var.
-nodosa, Stimpson. T
-Actæodes tomentosus (M.-Edwards). T
-Apocremnus septemspinosus, M.-
-Edwards. T
-* Arcania septemspinosa (Fabricius). TN
-Atergatis floridus (Linné). T
-Atergatopsis granulatus, (M.-Edwards).
->
-Paralomis verrucosus (Dana). S
-Parapagurus abyssorum, M.-Edwards,
-MS. (deep-water form).
-S TN
-latimanus, n.sp.
 S
-* Petrolisthes annulipes (White), Miers.
+S
 T
-armatus (Gibbes). N
-serratus, n.sp.
-T
-unilobatus, n.sp.
-T
-validus (Dana). S
-(SUMMARY OF RESULTS CHALL. EXP.-1894.)
-T
-*
-T
-175

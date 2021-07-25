@@ -1,45 +1,40 @@
 SUMMARY OF RESULTS.
-1239
-STATION 343.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Pararchaster spinosissimus, n.g., n.sp. Several specimens ; obtained at no other
-locality.
-Plutonaster marginatus, n.g., n.sp. Obtained at no other locality.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha lepida, n.sp. Several specimens ; obtained also at Stations 45, 46, 79,
-and Bermuda.
-Ophiocreas adipus, n.sp. Obtained also at Stations 214 and 344.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Echinus acutus, Lamarck. Many specimens ; obtained also at Stations 46 and 170.
-ANOMURA (Henderson, Zool. pt. 69).
-Munida microphthalma, M.-Edwards. One specimen ; obtained also at Stations 24
-and 171.
-In addition to the foregoing, the following are recorded in the Station-book :—Two
-specimens of Aphrocallistes, and two specimens of Spongodes.
-Excluding Protozoa, over 50 specimens of invertebrates were obtained at this
-Station, belonging to about 11 species, of which 7 are new to science, including
-representatives of 3 new genera; 5 of the new species and 1 new genus were not
-obtained elsewhere.
-Surface Organisms.—The following species are recorded from the surface at this ORGANISMS FROM
-Station :--
+1241
+ASCENSION.
+Monacanthus scriptus, Osbeck. Obtained at no other locality by the Challenger.
+Balistes vetula, L. Obtained at no other locality by the Challenger.
+buniva, Lac. Obtained also at St. Paul's Rocks and Sandwich Islands.
+GREEN TURTLE (Parker, Zool. pt. 5).
+Chelone viridis, Schneider.
+In the foregoing list 24 species are enumerated, of which 2 are new to science,
+and were not obtained elsewhere.
+Surface Organisms. The following species is recorded from the surface off ORGANISMS FROM
 SURFACE-NETS.
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Phractaspis complanata, Haeckel.
-Rhaphidozoum pandora, Haeckel.
-Stauraspis stauracantha, Haeckel.
-Siphonosphæra socialis, Haeckel.
-Lychnaspis giltschii, Haeckel.
-Solenosphæra ascensionis, Haeckel.
-undulata, Haeckel.
-Leptosphæra stellata, Haeckel.
-Icosaspis elegans, Haeckel.
-Amphipyle stenoptera, Haeckel.
-Conchidium argiope, Haeckel.
-Xiphacantha ciliata, Haeckel.
-SIPHONOPHORE (Haeckel, Zool. pt. 77).
-Amphilonche lanceolata, Haeckel.
-Eudoxella didyma, n.g., n.sp.
-The tow-nets near the surface gave abundance of organisms, principally Globigerina,
-Orbulina, and Pulvinulinæ, along with all the things noted at the previous Station.
-The Challenger remained at Ascension from 5 P.M. on March 27 till 5.30 A.M. on AT ASCENSION.
-April 3, 1876 (for description of the island see Narr. Chall. Exp., vol. i. pp. 926–929).
+Ascension :
+SCHIZOPODA (Sars, Zool. pt. 37).
+Nematoscelis rostrata, n.g., n.sp.
+When at anchor the tow-net procured many larvæ of Ctenophoræ (?) and Zoëæ.
+STATION 314.
+Station 344 (Sounding 494), off Ascension (see Chart 43).
+April 3, 1876 ; lat. 7° 54' 20" S., long. 14° 28' 20" W.
+Temperature of air at noon, 81°:8; mean for the day, 80°:5.
+Temperature of water at surface, 82°:0.
+Density at 60° F. at surface, 1.02658.
+Depth, 420 fathoms; deposit, Calcareous Volcanic Sand, containing 71:65 per cent.
+of carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 5.30 A.M. weighed anchor and proceeded out of Clarence Bay to swing ship for
+errors of compass and needle. At noon sounded in 420 fathoms; the sounding-tube
+brought up a few pieces of dead shells and Corals. At 1 P.M. put dredge over and veered
+700 fathoms. At 1.30 P. M. commenced heaving in dredge, which came up at 2 P. M. with
+numerous specimens, mostly attached to the swabs. A little sand was obtained in the
+dredge and attached tow-net; many of the rock fragments, shells, and Corals were quite
+black from a coating of manganese. Made sail and proceeded towards St. Vincent,
+Cape Verdes, distant about 1400 miles. One or two small Thalassidromas and a large
+flock of wide-awakes were seen.
+The following species are recorded in the Zoological Reports from the dredge at this Animals FROM
+Station :-
+DREDGE.
+ALCYONARIA (Wright and Studer, Zool. pt. 64).
+Stenella johnsoni, n.sp. One specimen ; obtained at no other locality.
+Callistephanus koreni, n.g., n.sp. Fragments; obtained at no other locality.
+Only species of the genus.

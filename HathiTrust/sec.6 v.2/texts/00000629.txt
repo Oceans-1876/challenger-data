@@ -1,130 +1,130 @@
 SUMMARY OF RESULTS.
-1351
-S
-S
+1353
+*
+T
+T
 var.
-Ep. T
-ovalis, n.sp.
+*
+T
 S
-ms
->
 S
+*
+*
+*
+T
+S
+*
+S
+S
+92
 S
 T
-T
-T
-POLYZOA :
-Cellepora cylindriformis, n.sp.
-* Adeona appendiculata, n.sp.
 S
-eatonensis, n.sp.
-Adeonella atlantica, n.g., n.sp.
-S
-mamillata,
-atlantica,
-distoma, Busk.
-Τ Ν
-Busk.
-ST
-var. imperforata, nov.
+*
+Terebratula vitrea (Born), var. minor, | FISHES :
+Philippi. S TN Acanthaphritis grandisquamis, n.g.,
+* Terebratulina cailleti, Crosse.
+n.sp.
+caput-serpentis, Linné, * Anthias megalepis, n.sp. T
+septentrionalis, Anticitharus polyspilus, n.g., n.sp.
+T
+Couthouy. SN * Antigonia capros, Lowe. T
+wyvillii, n.sp.
+Aphritis gobio, Günther.
+Waldheimia kerguelenensis, n.sp.
+Bathyanthias roseus, n.g., n.sp.
+T
+Bathythrissa dorsalis, n.g., n.sp.
 N
-regularis, n.g., n.sp.
+TUNICATA :
+Beryx decadactylus, C.V. N
+* Amaroucium colelloides, n.sp. S
+* Brachionichthys hirsutus, Lac. S
+recumbens, n.sp.
 S
-pustulata, n.sp.
+Callionymus calauropomus,
+Rich.
+* Ascidia cylindracea, n.sp.
 S
-Ætea anguina (Linné). S N
-tubulosa (Hincks). S
-Alcyonidium flustroides, n.sp.
-vagans, n.sp.
 ST
-Amathia spiralis, Lamouroux. s
-Cribrilina monoceros (Busk). S N
-tortuosa, Wood.
-S
-radiata (Moll). S
-Amphiblestrum umbonatum, Busk. s
-Crisia biciliata, MacGillivray. S
-Ascopodaria discreta, n.g., n.sp.
+nigra (Savigny). SN
+kaianus, n.sp.
+placenta, n.sp.
+phasis, n.sp.
+tenera, n.sp.
+Catætyx messieri, n.g., n.sp.
+Ascopera gigantea, n.g., n.sp.
 s
-conferta, Busk. ST
-fruticosa (Hincks). S
-cylindrica, n.sp.
-Aspidostoma giganteum (Busk). s
-elongata, M.-Edwards. T
-Bicellaria navicularis, n.sp.
-ST
-holdsworthii, Busk. s
-pectogemma, Goldstein. * Diastopora patina (Lamarck). S
-Bifazaria corrugata, n.g., n.sp. * Didymia simplex, Busk. S
-submucronata, n.g., n.sp.
-Dimetopia cornuta, Busk. s
-* Brettia cornigera, n.sp.
-* Electra cylindracea, n.sp.
-Bugula reticulata, n.sp. S TN
-Escharoides occlusa, n.sp.
+Centrophorus foliaceus, n.sp. N
+pedunculata, n.g., n.sp.
+S
+squamulosus, n.sp.
+N
+Colella murrayi, n.g., n.sp.
+S
+Centropristis annularis, n.sp.
+ramulosa, n.g., n.sp.
+pleurospilus, n.sp.
+T
+Cynthia pallida, Heller. ST
+Centroscyllium granulatum, n.sp. S
+* Cystodytes draschii, n.sp.
+* Ceratias bispinosus, n.sp.
+* Didemnum savignii, n.sp.
+carunculatus, n.sp. N
+Ecteinascidia
+crassa, n.g., n.sp.
+T
+Champsodon vorax, Günther.
+Leptoclinum edwardsi, n.sp.
+* Chaunax pictus, Lowe. T
+propinquum, n.sp.
+* Chlorophthalmus nigripinnis, n.sp. s
+speciosum, n.sp.,
+productus, n.sp.
+T
+asperum, nov.
+S T * Congromuræna guttulata, n.sp. T
+S
+Cyttus abbreviatus, Hector. S
+Molgula pedunculata, n.sp. s
+Diplacanthopoma brachysoma, n.g.
+Polycarpa minuta, n.sp.
+quadrata, n.sp. T
+* Echeneis albescens, Schleg.
+radicata, n.sp.
+s
+* Etelis sp. (?). S
+Psammaplidium subviride, n.g., n.sp. S Gonostoma elongatum, n.sp. T
+Pyrosoma giganteum, Lesueur (surface.)
+gracile, n.sp.
 S T
-sinuosa, n.sp.
+microdon, n.sp.
+S TN
+Styela convexa, n.sp.
 s
-Eucratea chelata (Linné). S
-versicolor, p.sp.
+* Haloporphyrus inosimæ, n.sp. N
+grandis, n.sp.
+* Heliastes roseus, n.sp.
 T
-Farciminaria atlantica, n.sp.
-T
-Caberea darwini, Busk.
-biseriata, n.sp.
-rostrata, n.sp.
-brasiliensis, n.sp.
-Calymmophora lucida, n.g., n.sp.
-s
-gracilis, n.sp.
-Τ Ν
-Carbasea dissimilis, Busk. S T
-hexagona, n.sp.
-ST
-ovoidea, Busk. S
-Fasciculi pora ramosa, d'Orbigny. S
-pedunculata, n.sp.
-N
-* Flustra denticulata, Busk. S
-Catenicella elegans, Busk.
-ST
-Flustramorpha hastigera, n.sp. N
-hastata, Busk. s
-marginata (Krauss). S
-plagiostoma, Busk.
-* Frondipora verrucosa (Lamouroux).
-sacculata, n.sp.
-T
-Gephyrophora polymorpha, n.g., n.sp. S
-ventricosa,
-maculata,
-Haswellia auriculata, n.g., n.sp.
-Busk.
-Hippothoa divaricata, Lamouroux. SN
-Cellepora ansata, n.sp.
-N
-Hornera frondiculata, Lamouroux. T
-armata, Hincks, var. erecta, Idmonea atlantica, Forbes. SN
+radicosa, n.sp.
 S
-irregularis, Meneghini. N
-aspera, n.sp.
+* Hippocampus guttulatus, Cuv. T
+(?) clava, n.sp. (genus doubtful) N Læops parviceps, n.g., n.sp. S T
 T
-marionensis, Busk. S
-s
-milneana, d'Orbigny.
-SN
-S
-s
 T
-S
-T
-S
 S
 *
+T
+S
+S
 var.
-S
-S
+tenue, n.sp.
 *
-nov.
-2.
-bicornis, n.sp.
+S
+n.sp. T
+T
+>
+N
+S
+>>

@@ -1,88 +1,45 @@
 SUMMARY OF RESULTS.
-951
-STATION 241.
+953
+At 2.45 A.M. shortened and furled sails. At 4.30 A.M. put over trawl, veering Station 243.
+3500 fathoms. At 6 A.m. brought ship to wind and sounded in 2800 fathoms. No
+sample of the deposit was obtained, but on allowing the water from the water-bottle to
+settle slight indications of Red Clay were obtained. Took serial temperatures down to
+1500 fathoms. At 11 A.M. the trawl-rope parted close to one of the blocks on the
+forecastle. At 2 P.M. put over deep-sea tow-nets, one attached to the end of the line,
+two 250 fathoms from the end, and two 1200 fathoms from the end; about 3000 fathoms
+of line were veered, but the lead did not touch the bottom. All the nets, except the
+bottom one, came up foul of the line, but contained a number of Phæodaria. At 5 P.M.
+made sail. Albatrosses, boatswain birds, and stormy petrels were seen about the ship.
+Distance at noon from Honolulu, 2048 miles. Made good 100 miles. Amount of
+current 16 miles, direction N. 35° E.
+Surface Organisms.—The following species are recorded from the surface and deep- ORGANISMS FROM
+sea tow-nets at this Station :
+SURFACE-Nets.
+Castanella balfouri, Haeckel.
+Castanidium bethelli, Haeckel.
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Siphonosphæra pipetta, Haeckel.
+Stylosphæra nana, Haeckel.
+Sethoconus trochus, Haeckel.
+Theocampe cryptoprora, Haeckel. .
+Aulacantha spinosa, Haeckel.
+Auloceros furcosus, Haeckel.
+Sagoscena cruciarium, Haeckel.
+Sagmidium crucicorne, Haeckel.
+Aulastrum dendroceros, Haeckel.
 AMPHIPODA (Stebbing, Zool. pt. 67).
 Paraphronima cuivis, n.sp.
-OSTRACODA (Brady, Zool. pt. 3).
-Halocypris atlantica, Lubbock.
-brevirostris, Dana.
-imbricata, n.sp.
-COPEPODA (Brady, Zool. pt. 23).
-Calanus propinquus, n.sp.
-tonsus, n.sp.
-SCHIZOPODA (Sars, Zool. pt. 37).
-Euphausia pellucida, Dana.
+Platyscelus ovoides (Risso ?).
 PTEROPODA (Pelseneer, Zool. pt. 65).
-Cavolinia tridentata (Forskål).
-In addition, the following are recorded in the note-books from the surface and down
-to 60 fathoms :-Diatoms, Pyrocystis, Peridinium (a few), Globigerina, Orbulina,
-Hastigerina, Medusæ, Siphonophora, Bipinnaria, Ophiurid and other Echinoderm larvæ,
-Sagitta, Alciopa, Tomopteris, Saphirina and other Copepods, Hyperids, Phronima,
-Oxycephalus, Vibilia, Euphausia megalopæ, Lucifer, Sergestes, Phyllosoma, Zoëæ,
-Archizoia, Halobates, Atlanta, Pneumonoderma and other Pteropods, transparent
-cuttle-fish, Doliolum, Salpa, Appendicularia. Many circular masses of Lepas attached
-around small bladders of a sea-weed, and a large log covered with Lepas and Balanus,
-passed the ship during the day,
-STATION 242.
-Station 242 (Sounding 384), Yokohama to Sandwich Islands (see Chart 36 and
+Limacina bulimoides (d'Orbigny).
+In addition, the following are recorded in the note-books :-Ceratium (Peridinium)
+tripos (a few), Ethmodiscus, Rhizosolenia, and other Diatoins, Globigerina, Orbulina,
+Pulvinulina micheliniana, Medusa, Siphonophoræ, Sagitta, Tomopteris, Sipunculid
+larvæ (?),Cypridina, Setella and other Copepods, Hyperids, Phronimids, Euphausia, Zoëæ,
+small Ethella-like shells, Atlanta, Pteropods and larvæ, Doliolum, Appendicularia.
+Pyrocystis appeared to be quite absent from the surface, as well as Saphirina, Lucifer,
+and Hastigerina.
+Station 244 (Sounding 386), Yokohama to Sandwich Islands (see Chart 36 and Station 244.
 Diagram 17).
-June 24, 1875; lat. 35° 29' N., long. 161° 52' E.
-Temperature of air at noon, 70°:3; mean for the day, 70°:0.
-Temperature of water :-
-Surface,
-25 fathoms,
-50
-99
-75
-100
-125
-150
-175
-200
-225
-250
-275
-300
-68.5
-629
-60.7
-583
-56.0
-54:1
-52.2
-50:3
-48.3
-46.4
-44:4
-42.8
-41.6
-400 fathoms,
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-39.6
-38.2
-37:4
-36:9
-36.5
-36.3
-36:1
-35.9
-35.8
-35.7
-35.5
-35.3
-35:1
-9
-Density at 60° F. at surface, 1·02590 ; bottom, 1.02560.
-Depth, 2575 fathoms; deposit, Red Clay, containing only a trace of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+June 28, 1875 ; lat. 35° 22' N., long. 169° 53' E.
+Temperature of air at noon, 71°:8; mean for the day, 71°:4.

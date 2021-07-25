@@ -1,131 +1,182 @@
-INDEX OF GENERA, SUB-GENERA, SPECIES, AND VARIETIES.
-This index serves in a manner as an index of the species procured by the Challenger, described or referred to in the Zoological
-Reports, for on looking up the pages in the Station lists the reader will find references to the Zoological Parts in which
-the species are fully treated of.
-Abra (sec Semele).
-Acanthephyra-continued.
-A byla, 584.
-brevirostris, 336, 1296.
+SUMMARY OF RESULTS.
+1469
+Ampelisca-continued.
+fusca, 420, 1340.
+zamboangæ, 835.
+Ampharete,
+kerguelensis, 466, 1377.
+sombreriana, 163, 1337.
+Amphiactura,
+amphibrachia, 1006.
+Ampbianthus,
+bathy bium, 947, 955, 1284.
+ornatum, 237, 947, 955, 1277,
+1280, 1281, 1284, 1289, 1303.
+Amphibelone,
+aciculata, 1207.
+clavaria, 1053.
+pyramidata, 427.
+Amphiblestrum,
+capense, 414, 1410.
+cervicorne, 543, 1410.
+cristatum, 475, 1411.
+imbricatum, 414, 1411.
+papillatum, 807, 1411.
+umbonatum, 550, 1170, 1327,
+1351, 1360, 1411.
+Amphibrachium,
+amphilonche, 1039.
+armatum, 957.
+capitatum, 1250.
+clavula, 1221.
+dilatatum, 1186.
+sponguroides, 500.
+Amphicoryne,
+falx, 424, 686.
+Amphicraspedum,
+maclaganium, 230.
+wyvilleanum, 1221.
+Amphicteis, 1450.
+gunneri, 121, 1281, 1294.
+var. atlantica, 121, 251, 1278.
+japonica, 899, 1337.
+sarsi, 1205, 1278.
+wyvillei, 453, 1294.
+Amphicyclia,
+amphistyla, 1268.
+chronometra, 1011, 1015, 1022.
+pachydiscus, 1217.
+Amphihelia,
+infundibulifera, 769, 1368.
+Amphilaphis, 1360.
+regularis, 392, 1330.
+Amphilectus,
+annectens, 1187, 1315.
+apollinis, 460, 1362.
+ceratosus, 553, 1362.
+pilosus, 431, 460, 1362, 1422.
+Amphilepis,
+norvegica, 193, 213, 217, 1304,
+1310, 1312, 1334.
+papyracea, 772, 1285.
+patens, 1124, 1285.
+Amphilepis-continued.
+tenuis, 934, 1293.
+Amphilochus,
+marionis, 436, 1340.
+Amphilonche,
+acufera, 1017, 1019, 1024, 1028,
+1032, 1046, 1053, 1057, 1062.
+conica, 1013, 1017, 1019, 1024,
+1028, 1032, 1046, 1053, 1057,
+1062.
+diodon, 1261.
+heteracantha, 1046.
+lanceolata, 516, 1237.
+lancetta, 1095.
+tenuis, 1268.
+tetraptera, 1261, 1266, 1268.
+Amphinome,
+rostrata, 235,
+Amphion, 782, 845, 848, 851, 853, 869,
+871, 884, 885, 887, 889, 895,
+987, 1025, 1193, 1233, 1269.
+provocatoris, 1269.
+reynaudii, 1139.
+Amphioxns, 716, 790, 817, 838, 845,
+853, 893, 991, 1269.
+Amphiplecta,
+acrostoma, 957.
+amphistoma, 1062.
+callistoma, 1047.
+Amphiplectus, 1361.
+depressus, 358, 1341.
+Amphiporus,
+marioni, 435, 464,1337,1358,1380.
+moseleyi, 464, 1380.
+Amphiprora,
+alata, 130, 733, 930.
+antarctica, 514, 517.
+decussata, 930.
+duplex, 442.
+kriophila, 442.
+lepidoptera, 442.
+plicata, 930.
+var. japonica, 930.
+Amphipyle,
+aceros, 1040.
+amphiceros, 871.
+amphiptera, 876.
+callizona, 879.
+decaceros, 1268.
+hexaceros, 1101.
+octoceros, 1032, 1046.
+stauroceros, 1022.
+stenoptera, 1046, 1239.
+tetraceros, 1046.
+Amphipylonium,
+semilunare, 1040.
+spinosissimum, 879.
+tetraceros, 979.
+Amphiroa,
 carina, 1255.
-carinata, 1157, 1341.
-Abyssascidia,
-edwardsii, 369, 1320.
-vasculosa, 510, 1297.
-kingsleyi, 329, 1279.
-wyvillii, 528, 1280.
-longidens, 772, 1088, 1286, 1288.
-Acabaria, 1452.
-media, 801, 1320.
-Acamptogorgia,
-purpurea, 206, 296, 1268, 1279,
-alternans, 642, 1365.
-1281, 1296, 1298.
-arbuscula, 897, 1330.
-sica, 206, 524, 602, 608, 615,
-Acanella,
-674, 752, 891, 918, 1184, 1279,
-arbuscula, 140, 1292.
-1280, 1281, 1282, 1286, 1288,
-chiliensis, 1147, 1330.
-1289, 1290, 1307, 1320, 1325,
-eburnea, 161, 1330.
-1326, 1341.
-rigida, 752, 1330, 1355.
-Acanthias,
-siinplex, 237, 1303.
-blainvilli, 1115, 1416, 1440,
-Acanthaphritis, 1361.
-1449.
-grandisquamis, 749, 1353.
-vulgaris, 1440.
-Acauthascus, 1451,
-Acanthocardium (see Cardium).
-dubius, 1156, 1330.
-Acanthochiasma,
-grossularia, 458, 1330.
-spirale, 1017.
-Acanthaster,
-Acanthochiton,
-echinites, 646, 327, 1374.
-garnoti, 414, 1409.
-Acanthastræa,
-Acanthocladium,
-irregularis, 643, 1368.
-huxleyi, 720, 1372, 1422.
-Acanthechinus, 1361.
-Acanthocope,
-tricarinatus, 485, 1340.
-acutispina, 520, 1135, 1306.
-Acanthella,
-spinicauda, 520, 1295.
-effusa, 692, 826, 1372, 1422.
-Acanthocorys,
-pulcherrima, 689, 1362.
-dodecaster, 1041.
-stipitata, 689, 1362.
-endeapodia, 1254.
-Acanthephyra,
-furcata, 1201.
-acanthitelsonis, 333, 336, 1296,
-hexapodia, 1060.
-1298.
-macroceras, 1047, 1118.
-acutifrons, 739, 837, 841, 1286,
-macropodia, 1047.
-1290, 1320, 1324.
-polypodia, 1056.
-angusta, 753, 1341.
-pristipodia, 957.
-approxima, 1157, 1341.
-triloba, 1052.
-armata, 753, 1341.
-umbellifera, 1268.
-brachytelsonis, 615, 620, 753, 841, Acanthocyathus,
-900, 922, 1184, 1286, 1290,
-dentatus, 636, 1332.
-1320, 1324, 1326, 1341, 1356.
-spinicarens, 814, 1332.
-(SUMMARY OF RESULTS CHALL. EXP.-1894.)
-Acanthocyclus,
-gayi, 1120, 1166, 1389, 1425.
-Acanthodesmia,
-ceratospyris, 1011.
-müilleri, 1251.
-Acantbogorgia,
-laxa, 1150, 1330.
-longiflora, 801, 1315.
-ramosissima, 432, 1330.
-ridleyi, 1147, 1330.
-Acanthoisis, 1129.
-flabellum, 555, 1365.
-Acantholonche,
-amphipolaris, 1017, 1019, 1024,
-1028, 1032, 1046, 1053, 1057,
-1062.
-peripolaris, 1062.
-Acanthometron,
-bulbiferum, 1013, 1017, 1019,
-1024, 1028, 1032, 1046, 1053,
-1057, 1062.
-bulbosum, 1268.
-catervatum, 1268.
-conicum, 958.
-cylindricum, 1017, 1019, 1024,
-1028, 1032, 1046, 1053, 1057,
-1062
-Acanthomunna,
-proteus, 602, 608, 1306, 1312,
-1320.
-Acanthonia,
-claparedei, 516.
-concava, 1095.
-convexa, 958.
-denticulata, 1017, 1019, 1024,
-1028, 1032, 1046, 1053, 1057,
-1062.
-diplopyramis, 1017, 1019, 1024,
-1028, 1032, 1046, 1053, 1057,
-1062.
-fragilis, 1268.
-mülleri, 1255, 1257, 1261.
-185
+Amphirchopalum,
+amphidicranum, 1006.
+bigeminum, 1085.
+echinatum 1015.
+ximorphum, 944
+Amphisile,
+scutata, 787, 1416.
+Amphisphaera,
+apollo, 875.
+coronos, 1038, 1044.
+jupiter, 1217.
+mercurius, 957.
+neptunus, 512, 1038, 1044.
+pluto, 1024, 1033, 1044.
+uranus, 878.
+Amphisphyra, 999, 1398.
+seguenzæ, 363, 1345.
+Amphispyris,
+costata, 957.
+quadrigemina, 1016.
+subquadrata, 1089.
+sternalis, 1041.
+thorax, 1031.
+toxarium, 1051.
+Amphistegina,
+lessonii, 167, 183, 191, 197, 199,
+200, 295, 304, 319, 355, 630,
+631, 640, 641, 687, 717, 863,
+1003, 1072.
+Ampbistylus,
+clio, 1010.
+glyptodon, 1089.
+hippocampus, 167, 957, 1038.
+Amphitetras,
+nobilis, 287.
+Amphitetrus, 1327.
+pelagicus, 615, 1322.
+Amphithoë,
+flindersi, 698, 1385.
+japonica, 907, 1385.
+kergueleni, 469, 1385.
+Amphitholonium,
+acanthonium, 1108.
+tricolonium, 1136.
+Amphitholus,
+acanthometra, 1132.
+armatus, 1266.
+artidium, 1040, 1046.
+artiscus, 1051.
+dodecanthus, 986.
+octacanthus, 1217.
+panicium, 879.
+polyacanthus, 1217.
+Amphithyrus, 734.
+bispinosus, 1270.
+Amphitrite,
+kerguelensis, 466, 1380.
+Amphitrite (see Neptunus).
+Amphiura, 591, 720, 1335, 1376.
+acacia, 918, 1317.

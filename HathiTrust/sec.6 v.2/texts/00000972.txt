@@ -1,43 +1,41 @@
-6
+10
 THE VOYAGE OF H.M.S. CHALLENGER.
-on
-A summary of the results is given in that paper at page 42, where it is shown
-that at a depth of 2500 fathoms, or nearly 3 miles, the mean correction of all the
-thermometers examined is only 0°:27 Fahr., the largest correction of any one of these
-thermometers being 0°:41 Fahr.
-The observations of deep-sea temperatures strictly as observed, no correction being
-thus shown to be needed, are published in the Challenger Reports, together with
-the same temperatures represented by curves 258 plates.
-The curves
-are drawn, libera manu, through the observations, which are fully detailed at
-the top of each plate, allowance being thus made for such errors of observation as
-10°, 5°, 1°, &c. The figures adopted in constructing the accompanying maps of deep-sea
-temperature are taken directly from the curves. In dealing with the other observations
-employed in this discussion, the observations as read are alone employed, any correction
-for pressure on the bulbs of the thermometers being in no case allowed for. As regards
-the important series of observations made by Commander Belknap, U.S.S. “Tuscarora,”
-it is stated in his Report, p. 18, what corrections were applied to the thermometers for
-depths of 100, 300, 500, and 700 fathoms, but no further explanation is given. An
-examination, however, of the observations themselves at all depths as printed makes it
-sufficiently plain that Captain Davis' correction of half a degree Fahr. for each mile
-of depth had been applied throughout. Before, therefore, entering the temperature
-observations of the “ Tuscarora” on the maps, they were increased by the amount by
-which they had manifestly been diminished, before publication, by the application of
-Captain Davis' rule. It was interesting to note that when the “ Tuscarora's ” course
-was in the vicinity of the course of the Challenger, “ Egeria,” &c., the additions made to
-the published readings brought them into accordance with the readings of these other ships.
-As this discussion deals only with depths at which the temperature is virtually
-uninfluenced by season, no depths less than 100 fathoms are examined. The
-temperature maps which accompany this Report are for depths of 100 fathoms, and
-then, in succession, for each additional 100 fathoms down to 1000, then for 1500, for
-2200 fathoms and another for bottom temperatures. It is plain that in this discussion
-no temperatures of the surface of the sea are admissible except good mean annual
-temperatures of the surface, it being these and these alone that rule deep-sea
-temperatures. Hence it is impossible to overestimate the value of Lieut. Baillie's map
-showing the mean annual distribution of the temperature of the surface.
-In order to arrive at a correct knowledge of the mean temperature of the ocean
-considered as a whole at each of the depths selected, all the temperatures at each depth
-were averaged, excluding the temperatures which are from so-called “closed areas.”
-The mean temperature thus arrived at is entered on each map, and in drawing the
-isothermal lines, all temperatures above this mean are represented by red lines, and
-See Ante, No. 1, footnote, p. 3.
+the ocean from the American coast and West Indies across the Atlantic, then northwards
+over its eastern side, and thereafter round the north of Norway and along the north of
+Siberia. This state of things results, as regards Europe, in the setting-in of a strong
+ocean current bringing the waters of warmer latitudes to its western shores, and on the
+other hand, as regards America, the draining away from its shores of its warmer surface
+waters, and as this water is replaced by the upwelling of the water from greater depths,
+it is therefore of a lower temperature than that removed by the surface current.
+Similarly, the wind system of the North Pacific is ruled by the low pressure in the
+north of that ocean, resulting in north-westerly winds in the east of Asia and south-
+westerly and southerly winds in the west of North America. The great dryness and
+low temperature of these north-westerly winds have the effect of lowering to a still
+greater degree the temperature of the North Pacific Ocean.
+In the southern hemisphere, south of lat. 35° S., there occurs no circumscribed
+region of low pressure, but a broad ring, in width about 30° of latitude, of very low
+pressure, passes completely round the globe, falling to a mean pressure of about
+29.000 inches near lat. 63º S. Over this broad space of low pressure the prevailing
+winds are strong, and approximately west or north-westerly all the year round. These
+strong north-westers pour south into the Southern Ocean, by the surface currents they
+generate and maintain, inconceivably enormous volumes of water from lower latitudes,
+and these waters, be it noted, of a comparatively high temperature and specific gravity.
+These warm and specifically heavy waters in their passage southward by and by
+necessarily sink to greater depths, and are overlaid by the cold and specifically light
+waters from the melted snow and icebergs of the Antarctic region, as suggested by Dr
+Murray. A striking feature of the waters of the Southern Ocean is the interdigitation of
+currents differing very widely from each other both in temperature and specific gravity,
+the colder of these currents having their origin, doubtless, in the numerous icebergs
+of these regions. An important part played by these vast currents of warm and
+specifically heavy water is to mitigate, most materially, the cold of the Antarctic region,
+particularly at great depths, and thus restrict the ice-clad area to its present limits.
+At this season, south of the equator, systems of low atmospheric pressure are not
+situated over the ocean but over the land. Of these systems there are three-in
+South America, South Africa, and Australia. The most pronounced of these is in
+Australia, and the result is that, on all coasts, winds blow from the sea upon the land,
+and at the same time the surface currents of the ocean are directed towards the land.
+July.—In this season the geographical distribution of pressure is exactly the reverse
+in Australia of what obtains in January. Everywhere it increases on advancing from
+the coast into inland regions. The lowest pressure, about 30.000 inches, occurs near
+The Renewal of Antarctic Exploration, by John Murray, Ph.D., LL.D., of the Challenger Expedition (Geogr.
+Journ., vol. iii. p. 18, 1894).

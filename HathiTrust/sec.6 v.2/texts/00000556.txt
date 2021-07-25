@@ -1,112 +1,60 @@
-1278
+1282
 THE VOYAGE OF H.M.S. CHALLENGER.
-S
-T
-N
-N
-*
-2
-S
-S
-T
-ECHINOIDEA :
-CORALS :
-Bathyactis symmetrica (Pourtalès).
-Aceste bellidifera, n.g., n.sp.
-S TN
-STN
-Calymne relicta, n.g., n.sp.
-N
-Phormosoma tenue, n.sp.
-TN
-HYDROIDA :
-Pourtalesia laguncula, n.sp. S TN
-* Cryptolaria abyssicola, n.sp.
-n'osea, n.sp.
-T
-diffusa, n.sp.
-* Halisiphonia megalotheca, n.g., n.sp. S HOLOTHURIOIDEA :
-Monocaulus imperator, n.sp.
-Benthodytes sanguinolenta, n.g., n.sp. S
-Stylactis vermicola, n.sp.
-selenkiana, n.g., n.sp.
-T
-* Elpidia glacialis, Théel. S
-SIPHONOPHORÆ :
-Holothuria thomsoni, n.sp.
-SN
-* Anthemodes articulata, n.sp.
-Oneirophanta mutabilis, n.g., n.sp.
-S TN
-CRINOIDEA :
-Peniagone atrox, n.g., n.sp.
-* Antedon abyssicola, n.sp. SN
-lugubris, n.g., n.sp.
-T
-ASTEROIDEA :
-Pseudostichopus villosus, n.g., n.sp.
-S TN
-* Benthaster wyville-thomsoni, n.g., 1.sp. N
-Brisinga discincta, n.sp.
-* Psycheotrephes exigua, n.g., n.sp.
-Dytaster nobilis, n.g., n.sp.
-s
-Psychropotes semperiana, n.g., n.sp.
-ST
-* Freyella benthophila, n.sp.
-heroina, n.sp.
-* Scotoanassa diaphana, n.g., n.sp.
-N
-Hymenaster infernalis, n.sp.
-Scotoplanes mollis, n.g., n.sp.
-S.
-papillosa, n.g., n.sp.
-s
-pergamentaceus, n.sp. S
-* Hyphalaster hyalinus, n.g., n.sp.
-T
-ANNELIDA :
-* Pontaster pristinus, n.g., n.sp. S
-* Porcellanaster eremicus, n.g., n.sp.
-Amphicteis gunneri (Sars),
-atlantica, nov. N
-OPHIUROIDEA :
-sarsi, n.sp.
-S
-* Amphiura dalea, n.sp. S
-Buskiella abyssorum, n.g., n.sp.
-ST
-verrilli, n.sp.
-N
-Ehlersiella atlantica, n.g., n.sp.
-Ophiocten pallidum, n.sp.
-* [Estrella levinseni, n.g., n.sp.,
-umbraticum, n.sp.
-Crustacean parasite on the pre-
-Ophioglypha bullata, n.sp. SN
-ceding]. N
-lacazei, n.sp.
-* Eunoa abyssorum, n.sp.
-S
-s
-Eupista darwini, n.g., n.sp. SN
-ornata, n.sp.
-S T
-grubei, n.g., n.sp.
-s
-S
-Lætmonice producta, Grube, var.
-Ophiomastus tegulitius, n.g., n.sp. ST benthaliana, nov. S TN
-S
-S
-N
-S
-var.
-N
-02
-S
-S
-loveni, n.sp.
-*
-sp. (?).
-.
+Cythere acantholerma.
+dasyderma.
+dictyon.
+Cystisoma spinosum.
+Acanthephyra sica.
+Gennadas parvus.
+Bifaxaria abyssicola.
+Bugula reticulata.
+Cribrilina monoceros.
+Chauliodus sloanii.
+Gonostoma microdon.
+Nemichthys infans.
+Sternoptyx diaphana.
+The following 12 species (or 19 per cent.) were taken in the zone between 100
+and 500 fathoms :-
+Bathyactis symmetrica.
+Acanthephyra sica.
+Ophiomastus tegulitius.
+Gennadas parvus.
+Pourtalesia laguncula.
+Arca (Scapharca) inæquisculpta.
+Cythere dasyderma.
+Bugula reticulata.
+dictyon.
+Cribrilina monoceros.
+Boreomysis obtusata.
+Gonostoma microdon.
+Thus four species (Cythere dasyderma, Acanthephyra sica, Bugula reticulata, and
+Gonostoma microdon) were taken in all the zones, except the shallow-water zone less than
+100 fathoms.
+The following 8 species (or 12 per cent.) were taken in depths less than 100 fathoms
+or at the surface :
+Bathyactis symmetrica.
+Lætmonice producta.
+Cythere dictyon.
+Lepas anatifera.
+Gennadas parvus (surface).
+Cribrilina monoceros.
+Astronesthes niger (surface).
+Sternoptyx diaphana (surface).
+Thus three species (Bathyactis symmetrica, Cythere dictyon, and Gennadas parvus)
+occur in all the zones of depth from the surface or shallow water to over 2500 fathoms.
+Of the 96 species taken only in this zone beyond 2500 fathoms, 85 species (or 89 per
+cent.) are new, and the following 9 new genera were obtained only in this zone of depth :-
+Stannarium (2)
+Hyalostylus.
+Trachycaulus.
+Antheomorphe.
+Halisiphonia.
+Psycheotrephes.
+Scotoanassa.
+Petalophthalmus.
+Mixonus.
+These genera are each represented by a single species taken at a single station, except
+the genus Stannarium, which contains two species, cach taken at a different Station
+inside this zone.
+Notes on the Geographical Distribution. An examination of the foregoing list shows
+that of the 161 species taken in this zone beyond 2500 fathoms, 87 species (or 54 per

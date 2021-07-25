@@ -1,107 +1,115 @@
-DIAGRAM 18
-Summary of Results
-The Voyagr of HMS.Challenger
-PACIFIC
-OCEAN
-Longitudinal Temperature Section
-From a Position in Lat.35.49N. Long 180°W.to a Position in Lat.38.9' N. Long. 156925W.
-For explanation of Symbols see Appendix 1.
-(248
-(249
-250
-250
-252
-253
-trotusoi
-at 35 49'N
-Long 180°
-3000-652
-3050 65°0
-al ll| 2900-692
-2950 650
-2740 650
-Lat 38° 9'N
-Long 156.25W
-3125- 677
-FROM
-55
-TO
-100
-FROM
-50*
-то
-55
-45
-FROM
-45°
-TO
-50
-300
-40*
-FROM
+SUMMARY OF RESULTS.
+993
+STATION 260.
+BRACHYURA (Miers, Zool. pt. 49).
+NUDIBRANCHIATA (Bergh, Zool. pt. 26).
+Nautilograpsus minutus (Linné).
+Glaucus longicirrus, Reinhardt,
+Bergh (?).
+PELAGIC HEMIPTERA (White, Zool. pt. 19). FISHES (Günther, Zool. pt. 78).
+Halobates sericeus, Eschscholtz.
+Scombresou forsteri, (young).
+The Challenger remained at Honolulu from 4 P.M. on July 27 till 9.30 A.m. on
+August 11, 1875, proceeding thence to Hawaii. During the stay at Honolulu, Mr.
+Murray was engaged several days dredging from the steam pinnace outside the reefs
+in depths of 8 to 40 fathoms.
+At HONOLULU.
+Station 261 (Sounding 403), between Oahu and Hawaii Islands, Sandwich Islands
+(see Chart 37 and Diagram 19).
+Station 261.
+August 12, 1875 ; lat. 20° 18' N., long. 157° 14' W.
+Temperature of air at noon, 78°:5; mean for the day, 77°•8.
+Temperature of water :-
+47.4
+9
+>
+Surface,
+10 fathoms,
+20
+30
 40
-TO
-45°
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+78.5
+75.6
+75.3
+74.9
+73.1
+70.9
+68:3
+66.0
+63.7
+61.4
+59.0
+56.9
+55.0
+53.0
+51.3
+50.0
+49.1
+48.2
+180 fathoms,
+190
+200
+300
 400
-8004
-700
-1000)
-.
-1200
-1300
-1500
-1600
-FROM
-35
-TO
-1700
-FATMOMS
-ACOR
-• DOO
-SCALE OF
-200
-VERTICAL
-2300
-2400
-1
-1352
-mo
-Rai (go
-10.068
-2900
-351
-Red Clay
-351
-352
-3.00
-Red Clav
-Red Gay
-.$000
-Red Clay
-351
-true
-Red Clavio
-trice
-Red (layer
-trace
-300F
-3500
-3600
-3700
-0
-100
-200
-300
-300
-100
+500
 600
 700
-1000)
-000
+800
 900
-Loo
-HORIZONTAL
-SCALE OF
-NAUTICAL
-MILES
-Engraved by Malby & Sons
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+47.0
+46.6
+42.6
+40:8
+39.7
+38.8
+38.0
+37.3
+36:9
+36.4
+36:1
+35.9
+35.7
+35.4
+35.2
+35.2
+97
+Density at 60° F. :-
+Surface,
+25 fathoms,
+50
+100
+. 1.02586
+1.02566
+1.02583
+. 1.02566
+200 fathoms,
+300
+800
+Bottom,
+1.02528
+. 1.02525
+· 1.02528
+1.02577
+99
+.
+Depth, 2050 fathoms ; deposit, Volcanic Mud.

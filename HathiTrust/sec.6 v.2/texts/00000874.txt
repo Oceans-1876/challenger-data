@@ -1,103 +1,102 @@
-1592
+1594
 THE VOYAGE OF H.M.S. CHALLENGER.
-molto
-Limestone, 89.
-Lindsay, W. S., 21, 33.
-Lindsay Islands, 886.
-Linnæus (Carl von Linné), 63, 68.
-Linschoten, - 4.
-Linstow, O. von (see Entozoa).
-Lipari Islands, 22.
-Lisbon, 111.
-List of genera occurring both to the north and south of
-the tropics, 1450-1452.
-identical species occurring both to the north
-and south of the tropics, 1446-1450.
-Lithodea, 1441.
-Lithology of bottom of North Atlantic, 100.
-Lithophagous shells, 62.
-Littoral zone, 84.
-Lituolidæ, 511.
-Living Hastigerina, 984.
-Lobsters, 592.
-Log-line, 46.
-broken, 850.
-Logs of wood, 681, 718, 853, 951.
-Longicorn beetle, 297.
-Long ships, 7.
-Lophioids, 551.
-Lophogastridæ, 778.
-Loricata, 890.
-Los Tiburones Island, 45.
-Louis XVI., 71.
-Lovén, S. L., 83, 85, 86, 180, 455, 716, 815.
-Lowe, R. T., 81.
-Luminosity of the sea (see Phosphorescence).
-Lusitanian fauna, 249.
-Lütke, F. B., 70, 77.
-Lütken, C. F., 180.
-Lyman, T. (see Ophiuroidea).
-Larvæ of Sabellidæ, 775, 778, 782, 783, 790, 850,
-1262.
-Scopelidæ, 676, 1064, 1079, 1096, 1109,
-1207, 1210, 1219.
-Sergestes, 853, 873, 885, 887, 893, 895,
-920, 943, 1009, 1018, 1099, 1113,
-1202, 1203, 1207, 1223, 1227, 1236,
-1263, 1266.
-shells, 890, 932, 942, 913, 945, 952, 953,
-980, 981, 987, 990, 1082, 1092, 1096,
-1101, 1102, 1109, 1202, 1203, 1210,
-1211, 1213, 1232, 1236.
-Siphonophoræ, 858.
-Sipunculidæ, 836, 815, 848, 853, 858, 882,
-885, 887, 889, 893, 953, 987, 1079,
-1089, 1262, 1263.
-Squillidæ, 143, 189, 314, 321, 325, 380, 418,
-576, 586, 661, 676, 835, 848, 884, 885,
-942, 1141, 1193, 1203.
-Sternoptychidæ, 1098, 1101.
-Stomatopoda, 254, 677, 1068, 1082, 1086,
-1109.
-Sword-fishes, 858, 868.
-Terebellidze, 428, 618, 676, 790, 845, 1262.
-Tomopteris, 850.
-Latini, 32.
-Leaves of trees, 295, 791, 851, 933.
-Lee, S. P., 74, 88, 90.
-Leguminous fruits, 851.
-Leif Erikson, 31.
-Lenz, H. F. E., 70, 74.
-Lepadidæ, 811, 812, 842, 902.
-Lernæidæ, 621, 843, 936.
-Leroy, -, 71.
-Lesson, R. P., 75.
-Levant, 85.
-Lewis, G. C., 18.
-Lewy, B., 103.
-Liassic seas, 101.
-Libya, 9, 19.
-Lichens, 851.
-Licka, —, 55.
-Life-zero in the ocean, 84.
-Lightning, 766, 784, 788.
-the, 101, 102, 106c, 172, 283, 367, 1153.
-Liguria, 20.
-Lime-secreting organisms in deep sea, 1456.
-Palæozoic times, 1456.
-polar regions, 1456.
-tropics, 1456.
-"
-MacAndrew, R., 86.
-Macclesfield Bank, 106c.
-M'Clintock, Leopold, 40, 70.
-M'Donald, J. D., 93.
-M'Intosh, W. C. (see Annelida).
-MacLaurin, Colin, 63.
-Macrura, 126, 131, 151, 160, 163, 169, 173, 188, 206,
-208, 214, 226, 239, 243, 252, 262, 293, 296,
-309, 314, 324, 327, 329, 332, 334, 336, 340,
-343, 351, 358, 369, 375, 383, 386, 395, 402,
-421, 437, 446, 450, 454, 494, 504, 509, 523,
-530, 539, 552, 559, 575, 579, 585, 591, 592,
-594, 597, 602, 608, 614, 620, 625, 633, 638,
+Medusæ-continued.
+877, 882, 884, 885, 886, 889, 890, 893, 894,
+916, 920, 931, 932, 940, 941, 951, 953, 960,
+965, 968, 970, 975, 977, 980, 982, 987, 994,
+1007, 1062, 1068, 1092, 1096, 1099, 1106,
+1109, 1119, 1123, 1127, 1130, 1137, 1156,
+1163, 1181, 1184, 1186, 1193, 1195, 1197,
+1203, 1207, 1209, 1210, 1213, 1224, 1232,
+1233, 1234, 1237, 1245, 1248, 1251, 1255,
+1256, 1260, 1262, 1263, 1268, 1269, 1270,
+1284, 1292, 1303, 1316.
+larvæ of (see Larva).
+Medusoid gonophore, 1458.
+Megalopæ, 119, 297, 318, 384, 418, 546, 676, 770,
+836, 853, 951, 959, 975, 1172, 1262, 1263.
+Megasthenes, 34.
+Mehren, A. F., 37. .
+Mela, Pomponius, 25, 30, 37, 46.
+Melbourne, 530.
+Mendaña de Neyra, A., 47.
+Mercator, Gerard, 39, 49, 54, 55, 72.
+Michael, 49.
+Mercator's projection, 72.
+Meridian of Greenwich adopted, 72.
+Meridians of longitude introduced, 18.
+Merrifield, M. P., 4.
+Merwede, River, 55.
+Metallic spherules, 1460.
+Metazoa, 1458.
+number of, occurring in single hauls at
+different depths, 1431.
+Meteor, 315.
+Method of reproduction in Tanais, 479.
+Metschnikoff, E., 525, 836.
+Meyen, F. J. F., 70.
+Meynard, Barbier du, 32.
+Middle Island, 1144.
+Miers, E. J. (see Brachyura).
+Migration from south polar regions over the floor of the
+Milne-Edwards, A., 96, 106B, 1441.
+H., 77, 82, 106B.
+Mimicry, 618, 635, 716.
+Minto, Lord, 79.
+Minyadæ, 609.
+Miocene rocks, 99.
+Mitchell, J. G., 88.
+Möbius, C., 106a.
+Mohn, H., 106A.
+Mollusca, 17, 81, 82, 83, 85, 86, 93, 96, 98, 99, 102,
+399, 479, 793, 1272, 1431.
+Molluscoid, 122.
+Molly-mawks, 523, 526, 1093, 1103, 1107, 1134, 1182,
+1196, 1211.
+Moluccas, 32, 44.
+Monaco, Prince of, 1063, 106c, 1439.
+Monaxonida, 171, 223, 228, 239, 265, 269, 304, 343,
+356, 369, 371, 391, 405, 419, 431, 451, 457,
+460, 483, 506, 535, 547, 553, 577, 606, 612,
+636, 666, 679, 689, 718, 743, 760, 766, 784,
+801, 803, 808, 839, 847, 906, 923, 946, 962,
+969, 994, 1008, 1058, 1072, 1080, 1100, 1123,
+1145, 1147, 1149, 1159, 1165, 1168, 1172,
+1182, 1187, 1216, 1277, 1283, 1291, 1302,
+1315, 1328, 1446, 1448, 1450, 1451.
+Moneron, 92.
+Monsoons, 24.
+Monte Nuovo, 61.
+Video, 1193.
+Montfaucon, Bernard de, 29.
+Moors, 42.
+Moro, Ant. Lazzaro, 61.
+Morren, A., 103.
+Moseley, H. N., xxxvii., 104, 139, 142, 143, 148, 150,
+154, 155, 156, 157, 180, 186, 188, 189, 254,
+262, 285, 295, 302, 316, 318, 320, 325, 330,
+337, 348, 365, 367, 388, 495, 499, 505, 525,
+528, 551, 609, 617, 629, 634, 677, 681, 688,
+775, 836, 845, 850, 851, 870, 911, 989, 1272,
+1458 (see also Corals).
+Mother Carey's chickens, 429, 457, 500, 959, 974,
+1107, 1114, 1267.
+Mould on pumice, 975, 981, 982, 984.
+Movers, F. C., 3.
+Mozambique current, 64.
+Muddy deposits, 92, 98.
+Mud-line, definition of, 1433.
+depth of, 1433.
+migration of species from, 1435, 1436.
+the great feeding ground in the ocean, 1434.
+ocean, 1454.
+of marine animals from pole to pole, 79.
+shallow-water species into the deep sea,
+1435.
+Mikra Kaŭmena, 61.
+Miletus, 9.
+Miliolidæ, 511.
+Milky-white water, 751.
+Mill, H. R., 106D.
+Miller-Casella thermometer, 74.
+Milne, Admiral, 67.

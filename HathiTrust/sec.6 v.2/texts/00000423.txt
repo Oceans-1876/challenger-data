@@ -1,36 +1,47 @@
 SUMMARY OF RESULTS.
-1155
+1159
+Station 311 (Sounding 460), Gulf of Peñas to Sandy Point through Magellan Station 311.
+Strait (see Chart 41).
+1
+January 11, 1876 ; lat. 52° 45' 30" S., long. 73° 46' W.
+Temperature of air at noon, 50°:0; mean for the day, 48°:3.
+Temperature of water at surface, 50°:0; bottom, 46°:0.
+Density at 60° F. :-
+Surface,
+25 fathoms,
+50
+. 1.01904
+: 1:02271
+. 1.02412
+100 fathoms,
+200
+Bottom,
+. 1.02452
+. 1:02388
+. 1.02454
+Depth, 245 fathoms; deposit, Blue Mud, containing 34:07 per cent. of carbonate
+of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 3.30 A.M. got up steam. At 4.30 A.M. proceeded out of Innocentes Bay. At
+10.30 A.M. stopped and sounded in 245 fathoms. Put over trawl, which came up at
+12.30 P.M. containing numerous specimens. The carbonic acid was determined in bottom
+water and amounted to 51.2 milligrammes per litre. Proceeded for Port Churruca and
+anchored there at 2.45 P.m. in 14 fathoms. Exploring parties went on shore.
 The following species are recorded in the Zoological Reports from the trawl at this
-place :-
-STATIONS 309
-AND 309a.
+Station :-
 ANIMALS FROM
 TRAWL.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Ctenodiscus procurator, n.sp. Many specimens ; obtained also at Stations 306,
-307, 308, and 311.
-Lophaster stellans, n.sp. Obtained also at Station 308.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha lymani, Ljungman. For distribution see Station 304.
-Astrotoma agassizii, Lyman. Obtained also at Stations 148, 150, 307, 308, and 313.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Schizaster moseleyi, n.sp. Numerous specimens; for distribution see Station 146.
-HOLOTHURIOIDEA (Théel, Zool. pt. 39).
-Trochostoma (?) sp. (Fragmentary specimen indeterminable).
-Pseudostichopus mollis, n.g., n.sp. Six specimens ; obtained also at Stations 144
-and 311.
-ANNELIDA (M'Intosh, Zool. pt. 34).
-Aphrodita echidna, Quatrefages (?). Three specimens ; obtained also at Station 307.
-MACRURA (Spence Bate, Zool. pt. 52).
-Campylonotus semistriutus, n.g., n.sp. Three specimens; for distribution see
-Station 305.
-GASTEROPODA (Watson, Zool. pt. 42).
-Triton (Lagena) magellanicus (Chemnitz). Obtained also at Station 144.
-FISHES (Günther, Zool. pts. 6 and 57).
-Lycodes macrops, n.sp. One specimen ; obtained at no other locality.
-Macrurus fasciatus, n.sp. Two specimens ; obtained also at Stations 305 and 311.
-In addition to the foregoing, the following are recorded in the Station-book :-
-Gorgonoid, many Annelids in rigid mud tubes, and Galathea.
-Excluding Protozoa, over 100 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 15 species, of which 7 are new to science, including
-representatives of 2 new genera; 1 of the new species was not obtained elsewhere.
+MonaxonIDA (Ridley and Dendy, Zool. pt. 59).
+Gellius carduus, n.sp., var. magellanico, nov. One specimen ; the species obtained
+also at Stations 145 and 148.
+Tedania tenuicapitata, Ridley. Several specimens ; obtained also at Stations 308
+and 314.
+Trachytedonia patagonica, n.sp. One specimen (Station doubtful); obtained also
+at Station 308.
+Iophon pattersoni (Bowerbank). Numerous fragments; obtained also at Stations 135
+and 308.
+Myxilla mollis, n.sp. Five specimens (Station 308 or 311, or both).
+nobilis, n.sp., var. patagonica, nov. One specimen and fragments; the
+species obtained also at Stations 148, 307 (var. bacillifera),
+and 320.
+TETRACTINELLIDA (Sollas, Zool. pt. 63).
+Cydonium magellani, n.sp. Several specimens ; obtained also at Station 308.

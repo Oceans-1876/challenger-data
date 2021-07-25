@@ -1,42 +1,44 @@
-8
+12
 THE VOYAGE OF H.M.S. CHALLENGER.
-this ocean, temperatures have been observed at fifty-five stations, the mean of these
-being 36°4, or 1°:2 above the average, thus showing a strikingly marked difference
-between the deep-sea temperature of the Indian Ocean and the South Atlantic on the
-one hand, and the North Atlantic on the other. The two sections of the Pacific Ocean
-where the temperature is above the average do not show any such excess as appears in
-the North Atlantic, the excess above the average being, roughly speaking, about half
-degree. The mean of the two stations in the China Sea is 36°5, or 1°:3 above the
-average.
-In connection with deep-sea temperatures the following facts are interesting. In
-the Arctic Ocean, at a depth of 2005 fathoms, Professor Mohn observed a temperature
-of 29°:6 in lat. 68° 21' N. and long. 2° 5' W. This position, however, is in a "closed
-area,” shut off from the general oceanic circulation by the Wyville-Thomson Ridge. A
-little to the south of Greenland, at 1860 fathoms, 3394 has been observed; and ten
-degrees to westwards, at 1750 fathoms, 34°:0. To the east of Ceylon, at 2020 fathoms,
-330:9 was observed, lat. 9° N. and long. 85° E., and to north-west of Madagascar, at
-1877 fathoms, a temperature of 33°5 has been noted. On the other hand, to the east
-of Australia, lat. 19° S. and long. 165° E., at a depth of 2525 fathoms, the temperature
-was found to be 36°.4.
-It will be seen, when the bottom temperatures are dealt with,
-that the Atlantic stands alone among the oceans for relatively high temperatures at
-great depths.
-It is remarkable that at the depth of 2200 fathoms the water of the sea falls to its
-lowest temperature off the east of the Argentine Coast of South America, and is nearly,
-if not quite, at its highest off the east coast of North America, thus pointing to very
-diverse conditions in the oceanic circulation off the east coasts of these two continents.
-The striking fact is that deep-sea temperatures in all latitudes, equatorial as well as
-polar, are uniformly low, and, except in a few restricted regions, do not differ from each
-other more than about two degrees. The exceptional regions are where the Sea of
-Okhotsk meets the ocean ; the whole of the deep water immediately to the east of South
-America from Cape St Roque to Grahame's Land, in Antarctica ; and, in a less degree,
-the southern portion of the Indian Ocean. It is also to be noted that the lowest deep-
-sea temperatures are found in those parts of the ocean which lie in the Southern
-hemisphere, and that, on the whole, higher temperatures are encountered as we reced
-from the Antarctic region. It may also be pointed out that the lower deep-sea
-temperatures extend farther to the north from the Southern Ocean, just over those
-depths of the sea which appear to have, and probably do bave, a direct communication
-with the south ; that is, are not cut off by any intervening submarine ridge separating
-them from the cold waters of Antarctica.
-There can be no doubt that these very low deep-sea temperatures have their origin
-in the Southern or Antarctic Ocean, the icy-cold waters of which are propagated north-
+whole globe during all seasons of the year.
+Over the whole of this vast space westerly
+and north-westerly winds sweep as strong winds, subject to little, if any,
+variation
+with season.
+From the enormous quantities of warm waters they impel before them
+into the Southern Ocean, they may be regarded as playing the most conspicuous part,
+of all the prevailing winds, in the circulation of the waters of the ocean.
+ocean.
+SPECIFIC GRAVITY OF THE OCEAN. (Map 1.)
+Of all oceans the South Atlantic is the one containing fewest islands, and it is
+traversed by virtually the same winds at all seasons of the year. In that ocean, accord-
+ingly, the distribution of the specific gravity of the surface is presented in its simplest
+form. From the equator to the estuary of the Rio de la Plata the prevailing winds are
+south-easterly trades. It is also to be noted that these winds blow from higher to lower
+altitudes, and consequently from regions of lower to regions of higher temperatures (see
+Map 2). From these conditions result a drier atmosphere, increased evaporation from
+the surface of the sea, and a small rainfall, much smaller than would otherwise be, owing
+to the almost total absence of islands which would, in proportion to their height,
+condense the aqueous vapour into rain, and thus lower the specific gravity in this
+Hence, the specific gravity increases on nearing the South American coast,
+attaining the maximum, 1.0275 to 1.0278, from Bahia to Rio de Janeiro. Off the west
+coast of Africa, in the same latitudes, specific gravity is much lower, even though that
+coast, from lat. 10° to 304 S., is one of the driest regions of the globe, much drier,
+indeed, than the corresponding coast of Brazil. This is due to the fact that the
+prevailing westerly winds on that coast are but the in-draught from the sea towards the
+heated land of Africa, and, necessarily, owing to the distribution of pressure, they extend
+only a short distance westwards into the Atlantic. Further, as the whole wind-system,
+together with the surface currents of this portion of the South Atlantic, is drifted west-
+ward by the south-east trades, there is an upwelling along the more easterly portion of
+the ocean to make good the surface drain, and the specific gravity of this deep water
+brought to the surface is much lower than that of the surface waters to the westward
+owing to the large evaporation of this region, to which these surface waters are subjected
+during their long course over this ocean.
+On the other hand, the North Atlantic presents features strikingly different.
+considerable portion of the year northerly and north-westerly winds set in on the north-
+west coast of Africa, and, since they have traversed a considerable extent of the Atlantic,
+and have been steadily advancing into warmer latitudes, that region is characterised
+by a specific gravity higher than anything observed off the coast of South Africa. Again,
+the north-east trades do not blow home on the shores of the Eastern States of America
+On the contrary, the north-east winds from the anticyclone of the North Atlantic curve
+For a

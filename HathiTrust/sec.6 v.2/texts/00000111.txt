@@ -1,52 +1,120 @@
 SUMMARY OF RESULTS.
-875
-The following species are recorded in the Zoological Reports from the dredge at Station 224.
-this Station :
-ANIMALS FROM
-DREDGE.
-CORALS (Moseley, Zool. pt. 7).
-Bathyactis symmetrica (Pourtalès). Widely distributed (sce Station 24).
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Styracaster armatus, n.g., n.sp. Obtained at no other
-no other locality. Recorded
-subsequently from Indian Ocean (" Investigator ”).
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha undulata, n.sp. Obtained at no other locality.
-Ophiomusium corticosum, n.sp. Obtained at no other locality.
-OSTRACODA (Brady, Zool. pt. 3).
-Cythere dictyon, n.sp. Widely distributed (see Station 24).
-Cytheropteron mucronalatum, n.sp. Obtained also at Stations 70, 246, 296,
-300, and 302.
-Excluding Protozoa, 7 specimens of invertebrates were obtained at this Station,
-belonging to 6 species, of which 5 are new to science, including representative of 1 new
-genus ; 3 of the new species were not obtained elsewhere.
-The following species of Radiolaria and Foraminifera were observed in the deposit ORGANISMS FROM
-from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
-THE DEPOSIT.
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Stylosphæra jugata, Haeckel.
-Amphisphæra apollo, Haeckel.
-Artiscus panarius, Haeckel.
-Stylartus bipolaris, Haeckel.
-Phacodiscus rotula, Haeckel.
-Larnacalpis macrococcus, Haeckel.
-Dizonium pleuracanthum, Haeckel.
-Tetrapyle pleuracantha, Haeckel.
-Octopyle transversaria, Haeckel.
-decastyle, Haeckel.
-Staurotholus decastylus, Haeckel.
-Cubotholus octoceras, Haeckel.
-Trissocircus lentellipsis, Haeckel.
-Lithotympanum spinosum, Haeckel.
-Lithocubus geometricus, Haeckel.
-Tricolospyris leibnitziana, Haeckel.
-Perillium palmipes, Haeckel.
-Calpophæna hexarrhabda, Haeckel.
-Alacorys guilelmi, Haeckel.
-Stichopera serrata, Haeckel.
-Cyrtophormis cingulata, Haeckel.
-Eucyrtidium armatum, Haeckel.
-Lithocampe multiseriata, Haeckel.
-polycola, Haeckel.
-Aulospathis hexodon, Haeckel.
-Challengeron fergusoni, Haeckel.
+877
+STATION 224. :
+Theocorys turgidula, Haeckel.
+Dictyomitra macilenta, Haeckel.
+Gazelletta furcata, Haeckel.
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Cystisoma spinosum (Fabricius).
+In addition, the following are recorded in the note-books : Oscillatoriaceae
+(Trichodesmium), Pyrocystis, Peridinium tripos, Diatoms, Globigerina, Orbulina,
+Pulvinulina, Medusa, Siphonophoræ, Echinoderma larvæ, Sagitta, Aphroditacean larvæ,
+Tornaria or Balanoglossus larvæ, Pilidium (?), Calanus, Copilia, Saphirina, and other
+Copepods, Phronimids, Euphausia, Lucifer, Zoëæ of Sergestes, larval Lamellibranchs,
+Atlanta, Pteropods and larvæ, Appendicularia, Doliolum, young Pyrosoma.
+Station 225 (Sounding 363), Admiralty Islands to Yokohama (see Chart 31 and
+Diagram 16).
+STATION 225.
+March 23, 1875; lat. 11° 24' N., long. 143° 16' E.
+Temperature of air at noon, 78°:5; mean for the day, 79°-2.
+Temperature of water :-
+O
+9
+1)
+Surface,
+10 fathoms,
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+80-2
+80.2
+80.0
+80.0
+80.0
+80:0
+80.0
+78.0
+74.8
+70.6
+67.0
+63.0
+59.4
+56.1
+53•7
+52.0
+51.3
+50:7
+180 fathoms,
+190
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+50:1
+49:7
+49.2
+43.2
+41.2
+39.9
+38.6
+37.9
+37:3
+36.9
+36.5
+36:1
+35.7
+35.5
+355
+35.5
+35.2
+19
+91
+Density at 60° F. :-
+2
+.
+Surface,
+1.02568
+20 fathoms,
+1.02565
+50
+1.02566
+100
+1.02582
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+200 fathoms,
+300
+400
+Bottom,
+. 1.02544
+1.02559
+1.02559
+1.02579
+19
+.
+22
+.
+111

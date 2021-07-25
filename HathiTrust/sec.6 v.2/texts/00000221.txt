@@ -1,36 +1,48 @@
 SUMMARY OF RESULTS.
-975
-Surface Organisms.—The following species are recorded from the surface at this Station 251.
+977
+Surface Organisms.—The following species are recorded from the surface at this Station 252.
+Station :
 ORGANISMS FROM
-Station :-
 SURFACE-NETS.
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Eupronoë pacifica, n.sp.
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Clio (Styliola) subula (Quoy and
-Gaimard).
-pyramidata, Linné.
-SCHIZOPODA (Sars, Zool. pt. 37).
-Thysanoëssa gregaria, n.sp.
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Auloscena flammabunda, Haeckel.
+Siphonosphæra pipetta, Haeckel.
+Challengeria bromleyi, Haeckel.
+Stylosphæra nana, Haeckel.
+Gazelletta dendronema, Haeckel.
+Litholophus penicillus, Haeckel.
+Polypetta mammillata, Haeckel.
+Acanthonia quadrifolia, Haeckel.
+Castanella wyvillei, Haeckel.
+Sethoconus trochus, Haeckel.
+Conchidium rhynchonella, Haeckel.
+Theocampe cryptoprora, Haeckel.
+Cælodendrum bifurcum, Haeckel.
+Aulacantha spinosa, Haeckel.
+Cælospathis octodactyla, Haeckel.
+Auloceros furcosus, Haeckel.
+Cælostylus flabellatus, Haeckel.
+Sagoplegma scenophora, Haeckel. SCHIZOPODA (Sars, Zool. pt. 37).
+Aulosphæra undulata, Haeckel.
+Euchætomera typica, n.g., n.sp.
 In addition, the following are recorded in the note-books :-Globigerina, Orbulina,
-and other Foraminifera, Acanthometræ and other Radiolaria, Medusæ, Velella and other
-Siphonophoræ, Alciopa, tubicolous Annelids, Distomum, Cypridina, Copepods, Cypris
-stage of Lepas fascicularis, Nauplii, Archizoëa, Hyperids, Isopods, Bopyrus on
-Euphausia, Euphausia megalopæ, Halobates, larval Gasteropods and Heteropods,
-Nudibranchs, Atlanta, Cardiopoda, Oxygyrus, Pneumonoderma, Hyalæa [ = Cavolinia],
-and fish eggs. Velella was very abundant in the water ; many of the specimens were
-dead, and attached to these were Lepas fascicularis, Halobates, and a Nudibranch.
-Numbers of small pieces of pumice were also observed, mostly overgrown with a mould,
-or Alga, giving it a yellow colour ; some of it was exceedingly pordus and with an
-appearance of organic structure.
-Station 252 (Sounding 394), Yokohama to Sandwich Islands (see Chart 36 and Station 252.
-Diagram 18).
-July 12, 1875 ; lat. 37° 52' N., long. 160° 17' W.
-Temperature of air at noon, 67°5; mean for the day, 66°:6.
+Medusæ, Siphonophoræ, Distomum, Cypridina, Copepods, Cypris stage of Lepas
+fascicularis, Archizoëa, Hyperids, Phronima, Euphausia, Sergestes (?), Halobates,
+Nudibranchs (on dead Velellæ), Atlanta, Oxygyrus, and other Heteropods and larvæ,
+Pteropods, Salpa, fish eggs and egg-capsules (on dead Velellä). Two tow-nets were
+sent down on the trawl-line—one at the trawl and one at the weights; the former was
+completely torn, but the latter contained Phæodaria and other Radiolaria, as well as
+some Crustacea not observed on the surface. A shark was seen about the ship.
+Station 253 (Sounding 395), Yokohama to Sandwich Islands (see Chart 36, and Station 253.
+Diagrams 18 and 19).
+July 14, 1875 ; lat. 38° 9' N., long. 156° 25' W.
+Temperature of air at noon, 70°:3; mean for the day, 69°-2.
 Temperature of water :-
-O
 Surface,
+67:7 400 fathoms,
+39.2
 25 fathoms,
+>
 50
 75
 100
@@ -42,20 +54,18 @@ Surface,
 250
 275
 300
-65.0
-55.6
-54:0
-52.5
-51:1
-49.9
-48.7
-47:4
-46.1
-45.0
-44.0
-43:1
-42:3
-400 fathoms,
+58.8
+53.4
+51:3
+50:4
+49.6
+49.1
+48.2
+46.9
+44.8
+43.0
+41:5
+40.5
 500
 600
 700
@@ -68,17 +78,15 @@ Surface,
 1400
 1500
 Bottom,
-39.8
-38:3
-37.3
-36:7
+38.3
+37.6
+36.9
+36.4
 36.2
-35.9
+36.0
 35.8
-35.6
+35.7
 35.5
-35.4
 35.3
-35.3
-35.3
-.
+35:1
+35:1

@@ -1,44 +1,41 @@
-12
+16
 THE VOYAGE OF H.M.S. CHALLENGER.
-whole globe during all seasons of the year.
-Over the whole of this vast space westerly
-and north-westerly winds sweep as strong winds, subject to little, if any,
-variation
-with season.
-From the enormous quantities of warm waters they impel before them
-into the Southern Ocean, they may be regarded as playing the most conspicuous part,
-of all the prevailing winds, in the circulation of the waters of the ocean.
-ocean.
-SPECIFIC GRAVITY OF THE OCEAN. (Map 1.)
-Of all oceans the South Atlantic is the one containing fewest islands, and it is
-traversed by virtually the same winds at all seasons of the year. In that ocean, accord-
-ingly, the distribution of the specific gravity of the surface is presented in its simplest
-form. From the equator to the estuary of the Rio de la Plata the prevailing winds are
-south-easterly trades. It is also to be noted that these winds blow from higher to lower
-altitudes, and consequently from regions of lower to regions of higher temperatures (see
-Map 2). From these conditions result a drier atmosphere, increased evaporation from
-the surface of the sea, and a small rainfall, much smaller than would otherwise be, owing
-to the almost total absence of islands which would, in proportion to their height,
-condense the aqueous vapour into rain, and thus lower the specific gravity in this
-Hence, the specific gravity increases on nearing the South American coast,
-attaining the maximum, 1.0275 to 1.0278, from Bahia to Rio de Janeiro. Off the west
-coast of Africa, in the same latitudes, specific gravity is much lower, even though that
-coast, from lat. 10° to 304 S., is one of the driest regions of the globe, much drier,
-indeed, than the corresponding coast of Brazil. This is due to the fact that the
-prevailing westerly winds on that coast are but the in-draught from the sea towards the
-heated land of Africa, and, necessarily, owing to the distribution of pressure, they extend
-only a short distance westwards into the Atlantic. Further, as the whole wind-system,
-together with the surface currents of this portion of the South Atlantic, is drifted west-
-ward by the south-east trades, there is an upwelling along the more easterly portion of
-the ocean to make good the surface drain, and the specific gravity of this deep water
-brought to the surface is much lower than that of the surface waters to the westward
-owing to the large evaporation of this region, to which these surface waters are subjected
-during their long course over this ocean.
-On the other hand, the North Atlantic presents features strikingly different.
-considerable portion of the year northerly and north-westerly winds set in on the north-
-west coast of Africa, and, since they have traversed a considerable extent of the Atlantic,
-and have been steadily advancing into warmer latitudes, that region is characterised
-by a specific gravity higher than anything observed off the coast of South Africa. Again,
-the north-east trades do not blow home on the shores of the Eastern States of America
-On the contrary, the north-east winds from the anticyclone of the North Atlantic curve
-For a
+south-easterly. They therefore blow home on that coast, bringing from tropical regions
+the warm waters of the surface over the whole of the northern portion of this sea.
+On the western part of the North Atlantic the isothermal of 75° is carried to a
+higher latitude than anywhere else in the ocean, owing to the prevailing southerly and
+south-westerly winds, which carry thither the high temperature waters immediately to the
+south. On the other hand, the isothermal of 45° is carried to a lower latitude near
+Nova Scotia than anywhere else in the ocean, owing to the prevailing north-westerly
+winds there in the cold months of the year, and the cold currents that later on descend
+on these coasts from the Arctic regions. The isothermal of 45° is further remarkable in
+that it extends over a far larger number of degrees of latitude than any other isothermal,
+viz., from lat. 45° to 68° N., or twenty-three degrees of latitude.
+A marked feature of the distribution of the temperature of the North Atlantic is
+the crowding of the isothermals off the coast of America, and their opening out into
+higher latitudes as they approach Europe and to lower latitudes as they near Africa.
+Thus on the American coasts the isothermals from 45° to 75º extend over twelve
+degrees of latitude, but on the eastern side of the Atlantic to forty-eight degrees. An
+important point is that the highest temperature as regards latitude is not near the coast,
+but in the ocean a considerable distance to westwards. The lowering of the temperature
+off the north-west of Africa deserves attention, as being the direct result of the curving
+round of the prevailing winds in this part of the North Atlantic anticyclone to north-
+west and north, thus transferring the surface waters from higher to lower latitudes. A
+similar effect is even more emphatically expressed in the isothermals of the air in this
+part of the ocean (see Map 13 in the Report on Atmospheric Circulation). A similar
+lowering of the temperature, from similar causes, is seen off the west coasts of all the
+continents, the prevailing winds in these regions passing from higher to lower latitudes.
+On the other hand, as the prevailing winds on the western sides of the oceans pass from
+lower into higher latitudes, temperatures there are higher, except in the higher latitudes,
+where icebergs and icefloes, polar currents, and upwelling occur.
+The warm currents to the east of South Africa, and the cold currents to the
+west, are well shown on Map 2, on which the results are now stated with great
+accuracy of detail from the Meteorological Charts for the Ocean District adjacent to
+the Cape of Good Hope, issued by the Meteorological Council.
+The lowest isothermal on the map is 30° in the Arctic Regions. The isothermals
+here, to the north of the British Islands, are taken from Professor Mohn's great work on
+The Meteorology of the Norwegian North Atlantic Expedition, 1876–78 (Plate XVI.).
+These mean annual temperatures of the Norwegian Sea and Arctic Ocean, so carefully
+prepared by Mohn, are of first importance in their bearings on ocean circulation,
+and the same remark may be extended to the deep-sea temperatures of the same
+expedition.

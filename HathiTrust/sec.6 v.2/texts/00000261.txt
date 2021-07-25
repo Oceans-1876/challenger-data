@@ -1,100 +1,105 @@
 SUMMARY OF RESULTS.
-1009
-Station 264.
-In addition, the following are recorded in the note-books :-Globigerina, young
-Ctenophoræ, Tomopteris, Evadne, Copilia, Corycæus, Saphirina, Nauplii and Zoëæ of
-Euphausia, Sergestes and larvæ and Elaphocaris, larvæ of Ianthina (?) with large
-velum, Cephalopod (Cranchia ?). The tow-nets at the trawl and weights brought up
-many Phæodaria and other Radiolaria and a small Sternoptychid fish, and also specimens
-of Sagitta much larger than those taken at the surface. These deep nets also contained
-many dead Globigerinæ, Orbulinæ, Pulvinulinæ, and other pelagic Foraminifera ; many
-of these had a dull white colour, and had holes which seemed to indicate that the shells
-were being dissolved. The nets also contained many dead specimens of Nassellaria and
-Spumellaria. If the dead shells of the Globigerinidæ came from the bottom, then a
-number must reach the bottom before being entirely dissolved, but there is a good deal
-of evidence in the deep hauls to show that they were caught by the nets while falling to
-the bottom.
-Station 265 (Sounding 407), Sandwich Islands to Tahiti (see Chart 38 and Station 265.
-Diagram 19).
-August 25, 1875; lat. 12° 42' N., long. 152° 1' W.
-Temperature of air at noon, 80°:3 ; mean for the day, 78°.7.
-Temperature of water :-
-O
->
-99
-Surface,
-10 fathoms,
-20
-30
-40
-50
-60
-70
-80
-90
-100
-110
-120
-130
-140
-150
-160
-170
-79.2
-78.6
-77.8
-75.8
-72-6
-69.2
-65.6
-62:0
-58:3
-55.2
-53.3
-52:3
-51.7
-51:1
-50-6
-50.1
-49.8
-49.5
-180 fathoms,
-190
-200
-300
-400
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-49.1
-48.8
-48.5
-45.4
-43:3
-41.5
-40:1
-39.0
-38.1
-37.4
-37.0
-36.6
-36:3
-36.0
-35.7
-35.4
-35.0
-02
-»
->
-Density at 60° F. at surface, 1·02564 ; 2425 fathoms, 1:02550 ; bottom, 1:02551.
-Depth, 2900 fathoms ; deposit, Radiolarian Ooze, containing only a trace of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+1011
+STATION 265.
+P.
+-
+Heliodiscus polymorphus, Haeckel.
+marginatus, Haeckel.
+Astrophacus asteriscus, Haeckel.
+Stylocyclia amphacantha, Haeckel.
+Amphicyclia chronometra, Haeckel.
+Coccocyclia liriantha, Haeckel.
+Diplactura diplobrachia, Haeckel.
+Trigonactura triacantha, Haeckel.
+Astractura hippocratis, Haeckel.
+Stauractura tetragona, Haeckel.
+Pentactura astropecten, Haeckel.
+Echinactura goniaster, Haeckel.
+Archidiscus trioniscus, Haeckel.
+polythalamus, Haeckel.
+Azodiscus spinosus, Haeckel.
+Perichlamydium saturnus, Haeckel.
+Ommatodiscus fragilis, Stöhr.
+Xiphodictyon amphirrhopalia, Haeckel.
+Tripodictya trigonaria, Haeckel.
+Staurodictya cruciata, Haeckel.
+grandis, Haeckel.
+Stylodictya centrospira, Haeckel.
+Stauralastrum ordo, Haeckel.
+rhopalophorum, Haeckel.
+Stephanastrum capitatum, Haeckel.
+Discozonium cyclonium, Haeckel.
+Spongodiscus biconcavus, Haeckel.
+Spongasteriscus mucronatus, Haeckel.
+Larnacilla medullaris, Haeckel.
+Larnacantha dodecantha, Haeckel.
+Tholostaurus cruciformis, Haeckel.
+Tholoma metallasson, Haeckel.
+Larcospira lentelliptica, Haeckel.
+Archicircus princeps, Haeckel.
+quadratus, Haeckel.
+primordialis, Haeckel.
+Lithocircus hesablastus, Haeckel.
+Zygocircus sagittalis, Haeckel.
+dodecanthus, Haeckel.
+Cortina cervina, Haeckel.
+Semantis biforis, Haeckel.
+Semantrum tetrastoma, Haeckel.
+Semantidium hexastoma, Haeckel.
+Clathrocircus multiforis, Haeckel.
+Acanthodesmia ceratospyris, Haeckel.
+Toxarium circospyris, Haeckel.
+thorax, Haeckel.
+Tympaniscus tripodiscus, Haeckel.
+Tripospyris hexomma, Haeckel.
+Triceraspyris cortiniscus, Haeckel.
+Tristylospyris ramosa, Haeckel.
+Dipospyris forcipata, Haeckel.
+Dorcadospyris decussata, Haeckel.
+Gamospyris circulus, Haeckel.
+Stephanospyris cordata, Haeckel.
+Tetraspyris cubica, Haeckel.
+Necaspyris alterna, Haeckel.
+Liriospyris hexapoda, Haeckel.
+Aegospyris æquispina, Haeckel.
+Petalospyris bellidiastrum, Haeckel.
+Anthospyris tragopogon, Haeckel.
+Dictyospyris distoma, Haeckel.
+Sepalospyris platyphylla, Haeckel.
+Tiarospyris galea, Haeckel.
+Perispyris spongiosa, Haeckel.
+Botryopera cyrtoloba, Haeckel.
+Cannobotrys tricanna, Haeckel.
+cortina, Haeckel.
+Acrobotrys disolenia, Haeckel.
+Archipilium cyrtopterum, Haeckel.
+Tripilidium lychnocanium, Haeckel.
+cladopodium, Haeckel.
+Tripodiscium tristylospyris, Haeckel.
+Pteroscenium arcadophorum, Haeckel.
+Bathropyramis trapezoides, Haeckel.
+Halicalyptra ampulla, Haeckel.
+Calpophæna petalospyris, Haeckel.
+Cyrtocalpis lithomitra, Haeckel.
+Halicapsa papillata, Haeckel.
+Archicapsa quadriforis, Haeckel.
+Dictyophimus plectaniscus, Haeckel.
+Lithomelissa ehrenbergii, Bütschli.
+pycnoptera, Haeckel.
+Psilomelissa calvata, Haeckel.
+Clathromitra pterophormis, Haeckel.
+Lychnocanium lanterna, Haeckel.
+ventricosum, Ebrenberg.
+tripodium, Ehrenberg.
+Tetrahedrina pyriformis, Haeckel.
+Sethochytris pyramis, Haeckel.
+Sethophormis aurelia, Haeckel.
+Sethamphora costata, Haeckel.
+Sethopyramis enneactis, Haeckel.
+Plectopyramis hexapleura, Haeckel.
+Anthocyrtis butomus, Haeckel.
+Eucoronis perspicillum Haeckel.
+Plectocoronis triacantha, Haeckel.
+Podocoronis tozarium, Haeckel.
+Trissneyclus stauroporus, Haeckel.
+Acrocubus arcuatus, Haeckel.

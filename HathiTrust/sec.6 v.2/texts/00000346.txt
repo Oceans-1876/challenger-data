@@ -1,94 +1,40 @@
-1084
+1088
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 284.
-300 fathoms,
-400
-500
-600
-700
-800
-900
-45.8
-41.6
-40.0
-39.0
-38.2
-37.4
-36.9
-1000 fathoms,
-1100
-1200
-1300
-1400
-1500
-Bottom,
-36.4
-36.0
-35.8
-35.7
-35.6
-35.4
-35:1
-Density at 60° F. :-
-.
-Surface,
-25 fathoms,
-50
-100
-200
-1:02631
-1.02625
-1:02628
-. 1.02623
-. 1.02601
-300 fathoms,
-400
-500
-1975
-Bottom,
-1.02551
-1.02546
-1.02564
-1.02576
-. 1.02615
-.
-.
-9
-.
-Depth, 1985 fathoms; deposit, Globigerina Ooze, containing 65.81 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4 A.M. shortened and furled sails, and proceeded under steam. At 6 A.M. sounded
-in 1985 fathoms. Put over trawl and veered 2500 fathoms. Obtained serial temperatures
-down to 1500 fathoms. The carbonic acid was determined in water from 200, 800, and
-1975 fathoms, and amounted respectively to 35.8, 46-2, and 51.2 milligrammes per litre.
-At 1 P.M. commenced heaving in trawl, but at 2.30 P. M. the trawl-rope carried away,
-and
-the trawl with its contents, apparently heavy, and 2000 fathoms of line, were lost.
-Made all plain sail and proceeded. One or two large albatrosses (Diomedea exulans)
-were seen.
-Valparaiso distant at noon, 3608 miles ; Bass Islands about 120 miles. Made good
-87 miles. Amount of current 13 miles, direction N.
-ORGANISMS FROM
-THE DEPOSIT.
-FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera were
-observed during the examination of the deposit from this Station; the pelagic species,
-which make up about 76 per cent. of the carbonate of lime present in the deposit, are
-marked thus :
-Biloculina depressa, d'Orbigny.
-var. murrhyna, Schwager.
-elongata, d'Orbigny.
-Spiroloculina acutimargo, Brady.
-tenuis (Czjzek).
-Miliolina venusta (Karrer).
-Reophax dentaliniformis, Brady.
-difflugiformis, Brady.
-guttifera, Brady.
-scorpiurus, Montfort.
-sp. ().
-Haplophragmium canariense (d'Orbigny).
-foliaceum, Brady.
-latidorsatum (Bornemann).
-Hormosina globulifera, Brady.
-sp. (?).
-Hyperammina vagans, Brady.
-Reophax adunca, Brady.
+STATION 285.
+could sometimes be observed in the body of the nodules, incorporated between the
+successive layers.
+There were six rounded or rolled pebbles ; the largest, having in one direction a
+diameter of over 3 cm., was a basaltic rock, while the others were fragments of granitic
+and gneissic rocks. These pebbles are believed to have been ice-borne, this Station being
+just beyond the borders of the region of floating ice in the southern hemisphere. Twelve
+rounded pieces of pumice, the largest about the size of a hen's egg, were also met with ;
+the outer portions were decomposed into earthy matter, and covered with layers of
+manganese, which also penetrated in the form of dendrites throughout the whole of the
+Numerous magnetic spherules were extracted from the deposit at this Station, as
+well as from the manganese nodules. .
+At 4 P.M. made sail. Several albatrosses and one or two Cape pigeons were seen.
+Valparaiso distant at noon, 3324 miles. Made good 144 miles. Amount of current
+10 miles, direction S. 44° E.
+mass.
+ANIMALS FROM
+TRAWL
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :
+CORALS (Moseley, Zool. pt. 7).
+Deltocyathus italicus, M.-Edwards and Haime. One specimen ; for distribution see
+Station 24.
+1
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophioglypha minuta, n.sp. (?). Two specimens ; obtained also at Stations 146 and
+158.
+ANNELIDA (MʻIntosh, Zool. pt. 34).
+Placostegus ornatus, Sowerby. Obtained also at Stations 244 and 253.
+mörchii, n.sp. One specimen ; obtained at no other locality.
+MACRURA (Spence Bate, Zool. pt. 52).
+Haliporus curvirostris, n.g., n.sp. One specimen ; obtained also at Station 281.
+Benthesicymus brasiliensis, n.g., n.sp. One specimen ; obtained also at Stations 168,
+173, 181, 184, and 323.
+Acanthephyra longidens, n.sp. One specimen ; obtained also at Station 198.
+ANOMURA (Henderson, Zool. pt. 69).
+Tylaspis anomala, n.g., n.sp. One specimen ; obtained at no other locality. Only
+species of the genus.

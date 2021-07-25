@@ -1,99 +1,50 @@
-954
+956
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 244.
-Temperature of water :-
-o
-99
->>
-Surface,
-25 fathoms,
-50
-75
-100
-125
-150
-175
-200
-225
-250
-275
-300
-70-5
-61.0
-59.2
-57.6
-56.2
-54.9
-53.3
-51.7
-49.8
-48.0
-46.0
-44:3
-43:1
-400 fathoms,
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-40.4
-38.9
-38.0
-37.4
-36.9
-36:4
-36.0
-35.7
-35.5
-35.3
-35.3
-35.3
-35:3
+ANNELIDA (MʻIntosh, Zool. pt. 34).
+Lætmonice producta, Grube, var. benthaliana, nov. Many specimens ; obtained
+also at Stations 147, 157, and 241.
+Several tubes of a form allied to Eusamytha pacifica, n.g., n.sp.
+Placostegus ornatus, Sowerby. Obtained also at Stations 253 and 285, 3125 and
+2375 fathoms,
+CIRRIPEDIA (Hoek, Zool. pt. 25).
+Lepas anatifera, Linné. Shell only; a widely-distributed species at the surface.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Neæra murrayi, n.sp. Obtained at no other locality.
+Semele (Abra) profundorum, n.sp. Two specimens ; obtained also at Stations 73,
+85, and 98.
+Callocardia (?) pacifica, n.sp. Two specimens ; obtained at no other locality.
+Yoldia hoylei, n.sp. Two specimens ; obtained at no other locality.
+Arca (Barbatia ?) imitata, n.sp.
+Obtained at no other locality.
+BRACHIOPODA (Davidson, Zool. pt. 1).
+Terebratula wyvillii, n.sp. Obtained also at Stations 160, 184, 299, 302, and 317.
+In addition to the foregoing, the following are recorded in the Station-book :- Very
+large specimen of Stephanoscyphus attached to pumice-stone, fragments of Scalpellum,
+large Peneid shrimp, and small black much-mutilated Stomiatid fish with long hyoid
+barbel.
+Excluding Protozoa, over 70 specimens of invertebrates and fishes were obtained at
+this Station, belonging to about 32 species, of which 24 are new to science, including
+representatives of 8 new genera; 11 of the new species and 1 new genus were not
+obtained elsewhere.
+ORGANISMS FROM
+THE DEPOSIT.
+The following species of Foraminifera and Radiolaria were observed in the deposit
+from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+FORAMINIFERA (Brady, Zool. pt. 22).-— The pelagic species are marked thus x.
+Biloculina depressa, d'Orbigny.
+Sorosphæra confusa, Brady (?).
+ringens (Lamarck).
+Jaculella acuta, Brady.
+Miliolina insignis, Brady.
+Hyperammina ramosa, Brady.
+labiosa (d'Orbigny).
+vagans, Brady.
+oblonga (Montagu).
+Aschemonella catenata (Norman).
+seminulum (Linné).
+ramuliformis, Brady.
+Pelosina cylindrica, Brady.
+Rhizammina algæformis, Brady.
+97
 >
-Density at 60° F. :-
-Surface,
-25 fathoms,
-50
-100
-200
-. 1:02566
-. 1.02563
-. 1:02559
-1:02552
-. 1.02534
-300 fathoms,
-400
-600
-Bottom,
-1.02519
-. 1.02521
-. 1.02521
-. 1:02571
-Depth, 2900 fathoms ; deposit, Red Clay, containing only a trace of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 3.15 A.M. shortened sail.
-At 4 A.M. got up steam, and proceeded to lay out
-trawl, veering 3500 fathoms. At 6 A.m. brought ship to wind, proceeded under steam,
-and sounded in 2900 fathoms. Obtained serial temperatures down to 1500 fathoms. At
-noon commenced heaving in trawl, which came up torn at 3.50 P.M., but with numerous
-animals, a bag full of clay, many pumice-stones and manganese nodules, and a few sharks'
-teeth (Lamna, &c.). This was the most successful haul hitherto made from a depth of
-2900 fathoms, and proved the abundance of highly-organised life in great depths. At
-4. P.M. made sail. A boatswain bird was seen along with many black albatrosses
-(Diomedea brachyura), and several of the latter were caught with hook and line, in
-the stomachs of which several specimens of Entozoa (Tænia diomedex, n.sp., and
-Tetrabothrium torulosum, n.sp.) were found (see Linstow, Zool. pt. 71).
-Distance at noon from Honolulu, 1891 miles. Made good 69 miles. Amount of
-current 15 miles, direction N. 63º E.
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :
-DEEP-SEA KERATOSA (Haeckel, Zool. pt. 82).
-Psammophyllum annectens, n.g., n.sp. Obtained at no other locality.

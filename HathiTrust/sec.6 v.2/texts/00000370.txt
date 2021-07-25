@@ -1,52 +1,106 @@
-1108
+1112
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 295.
-Juan Fernandez distant at noon, 792 miles. Made good 115 miles. Amount of
-current 15 miles, direction N. 79° E.
-The following species is recorded from the trawl at this Station :-
-ANIMAL FROM
-TRAWL.
-FISHES (Günther, Zool. pt. 57).
-Cyema atrum, n.g., n.sp. One specimen ; obtained also at Station 158. Only
-species of the genus.
-The following species are recorded in error from this Station, having evidently come
-from Station 298 (see Station 298) :-
+STATION 296.
+Х
+9
+Х
+Х
+Х
+х
+х
+Х
+Chilostomella oroilea, Reuss.
+Lagena acuta (Reuss).
+alveolata, Brady.
+var. cauligera, Brady.
+apiculata, Reuss.
+auriculata, Brady.
+desmophora, Rymer Jones.
+globosa (Montagu).
+gracilis, Williamson.
+gracillima (Seguenza).
+hispida (Reuss).
+læris (Montagu).
+lagenoides (Williamson). •
+longispina, Brady.
+marginata (Walker and Boys).
+multicosta (Karrer).
+orbigyana (Seguenza).
+seminiformis, Schwager.
+seminuda, Brady.
+squamoso-marginata, Parker and Jones.
+staphyllearia, Schwager.
+truncata, Brady.
+Nodosaria abyssorum, Brady.
+communis, d'Orbigny.
+consobrina, d'Orbigny, var. emaciata,
+Reuss.
+intercellularis, Brady.
+(Glandulina) lævigata, d’Orbigny.
+verruculoza, Neugeboren.
+Marginulina costata (Batsch).
+Cristellaria convergens, Bornemann (?).
+reniformis, d'Orbigny.
+Polymorphina lanceolata, Reuss.
+longicollis, Brady.
+rotundata, Bornemann.
+Uvigerina asperula, Czjzek.
+pygmæa, d'Orbigny.
+x Globigerina æquilateralis, Brady.
+bulloiiles, d'Orbigny.
+conglobata, Brady.
+digitata, Brady.
+dubin, Egger.
+inflata, d’Orbigny.
+sacculifera, Brady.
+x Orbulina universa, d'Orbigny.
+x Pullenia obliquiloculata, Parker and Jones.
+quinqueloba, Reuss.
+sphæroides (d'Orbigny).
+Sphæroidina bulloides, d’Orbigny.
+dehiscens, Parker and Jones.
+Truncatulina haidingerii (d'Orbigny).
+humilis, Brady.
+lobatula (Walker and Jacob).
+Pygmæa, Hantken.
+wuellerstorfi (Schwager).
+Anomalina grosserugosa (Gümbel).
+x Pulvinulina canariensis (d'Orbigny).
+crassa (d’Orbigny).
+eripua, Brady
+favus, Brady.
+menardii (d'Orbigny).
+micheliniana (d'Orbigny).
+patagonica (d'Orbigny).
+pauperata, Parker and Jones.
+umbonata, Reuss.
+Rotalia orbicularis, d'Orbigny.
+soldanii, d’Orbigny.
+Nonionina pompilioides (Fichtel and Moll).
+umbilicatula (Montagu).
+х
+X X X
+.
+>
 ORGANISMS FROM
 SURFACE-NETS.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Hymenaster carnosus, n.sp.
-HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
-Benthodytes sanguinolenta, n.g., n.sp.
-mamillifera, n.g., n.sp.
-Cucumaria abyssorum, n.sp., var. grandis, nov.
-Surface Organisms.—The following species are recorded from the surface and
-deep tow-nets in the vicinity of this Station :-
-RADIOLARIA (Haeckel, Zool. pt. 40). COPEPODA (Brady, Zool. pt. 23).
-Sphærozoum triactinium, Haeckel.
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Hexancistra ancorata, Haeckel.
+Clistophæna enneolena, Haeckel.
+Ascodiscus trigonus, Haeckel.
+Stichopilium thoracopterum, Haeckel.
+Anthospyris doronicum, Haeckel.
+Aulonia pentagonia, Haeckel.
+Surface Organisms.—The following species are recorded from the surface at this
+Station :
+RADIOLARIA (Haeckel, Zool. pt. 40).
+COPEPODA (Brady, Zool. pt. 23).
 Calanus valgus, n.sp.
-Rhaphidozoum polymorphum, Haeckel.
-Euchæta hessei, n.sp.
-Siphonosphæra chonophora, Haeckel.
-Echinomma echinidium, Haeckel. AMPHIPODA (Stebbing, Zool. pt. 67).
-Spongiomma spathillatum, Haeckel.
-Cyphocaris micronyx, n.sp.
-Centrocubus polystylus, Haeckel.
-Synopioides macronyx, n.g., n.sp.
 Spongocore puella, Haeckel.
-Monozonium staurostylum, Haeckel.
-MACRURA (Spence Bate, Zool. pt. 52).
-Tholartus tripanis, Haeckel.
-Amphitholoniumacanthonium, Haeckel. Sergestes longicollus, n.sp.
-Zygostaurus longicornis, Haeckel.
-Orophaspis diporaspis, Haeckel. PTEROPODA (Pelseneer, Zool. pt. 65).
-Icosaspis ornata, Haeckel.
-Cavolinia inflexa (Lesueur).
-Hylaspis barbata, Haeckel.
-Phractopelta haliomma, Haeckel.
-Belonaspis pandanus, Haeckel.
-CEPHALOPODA (Hoyle, Zool. pt. 44).
+tonsus, n.sp.
+Astrolophus solaris, Haeckel.
 Sagoscena castra, Haeckel.
-Cirroteuthis sp. (?).
+AMPHIPODA (Stebbing, Zool. pt. 67).
 Castanella thomsoni, Haeckel.
-Tracheloteuthis (?) sp.
+Hyperia luzoni, n.sp., (young ?).
 1

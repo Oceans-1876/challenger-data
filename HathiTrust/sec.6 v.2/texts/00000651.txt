@@ -1,110 +1,105 @@
-wand
-1371
 SUMMARY OF RESULTS.
-♡
-solida, n.sp.
+1375
+S
+N
+T
+*
 >
-hing
-and
-nd
-bulbosa, n.sp.
-and *
-* Moseleya latistellata, n.g., n.sp.
-T
-Pocillopora nobilis, Verrill. T
-* Mussa aspera, M.-Edwards and Haime. T *
-paucistellata, n.sp.
-T
-brueggemanni, n.sp.
-T
-plicata, Dana. T
-echinata, M.-Edwards and Haime. *
+var.
+9
 T
 T
-squarrosa, Dana. T
-fistulosa, M.-Edwards and Haime. *
-suffruticosa, Verrill. T
 T
-terrucosa (Ellis and
-multilobata, Dana. T
-Solander) T
-Napopora irregularis, n.g., n.sp.
+N
 T
-* Podabacia robusta, n.sp.
+nitida, n.sp.
 T
-* Oculina bermudensis, Duchassaing and * Porites arenosu (Esper). T
-Michelotti. N
-astræoides, Lamarck. T
-coronalis, n.sp. N
+* Calliaster baccatus, n.sp.
+* Leiaster speciosus, Martens. T
+* Calvasterias stolidota, n.sp. S
+* Leptoptychaster arcticus (Sars), var.
+Chætaster longipes (Retzius), Sars.
+elongata, nov. N
+* Choriaster granulatus, Lütken.
+kerguelenensis, Smith.
+Craspidaster hesperus (Müller and Tros-
+S
+chel). T
+* Linckia guildingii, Gray. T
+Cribrella obesa, n.sp.
+S
+miliaris (Linck), Martens. T
+oculata (Linck), Forbes. N
+pacifica, Gray, diplas
+ornata, Perrier. s
+(Müller and Troschel). T
+simplex, n.sp.
+s
+* Luidia africana, n.sp.
+S
+var. granulosa, nov.
+alternatu (Say), Lütken.
+* Crossaster papposus (Linck), Müller and
+aspera, n.sp.
+Troschel. N
+clathrata (Say), Lütken. T
+Ctenodiscus australis (Lovén, MS.), forficifer, n.sp.
+Lütken. S
+limbuta, n.sp.
+* Culcita nova-guinea, Müller and Troschel. longispina, n.sp.
 T
-diffusa, Lamarck TN
-clavaria, Lamarck. N
-pallens, Ehrenberg. N
-compressa, Dana. T
-recta, n.sp.
+* Metrodira subulatu, Gray. T
+Cycethra electilis, n.sp. S
+* Mithrodia clavigera (Lamarck), Perrier.
+S
+pinguis, n.sp.
+* Narcissia canariensis (L'Orbigny). T
+* Echinaster eridanella, Müller and Tros-
+trigonaria, n.sp. T
+chel. T * Nardoa tuberculata, Gray. T
+spinosus (Retzius), Müller and * Nectria ocellifera (Lamarck), Gray.
+Troschel. T
+S
+spinulifer, Smith.
+S
+Nepanthia brevis, Perrier.
+* Fromia milleporella (Lamarck), Gray.
+maculutu, Gray.
 T
-Clussa, n.sp.
+Nymphaster albidus, n.g., n.sp.
+* Ganeria falklandica, Gray. S
+symbolicus, n.g., n.sp.
+Gnathaster elongatus, n.g., n.sp.
+S * Ophidiaster cylindricus (Lamarck),
+meridionalis (Smith). S
+Müller and Troschel.
+pilulatus, n.g., n.sp.
+helicostichus, n.sp.
 T
-speciosa, M.-Edwards
-crassistellata, 1.sp.
+Gymnasteria carinifera (Lamarck),
+tuberifer, n.sp.
+Martens.
+* Patiria bellula, n.sp.
+* Heliaster helianthus (Lamarck), Dujardin * Pedicellaster scaber, Smith.
+and Hupé.
+S
+* Pentaceropsis obtusatus (St. Vincent).
+Hippasteria plana (Linck), Gray. N
+Labidiaster annulatus, n.sp. ST * Pentaceros callimorphus, n.sp.
+radiosus (Lovén, MS.), ,
+dorsatus (Linné), Perrier.
+Lütken. s
 T
-Haime. N
-explanata, n.sp.
+S
 T
-varicosa, Lesueur. TN
-gaimardi, M.-Edwards and
-* Orbicella cavernosa (Esper).
 T
-Haime. T
-Oxypora contorta, n.sp. T
-guadaloupensis, Duchassaing and
-Pachyseris speciosa (Dana). T
-Michelotti. T
-* Pavonia crassa, Dana. T
-latistellata, n.sp.
 T
-decussata, Dana. T
-lichen, Dana. T
-divaricata, Lamarck. T
-lutea, M.-Edwards and Haime. T
-formosa, Dana. T
-mirabilis, n.sp.
 T
-prætorta, Dana.
 T
-palmata, Dana. T
-* Pectinia profunda (Dana). T
-parvistellata, n.sp. T
-* Phymastræa aspera, n.sp.
+S
 T
-superficialis, Duchassaing and
-* Physogyra aperta, n.g., n.sp.
 T
-Michelotti. T
-* Plesiastræa indurata, Verrill. T
-tenuis, Verrill. T
-urvillei, M.-Edwards and * Prionastræa flexuosa (Dana). T
-Haime. T
-obtusata, M.-Edwards and
-* Pocillopora acuta, Lamarck. T
-Haime. T
-brevicornis, Lamarck. T
-quoyi, , M.-Edwards and
-cespitosa, Dana.
+S
+S
 T
-Haime. T
-damicornis (Esper). T
-robusta (Dana). T
-dana, Verrill. T
-* Psammocora exesa, Dana. T
-grandis, Dana. T
-obtusangula (Lamarck). T
-ligulata, Dana. T
-ramosa, n.sp.
 T
->
->
->
-"
-3
-22

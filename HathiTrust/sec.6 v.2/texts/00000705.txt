@@ -1,108 +1,104 @@
 SUMMARY OF RESULTS.
-1423
-)
-9
-99
->)
-Acanthaster echinités.
-Archaster typicus.
-Asterias cunninghami.
-glomerata.
-meridionalis.
-(Smilasterias) scalprifera.
-(Stolasterias) calamaria.
-Asterina exigua (3).
-Astropecten brasiliensis.
-japonicus (3)
-pectinatus (3)
-polyacanthus (4).
-velitaris.
-Calvasterias stolidota.
-Choriaster granulatus.
-Craspidaster hesperus.
-Cribrella oculata.
+1127
+Oliva (Ispidula) australis.
+Patella kerguelensis.
+Philine aperta.
+Phos roseatus (3).
+Pleurotoma marmorata (3).
+(Surcula) tuberculata.
+(Typhlomangelia) fluctuosa.
+Puncturella noachina (3).
+sp. (?) (4).
+Purpura (Cronia) amygdala.
+Ranella margaritula.
+rana (5).
+„(Argobuccinum) pusilla (3).
+Ringicula pusilla (3).
+Rissoa (Alvania) trajectûs (5).
+Rissoina reticulata.
+triangularis (3).
+Scaliola arenosa (4).
+bella (5).
+caledonica (5).
+Stomatella (Gena) nigra.
+Strombus (Canarium) gibberulus.
+(Gallinula) campbellii (3).
+( ) columba.
+(
+) vittatus.
+Struthiolaria mirabilis.
+Terebellum punctatum.
+Terebra (Myurella) unlulata.
+Triton (Lagena) magellanicus.
+Trochus (Chrysostoma) paradoxus.
+(Euchelus) atratus (3).
+(Monodonta) labio.
+(Photinula) expansus.
+(Solariella) vitiligineus.
+Turbo smaragdus.
+(Senectus) chrysostomus (3).
+Turritella austrina.
+carlotta.
+cingulifera (4).
+fascialis.
+fastigiata.
+Utriculus amphizostus (3).
+planospira.
+simillimus (3)
+Vermetus cyclicus.
+Xenophora solarioides (3).
+Acanthopleura incuna.
+Platydoris eurychlamys.
+Loligo indica.
+kobiensis.
+Octopus granulatus.
+Sepia elliptica.
+Ætea anguina (5).
+Amathia spiralis.
+Bugula longissima.
+Caberea lata.
+Carbasea cribriformis (3).
+dissimilis.
+elegans.
+ovoidea.
+Catenicella hastata.
+Cellepora bicornis (3).
+bidenticulata.
+Cellularia quadrata.
+Chorizopora hyalina (3).
+Cribrilina monoceros (4).
+philomela.
+Crisia denticulata (5).
+Diachoris magellanica (3).
+Eschara gracilis.
+Escharoides occlusa.
+Flustra membraniporides.
+Haswellia australiensis.
+Hornera foliacea.
+Idmonea atlantica (3).
+australis.
+radians.
+Memoranipora crassimarginata.
+galeata (3)
+Menipea aculeata.
+benemunita (3)
+flagellifera (3)
+Mucronella pyriformis.
+tricuspis (3)
+Nellia oculata (5).
+Onchopora sinclairii.
+Retepora crassa.
+producta.
 simplex.
-Culcita nova-guineæ.
-Gnathaster elongatus.
-meridionalis.
-Leptoptychaster kerguelenensis.
-Linckia miliaris.
-pacifica, var. diplax.
-Luidia forficifer.
-Pentaceros productus.
-turritus (3).
-Perknaster fuscus.
-Retaster insignis.
-Stellaster incei (4).
-Amphiura depressa.
-studeri.
-Astrophyton exiguum.
-Euryale aspera.
-Gorgonocephalus pourtalesii.
-Ophiacantha imago.
-vivipara (5).
-Ophiactis asperula.
-savignyi.
-Ophiocamax vitrea.
-Ophiocnida pilosa.
-Ophiocoma erinaceus.
-scolopendrina (4).
-Ophioglypha deshayesi.
-hexactis.
-kinbergi (4)
-lymani.
-sinensis,
-Ophiolepis annulosa.
-cincta.
-Ophiomastix caryophyllata.
-Ophiomaza cacaotica.
-Ophiomyza australis (4).
-flaccida.
-vivipara.
-Ophionereis dubia (3).
-reticulata.
-Ophiothrix angulata (3).
-exigua.
-longipeda (6).
-propinqua (3).
-purpurea.
-.
-stelligera (4).
-Ophiura cinerea.
-Astropyga pulvinata (3).
-Brissopsis luzonica.
-lyrifera.
-Cidaris tribuloides (3).
-Clypeaster humilis.
-Diadema setosum (4).
-Dorocidaris papillata.
-Echinocardium australe.
-Echinometra lucunter (5).
-subangularis.
-Echinothrix calamaris (3).
-turcarum.
-Echinus magellanicus (4).
-Eupatagus valenciennesi.
-Goniocidaris canaliculata (4).
-tubaria.
-Hipponoë variegata (3).
-Laganum depressum.
-Lovenia elongata (3).
-Maretia planulata (3).
-Microcyphus zigzag.
-Peronella decagonalis (9).
-peroni.
-Phyllacanthus annulifera (3).
-baculosa.
-Pleurechinus bothyroides.
-Salmacis rarispina (3).
-Schizaster japonicus (3).
-Spatangus purpureus.
-Sphærechinus granularis.
-Strongylocentrotus dröbachiensis.
-Temnopleurus hardwicki.
-Toscopneustes pileolus.
-Chirodota contorta (4).
-Cucumaria crocea (4).
-lævigata.
-9)
+victoriensis (3).
+Salicornaria clavata (6).
+malvinensis (6)
+variabilis (3)
+Schizoporella tenuis.
+trian pula.
+Smittia marsupialis.
+Magasella flexuosa.
+Terebratulina caput-serpentis.
+Aplidium fumigatum.
+Atopogaster elongata.
+)

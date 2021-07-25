@@ -1,59 +1,106 @@
 SUMMARY OF RESULTS.
-1225
-STATION 335.
-ANOMURA (Henderson, Zool. pt. 69).
-Parapagurus abyssorum, M.-Edwards, MS.
-Station 56.
-One specimen ; for distribution see
-GASTEROPODA (Watson, Zool. pt. 42).
-Clathurella cala, n.sp. Obtained at no other locality.
-FISHES (Günther, Zool. pt. 57).
-Chlorophthalmus gracilis, n.sp. One specimen; obtained also at Stations 168 and 300.
-In addition to the foregoing, the following are recorded in the Station-book :-Two
-specimens of Epizoanthus (?) on shells containing Pagurus, two Tubularians attached to
-pumice-stones, dead shells of Dentalium, Corbula, and Cerithium on Annelid-tubes, and
-two specimens of Rostellaria with Pagurus and Epizoanthus.
-Excluding Protozoa, over 70 specimens of invertebrates and fishes were obtained at
-this Station, belonging to about 27 species, of which 17 are new to science, including
-representatives of 2 new genera ; 6 of the new species and 1 new genus were not
-obtained elsewhere.
-The following species of Pteropoda, Foraminifera, and Radiolaria were observed in ORGANISMS FROM
+1229
+Х
+Х
+Х
+Х
+х
+х
+>
+Х
+х
+Х
+Х
+FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera were Station 337.
+ORGANISMS FROM
+observed in the deposit from this Station ; the sixteen species enumerated are all pelagic,
 THE DEPOSIT.
-the deposit from this Station (see also Murray and Renard, Deep-Sea Deposits
-Chall. Exp.) :
+and make
+up
+about 50 per cent. of the carbonate of lime present in the deposit
+x Globigerina æquilateralis, Brady.
+x Sphæroidina dehiscens, Parker and Jones.
+bulloides, d'Orbigny.
+x Candeina nitida, d'Orbigny.
+conglobata, Brady.
+x Pulvinulina canariensis (d'Orbigny).
+inflata, d'Orbigny.
+crassa (d'Orbigny) (?).
+rubra, d'Orbigny.
+menarilii (d'Orbigny).
+sacculifera, Brady.
+micheliniana (d'Orbigny).
+x Orlilina universa, d'Orbigny.
+patagonica (d'Orbigny).
+x Hastigerina pelagica (d'Orbigny).
+tumida, Brady.
+Surface Organisms.—The following species are recorded from the surface at this ORGANISMS FROM
+SURFACE-NETS.
+Station :
 PTEROPODA (Pelseneer, Zool. pt. 65).
-Limacina inflatu (d'Orbigny).
-Cuvierina columnella (Rang).
-Clio (Styliola) sulla (Quoy and Gaimard).
-Cavolinia trispinosa (Lesueur).
-Pyrumilata, Linné.
-inflexca (Lesueur).
-FORAMINIFERA (Brady, Zool. pt. 22).—The pelagic species, which make up
-about
-80 per cent. of the carbonate of lime present in the deposit, are marked thus x.
-Biloculina depressa, d'Orbigny.
-Gaudryina pupoides, d'Orbigny.
-ringens (Lamarck).
-var, chilostoma, Reuss.
-Spiroloculina acutimargo, Brady.
-Bulimina elongata, d’Orbigny.
-tenuis (Czjzek).
-rostrata, Brady.
-Miliolina seminulum (Linné).
-Virgulina schreibersiana, Czjzek.
-tricarinata (d'Orbigny).
-Bolivina limbata, Brady.
-venusta (Karrer).
-punctata, d'Orbigny.
-Reophax difflugiformis, Brady.
-reticulata, Hantken.
-Haplophragmium canariense (d'Orbigny).
-Lagena acuta (Reuss).
-globigeriniforme (Parker and
-exsculpta, Brady.
-Jones).
-formosa, Schwager.
-Textularia aspera, Brady.
-lærigata (Reuss).
-sa pittula, Defrance.
-lævis (Montagu).
+Limacina inflata (d'Orbigny).
+Clio (Hyalocylix) striata (Rang).
+lesueuri (d'Orbigny).
+(Styliola) subula (Quoy and
+trochiformis (d’Orbigny).
+Gaimard).
+bulimoides (d'Orbigny). Cavolinia quadridentata (Lesueur).
+The surface tow-nets yielded relatively very few things, including Copepods and
+Velellæ, while the tow-net at the weights was wound round the line and almost empty,
+the tow-nets at the dredge containing a few Foraminifera and Pteropod shells similar
+to those in the sounding.
+.
+Station 338 (Sounding 488), Tristan da Cunha to Ascension Island (see Chart 16 Station 338.
+and Diagram 7).
+March 21, 1876 ; lat. 21° 15' S., long. 14° 2' W.
+Temperature of air at noon, 76°:3 ; mean for the day, 76°-4.
+Temperature of water :-
+Surface,
+76.5
+400 fathoms,
+38.8
+25 fathoms,
+75.4
+500
+38.1
+50
+71.5
+600
+38.0
+75
+67.2
+700
+37.9
+100
+63.0
+800
+37.8
+125
+59.3
+900
+37.7
+150
+55:3
+1000
+37.6
+175
+52.3 1100
+37.5
+200
+49.9 1200
+37:4
+225
+48.0 1300
+37:3
+250
+46.0 1400
+37.2
+275
+44.4 1500
+37:1
+300
+43.0
+Bottom,
+36.4
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+155

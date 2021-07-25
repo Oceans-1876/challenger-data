@@ -1,134 +1,121 @@
 SUMMARY OF RESULTS.
-1319
-Trochostoma violaceum, Studer.
-s
-S
-(?) sp.
-S
-* Pista corrientis, n.sp.
-mirabilis, n.sp.
-* Polynoë magnipalpa, n.sp.
-(Macellicephala) mirabilis, n.sp.
-ENTOZOA :
-* Ascaris macruri, n.sp. (parasitic on
-Macrurus).
-S
+1323
 s
 S
 *
+T
+T
+s
+s
+T
+T
+S T
 S
 N
+Japetella prismatica, n.g., n.sp. T Membranipora umbonata, Busk. S
+* Sepia recurvirostra, Steenstrup.
+Myriozoum immersum, n.sp.
+marionense, n.sp.
+POLYZOA :
+simplex, n.sp.
+S
+* Bicellaria bella, n.sp.
+Nellia oculata, Busk. ST
+T
+Retepora cavernosa, n.sp.
+S
+macilenta, n.sp.
+S
+moluccensis, n.sp.
+gigantea, n.sp.
+magellensis, n.sp. s
+Bifazaria abyssicola, n.g., n.sp.
 SN
+denticulata, n.g., n.sp.
+Reteporella myriozoides, n.g., n.sp.
+* Salicornaria dubia, n.sp.
+lævis, n.g., n.sp.
+T
+Schizoporella elegans (d'Orbigny). S
+papillata, n.g., n.sp.
+* Brettia australis, n.sp.
+* Siphonicytara serrulata, n.g., n.sp. T
+* Smittia smittiana, n.sp.
+S
+Bugula reticulata, n.sp. S TN
+S
+* Caberea crassimarginata, n.sp.
+Turritigera stellata, n.g., n.sp.
+S
+* Vincularia labinta, n.sp.
 s
-NEMERTEA :
-Cerebratulus macroren, n.sp.
-* Eupolia australis, n.g., n.sp.
-giardii, n.g., n.sp.
-Pelagonemertes rollestoni, n.g., n.sp.
-(surface ?). SN
+darwinü, Busk. S
+Carbasea dissimilis, Busk.
+BRACHIOPODA :
+moseleyi, n.sp.
 S
+Terebratula uva, Broderip.
+pedunculata, n.sp.
+* Terebratulina (?) murrayi, 1.sp.
 S
-Polynoella levisetosa, n.g., n.sp.
-* Praxilla (?) sp.
-N
-* Sabella assimilis, n.sp.
-Scalibregma inflatum, Rathke.
-Syllis robertianæ, n.sp.
-* Terebella kermadecensis, n.sp.
-(Lanice) sp. (?). N
-* Terebellides (?) sp.
-* Thelepus marenzelleri, n.sp.
-S
-S
+Catenicella elegans, Busk. S T
+* Cellepora rudis, n.sp.
+TUNICATA :
+* Cellularia biloba, n.sp. N
+* Aplidium incrustans, n.sp.
 s
-s
-GEPHYREA :
-* Phascolosoma prioki, Sluiter.
-* Sternaspis princeps, n.sp.
-N
-T
+* Cribrilina latimarginata, n.sp. s
+Ascidia meridionalis, n.sp.
 S
-T
-T
-TN
+monoceros (Busk). SN
+tenera, n.sp.
 s
-2
-ANNELIDA :
-Aricia norvegica, Sars.
-* Chatozone pacifica, n.sp.
-Ehlersiella utlantica, n.g., n.sp.
-Eulagisca corrientis, n.g., n.sp.
-Genetyllis (?) oculata, n.sp.
-Hyalinæcia tubicola, Müller. STN
-var. longibranchiata,
-N
-27
+* Crisia acuminata, n.sp.
+* Calocormus huxleyi, n.g., n.sp.
 S
-MYZOSTOMIDA:
-Myzostoma asymmetricum, n.sp.
-calycotyle, n.sp.
-cornutum, Graff. N
-deformator, n.sp.
-ST
-echinus, n.sp.
-T
-elongatum, Graff.
-fissum, n.sp.
-labiatum, n.sp.
-murrayi, n.sp.
-pentacrini, n.sp.
-tenuispinum, n.sp. ST
-willemoesii, n.sp.
-wyville-thomsoni, n.sp. T
-T
-*
-T
-T
-2
-T
-17
-ST
-nov.
-T
-T
-ů
-s
-"
+biciliata, MacGillivray.
+* Culeolus wyville-thomsoni, n.g., n.sp.
+S
+Farciminaria hexagona, n.sp.
+S T Hypobythius moseleyi, n.g., n.sp.
+Flustra biseriata, n.sp.
 S T
-N
-var.
-Iphionella cimex (Quatrefages).
-* Lænilla fusca, n.sp.
-* Lætmonice aphroditoides, n.sp.
-producta, Grube,
-willemoesi, nov. STN
-* Lagisca (?) kermadecensis, n.sp.
-* Lanassa sarsi, n.sp.
-Leanira hystricis, Ehlers. N
-* Lumbriconereis neo-zealania, n.sp.
-* Nicidon balfouriana, n.sp.
-Nothria conchylega, Sars.
-minuta, n.sp.
-tenuisetis, n.sp.
+Leptoclinum tenue, n.sp.
 S
-OSTRACODA:
-Bairdia formosa, Brady.
-victrix, Brady.
-S
-Τ Ν
-STN
-sp. (?). N
-VA
-S
-ST
-STN
-N
-Bythocypris reniformis, n.g., n.sp.
-Cythere acanthoderma, n.sp.
-adunca, Brady. T
-dasyderma, n.sp.
-dictyon, n.sp.
-S TN
+Foveolaria (?) elliptica, n.g., n.sp. * Molgula pyriformis, n.sp.
+falcifera, n.g., n.sp.
+S * Polycarpa aspera, n.sp.
 s
-S T
-S TN
+Hippothoa divaricata, Lamouroux. S N * Polyclinum molle, n.sp.
+* Hornera lichenoides (Linné). S Psammaplidium efrenatum, n.g., n.sp. S
+Ichthyaria oculata, n.g., n.sp.
+s
+flavum, n.g., n.sp. S
+* Idmonea fissurata, n.sp.
+s
+* Pyrosoma sp. (?).
+(S
+marionensis, Busk.
+Styela flava, n.sp. s
+Lichenopora hispida (Fleming). S
+glans, n.sp.
+S
+* Melicerita atlantica, n.sp.
+oblonga, n.sp.
+(?) dubia, n.sp.
+s
+FISHES:
+Membrani pora galeata, Busk,' var.
+erecta, nov. SN Antimora rostrata, n.g., n.sp.
+S
+>
+S
+S
+S
+S
+S
+S
+s
+s
+S
+s

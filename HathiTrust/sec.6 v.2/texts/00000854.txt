@@ -1,180 +1,103 @@
-1572
+1576
 THE VOYAGE OF H.M.S. CHALLENGER.
-Utriculus-continued.
-leucus, 268, 1309.
-mamillatus, 130, 1409.
-oryctus, 1243, 1350.
-planospira, 712, 729, 1409, 1427.
-simillimus, 712, 1409, 1427.
-spatha, 179, 1350.
-tornatus, 130, 1409.
-(Tornatina), 713, 1076, 1409.
-acrobeles, 713, 1409.
-amboinensis, 765, 1409.
-aratus, 729, 1409.
-avenarius, 571, 1409.
-canaliculatus, 345, 1409.
-leptekes, 684, 1350.
-pachys, 609, 1322.
-voluta, 656, 1409.
-Uvanilla (see Turbo).
-Uvigerina, 449, 587, 965, 1132.
-aculeata, 529, 582, 589, 631,
-1131.
-angulosa, 115, 124, 134, 196, 198,
-215, 400, 424, 427, 481, 486,
-498, 605, 610, 843, 1131, 1154,
-1163, 1201.
-var. spinipes, 134, 400, 1131.
-asperula, 134, 182, 261, 286, 319,
-354, 481, 486, 511, 522, 529,
-582, 589, 605, 610, 640, 641,
-664, 671, 687, 858, 903, 949,
-1002, 1078, 1085, 1092, 1104,
-1112, 1131, 1136, 1163, 1201,
-1217, 1226, 1231, 1247.
-var. ampullacea, 134, 182,
-354, 581, 640, 641, 1071,
-1085, 1131.
-var. auberiana, 589, 1201.
-brunnensis, 427, 481, 965, 1131,
-1163.
-canariensis, 196, 424, 631, 641,
-687, 1131, 1154.
-interrupta, 687, 1131.
-porrecta, 631, 687, 876.
-Pygmæa, 115, 134, 139, 166, 182,
-215, 261, 295, 354, 424, 427,
-430, 449, 511, 529, 582, 641,
-687, 903, 1002, 1078, 1112,
-1132, 1136, 1154, 1201, 1217,
-1226, 1231.
-schwageri, 424, 427, 687.
-tenuistriata, 198, 211, 215, 424,
-492, 587, 687, 937, 1154.
-Vaginulina-continued.
-patens, 686.
-spinigera, 354, 582, 610.
-Valettia, 1301.
-coheres, 504, 1295.
-Valvulina,
-conica, 685, 1131.
-fusca, 115, 152, 181, 581.
-Vanikoro, 345, 1409.
-Varuna,
-litterata, 757, 831, 850, 1393,
-1425.
-Vaunthompsonia,
-meridionalis, 471, 1340.
-Velella, 117, 142, 143, 148, 418, 586,
-775, 799, 815, 890, 893, 894,
-944, 975, 977, 980, 981, 982,
-981, 987, 1064, 1207, 1210,
-1211, 1229, 1263.
-oblonga, 889.
-patella, 1013.
-Velutina, 362, 1350.
-Venerupis,
-irus, 127, 1398.
-Ventricola (see Venus).
-Ventriculites, 634.
-Venus, 62, 85, 535, 821.
-philomela, 395, 1345.
-torresiana, 703, 1398.
-(Anaitis),
-paphia, 311, 1398.
-(Antigona),
-lamellaris, 703, 1398.
-puerpera, 626, 1398.
-(Chamelæa),
-mesodesma, 395, 598, 1308, 1314,
-1398.
-(Chione),
-calophylla, 563, 703, 786, 1398,
-1426.
-foliacea, 703, 7:26, 1398, 1426.
-infans, 703, 726, 1398, 1426.
-jacksoni, 563, 1398.
-levukensis, 650, 1398.
-lionota, 726, 764, 1398.
-marica, 649, 1398.
-mindanensis, 781, 1398.
-ovata, 272, 1398.
-recognita, 820, 1398.
-scabra, 909, 1398.
-striatissima, 540, 563, 1398,
-1426.
-(Gomphina),
-undulosa, 703, 1398.
-(Leukoma),
-australis, 563, 1398.
-(Ventricola),
-casina, 127, 272, 1398, 1426.
-effossa, 127, 272, 1345, 1359,
-1398.
-Vermetus,
-cyclicus, 709, 1409, 1427.
-Vermilia, 423, 1134, 1305.
-Verneuilina, 1085.
-propinqua, 181, 285, 319, 354,
-604, 957, 965, 1111, 1201.
-pygmæa, 145, 166, 181, 211, 261,
-294, 342, 427, 429 449, 511,
-529, 581, 604, 671 857, 876,
-949, 957, 965, 979, 1067, 1078,
-1085, 1089, 1092, 1104, 1111,
-1131, 1217, 1230, 1247, 1253.
-spinulosa, 166, 181, 196, 198,
-630, 631, 640, 685, 717, 862,
-949, 1002.
-triquetra, 181, 640.
-variabilis, 181, 640.
-Verongia,
-hirsuta, 239, 1362.
-tenuissima, 355, 1328.
-Verruca,
-gibbosa, 1182, 1306.
-incerta, 1224, 1306.
-nitida, 841, 1320.
-obliqua, 122, 1295.
-quadrangularis, 1199, 1295.
-sulcata, 614, 1320.
-Vertagus (sce Cerithium).
-Vertebralina,
-insignis, 181, 630, 685.
-striata, 630, 716, 1002, 1071.
-turmidium, 181.
-Verticordia,
-australiensis, 683, 1345.
-deshayesiana, 360, 683, 1345,
-1356.
-ornata, 194, 1345.
-quadrata, 293, 1308.
-tornata, 260, 333, 1296,
-1298.
-woodii, 174, 360, 1345, 1356.
-Vesicularia,
-papuensis, 730, 1413.
-Vespertilio (see Voluta).
-Vibilia, 388, 951, 968, 1139, 1219.
-antarctica, 487.
-milnei, 383.
-propinqua, 889.
-viator, 698, 1386.
-Villogorgia,
-intricata, 666, 1331.
-Vincularia,
-gothica, 440, 1352, 1360.
-var. granulata, 491, 1413.
-labiata, 1191, 1323.
-Virgularia, 1450.
-bromleyi, 917, 1316.
-gracillima, 595, 1367.
-Virgulina,
-pauciloculata, 1104.
-Vaginulina, 1067, 1104.
-bruckenthali, 686.
-legumen, 115, 215, 261, 449, 480,
-641, 1104, 1226, 1247.
-var. arquata, 182.
-linearis, 182, 424, 511.
+.
+Alfred the Great, 31.
+Algæ, 201, 203, 499, 629, 642, 661, 664, 751, 774,
+775, 790, 836, 863, 971, 1127, 1455, 1456,
+1457.
+calcareous, 203, 304.
+marine, 68, 95.
+Algæ on pumice, 975, 981, 982, 984.
+Alliacus, Petrus, 38.
+Allman, G. J., 96, 1459 (see also Hydroida).
+on the Hydroida of the northern and
+southern hemispheres, 1445.
+Almagest, 35.
+Amboina, 760.
+America, discovery of, 43, 44.
+American expeditions, 104.
+Ammonites, 62, 63.
+Ameba, 1062, 1064, 1068, 1106.
+Ampharetidæ, 1443.
+Amphipoda, 110, 114, 120, 123, 142, 160, 173, 218,
+223, 225, 229, 213, 252, 280, 282, 284, 290,
+314, 324, 327, 330, 332, 334, 335, 336, 337,
+350, 380, 383, 385, 386, 388, 389, 394, 410,
+418, 420, 425, 428, 436, 446, 450, 453, 467,
+479, 480, 482, 485, 487, 490, 492, 500, 504,
+520, 522, 524, 525, 530, 531, 538, 545, 551,
+559, 575, 585, 592, 594, 602, 604, 614, 625,
+672, 675, 680, 682, 698, 722, 734, 753, 755,
+767, 778, 782, 783, 799, 808, 835, 836, 841,
+848, 852, 877, 885, 887, 889, 890, 892, 895,
+900, 902, 907, 921, 932, 944, 947, 951, 953,
+960, 967, 975, 986, 992, 1008, 1024, 1029,
+1033, 1054, 1077, 1093, 1095, 1099, 1102,
+1105, 1108, 1112, 1114, 1115, 1127, 1135,
+1137, 1138, 1139, 1146, 1158, 1164, 1169,
+1173, 1174, 1176, 1182, 1185, 1186, 1190,
+1193, 1199, 1208, 1210, 1213, 1214, 1215,
+1219, 1221, 1222, 1223, 1224, 1232, 1236,
+1248, 1251, 1255, 1260, 1262, 1263, 1268,
+1269, 1270, 1279, 1286, 1295, 1306, 1320,
+1340, 1434, 1448, 1451.
+Anaximander, 10, 17,
+Anaximenes, 10, 30.
+Ancients, 2.
+Ancients' views on oceanography, 2.
+Anderson, W. S., 106D.
+Andrussow, N., 19, 106c.
+Animals captured by the Challenger in different zones
+of latitude, 1453.
+in different zones
+of depth, 1453.
+Animals captured by the Challenger south of tropic of
+Capricorn, 1453.
+south of tropic of
+Capricorn deeper than 500 fathoms, 1454.
+south of tropic of
+Capricorn less than 500 fathoms, 1454.
+Animals captured near the bottom by traps and by the
+trawl, 1439.
+Animals (comparison of) captured near to and removed
+from continents, 1436.
+Animals (marine), migration of, downwards from shallow
+zones, 1435.
+migration of, over the sea-bed from
+polar regions, 1438.
+number of, occurring in single hauls
+at different depths, 1431.
+resemblance between, in Southern
+Ocean and in Europe, 1440.
+(mud-eating) in deep-sea, 1433.
+(proportion of species and specimens) captured
+on the different deep-sea deposits, 1436, 1437.
+(rapacious) in deep-sea, 1433.
+Annelida, 17, 94, 97, 112, 117, 121, 132, 133, 141,
+142, 159, 162, 169, 172, 179, 193, 202, 210,
+211, 214, 215, 219, 221, 225, 229, 235, 242,
+251, 259, 266, 270, 279, 307, 323, 325, 327,
+332, 343, 358, 367, 369, 386, 408, 417, 420,
+435, 445, 453, 459, 464, 478, 479, 484, 487,
+489, 494, 498, 500, 503, 508, 514, 520, 527,
+534, 538, 545, 548, 551, 557, 584, 591, 593,
+596, 601, 603, 607, 609, 614, 619, 624, 637,
+647, 673, 679, 696, 716, 722, 735, 747, 753,
+757, 763, 780, 787, 792, 794, 807, 810, 811,
+821, 829, 840, 843, 853, 859, 873, 884, 893,
+894, 899, 902, 907, 912, 915, 918, 921, 922,
+924, 936, 910, 942, 947, 956, 962, 968, 970,
+975, 978, 991, 1003, 1049, 1088, 1094, 1117,
+1124, 1134, 1141, 1143, 1145, 1148, 1151,
+1155, 1157, 1161, 1165, 1169, 1176, 1190,
+1195, 1196, 1205, 1220, 1224, 1242, 1260,
+1272, 1278, 1285, 1294, 1305, 1319, 1337,
+1446, 1448, 1450, 1452.
+larvæ of (see Larvæ).
+tubes of, 94, 158, 294, 759, 1225.
+Anomura, 125, 126, 163, 170, 173, 226, 237, 243,
+257, 266, 271, 282, 310, 333, 339, 344, 358,
+375, 387, 395, 410, 421, 437, 446, 520, 521,
+532, 539, 548, 560, 579, 591, 594, 597, 603,
+608, 615, 620, 625, 633, 638, 648, 668, 699,
+724, 736, 739, 748, 753, 759, 763, 767, 770,

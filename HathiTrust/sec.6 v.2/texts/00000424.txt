@@ -1,48 +1,37 @@
-1156
+1160
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATIONS 309
-AND 309a.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.—The tow-nets on this date procured more pelagic forms than in
-Messier Channel, and in Puerto Bueno on January 9 there were many specimens of
-Peridinium, Infusoria, Medusæ, Copepods, many young mussels (?), Membranipora
-larvæ, Appendicularia.
-Station 310.
-Station 310 (Sounding 459), Gulf of Peñas to Sandy Point through Magellan
-Strait (see Chart 41).
-January 10, 1876 ; lat. 51° 27' 30" S., long. 74° 3' W.
-Temperature of air at noon, 48°:8; mean for the day, 48°.5.
-Temperature of water at surface, 50°:5; bottom, 46°:5.
-Density at 60° F. :-
-.
-Surface,
-25 fathoms,
-1:01910
-. 1:02315
-.
-200 fathoms,
-Bottom,
-. 1.02458
-. 1.02451
-Depth, 400 fathoms ; deposit, Blue Mud, containing only a trace of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 3.30 A.M. got up steam. At 4.50 A.M. weighed anchor and proceeded out of
-Puerto Bueno, steaming through the Sarmiento Channel. At 8.30 A.M. stopped and
-sounded in 400 fathoms. Put over trawl, which came up at 10.45 A.M. containing many
-specimens. The carbonic acid was determined in water from 200 fathoms, and amounted
-to 70.8 milligrammes per
-litre. At 4.40 P. M. anchored in Innocentes Bay in 25 fathoms.
-Exploring parties went on shore.
-ANIMALS FROM
-TRAWL.
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :--
-HEXACTINELLIDA (Schulze, Zool. pt. 53).
-Acanthascus dubius, n.g., n.sp. One specimen; obtained at no other locality.
-Rhabdocalyptus ræperi, n.g., n.sp. Two specimens ; obtained at no other locality.
+STATION 311.
 ALCYONARIA (Wright and Studer, Zool. pt. 64).
-Thouarella köllikeri, n.sp. One specimen ; obtained also at Station 308.
-Paramuricea laxa, n.sp. Many specimens; obtained at no other locality.
-Clematissa robusta, n.g., n.sp. Many specimens ; obtained at no other locality.
-Leptogorgia purpurea (Pallas). One specimen ; obtained also at Bahia.
+Clematissa obtusa, n.g., n.sp. Several specimens ; obtained at no other locality.
+ACTINIARIA (Hertwig, Zool. pt. 73).
+Phellia spinifera, n.sp. Three specimens; obtained also at Station 320, 600 fathoms.
+CORALS (Moseley, Zool. pt. 7).
+Desmophyllum ingens, n.sp. Several specimens ; obtained also at Stations 306, 307,
+and 308.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Pontaster planeta, n.g., n.sp. Many specimens ; obtained at no other locality.
+Ctenodiscus procurator, n.sp.
+Obtained also at Stations 306, 307, 308, and 309.
+Bathybiaster loripes, n.sp. Obtained also at Stations 149 and 151 (var. obesa).
+Pentagonaster patagonicus, n.sp. Several specimens ; obtained also at Station 313,
+55 fathoms.
+Mimaster cognatus, n.sp.
+Obtained also at Station 308.
+Stichaster polygrammus, n.sp. Obtained at no other locality.
+Pteraster stellifer, n.sp. Obtained at no other locality.
+Retaster gibber, n.sp.
+Obtained at no other locality.
+Cribrella obesa, n.sp. Several specimens ; obtained also at Station 315, 12 fathoms.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophioglypha lymani, Ljungman. For distribution see Station 304.
+Ophiactis asperula (Phil.). For distribution see Station 308.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Echinus margaritaceus, Lamarck. Four specimens; for distribution see Station 149.
+Schizaster moseleyi, n.sp. For distribution see Station 146.
+HOLOTHURIOIDEA (Théel, Zool. pt. 39).
+Psolus disciformis, n.sp. Two specimens ; obtained at no other locality.
+squamatus, Düben and Koren (var. ?). Several specimens ; obtained also at
+Stations 307 and 308.
+Stichopus moseleyi, n.sp. Several specimens ; obtained also at Stations 306 and 308.
+Pseudostichopus mollis, n.g., n.sp. Numerous specimens; obtained also at Stations 144
+and 309.

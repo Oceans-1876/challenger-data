@@ -1,131 +1,99 @@
-1306
+1310
 THE VOYAGE OF H.M.S. CHALLENGER.
-* Myzostoma coronatum, n.sp. (parasitic
-on Bathycrinus). s
-* Scalpellum distinctum, n.sp. T
-dubium, n.sp.
 T
-eximium, n.sp.
-S
-flavum, n.sp.
-S
-minutum, n.sp.
-s
-moluccanum, n.sp.
 T
-tenue, n.sp.
-S
-truncatum, n.sp.
-T
-velutinum, n.sp.
-SN
-* Verruca gibbosa, n.sp.
-s
-incerta, n.sp.
-*
-T
-S
-s
->
 N
-T
-OSTRACODA:
-* Bairdia acanthigera, Brady. T
-exaltata, n.sp.
-T
-foveolata, Brady. S TN
-hirsuta, n.sp.
 S
-milne-edwardsi, Brady.
-victrix, Brady. S T N
-Bythocypris elongata, n.g., n.sp.
-* Crossophorus imperator, n.g., 1.sp. S
-* Cypridina gracilis, n.sp.
-Cythere acanthoderma, n.sp. STN
-dasyderma, n.sp.
-S T N
-dictyon, n.sp.
-STN
-dorsoserrata, n.sp.
 S
-irpex, n.sp.
-SN
-scutigera, Brady. ST
-(?) serratula, n.sp. S TN
-speyeri, Brady. T
-stolonifera, n.sp.
-s
-sulcato-perforata, n. sp.
-viminea, n.sp.
+*
+*
 S
-Cytheropteron fenestratum, n.sp. S
-mucronalatum, n.sp.
+Farciminaria hesagona, n.sp. ST Aphyonus gelatinosus, n.g., n.sp.
+Hippothoa divaricata, Lamouroux. S N * Argyropelecus oljersii, Cuvier (surface ?).
+* Lichenopora hispida (Fleming). S
+N
+Scrupocellaria macandrei, Busk.
+Bathyonus compressus, n.g., 1.sp.
+* Bathysaurus feros, n.g., n.sp.
+S
+BRACHIOPODA:
+Bathytroctes microlepis, n.g., 1.sp.
+Discina atlantica, King.
 S TN
-Krithe producta, n.sp.
+Chlorophthalmus gracilis, n.sp.
+Jagasella flexuosa (King).
+Gonostoma microdon, n.sp. STN
+Terebratello frielii, n.sp.
+TN
+* Halosaurus macrochir, n.sp. SN
+Terebratula vitrea (Born), var. minor,
+Macrurus armatus, Hector. STN
+Philippi. S TN
+fernandezianus, n.sp. S
+wyvillii, n.sp.
 S TN
-Xestoleberis curta, Brady. S TN
-variegata, n.sp.
-T
+filicaula, n.sp.
 S
->
-AMPHIPODA :
-* Amaryllis haswelli, n.sp.
+murrayi, n.sp.
+TCNICATA :
+sclerorhynchus, Val.
 N
-* Amathyllopsis australis, n.sp.
-* Andania abyssorum, n.sp.
+Corynascidia suhmi, n.g., n.sp.
+Melamphaës crassiceps, n.sp. S T
+* Culeolus recumbens, n.g., n.sp.
 S
-gigantea, 11.sp.
-s
-* Camacho bathyplous, n.g., n.sp.
-Cyphocaris micronyx, n.sp. S
-Cystisoma spinosum (Fabricius). S TN
-Elasmopus subcarinata (Haswell).
-s
-* Gammaropsis thomsoni, n.sp. S
-* Lanceola suhmi, n.sp.
-* Leucothoë tridens, n.sp.
-* Ediceroides cinderella, n.g., n.sp.
-* Onesimoides carinatus, n.g., n.sp.
-* Platamon longimanus, n.g., n.sp.
-* Podocerus hoeki, n.sp.
->>
-S
-N
-s
-Z H 2
-S
-2
-COPEPODA :
-* Calanus princeps, n.sp.
-s
-N
-T
-T
-ISOPODA:
-* Acanthocope acutispina, n.g., n.sp.
-Acanthomunna proteus, n.g., n.sp.
-* Anuropus branchiatus, n.g., n.sp.
-Arcturus abyssicola, n.sp.
-spinosus, n.sp.
-* Cymodocea abyssorum, n.sp.
-Eurycope fragilis, n.sp. SN
-nova-zelandiæ, 1.sp.
-pellucida, n.sp.
-S
-T
-CIRRIPEDIA:
-* Dichelaspis sessilis, n.sp. N
-Scalpellum acutum, n.sp.
-australicum, n.sp.
-brevicarinatum, n.sp.
-carinatum, n.sp.
+microps, n.sp.
+Octacnemus bythius, n.g., n.sp.
+ST
+* Porogadus gracilis, n.sp. T
+FISHES :
+Sternoptyx diaphana (Herm.). STN
+* Acanthonus armatus, n.g., n.sp.
+T Synaphobranchus bathybius, n.sp.
 SN
-T
+* Alepocephalus niger, n.sp. T
+breridorsalis, 1.sp.
+Antimora rostrata, n.g., n.sp.
+TN
+Notes on the Bathymetrical Distribution.--Of the species in the above list 92 species
+(or 18 per cent.) were taken at more than one Station (when taken at more than two
+Stations the number of times is indicated within brackets after the name), viz:-
 *
 S
-02
->>
-*
-T
-*
-s
+S
+Trichostemma sarsii.
+Protoptilum uberrans.
+Schizopathes aſjinis.
+Corallimorphus rigiilus.
+Bathyactis symmetrica (5).
+Caryophyllia communes (3).
+Deltocyathus italicus.
+Flalellum alalastrum.
+Freyella Iracteata (3).
+Pararchaster armatus,
+Plutonaster bifrons.
+Pontaxter forcipatus (4).
+Porcellanaster cæruleus (3).
+Zoroaster fulgens.
+Amphilepis norvegica.
+Amphiura otteri (3).
+Ophiacantha bidentata.
+cosmica (3).
+Ophiernus vallincola.
+Ophiocten amitinum.
+hastatum (3).
+Ophioglypha lepila (3).
+Ophi witra chelys.
+Ophiomusium lymani (3).
+Cystechinus wycillii.
+Echinus elegans.
+norvegicus.
+Podocidaris prionigera.
+Salenia varispina.
+Urechinus naresianus.
+Benthodytes papillifera.
+Euphronides depressa.
+Holothuria murrayi.
+Kolga nana.
+Carinina grata.
+Lætmonice procurta.

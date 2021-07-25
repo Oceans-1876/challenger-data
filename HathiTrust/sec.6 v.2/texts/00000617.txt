@@ -1,131 +1,115 @@
 SUMMARY OF RESULTS.
-1339
-Bairdia amygdaloides, Brady. ST
-angulata, Brady. SIN
-attenuata, n.sp.
+1313
+S
 T
-formosa, Brady. Τ Ν
-foveolata, Brady. S TN
-ovata, Bosquet. s
-victrix, Brady. STN
-villosa, n.sp.
-S
->
-S
-sp. (?). S
+02
+dalli, n.sp.
 *
-S
-s
-Cytherella pulchra, Brady. S TN
-punctata, Brady. S T
-truncata, Brady. T
-sp. (?). S
-Cytheridea spinulosa, Brady. T
-Cytheropteron angusiatum, n.sp.
-S T
-assimile, n.sp.
-fenestratum, n.sp.
-S
-patagoniense, n.sp.
-S
-Cytherura cribrosa, n.sp. s
-Krithe bartonensis (Jones). S T
-producta, n.sp.
-S TN
-Macrocypris decora, Brady.
-ST
-similis, n.sp.
-S T
-tenuicauda, n.sp.
-Paracypris polita, Sars. S T N
-Polycope orbicularis, Sars. STN
-Pontocypris trigonella, Sars.
-Pseudocythere caudata, Sars. S
-fuegiensis, n.sp.
-S
-Xestoleberis curta, Brady.
-curta, Brady. S TN
-depressa, Sars.
-setigera, n.sp.
-S
-Xiphichilus complanatus, n.sp.
-Ζ Ω
 T
+T
+T
+T
+>
 N
-S
 T
-S
-Bythocypris reniformis, n.g., n.sp. S T
-* Cypridina danæ, n.sp.
-Cythere arata, n.sp.
-bermuda, Brady. N
-cytheropteroides, n.sp.
-dasyderma, n.sp.
-S TN
-dictyon, n.sp.
-S T N
-foveolata, n.sp.
-s
-fungoides (Brady). Τ Ν
-impluta, n.sp.
-inconspicua, n.sp.
+99
 T
-(?) laganella, n.sp.
-lepralioides, n.sp.
-s
-normani, Brady.
-parallelogramma, n.sp.
-patagoniensis, n.sp.
-polytrema, Brady. S
-rastromarginata, n.sp.
-ST
-scalaris, n.sp.
-S T
-scutigera, Brady. S T
-securifer, n.sp.
-(?) serratula, n.sp.
-S TN
-speyeri, Brady. T
-subrufa, n.sp.
-S
-suhmi, n.sp.
-SN
-torresi, n.sp.
-wyville-thomsoni, n.sp.
-ST
-Cytherella irregularis, n.sp.
-N
+BRACHYURA:
+Pallene australiensis, n.sp. S
+* Anamathia pulchra, n.sp.
+T
+Phorichilidium patagonicum, n.sp.
+Cyrtomaia murrayi, n.g., n.sp.
+LAMELLIBRANCHIATA :
+Ebalia lævis (Bell). S
+tuberculosa (M.-Edwards).
+Amussium cancellatum, n.sp.
 Τ Ν
-latimarginata, n.sp.
+Echinoplax moseleyi, n.g., n.sp. T
+N
+Ergasticus naresü, n.sp.
+jeffreysii, n.sp.
+* Ethusa orientalis, n.sp.
+obliquum, n.sp.
+* Eurypodius longirostris, n.sp. S
+squamigerum, n.sp. Τ Ν
+Geryon (?) incertus, n.sp. N
+torresi, n.sp.
 T
+Halicarcinus planatus (Fabricius). S * Anomia ephippium, Linné. S T
+Heterocrypta maltzani, Miers.
+* Arca tetragona, Poli. N
+* Hyastenus elegans, n.sp.
+(Barbatia) corpulenta, n.sp. ST
+Lambrus longimanus (Linné).
+( ) pteroessa, n.sp.
+TN
+* Libinia smithii, n.sp.
 S
-S
-12
-S
-***
-S
-S
-T
-T
-CIRRIPEDIA:
-Alepas pedunculata, n.sp. s
-* Balanus corolliformis, n.sp.
-tenuis, n.sp.
-Megalasma striatum, n.g., n.sp.
-* Pæcilasma carinatum, n.sp.
-T
-gracile, n.sp.
-S
-Scalpellum africanum, n.sp.
-balanoides, n.sp.
-elongatum, n.sp.
-indicum, n.sp.
-intermedium, n.sp.
+(Scapharca ?) culebrensis, n.sp. T
+Lispognathus thomsoni (Norman). s
+(
+) inæquisculpta, n.sp.
+* Litocheira kingsleyi, n.sp.
 s
-pedunculatum, n.sp. S
+Τ Ν
+Lupocyclus (Parathranites) orientalis * Astarte magellanica, Smith. S
+n.sp.
+T
+Cardita astartoides, Martens. S
+* Macrocheira kämpferi, De Haan. N
+* Carditella exulata, n.sp.
+Merocryptuslambriformis M.-Edwards. S Cardium (Acanthocardium) papillosum,
+Mursia cristimana (M.-Edwards). s
+Poli. N
+curtispina, n.sp.
+(Papyridea) transversale,
+* Naxia hystrix, n.sp.
+T
+Deshayes. N
+* Oxypleurodon stimpsoni, n.g., n.sp.
+T Chama gryphoides, Linné. N
+* Paracycloïs milne-edwardsii,n.g., n.sp. T
+* Circe bermudensis, n.sp.
+N
+* Pilumnoplax abyssicola, n.sp. T
+minima (Montagu). N
+heterochir (Studer). S
+* Corbula philippii, n.sp.
+N
+* Pilumnus normani, n.sp.
+* Crassatella parva (Adams). T
+Platymaia wyville-thomsoni, n.g., n.sp. T
+* Crenella marionensis, n.sp.
+Platyonychus iridescens, n.sp.
+* Cryptodon barbatus (Reeve). N
+Pugettia velutina, n.sp.
+croulinensis (Jeffreys). N
+* Randallia granulata, n.sp.
+flexuosus (Montagu). N
+incrassatus (Jeffreys). T
+PYCNOGONIDA :
+marionensis, n.sp.
 S
+* Ascorhynchus orthorhynchus, n.sp.
+watsoni, n.sp.
+Colossendeis leptorhynchus, n.sp.
+s
+two species undetermined. T
+s
+megalonyx, n.sp.
+s
+Dacrydium meridionalis, n.sp.
+robusta, n.sp.
+occidentale, n.sp.
+S
+T
+T
+S
+T
+T
+T
 T
 T
 s
 T
-lata, n.sp.

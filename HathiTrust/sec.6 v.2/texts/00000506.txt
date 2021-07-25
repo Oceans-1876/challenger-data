@@ -1,71 +1,98 @@
-1230
+1234
 THE VOYAGE OF H.M.S. CHALLENGER.
-Station 338.
-Density at 60° F. :-
+STATION 340.
+99
+>
+ܕܕ
+80 fathoms,
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+64:3
+61.5
+58.8
+56:2
+54.3
+53.0
+52.2
+51:3
+50.4
+49.5
+48.6
+47.7
+46.9
+225 fathoms,
+250
+275
+300
+400
+500
+600
+700
+800
+900
+1000
+Bottom,
+45-7
+44:3
+43.0
+42:0
+39.9
+39.4
+39.2
+39.0
+38.8
+38.6
+38.4
+37.6
+>
+Density at 60° F.:-
 Surface,
 25 fathoms,
 50
 100
+200
 . 1.02752
-. 1.02720
-. 1.02704
-. 1.02666
-200 fathoms,
-300
+. 1:02730
+. 1.02725
+. 1:02635
+. 1.02731
+300 fathoms,
 400
-. 1.02594
-: 1:02647
-. 1.02654
-Depth, 1990 fathoms; deposit, Globigerina Ooze, containing 92:54 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 9 A.M. shortened and furled sails, and proceeded under steam to sound and
-dredge. At 9.40 A.M. sounded in 1990 fathoms. At 11 A.M. put dredge over and
-veered 2600 fathoms. Took serial temperatures down to 1500 fathoms. The carbonic
-acid was determined in water from 50, 100, and 200 fathoms, and amounted respectively
-to 37:3, 36-8, and 43:1 milligrammes per litre. At 4 P.M. commenced heaving in dredge,
-which came up at 7 P.M. filled with deposit. Made sail.
-Distance at noon from Ascension, 798 miles. Made good 123 miles. Amount of
-current 19 miles, direction S. 47° W.
-1
-ANIMALS FROM
-DREDGE.
-The following species is recorded from this Station :-
-SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
-Salacia polygastrica, n.g., n.sp. One specimen ; obtained at no other locality.
-The Station-book records also a whisp of Hyalonema spicules, and a small broken
-Gasteropod.
-The following species of Foraminifera and Radiolaria were observed in the deposit
-from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+800
+Bottom,
+. 1.02575
+1:02637
+. 1.02562
+1.02598
+Depth, 1500 fathoms ; deposit, Pteropod Ooze.
+At 1.15 P.M. shortened and furled sails, and proceeded under steam to sound. At
+2 P.M. sounded in 1500 fathoms. Took serial temperatures down to 1000 fathoms. The
+carbonic acid was determined in water from the surface and 800 fathoms, and amounted
+respectively to 35:3 and 43:6 milligrammes per litre. At 4.20 P.M. completed
+temperatures, and at 4.30 P.M. made sail.
+Ascension Island distant at noon, 414 miles ; St Helena, 460 miles. Made good
+158 miles. Amount of current 19 miles, direction S. 81° W.
+near
 ORGANISMS FROM
-THE DEPOSIT.
-FORAMINIFERA (Brady, Zool. pt. 22).—The pelagic species, which make up
-about 86 per
-cent. of the carbonate of lime present in the deposit, are marked thus x.
-Biloculina depressa, d'Orbigny.
-Textularia agglutinane, d'Orbigny.
-var. murrhyna, Schwager. Verneuilina pygmæa (Egger).
-Spiroloculina tenuis (Czjzek).
-Gaulryina pupoides, d'Orbigny.
-Miliolina gracilis (d’Orbigny).
-Virgulina schreibersiana, Czjzek.
-seminulum (Linné).
-subsquamosa, Egger.
-venusta (Karrer).
-Cassidulina bradyi, Norman.
-Hyperammina ramosa, Brady.
-subglobosa, Brady.
-vagans, Brady.
-Lagena apiculata, Reuss.
-Rhizammina algæformis, Brady.
-desmophora, Rymer Jones.
-Reophax difflugiformis, Brady.
-formosa, Schwager.
-scorpiurus, Montfort.
-var, comata, Brady.
-Thurammina papillata, Brady.
-globosa (Montagu).
-Trochammina pauciloculata, Brady.
-gracilis, Williamson.
-Cyclammina cancellata, Brady.
-lærigata (Reuss).
->
+SURFACE-NETS.
+Surface Organisms.—The tow-nets
+the surface yielded :—Globigerina,
+Hastigerina, Acanthometræ and compound Radiolaria, Medusæ, Siphonophoræ, Sagitta,
+Cypridina, Copepods, Phronimids, Euphausia, larval Pteropods, Appendicularia, Salpa
+(with Coccospheres and other minute organisms in the stomachs).
+Station 341,
+Station 341 (Sounding 491), Tristan da Cunha to Ascension Island (see Chart 16
+and Diagram 7).
+March 25, 1876 ; lat. 12° 16' S., long. 13° 44' W.
+Temperature of air at noon, 78°:3 ; mean for the day, 77°-5.
+1

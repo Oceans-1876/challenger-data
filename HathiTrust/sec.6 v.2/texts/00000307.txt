@@ -1,112 +1,101 @@
-1
-1053
 SUMMARY OF RESULTS.
-Surface Organisms.—The following species are recorded from the surface at this Station 272.
-Station -
-ORGANISMS FROM
-SURFACE-NETS.
-RADIOLARIA (Haeckel, Zool. pt. 40).
-.
-1
-i
-1
-1
-1
-1
-.
-Actissa lenticularis, Haeckel.
-Collozoum volvocinum, Haeckel.
-Thalassosphæra belonium, Haeckel.
-Collosphæra primordialis, Haeckel.
-pyriformis, Haeckel (?).
-polyedra, Haeckel.
-Siphonosphæra macrosiphonia, Haeckel.
-Saturnalis annularis, Haeckel.
-Saturnulus circulus, Haeckel.
-Saturninus triplex, Haeckel.
-Staurosphæra philippi, Haeckel.
-Hexalonche xenophanis, Haeckel.
-Hexacontium acophænum, Haeckel.
-papillosum, Haeckel.
-Hexadendron bipinnatum, Haeckel.
-Acanthosphæra insignis, Haeckel.
-capillaris, Haeckel.
-Heliosphæra polygonaria, Haeckel.
-Cladococcus pinetum, Haeckel.
-Haliomma favosum, Haeckel.
-datura, Haeckel.
-enneaxiphos, Haeckel.
-longispinum, Müller.
-wyvillei, Haeckel.
-Heliosoma radians, Haeckel.
-Elatomma pinetum, Haeckel.
-Diplosphæra hecagonalis, Haeckel.
-Actinomma hexagonium, Haeckel.
-capillaceum, Haeckel.
-Echinomma cidaris, Haeckel.
-Arachnopegma longispinum, Haeckel.
-Arachnosphæra dolichacantha, Haeckel.
-Spongiomma radiatum, Haeckel.
-Spongodrymus alnetinus, Haeckel.
-Octodendron pinetum, Haeckel.
-Spongosphæra quadricuspis, Haeckel.
-Rhizosphæra serrata, Haeckel.
-Cenellipsis primitiva, Haeckel.
-Druppatractus hippocampus, Haeckel.
-Spongoliva daturina, Haeckel.
-Cypassis puella, Haeckel.
-Sethodiscus phacoides, Haeckel.
-Heliosestrum craspedotum, Haeckel.
-Heliodiscus trochiscus, Haeckel.
-Porodiscus perispira, Haeckel.
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
-Hymeniastrum euclidis, Haeckel.
-Euchitonia triangulum, Haeckel.
-Myelastrum decaceros, Haeckel.
-Spongotripus regularis, Haeckel.
-Stylotrochus helianthus, Haeckel.
-Sponsotrochus multispinus, Haeckel.
-Sponyaster scyllæus, Haeckel.
-Dizonium octacanthum, Haeckel.
-Trizonium dodecabelos, Haeckel.
+1057
+STATION 273.
+Spongotrochus multispinus, Haeckel.
+Larcarium chætostylum, Haeckel.
 Tetrapyle quadricornis, Haeckel.
-Pylonium qualricorne, Haeckel.
-Tholostaurus qualrigatus, Haeckel.
-Lithelius solaris, Haeckel.
+Pylonium quadricorne, Haeckel.
 Phorticium spironium, Haeckel.
 Actinelius primordialis, Haeckel.
 Acanthometron cylindricum, Haeckel.
-bull ferum, Haeckel.
+bulliferum, Haeckel.
 Zygacantha costata, Haeckel.
 Acanthonia denticulata, Haeckel.
 diplopyramis, Haeckel.
-serrulata, Haeckel.
-Xiphacantha trigonoptera, Haeckel.
-platyptera, Haeckel.
-Stauracantha tetrastaura, Haeckel.
-Lonchostaurus lanceolatus, Haeckel.
-Zygostaurus amphithectus, Haeckel.
-Xiphoptera dodecactena, Haeckel.
+Phatnacantha icosaspis, Haeckel.
 Amphilonche conica, Haeckel.
 acufera, Haeckel.
-Amphibelone clavaria, Haeckel.
 Acantholonche amphipolaris, Haeckel.
-Pleuraspis ramosa, Haeckel.
 Dorataspis typica, Haeckel.
-Coscinaspis orthopora, Haeckel.
-Acontaspis furcata, Haeckel.
 Lychnaspis maxima, Haeckel.
 Icosaspis cruciata, Haeckel.
-Phractopelta hexadopora, Haeckel.
 Hexalaspis heliodiscus, Haeckel.
-Hexacolpus infundibulum, Haeckel.
-Lithocircus tarandus, Haeckel.
 Dendrocircus arborescens, Haeckel.
-Zygostephanium constrictum, Haeckel.
 Protympanium primordiale, Haeckel.
 Anthospyris aculeata, Haeckel.
-133
+Arachnocalpis ellipsoides, Haeckel.
+Cornutella hexagona, Haeckel.
+Cornutanna orthoconus, Haeckel.
+Dictyophimus hertwigii, Haeckel.
+Eucecryphalus halicalyptra, Haeckel.
+Arachnocorys araneosa, Haeckel.
+Carpocanium irregulare, Haeckel.
+Sethoconus trochus, Haeckel.
+pileus, Haeckel.
+facet us, Haeckel.
+Pterocorys campanula, Haeckel.
+rhinoceros, Haeckel.
+Theopilium tricostatum, Haeckel.
+Phæocolla primordialis, Haeckel.
+Cannobelos calymmata, Haeckel.
+Mesocena octogona, Ehrenberg.
+Aulacantha tubulosa, Haeckel.
+Aulographis triglochin, Haeckel.
+Sagena pertusa, Haeckel.
+Sagoscena prætorium, Haeckel.
+debilis, Haeckel.
+Aularia ternaria, Haeckel.
+Gazelletta macronema, Haeckel.
+orthonema, Haeckel.
+robusta, Haeckel.
+Castanella campbelli, Haeckel.
+Castanidium willemoesi, Haeckel.
+aldrichi, Haeckel.
+Conchidium terebratula, Haeckel.
 1
-1
+]
+The tow-nets at the surface brought in the usual organisms, and a haul from
+200 fathoms gave some of the deep-water Radiolaria. Several flying fishes were observed
+from the ship
+Station 274 (Sounding 416), Sandwich Islands to Tahiti (sce Chart 38 and Station 274.
+Diagram 19)
+September 11, 1875; lat. 7° 25' S., long. 152° 15' W.
+Temperature of air at noon, 81°:5; mean for the day, 79°:4.
+Temperature of water :-
+73:7
+Surface,
+10 fathoms,
 .
-1
+20
+30
+40
+80.2
+80.0
+80.0
+80.0
+80.0
+79.8
+79.5
+78.6
+77.0
+90
+100
+110
+120
+130
+140
+150
+160
+170
+69.3
+64:7
+60.9
+57.8
+55.1
+52:9
+51.3
+49.9
+50
+60
+70
+80

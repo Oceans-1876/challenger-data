@@ -1,46 +1,54 @@
-1180
+1184
 THE VOYAGE OF H.M.S. CHALLENGER.
-FALKLAND
-ISLANDS.
-BRACHIOPODA (Davidson, Zool. pt. 1).
-Magasella flexuosa (King). Six specimens (Station 315, 5 to 12 fathoms); obtained
-also at Station 312.
-1
-TUNICATA (Herdman, Zool. pts. 17 and 38).
-Molgula gregaria (Lesson). Six specimens (Station 315, 5 to 12 fathoms);
-obtained at no other locality by the Challenger. Recorded
-from Falkland Islands and Magellan Strait.
-horrida, n.sp. Two specimens (Station 315, 5 to 12 fathoms); obtained
-at no other locality.
-Boltenia legumen, Lesson. Nine specimens (Stations 315 and 316, 4 to 12 fathoms);
-obtained also at Station 312.
-Colella pedunculata (Quoy and Gaimard). One specimen (Station 315, 12 fathoms);
-obtained also at Stations 149, 151, 313, and 314.
-gaimardi, n.g., n.sp. Five specimens (Station 315, 5 to 10 fathoms);
-obtained at no other locality.
-Amaroucium pallidulum, n.sp. One specimen (Station 315, 12 fathoms); obtained
-at no other locality.
-Goodsiria pedunculata, n.sp. Two specimens (Station 315, 5 to 12 fathoms);
-obtained at no other locality.
-coccinea, Cunningham. One specimen (Station 315, 12 fathoms);
-obtained also at Stations 313 and 314.
-FISHES (Günther, Zool. pt. 6).
-Eleginus maclovinus, C.V. (Port Stanley); obtained also at Gray's Harbour.
-Haplochiton zebra, Jen. (Port Stanley); obtained also at Gray's Harbour and
-Puerto Bueno.
-The Station-book records also a Doris from Station 315, 5 to 12 fathoms.
-In the foregoing list 85 species of invertebrates and fishes are enumerated, of which
-24 are new to science, including representatives of 2 new genera; 15 of the new species
-were not obtained elsewhere.
+STATION 318.
+ANIMALS FROM
+TRAWL.
+DEEP-SEA MEDUSÆ (Haeckel, Zool. pt. 12).
+Atolla wyvillii, n.g., n.sp. Several specimens ; obtained also at Station 157.
+ISOPODA (Beddard, Zool. pt. 33).
+Serolis neærd, n.sp. One specimen ; obtained also at Station 320, 600 fathoms.
+[Possibly this specimen is recorded in error from this Station, for no
+mention is made of Serolis in any of the note-books).
+MACRURA (Spence Bate, Zool. pt. 52).
+Acanthephyra sica, n.sp. One specimen ; for distribution see Station 40.
+brachytelsonis, n.sp. Four specimens; for distribution see Station 170.
+Hymenodora mollicutis, n.sp. One specimen ; for distribution see Station 87.
+FISHES (Günther, Zool. pt. 57).
+Bathylagus atlanticus, n.g., n.sp. One specimen ; obtained at no other locality.
+The only other species of the genus (Bathylagus antarcticus)
+was taken at Station 157.
+Excluding Protozoa, about a dozen specimens of invertebrates and fishes were
+obtained at this Station, belonging to 6 species, all of which are new to science,
+including representatives of 2 new genera; 1 of the new species was not obtained
+elsewhere.
 ORGANISMS FROM
-THE DEPOSIT
-FORAMINIFERA (Brady, Zool. pt. 22).— The following species of Foraminifera were
-observed in the deposit from Stanley Harbour, 6 fathoms :-
-Miliolina labiosa (d'Orbigny).
-Lagena acuta (Reuss).
-oblonga (Montagu).
-globosa (Montagu).
-seminulum (Linne).
-lævigata (Reuss)
-Bulimina elegantissima, d’Orbigny.
-lævis (Montagu).
+THE DEPOSIT.
+RADIOLARIA (Haeckel, Zool. pt. 40).—The following species of Radiolaria were
+observed in the deposit from this Station :-
+Aulacantha clavata, Haeckel.
+Challengeria pyramidalis, Haeckel.
+Aulographis ancorata, Haeckel.
+Entocannula infundibulum, Haeckel.
+martagon, Haeckel.
+Gorgonetta carmarina, Haeckel.
+asteriscus, Haeckel.
+Castanarium darwini, Haeckel.
+Oroscena duncanii, Haeckel.
+Circospathis novena, Haeckel.
+Sagenoscena stellata, Haeckel.
+Haeckeliana lamarckiana, Haeckel.
+Auloscena verticillus, Haeckel.
+Conchopsis carinata, Haeckel.
+Aulastrum tetraceros, Haeckel.
+Coloplegma atlanticum, Haeckel.
+1
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms.—The following species are recorded from the surface and deep
+tow-nets at this Station :
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Spongocore chrysalis, Haeckel.
+Cyphanta hystrix, Haeckel.
+Cannocapsa tubulosa, Haeckel.
+Hexonaspis hexagona, Haeckel.
+Tristylospyris furcata, Haeckel.

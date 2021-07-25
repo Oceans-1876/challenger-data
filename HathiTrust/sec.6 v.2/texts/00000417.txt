@@ -1,37 +1,47 @@
 SUMMARY OF RESULTS.
-1149
-STATION 307.
-Excluding Protozoa, nearly 200 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 34 species, of which 18 are new to science,
-including representatives of 5 new genera; 9 of the new species and 1 new genus
-were not obtained elsewhere.
-Station 308 (Sounding 456), Gulf of Peñas to Sandy Point through Magellan Station 308.
-Strait (see Chart 41).
-January 5, 1876 ; lat. 50° 8' 30" S., long. 74° 41' W.
-Temperature of air at noon, 48°:8; mean for the day, 48°:2.
-Temperature of water at surface, 51°:7.
-Density at 60° F. at surface, 1:01401.
-Depth, 175 fathoms; deposit Blue Mud, containing 28.84 per cent. of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4 A.M. got up steam. At 4.45 A.M. weighed anchor and proceeded through
-Grappler and Icy Reaches for Wide Channel. At 2.30 P.m. stopped off N.E. end of
-Madre Island and sounded in 175 fathoms. Put over trawl, which came up at 4 P.M.
-with a rich collection of specimens, the bag and pockets being distended with large
-tangled masses of Gorgonoids, to which were attached Corals, Sponges, Euryalids, &c.
-Proceeded for Tom Bay, anchoring there in 17 fathoms at 5.15 P.M. Landed exploring
-parties.
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :
-ANIMALS FROM
-TRAWL.
-MonAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Tedania tenuicapitata, Ridley. Several specimens ; obtained also at Stations 311
-and 314, 245 and 70 fathoms. Recorded from
-S.W. Patagonia.
-Trachytedania patagonica, n.sp. One specimen ; obtained also at Station 311 (?),
-245 fathoms.
-Iophon pattersoni (Bowerbank). Several fragments; obtained also at Stations 135
-and 311.
-Myxilla mollis, n.sp. Five specimens (Station 308 or 311, or both).
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
-145
+1153
+STATION 308.
+Bugula reticulata, n.sp. Obtained also at Stations 147, 299, and 320. [Recorded
+in error from Station 303].
+Carbasea ovoidea, Busk. For distribution see Station 144. [Recorded in error
+from Station 303].
+Cribrilina monoceros (Busk). For distribution see Station 145. [Recorded in
+error from Station 303].
+Cellepora eatonensis, n.sp. Obtained also at Stations 149 and 315. [Recorded in
+error from Station 303].
+armata, Hincks, var. erecta, Waters, nov. Obtained at no other locality.
+TUNICATA (Herdman, Zool. pt. 38).
+Leptoclinum tenue, n.sp. About two dozen specimens; obtained also at
+Stations 311 and 320, 245 and 600 fathoms. Recorded from
+North Atlantic ("Lightning ”).
+FISHES (Günther, Zool. pts. 6 and 57).
+Aphritis gobio, n.sp. Obtained also at Stations 307 and 312.
+Lotella marginata, n.sp. Four specimens ; obtained also at Stations 305, 306,
+and 307.
+Macruronus novæ-zelandiæ (Hector). Obtained at no other locality by the
+Challenger. Recorded from New Zealand and Tasmania.
+In addition to the foregoing, the following are recorded in the Station-book :-
+Hyalonema without stem, Actinian, and many Hydroids.
+Excluding Protozoa, over 250 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 68 species, of which 42 are new to science, including
+representatives of 4 new genera ; 21 of the new species and 1 new genus were not
+obtained elsewhere.
+ORGANISMS FROM
+THE DEPOSIT.
+FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera were
+observed in the deposits from Stations 308 and 309, 40 to 175 fathoms; in the former
+depth there was only a trace of carbonate of lime, while in the latter there was
+28.84 per cent., the pelagic species (marked thus x) making up about 21 per cent. of the
+carbonate of lime present :
+Biloculina depressa, d’Orbigny.
+ringens (Lamarck).
+sphæra, d'Orbigny.
+Spiroloculina planulata (Lamarck).
+Miliolina pygmæa (Reuss).
+seminulum (Linné).
+Planispirina celata (Costa).
+Hyperammina ramosa, Brady.
+Reophax scorpiurus, Montfort.
+Haplophragmium canariense (d'Orbigny).
+fontinense, Terquem.
+Trochammina squamata, Jones and Parker.

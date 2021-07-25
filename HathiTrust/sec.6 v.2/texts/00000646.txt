@@ -1,131 +1,114 @@
-1366
+1370
 THE VOYAGE OF H.M.S. CHALLENGER.
+92
+manni, n.sp.
+.
+minima, n.sp
+mirabilis, n.sp.
+19
+12
+T
+99
+99
+* Madrepora diffusa, Verrill. T
+* Mæandrina sinuosissima, M.-Edwards
+echinata, Dana. T
+and Haime. N
+effusa, Dana.
+T
+strigosa, Dana. N
+gracilis, Dana. T
+Manicina areolata (Linné). S T
+hebes, Dana. T
+* Merulina crispa, Dana. T
+hyacinthus, Dana.
+T
+prolifera, n.sp.
+T
+laxa, Lamarck. T
+Millepora alcicornis, Linné. TN
+T
+carthaginiensis, Duchassaing
+millepora (Ehrenberg). T
+and Michelotti. T
+T
+confertissima, n.sp.
 T
 T
-S
->
-crassa
+gonagra,
+M.-Edwards and
+nasuta, Dana. T
+Haime. T
+nobilis, Dana T
+intricata, M.-Edwards and
+palmata (Lamarck). T
+Haime.
+parilis, n.sp.
 T
-S
+murrayi, n.sp.
 T
+paxilligera, Dana. T
+nodosa, Esper. T
+plantaginea, Lamarck. T
+ramosa, Pallas. N
+pocillifera, Lamarck. T Montipora aspera, Verrill. T
+prolifera (Lamarck). T
+caliculata (Dana). T
+prostrata, Dana. T
+capitata (Dana). T
+pustulosa, M.-Edwards and *
+effusa (Dana). T
+Haime. T
+erosa (Dana). T
+ramiculosa, Dana.
+exesa, Verrill.
 T
-T
-T
-T
-T
-nov.
-T
-* Echinogorgia pseudosassapo, Kölliker.
-T
-Platycaulos danielsseni, n.g., n.sp.
-* Plezaura valenciennesi, n.sp. N
-* Echinomuricea indomalaccensis, Ridley. * Plexaurella philippinensis, n.sp.
-T
-* Plexauroides prælonga (Ridley). T
-* Elasmogorgia filiformis, n.g., n.sp.
-T Primnoella australasia, Gray. S
-* Ellisella maculata, Studer.
-S
-T
-* Primnoisis ambigua, n.g., n.sp.
-s
-* Eunicella papillosa (Esper), Verrill.
-sparsa, n.g., n.sp.
-Euplexaura parciclados, n.sp. N * Pseudoplexaura
-(Ellis and
-pinnata, n.sp.
-N
-Solander). N
-* Gorgonia flabellum, Linné. N
-Sarcophytum ambiguum, n.sp.
-* Heliopora cærulea, Blainville. T
-atlanticum, n.sp.
-* Iciligorgia orientalis, Ridley.
-glaucum, Quoy
-and
-Gaimard. T
-* Juncella gemmacea (Valenciennes). T
-juncea (Pallas), var, alba, nov.
-philippinensis, n.sp.
-tongatabuensis, n.sp.
-Leptogorgia purpurea (Pallas).
-Maren-
-S T
-trocheliophorum,
-torresia, n.sp.
-zeller, var. amboinense,
-Lobophytum marenzelleri, n.sp.
-T
-* Lophogorgia flammea (Ellis and * Scleronephthya pustulosa, n.g., n.sp.
-Solander). S
-Siphonogorgia köllikeri, n.sp. T
-* Melitodes dichotoma (Pallas). T
-pallida, n.sp.
-esperi, n.sp.
-T
-pendula, n.sp.
+retusa, Dana. T
+exserta, n.sp.
+robusta, Dana. T
+foliosa (Pallas). T
+rosacea, Esper. T
+foveolata (Dana). T
+rosaria, Dana. T
 fragilis, n.sp.
 T
-Spongodes anguina, n.sp.
 T
-bicolor, n.sp.
+grandiflora (Dana). T
+secale, Studer. T
+irregularis, n.sp.
 T
-philippinensis, n.sp. T
-carnea, n.sp.
+securis, Dana. T
 T
+seriata (Ehrenberg). T
+lima (Lamarck). T
+speciosa, n.sp.
 T
-cervicornis, n.sp.
+obtusata, n.sp.
 T
-rugosa, n.sp.
-S
-coronata, n.sp.
-T
-sinuatů, n.sp.
-T
-corymbosa, n.sp. T
-Mopsea dichotoma (Linné).
-dendrophyta, n.sp.
-T
-encrinula (Lamarck).
-digitata, n.sp.
-* Muricea bicolor, n.sp. T
-florida (Esper). T
-* Muricella crassa, n.sp.
-heterocyathus, n.sp.
-T
-gracilis, n.sp.
-macrospina, p.sp.
-T
-umbraticoides, Studer.
-monticulosa, n.sp.
-T
-* Paramuricea æquatorialis, n.sp. T
-nephthyæformis, n.sp.
-* Paranephthya capitulifera, n.g., n.sp.
-pustulosa, n.sp.
-spicata, n.sp.
-* Parisis australis, n.sp.
-S
-spinosa, Gray. T
-* Placogorgia atlantica, n.g., n.sp.
-T
-umbellata, n.sp.
+surculosa, Dana. T
+palmata (Dana). T
+tenuis, Dana. T
+papillosa (Lamarck). T
+tubigera, Horn.
+patula, Verrill.
 T
 T
-T
-lævis, n.sp.
-rubeola, n.sp.
->
-02
-S
-T
-T
-T
->>
-T
-T
-T
-T
-T
-T
+rigida, Verrill. T
+virgata, Dana. T
+rubra (Quoy and Gaimard). T
+* Mæandrina labyrinthica
+(Ellis and
+scabricula (Dana). T
+Solander). N
+verrucosa (Lamarck). T
 2
+T
+>*
+T
+97
+scabrosa, n.sp.
+levis, n.sp.
+*
+T
+vastula, n.sp.
+>

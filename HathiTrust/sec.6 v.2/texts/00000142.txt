@@ -1,40 +1,110 @@
-902
+904
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 232.
-Synaphobranchus brevidorsalis, n.sp. One specimen ; obtained also at Station 218.
-Myxine australis (Jenyns). Six specimens ; obtained at no other locality by the
-Challenger. Recorded from Magellan Strait.
-In addition to the foregoing, the following are recorded in the Station-book :-
-Hyalonema sieboldiï and another species (only one species noted above), Antipathes,
-several Lepadids parasitic on Macrocheira, small Amphipod, many specimens of a species
-of Pycnogonum.
-Excluding Protozoa, over 300 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 116 species, of which 84 are new to science,
-including representatives of 16 new genera; 57 of the new species and 5 new genera
-were not obtained elsewhere.
-Willemoes-Suhm writes : “ Hyalonema sieboldii is, according to our interpreter,
-called by the Japanese “ umi-wata.” Martens gives its literary history and what he saw
-of it in Japan, but he did not know where the fishermen got the specimens, nor that
-Beryx, Macrurus, Macrocheira, &c., occur along with Hyalonema. An important
-result of our dredgings to-day is to have found out where these animals, interesting in
-many ways, live, and which of them live together, the more so as they are associated
-with members of the universal deep-sea fauna. In one of the Sponges I found small
-bodies containing what appeared to be a granulated embryo. The Cælenterata and
-Echinoderms were represented by numerous large and fine specimens, including
-Pourtalesia—a decidedly deep-sea form. There were several Annelids (Aphrodita,
-Clymene, &c.), some with tubes, the most interesting being an Ophelia. Lepadids
-were found in different places, most of them on the back of the big crab. Another deep-
-sea genus, Munnopsis, was represented by a very interesting specimen with enormously
-long pereiopods, apparently a different species from that taken in the Antarctic. A small
-Amphipod seemed to be peculiar to the place, and there was a Schizopod with large
-globular eyes and loose carapace. The shrimps included a spiny and very solid species,
-previously taken several times in the deep sea, and several other species which almost
-invariably turn up in deep-water dredgings. Two middle-aged males of Macrocheira
-kümpferi were taken ; the Japanese name is “tenanga kani,” and the animal has
-probably been long known to the Japanese. The fishes were so far interesting as they
-included species of Macrurus, Halosaurus, and Scopelids, belonging to the great deep-
-sea fauna, and Beryx—a genus peculiar to the Hyalonema-ground of Setubal.”
-ORGANISMS FROM
-THE DEPOSIT.
-The following species of Foraminifera and Diatoms were observed in the deposit from
-this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+>
+0
+5
+Navicula brasiliensis, Grunow.
+maxima, Gregory.
+liber, Smith.
+smithii, Ralfs.
+nitescens, Ralfs.
+egyptiaca, Greville.
+bomboides, A. Schmidt.
+crabro, Ehrenberg.
+multicostata, Grunow.
+entomon, Kutzing.
+pandura, Brebisson.
+pelagi, A. Schmidt.
+gemmata, Greville.
+aspera, Ehrenberg.
+Alloroneis antillarum, Cleve and Grunow.
+Pleurosigma pulchrum, Grunow.
+affine, Grunow, var. normanni, Ralfs.
+Rhoikosigma reichartii, Grunow.
+Gomphonema geminatum, Agardh (fresh water).
+Epithemia turgida, Kutzing (fresh water).
+Cocconeis heteroidea, Hantzsch.
+pellucida, Hantzsch.
+pseudomarginata, Gregory.
+scutellum, Ehrenberg.
+Orthoneis splendida, Grunow.
+Sceptroneis clavus, Kitton.
+Grammatophora stricta, Ehrenberg.
+gibberula, Kutzing.
+japonica, Grunow.
+alriatica, Grunow.
+Synedra goulardii, Brebisson.
+superba, Kutzing
+doliolus, Wallich.
+Nitzschia jelinekii, Grunow.
+weissflogii, Grunow.
+distans, Gregory.
+marina, Grunow.
+panduriformis, Gregory.
+recta, Hantzsch.
+Surirella fastuosa, Ehrenberg.
+japonica, A. Schmidt.
+Campylodiscus bicinctus, Castracane.
+erosus, Castracane, and var.
+latus, Shadbolt.
+biangulatus, Greville.
+pfitzeri, A. Schmidt.
+undulatus, Greville.
+Perrya pulcherrima, Kitton.
+Rhaphoneis gemmifera, Ehrenberg.
+sp. (9)
+Glyphodesmis fusiformis, Cleve and Grunow ().
+Rhabdonema alriaticum, Kutzing.
+Achnanthes sp. (?).
+Gephyria media, Arnott.
+gigantea, Greville.
+Climacosphenia moniligera, Ehrenberg.
+elongata, Bailey.
+Euphyllodium sp. (?).
+Asteromphalus darvinii, Ehrenberg.
+elegans, Greville.
+cleveanus, Grunow.
+Actinocyclus punctulatus, Castracane.
+complanatur, Castracane.
+japonicus, Castracane.
+pruinosus, Castracane.
+sp. (?).
+Actinoptychus splendens, Ralfs, var. halionyx, Grunow,
+undulatus, Ehrenberg, and var.
+areolatus, A. Schmidt,
+Coscinodiscus lineatus, Ehrenberg.
+leptopus, Janisch.
+bipartitus, Rattray.
+excentricus, Ehrenberg.
+subtilis, Ehrenberg, and var.
+nitidus, Gregory.
+radiatus, Ehrenberg.
+var. media, Grunow.
+var, minor, Grunow.
+fimbriatus, Ehrenberg.
+oculus-iridis, Ehrenberg.
+asteromphalus, Ehrenberg.
+var. princeps, Grunow.
+var. pulchra, Grunow.
+centralis, Ehrenberg.
+concinnus, Smith.
+var, jonesiana, Rattray.
+gigas, Ehrenberg.
+apiculatus, Ehrenberg, var. wood-
+wardii, Rattray.
+>
+02
+sp. (?).
+Paralia sulcata, Cleve.
+Podosira macima, Grunow.
+Hyalodiscus stelliger, Bailey.
+ambiguus, Grunow.
+Cyclotella stylorum, Brightwell.
+Stictodiscus japonicus, Castracane.
+californicus, Greville.
+var. areolatus, Grunow.
+var, nankoorensis, Grunow,
+bicoronatus, Castracane.
+»
+2

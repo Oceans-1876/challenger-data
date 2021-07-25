@@ -1,37 +1,76 @@
 SUMMARY OF RESULTS.
-1205
-STATION 325.
-CORALS (Moseley, Zool. pt. 7).
-Bathyactis symmetrica (Pourtalès). Fourteen specimens ; for distribution see
-Station 24.
-SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
-Anthemodes articulata, n.sp. Obtained at no other locality.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Pontaster pristinus, n.g., n.sp. One specimen ; obtained at no other locality.
-Dytaster nobilis, n.g., n.sp. Several specimens; obtained at no other locality.
-Hymenaster pergamentaceus, n.sp. Obtained at no other locality.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophiocten umbraticum, n.sp. Several specimens; obtained at no other locality.
-Amphiura dalea, n.sp. Several specimens ; obtained at no other locality.
-HOLOTHURIOIDEA (Théel, Zool. pt. 13).
-Scotoplanes papillosa, n.g., n.sp. One specimen ; obtained at no other locality.
-Oneirophanta mutabilis, n.g., n.sp. Several specimens; obtained also at
-Stations 146, 157, 160, 241, 244, 281, and 299.
-ANNELIDA (MʻIntosh, Zool. pt. 34).
-Myriochele heeri, Malmgren, var, One specimen; the species obtained also at
-Stations 20 and 47 (var.).
-Amphicteis sarsi, n.sp. One specimen ; obtained at no other locality.
-Eupista grubei, n.g., n.sp. Several specimens; obtained at no other locality. The
-only other species of the genus (Eupista darwini) was taken at
-Stations 63 and 298.
-Macrura (Spence Bate, Zool. pt. 52).
-Hemipenæus speciosus, n.g., n.sp. Two specimens ; obtained at no other locality.
-PYCNOGONIDA (Hoek, Zool. pt. 10).
-Colossendeis brevipes, n.sp. Two specimens ; obtained at no other locality.
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Silenia sarsii, n.g., n.sp. One specimen ; obtained also at Station 157. Only
-species of the genus.
-GASTEROPODA (Watson, Zool. pt. 42).
-Stylifer brychius, n.sp. Several specimens ; obtained at no other locality.
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
-152
+1209
+In addition, the following are recorded in the note-books from the tow-nets at the Station 326.
+surface and down to 50 fathoms :--Peridinium tripos, Globigerina, Acanthometræ and
+compound Radiolaria, Carchesium, Medusæ, Beroë, Echinoderm larvæ, Sagitta, Alciopa,
+Aphroditacean larvæ, Planarians, Cypridina, Hyperids, Zoëæ of Decapods, Archizoca,
+Atlanta, Firoloida, Limacina and other Pteropods, Cymbulia Jarvæ, Membranipora
+larvæ, Appendicularia, and many specimens of a stage of Doliolum, which gave the
+tow-net a slight reddish appearance. The tow-net sent down to 50 fathoms contained a
+number of Globigerina, which were not noticed in the surface hauls, and several organisms
+apparently indicating the presence of shore or river water, such as Echinoderm larvæ,
+Membrani pora larvæ, Planarians, Carchesium, and Aphroditacean larvæ.
+Station 327 (Sounding 477), Rio de la Plata to Tristan da Cunha (see Chart 16 Station 327.
+and Diagram 6).
+March 4, 1876; lat. 36° 48' S., long. 42° 45' W.
+Temperature of air at noon, 68º.8; mean for the day, 68°:4.
+Temperature of water :-
+46:0
+19
+Surface,
+25 fathoms,
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+70.2
+68.0
+66.8
+65.6
+64.0
+62.0
+59.7
+57.5
+55.0
+52:5
+50.3
+48.2
+300 fathoms,
+400
+500
+600
+700
+800
+900
+1000
+2225
+2425
+2625
+Bottom,
+40:4
+38.4
+37.8
+37.6
+37.4
+37.2
+37.0
+34.0
+33.5
+33.1
+32.8
+Density at 60° F. at surface, 1:02633 ; bottom, 1·02614.
+Depth, 2900 fathoms; deposit, Red Clay, containing no carbonate of lime (see
+Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 1.30 P.M. shortened and furled sails, and proceeded under steam, and at 2.30 P.M.
+sounded in 2900 fathoms. Over a litre of the deposit was obtained in the sounding-tube,
+the upper layers having a dark slate colour, while the lower layers had a tinge of red and
+were more compact. Obtained serial temperatures. At 5 P.M. completed observations,
+and at 5.20 P.M. made sail. Albatrosses, black petrels, and another petrel were seen.
+Tristan da Cunha distant at noon, 1462 miles. Made good 89 miles. Amount of
+current for the past two days 26 miles, direction S. 70° E.

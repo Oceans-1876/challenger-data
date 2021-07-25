@@ -1,44 +1,102 @@
 SUMMARY OF RESULTS.
-1129
-STATION 300.
-HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
-Lætmogone wyville-thomsoni, n.g., n.sp. A great many specimens ; obtained also at
-Stations 147, 158, and 232.
-Euphronides depressa, n.g., n.sp. Two specimens; obtained also at Station V.
-Only species of the genus.
-Benthodytes papillifera, n.g., n.sp. Five specimens ; obtained also at Stations 184
-and 271.
-Cucumaria abyssorum, n.sp., var. hyalina, nov. Two specimens; the species
-obtained also at Stations 147, 156, 298, and 299.
-Pælopatides confundens, n.g., n.sp. Six specimens ; obtained also at Stations 298
-and 299.
-Stichopus (?) torvus, n.sp. One specimen ; obtained at no other locality.
-Holothuria murrayi, n.sp. Two specimens ; obtained at no other locality.
-OSTRACODA (Brady, Zool. pt. 3).
-Bairdia hirsuta, n.sp. Obtained also at Station 296.
-Cythere stolonifera, n.sp. Obtained also at the Cape.
-sulcato-perforata, n.sp. Obtained at no other locality.
-dictyon, n.sp.
-For distribution see Station 24.
-dasyderma, n.sp.
-For distribution see Station 5.
-scutigera, Brady. For distribution see Station 167.
-Krithe producta, n.sp.
-For distribution see Station 70.
-Xestoleberis curta, Brady. For distribution see Station 33.
-Cytheropteron mucronalatum, n.sp. For distribution see Station 70.
-MACRURA (Spence Bate, Zool. pt. 52).
-Pentacheles lævis, n.g., n.sp. One specimen ; obtained also at Station 214.
-Willemæsia leptodactyla (Willemoes-Suhm), n.g., 1.sp. Three specimens ; obtained
-also at Stations 13, 133, and 298.
-Sergestes profundus, n.sp. One specimen ; obtained also at Station 137.
-Glyphocrangon rimapes, n.sp. Two specimens ; obtained also at Stations 237 and 331.
-Nematocarcinus procimatus, n.sp. Three specimens ; obtained also at Stations 146,
-188, 237, and 302.
-ANOMURA (Henderson, Zool. pt. 69).
-Parapagurus abyssorum, M.-Edwards, MS. Many specimens ; for distribution see
-Station 56.
-Munidopsis antonii (M.- Edwards, MS.). One specimen ; obtained also at Station 158.
-Galacantha bellis, n.sp.
-Six specimens ; obtained at no other locality.
+1133
+Temperature of water :-
+STATION 301.
+Surface,
+25 fathoms,
+50
+75
+100
+59.5
+57.4
+55.2
+52.8
+50.5
+125 fathoms,
+150
+175
+200
+300
+48.4
+46.5
+45.2
+44.2
+42.0
 >
+Density at 60° F. :-
+.
+Surface,
+25 fathoms,
+50
+. 1.02539
+. 1.02521
+. 1:02519
+100 fathoms,
+200
+300
+. 1.02517
+. 1.02521
+. 1.02521
+Depth (1800 fathoms).
+At 11.15 A.M. shortened and furled sails, proceeded under steam, and obtained
+temperatures down to 300 fathoms. At 1 P.M. completed temperatures and proceeded
+under steam and sail. Diomedea exulans, Diomedea melanophrys (?), Procellaria
+maxima, mutton birds, and Thalassidromas were seen.
+Cape Tres Montes distant at noon, 684 miles ; distance from Station 297, of
+November 11, 1875, 45 miles due E. Made good 40 miles. Amount of current 13 miles,
+direction N. 18° E.
+Surface Organisms.—The tow-nets gave :-Globigerina, Orbulina, Hastigerina, ORGANISMS FROM
+Acanthometræ and other Radiolaria, Siphonophoræ, Copepods, Salpæ, &c.
+SURFACE-NETS.
+55.0
+.
+Station 302 (Sounding 447), Valparaiso to Gulf of Peñas (see Chart 40 and Station 302.
+Diagram 21).
+December 28, 1875; lat. 42° 43' S., long. 82° 11' W.
+Temperature of air at noon, 550.8; mean for the day, 530-5.
+Temperature of water :-
+Surface,
+300 fathoms,
+41:1
+25 fathoms,
+52:5
+400
+40:1
+50
+49.5
+500
+39:1
+75
+47.5
+600
+38.2
+100
+45:8
+700
+37.5
+125
+44:3
+800
+36.9
+150
+43-5
+900
+36.5
+175
+43.0 1000
+36.2
+200
+42:5 1100
+36.0
+225
+42:1 1200
+35.9
+250
+41.8 1300
+35.8
+275
+41.5 Bottom,
+35.6
+(SUMMARY OF RESULTS CHALL. EXP.—1893.)
+143
+99

@@ -1,100 +1,62 @@
-1202
+1206
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 323,
-Distomum, Tomopteris, Annelid larvæ (like Balanoglossus), small Planarian, Saphirina
-and other Copepods, Hyperids, larvæ of Sergestes and Lucifer (?) and other Decapod
-larvæ, Ianthina and other small shells and egg-clusters (of Ianthina ?), Atlanta and
-other Heteropods, various species of Pteropods, Appendicularia, Doliolum, and larval
-fishes. A tow-net sent down to 150 fathoms yielded a few Oscillatoriaceæ, a single
-Pulvinulina, Tomopteris, and Cypridina. The tow-net at the weights and one of the
-tow-nets at the trawl were full of mud, but the second tow-net at the trawl had very
-little mud in it, and contained many arenaceous and other Foraminifera (Globigerina
-and Pulvinulina menardii), some of the larger specimens of the latter being quite
-surrounded by sarcode, while some of the bottom-living forms (such as Discorbina
-and Rupertia) were alive and attached to the surface of Polyzoa and worm-tubes ; the
-tow-net contained besides large living Challengeridæ, large Sagittæ, red shrimps, and
-other surface and deep-water organisms.
-STATION 324.
-Station 324 (Sounding 474), Rio de la Plata to Tristan da Cunha (see Chart 16
-and Diagram 6).
-February 29, 1876; lat. 36° 9' S., long. 48° 22' W.
-Temperature of air at noon, 67°:0; mean for the day, 69°:5.
-Temperature of water :-
-Surface,
-10 fathoms,
-20
-30
-40
-50
->
-75
-99
-71-5
-69.7
-69.6
-69.5
-69.3
-68.8
-64.0
-60.0
-56.5
-53.8
-50.8
-48.0
-45.0
-42.5
-41:5
-40.6
-39:4
-38.6
-100
-125
-150
-175
-200
-225
-250
-275
-300
-400
-500
-600 fathoms,
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-1800
-2000
-2200
-2400
-2500
-2600
-2700
-Bottom,
-38.1
-37.5
-37.0
-37.0
-37:0
-37:0
-37.0
-37.0
-37.0
-370
-37.0
-360
-33.3
-32.6
-326
-32.6
-32.6
-32.6
-3
-Density at 60° F. at surface, 1.02603 ; bottom, 1.02600.
-Depth, 2800 fathoms; deposit, Blue Mud, containing 4:04 per cent. of carbonate
-of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+STATION 325.
+Polyzoa (Busk, Zool. pt. 30).
+Cellularia crateriformis, n.sp.
+Obtained also at Station 323.
+Kinetoskias cyathus (Wyville Thomson), n.sp. Obtained also at Station VI. .
+Farciminaria magna, n.sp. Obtained also at Stations 153 and 323 (var. armata).
+FISHES (Günther, Zool. pt. 57).
+Macrurus filicauda, n.sp. Three specimens ; obtained also at Stations 146, 157,
+158, 299, and 323.
+Bathypterois longipes, n.g., n.sp. Two specimens ; obtained at no other locality.
+In addition to the foregoing, the following are recorded in the Station-book :-Several
+Actinians of three species, many Holothurians of four or five forms (only two species
+noted above), two Schizopods, and Discina.
+Excluding Protozoa, over 100 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 29 species, of which 19 are new to science,
+including representatives of 9 new genera; 13 of the new species were not obtained
+elsewhere.
+ORGANISMS FROM
+THE DEPOSIT.
+RADIOLARIA (Haeckel, Zool. pt. 40). —The following species of Radiolaria were
+observed in the deposit from this Station (see also Murray and Renard, Deep-Sea Deposits
+Chall. Exp.) :-
+Staurosphæra petri, Haeckel.
+Gazelletta pinnata, Haeckel.
+Acanthosphæra florida, Haeckel.
+Circospathis furcata, Haeckel.
+Tholonium bicubicum, Haeckel.
+Haeckeliana lamarckiana, Haeckel.
+Lampromitra pyramidalix, Haeckel.
+Tuscarora porcellana, Murray.
+Auloceros cervinus, Haeckel.
+Conchopsis pilidium, Haeckel.
+Challengeria macleari, Murray.
+Surface Organisms.— The following species are recorded from the surface and deep
+tow-nets at this Station :
+ORGANISMS FROM
+SURFACE-NETS.
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Thalassoxanthium heractinium, Haeckel.
+Cenosphæra papillata, Haeckel.
+Carposphæra prunulum, Haeckel.
+Plegmosphæra erodictyon, Haeckel.
+Solenosphæra amalthea, Haeckel.
+Hexastylus chilonis, Haeckel.
+Acanthosphæra insignis, Haeckel.
+Heliosphæra elector, Haeckel.
+Elaphococcus umbellifer, Haeckel.
+Leptosphæra ciliata, Haeckel.
+Cromyechinus dodecacanthus, Haeckel.
+Spongiomma asteroides, Haeckel.
+Ellipsosiphus fragilis, Haeckel.
+Lithatractus conifer, Haeckel.
+Spongellipsis setosa, Haeckel.
+Spongocore velata, Haeckel.
+Spongoliva opuntina, Haeckel.
+Distriactis palmantha, Haeckel.
+Astrosest rum floscula, Haeckel.
+Rhopalastrum malleus, Haeckel.
+Chitonastrum jugatum, Haeckel.
+Dicranastrum cornutum, Haeckel.

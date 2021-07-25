@@ -1,57 +1,82 @@
-982
+984
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 254.
-25.4 milligrammes per litre. At 1 P.M. commenced heaving in trawl, but at 3 P.M.
-the trawl-rope carried away, the trawl with three tow-nets and a few thousand fathoms
-of rope being lost. A manganese nodule was procured in the water-bottle.
-At 3.20 P.M.
-made sail. Albatrosses still followed the ship.
-Honolulu distant at noon, 852 miles. Made good 150 miles. Amount of current
-31 miles, direction S. 28° W.
-ORGANISMS FROM
-SURFACE-NETS.
+STATION 255.
+Mr. Murray was away in a boat, and as it was quite calm he observed a number of
+things on the surface. There were large masses of Diatoms united into balls or elongated
+masses, the latter sometimes over six inches in length and two inches in diameter; they
+were made up of two kinds of Diatoms, or two different stages of development.
+Hastigerina was the most abundant thing on the surface, the specimens looking like
+little red dots all over the surface, and in the tow-net presenting a red mass. One
+specimen was taken in a small bottle, and on being placed under the microscope presented
+a wonderful appearance. The spines were exceedingly long, tapering to a point, and
+very
+flexible at the extremities. Between the spines were many small spheres, the
+pseudopodia running along the spines and occasionally leaving them. The spheres
+retired on treatment with colouring solution or acid. The specimen with fully-extended
+spheres floated, while those from the tow-net lay in a mass at the bottom of the globe;
+all attempts to mount specimens with the spheres extended failed. There were many
+compound Radiolaria, Velellæ with lanthinæ attached, many specimens of Halobates,
+and in addition all the things mentioned at the previous Station, except that Lepas was
+not noticed, nor any of its larval stages, which again indicated that the ship had passed
+into a region of the ocean where the fauna was different. Several small pieces of pumice
+were picked up, some of them covered with a brown-coloured Alga, or mould.
+STATION 256.
+Station 256 (Sounding 398), Yokohama to Sandwich Islands (see Chart 36 and
+Diagram 19).
+July 21, 1875; lat. 30° 22' N., long. 154° 56' W.
+Temperature of air at noon, 76°:8; mean for the day, 74°:5.
+Temperature of water :-
 >
-Surface Organisms.—The following species are recorded from the surface at this
-Station :
-RADIOLARIA (Haeckel, Zool. pt. 40). SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
-Porpita fungia, n.sp.
-Cenosphæra cristata, Haeckel.
-Octodendron spirale, Haeckel. PTEROPODA (Pelseneer, Zool. pts. 58 and 65).
-Heliodrymus setosus, Haeckel.
-Pneumonoderma pacificum, Dall.
-Acanthonia quadrifolia, Haeckel.
-souleyeti, n.sp.
-Xiphacantha macroptera, Haeckel.
-Clionopsis modesta, n.sp.
-Tessaraspis hexagonalis, Haeckel.
-Clio (Hyalocylix) striata (Rang).
-Phatnaspis cristata, Haeckel.
-(Styliola) subula (Quoy and
-Plagiacantha furcata, Haeckel.
-Gaimard).
-Sethoconus trochus, Haeckel.
-pyramidata, Linné.
-Theocampe cryptoprora, Haeckel.
-cuspidata (Bosc).
-Castanella wyvillei, Haeckel.
-Cuvierina columnella (Rang).
-Celodendrum bifurcum, Haeckel.
-Cavolinia tridentata (Forskål).
-Cymbulia sp. (?).
-t
--
-1
-In addition, the following are recorded in the note-books :-Pyrocystis (two forms),
-Peridinium (in catena), Ethmodiscus, Rhizosolenia, and Diatoms attached to Copepods,
-Coccospheres and Rhabdospheres abundant on the surface, Globigerina, Orbulina,
-Hastigerina, Pulvinulina menardii and Pulvinulina micheliniana, Tintinnus and other
-Infusoria, Medusæ, Velella, Sagitta, Alciopa, Tomopteris, Distomum, Cypridina,
-Copilia and other Copepods, Zoëæ of Lepas fascicularis, Hyperids, Euphausia with
-Zoëæ and larvæ, Atlanta, Oxygyrus, Tiedemannia [ = Gleba), Appendicularia, Fritillaria,
-Doliolum. A haul from over 100 fathoms brought up a few Challengerida and other
-Radiolaria. There were again a good many small pieces of punice covered with mould or
-Algæ, and some seeds which did not seem to have come from the ship. Several specimens
-of Pyrocystis noctiluca were observed to be in process of division, two distinct
-individuals being surrounded by a common chitinous membrane. Some of the specimens
-of Orbulina had very thin shells, and the Globigerinæ inside, attached to the inner
-surfaces of the Orbulina by long spines could be seen with great distinctness.
+Surface,
+25 fathoms,
+50
+75
+100
+125
+150
+175
+200
+74.0
+70.0
+65.0
+60.0
+55.6
+53.2
+51.2
+49.5
+48.0
+46.5
+45.2
+43.8
+42.8
+400 fathoms,
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+39.7
+38.2
+37.3
+36.7
+36:3
+36.1
+35.9
+35.8
+35.7
+35.5
+35.4
+35.3
+35.2
+99
+225
+250
+275
+300

@@ -1,110 +1,105 @@
 SUMMARY OF RESULTS.
-1037
-Station 271.
-х
-х
-Х
-Х
-x
-»
-х
-Х
-Х
-Rhizammina sp. (?).
-Reophax dentaliniformis, Brady.
-diflugiformis, Brady.
-scorpiurus, Montfort.
-Haplophragmium globigeriniforme (Parker and
-Jones).
-glomeratum, Brady.
-latidorsatum (Bornemann).
-turbinatum, Brady.
-Thurammina papillata, Brady.
-Hormosina normani, Brady.
-ovicula, Brady.
-Ammodiscus charoides (Jones and Parker).
-gordialis (Jones and Parker).
-Trochammina galeata, Brady.
-pauciloculata, Brady.
-trullissata, Brady.
-Textularia agglutinans, d'Orbigny (?).
-Gaudryina pupoides, d'Orbigny.
-Bulimina inflata, Seguenza.
-Virgulina schreibersiana, Czjzek.
-Cassidulina subglobosa, Brady.
-Ehrenbergina hystrix, Brady.
-Lagena acuta (Reuss).
-acuticosta, Reuss.
-apiculata (Reuss).
-aspera, Reuss.
-fimbriata, Brady.
-formosa, Schwager.
-var. comata, Brady.
-globosa (Montagu).
-gracilis, Williamson.
-hexagona (Williamson).
-lævigata (Reuss).
-lagenoides (Williamson), var, tenuistriata,
-Brady.
-marginata (Walker and Boys).
-orbignyana (Seguenza).
-plumigera, Brady.
-Lagena semistriata, Williamson.
-sulcata (Walker and Jacob).
-torquata, Brady.
-sp. (?).
-Nodosaria communis, d'Orbigny.
-(Glandulina) lævigata, d'Orbigny.
-(Dentalina) mucronata, Neugeboren.
-Polymorphina angusta, Egger.
-lanceolata, Reuss.
-longicollis, Brady.
-x Globigerina æquilateralis, Brady.
-bulloides, d'Orbigny.
-conglobata, Brady.
-cretacea, d'Orbigny.
-digitata, Brady.
-dubia, Egger.
-inflata, d'Orbigny.
-rubra, d'Orbigny.
-sacculifera, Brady.
-x Orbulina universa, d'Orbigny.
-x Hastigerina pelagica (d'Orbigny).
-* Pullenia obliquiloculata, Parker and Jones.
-quinqueloba, Reuss.
-8pæroides (d'Orbigny).
-x Sphæroidina dehiscens, Parker and Jones.
-Truncatulina dutemplei (d'Orbigny).
-lobatula, Walker and Jacob.
-pygmæa, Hantken.
-ungeriana (d'Orbigny).
-wuellerstorfi (Schwager).
-x Pulvinulina canariensis (d'Orbigny)
-crassa (d'Orbigny).
-favus, Brady.
-menardii (d'Orbigny).
-partschiana (d'Orbigny).
-tumida, Brady.
-Rotalia soldanii, d'Orbigny.
-Nonionina pompilioides (Fichtel and Moll).
-umbilicatula (Montagu).
+1041
+STATION 271,
+9
+Cantharospyris platybursa, Haeckel.
+Aegospyris æquispina, Haeckel.
+Elaphrospyris cervicornis, Haeckel.
+capricornis, Haeckel
+alcicornis, Haeckel
+Petalospyris anthemis, Haeckel.
+papillata, Haeckel.
+Ceratospyris polygona, Haeckel.
+Circospyris nucula, Haeckel.
+Dictyospyris spinulosa, Ehrenberg.
+quadriloba, Haeckel.
+mammillaris, Haeckel.
+Tiarospyris pervia, Haeckel.
+Tholospyris ramosa, Haeckel.
+Acrospyris clathrocaninm, Haeckel.
+fragilis, Haeckel.
+Desmospyris cyrtocolpos, Haeckel.
+Phormospyris trifoliata, Haeckel.
+Androspyris anthropiscus, Haeckel,
+Lamprospyris darwinii, Haeckel.
+spenceri, Haeckel.
+Amphispyris sternalis, Haeckel.
+Nephrospyris paradictyum, Haeckel.
+cordata, Haeckel.
+3)
+d. Botryodea.
+Botryopera cyrtoloba, Haeckel.
+Cannobotrys cortina, Haeckel.
+monocanna, Haeckel.
+Botryocyrtis theocampe, Haeckel.
+cerebellum, Haeckel.
+Botryopyle dictyocephalus, Haeckel.
+Acrobotrys disolenia, Haeckel.
+auriculata, Haeckel.
+Lithobotrys orchidea, Haeckel.
+Botryocampe camerata, Haeckel.
+Euscenium ramosum, Haeckel.
+Cladoscenium verticillatum, Haeckel.
+Pteroscenium arcuatum, Haeckel.
+arcadophorum, Haeckel,
+Archipera bicornis, Haeckel.
+Peridium spinipes, Haeckel.
+palmipes, Haeckel.
+Peripyramis circumtexta, Haeckel.
+spongiosa, Haeckel.
+Carpocanistrum novenum, Haeckel,
+Haliphormis costata, Haeckel.
+Halical yptra spinosa, Haeckel.
+Phänoscenium hexapodium, Haeckel.
+Calpophæna tetracorethra, Haeckel.
+Archiphæna stephanoma, Haeckel.
+corona, Haeckel.
+Cornutella mitra, Haeckel.
+annulata, Haeckel,
+spiralis, Haeckel.
+Cornutanna orthoconus, Haeckel.
+Cyrtocalpis ovulum, Haeckel.
+Halicapsa triglochin, Haeckel.
+Archicapsa triforis, Haeckel.
+Dictyophimus plectaniscus, Haeckel.
+Sethopilium macropus, Haeckel.
+Tripocyrtis tripodiscus, Haeckel.
+Lithomelissa bütschlii, Haeckel.
+macroceras, Haeckel.
+thoracites, Haeckel.
+Psilomelissa calvata, Haeckel.
+Clathrocanium diadema, Haeckel.
+squarrosum, Haeckel.
+triomma, Haeckel.
+Lamprodiscus monoceros, Haeckel.
+Lampromitra coronata, Haeckel.
+Callimitra annæ, Haeckel.
+Clathrocorys murravi, Haeckel.
+Lychnocanium lanterna, Haeckel.
+tripodium, Haeckel.
+Lychnodictyum wyvillei, Haeckel.
+Lithopera globosa, Haeckel.
+Sethomelissa hymenoptera, Haeckel.
+Sethophormis rotula, Haeckel.
+aurelia, Haeckel.
+Sethamphora costata, Haeckel.
+Sethopyramis maxima, Haeckel.
+Plectopyramis dodecomma, Haeckel.
+Spongopyramis spongiosa, Haeckel.
+Acanthocorys dodecaster, Haeckel.
+Arachnocorys trifida, Haeckel.
 "
-X
-Х
-X
-I. SPUMELLARIA.
-RADIOLARIA (Haeckel, Zool. pt. 40).—The following species were observed by
-Professor Haeckel and Dr. Dreyer.
-Cenosphæra favosa, Haeckel.
-vesparia, Haeckel.
-a. Sphæroidea
-bombus, Haeckel.
-setosa, Haeckel.
-Cenosphæra hexagonalis, Haeckel.
-elysia, Haeckel.
-inermis, Haeckel.
-solida, Haeckel.
-mellifica, Haeckel.
-reticulata, Haeckel.
-(SUMMARY OF RESULTS CHALL, EXP.-1893.)
-131
+>>
+e. Cyrtoidea.
+Tripocalpis triserrata, Haeckel.
+cortinaris, Haeckel.
+Tripterocalpis phylloptera, Haeckel.
+ogmoptera, Haeckel.
+Trissopilium lithomelissa, Haeckel.
+Tripilidium hemisphæricum, Haeckel.
+lychnocanium, Haeckel.
+costatum, Haeckel.
+Tripodiscium ovatum, Haeckel.
+sphærocephalum, Haeckel.
+Tridictyopus vatillum, Haeckel.
+Euscenium quadratum, Haeckel.

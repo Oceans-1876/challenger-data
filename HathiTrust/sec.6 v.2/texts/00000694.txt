@@ -1,133 +1,129 @@
-1414
+1418
 THE VOYAGE OF H.M.S. CHALLENGER.
+* Galeoides polydactylus, Vahl. T
+* Genypterus chilensis, Guich.
+* Gerres abbreviatus, Bleeker. T
+jonesi, Günther.
 N
-S
->
+lefroyi, Goode.
+N
+macracanthus, Bleeker. T
+T
+oyena, Forsk.
+T
+T
+T
+T
+T
 T
 S
-S
-var.
-sp. (?). T
-S
->>
+T
 *
-* Ascidia challengeri, n.sp. s
-BRACHIOPODA:
-N
-* Argiope decollata (Chemnitz).
-S
-despecta, n.sp.
-* Discina stellata, Gould. T
-falcigera, n.sp
-meridionalis, n.sp.
-S
-* Kraussina lamarckiana, Davidson.
-SN
-* Lingula anatina, Lamarck.
 T
-nigra (Savigny).
-* Magasella cumingi (Davidson). S
 S
-pyriformis, n.sp.
-translucida, n.sp.
-S
-flexuosa (King). S
-s
-* Megerlia sanguinea (Chemnitz).
-vasculosa, n.sp.
-truncata (Linné). N
-* Atopogaster aurantiaca, n.g., n.sp.
-* Terebratella dorsata (Gmelin). S
-elongato, n.g., n.sp.
-* Terebratulina cancellata, Koch. S
-var. pallida, nov.
-caput serpentis, Linné,
-gigantea, n.g., n.sp.
-S
-septentrionalis,
-informis, n.g., n.sp. (locality
-Couthouy. SN
-and depth unknown).
-* Boltenia elegans, n.sp.
-N
-* Waldheimia flavescens, Val. apud
-legumen, Lesson.
-S
-Lamarck. s
-pachydermatina, n.sp.
-kerguelenensis, n.sp. s * Botrylloides nigrum, n.sp.
-N
-perspicuum, n.sp. T
-TUNICATA :
-var. rubicundum,
-* Amaroucium albidum, n.sp.
+* Glyphidodon assimilis, Günther. T
+saxatilis, L.
 T
-complanatum, n.sp.
-tyreum, n.sp.
-globosum, n.sp.
-s
-* Chorizocormus reticulatus, n.g., n.sp.
-S
-hepaticum, n.sp. (locality
-and depth unknown). * Ciona aspera, n.sp.
-N
-irregulare, n.sp.
-flemingi, n.sp.
-N
-N
-var. concinnum,
-saviynyi, n.sp.
-* Clavelina enormis, n.sp.
-S
-lævigatum, n.sp.
-S
-oblonga, n.sp.
-N
-nigrum, n.sp
-* Colella concreta, n.g., n.sp.
-S
-pallidulum, 1.sp.
-S
-elongata, n.g., n.sp.
-S
-variabile, n.sp
-S
-gaimardi, n.g., n.sp.
-S
-tenerum,
-murrayi, n.g., n.sp., var. rubida,
-S
-* Aplidium crassum, n.sp.
-T
-pedunculata (Quoy and
-despectum, n.sp.
-N
-Gaimard). S
-fumigatum, n.sp.
+septemfasciatus, C.V.
+sordidus, Forsk.
+xanthozona, Bleeker.
+* Gobius albopunctatus, C.V.
 ST
-pulchra, n.g., n.sp.
-fuscum, n.sp.
-S
-quoyi, n.g., n.sp.
-S
-leucophæum, n.sp.
-S
-thomsoni, n.g., n.sp.
+brevifilis, Day. S
+bymoensis, Rich.
+echinocephalus, Rüpp.
+flavimanus, Schleg. N
+genivittatus, C.V. T
+hecanema, Bleeker.
+knutteli, Bleeker.
+ornatus, Rüpp. T
+phalana, C.V.
+sandricensis, n.sp.
+stamineus, Val. T
+yokohamæ, n.sp.
+N
+N
 *
 S
-nov.
-S
-*
-*
-S
-nov.
-*
-99
-S
-*
-var.
-nov.
-nov.
+T
+* Hemirhamphus quoyi, C.V. T
+sajori, Schleg. N
+vittatus, Val. T
+* Heniochus macrolepidotus, Linné. T
+Hippocampus villosus, n.sp.
+T
+* Ilippoglossoides dentatus, Mitch. N
+* lIolacanthus cyanotis, Günther. T
+* IIolocentrum longipinne, C.V.
+spiniferum, Forsk.
+* Hoplegnathus fasciatus, Schleg. N
+* Julis ascensionis, Q. and G. T
+dorsalis, Q. and G. T
+obscura, n.sp.
+Labrichthys bothryocosmus, Rich.
+celidota, Forst. S
+* Læmonema longifilis, n.sp.
+Læops parviceps, n.g., n.sp.
+ST
+* Latilus argentatus, C.V.
+N
+jugularis, C.V.
+Lentipes concolor, Gill.
+seminudus, n.sp.
+T
+Lepadogaster gouani, Barnev.
+T
+Lepidotrigla microptera, Günther. N
+phalana, C.V. S
+spiloptera, n.sp.
+T
+* Lethrinus hæmatopterus, Schleg.
+T
+moensi, Bleeker.
+nebulosus, Forsk.
+ramak, Forsk.
+* Leuciscus hakuensis, n.sp.
+* Lichia glauca, Linné.
+Lophius naresi, n.sp.
+T
+setigerus, Wahl.
+N
+Lophonectes gallus, n.g., n.sp.
+Malacichthys griseus, Döderlein.
+Megalops cyprinoides, Brouss.
+* Merluccius gayi, Guich. s
+* Mesoprion annularis, C.V. T
+bengalensis, Bl. T
 T
 T
-22
+T
+sp. (?). T
+* Gomphosus tricolor, Quoy and Gaimard.
+T
+T
+T
+T
+T
+N
+T
+s
+* Hæmulon chrysargyreum, Günther.
+* Halargyreus johnsoni, Günther. s
+Hapalogenys mucronatus, Eydoux and
+Souleyet. N
+* IIaplochiton zebra, Jen.
+Haplodactylus punctatus, C.V.
+Harpagifer bispinis, Forst.
+Harpodon microchir, n.sp.
+* Heliastes flavicauda, n.sp.
+* Hemerocates acanthorhynchus, Forst. S
+* Hemirhamphus commersoni, Cuv.
+s
+*
+S
+S
+N
+N
+T
+T
+T

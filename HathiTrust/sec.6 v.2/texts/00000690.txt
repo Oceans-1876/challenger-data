@@ -1,116 +1,133 @@
-1410
+1414
 THE VOYAGE OF H.M.S. CHALLENGER.
-*
-9
-T
-sp. (?) T
-S
-S
-T
 N
-T
-* Ceratosoma cornigerum (Adams). T * Octopus pictus, Brock, var. fasciata, nov.
-* Chromodoris runcinata, Bergh. S
 S
-striatella, Bergh. T
-tehuelchus, d'Orbigny. T
-* Discodoris morphæa, Bergh. T
-tonganus, n.sp.
+>
 T
-* Doriopsis nebulosa, Pease. T
-tuberculatus, Blainville. T
-* Janolus australis, n.g., n.sp.
-T
-verrucosus, n.sp.
-,
-s
-* Marionia occidentalis, n.sp.
-S
-vitiensis, n.sp.
-T
-* Ohola pacifica, n.g., n.sp.
-* Onchidium melanopneumon, n.sp.
-T Rossia patagonica, Smith.
-* Platydoris eurychlamys, Bergh. T
-sublevis, Verrill.
-* Rizzolia australis, n.sp.
-S
-(?) tenera (Verrill). N
-* Thordisa (?) clandestina, n.sp.
-Sepia andreanoides, n.sp.
-elliptica, n.sp. T
-MARSENIADA:
-esculenta, n.sp.
-N
-kobiensis, n.sp
-N
-* Marsenia dubia, n.sp.
-N
-papuensis, n.sp. T
-* Marseniopsis murrayi, n.g., n.sp.
-S
-smithi, n.sp.
-T
-pacifica, n.g., n.sp.
-S
-(Metasepia) pfefferi, n.sp.
-* Sepiella maindroni, Rochebrune. N
-CEPHALOPODA :
-Spirula peronië, Lamarck. T
-* Argonauta argo, Linné. s
-* Todarodes pacificus, Steenstrup. N
-* Inioteuthis morsei, Verrill.
-* Loligo brasiliensis, Blainville. s
-POLYZOA :
-edulis, n.sp.
-Adeonella atlantica, n.g., n.sp.
-(?) ellipsura, n.sp.
-distoma, Busk. Τ Ν
-galatheæ, Steenstrup, MS.
-intricaria, n.g., n.sp.
-T
-indica, Pfeffer
-pectinata, n.g., n.sp.
-japonica, Steenstrup, MS. N
-platalea, Busk. T
-kobiensis, n.sp.
-N
-polymorpha, n.g., n.sp.
-T
-* Octopus australis, n.sp. S
-Ætea anguina (Linné). SN
-bamensis, n..
-T
-Alecto granulata, M.-Edwards.
-bermudensis, n.sp.
-N
-* Amathia brasiliensis, n.sp.
-boscii (Lesueur), var. pallida, *
-connexa, n.sp.
-T
-T
-granulatus, Lamarck. ST
-lendigera (Linné). N
-S
-semispiralis (Kirchenpauer). T
-macropus, Risso. N
-spiralis, Lamouroux. S
-marmoratus, n.sp.
-T
-Amphiblestrum capense, n.sp. S
-occidentalis, Steenstrup, MS. T
-cervicorne, Busk. S
-N
-n.sp. N
 S
 S
-T
-T
-T
+var.
+sp. (?). T
 S
 >>
+*
+* Ascidia challengeri, n.sp. s
+BRACHIOPODA:
+N
+* Argiope decollata (Chemnitz).
+S
+despecta, n.sp.
+* Discina stellata, Gould. T
+falcigera, n.sp
+meridionalis, n.sp.
+S
+* Kraussina lamarckiana, Davidson.
+SN
+* Lingula anatina, Lamarck.
 T
-nov.
+nigra (Savigny).
+* Magasella cumingi (Davidson). S
+S
+pyriformis, n.sp.
+translucida, n.sp.
+S
+flexuosa (King). S
 s
-distans, n.sp.
-levis, n.sp.
+* Megerlia sanguinea (Chemnitz).
+vasculosa, n.sp.
+truncata (Linné). N
+* Atopogaster aurantiaca, n.g., n.sp.
+* Terebratella dorsata (Gmelin). S
+elongato, n.g., n.sp.
+* Terebratulina cancellata, Koch. S
+var. pallida, nov.
+caput serpentis, Linné,
+gigantea, n.g., n.sp.
+S
+septentrionalis,
+informis, n.g., n.sp. (locality
+Couthouy. SN
+and depth unknown).
+* Boltenia elegans, n.sp.
+N
+* Waldheimia flavescens, Val. apud
+legumen, Lesson.
+S
+Lamarck. s
+pachydermatina, n.sp.
+kerguelenensis, n.sp. s * Botrylloides nigrum, n.sp.
+N
+perspicuum, n.sp. T
+TUNICATA :
+var. rubicundum,
+* Amaroucium albidum, n.sp.
+T
+complanatum, n.sp.
+tyreum, n.sp.
+globosum, n.sp.
+s
+* Chorizocormus reticulatus, n.g., n.sp.
+S
+hepaticum, n.sp. (locality
+and depth unknown). * Ciona aspera, n.sp.
+N
+irregulare, n.sp.
+flemingi, n.sp.
+N
+N
+var. concinnum,
+saviynyi, n.sp.
+* Clavelina enormis, n.sp.
+S
+lævigatum, n.sp.
+S
+oblonga, n.sp.
+N
+nigrum, n.sp
+* Colella concreta, n.g., n.sp.
+S
+pallidulum, 1.sp.
+S
+elongata, n.g., n.sp.
+S
+variabile, n.sp
+S
+gaimardi, n.g., n.sp.
+S
+tenerum,
+murrayi, n.g., n.sp., var. rubida,
+S
+* Aplidium crassum, n.sp.
+T
+pedunculata (Quoy and
+despectum, n.sp.
+N
+Gaimard). S
+fumigatum, n.sp.
+ST
+pulchra, n.g., n.sp.
+fuscum, n.sp.
+S
+quoyi, n.g., n.sp.
+S
+leucophæum, n.sp.
+S
+thomsoni, n.g., n.sp.
+*
+S
+nov.
+S
+*
+*
+S
+nov.
+*
+99
+S
+*
+var.
+nov.
+nov.
+T
+T
+22

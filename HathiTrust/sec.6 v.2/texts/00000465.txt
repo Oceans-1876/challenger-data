@@ -1,42 +1,37 @@
 SUMMARY OF RESULTS.
-1191
-STATION 320.
-PYCNOGONIDA (Hoek, Zool. pt. 10).
-Phoxichilidium patagonicum, n.sp., var. elegans, nov. Several specimens; the
-species obtained also at Stations 304, 308, and 313.
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Neæra platensis, n.sp. Obtained at no other locality.
-GASTEROPODA (Watson, Zool. pt. 42).
-Trochus (Margarita) sp. (?).
-Pleurotoma (Surcula) goniodes, n.sp. Obtained at no other locality.
+1195
+Voluta (Zidona) angulata, Swainson. Two specimens ; obtained at no other locality Station 321.
+by the Challenger. Recorded from east coast of South America.
+Pleurotoma (Surcula) oxytropis, Sowerby, var. albicarinata, Sowerby. Obtained at
+no other locality by the Challenger. Recorded from Panama
+and Mexico.
+NUDIBRANCHIATA (Bergh, Zool. pt. 26).
+Marionia occidentalis, n.sp. One specimen ; obtained at no other locality.
 CEPHALOPODA (Hoyle, Zool. pt. 44).
-Eledone brevis, n.sp. Three specimens; obtained at no other locality.
-Polyzoa (Busk, Zool. pts. 30 and 50 ; Waters, pt. 79).
-Caberea crassimarginata, n.sp. Obtained at no other locality.
-Bugula reticulata, n.sp. Obtained also at Stations 147, 299, and 308.
-Ichthyaria oculata, n.g., n.sp. Obtained also at Station 314. Only species
-of the genus.
-Membranipora galeata, Busk, var. erecta, nov. The species obtained also at
-Stations 75, 145, 149, 150, and the Cape.
-umbonata, Busk, var.
-nov., Waters.
-(Growing on Ascidia
-meridionalis).
-Foveolaria (?) elliptica, n.g., n.sp. Obtained also at Station 162.
-falcifera, n.g., n.sp. Obtained at no other locality. [Waters calls it
-Membranipora falcifera (Busk)].
-Vincularia labiata, n.sp. Obtained at no other locality. [Waters calls it
-Thalamoporella labiata (Busk)].
-Bifaxaria abyssicola, n.g., n.sp. (?). Obtained also at Station 253.
-denticulata, n.g., n.sp.
+Loligo brasiliensis, Blainville. Many specimens ; obtained at no other locality by
+the Challenger. Recorded from Brazil, Antilles, and Cuba.
+Fishes (Günther, Zool. pt. 6).
+Raja platana, n.sp. Obtained at no other locality.
+microps, n.sp.
 Obtained at no other locality.
-Salicornaria dubia, n.sp. Obtained at no other locality.
-Melicerita atlantica, n.sp. Obtained at no other locality.
-(?) dubia, n.sp. Obtained at no other locality. .
-Retepora magellensis, n.sp. Obtained at no other locality by the Challenger.
-Recorded from Falkland Islands.
-Turritigera stellata, n.g., n.sp. Obtained also at Station 142. Only species
-of the genus.
-Cribrilina latimarginata, n.sp.
+Ancylodon atricauda, n.sp. Obtained at no other locality.
+Otolithus guatucupa, C.V. Obtained at no other locality by the Challenger.
+Micropogon ornatus, n.sp. Obtained at no other locality.
+undulatus, Linné. (Monte Video); obtained at no other locality by
+the Challenger.
+Læmonema longifilis, n.sp.
 Obtained at no other locality.
-monoceros (Busk). For distribution see Station 145.
+Aphoristia ornata, Lac. Obtained at no other locality by the Challenger.
+Arius commersoni, Lac. (Monte Video); obtained at no other locality by
+the Challenger.
+Engraulis olida, Günther. "Obtained at no other locality by the Challenger.
+In addition to the foregoing, the following are recorded in the Station-book :- Many
+Annelids in tubes of various forms, and Dentalium.
+Excluding Protozoa, over 150 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 29 species, of which 9 are new to science, including
+representatives of 2 new genera; 8 of the new species were not obtained elsewhere.
+SURFACE-VETS
+Surface Organisms. The following are recorded in the note-books from the surface ORGANISMS FROM
+at this Station :-Peridinium, small Acanthometræ, Medusæ, Ctenophoræ (Beroë),
+Sagitta, Annelid larvæ, Copepods, Cirriped larvæ, Zoëæ, Appendicularia, and larval
+fishes. The water was of a greenish colour.

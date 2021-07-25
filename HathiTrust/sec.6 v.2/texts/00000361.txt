@@ -1,73 +1,84 @@
 SUMMARY OF RESULTS.
-1099
-STATION 290.
-Density at 60° F. at surface, 1.02533 ; 1850 fathoms, 1.02534; bottom, 1.02546.
-Depth, 2300 fathoms; deposit, Red Clay.
-At 9.20 A.m. shortened and furled sails, and proceeded under steam. At 10 A.M.
-sounded in 2300 fathoms. Took serial temperatures down to 1500 fathoms. At
-1.40 P.M. completed observations and made sail. The following birds were noticed :-
-Diomedea exulans, some white, some mottled brown, and some black, Diomedea
-melanophrys (?), mutton birds (Estrelata lessoni), Procellaria capensis, Prion turtur, a
-small black bird about the size of the Cape pigeon, and a larger black bird ; mutton birds
-were the most numerous.
-Valparaiso distant at noon, 2563 miles. Made good 157 miles. Amount of current
-11 miles, direction N.
-Surface Organisms.— The following species of Radiolaria are recorded from the surface ORGANISMS FROM
-SURFACE NETS,
-at this Station :
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Siphonosphæra chonophora, Haeckel. Tetrapyle transversa, Haeckel.
-Amphymenium monstrosum, Haeckel. Stauraspis ciphacantha, Haeckel.
-In addition, the following are recorded in the note-books :-Small Foraminifera,
-Medusæ (Pelagia), Sagitta, Cypridina, Saphirina and other Copepods, Hyperids and
-other Amphipods, Euphausia, larvæ of Sergestes, Doliolum, &c.
-Station 291 (Sounding 436), Tahiti to Valparaiso (see Chart 38 and Diagram 20). Station 291.
-41-4
-October 27, 1875; lat. 39° 13' S., long. 118° 49' W.
-Temperature of air at noon, 56°:3 ; mean for the day, 52° :6.
-Temperature of water :-
-Surface, .
-53.0 400 fathoms,
-25 fathoms,
-52:1
-500
-50
-50.8
-600
-75
-49.5
-700
-100
-47.7
-800
-125
-46.1
-900
-150
-45.4 1000
-175
-44.9 1100
-200
-44:4 1200
-225
-44.0 1300
-250
-43.6
-1400
+1103
+STATION 293.
+O
+.
+250 fathoms,
 275
-43.3 1500
 300
-42:9 Bottom,
-40:1
+400 g
+500
+600
+700
+800
+43.5
+43.2
+42.9
+418
+40.9
+40.0
 39.2
-38.3
-37.5
+38.4
+900 fathoms,
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+37:7
+37.1
 36.8
-36.2
-35.9
+36.5
+36.3
+36.0
 35.8
-35.7
-35.5
-35.4
-34.6
-9
+34.4
+Density at 60° F. :-
+Surface,
+25 fathoms,
+50
+100
+200
+1.02522
+. 1.02523
+. 1.02517
+1:02531
+1:02538
+300 fathoms,
+400
+800
+1550
+Bottom,
+. 1.02538
+1.02525
+. 1.02548
+1.02563
+1.02573
+.
+Depth, 2025 fathoms; deposit, Globigerina Ooze, containing 44:68 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.30 A.M. shortened and furled sails, and proceeded under steam. At 5.30 A.M.
+sounded in 2025 fathoms. In this, as in the last Station, the deposit, though a Globigerina
+Ooze, was of a dark brown colour, which was due to the large quantity of the peroxides
+of iron and manganese. Associated with the Foraminiferous shells were very many
+fragments of basic volcanic rocks. Some of the manganese nodules had a nucleus of
+hard black volcanic glass (sideromelan), which was surrounded by a zone of 'altered
+material (palagonite). At 7 A.M. put trawl over and veered 2500 fathoms. Obtained
+serial temperatures down to 1500 fathoms. At 1 P.M. commenced heaving in traw),
+which came up at 3 P.M. with several specimens, about a dozen manganese nodules, and
+two sharks' teeth. Made all plain sail. The following birds were noticed :-Diomedea
+erulans (two large white ones remained near the ship, and twice or thrice took the hook,
+but were not landed on board), molly mauks (Diomedea melanophrys ?), Procellaria
+capensis, mutton birds, several petrels rather less in size than the Cape pigeon but with
+longer wings, and a large petrel-like bird less than the molly mauk.
+Valparaiso distant at noon, 1661 miles. Made good 141 miles. Amount of current
+6 miles, direction S.
+The following species is recorded from the trawl at this Station :-
+ANIMAL FROM
+TRAWL.
+ACTINIARIA (Hertwig, Zool. pt. 15).
+Corallimorphus profundus, Moseley, n.g., n.sp. One specimen ; obtained
+Station 300, 1375 fathoms.
+also at

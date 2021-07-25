@@ -1,60 +1,102 @@
-882
+884
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 225.
-9
-9
-Stichocorys wolffii, Haeckel.
-Eucyrtidium hertuigii, Haeckel.
-hexagonatum, Haeckel.
-profundissimum, Ehrenberg.
-tricinctum, Haeckel.
-Eusyringium pachysiphon, Haeckel.
-Siphocampe quadrantalis, Haeckel.
-spiralis, Haeckel.
-tubulosa, Haeckel.
-Lithocampe diploconus, Haeckel.
-Lithocampe ovata, Haeckel.
-Cyrtocapsa chrysalidium, Haeckel.
-costata, Haeckel.
-pyrum, Haeckel.
-tetrapera, Haeckel.
-Stichocapsa monstrosa, Haeckel.
-paniscus, Haeckel.
-tetracola, Haeckel.
-Artocapsa armata, Haeckel.
-octocamera, Haeckel.
-III. PHÆODARIA.
-Cannopilus diplostaurus, Haeckel.
-Challengeron bathybium, Haeckel.
-1
+STATION 226.
 ORGANISMS FROM
 SURFACE-NETS.
-Surface Organisms. --The following species of Radiolaria are recorded from the
-surface at this Station :
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Siphonosphæra tubulosa, Müller.
-Octodendron arboretum, Haeckel.
-A.cellipsis lobata, Haeckel.
-Tessaraspis micropora, Haeckel.
-Hexacolpus nivalis, Haeckel.
-Diploconus cyathiscus, Haeckel.
-Psilomelissa galeata, Haeckel.
-Sethoconus trochus, Haeckel.
-Sethocyrtis pleuracantha, Haeckel.
-Theocampe cryptoprora, Haeckel.
-Dictyomitra macilenta, Haeckel.
-In addition, the following are recorded in the note-books :-Two species of
-Peridinium (in catena), Pyrocystis, Ethmodiscus, Coscinodiscus, and other Diatoms,
-Globigerina, Orbulina, Pulvinulina, Tintinnus and other Infusoria, Medusa,
-Siphonophoræ, Echinoderm larvæ, Sagitta, Alciopa, Aphroditacean, tubicolous, and
-other Annelid larvæ, Sipunculid (?) larvæ, Planarian larve with lateral appendages,
-Balanoglossus larvæ (Tornaria), Copilia, Setella, Saphirina, Euphausia larvæ, Lucifer,
-Sergestes Zoëæ, small Lamellibranchs and Gasteropods (Echinospira), Atlanta, Cardio-
-poda, Pteropods, Appendicularia, Doliolum, Salpa. Several sharks were seen, and one
-was caught; it was a male, about five feet in length, and had on it Caligus and another
-genus of parasites.
-STATION 226.
-Station 226 (Sounding 364), Admiralty Islands to Yokohama (see Chart 31 and
+Surface Organisms.--The following are recorded in the note-books from the surface
+at this Station :-Pyrocystis, Diatoms, Peridinium (Ceratium) tripos and another
+species (in catena), Oscillatoriacea, Globigerina, Orbulina, Hastigerina, Pulvinulina,
+many varieties of Radiolaria, Medusæ, several varieties of Siphonophoræ, Echinoderm
+larvæ, Sagitta, Alciopa, tubicolous and other small Annelids, Cypridina (three species),
+Copilia, Setella, Saphirina, Phronimids, Hyperids, Squilla larvæ, Euphausia, Lucifer,
+Phyllosoma, Amphion, portion of antenna of a deep-sea shrimp, Halobates, small
+Lamellibranchs and Gasteropods, Phylliroë, Atlanta, Spongiobranchæa and other
+Pteropods, Cymbulian larvæ, Doliolum, Salpa, small Pyrosoma (from trawl), small fishes.
+Many flying fishes (Ecocoetus) and a shark were seen ; a tow-net was carried away
+by a shark.
+About a dozen each of Pyrocystis noctiluca and Pyrocystis fusiformis were carefully
+separated from other things and placed in two globes, each globe containing only the
+same variety, and after dark were examined for phosphorescence. When the water was
+disturbed several very brilliant spots of light appeared in both globes, and no difference
+in the nature or intensity of the light could be detected. They lost their light more or
+less after being disturbed several times in succession, but when allowed to rest for an
+hour or so they were again as bright as at first.
+STATION 227.
+Station 227 (Sounding 365), Admiralty Islands to Yokohama (see Chart 31 and
 Diagram 16).
-March 25, 1875 ; lat. 14° 44' N., long. 142° 13' E.
-Temperature of air at noon, 79°:3 ; mean for the day, 78°:9.
+March 27, 1875 ; lat. 17° 29' N., long. 141° 21' E.
+Temperature of air at noon, 799:5; mean for the day, 780.5.
+Temperature of water :-
+23
+Surface,
+10 fathoms,
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+79.2
+79.0
+78.8
+78.6
+78.4
+78.2
+78.0
+77.6
+76.5
+75.0
+73:3
+71.5
+70.0
+68:3
+66.7
+65.2
+63.5
+62.0
+180 fathoms,
+190
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+60-4
+58.8
+57.0
+46.2
+42-0
+40:3
+39:0
+38.3
+37.8
+37.3
+36.8
+36:3
+35.9
+35.5
+35.2
+35.2
+35.2
+>
+3

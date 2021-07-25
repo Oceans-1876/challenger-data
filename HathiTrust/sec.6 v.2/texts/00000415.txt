@@ -1,36 +1,41 @@
 SUMMARY OF RESULTS.
-1147
-2.20 P.M. stopped and sounded in 140 fathoms off Saumarez Island. Put over trawl Station 307.
-which came up at 4.30 P.M. with numerous specimens and a quantity of stones and
-pebbles. Proceeded for Port Grappler, anchoring there at 5.40 P.m. in 8 fathoms.
-Pinnace returned with exploring party.
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :
-ANIMALS FROM
-TRAWL.
-MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Reniera aquæductus, Schmidt, var. infundibularis, nov. One specimen ; obtained
-also off S.W. Patagonia. The species recorded from
-Mediterranean and Australia,
-subglobosa, n.sp. One specimen ; obtained at no other locality.
-Myxilla nobilis, n.sp., var. bacillifera, nov. Two specimens; the species obtained
-also at Stations 148, 311 (var. patagonica), and 320.
-HEXACTINELLIDA (Schulze, Zool. pt. 53).
-Bathydorus stellatus, n.g., n.sp. One specimen; obtained at no other locality.
-ALCYONARIA (Wright and Studer, Zool. pt. 64).
-Dasygorgia flexilis, n.sp. Obtained at no other locality.
-Acanella chiliensis, n.sp. Obtained at no other locality.
-Plumarella delicatissima, n.sp. Obtained at no other locality.
-Acanthogorgia ridleyi, n.sp. Three specimens ; obtained at no other locality.
-Anthomuricea argentea, n.g., n.sp. Obtained at no other locality. Only species
-of the genus.
-ACTINIARIA (Hertwig, Zool. pt. 15).
-Phellia pectinata, n.sp. One specimen ; obtained at no other locality.
-CORALS (Moseley, Zool. pt. 7).
-Desmophyllum ingens, n.sp. Several specimens ; obtained also at Stations 306,
-308, and 311.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Pseudarchaster discus, n.g., p.sp.
+1151
+Mimaster cognatus, n.sp.
+Obtained also at Station 311, 245 fathoms. [Recorded Station 308.
+in error from Station 303].
+Solaster regularis, n.sp. Obtained at no other locality.
+Lophaster stellans, n.sp. Obtained also at Station 309, 40 to 140 fathoms.
+[Recorded in error from Station 303].
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophioglypha lymani, Ljungman. For distribution see Station 304.
+Ophiactis asperula (Phil.). Obtained also at Stations 311, 312, and 315, 5 to
+245 fathoms. Recorded from Patagonia and Chili.
+Ophiacantha rosea, 1.sp. Obtained also at Stations 145 and 236.
+sp. (?).
+Ophiolebes vestitus, n.g., n.sp. Obtained also at Stations 307 and 310.
+Ophiomyxa vivipara, Studer. Obtained also at Stations 142, 313, and 314.
+Gorgonocephalus pourtalesië, Lyman. For distribution see Station 149.
+Astrotoma agassizii, Lyman. Obtained also at Stations 148, 150, 307, 309, and 313.
+Ophiocreas carnosus, n.sp.
 Obtained at no other locality.
-Ctenodiscus procurator, n.sp. Many specimens ; obtained also at Stations 306,
-308, 309, and 311.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Arbacia dufresnii (Bl.). Obtained also at Stations 135 and 304.
+Echinus horridus, n.sp. Several fragments ; obtained at no other locality.
+magellanicus, Phil. For distribution see Station 145.
+margaritaceus, Lamarck. For distribution see Station 149.
+norvegicus, Düben and Koren. For distribution see Station 46.
+HOLOTHURIOIDEA (Théel, Zool. pt. 39).
+Psolus antarcticus, Philippi. Six specimens ; obtained also at Station 320,
+600 fathoms. Recorded from Magellan Strait.
+squamatus, Düben and Koren. Two specimens ; obtained also at
+Stations 307 and 311.
+Stichopus moseleyi, n.sp. Two specimens ; obtained also at Stations 306 and 311.
+ANNELIDA (MIntosh, Zool. pt. 34).
+Lagisca magellanica, n.sp. Several specimens ; obtained also at Stations 145 (var.
+grubei), 149, and 310 (var. murrayi).
+darwini, n.sp. Two specimens ; obtained at no other locality.
+Eunice magellanica, n.sp. Many specimens ; obtained also at Stations 149 (young ?)
+and 311.
+Serpula narconensis, Baird, var. magellanica, nov. Several specimens; the species
+obtained also at Stations 144, 149, and 151.
+>

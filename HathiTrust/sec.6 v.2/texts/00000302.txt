@@ -1,109 +1,103 @@
-1048
+1052
 THE VOYAGE OF H.M.S. CHALLENGER.
-L
-STATION 271.
-Sagoscena prætorium, Haeckel.
-debilis, Haeckel.
-Aularia ternaria, Haeckel.
-Medusetta spiralis, Haeckel.
-Gazelletta macronema, Haeckel.
-orthonema, Haeckel.
-Gazelletta robusta, Haeckel.
-Castanella campbelli, Haeckel.
-Castanidium willemoesi, Haeckel.
-aldrichi, Haeckel.
-Conchidium leptæna, Haeckel.
-1
-In addition, the following are recorded in the note-books :-Ethmodiscus and other
-Diatoms, Pyrocystis noctiluca and Pyrocystis fusiformis, Peridinium, Globigerina,
-Orbulina, Hastigerina, Pullenia, Sphæroidina, Pulvinulina, Hydroids on Pteropod
-shells, Echinoderm larva, Sagitta, Aphroditacean and other Annelid larvæ, Calanids,
-Saphirina, and other Copepods, Hyperids, Oxycephalus, Euphausia, Lucifer,
-Sergestes, Zoöæ, Tiedemannia [= Gleba] and other Pteropods, Appendicularia,
-Doliolum. A net sent down to 200 fathoms brought up a few Challengeridæ and many
-other Radiolaria, along with some very large living Foraminifera, while the tow-net at
-the weights contained a few Challengerida and other deep-water things, a small Scopelid,
-and a young Sternoptyx. Several sharks and many flying fishes were seen.
-In one of the Phæodaria (Conchopsis) the pseudopodia were seen to ramify through
-the brownish matter of the phæodium. Some of the Foraminifera shells (Globigerina)
-were filled with zoospores. Most of the Pullenia were surrounded by a great mass of
-yellow sarcode, completely obscuring the shells.
-Station 272 (Sounding 414), Sandwich Islands to Tahiti (see Chart 38 and
-Diagram 19).
-September 8, 1875 ; lat. 3° 48' S., long. 152° 56' W.
-Temperature of air at noon, 80°:8; mean for the day, 78°:8.
-Temperature of water :-
-Surface,
-180 fathoms,
 STATION 272.
-50-5
-3 03 3
-9
-10 fathoms,
-20
-30
-40
-50
-60
-70
-80
-90
-100
-110
-120
-130
-140
-150
-160
-170
-79.0
-78.8
-78.5
-78.2
-78.2
-78:1
-77.5
-75.4
-71.9
-673
-63.6
-60.4
-57.5
-55:4
-54:0
-52.9
-52.0
-51.2
-190
-200
-300
-400
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-49.8
-49.2
-44•7
-42.2
-40.4
-39.2
-38.2
-37.3
-36.8
-36.4
-36.0
-35.7
-35.5
-35.3
-35:1
-35:1
-"
+Lampromitra dendrocorona, Haeckel.
+Callimitra elisabethæ, Haeckel.
+Clathrocorys teuscheri, Haeckel.
+Lychnocanium fenestratum, Haeckel.
+pudicum, Haeckel.
+Lychnodictyum wyvillei, Haeckel.
+Peromelissa psilocrana, Haeckel.
+Sethophormis asteriscus, Haeckel.
+rotula, Haeckel.
+aurelia, Haeckel.
+Sethamphora costata, Haeckel.
+Spongopyramis spongoplecta, Haeckel.
+Acanthocorys triloba, Haeckel.
+Anthocyrtis ovata, Haeckel.
+Anthocyrtium chrysanthemum, Haeckel.
+flosculus, Haeckel.
+Anthocyrtidium ligularia, Haeckel.
+Carpocanium gemmula, Haeckel.
+virgineum, Hacckel.
+Clistophæna polyolena, Haeckel.
+Sethocyrtis oxycephalis, Haeckel.
+Sethocorys patrocli, Haeckel.
+odysseus, Haeckel.
+Lophophæna liothorax, Haeckel.
+Dictyocephalus amphora, Haeckel.
+Sethocapsa pyriformis, Haeckel.
+Dicolocapsa megacephala, Haeckel.
+Pterocorys hirundo, Haeckel.
+Dictyoceras insectum, Haeckel.
+bombus, Haeckel.
+Pteropilium hoplites, Haeckel.
+Pterocanium orcinum, Haeckel.
+Pterocodon favosus, Haeckel.
+Podocyrtis tripodiscus, Haeckel.
+costata, Haeckel.
+scaphopodia, Haeckel.
+Lithornithium fringilla, Haeckel.
+Theopera fusiformis, Haeckel.
+Phormocyrtis costata, Haeckel.
+Cycladophora pantheon, Haeckel.
+Calocyclas casta, Haeckel.
+Clathrocyclas alcmenæ, Haeckel.
+coscinodiscus, Haeckel.
+Lamprocyclas maritalis, Haeckel.
+Theoconus jovis, Haeckel.
+Theocyrtis microtheca, Haeckel.
+ptychodes, Haeckel.
+Tricolocampe cylindrica, Haeckel.
+polyzona, Haeckel.
+urnula, Haeckel.
+Tricolocampe arcta, Haeckel.
+Theocampe sphxrothorax, Haeckel.
+Theocapsa mülleri, Haeckel.
+darvinii, Haeckel.
+Phrenocodon clathrostomium, Haeckel.
+Stichopilium cortina, Haeckel.
+campanulatum, Haeckel.
+Artopilium stichopterygium, Haeckel.
+Podocampe cornuta, Haeckel.
+Stichopera lagena, Haeckel.
+Phormocampe lamprocyclas, Haeckel.
+Stichophæna novena, Haeckel.
+Lithostrobus tetrastichus, Haeckel
+hexastichus, Haeckel.
+conulus, Haeckel.
+seriatus, Haeckel.
+quadratus, Haeckel.
+hexagonalis, Haeckel.
+Stichocorys okenii, Haeckel.
+Artost robus articulatus, Haeckel.
+Lithomitra nodosaria, Haeckel.
+Eucyrtidium hexagonatum, Haeckel.
+teuscheri, Haeckel.
+stöhrii, Haeckel.
+Eusyringium siphonostoma, Haeckel.
+Siphocampe caminosa, Haeckel.
+Lithocampe urceolata, Haeckel.
+Spirocyrtis scalaris, Haeckel.
+holospira, Haeckel.
+merospira, Haeckel.
+Cyrtocapsa cornuta, Haeckel.
+Dictyochia triommata, Ehrenberg.
+medusa, Haeckel.
+Distephanus asteroides, Haeckel.
+pentasterias, Haeckel.
+Aulospathis variabilis, Haeckel.
+Orosphæra hastigera, Haeckel.
+Aulosphæra polyodon, Haeckel.
+Auloscena mirabilis, Haeckel.
+Cannosphæra pacifica, Haeckel.
+Challengeria bidens, Haeckel.
+Challengeron monodon, Haeckel.
+crosbiei, Haeckel.
+Haeckeliana murrayana, Haeckel.
+Conchidium terebratula, Haeckel.
+Conchopsis lenticula, Haeckel.
+Cælodoras octographis, Haeckel.
+Celodendrum serratum, Haeckel.
+Celospathis octostyla, Haeckel.
+Coelodecas decastyla, Haeckel.

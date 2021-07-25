@@ -1,41 +1,113 @@
 SUMMARY OF RESULTS.
-1035
-The following species are recorded in the Zoological Reports from the trawl at this Station 271.
-ANIMALS FROM
-Station :
-TRAWL
-DEEP-SEA KERATOSA (Haeckel, Zool. pt. 82).
-Ammolynthus prototypus, n.g., n.sp. Obtained at no other locality.
-Cerelasma gyrosphæra, n.g., n.sp. Obtained at no other locality.
-Stannophyllum zonarium, n.g., n.sp. Obtained at no other locality.
-radiolarium, n.g., n.sp. Obtained at no other locality.
-pertusum, n.g., n.sp. Obtained at no other locality.
-venosum, n.g., n.sp. Obtained at no other locality.
-globigerinum, n.g., n.sp. Obtained at no other locality.
-The genus Stannophyllum was not obtained elsewhere, and was
-represented by over one hundred specimens.
-Stannoma dendroides, n.g., n.sp. Obtained also at Station 272, 2600 fathoms.
-coralloides, n.g., n.sp.
-Obtained also at Station 272, 2600 fathoms.
-The genus Stannoma was obtained only at these
-two Stations.
-HEXACTINELLIDA (Schulze, Zool. pt. 53).
-Holascus ridleyi, n.g., n.sp. One specimen; obtained at no other locality, .
-[Reported in error from Station 211].
-Hyalonema gracile, n.sp. One specimen ; obtained at no other locality. [Reported
-in error from Station 211].
-divergens, n.sp. One specimen ; obtained at no other locality.
-(Stylocalyx) depressum, n.sp. Three specimens ; obtained also at
-Station 246.
-( ) elegans, n.sp. One specimen ; obtained at no other locality.
-sp. (?). Several fragments.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Homolampas fulva, n.sp. Three specimens and fragments ; obtained at no other
-locality.
-HOLOTHURIOIDEA (Théel, Zool. pt. 13).
-Peniagone wyvilliä, n.g., n.sp. One specimen ; obtained at no other locality.
-Benthodytes papillifera, n.g., n.sp. Four specimens ; obtained also at Stations 184
-and 300.
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Arca (Barbatia) corpulenta, n.sp. Obtained also at Stations 184, 194, 198, 216A,
-and 300.
+1037
+Station 271.
+Lagena semistriata, Williamson.
+sulcata (Walker and Jacob).
+torquata, Brady.
+sp. (?).
+>
+Х
+х
+Х
+х
+92
+X
+2
+Х
+Х
+Rhizammina sp. (?).
+Reophax dentaliniformis, Brady.
+diflugiformis, Brady.
+scorpiurus, Montfort.
+Haplophragmium globigeriniforme (Parker and
+Jones).
+glomeratum, Brady.
+latidorsatum (Bornemann).
+turbinatum, Brady.
+Thurammina papillata, Brady.
+Hormosina normani, Brady.
+ovicula, Brady.
+Ammodiscus charoides (Jones and Parker).
+gordialis (Jones and Parker).
+Trochammina galeata, Brady.
+pauciloculata, Brady.
+trullissata, Brady.
+Textularia agglutinans, d'Orbigny (?).
+Gaudryina pupoides, d'Orbigny,
+Bulimina inflata, Seguenza.
+Virgulina schreibersiana, Czjzek.
+Cassidulina subglobosa, Brady.
+Ehrenbergina hystrix, Brady,
+Lagena acuta (Reuss).
+acuticosta, Reuss.
+apiculata (Reuss).
+aspera, Reuss.
+fimbriata, Brady.
+formosa, Schwager.
+var. comata, Brady.
+globosa (Montagu).
+gracilis, Williamson.
+hecagona (Williamson).
+lævigata (Reuss).
+lagenoides (Williamson), var. tenuistriata,
+Brady.
+marginata (Walker and Boys).
+» orbignyana (Seguenza).
+plumigera, Brady.
+Nodosaria communis, d'Orbigny.
+(Glandulina) lævigata, d'Orbigny.
+(Dentalina) mucronata, Neugeboren.
+Polymorphina angusta, Egger. .
+lanceolata, Reuss.
+longicollis, Brady.
+x Globigerina æquilateralis, Brady.
+bulloides, d'Orbigny.
+conglobata, Brady.
+cretacea, d'Orbigny.
+digitata, Brady.
+dubia, Egger.
+inflata, d'Orbigny.
+rubra, d'Orbigny.
+sacculifera, Brady.
+x Orbulina universa, d'Orbigny.
+Hastigerina pelagica (d'Orbigny).
+x Pullenia obliquiloculata, Parker and Jones.
+quinqueloba, Reuss.
+spæroides (d'Orbigny).
+x Sphæroidina dehiscens, Parker and Jones.
+Truncatulina dutemplei (d'Orbigny).
+lobatula, Walker and Jacob.
+Pygmæa, Hantken.
+ungeriana (d'Orbigny).
+wuellerstorfi (Schwager).
+x Pulvinulina canariensis (d'Orbigny)
+crassa (d'Orbigny).
+favus, Brady.
+menar.lii (d'Orbigny).
+partschiana (d'Orbigny).
+tumida, Brady.
+Rotalia soldanii, d'Orbigny.
+Nonionina pompilioides (Fichtel and Moll).
+umbilicatula (Montagu).
+99
+>
+Х
+99
+X
+RADIOLARIA (Haeckel, Zool. pt. 40).—The following species were observed by
+Professor Haeckel and Dr. Dreyer.
+I. SPUMELLARIA.
+a. Sphæroidea.
+Cenosphæra favosa, Haeckel.
+vesparia, Haeckel.
+bombus, Haeckel.
+setosa, Haeckel.
+elysia, Haeckel.
+solida, Haeckel.
+reticulata, Haeckel.
+Cenosphæra hexagonalis, Haeckel.
+inermis, Haeckel.
+mellifica, Haeckel.
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+>
+131

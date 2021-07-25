@@ -1,43 +1,44 @@
-1178
+1182
 THE VOYAGE OF H.M.S. CHALLENGER.
-FALKLAND
-ISLANDS.
-Mytilus edulis, Linné. (Station 315, 12 fathoms); obtained also at Station 322,
-21 fathoms. A widely-distributed species.
-magellanicus, Chemnitz. (Station 315, 12 fathoms); obtained also at
-Station 149 and Fiji.
-Modiolarca trapezina (Lamarck). (Station 315, 12 fathoms); obtained also at
-Stations 145, 149, and 311.
-Pecten patagonicus, King (Station 315, 12 fathoms); obtained also at Station 312.
-GASTEROPODA (Watson, Zool. pt. 42).
-Fissurella picta (Gmelin). (Station 315, 12 fathoms); obtained at no other locality
-by the Challenger. Recorded from Magellan Strait,
-Falkland Islands, and Chili.
-Trochus (Photinula) cærulescens (King). (Station 315, 5 to 12 fathoms); obtained
-at no other locality by the Challenger. Recorded from
-Magellan Strait and Falkland Islands.
-( ) expansus (Sowerby). (Station 315, 5 to 12 fathoms, and Port
-Louis—from crop of duck); obtained also at Stations 145
-and 149.
-( ) tæniatus (Sowerby). (Stations 315 and 316, 2 to 12 fathoms);
-obtained at no other locality by the Challenger. Recorded
-from Magellan Strait, Falkland Islands, and western
-North America.
-Trophon geversianus (Pallas). (Station 315, 12 fathoms); obtained also at
-Station 151.
-liratus, Couthouy, MS. (Station 315, 12 fathoms); obtained also at
-Station 308.
-Fusus (Euthria) fuscatus (Bruguière). (Stations 315 and 316, 4 to 12 fathoms);
-obtained also at Station 149,
-Voluta (Cymbiola) ancilla, Solander. (Station 315, 12 fathoms); obtained at no
-other locality by the Challenger. Recorded from
-Patagonia and Magellan Strait.
-Crepidula dilatata, Lamarck. (Station 315, 5 to 12 fathoms); obtained at no
-other locality by the Challenger. Recorded from South
-America, Magellan Strait, and Falkland Islands.
-Calyptræa pileus (Lamarck). (Station 315, 5 to 12 fathoms); obtained at no
-other locality by the Challenger. Recorded from
-Falkland Islands and Peru.
-sp. (?). (Station 315, 5 to 12 fathoms).
-Lamellaria, two species undetermined. (Station 315, 5 to 12 fathoms).
-19
+STATION 317.
+along with slaty pebbles, phosphatic and glauconitic concretions, and broken shells.
+This Station is situated about 200 miles N.N.E. of Stanley Harbour. At 4 P.M. made
+sail. Diomedea exulans, molly mauks, stinkers, black night hawks, mutton birds,
+Prion turtur, Thalassidroma, and large petrels were seen.
+Lobos Island distant at noon, 816 miles. Made good 130 miles.
+Made good 130 miles. Amount of current
+15 miles, direction N. 31° E.
+ANIMALS FROM
+Tow-NET AT
+WEIGHTS.
+The following species are recorded in the Zoological Reports from the tow-net at
+the weights at this Station :-
+MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
+Phakellia ventilabrum (Johnston), var. connexiva, nov.
+also at Station 122.
+One specimen ; obtained
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophioglypha meridionalis, n.sp. Obtained also at Station 320, 600 fathoms.
+Ophiophyllum sp. (?). One damaged specimen.
+1
+OSTRACODA (Brady, Zool. pt. 3).
+Cythere dasyderma, n.sp. For distribution see Station 5.
+CIRRIPEDIA (Hoek, Zool. pt. 25).
+Verruca gibbosa, n.sp. Four specimens ; obtained at no other locality.
+1
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Ediceroides cinderella, n.g., n.sp. Two specimens; obtained at no other locality.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Lima (Limatula) sp. (?). One specimen.
+BRACHIOPODA (Davidson, Zool. pt. 1).
+Terebratula wyvillii, n.sp. One small specimen ; obtained also at Stations 160,
+184, 244, 299, and 302.
+The Station-book records also a piece of a Hydroid, and small Sipunculid.
+Excluding Protozoa, about 15 specimens of invertebrates were obtained at this
+Station, belonging to about 10 species, of which 6 are new to science, including
+representative of 1 new genus ; 2 of the new species were not obtained elsewhere.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms.—The tow-nets at the surface yielded Diatoms, Globigerina,
+Sagitta, Copepods, Euphausia and larvæ, and Pteropods, while the tow-net at the
+weights brought up also some of the deep-sea Radiolaria and deep-sea Amphipods.

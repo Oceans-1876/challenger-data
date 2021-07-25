@@ -1,34 +1,44 @@
-THE
-VOYAGE OF H.M.S. CHALLENGER.
-PHYSICS AND CHEMISTRY.
-REPORT on OCEANIC CIRCULATION, based on the Observations made on
-board H.M.S. Challenger, and other Observations. By ALEXANDER
-BUCHAN, M.A., LL.D., F.R.S.E.
-During the two or three years preceding the time when the Challenger left on her
-famous voyage, several large questions, both practical and scientific, affecting the general
-movements of the atmosphere and the ocean began to be discussed, with an intelligence
-and fulness new to the discussion of such questions.
-These discussions were
-occasioned by the correct deep-sea temperatures which then began to be obtained,
-and by a first approximate representation of the distribution over the earth of the mass
-of the earth's atmosphere, thus leading to a more accurate knowledge of the prevailing
-winds of the globe resulting from that distribution. At that time, any discussions that
-were attempted on the more fundamental problems of meteorology, relative to the
-diurnal and seasonal changes in atmospheric temperature, pressure, humidity, and wind,
-were really restricted to observations made on land. It was plain that data obtained
-exclusively from observations made on land, which occupies little more than a fourth
-part of the earth's surface, were inadequate to a right conception and explanation of
-atmospheric phenomena.
-Accordingly, when the Challenger Expedition was fitted out in 1872, arrangements
-were made for taking, during the cruise, either hourly or two-hourly observations both
-of atmospheric phenomena and of the surface temperature of the sea ; and in addition,
-elaborate observations of sea temperatures and specific gravities of the sea-water at all
-depthis. Immediately on publication in the Preliminary Reports of the Expedition,
-the results of these observations were at once recognised to be of first importance in
-terrestrial physics, inasmuch as they opened up for discussion the broad question of
-oceanic circulation on a basis of accurate facts,
-It became more and more evident, as the examination of the results was proceeded
-with, that, for a right understanding of the questions raised, a full discussion of
-atmospheric phenomena was required as a necessary preliminary. Now, of these
-(PHYS. CHEM. CHALL. EXP.—PART VIII.—1895.)
-1
+REPORT ON OCEANIC CIRCULATION.
+5
+As regards the depths of the sea dealt with in this Report, the observations were
+entered in their places on the separate maps ; but it is right to state that at none of
+these depths, not even the 100 fathoms depth, are the observations sufficiently numerous
+to warrant the drawing of lines of equal specific gravity, except for comparatively
+restricted areas of any of the oceans. The standard temperature of 60° Fahr. adopted
+by Mr Buchanan in his Report has been employed, the standard density being that of
+distilled water at 39°-2 (4° C.). In all cases where the specific gravities have been
+published in accordance with other standards, they have been reduced to the above
+standard. The specific gravities taken from the publications of the Meteorological
+Council are all average specific gravities, many of them being the means of numerous
+observations, and on this account they are the best data at present available. By help
+of the numerous specific gravities observed by Admiral Makaroff in his cruise, and pub-
+lished in extenso by him, good averages were also obtained for portions of the route
+traversed by the “Vitiaz.”
+The influence of the protracted rainfall of the summer monsoon on the one hand,
+and virtually rainless weather tracks on the other, strongly impress their specific
+gravities over wide regions. The whole of the sea off Southern Asia, from Ceylon
+round to the Chinese Sea and northwards, during the summer months indicate specific
+gravities much lower than occur anywhere else on the globe in similar latitudes, being
+occasioned chiefly by the heavy rains of the summer monsoon on the coasts.
+On the other hand, all the data entered on the maps for depths of 100 fathoms and
+greater depths were simply single observations of specific gravity, and the same remark
+applies to the temperatures employed in constructing the maps. Specific gravities thus
+obtained, as well as single temperatures from the same depths, may be truly regarded
+as good annual means.
+There were really no correct observations of deep-sea temperatures till the Miller-
+Casella thermometer, and similar thermometers having their bulbs protected from
+outside
+pressure, came to be employed. For some time it was concluded that, even with
+bulbs so protected, it was necessary to reduce the observed readings, the rate proposed
+by Captain Davis being 0°:5 Fahr. for every mile of descent from the surface; and in
+accordance therewith the whole of the temperatures published in the seven Preliminary
+Reports of Ocean Soundings and Temperatures obtained by H.M.S. Challenger,
+1873-76, were corrected.
+After the return of the Challenger the thermometers used during the Expedition
+were handed over to Professor Tait, with a view to “the reduction of the deep-sea
+observations which were made on board the Challenger, in so far as these are affected
+by pressure.” The investigation, with the results, is published in the Challenger Reports.
+1 Report on the Pre
+vol. ii., Appendix A, 1882).
+Errors of the Challenger Thermometers, by Professor P. G. Tait (Narr.
+hall. Exp.,

@@ -1,107 +1,100 @@
+1017
 SUMMARY OF RESULTS.
-1015
-STATION 266.
+Station 266.
 1
-Staurosphæra thaddæi, Haeckel.
-Stylostaurus caudatus, Haeckel.
-Staurovipos gladius, Haeckel.
-Stauracontium setosum, Haeckel.
-llezastylus solonis, Haeckel.
-Hexalonche phænaconia, Haeckel.
-curvicornis, Haeckel.
-cristata, Haeckel.
-Herancistra tricuspis, Haeckel.
-Hleracontium florilum, Haeckel.
-llecacontarium dentatum, Haeckel.
-Ilexaloras octahedrum, Haeckel.
-Acanthosphæra tenuis, Haeckel.
-Halionma compactum, Haeckel.
-Cromyomma circumtextum, Haeckel.
-Acellipsis perforata, Haeckel.
-Ellipsostylus psittacus, Haeckel.
-Lithapium pyriforme, Haeckel.
-Druppula caryota, Haeckel.
-Prunulum frapulum, Haeckel.
-Lithatractus lobatus, Haeckel.
-jugatus, Haeckel.
-Druppatractus testudo, Haeckel.
-coronatus, Haeckel.
-Stylatractus neptunus, Haeckel.
-Pipetta salpint, Haeckel.
-Spongosiphus prunococcus, Haeckel.
-Artisius facetus, Haeckel.
-Stylartus bicuspis, Haeckel.
-Cyphanta circopora, Haeckel.
-Cyphonium profundum, Haeckel.
-Cannartidium mastophorum, Haeckel.
-Ommatocampe amphilonche, Haeckel.
-Zypocampe pupula, Haeckel.
-Trochodiscus cenophacus, Haeckel.
-Phacodiscus clypeus, Haeckel.
-Perizona pterygota, Haeckel.
-Sethostaurus orthostaurus, Haeckel.
-Phacostaurus oceanidum, Haeckel.
-Heliosestrum quadrigeminum, Haeckel.
-octogonium, Haeckel.
-Astrosestrum nauphanta, Haeckel.
-Heliodiscus trigonodon, Haeckel.
-polymorphus, Haeckel.
-marginatus, Haeckel.
-Amphicyclia chronometra, Haeckel.
-Hymenactura copernici, Haeckel.
-Astractura democriti, Haeckel.
-Archidiscus dithalamus, Haeckel.
-pyloniscus, Haeckel.
-polythalamus, Haeckei.
-A.coliscus stylophorus, Haeckel.
-8pinosus, Haeckel.
-Porodiscus deformis, Haeckel.
-Perichlamydium accrescens, Haeckel.
-Staurodictya grandis, Haeckel.
-Stylodictya centrospira, Haeckel.
-setigera, Ehrenberg.
-Amphirrhopalum echinatum, Haeckel.
-Stauralastrum antiquum, Haeckel.
-Pentinastrum asteriscus, Haeckel.
-Hexalastrum orchidaceum, Haeckel.
-Hexapyle circularis, Haeckel.
-Cenolarcus minimus, Haeckel.
-Larnacilla subglobosa, Haeckel,
-Larnacalpis subsphærica, Haeckel.
-Trizonium hexagonium, Haeckel.
-Tetrapylonium armatum, Haeckel.
-Staurotholus cruciatus, Haeckel.
-Streblonia polymorphina, Haeckel.
-Streblopyle helicina, Haeckel.
-Soreuma subglobosum, Haeckel.
-Sorolarcus larnacillifer, Haeckel.
-Tetraplecta quadricornis, Haeckel.
-Polyplecta enneacantha, Haeckel.
-Archicirrus princeps, Haeckel.
-primordialis, Haeckel.
-Lithocircus herablastus, Haeckel.
-Zygocircus sagittalis, Haeckel.
-dodecanthus, Haeckel.
-acacia, Haeckel.
-Cortina dendroulex, Haeckel.
-Stephanium quadrupes, Haeckel.
-Semantis biforis, Haeckel.
-Semantrum tetrastoma, Haeckel.
-Clathrocircus multiforis, Haeckel.
-Stephaniscus quadrifurcus, Haeckel.
-Semantiscus hexapodius, Haeckel.
-Zygostephanus serratus, Haeckel.
-Eucoronis perspicillum, Haeckel.
-Podocoronis dipociscus, Haeckel.
-Acrocubus cortina, Haeckel.
-Toxarium circospyris, Haeckel.
-Paratympanum hezastylum, Haeckel.
-Pseudocubus obeliscus, Haeckel.
-Eutympanium musicantum, Haeckel.
-Tripospyris cortiniscus, Haeckel.
-capitata, Haeckel.
-"
-I
+Theocampe sphärothorax, Haeckel.
+Theocapsa plinii, Haeckel.
+malpighii, Haeckel.
+darwinii, Haeckel.
+Stichopera ovata, Haeckel.
+Cyrtopera thoracoptera, Haeckel.
+Cystophormis armata, Haeckel.
+Stichophæna geetheana, Haeckel.
+Lithostrobus cornutus, Haeckel.
+Dictyomitra eurythorax, Haeckel.
+Lithomitra nodosaria, Haeckel.
+eruca, Haeckel.
+chrysalis, Haeckel.
+Eucyrtidium hexagonatum, Haeckel.
+Eucyrtidium teuscheri, Haeckel.
+ovatum, Haeckel.
+Eusyringium macrosiphon, Haeckel.
+Lithocampe multiseriata, Haeckel.
+heptacola, Haeckel.
+Stichocapsa hexacola, Haeckel.
+Artocapsa spinosa, Haeckel.
+Cannopilus cyrtoides, Haeckel.
+Aulospathis furcata, Haeckel.
+Sagenoscena cruciata, Haeckel.
+Aulosphæra sceptrophora, Haeckel.
+Challengeria quadridens, Haeckel.
+Culoiloras heragrapher, Haeckel.
+91
 !
-Stauractura octogona, Haeckel.
-Echinactura culcita, Haeckel.
+Surface Organisms.—The following species are recorded from the surface at this ORGANISMS FROM
+SURFACE-NETS.
+Station :-
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Actissa larcoides, Haeckel.
+Stylotrochus craticulatus, Haeckel.
+Thalassocanthium triactinium, Haeckel.
+Larcidium hexacanthum, Haeckel.
+Cenosphæra primordialis, Haeckel.
+Lithelius solaris, Haeckel.
+Plegmosphæra leptodictyon, Haeckel.
+Actinelius primordialis, Haeckel.
+Collosphæra pyriformis, Haeckel ().
+Litholophus pyramidalis, Haeckel.
+polyedra, Haeckel.
+Acanthochiasma spirale, Haeckel.
+Siphonosphæra macrosiphonia, Haeckel.
+Aranthometron cylintricum, Haeckel.
+Herastylidium spirale, Haeckel.
+bulliferum, Haeckel.
+Hesalonche senophanis, Haeckel.
+Zygacantha costata, Haeckel.
+Hecacontium axophænum, Haeckel.
+Acanthonia denticulata, Haeckel.
+papillosum, Haeckel.
+diplopyramis, Haeckel.
+Acanthosphæra capillaris, Haeckel.
+Lithophyllium condylatum, Haeckel.
+Heliosphæra polygonaria, Haeckel.
+Phractacantha lipennis, Haeckel.
+Clarococcus pinetum, Haeckel.
+Xiphacantha crucifera, Haeckel.
+Haliomma arachnium, Haeckel.
+Stauracantha bifurca, Haeckel.
+spinulosum, Müller.
+Quadrilonche tetrastaura, Haeckel.
+wycillei, Haeckel.
+Amphilonche conica, Haeckel.
+Heliosoma radians, Haeckel.
+acufera, Haeckel.
+Elatomma pinetum, Haeckel,
+Acantholonche amphipolaris, Haeckel.
+Diplosphæra hexagonalis, Haeckel.
+Hystrichaspis divaricata, Haeckel.
+Astrosphæra sideræa, Haeckel.
+Stauraspis furcata, Haeckel.
+Actinomma capillaceum, Haeckel.
+Echinaspis echinoides, Haeckel.
+arcadophorum, Haeckel.
+Lychnarpis wagenschieberi, Haeckel.
+Arachnopila polygonella, Haeckel.
+Icosaspis cruciata, Haeckel.
+Arachnopegma verticillatum, Haeckel.
+Arachnosphæra dolichacantha, Haeckel.
+Phractopelta tessaromma, Haeckel.
+Octodendron cubocentron, Haeckel.
+Dorypelta glaviata, Haeckel.
+Cenellipsis ovulum, Haeckel.
+Coleaspis coronata, Haeckel.
+Spongodruppa lentisca, Haeckel,
+Diploconus hexaphyllus, Haeckel.
+Cypassis puella, Haeckel.
+Tetraplagia geometrica, Haeckel.
+Plectanium sphærozoum, Haeckel.
+Dentrocircus arborescens, Haeckel.
+1
+Heliosestrum medusinum, Haeckel.

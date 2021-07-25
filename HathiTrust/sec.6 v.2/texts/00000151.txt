@@ -1,73 +1,42 @@
 SUMMARY OF RESULTS.
-911
-AND 233A
-Moseley writes: “In dredging at Kobé a fish (Amblyopus) was obtained, which is Stations 233
-almost devoid of eyes, has the skin naked, except towards the tail, where there are
-rudimentary scales. An elevated crest or ridge-like organ runs along the middle of the
-top of the snout, and is continued on the chin ; this on examination proved to be a
-sense-organ. It was richly provided with nerves, which go to the bottoms of long
-pits opening externally, and traversing them are connected all round with a system
-of elongate radially-disposed cells within these pits. The ridge itself is made up of
-a great thickening of the epithelial layer of the skin, the epithelial cells being elongated.
-The fish is of a bright red colour when fresh, from the blood showing through the
-transparent skin."
-Willemoes-Suhm writes : “ Moseley found a remarkable fish, living in the mud at
-8 fathoms, of a pale reddish colour and with a peculiar organ on its nose. In shape it
-was like an Ophidium, and must have been plentiful in the bay, as nearly every haul
-brought up a specimen. Moseley also got many tubes and animals of Chætopterus, a
-genus I have not seen since leaving Europe.”
-DIATOMACEÆ.—The following species of Diatoms were observed by Mr. Rattray in ORGANISMS FROM
-the deposit from Station 233 :
-THE DEPOSIT.
-Campyloliscus unlulatus, Greville.
-kittonianus, Greville.
-dæmelianus, Grunow.
-latus, Shadbolt, var.
-bicostatus, W. Smith, var.
-samoensis, Grunow.
-Campylodiscus echineis, Ehrenberg.
-Surirella fastuosa, Ehrenberg.
-fluminensis, Grunow, var.
-sp. (?).
-Coscinodiscus oculus-iridis, Ehrenberg.
-var. loculifera, Rattray.
-concinnus, W. Smith, var. jonesiana,
-Rattray.
-radiatus, Ehrenberg.
-nobilis, Grunow.
-normanii, Gregory.
-rex, Wallich,
-decussatus, Grove and Sturt.
-gigas, Ehrenberg, var. diorama,
-Grunow.
-perforatus, Ehrenberg.
-apiculatus, Ehrenberg, var, ambigua,
-Grunow.
-marginatus, Ehrenberg.
-Hyalodiscus stelliger, Bailey ( = Podosira maculata,
-W. Smith, Craspedodiscus stella,
-Ehrenberg).
-subtilis, Bailey.
-Actinocyclus ehrenbergii, Ralfs.
-Arachnoidiscus ornatus, Ehrenberg, var.
-Actinoptychus undulatus, Ehrenberg.
-Melosira sulcata, Kutzing, var. biseriata, Grunow.
-sp. (0)
-Hemidiscus cuneiformis, Wallich.
-var.
-Triceratium favus, Ehrenberg.
-Alloroneis antillarum, Cleve.
-Navicula spectabilis, Gregory.
-lyra, Ehrenberg, elliptica, A.
-Schmidt.
-crabro, Kutzing.
-major, Kutzing (fresh water).
-Nitzschia plana, W. Smith.
-(Tryblimella) salinarum, Grunow.
-punctata, Grunow, var. coarctata, Grunow.
-Pleurosigma æstuarii, W. Smith.
-strigosum, W. Smith.
-balticum, W. Smith.
-Biddulphia pulchella, Gray.
-Thalassiothrix frauenfeldii, Grunow.
-99
+913
+STATION 233B.
+OSTRACODA (Brady, Zool. pt. 3).
+Cythere acupunctata, n.sp. Obtained at no other locality.
+bicarinata, n.sp.
+Obtained at no other locality.
+cymba, Brady. Obtained also at Hong Kong.
+quadriaculeata, n.sp. Obtained also at Sandwich Islands, 40 fathoms.
+hodgii, Brady. Numerous specimens ; obtained at no other locality by the
+Challenger. Recorded from Levant (?) and Malay Archipelago.
+darwini, Brady. Obtained also at Hong Kong.
+scabrocuneata, n.sp. Obtained also at Station 162 and Wellington
+Harbour, N.Z.
+Krithe hyalina, n.sp.
+Obtained at no other locality.
+Lococoncha sinensis, Brady. Obtained also at Hong Kong.
+STOMATOPODA (Brooks, Zool. pt. 45).
+Squilla nepa, Latreille.
+Latreille. One specimen ; obtained also at Station 233, Yokoska, and
+Sandwich Islands.
+fasciata, De Haan. Two specimens; obtained at no other locality by the
+Challenger. Recorded from Japan.
+MACRURA (Spence Bate, Zool. pt. 52).
+Penæus velutinus, Dana. Two specimens; for distribution see Station 184.
+[Recorded in error from Station 234].
+Crangon affinis, De Haan. Four specimens ; obtained also at Station 233.
+Alpheus avarus, Fabricius. One specimen; for distribution see Station 172.
+[Recorded in error from Station 234].
+BRACHYURA (Miers, Zool. pt. 49).
+Neptunus (Amphitrite) hastatoides (Fabricius). Three specimens ; obtained also at
+Stations 188, 233, and Hong Kong.
+Pilumnoplax vestita (De Haan), var. sexdentata, Haswell. One specimen;
+obtained also at Yokoska. Recorded from Japan
+and Australia.
+Arcania septemspinosa (Fabricius). Three specimens ; obtained also at Kobé and
+Hong Kong
+GASTEROPODA (Watson, Zool. pt. 42).
+Nassa (Zeuxis) crenulata, Bruguière. Obtained also at Stations 233 and 233c.
+Philine sp. (?).
+In addition to the foregoing, the Station-book records :–Holothuria, many Caridid
+shrimps, Solea, and Platycephalus.

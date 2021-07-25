@@ -1,99 +1,38 @@
 SUMMARY OF RESULTS.
-961
-Station 246 (Sounding 388), Yokohama to Sandwich Islands (see Chart 36 and
-Diagram 17).
-July 2, 1875; lat. 36° 10' N., long. 178° 0' E.
-Temperature of air at noon, 73°:3; mean for the day, 73°:4.
-Temperature of water :
-.
-Surface,
-10 fathoms,
-20
-30
-40
-50
-75
-100
-125
-150
-175
-200
-225
-250
-275
-73.0
-67.0
-63:0
-60.4
-59.0
-584
-57.8
-57.0
-56.2
-55.3
-54:2
-53.0
-52:0
-50.4
-48.9
-300 fathoms,
-400
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-46:9
-41.8
-39.7
-38:3
-37:4
-37.0
-36.7
-36.4
-36:1
-35.9
-35.6
-35:3
-35.1
-35:1
-9
-Density at 60° F:-
-Surface,
-25 fathoms,
-50
-100
-200
-1.02567
-1.02563
-1.02568
-1:02563
-1.02544
-300 fathoms,
-400
-1000
-Bottom,
-1.02544
-. 1.02527
-: 1:02531
-1:02572
-Depth, 2050 fathoms ; deposit, Globigerina Ooze, containing 56:07 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 5 A.M. put trawl over. At 6 A.M. brought ship to wind and sounded in
-2050 fathoms. Obtained serial temperatures down to 1500 fathoms. The carbonic acid
-was determined in water from 1000 fathoms and from the bottom, and amounted
-respectively to 50-7 and 47.5 milligrammes per litre. At 1.30 P.M. commenced
-heaving in trawl, which came up at 3.45 P.M. with numerous specimens and many
-pumice-stones. At 4 P.M. proceeded under steam.
-Honolulu distant at noon, 1554 miles. Made good 88 miles.
-Amount of current
-28 miles, direction N. 14° E.
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :-
+963
+STATION 246.
+CIRRIPEDIA (Hoek, Zool. pt. 25).
+Scalpellum gigas, n.sp. Two specimens ; obtained at no other locality.
+abyssicola, n.sp. One specimen ; obtained at no other locality.
+IsoPODA (Beddard, Zool. pt. 48).
+Ischnosoma thomsoni, n.sp. One specimen; obtained at no other locality.
+Typhlotanais kerguelensis, n.sp. One specimen ; obtained also at Station 149.
+brachyurus, n.sp. Three specimens; obtained at no other locality.
+Bathytanais bathybrotes, n.g., n.sp. One specimen ; obtained also at Port Jackson.
+Only species of the genus.
+Macrostylis latifrons, n.sp. One specimen ; obtained at no other locality.
+CUMACEA (Sars, Zool. pt. 55).
+Leucon tenuirostris, n.sp. One specimen ; obtained at no other locality.
+MACRURA (Spence Bate, Zool. pt. 52).
+Aristeus armatus, n.sp. One specimen ; obtained also at Stations 133, 184, 213,
+237, 276, and 323.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Nucula profundorum, n.sp. Obtained at no other locality.
+Sarepta abyssicola, n.sp. Obtained also at Station 281, 2385 fathoms.
+Arca (Barbatia) pteroessa, n.sp. Many specimens ; obtained also at Stations 16,
+24, 71, 73, and 237.
+SCAPHOPODA and GASTEROPODA (Watson, Zool. pt. 42).
+Dentalium keras, n.sp.
+Several specimens; obtained also at Station 299,
+2160 fathoms.
+acutissimum, n.sp.
+Obtained also at Station 218.
+Basilissa lampra, n.g., n.sp.
+One specimen; obtained at no other locality.
+Pleurotoma (Surcula) rotundata, n.sp. One specimen ; obtained at no other locality.
+Cithna margaritifera, n.sp. One specimen ; obtained at no other locality.
+BRACHIOPODA (Davidson, Zool. pt. 1).
+Discina atlantica, King. Many specimens ; for distribution see Station 106.
+TUNICATA (Herdman, Zool. pt. 38).
+Styela pusilla, n.sp.
+One specimen ; obtained at no other locality.

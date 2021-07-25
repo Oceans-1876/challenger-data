@@ -1,40 +1,41 @@
 REPORT ON SPIRULA.
-19
-median and posterior infra-cesophageal ganglia (Pl. III. Au.; Pl. V. fig. 3, Au.). It is
-filled with a clear liquid and contains a great otolithic mass; the walls are of very great
-delicacy.
-C. The eye is joined to the interior of the ocular chamber, in the first place by the
-sclerotic ligament (Pl. VI. fig. 13, sc.lig.), and in the second place by the fibres of the
-optic nerve traversing the perineural cartilage which bounds the posterior and superior
-sides of the orbit.
-The great ocular sphere is thus completely separated from the ocular chamber in which
-it is enclosed, and which opens externally by the palpebral or “corneal" orifice (Pl. VI.
-fig. 13, ap.). It is really a pedunculated eye, enclosed in the sides of the head, as is the
-case in all the Dibranchiates. Spirula is therefore with regard to the eye a typical
-Egopsid, contrary to the assertions of Gray and Steenstrup.?
-The palpebral opening is irregularly oval, angular inferiorly and in front; it measures
-one-tenth of an inch at its long diameter. The iris 3 has two concentric layers of deep
-brown pigment; the “pupilary” opening is relatively very small, and the centre of the
-great crystalline lens (rendered opaque by the action of the alcohol) entirely fills it.
-III. DIGESTIVE SYSTEM.
-The mouth, situated in the middle of the oral disk, is surrounded by two lips, of which
-the exterior is the thickest (Pl. III., l.e.). The internal surface of the two lips is provided
-with compact longitudinal folds.
-The mandibles have a horny aspect, a sharply-cutting margin, and a dark brown-
-black colour, as in the other Dibranchiates. From the middle of the floor of the buccal
-cavity, enclosed by the mandibles, arises a prominence almost entirely filling this cavity.
-A transverse dorsal depression divides this prominence into two masses, one anterior
-and the other posterior; the anterior one is soft and papillary, representing the tongue
-or so-called gustatory organ,' and the posterior one is the radula or odontophore.
-This last is divided by a rather deep longitudinal furrow into two lobes, the crests of
-which carry the lateral pointed and recurved teeth.”
-The salivary glands consist of two pairs, as in the Egopsids (for example,
-Ommatostrephes, Fig. L). The anterior glands are two little elongated glandular bodies,
-situated between the buccal mass and that part of the esophagus which is found in front
-1 Gray, Catalogue of the Mollusca, p. 114.
-2 Steenstrup, op. cit., p. 237.
-3 It is the fold formed before the true cornea, under the false external cornea.
-4 This “tongue” cannot be a sensorial organ, being in all the Cephalopods covered by a thick uninter-
-rupted cuticle.
-5 Unfortunately, a satisfactory view of the radula cannot be given, the preparation having been spoiled
-in attempting to take out the lingual teeth ; what was seen of it is represented, much magnified, in Pl. VI. fig. 7.
+23
+The ventricle is pointed behind and in front, each point being the origin of an aorta,
+but the two aortæ are not in the same line, the anterior being oblique from the outside
+towards the axis (Fig. P, vii).
+The cephalic or anterior aorta, properly so-called, is directed towards the head ; its
+distribution has not been followed in the incomplete specimen of Spirula reticulata
+examined, but in Spirula peronii a principal branch passes (as in other Cephalopods)
+between the pedal and visceral centres (Pl. V. fig. 4, ar.). The short posterior aorta
+(Fig. P) gives off immediately to the left a recurrent branch (“anterior” aorta), which
+supplies the rectum, and at least in part the genital organs (this is a character of the
+Egopsids, this vessel arising anteriorly and directly from the ventricle in the Myopsids ;
+the disposition observed in Spirula and the Egopsids is evidently primitive, the parts
+supplied by this artery being morphologically posterior). It then immediately arrives
+at the shell and bifurcates, giving, on each side of the shell, a pallial branch (Fig. P, iv),
+which continues as far as the terminal disk and fins.
+The vena cava is situated quite ventrally, its terminal portion (posterior) being
+alone visible in the incomplete specimen of Spirula reticulata examined. It receives
+a trunk from the back, which traverses the bottom of the little visceral sac of the last
+chamber; this trunk comes from the reunion of the two veins arising from the sinuses
+surrounding the stellate ganglia, veins accompanying the commissure of this last, and its
+median nerve (Fig. N, iv and ii). At the back of the anus, under the junction of the
+visceral nerves, the vena cava divides into two branches directed backwards and towards
+the sides (Fig. S); each of them passes into a renal sac (see further on), these
+uniting to the corresponding abdominal vein (Fig. S, vi), which presents the enlargement
+characteristic of Decapods (Pl. VI. fig. 8, v.v.), then uniting further to the pallial vein (Fig.
+S, viii) in forming the branchial heart (Fig. S, vii). This last (Pl. VI. br.h. ; Pl. IV. figs. 2
+and 4, br.h.), flattened dorso-ventrally, carries a little ventral appendage directed towards
+the median line (Pl. VI. fig. 8, br.app. ; Fig. S, iii), which in Spirula peroniï appears
+villous (Pl. IV. fig. 4, a) like the pericardial gland of Nautilus, to which it morphologi-
+cally corresponds. From the branchial heart arises the afferent branchial vessel, shorter
+on the right than on the left (Fig. S, ix) and passing to the surface of the visceral sac
+on the ventral side of the oviduct (Pl. IV. fig. 5, br.a.). This afferent branchial vessel
+passes to the dorsal side of the branchial axis. The branchials, situated quite laterally
+almost near the dorsal surface, have already been described (see pallial cavity). The
+efferent branchial vessels occupy the ventral side of the branchial axis; on leaving the
+branchia, they pass before the afferent vessels which are parallel to them, then at the
+back of these last and the kidneys. That on the right side is much shorter than that on
+the left (as in Ommatostrephes, Loligo, &c., see Fig. P, i, and Pl. VI. fig. 8, aur. aur'.); it
+is also more swollen, constituting an apparent auricle, whilst to the left the branchio-
+cardiac vessel is long with a tolerably constant diameter. The two trunks, contractile in

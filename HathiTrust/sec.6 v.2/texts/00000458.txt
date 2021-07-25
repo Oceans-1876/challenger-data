@@ -1,87 +1,38 @@
-ak
-77
-1186
+1188
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 319.
-1
-down to 1500 fathoms. At 11.15 A.M. made sail. The same birds as noted at the
-previous Station were seen, along with a very small species of Thalassidroma.
-Lobos Island distant at noon, 410 miles. Made good 86 miles. Amount of current
-21 miles, direction S. 48° E.
-ORGANISMS FROM
-SURFACE NETS.
-gemma, Dana.
-Surface Organisms.— The following species are recorded from the surface at this
-Station :-
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Saphirina opaca, Lubbock.
-Cypassis eucolpos, Haeckel.
-Amphibrachium dilatatum, Haeckel.
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Larnacospongus larnacillifer, Haeckel.
-Primno sp. (?).
-Challengeria thomsoni, Murray.
-TUNICATA (Herdman, Zool. pt. 76).
-COPEPODA (Brady, Zool. pt. 23).
-Salpa runcinata - fusiformis,
-Saphirina ovalis, Dana.
-Chamisso—Cuvier.
-inæqualis, Dana.
-democratica - mucronata,
-reticulata, n.sp.
-Forskål.
-In addition, the following are recorded in the note-books :-Peridinium tripos,
-Globigerina, Acanthometra and compound Radiolaria, Medusæ, Ctenophoræ, Echinoderm
-larvæ, Hyperids, Phronima, larvæ of Euphausia. The stomachs of the Salpæ contained
-Coccospheres, Diatoms, and Peridinium. It was curious to note the absence of the small
-red Copepods so abundant on the previous day, their place being taken by several species
-of Saphirina and a few blue Copepods. Sharks and flying fishes were seen.
 STATION 320.
-a
-o
-.
-Station 320 (Sounding 407), Falkland Islands to Rio de la Plata (see Chart 42
-and Diagram 22).
-February 14, 1876 ; lat. 37° 17' S., long. 53° 52' W.
-Temperature of air at noon, 66°:8; mean for the day, 62°:5.
-Temperature of water :-
-Surface,
-67.5
-250 fathoms,
-39.5
-25 fathoms,
-60.0
-275
-39.3
-50
-46.0
-300
-39.1
-75
-44:0
-350
-38.8
-100
-43.0
-400
-38.4
-125
-42-0
-450
-38.2
-150
-41.0
-500
-37.9
-175
-40:3
-550
-37.6
-200
-40.0
-Bottom,
-37.2
-225
-39.8
->
-le
+Axinella (?) tubulosa, n.sp. One specimen ; obtained at no other locality.
+Suberites caminatus, n.sp., var. Several specimens ; obtained also Station 145.
+axiatus, n.sp. A few specimens ; obtained at no other locality.
+Latrunculia apicalis, n.sp. Two specimens ; obtained also at Station 149.
+brevis, n.sp. Ten specimens ; obtained at no other locality.
+TETRACTINELLIDA (Sollas, Zool. pt. 63).
+Tetilla leptoderma, n.sp. Six specimens ; obtained at no other locality.
+HEXACTINELLIDA (Schulze, Zool. pt. 53).
+Rossella antarctica, Carter. Several specimens; obtained also at Stations 145, 149,
+and 150.
+ALCYONARIA (Wright and Studer, Zool. pt. 64).
+Primnoisis rigida, n.g., n.sp. Obtained at no other locality.
+Stenella acanthina, n.sp. Several specimens ; obtained at no other locality.
+Primnoella magellanica, Studer. Obtained at no other locality by the Challenger.
+Recorded from Magellan Strait.
+murrayi, n.sp. Obtained at no other locality.
+Sympodium verrilli, n.sp. Obtained at no other locality.
+PENNATULIDA (Kölliker, Zool. pt. 2).
+Anthoptilum thomsoni, n.g., n.sp. Nine specimens ; obtained at no other locality.
+ACTINIARIA (Hertwig, Zool. pt. 73).
+Phellia spinifera, n.sp.
+One specimen ; obtained also at Station 311.
+CORALS (Moseley, Zool. pt. 7).
+Sporadopora dichotoma, n.g., n.sp. Many specimens ; obtained at no other locality.
+Only species of the genus.
+Errina labiata, n.sp. Several specimens ; obtained also at Station 135.
+Spinipora echinata, n.g., n.sp. Two specimens; obtained at no other locality.
+Only species of the genus.
+Stylaster densicaulis, n.sp. Two or three specimens ; obtained at no other locality.
+Allopora profunda, n.sp. Two specimens ; obtained at no other locality.
+Cryptohelia pudica, M.-Edwards and Haime. Many specimens ; for distribution
+see Station 3.
+Cyathoceras cornu, n.g., n.sp. One specimen ; obtained also at Station 163. The
+only other species of the genus (Cyathoceras rubescens) was
+taken at Station 192.

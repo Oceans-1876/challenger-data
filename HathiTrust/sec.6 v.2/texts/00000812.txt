@@ -1,182 +1,184 @@
-1530
+1534
 THE VOYAGE OF H.M.S. CHALLENGER.
-Ninella (see Turbo).
-Niotha (see Nassa).
-Niphon,
-spinosus, 926, 1419.
-Nitocris,
-rosea, 740.
-Neptunus,
-(Achelous),
-depressifrons, 244, 1392.
-granulatus, 831, 860, 1392, 1425.
-unispinosus, 701, 1392, 1425.
-whitei, 725, 1392.
-(Amphitrite),
-gladiator, 725, 1392.
-var. argentatus, 819.
-hastatoides, 725, 795, 900, 913,
-1392, 1425.
-hastatus, 136, 1392.
-rugosus, 701, 806, 819, 1392,
-1425.
-spinipes, 806, 1392.
-tuberculosus, 736, 1392.
-(Hellenus),
-spinicarpus, 359, 1392.
-(Neptunus),
-pelagicus, 785, 1392.
-sanguinolentus, 561, 770, 997,
-1392, 1425.
-sayi, 188, 226, 1268, 1392.
-Nereis, 122.
-antillensis, 169, 1381.
-atlantica, 308, 1381.
-kerguelensis, 465, 1381.
-longisetis, 121, 1295.
-patagonica, 1169, 1381.
-(Ceratonereis),
-brasiliensis, 358, 1381.
-(Lycoris),
-pelagica, 225, 1381.
-(Perinereis),
-melanocephala, 242, 1381.
-(Platynereis),
-arafurensis, 722, 1331.
-dumerilii, 308, 1381.
-eatoni, 343, 435, 465, 1176, 1381,
-1424.
-kobiensis, 907, 1381.
-tongatabuensis, 624, 1381.
-Nerita,
-albicilla, 651, 1404.
-ascensionis, 345, 1404.
-chamäleon, 832, 1404.
-punctata, 567, 1404.
-tessellata, 176, 1347.
-Neritina, 657, 1404.
-Nettastoma,
-parviceps, 901, 1354.
-Neverita (see Natica).
-Nicidon,
-balfouriana, 614, 1319.
-Nicomache, 1450.
-benthaliana, 947, 1285.
-capensis, 409, 1381.
-japonica, 899, 1338.
-Nika,
-processa, 763, 1387.
-Nitzschia,
-acuminata, 733.
-apiculata, 442.
-forma minuta, 930.
-bilobata, 197.
-circumsuta, 191.
-constricta,
-var, antarctica, 515.
-var. similis, 481, 492, 515.
-forma parva, 733.
-distans, 442, 481, 904.
-dubia, 733, 930.
-insignis, 287, 442.
-jelinekii, 130, 904, 938.
-linearis,
-var, tenuis, 973.
-longissima,
-var. reversa, 733.
-mammalis, 733.
-marina, 197, 220, 264, 278, 287,
-302, 319, 403, 405, 492, 760,
-888, 904, 938, 1012, 1027,
-1043.
-obesa, 812.
-panduriformis, 130, 135, 191,
-197, 278, 287, 303, 812, 904,
-1027.
-plana, 130, 191, 197, 287, 812,
-911.
-punctata,
-var, coarctata, 911.
-pungens, 930.
-recta, 904.
-scalaris, 517, 888, 892.
-sigma, 733, 930.
-socialis,
-var. indica, 733, 930.
-spathulata, 130.
-vermiculata, 812.
-weissflogii, 904.
-(Tryblimella),
-salinarum, 911.
-Noctiluca, 317, 318, 416, 790, 796, 800,
-848, 849, 850, 893, 894, 895, 916,
-920, 931, 932, 940, 941, 942, 943,
-1119, 1127, 1270.
-Nodosaria, 79, 124, 134, 153, 166, 196,
-200, 261, 295, 400, 427, 522,
-582, 605, 641, 1026, 1059,
-1085, 1092, 1104, 1131.
-abyssorum, 1112.
-calomorpha, 480, 1181, 1217,
-1231.
-catenulata, 686.
-Nodosaria-continued.
-comata, 115, 166, 182, 196, 198.
-communis, 134, 139, 145, 152,
-166, 182, 196, 211, 215, 261,
-342, 354, 480, 511, 529, 581,
-589, 605, 631, 640, 641, 671,
-686, 858, 937, 965, 1037, 1067,
-1071, 1085, 1092, 1104, 1112,
-1131, 1154, 1158, 1217, 1226,
-1247, 1253.
-consobrina, 261, 424, 641, 1131.
-var, emaciata, 182, 196, 424,
-581, 686, 1112
-costulata, 166, 182, 196.
-farcimen, 182, 354, 1131.
-filiformis, 134, 166, 182, 196,
-427, 1201.
-hispida, 166, 182, 196, 581, 686,
-862, 1226.
-var. sublineata, 196, 354,
-1131.
-inflexa, 581, 686, 1067, 1131.
-intercellularis, 166, 182, 196,
-1112.
-obliqua, 134, 166, 182, 198, 215,
-295, 319, 354, 424, 427, 419,
-581, 610, 641, 686.
-perversa, 196, 400, 424, 1092.
-plebeia, 686, 1131.
-proxima, 134, 631, 686, 1002.
-pyrula, 134, 166, 581, 631, 641,
-686, 903, 1071, 1163.
-radicula, 424, 605, 686, 1247.
-raphanus, 166, 182, 215, 261,
-582, 631, 641, 686, 1131.
-roemeri, 134, 166, 182, 196, 529,
-686, 876.
-scalaris, 115, 134, 198, 295, 424,
-427, 582, 686, 903, 949.
-var, separans, 582.
-simplex, 134, 211, 605.
-soluta, 115, 134, 166, 182, 196,
-215, 286, 354, 582, 610, 686.
-rar. striata, 196.
-subcanaliculata, 166, 1071.
-verruculosa, 1112, 1131.
-vertebralis, 134, 166, 182, 196,
-427, 686, 1085.
-(Dentalina),
-mucronata, 196, 211, 319, 427,
-429, 664, 903, 1037, 1067,
-1104, 1131, 1136, 1217, 1247.
-pauperata, 1162.
-(Glandulina),
-æqualis, 182, 424, 1085, 1126,
-1201.
-lævigata, 115, 134, 166, 182, 286,
-424, 449, 581, 605 858, 965,
-1037, 1112, 1131, 1154, 1162.
-rotundata, 153, 427, 449, 582.
+Ophioglypha-continued.
+imbecillis, 898, 1335.
+inermis, 393, 1318.
+inornata, 332, 1293.
+intorta, 434, 1377.
+irrorata, 114, 426, 577, 1293,
+1300, 1335, 1355.
+jejuna, 393, 577, 1304, 1312, 1318,
+1325, 1335.
+kinbergi, 531, 537, 556, 720,
+1377, 1423.
+lacazei, 527, 1123, 1278, 1280,
+1285.
+lapidaria, 918, 1318.
+lepida, 110, 213, 217, 241, 279,
+1239, 1304, 1310, 1312, 1318,
+1324, 1325, 1335.
+lienosa, 507, 1293.
+ljungmani, 357, 1335.
+loveni, 445, 452, 507, 519, 527,
+1278, 1281, 1293, 1298, 1299,
+1304.
+lymani, 1140, 1142, 1148, 1151,
+1155, 1160, 1169, 1335, 1355,
+1358, 1377, 1423,
+meridionalis, 1182, 1189, 1304,
+1312, 1318.
+minuta, 445, 519, 1088, 1285,
+1288, 1289, 1293, 1299, 1304.
+multispina, 556, 1377.
+orbiculata, 934, 1293.
+ornata, 585, 847, 1278, 1280, 1285.
+palliata, 577, 1335.
+ponderosa, 898, 1335.
+radiata, 792, 1304.
+rugosa, 607, 1318.
+sarsii, 224, 1377.
+sculptilis, 934, 1293.
+sinensis, 912, 923, 1377, 1423.
+solida, 746, 1335.
+undata, 665, 667, 1335.
+undulata, 875, 1293.
+variabilis, 172, 758, 1304, 1312,
+1335.
+Ophiogymna,
+elegans, 785, 1377.
+Ophiohelus,
+pellucidus, 663, 1304.
+Ophiolebes,
+scorteus, 434, 452, 1293, 1300,
+1335.
+vestitus, 1148, 1151, 1157, 1335,
+1355.
+Ophiolepis, 1130, 1162.
+annulosa, 694, 769, 1377, 1423.
+cincta, 694, 827, 1377, 1423.
+Ophiomastix, 624, 1377.
+caryophyllata, 646, 828, 1377,
+1423.
+mixta, 646, 1377.
+Ophiomastus, 420, 1335.
+tegulitius, 577, 585, 591, 855,
+1278, 1281, 1282, 1304, 1312,
+1335, 1355.
+texturatus, 632, 1335.
+Ophiomaza,
+cacaotica, 695, 1377, 1423.
+Ophiomitra, 259, 1293.
+carduus, 296, 1293.
+chelys, 141, 193, 292, 293, 1293,
+1299, 1300, 1304, 1310, 1312,
+1335.
+dipsacos, 172, 1335.
+normani, 899, 918, 921, 1318,
+1324, 1325, 1335.
+plicata, 613, 792, 840, 1304,
+1312, 1318, 1324.
+sarsii, 445, 1304.
+Ophiomusium, 120, 122.
+archaster, 1198, 1293.
+armigerum, 291, 332, 1124, 1216,
+1285, 1288, 1293, 1298.
+cancellatum, 193, 921, 1318,
+1326, 1335.
+corticosum, 875, 1293.
+flabellum, 556, 1377.
+granosum, 934, 1293.
+laqueatum, 746, 1335.
+lunare, 864, 1335.
+liitkeni, 746, 1335.
+lymani, 114, 120, 213, 229,
+279, 393, 607, 738, 918, 1110,
+1293, 1299, 1300, 1304, 1310,
+1312, 1318, 1324, 1326, 1335.
+planum, 114, 1335.
+pulchellum, 296, 357, 420, 1293,
+1300, 1335, 1355.
+scalare, 619, 1318.
+serratum, 162, 1336.
+simplex, 762, 1336.
+validum, 162, 172, 1336, 1355.
+Ophiomyces, 1450.
+grandis, 393, 1304.
+spathifer, 918, 1318.
+Ophiomyxa, 1162.
+australis, 339, 531, 537, 548,
+593, 624, 633, 762, 780, 1336,
+1355, 1358, 1377, 1423.
+flaccida, 202, 375, 1377, 1423.
+vivipara, 420, 1151, 1169, 1173,
+1336, 1355, 1358, 1377, 1423.
+Ophionereis,
+dubia, 135, 646, 762, 1336, 1358,
+1377, 1423.
+porrecta, 995, 1377.
+reticulata, 241, 374, 1377, 1423.
+schayeri, 537, 720, 906, 1377.
+Ophiopeza,
+æqualis, 864, 1336.
+aster, 419, 1336.
+Ophiopeza-continued.
+yoldii, 548, 1336.
+Ophiopholis,
+aculeata, 224, 1377.
+japonica, 918, 921, 1318, 1324.
+Ophiophyllum, 1182, 1304, 1327.
+petilum, 619, 637, 131, 1324.
+Ophioplinthus, 1301.
+grisea, 503, 1293.
+medusa, 503, 1293.
+Ophiopyren, 1361.
+brevispinus, 633, 1336.
+longispinus, 162, 172, 193, 1336,
+1355.
+Ophiopyrgus, 1361.
+wyville-thomsoni, 624, 1336.
+Ophiosciasma, 1361.
+attenuatum, 357, 1336.
+Ophioscolex,
+dentatus, 420, 1336.
+tropicus, 172, 1336.
+Ophiostigma,
+africanum, 307, 1377.
+Ophiothamnus, 601, 792, 1304.
+remotus, 420, 1336.
+vicarius, 162, 1336.
+Ophiotholia, 1301.
+supplicans, 1110, 1293.
+Ophiothrix, 1220.
+angulata, 202, 343, 374, 1377,
+1423.
+aristulata, 420, 531, 548, 1336,
+1355, 1358, 1377.
+berberis, 746, 810, 1336, 1358,
+1377.
+cæspitosa, 556, 1377.
+capillaris, 788, 810, 1336, 1358,
+1377.
+ciliaris, 810, 828, 906, 1377.
+exigua, 721, 805, 1377, 1423.
+longipeda, 624, 646, 694, 720,
+769, 828, 1377, 1423.
+lütkeni, 270, 1336.
+martensi, 647, 1377.
+melanosticta, 721, 1377.
+nereidina, 828, 1377.
+propinqua, 623, 646, 828, 1377,
+1423.
+purpurea,
+757, 1377,
+1423.
+pusilla, 805, 1377.
+stelligera, 646, 695, 720, 828,
+1377, 1423.
+striolata, 805, 828, 1377.
+suensonii, 202, 1377.
+triglochis, 408, 1377.
+trilineata, 624, 1377.
+virgata, 805, 1377.
+Ophiotrochus, 1314.
+panniculus, 855, 1304.
+668,

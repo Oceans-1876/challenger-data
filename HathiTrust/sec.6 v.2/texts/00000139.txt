@@ -1,42 +1,45 @@
 SUMMARY OF RESULTS.
-899
+901
 STATION 232.
-Ophiomitra normani, n.sp. Obtained also at Stations 235 and 236, 420 to
-775 fathoms.
-Ophiocreas caudatus, n.sp. Obtained at no other locality.
-Astrony.c loveni, Müller and Troschel. Obtained also at Station 49.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Phormosoma bursarium, n.sp. Obtained also at Stations 200 and 205.
-Echinus norvegicus, Düben and Koren. For distribution see Station 46.
-Pourtalesia laguncula, n.sp. Obtained also at Stations 168, 169, 191, and 244.
-Linopneustes murrayi, n.g., n.sp.
-Obtained also at Station 210. Only species of
-the genus.
-Hemiaster gibbosus, n.sp. Obtained also at Station 191.
-Brissopsis luzonica (Gray). Obtained also at Stations 168, 188, 191, and 203.
-Schizaster ventricosus, Gray. Obtained at no other locality by the Challenger.
-HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
-Lætmogone wyville-thomsoni, n.g., n.sp. (?). One specimen ; obtained also at
-Stations 147, 158, and 300.
-Synapta aculeata, n.sp. One specimen; obtained at no other locality.
-Ankyroderma simile, n.sp. One specimen ; obtained at no other locality.
-NEMERTEA (Hubrecht, Zool. pt. 54).
-Eupolia nipponensis, n.sp. Several fragments ; obtained at no other locality.
-Cerebratulus macroren, n.sp. Obtained also at Station 169.
-sp. (?).
-ANNELIDA (M*Intosh, Zool. pt. 34).
-Latmonice japonica, n.sp. One specimen ; obtained at no other locality.
-Eunon yedoensis, n.sp. One specimen; obtained at no other locality.
-Leanira areolata, n.sp. One specimen ; obtained at no other locality.
-Leaniricola rotundata, n.g., n.sp. (Crustacean parasite on Leanira areolata).
-Lumbriconereis bifurcata, n.sp. One specimen ; obtained at no other locality.
-japonica, Marenzeller. One specimen ; obtained at no other
-locality by the Challenger. Recorded from Japan.
-Nothria macrobranchiata, n.sp. A few specimens ; obtained at no other locality.
-Maldane sarsi, Malmgren. Several specimens ; obtained at no other locality by
-the Challenger. Recorded from Europe and America.
-Nicomache japonica, n.sp.
-One specimen ; obtained at no other locality.
-Praxilla lankesteri, n.sp.
-One specimen ; obtained at no other locality.
-Amphicteis japonica, n.sp. One specimen ; obtained at no other locality.
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Octopus punctatus, Gabb. One specimen ; obtained at no other locality by the
+Challenger. Recorded from Pacific coast of North America
+and Hong Kong
+Calliteuthis reversa, Verrill. One specimen ; obtained also at Station 168, surface.
+Fishes (Günther, Zool. pt. 57).
+Centrophorus foliaceus, n.sp. One specimen ; obtained at no other locality.
+squamulosus, n.sp. One specimen ; obtained at no other locality.
+Scombrops chilodipteroides, Bleeker. One specimen ; obtained at no other locality
+by the Challenger.
+Sebastes macrochir, n.sp. Several specimens; obtained at no other locality.
+Beryx decadactylus, C.V. Two specimens ; obtained at no other locality by
+the Challenger.
+Polymixia nobilis, Lowe. Three specimens ; obtained at no other locality by the
+Challenger. Recorded from Atlantic and Indian Oceans.
+Lepidopus tenuis, n.sp. One specimen ; obtained at no other locality.
+Trichiurus lepturus, Linné. Obtained at no other locality by the Challenger.
+A widely-distributed species.
+Ceratias carunculatus, n.sp. One specimen ; obtained at no other locality.
+Physiculus kaupi, Poey. Five specimens; obtained at no other locality by the
+Challenger. Recorded from Cuba and St. Helena.
+Haloporphyrus inosimæ, n.sp. Several specimens; obtained at no other locality.
+Macrurus parallelus, n.sp. Eight specimens ; obtained also at Stations 169, 170,
+171, aud 235.
+japonicus, Schlegel. One specimen ; obtained at no other locality by
+the Challenger.
+nasutus, n.sp. Six specimens; obtained also at Station 235, 565 fathoms: .
+Recorded subsequently from Indian Ocean (“Investigator").
+villosus, n.sp. One specimen ; obtained also at Station 214.
+macrochir, n.sp. One specimen ; obtained at no other locality.
+Gonostoma gracile, n.sp. One specimen ; obtained also at Station 230.
+Bathythrissa dorsalis, n.g., n.sp. One specimen (obtained from fishermen);
+obtained at no other locality. Only species of the
+genus.
+Xenodermichthys nodulosus, n.g., n.sp. One specimen ; obtained at no other
+locality. Only species of the genus.
+Nettastoma parviceps, n.sp. One specimen ; obtained at no other locality.
+Synaphobranchus pinnatus (Gronovius). Eleven specimens ; obtained also at
+Stations 125, 210, 214, and 235.
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+)
+114

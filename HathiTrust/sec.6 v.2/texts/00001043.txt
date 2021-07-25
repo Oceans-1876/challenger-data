@@ -1,99 +1,65 @@
+HPERATURE ***
+AT DEPTH
+OF 600
+FATHOMS - 3900
+00
 
-PERATURE OF R AT
-DEPTH OF 500 FATHOMS
-40°:1
 40
 30
 20
-20
-o
+10
+0
 10
 20
 30
-Oceanic Circulation. Map 7.
 40
 50
-90
+80
 70
 80
 90
-100
-210
-120
-130
-140
-150
-180
-BO
-Dawa
+pl
 Arctic Circle
-70
-50
-19
-500
-40
-30
-loc
-44
-43
-k2
-20
-40°
-10
-40
-43
-42
-10
-41
-卷
-​20
-44
-8
+38
 39
-46°
-30
+GO
+439
+39°
+42
+38
+8
+374
+363
+39°
 38
 37
-40
-36"
-35
-35
-50
-60
-32
+36
 EXPLANATION OF COLOURING
 Contours showing
-Height of Land
-70
-Gooo Feet
+Height of Land"
+6000 Feet
 3000
 SEA LEVEL
-loo Fathoms
-800
+Loo Fathoms
+500
+Contours showing
+Depth of Seå
 1000
 1500
-Contours showing
-Depth e Ses
 40
 30
 20
 10
-o
+0
 10
 20
 30
 40
+50
 60
 70
 80
-20
-ger shown thus
+90
 100
-110
-120
-130
-140
-250
+er shown thus
 Isothermals below Average shown in Blue thus
-160
-Bau-tholomew, Edin?

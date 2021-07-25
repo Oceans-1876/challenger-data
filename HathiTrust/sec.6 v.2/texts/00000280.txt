@@ -1,98 +1,110 @@
-1028
+1030
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 269,
-Coscinodiscus curvatulus, Grunow, var. genuina,
-Grunow.
-curvatulus, var. recta, Rattray.
-lineatus, Ehrenberg.
-gigas, Ehrenberg.
-griseus, Greville.
-concinnus, W. Smith, var. jonesiana,
-Rattray.
-robustus, Greville.
-oculus-iridis, Ehrenberg.
-nariculoides, Truan and Witt.
-railiosus, Grunow.
-lentiginosus, Janisch.
-tumidus, Janisch.
-sp. (?).
-Aulacodiscus affinis, Grunow.
-Cestodiscus gemmifer, Castracane, and var.
-trochus, Castracane.
-parmula, Castracane.
-coronatus, Castracane.
-fasciculatus, Castracane.
-pulchellus, Greville.
-Coscinodiscus patellæformis, Greville.
-elegans, Greville.
-anguste-lineatus, A. Schmidt.
-leptopus, Janisch.
-excentricus, Ehrenberg.
-var. punctifera, Grunow.
-subtilis, Ehrenberg.
-rothii, Grunow.
-marginatus, Grunow.
-fimbriatus, Ehrenberg.
-raliatus, Ehrenberg.
-var. media, Grunow.
-argus, Ehrenberg
-crassus, Bailey, var.
-centralis, Ehrenberg.
-convexus, A. Schmidt.
-nodulifer, Janisch.
-decrescens, Grunow.
-africanus, Janisch.
-rudis, Castracane.
-exravatus, Greville.
-var. biocellata, Grunow.
-concavus, Ehrenberg.
-rex, Wallich.
-Ethmodiscus sp. ().
-Craspedodiscus groreanus (= Coscinodiscus, Rattray)
-coscinodiscus, Ehrenberg.
-Roperia tessellata, Grunow.
-Hemidiscus cuneiformis, Wallich.
-var. angusta, Janisch (?)
-Ilemiaulus antarcticus, Ehrenberg.
-Rhizosolenia styliformis, Brightwell.
-Surirella fastuosa, Ehrenberg.
-Podosira montagnei, Kutzing.
-Bidilulphia pulchella, Gray.
-Achnanthes brevipes, Agardh.
-subsessilis, Ehrenberg.
-Triceratium farus, Ehrenberg.
-antediluvianum, Van Heurek
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.—The following species are recorded from the surface in the
-vicinity of this Station :-
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Collosphæra pyriformis, Haeckel (?).
-Actinomma capillaceum, Haeckel.
-polyedra, Haeckel.
-Arachnosphæra dolichacantha, Haeckel.
-Siphonosphæra macrosiphonia, Haeckel.
-Cypassis puella, Haeckel.
-Hecalonche xenophanis, Haeckel.
-Lithelius solaris, Haeckel.
-Hexacontium axophanum, Haeckel.
-Actinelius primordialis, Haeckel.
-papillosum, Haeckel.
-Acanthometron cylindricum, Haeckel
-Acanthosphæra capillaris, Haeckel.
-bulbiferum, Haeckel.
-Heliosphæra polygonaria, Haeckel.
-Zygacantha costata, Haeckel.
-Cladococcus pinetum, Haeckel.
-Acanthonia denticulata, Haeckel.
-Haliomma datura, Haeckel.
-diplopyramis, Haeckel.
-wyvillei, Haeckel.
-Amphilonche conica, Haeckel.
-Heliosoma radians, Haeckel.
-acufera, Haeckel.
-Elatomma pinetum, Haeckel.
-Acantholonche amphipolaris, Haeckel.
-Diplosphæra hexagonalis, Haeckel.
-Tessaraspis pentagonalis, Haeckel.
-1
+STATION 270.
+Temperature of water :-
+Surface,
+10 fathoms,
+20
+30
+40
+50
+99
+79.5
+78.7
+77.7
+77.0
+76.2
+75.5
+75:3
+75:3
+72:8
+67.3
+62.8
+59:1
+56.5
+55.0
+54.2
+53.5
+53.2
+52.9
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180 fathoms,
+190
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+52:6
+52:3
+52.0
+48.3
+45.0
+42:7
+40.6
+39.5
+38.7
+38.0
+37.7
+37.3
+37:0
+36.7
+36:3
+36-0
+34.6
+.
+Density at 60° F. :-
+Surface,
+25 fathoms,
+50
+100
+200
+1.02621
+. 1.02591
+. 1.02572
+1:02567
+1.02572
+300 fathoms,
+400
+2500
+Bottom,
+1.02575
+1.02572
+1.02575
+1.02578
+99
+Depth, 2925 fathoms; deposit, Globigerina Ooze, containing 71:47 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.15 A.m shortened and furled sails. At 5.30 A.m proceeded under steam. At
+6 A.M. sounded in 2925 fathoms. There were about six inches of ooze in the tube, the
+lower part pure white and gradually becoming brown on the upper surface. The white
+lower layer was nearly pure Globigerina Ooze, while the upper brown layer seemed to be
+composed of equal parts of siliceous and calcareous organisms. Took serial temperatures
+down to 1500 fathoms. At 8.30 A. M. temperature line fouled the screw. Stopped and
+lowered whaler to inspect the line ; raised screw and cleared the line. At noon
+completed observations and made all plain sail.
+Venus Point, Tahiti, distant at noon, 1203 miles. Made good 104 miles. Amount
+of current 55 miles, direction S. 76° W.
+The following species of Deep-Sea Keratosa and Radiolaria were observed in the deposit
+from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-

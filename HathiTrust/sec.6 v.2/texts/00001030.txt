@@ -1,27 +1,24 @@
+MEAN TEMPERATURE OF THE OCEANS AT
 
-Track of HM 5. Callager shorn
-MEAN TEMPERATURE OF THE OCEANS AT D
-The Voyage of HMS "Challenger"
 80
-110
 100
+90
 70
 60
-90
-140
+The Voyage of HMS "Challenger"
 120
-50
-180
-40
-180
+no
+140
+130
 150
-180
+160
 170
+180
 160
 170
 150
-140
 130
+140
 100
 no
 120
@@ -29,55 +26,53 @@ no
 70
 60
 50
-381
-390
 40
-409
-ର
 30
 Tropic of Cancer
-459
 20
-42
-421
-431
 Equator
+43
 10
-449
+411
 20
-45°
-Tropic of Capricorn
+41
+Tropic of Capricorn,
 30
-46
 40
+40°
+40°
+380
+37
 50
-60
-Antarctic Circle
+352
+80
+Antarctie Circle
 70
 ISOTHERMAL LINES
 SHOWING THE MEAN TEMPERATURE (FAHR)
 OF THE OCEAN AT
-DEPTH OF 400 FATHOMS
+DEPTH OF 500 FATHOMS
 60
 70
 80
-80
+90
 100
 110
-100
 120
-140
-120
-110
 130
-150
+140
 160
-170
+150
+Track of H.M.S.Challer
 180
-140
-130
 170
-160
+100
+120
 150
+160
+130
+140
+170
+110
 A. Buchan Delt.
 Isothermals above Average shown in Red thus

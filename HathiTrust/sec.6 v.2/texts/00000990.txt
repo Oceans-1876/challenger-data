@@ -1,42 +1,63 @@
-24
+28
 THE VOYAGE OF H.M.S. CHALLENGER.
-There is still seen an increase, though it is now a small one, in the temperature of
-the Atlantic and Pacific in the extreme east of the equatorial region near the continents.
-Depth of 500 Fathoms (Map 7).-—Very marked changes have now been brought
-about in the distribution of temperature over the Atlantic. The mean temperature of
-the ocean has now fallen to 40°.1 or 1°:7 lower than at 400 fathoms, and the whole of
-the water of the South Atlantic is now under the average temperature of the whole
-ocean, except a narrow tongue which projects southward about long. 10° W. nearly as
-far as lat. 10° S., where a temperature of 40°:3 is found.
-On the other hand, nearly the whole of the North Atlantic to the north of the line
-of lowest atmospheric pressure, marking the region of calms, is above the average, and the
-region of highest temperature is no longer located in the western division of the ocean
-in the line of the drift of the trades. But the highest temperature, 54°, is now to be
-found immediately to the west of Gibraltar, thus pointing to a new distinct source of
-the high temperature of the North Atlantic from 500 fathoms downwards.
-The specific gravities of the North Atlantic are still much higher than any elsewhere
-observed, but at this depth there are no observations near Gibraltar, Those observed
-at greater depths will afterwards be referred to in connection with this appearance of
-high temperature in the east of the ocean.
-No area indicating a region of higher temperature is now seen in the North
-Pacific, but in the South Pacific there is such a well-marked area between New
-Zealand and Australia, showing an isothermal of 44°, being thus 4° higher than the
-highest in the South Atlantic, but 10° lower than the highest in the North Atlantic.
-Observations of specific gravities at this depth are almost entirely wanting in the
-Pacific.
-Depth of 600 Fathoms (Map) 8). The outstanding feature of the temperature
-at this depth is presented by the North Atlantic, where the higher temperatures no
-longer appear in the western part of the ocean. The highest isothermal seen anywhere,
-51°, is to the west of Gibraltar, from which temperature gradually falls to 39° imme-
-diately off the coast of America. Between the Canaries and the Azores the specific
-gravity of 1.0267 has been observed, and a little to westward 1.0263. These are very
-high specific gravities for this depth, being much higher than any elsewhere observed
-in the ocean, and they point unmistakably to the warm dense undercurrent which issues
-from the Mediterranean as the source of the remarkably high temperature now overspread-
-ing the Atlantic. Further, the disposition of the isothermals alone would place the
-matter beyond dispute. The all but total absence of temperatures above the average from
-the South Atlantic is a noteworthy feature of this ocean, for only on its northern side
-does the temperature rise 0°:7 above the mean. This striking feature of the tempera-
-ture of the South Atlantic, seen also at the depths immediately above and below the
-600 fathoms depth, may be referred to two causes, the one being the transference to the
-.
+At the 100 fathoms depth the temperature conditions have materially altered. As
+regards the entrance to the Gulf, it is within the North Atlantic isothermal of 65°, but
+over the Gulf itself temperature, to the west of long. 90° W., falls below 60°, and over
+a small region between that line and the continent it falls to 55°. Here, then,
+observation gives no evidence that the dense surface waters descend to any great depth
+carrying with them their high temperature downward. The evidence, on the contrary,
+goes to show that the strong surface current issuing through the Straits of Bemini, with
+the deeper current it generates, drains away, to a very large extent, the whole of the
+warm dense waters of the surface, thus bringing about an upwelling of colder water in
+the western part of the Gulf, so that the temperature there is 15° lower than it is
+immediately to the south-west of Cuba. Unfortunately, no specific gravities have
+been available at this and lower depths in the Gulf of Mexico, which would probably
+show a diminished specific gravity corresponding to the diminished temperature.
+Three specific gravities have, however, been observed in the western part of
+the Atlantic, viz., 1.0278, 1•0278 and 1.0274, which may be regarded as pointing to a
+mixing of the higher surface specific gravities of the Gulf of Mexico with the water
+of the Atlantic at this depth.
+The relation of the temperature of the west of the Gulf of Mexico to that of the
+Atlantic continues to hold at greater depths till the temperature falls at 700 fathoms to
+39º.5, at which depth the Gulf of Mexico becomes “a closed sea,” and the temperature
+remains at this point down to the greatest depth, 2067 fathoms, of the Gulf of
+Mexico. The following gives a comparison of the lowest temperature in the Gulf of
+Mexico and the temperature at the entrance to the Gulf at the different depths :
+Depth in
+Fathoms.
+Temperature at
+Entrance.
+Lowest Tempera-
+ture in Gulf.
+Difference.
+200
+300
+400
+500
+600
+700
+55°.0
+50°.0
+43°.5
+41°5
+41° 0
+40° 0
+46.0
+44° 0
+41° 0
+40°:0)
+40° 0
+39º.5
+90.0
+6°0
+2° +5
+1°.5
+1°:0
+0.5
+These facts point to a strong upwelling of the deep waters in the western division
+of the Gulf of Mexico, necessitated by the strong current which issues from it, and which
+extends to a considerable depth in the ocean. This view is borne out by the fact that
+the Atlantic easterly current is there embayed before starting to join the Atlantic north-
+eastern current on its way towards the Arctic Ocean, and southerly and south-
+westerly winds become prevalent, thus inducing upwelling in the western part of the Gulf.
+It has been calculated that, owing to the heaping up of the waters driven by the

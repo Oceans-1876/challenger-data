@@ -1,47 +1,36 @@
 SUMMARY OF RESULTS.
-1153
-STATION 308.
-Bugula reticulata, n.sp. Obtained also at Stations 147, 299, and 320. [Recorded
-in error from Station 303].
-Carbasea ovoidea, Busk. For distribution see Station 144. [Recorded in error
-from Station 303].
-Cribrilina monoceros (Busk). For distribution see Station 145. [Recorded in
-error from Station 303].
-Cellepora eatonensis, n.sp. Obtained also at Stations 149 and 315. [Recorded in
-error from Station 303].
-armata, Hincks, var. erecta, Waters, nov. Obtained at no other locality.
-TUNICATA (Herdman, Zool. pt. 38).
-Leptoclinum tenue, n.sp. About two dozen specimens; obtained also at
-Stations 311 and 320, 245 and 600 fathoms. Recorded from
-North Atlantic ("Lightning ”).
-FISHES (Günther, Zool. pts. 6 and 57).
-Aphritis gobio, n.sp. Obtained also at Stations 307 and 312.
-Lotella marginata, n.sp. Four specimens ; obtained also at Stations 305, 306,
-and 307.
-Macruronus novæ-zelandiæ (Hector). Obtained at no other locality by the
-Challenger. Recorded from New Zealand and Tasmania.
-In addition to the foregoing, the following are recorded in the Station-book :-
-Hyalonema without stem, Actinian, and many Hydroids.
-Excluding Protozoa, over 250 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 68 species, of which 42 are new to science, including
-representatives of 4 new genera ; 21 of the new species and 1 new genus were not
-obtained elsewhere.
-ORGANISMS FROM
-THE DEPOSIT.
-FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera were
-observed in the deposits from Stations 308 and 309, 40 to 175 fathoms; in the former
-depth there was only a trace of carbonate of lime, while in the latter there was
-28.84 per cent., the pelagic species (marked thus x) making up about 21 per cent. of the
-carbonate of lime present :
-Biloculina depressa, d’Orbigny.
-ringens (Lamarck).
-sphæra, d'Orbigny.
-Spiroloculina planulata (Lamarck).
-Miliolina pygmæa (Reuss).
-seminulum (Linné).
-Planispirina celata (Costa).
-Hyperammina ramosa, Brady.
-Reophax scorpiurus, Montfort.
-Haplophragmium canariense (d'Orbigny).
-fontinense, Terquem.
-Trochammina squamata, Jones and Parker.
+1157
+STATION 310.
+ANTIPATHARIA (Brook, Zool. pt. 80).
+Tylopathes crispa, n.g., n.sp. Obtained at no other locality.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophiolebes vestitus, n.g., n.sp.
+Obtained also at Stations 307 and 308.
+Astroschema rubrum, n.sp. Obtained at no other locality.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Hemiaster cavernosus (Phil.). Obtained also at Stations 149 and 151.
+Schizaster moseleyi, n.sp. Three specimens ; for distribution see Station 146.
+HOLOTHURIOIDEA (Théel, Zool. pt. 39).
+Ankyroderma danielsseni, n.sp. One specimen ; obtained at no other locality.
+ANNELIDA (MʻIntosh, Zool. pt. 34).
+Polyeunoa lævis, n.g., n.sp. Two specimens; obtained also at Station 145. Only
+species of the genus.
+Lagisca magellanica, n.sp., var. murrayi, nov. Several specimens; the species
+obtained also at Stations 145 (var. grubei), 149, and 308.
+Hemipodus (?) magellanicus, n.sp. Many specimens ; obtained also at Station 306.
+Macrura (Spence Bate, Zool. pt. 52).
+Acanthephyra carinata, n.sp. One specimen ; obtained at no other locality.
+approcima, n.sp. One specimen ; obtained at no other locality.
+Campylonotus semistriatus, n.g., n.sp. Six specimens; for distribution see Station 305.
+ANOMURA (Henderson, Zool. pt. 69).
+Munidopsis trifida, n.sp. One specimen; obtained at no other locality.
+Ptychogaster milne-edwardsi, n.sp. One specimen ; obtained at no other locality.
+Uroptychus parvulus, n.sp. Thirty specimens ; obtained at no other locality.
+PYCNOGONIDA (Hoek, Zool. pt. 10).
+Colossendeis leptorhynchus, n.sp. Obtained also at Stations 146, 147, and 300.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Pecten vitreus (Chemnitz). For distribution see Station 204.
+subhyalinus, n.sp.
+Obtained at no other locality.
+(SUMMARY OF RESULTS CHALL. EXP.—1893.)
+146

@@ -1,140 +1,150 @@
 SUMMARY OF RESULTS.
-1331
-N
-T
-S
-S
-S
-T
-S
-V2
-72
-*
+1335
+Amphiura squamata (Delle Chiaje),
+Sars. S
+studeri, Lyman.
 S
 S
 *
+sp. (?). S
+> >
 T
-N
 T
+S
 T
+SN
+S
+s
+T
+S
+S
+S
 >
-* Primnoella distans, Studer.
-flagellum, Studer.
-grandisquamis, n.sp.
-* Primoides sertularoides, n.g., p.sp.
-* Primnoisis antarctica (Studer). S
-Sarakka crassa, Danielssen.
-Scirpearella gracilis, n.g., 1.sp.
 T
-moniliforme, n.g., n.sp. T
-profunda, 1.g., n.sp)
-T
-rubra, n.g., n.sp.
-* Siphonogorgia köllikeri, n.sp.
-pustulosa, n.sp.
-Spongodes collaris, n.sp.
-laca, 1.sp.
-rhodosticta, n.sp.
-* Stenella johnsoni, n.sp.
-spinosi, 1.sp.
-Strophogorgia petersi, n.g., n.sp.
 N
-Suberogorgia köllikeri, n.sp.
-verriculata (Esper). N
-Sympodium glomeratum, n.sp.
-* Thouarella hilgendorfi (Studer).
-köllikeri, n.sp.
+*
+22
+N
 S
+S
+T
+T
+TN
+S
+T
+S
+T
+s
+>
+S
+N
+Ophiocreas carnosus, n.sp.
+caudatus, n.sp. N
+ædipus, n.sp.
+Ophiocten amitinum, n.sp.
+Ophioglypha acervata, Lyman.
+confragosa, n.sp.
+costata, n.sp.
+deshayesi, n.sp.
+elevata, n.sp.
+falcifera, Lyman.
+flagellata, n.sp.
+imbecillis, 1.sp.
+irrorata, n.sp.
+jejuna, n.sp.
+lepida, n.sp.
+ljungmani, n.sp.
+lymani, Ljungman.
+palliata, n.sp.
+ponderosa, n.sp.
+solida, n.sp.
+undata, n.sp.
 variabilis, n.sp.
-S
-brevispina,
-T
-T
-T
-T
-T
-S
-T
-S
-9
-S
-* Chironephthya dipsacea, 1.g., 1.sp.
-scoparia, n.g., n.sp.
-N
-* Clavularia cylindrica, n.sp.
-tubaria, n.sp.
-* Clematissa obtusa, n.g., n.sp.
-robusta, n.g., n.sp.
-verrilli, n.g., n.sp.
-Corallium rubrum, Lamarck. T
-Dasygorgia axillaris, n.sp. S T
-cupressa, n.sp.
-flexilis, n.sp.
 s
-geniculata, n.sp.
-Τ Ν
-melanotrichos, n.sp.
+Ophiolebes scorteus, n.g., n.sp. s
+vestitus, n.g., n.sp.
+Ophiomastus tegulitius, n.g., n.sp.
+texturatus, n.g., n.sp.
+S
+Ophiomitra chelys, n.sp.
+dipsacos, n.sp.
+normani, n.sp.
+Ophiomusium cancellatum, n.sp. N
+laqueatum, n.sp.
+lunare, n.sp.
+lütkeni, n.sp
+lymani, Wyville Thomson.
+S TN
+planum, Lyman. N
+pulchellum, n.sp. STN
+92
 T
-spiculosa, Verrill.
-Echinogorgia ramulosa (Gray).
-Eunephthya fusca, n.sp.
-* Eunicea palmata, n.sp.
-Gorgonella orientalis, n.sp. N
-* Juncella barbadensis, Duchassaing and
-Michelotti. T
-racemosa, n.sp.
+Astroclon propugnatoris, n.g., n.sp.
+Astronyx loveni, Müller and Troschel. N
+Astroschema brachiatum, n.sp.
 N
-* Keroeides koreni, n.g., n.sp.
-N
-* Leptogorgia arbuscula (Philippi). S
-purpurea (Pallas). S T
-* Lophogorgia lutkeni, n.sp. S
-* Melitoiles nodosa, n.sp.
-Τ Ν
-* Muriceides fragilis, n.g., n.sp.
-T
-Muricella complanata, 1.sp.
-N.
-nitida, Verrill. N
-perramosa, Ridley. N
-tenera, Ridley. T
-* Paramuricea laxa, n.sp.
-S
-ramosa, n.sp.
-* Parisis fruticosa, Verrill. T
-N
-* Pleurocorallium secundum, Dana. ST
-* Plumarella delicatissima, n.sp.
-s
-Primnoella australasiæ, Gray. S
-biserialis, n.sp.
-S
-N
-*
-s
-T
-var.
-nov.
-*
-var. gracilis, nov.
-Villogorgia intricata (Gray). T
-N
-S
-*
-S
-PENNATULIDA :
-Kophobelemnon ferrugineum, n.sp.
-* Pennatula moseleyi, n.sp.
+rubrum, n.sp.
+tumidum, n.sp.
+Astrotoma agassizii, Lyman.
 murrayi, n.sp.
-naresi, n.sp.
-Stachyptilum macleari, n.g., n.sp.
-* Trichoptilum brunneum, n.g., n.sp.
+T
+Gorgonocephalus pourtalesii, Lyman. S
+Ophiacantha abnormis, n.sp.
+T
+cosmica, n.sp.
+ST
+cuspidata, n.sp.
+granulosa, n.sp.
+imago, p.sp.
+rosed, n.sp. SN
+serrata, n.sp.
+stimulea, n.sp.
+troscheli, n.sp.
+tuberculosa, n.sp.
+valenciennesi, n.sp.
+vivipara, Ljungman. S
+three species undetermined.
+s
+Ophiactis asperula (Phil.). S
+flexuosa, n.sp.
+s
+hirta, n.sp.
+müilleri, Lütken.
+plana, Lyman. S
+Ophiocamax vitrea, n.g., n.sp.
+T
+Ophioceramis (?) obstricta, n.sp.
+Ophiochiton fastigatus, n.g., n.sp.
+Ophiocnida scabra, n.sp.
+Ophiocoma sp. (?). S
+Ophioconis antarctica, n.sp.
+pulverulenta, n.sp.
+Ophiocopa spatula, n.g., n.sp.
+N
+2
+T
+T
+T
+09
+T
+sp. (?).
+*
+S
+ST
+T
+S
+sp. (?).
+N
+T
 T
 N
-99
-minor, n.sp.
+ST
+T
+*
+TN *
 T
 T
-ANTIPATHARIA :
-Antipathella assimilis, n.g., n.sp.
-02
+T
+S
+T
+T

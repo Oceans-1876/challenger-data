@@ -1,36 +1,41 @@
 REPORT ON OCEANIC CIRCULATION.
-31
-it gradually rises on proceeding southward to 75º near the Strait, outside which it
-quickly falls to 70° and 65° about long. 53° E. At this depth, in lat. 22° N., the
-specific gravity is 1.0302, immediately outside the Strait 1.0282, and off Socotra 1.0264.
-At 200 fathoms, and at greater depths, 200 fathoms being about the depth of the submarine
-ridge separating this sea from the ocean, the temperature is 71°. The specific gravity
-in lat. 22° N. is 1.0303, off Aden 1•0267, and near Socotra 1.0264, being thus nearly
-the same as the specific gravities at 100 fathoms. At 300 fathoms the specific gravity
-is 1.0303, and it is probable that this degree of salinity obtains down to the bottom of
-the sea.
-An undercurrent of warm water of great saltness issues from the Red Sea, just as
-happens in the case of the Mediterranean, and, as will appear, it has a marked influence
-on the temperature and specific gravity of the north-western part of the Indian Ocean.
-The Persian Gulf.
-The mean annual surface temperature at the head of the Gulf is 80°; it rises to 82°
-a little to the west of Ormuz, and outside the Gulf falls to 80° in long. 60° E. In this
-last situation the specific gravity is 1.0271, but in the Gulf itself no specific gravities
-have been observed. Its influence, therefore, on the temperature of the Arabian Sea
-adjoining will be similar, though less in degree, to that of the Red Sea.
-The Indian Ocean.
-This ocean differs essentially from the other great oceans in being completely land-
-locked on its north side, in comparatively low latitudes, thus putting it, as a whole,
-more fully under the influence of the Southern Ocean, as will be seen as the lower
-depths are dealt with.
-The most noticeable feature of the mean annual temperature of the surface is that
-the isothermals are more regularly distributed over the Indian Ocean than over any of
-the other oceans.
-From about lat. 13° S. to the north of the ocean the temperature
-exceeds 80', except the north-west portion of the Arabian Sea, as shown on the
-map (Map 2). Over this tract temperature is lowered by the upwelling produced by the
-prevailing N.W. winds of that region, which consequently blow from the land seaward,
-driving the warm surface current before them, the place of the surface water being
-taken by the colder water rising from lower depths. This lowering is continued along
-the east coast of Africa to some distance south of Cape Guardafui. To the south of
-lat. 13° S. temperature falls with characteristic regularity as the latitude increases,
+35
+together with the extraordinarily high temperatures accompanying them, evidence the
+volume and depth of the powerful current from the Atlantic on which they depend.
+At 200 fathoms this ocean is still in free contact with the Atlantic, and the higher
+temperatures are well inshore. The highest isothermal is 43° to the south of the
+Lofoten Isles, and it is remarkable that the isothermals of 35° and 30° are much in the
+same positions as at the 100 fathoms depth. The specific gravities are virtually
+identical with those at 100 fathoms, and at both depths they are highest midway between
+Norway and Spitzbergen.
+Except the comparatively narrow channel of the Wyville Thomson Ridge, the
+whole of this ocean at 300 fathoms is cut off from the Atlantic and becomes a "closed
+sea,” and as a consequence the temperature now assumes a wholly different mode of
+distribution. The isothermals, instead of having a S.W. and N.E. course on the lines of
+the great ocean current, indicate an area of higher temperature, with its axis approximately
+about lat. 70° N., extending nearly as far west as Jan Mayen, but between it and the
+Faroe Ridge there is a much lower temperature, 32°. Since in this cold area Mohn noted a
+specific gravity of 1·0262, the low temperature cannot be ascribed to upwelling, but its
+origin is rather to be referred to the north-west in the region marked out by the
+isothermal of 30°. The increase from 30° to 32° is derived from the upper denser
+waters, which, having passed the Faroe Ridge, have in their northerly course partially
+sunk to lower depths, and have consequently to some extent raised both the temperature
+and specific gravity.
+The warmer area to the north-east, marked by the isothermals of 39°, 37° and 35°,
+is coincident with the region where the great south-westerly current comes to a stop
+and the north-easterly current begins its course. A head of water is no doubt formed
+in the region where these south-westerly winds and attendant currents cease. The
+additional pressure thereby produced, and the high specific gravities, result in a
+downward movement of the upper waters, and consequently the raising of the
+temperature over the region where it occurs. The increase of temperature from this
+strong downward movement is less and less as the depth increases, but it is distinctly
+traceable at least as far as 700 fathoms, and is still accompanied with the high specific
+gravities of the surface.
+The positions of the isothermals from 300 to 700 fathoms make it plain that the
+movements of the ocean at these depths are strongly downwards rather than
+horizontal; that the influence of prevailing winds on the surface and deeper currents
+arising from them is no longer felt in any recognisable degree; and that all movements
+are virtually restricted to those caused by differences of temperature and salinity. The
+position retained by the region of higher temperature quite disproves the idea of the
+existence of any vorticose movement in these deep waters.
+At 1000 fathoms and greater depths the temperature to the south-west of Spitz-

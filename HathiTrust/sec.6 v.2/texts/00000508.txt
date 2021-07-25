@@ -1,34 +1,21 @@
-1232
+1236
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 338.
-SIPHONOPHORÆ (Haeckel, Zool. pt. 77.)
-Calpe gegenbauri, n.sp.
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Cavolinia longirostris (Lesueur).
-SCHIZOPODA (Sars, Zool. pt. 37).
-Thysanopoda tricuspidata,
-M.-Edwards.
-Stylocheiron carinatum, n.g., n.sp.
-CEPHALOPODA (Hoyle, Zool. pt. 44).
-Grenacher's pelagic larva.
-The tow-nets at the surface and down to 150 fathoms yielded : Ceratium
-(Peridinium) tripos (in catena), Pyrocystis, Ethmodiscus and other Diatoms,
-Halosphæra, Hastigerina, Pulvinulina menardii, Acanthometræ, Polycystinæ, and
-compound Radiolaria, Medusæ, Siphonophoræ, Sagitta, Tomopteris, Alciopa, Evadne,
-Cypridina, Copilia, Saphirina, and other Copepods, Hyperids, Euphausia, Sergestes,
-small shells (Ianthina ?), Pleuropus [ = Cavolinia] and other Pteropods and larvæ, small
-Cephalopods (Cranchia), Doliolum, and small fishes. The tow-net at the weights
-contained deep-sea Radiolaria and a red deep-sea Amphipod, while the tow-nets at the
-dredge brought up a little ooze.
-1
-STATION 339.
-Station 339 (Sounding 489), Tristan da Cunha to Ascension Island (see Chart 16
+Station 341.
+The tow-nets near the surface yielded a greater abundance of organisms than at
+the last few Stations, including :--Pyrocystis, Ethmodiscus, Globigerina, Orbulina,
+Acanthometræ, Polycystinæ, and compound Radiolaria, Siphonophoræ, Sagitta,
+Tomopteris, Alciopa, Cypridina, Copepods, Amphipods, Euphausia, Sergestes larvæ,
+Pleuropus [ = Cavolinia] and other Pteropods and other small shells, Doliolum, and
+Appendicularia.
+STATION 342.
+Station 342 (Sounding 492), Tristan da Cunha to Ascension Island (see Chart 16
 and Diagram 7).
-March 23, 1876 ; lat. 17° 26' S., long. 13° 52' W.
-Temperature of air at noon, 79°:8; mean for the day, 76°:3.
-Temperature of water :-
 1
-.
+March 26, 1876; lat. 9° 43' S., long. 13° 51' W.
+Temperature of air at noon, 79°:5; mean for the day, 78°.9.
+Temperature of water :-
+>
+>
 Surface,
 10 fathoms,
 20
@@ -44,28 +31,32 @@ Surface,
 120
 130
 140
-3
-76.0
-75.8
-75.4
-74:3
-72:3
-70.0
-6707
-65.5
-63.5
-61.6
-59.8
-58.0
-56.4
-55.1
-53.8
-150 fathoms,
+150
 160
-170
+80.0
+80-2
+80.0
+78.8
+76:0
+71.5
+67.2
+62:3
+58.3
+55.7
+54.4
+53.7
+52:9
+52:1
+51:3
+50.6
+50.0
+170 fathoms,
 180
 190
 200
+225
+250
+275
 300
 400
 500
@@ -75,20 +66,48 @@ Surface,
 900
 1000
 Bottom,
-52:7
-51.8
-51.0
-50.2
-49.6
+49.5
 49.0
-43.0
-39.8
-39.5
-39.2
-38.9
-38.6
-38.3
-38.1
-37.2
-9
-"
+48.4
+47.8
+46:9
+45.9
+45:1
+44.5
+42.5
+40.8
+39.7
+39.1
+38.8
+38.4
+38.2
+37.5
+>
+.
+Density at 60° F.:-
+1
+.
+.
+Surface,
+25 fathoms,
+50
+100
+200
+1.02721
+. 1.02708
+1:02688
+1:02599
+1:02612
+300 fathoms,
+400
+900
+Bottom,
+1.02602
+1.02564
+1.02589
+1.02600
+.
+.
+Depth, 1445 fathoms ; deposit, Pteropod Ooze.
+At 3 P.M. shortened and furled sails, and proceeded under steam to sound.
+At

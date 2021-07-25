@@ -1,100 +1,63 @@
 1
---
-1
 SUMMARY OF RESULTS.
-1085
-STATION 284.
-Ammodiscus incertus (d'Orbigny).
-Trochammina galeata, Brady.
-pauciloculata, Brady.
-ringens, Brady.
-trullissata, Brady.
+1089
+On the nodules were Rhizopod and Serpula tubes, and a flask-shaped structure, about Station 285.
+half a centimetre in diameter, which appeared to be the egg-capsule of some Mollusc.
+Excluding Protozoa, about 20 specimens of invertebrates were obtained at this
+Station, belonging to about 11 species, of which 6 are new to science, including
+representatives of 3 new genera; 2 of the new species and 1 new genus were not
+obtained elsewhere.
+The following species of Foraminifera and Radiolaria were observed in the deposit ORGANISMS FROM
+from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+THE DEPOSIT.
+FORAMINIFERA (Brady, Zool. pt. 22).—The single pelagic species (Globigerina bulloides)
+makes up about 76 per cent. of the carbonate of lime present in the deposit.
+Psammosphæra fusca, Schulze.
+Hyperammina ramosa, Brady.
+Reophax scorpiurus (Montfort).
+Haplophragmium glomeratum, Brady.
+latidorsatum (Bornemann).
+Trochammina trullissata, Brady.
 Verneuilina pygmæa (Egger).
-Nodosaria (Glaululina) æqualis, Reuss (?).
-communis, d'Orbigny.
-vertebralis (Batsch) (?).
-19
->
-sp. (?).
-sp. (?).
-х
-Х
-X
-Х
-X
-Х
-Х
+Spiroplecta biformis (Parker and Jones).
 Gaudryina pupoides, d'Orbigny.
-var. chilostoma, Reuss.
-siphonella, Reuss.
-Bulimina elegans, d'Orbigny, var. exilis, Brady (?).
-Virgulina schreibersiana, Czjzek.
-Cassidulina crassa, d'Orbigny.
-subglobosa, Brady.
-Ehrenbergina hystrix, Brady.
-serrata, Reuss.
-Lagena alveolata, Brady, var. substriata, Brady (?).
-apiculata, Reuss.
-formosa, Schwager.
-globosa (Montagu).
-gracilis, Williamson.
-gracillima (Seguenza).
-læris (Montagu).
-lagenoides (Williamson), var. tenuistriata,
-Brady.
-longispina, Brady.
-marginata (Walker and Boys).
-var. semimarginata, Reuss.
-quadricostulata, Reuss.
-seminiformis, Schwager.
-striata (l'Orbigny).
-unguiculata, Brady (?).
-Polymorphina sp. (?).
-Uvigerina asperula, Czjzek.
-var. ampullacea, Brady.
-Globigerina æquilateralis, Brady.
-bulloidles, d'Orbigny.
-conglobata, Brady.
-digitata, Brady.
-helicina, d'Orbigny.
-inflata, d'Orbigny
-rubra, d'Orbigny.
-sacrulifera, Brady.
-x Orbulina universa, d'Orbigny.
-* Hastigerina pelagica (d'Orbigny).
-x Pullenia obliquiloculata, Parker and Jones.
-quinqueloba, Reuss.
-sphæroides (d'Orbigny).
-x Sphæroidina dehiscens, Parker and Jones.
-* Candeina nitida, d'Orbigny.
-Truncatulina lutemplei (d'Orbigny).
-lobatula (Walker and Jacob).
-pygmæa, Hantken.
-tenera, Brady.
-uuellerstorfi (Schwager).
-x Pulvinulina canariensis (d'Orbigny).
-crassa (d'Orbigny).
-exigua, Brady.
-favus, Brady.
-micheliniana (d’Orbigny).
+Bulimina buchiana, d'Orbigny.
+Lagena acuta (Reuss).
+x Gloingerina bulloides, d'Orbigny,
+Truncatulina pygmæa, Hantken.
 Nonionina pompilioides (Fichtel and Moll).
-х
-Х
-sp. (3).
-Surface Organisms. The following species of Radiolaria are recorded from the surface OrganisMS FROM
-at this Station :-
-SURFACE-NETS.
 RADIOLARIA (Haeckel, Zool. pt. 40).
-Rhizoplegma lychnosphæra, Haeckel.
-Ellipsidium opuntia, Haeckel.
-Amphirrhopalum bigeminum, Haeckel.
-Dorypelta tetrodon, Haeckel.
-Hexalaspis stellata, Haeckel.
-Dictyophimus bütschlii, Haeckel.
-Polypetta alveolata, Haeckel.
-In addition, the following are recorded in the note-books (October 11 to 13) :-
-Peridinium (several kinds), Pyrocystis, Ethmodiscus and other Diatoms, Coccospheres,
-Rhabdospheres, Globigerina, Hastigerina, Infusoria, Siphonophoræ, Echinoderm larvæ,
-Sagitta, Alciopa, Evadne, Cypridina, Saphirina and other Copepods, Hyperids,
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
-137
+Solenosphæra megalactis, Haeckel.
+Stylosphæra urania, Haeckel.
+Amphistylus glyptodon, Haeckel.
+Spongostylus serratus, Haeckel.
+Staurosphæra bartholomæi, Haeckel.
+Heliosphæra cristata, Haeckel.
+Cromyatractus ceparius, Haeckel.
+Cyphanta colpodes, Haeckel.
+Cyphonium mammarium, Haeckel.
+Truchodiscus cingillum, Haeckel.
+Sethodiscus cristatus, Haeckel.
+Tessarastrum örunonis, Haeckel.
+Streblacantha calcarina, Haeckel.
+Hexaplecta triaconia, Haeckel.
+Tiarospyris amphora, Haeckel.
+Amphispyris subquadrata, Haeckel.
+Acrobotrys apuaria, Haeckel.
+Sethopyramis trapezoides, Haeckel.
+Stichocorys huschkei, Haeckel.
+Artocapsa octocamera, Haeckel.
+Aulographis tetrancistra, Haeckel.
+Circoporus characeus, Haeckel.
+Cælodendrum lappaceum, Haeckel.
+Surface Organisms.—The following species are recorded from the deep tow-nets at ORGANISMS FROM
+SURFACE-NETS.
+this Station :-
+SCHIZOPODA (Sars, Zool. pt. 37).
+MACRURA (Spence Bate, Zool. pt. 52).
+Thysanopoda obtusifrons, n.sp.
+Bentheocaris exuens, n.g., n.sp.
+In addition, the following are recorded in the note-books from the surface :-
+Pyrocystis, Ethmodiscus and other Diatoms, Globigerina, many Radiolaria of all
+the divisions, Siphonophoræ, Tomopteris, Sipunculid larve, Planarian larvæ, Evadne,
+Cypridina, Copepods, small Lamellibranchs, and Pteropods.

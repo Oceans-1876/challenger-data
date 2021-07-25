@@ -1,186 +1,183 @@
 SUMMARY OF RESULTS.
-1525
-415.
-$, 1423
-52.
-var.
-Miliolina-continued.
-cuvieriana, 198, 261, 1002.
-ferussacii, 181, 195, 630, 685,
-1002.
-fichteliana, 511.
-gracilis, 124, 133, 152, 195, 964,
-1230.
-insignis, 165, 181, 195, 353, 936,
-956, 1071, 1247.
-labiosa, 798, 941, 949, 956, 979,
-1002, 1010, 1180.
-linnæana, 165, 181, 195, 630,
-685, 716, 862, 1002.
-macilenta, 1002.
-oblonga, 133, 165, 181, 195, 198,
-200, 353, 400, 429, 480, 511,
-581, 588, 630, 639, 685, 716,
-857, 862, 956, 964, 1002, 1036,
-1066, 1071, 1162, 1172, 1180.
-parkeri, 630, 862, 1002, 1071.
-pulchella, 195.
-pygmæa, 862, 903, 1071, 1153.
-reticulata, 181, 195, 630, 685,
-716, 862, 1002.
-rupertiana, 716.
-secans, 857, 1002,
-seminulum, 115, 124, 133, 139,
-152, 190, 211, 215, 261, 285,
-294, 342, 353, 423, 429, 449,
-480, 492, 511, 581, 588, 630,
-640, 671, 685, 857, 956, 964,
-979, 1002, 1066, 1078, 1111,
-1130, 1136, 1153, 1158, 1163,
-1172, 1180, 1200, 1225, 1230,
-1247.
-separans, 426, 685, 862.
-subrotunda, 492, 685, 1002,
-1172.
-transversestriata, 685.
-tricarinata, 181, 215, 261, 285,
-353, 449, 581, 610, 630, 639,
-640, 685, 716, 936, 1071, 1130,
-1225.
-trigonula, 181, 195, 285, 630,
-716, 936, 1002, 1071, 1200.
-triquetra, 581, 640, 685.
-undosa, 630, 1002.
-valvularis, 211, 604, 1111.
-venusta, 139, 145, 152, 261, 342,
-423, 426, 511, 522, 529, 588,
-604, 663, 671, 857, 876, 1036,
-1066, 1078, 1084, 1104, 1111,
-1136, 1216, 1225, 1230, 1247,
-1253.
-Millepora,
-alcicornis, 169, 241, 1370, 1422.
-carthaginiensis, 169, 1370.
-confertissima, 769, 1370.
-gonagra, 645, 826, 1074, 1370,
-1422.
-Millepora-continued.
-intricata, 762, 1370.
-murrayi, 826, 1370.
-nodosa, 1074, 1370.
-ramosa, 241, 1370.
-Mimaster, 1452.
-cognatus, 1138, 1151, 1160, 1334,
-1355.
-Minous,
-pictus, 731, 1419.
-Miracia,
-efferata, 321, 1095, 1257, 1258,
-1261.
-Misgurnus,
-anguillicaudatus, 929, 1419.
-Mithraculus (see Mithrax).
-Mithrax, 344, 359, 1392.
-cornutus, 376, 1392.
-coronatus, 344, 1392.
-forceps, 244, 344, 376, 1392,
-1425.
-hispidus,
-pleuracanthus, 359,
-1392.
-(Mithraculus),
-sculptus, 344, 1392.
-(Nemausa),
-rostrata, 244, 1392.
-Mithrodia,
-clavigera, 646, 1375.
-Mitra, 413, 653, 1402.
-miranda, 579, 1347.
-(Callithea),
-granosa, 653, 1402.
-obeliscus, 653, 1402.
-(Cancilla),
-cyri, 652, 1402.
-filaris, 652, 1402.
-interlirata, 627, 652, 684, 736,
-1347, 1359, 1402, 1426.
-reticulata, 707, 1402.
-rufescens, 707, 1402.
-verrucosa, 652, 1402.
-(Costellaria), 707, 1402.
-amanda, 652, 707, 1402, 1426.
-exasperata, 652, 1402.
-fusiformis, 653, 1402.
-nodilirata, 653, 1402.
-radius, 653, 1402.
-sculptilis, 707, 736, 1402, 1426.
-(Nebularia),
-glabra, 541, 1402.
-rhodia, 568, 1402.
-(Pusia),
-cineracea, 541, 820, 1402.
-nodulifera, 653, 1402.
-(Scabricola),
-crenifera, 652, 1402.
-sphærulata, 652, 1402.
-Mitrella (see Columbella).
-Mitrocalpis,
-palliata, 1047.
-Mitrophyes,
-peltifera, 1261.
-Mitrularia,
-uncinata, 345, 362, 1270, 1309,
-1313, 1314, 1347, 1359,
-1402.
-Mixonus, 1282.
-laticeps, 329, 1280.
-Mnestia (see Cylichna).
-Mnestra,
-parasitica, 381.
-Modiola,
-barbata, 909, 1396.
-glaberrima, 565, 1396.
-watsoni, 739, 801, 1322, 1325.
-Modiolarca,
-kerguelensis, 472, 1396.
-trapezina, 438, 472, 482, 1161,
-1178, 1344, 1356, 1359, 1396,
-1426.
-Modiolaria, 1451.
-cumingiana, 565, 1396.
-cuneata, 565, 1396.
-lanigera, 565, 1396.
-semigranata, 260, 1296.
-varicosa, 565, 1396.
-Moiropsis, 1361.
-claudicans, 747, 1336.
-Molgula,
-forbesi, 573, 1415.
-gigantea, 1171, 1415.
-gregaria, 1180, 1415.
-horrida, 1180, 1415.
-pedunculata, 486, 1353.
-pyriformis, 1192, 1323.
-Molleria,
-cornuta, 734, 931.
-Molpadia, 812, 857.
-Monacanthus,
-convexirostris, 599, 1419.
-filicauda, 732, 1419.
-modestus, 929, 1419.
-occidentalis, 364, 1354.
-pardalis, 834, 1419.
-penicilligerus, 732, 1419.
-scriptus, 1241, 1419.
-septentrionalis, 929, 1419.
-setifer, 314, 929, 1419, 1428.
-tessellatus, 789, 1354.
-Monilea (sce Trochus).
-Monocaulus,
-imperator, 933, 969, 1278, 1281,
-1292.
-Monodonta,
-limbata, 96.
-Monodonta (see Trochus).
-Monostomum,
-faba, 617.
+1529
+Navicula-continued.
+Neæra-continued.
+lyra, 191, 197, 277, 286, 302, 812,
+circinata, 267, 293, 1308.
+903, 937.
+claviculata, 194, 1344.
+var, abnormis, 1027.
+congenita, 194, 1344.
+var. elliptica, 135, 220, 911,
+consociata, 174, 194, 1344, 1356.
+930, 937.
+curta, 194, 272, 1344, 1356.
+major, 888, 911.
+elegans, 726, 1396.
+marginata, 302.
+fallax, 683, 1344.
+maxima, 130, 197, 277, 286, 904.
+filocarinata, 319, 1296.
+mediterranea, 197, 277.
+fragilissima, 437, 1344.
+multicostata, 135, 191, 197, 277,
+kerguelenensis, 472, 1344.
+286, 302, 442, 481, 888, 904,
+meridionalis, 509, 1296.
+938.
+murrayi, 956, 1279.
+nebulosa, 903, 937.
+obesa, 283, 1308.
+nicobarica, 130.
+patagonica, 1143, 1344.
+pitescens, 442, 733, 812, 904,
+platensis, 1191, 1322.
+938.
+teres, 132, 1322.
+notabilis, 191, 938.
+wollastonii, 267, 1308.
+nummularia, 286.
+Nealotus,
+oscitans,
+tripes, 206, 1280.
+var. subundulata, 442. Neasellus,
+pandura, 130, 197, 812, 904, kerguelenensis, 470, 1320, 1326,
+1027.
+1340.
+pelagi, 130, 904.
+Nebalia, 479, 716.
+polysticta, 286.
+geoffroyi, 479.
+var, circumsecta, 135. Nebaliopsis,
+prætexta, 135, 191, 277, 286, 302, typica, 446, 1097, 1279, 1281,
+812, į903, 938, 1027.
+1307.
+var, abundans, 197.
+Nebularia (see Mitra).
+pristiophora, 197.
+Nectria,
+radiosa, 888.
+ocellifera, 537, 1375.
+retusa, 130.
+Nellia,
+rhomboides, 481.
+oculata, 378, 458, 491, 730, 807,
+rimosa, 277.
+1323, 1327, 1413, 1427.
+sandriana, 130, 277, 286.
+simplex, 296, 1297.
+schmidtiana, 930.
+Nematocarcinus,
+serians, 481.
+altus, 772, 1286.
+smithii, 135, 197, 220, 277, 286,
+gracilis, 620, 638, 1321, 1325.
+302, 442, 904, 930, 938.
+hiatus, 608, 1321.
+spectabilis, 135, 892, 903, 911,
+intermedius, 856, 1307.
+938.
+lanceopes, 494, 1307.
+splendida, 130, 191, 197, 442,
+longirostris, 934, 1296.
+930, 938.
+parvidentatus, 935, 1296.
+var. diplosticta, 760.
+paucidentatus, 638, 1321.
+strangulata, 191, 197.
+productus, 665, 668, 759, 792,
+suborbicularis, 197, 930.
+935, 1296, 1300, 1301, 1307,
+var. forficula, 930.
+1311, 1313, 1341.
+subtilis, 515, 517.
+proximatus, 446, 723, 934, 1129,
+viridis, 481.
+1135, 1296, 1300, 1301, 1307,
+weissflogii, 930.
+1311, 1314, 1387.
+(Pinnularia),
+serratus, 608, 1321,
+oblonga, 937, 973.
+tenuipes, 856, 900, 918, 1307,
+Naxia,
+1312, 1313, 1321, 1326, 1341.
+hirta, 830, 1392.
+tenuirostris, 638, 841, 1321, 1325.
+hystrix, 764, 1343.
+undulatipes, 620, 753, 776, 841,
+Neæra, 118, 163, 174, 1344.
+1321, 1325, 1326, 1341, 1356.
+angasi, 579, 1344.
+Nematoncreis, 308, 409, 1381.
+azorica, 283, 1308.
+schmardæ, 358, 1338.
+brazieri, 562, 1396.
+Nematops, 1361.
+capensis, 421, 1344.
+microstoma, 866, 1354.
+(SUMMARY OF RESULTS CHALL. EXP.—1894.)
+Nematoscelis,
+megalops, 230, 1214, 1219, 1221,
+1447.
+microps, 1263.
+rostrata, 337, 853, 887, 1033,
+1208, 1241, 1255, 1262, 1266,
+1269.
+tenella, 428, 1255, 1262.
+Nemausa (see Mithrax).
+Nemichthys,
+infans, 324, 352, 1280, 1282,
+1324.
+Neobuccinum,
+eatoni, 473, 490, 1404, 1426.
+vestitum, 473, 490, 1404, 1426.
+Neobythites,
+graudis, 935, 1298.
+macrops, 634, 815, 1354, 1357.
+ocellatus, 364, 1354.
+Neohela,
+serrata, 469, 1340.
+Neohelia, 1429.
+porcellana, 667, 1368.
+Neomorphaster,
+eustichus, 266, 279, 1304, 1311,
+1317.
+Neosiphonia, 1360.
+superstes, 632, 1329.
+Neotanais, 1451.
+americanus, 214, 1199, 1295,
+1299, 1307, 1447.
+Neottis,
+antarctica, 435, 466, 484, 489,
+1169, 1338, 1356, 1358, 1381,
+1424.
+Nepa, 380.
+Nepanthia,
+brevis, 694, 1375.
+maculata, 720, 1375.
+Nephrops, 740, 790.
+thomsoni,
+788, 1341,
+1356.
+Nephropsis,
+rosea, 239, 1321.
+suhmi, 739, 740, 1321.
+Nephrospyris,
+cordata, 880, 1006, 1041.
+nephridium, 1060.
+paradictyum, 1041.
+paradoxa, 1031.
+phaseolus, 1016, 1046.
+renilla, 1051.
+Nephthys, 504.
+dibranchis, 722, 1381.
+nalmgreni, 112, 1338.
+phyllobranchia, 214, 1305.
+trissophyllus, 465, 489, 1381,
+1424.
+verrilli, 596, 1381.
+Neptunea (sce Fusus).
+193
+591,
+-METALE FREERIDE 23 SB34243 0 SEDMI HEU DISSENY DUHANINI

@@ -1,113 +1,118 @@
-1292
-THE VOYAGE OF H,M.S. CHALLENGER.
-* Hyalonema (Stylocalyx) clavigerum,
-n.sp.
+1296
+THE VOYAGE OF H.M.S. CHALLENGER.
+N
+T
+S
+T
+S
+S
+T BRACHYURA:
+* Gnathophausia affinis, n.g., n.sp.
+gigas, n.g., n.sp.
+SN
+* Ethusa (Ethusina) challengeri, n.sp.
+gracilis, n.g., n.sp.
+coëd, n.g., n.sp.
+S T N
+PYCNOGONIDA :
+Pseudomma sarsii, n.sp. S
+Colossendeis gigas, n.sp.
 s
-* Pheronema carpenteri (Wyville
-Thomson). T
-* Poliopogon amadou, n.g., p.sp.
-* Polyrhabdus oviformis, n.g., 1.sp. S
-CORALS :
-Bathyactis symmetrica (Pourtalès).
+gigas-leptorhynchus, n.sp. S
+MACRURA :
+gracilis, n.sp.
+S
+* Acanthephyra acanthitelsonis, n.sp. T
+leptorhynchus, n.sp.
+brevirostris, n.sp.
+Nymphon hamatum, n.sp. S
+purpurea, M.-Edwards. N
+meridionale, n.sp.
+Aristcus armatus, n.sp.
 S TN
-Caryophyllia berteriana, Duchassaing. N
-Cryptohelia pudica, M.-Edwards and
-Haime. STN
-* Leptopenus discus, n.g., n.sp. S
+Phoxichilidium mollissimum, n.sp.
 N
+* Bentheocaris stylorostratis, n.g., n.sp. T
+oscitans, n.sp.
 N
-HYDROIDA :
-Monocaulus imperator, n.sp.
-N
-Stephanoscyphus simplex, Allman,
-S
-S
-N
-MS., n.sp.
-ALCYONARIA :
-* Acanella arbuscula (Johnson).
-Anthomastus canariensis, n.sp.
-* Callozostron mirabilis, n.g., n.sp.
-* Dasygorgia japonica, n.sp.
-Pleurocorallium johnsoni, Gray.
-* Stenella dæilerleini, n.sp.
-N
-* Strophogorgia fragilis, n.g., n.sp.
-verrilli, n.g., n.sp.
-* Telesto rigida, n.sp.
-N
-N
-DEEP-SEA MEDUSÆ:
-S
-N
-S
-N
-Atolla wyvillii, n.g., n.sp.
-* Periphema regina, n.g., n.sp.
-* Thamnostylus dinema, n.g., 11.sp.
-S
-VA
-PENNATULIDA:
-* Anthoptilum simplex, n.g., n.sp.
-Protoptilum aberrans, n.sp.
-N
-* Umbellula carpenteri, n.sp.
+Benthesicymus altus, n.g., n.sp.
+S T N
+pilosum, n.sp.
 s
-güntheri, n.sp.
-magniflora, n.sp.
-SIPHONOPHORÆ :
-* Bathyphysa gigantea, n.sp.
+brasiliensis, n.g., n.sp. S T
+iridescens, n.g., n.sp.
 s
-* Disconalia pectyllis, n.g., n.sp.
-* Salacia polygastrica, n.g., n.sp.
+mollis, n.g., n.sp.
+S LAMELLIBRANCHIATA :
+* Eryoneicus cæcus, n.g., n.sp.
+N
+Amussium meridionale, 1.sp.
+Gennadlas intermedius, n.g., n.sp.
+S T
+Arca (Barbatia) pteroessa, n.sp.
+TN
+parvus, n.g., n.sp.
+S TN
+* Cryptodon moseleyi, n.sp.
 s
-T
-T
-S
-S
-ANTIPATHARIA :
-* Schizopathes crassa, n.g., n.sp. S
-S
-CRINOIDEA :
-* Antedon abyssorum, n.sp.
-bispinosa, n.sp.
-s
-remota, n.sp.
-s
-Bathycrinus aldrichianus, n.sp.
-campbellianus, n.sp.
-Hyocrinus bethellianus, n.g., n.sp.
-ST
-* Promachocrinus abyssorum, n.g., n.sp. S
-Rhizocrinus lofotensis, Sars. S T
-* Thaumatocrinus renovatus, n.g., n.sp.
-s
-T
-S
+Glyphocrangon rimapes, n.sp.
 SN
-ACTINIARIA :
-* Bunodes minuta, n.sp.
+Cuspidaria (Nyonera) lischkei, n.sp. N
+Hemipenæus spinidorsalis, n.g., n.sp. S T
+* Glomus japonicus, n.sp.
+N
+Haliporus lævis, n.g., n.sp.
+nitens, Jeffreys.
 S
-* Cereus spinosus, n.sp.
+* Hepomadus glacialis, n.g., n.sp.
+N
+* Kellia (?) sp.
+S
+* Hymenodora duplex, n.sp.
+* Leda excisa (Philippi). N
+mollicutis, n.sp.
+S TN
+S
+* Nematocarcinus longirostris, n.sp.
+* Lima (Limatula), n.sp. (?).
+S
+parridentatus, n. sp.
+productus, n.sp.
+TN
+Limopsis pelagica, n.sp. Τ Ν
+proximatus, n.sp. S T N
+Lyonsiella grandis, n.sp.
+* Notostomus murray, n.sp.
+S
+jeffreysi, n.sp
+T
+Pontophilus gracilis, n.sp.
+S T
+paprracea, n.sp.
+Willemæsia leptodactyla, n.g., n.sp. S T * Malletia dunkeri, n.sp.
+N
+* Modiolaria semigranata (Reeves). N
+ANOMURA :
+* Neæra filocarinata, n.sp.
+Munidopsis antonii (M.-Edwards, MS.). S
+meridionalis, n.sp.
+subsquamosa, n.sp.
 SN
-Corallimorphus obtectus, n.g., n.sp.
-Liponema multiporum, n.g., n.sp.
-* Paractis (?) tubulifera, n.sp.
-N
-Polystomidium patens, n.g., n.sp.
-* Porponia robusta, n.g., n.sp.
-N
-Sicyonis crassa, n.g., n.sp.
-S
-* Tealidium cingulatum, n.g., n.sp.
-* Actinian undetermined. s
+Semele (Abra) profundorum, n.sp.
+Parapagurus abyssorum, M.-Edwards. Silenia sarsiä, n.g., n.sp.
+S T N
+* Verticordia tornata (Jeffreys). TN
+T
 s
-S
-ASTEROIDEA :
-Brisinga armillata, n.sp. N
-membranacea, n.sp.
-* Chitonaster catåphractus, n.g., n.sp.
-* Colpaster scutigerula, n.g., n.sp.
-S
-S
+n.sp. (?). S
 N
+N
+(?) sp.
+s
+*
+S
+T
+T
+s
+Τ Ν
+s

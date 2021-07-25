@@ -1,58 +1,59 @@
-1106
+1110
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 294.
+STATION 296.
 Density at 60° F. :-
-.
-Surface,
+Surface, .
 25 fathoms,
 50
 100
 200
-. 1.02519
-. 1.02525
-. 1.02519
+. 1.02536
+1.02525
+1:02527
+1.02520
 1.02536
-1.02548
 300 fathoms,
 400
 800
-1775
-. 1.02542
-. 1.02538
+1350
+Bottom,
+. 1.02537
+1.02530
+. 1.02556
+1.02552
 . 1.02544
-1.02577
 .
-.
-Depth, 2270 fathoms ; deposit, Red Clay, containing only a trace of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4.30 A.M. shortened and furled sails. At 5.30 A.M. proceeded under steam and
-sounded in 2270 fathoms. Took serial temperatures from surface to bottom. The
-carbonic acid was determined in water from 25 and 400 fathoms, and amounted respectively
-to 33:1 and 44:6 milligrammes per litre. At 12.50 P.M. proceeded under steam. The
-weather was calm, and as usual on such occasions very few birds were seen about the ship;
-occasionally a prion, mutton bird, or Diomedea exulans, would bear in sight, course
-around the ship, and soon disappear.
-Valparaiso distant at noon, 1368 miles ; Juan Fernandez, 1028 miles. Made good
-119 miles. Amount of current 10 miles, direction S. 11° W.
-The following species is recorded from this Station :
-DEEP-SEA KERATOSA (Haeckel, Zool. pt. 82).
-Holopsamma argillaceum, n.sp. One specimen ; obtained at no other locality.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.—The following species are recorded from the surface at this
-Station :-
-1
-COPEPODA (Brady, Zool. pt. 23).
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Calanus tonsus, n.sp.
-Clio (Styliola) subula (Quoy and
-Gaimard).
-Cuvierina columnella (Rang).
-In addition, the following are recorded in the note-books :-Peridinium tripos and
-other species, Globigerina, Hastigerina, Pulvinulina micheliniana, Acanthometræ and
-other Radiolaria, Sagitta, Copilia, Setella, and other Copepods, larvæ of Podophthalmiæ,
-Appendicularia, Salpa, and Doliolum. Tow-nets were sent down to 200 fathoms and
-procured, in addition to the organisms noted from the surface, many Medusæ,
-Siphonophoræ, Ctenophoræ, Cypridinæ, Pteropods, several stages of Doliolum, along
-with several forms of Radiolaria (Challengeria, &c.), many small Ameboid particles, and
-Infusoria. The specimens of Pulvinulina were very numerous and very fine and large,
+>
+Depth, 1825 fathoms ; deposit, Globigerina Ooze, containing 64:34 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.30 A. M. shortened and furled sails, and proceeded under steam. At 5.30 A.M.
+sounded in 1825 fathoms. Two layers were noticeable in the sounding-tube, a straw-
+coloured upper layer and a dark brown lower layer, which latter contained much manganese
+and very little carbonate of lime. Put trawl over and veered 2300 fathoms. Obtained
+serial temperatures from surface to bottom. The carbonic acid was determined in bottom
+water and amounted to 447 milligrammes per litre. At 1 P.M. commenced heaving in
+trawl, which came up at 2.20 P.M. containing a few specimens and a little deposit, while
+the attached tow-nets were filled with ooze. At 3 P.M. made sail. Diomedea exulans,
+Diomedea melanophrys (?), Procellaria gigantea, Procellaria capensis, mutton birds,
+Prion turtur, and several small Thalassidromas were seen.
+Juan Fernandez distant at noon, 510 miles. Made good 124 miles. Amount of
+current 17 miles, direction S. 30° W.
+The following species are recorded in the Zoological Reports from the trawl at
+this Station :
+ANIMALS FROM
+TRAWL.
+ACTINIARIA (Hertwig, Zool. pt. 15).
+Polystomidium patens, n.g., p.sp. One specimen; obtained at no other locality.
+Only species of the genus.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophiomusium lymani, Wyville Thomson. For distribution see Station 45.
+Ophiotholia supplicans, n.g., n.sp.
+Obtained at no other locality. Only species of
+the
+genus.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Cystechinus wyvillii, n.g., n.sp. Obtained also at Stations 146, 147, 158, 299,
+and 300.
+HOLOTHURIOIDEA (Théel, Zool. pt. 39).
+Pseudostichopus villosus, n.g., n.sp. One specimen ; obtained also at Stations 61,
+146, 147, 156, 157, 216A, 244, 302, and 325.

@@ -1,104 +1,122 @@
-1326
-THE VOYAGE OF H.M.S. CHALLENGER.
-Ophiomusium cancellatum.
-lymani.
-Aërope rostrata.
-Asthenosoma grucile.
-Brissopsis luzonica.
-Dorocidaris (Cilaris) papilluta.
-Echinus acutus.
-norvegicus.
-Ilemiaster gibbosus.
-Maretia alta,
-Micropyga tuberculata.
-Phormosoma hoplacant) a.
-luculentum.
-Porocidaris elegans.
-Pourtalesia laguncula.
-Prionechinus sagittiger.
-Salenia hastigera.
-Cucumaria serrata,
-Pannychia moseleyi.
-Psolus antarcticus,
-Trochostoma violaceum.
-Cerebratulus macroren.
-Eulagisca corrientis,
-Hyalinecia tubicola.
-Nothia teniusetis.
-Myzostoma murrayi.
-willemoesii.
-xycille-thomsoni.
-Bairilia formosa.
-victrix.
-Bythocypris reniformis.
-Cythere dasy lerma.
-ilictyon.
-Cytherella lata.
-punctata.
-Krithe bartonensis.
-producta.
-Macrocypris similix.
-Scalpellum elongatum.
-intermedium.
-Neasellus kergurlenensis.
-Serolis bromleyana.
-Acanthephyra brachytelsonis.
-sicu.
-Benthesicymus altus.
-Gennadas parvus.
-Glyphocrangon regalis.
-Hemipenxus semidentatus.
-Heterocarpus alphonsi.
-Nematocarcinus tenuipes.
-Nematocarcinus unilulatipes.
-Pasiphæa acutifrons.
-Pentacheles euthrie.
-Plesionika semilæris.
-Sergestes atlanticus.
-japonicus.
-Munila microphthalma.
-spinosa.
-subrugosa.
-Uroptychus australis.
-Phonichilidium patagonicum.
-Cryptodon croulinensis.
-Ervilia subrancellata.
-Leila messanonsis,
-Lima goliath
-(Limatula) confusa.
-Limopsis minuta.
-Montacuta pura.
-Perten ritreus.
-Busilissa alta.
-Bembix æola.
-Cithna tenella.
-Clionella lophočesa.
-Cyclostrema conicum.
-Dentalium entalis.
-Ianthina exigua.
-Marginella (Glabella) musica.
-Natica sp. (?).
-Pleurotoma (Genota) engonia.
-Sequenzia monocinjulata.
-Trochus (Margarita) clavatus.
-Bugula reticulata.
-Caberea daruinii.
-Carbasea dissimilis.
-peilunculata.
-Catenicella elegans.
-Cribrilina monoceros,
-Farciminaria hexagona.
-Hippothoa divaricata.
-Idmonea marionensis.
-Membrani pora galeata.
-umbonata.
-Myriozoum marionense.
-Schizoporella elegans.
-Turritigera stellata.
-Terebratula uva.
-Ascidia tenera.
-Leptoclinum tenue.
-Gonostoma elongatum.
-microdon,
->
->
+1330
+THE VOYAGE OF H.M.S. CHALLENGER,
+T
+T
+T
+V2
+s
+S
+"
+S
+N
+2
+1
+2
+levis, n.sp.
+S
+T
+T
+1
+Thenea schmidtii, n.n. TN
+Rhabdocalyptus raperi, n.g., n.sp.
+s
+* Thrombus challengeri, n.g., n.sp.
+Rossella antarctica, Carter. s
+* Tretolophus paniccus, n.g., n.sp.
+T * Sclerothamnus clausii, Marshall. T
+* Triptolemus cludosus, n.g., n.sp.
+T Semperella schultzei, Semper. T
+* Sympagella nux, Schmidt.
+HEXACTINELLIDA :
+Dictyonine.
+* Acanthascus dubius, n.g., n.sp.
+* Euretid, T
+grossularia, n.g., n.sp.
+Aphrocallistes bocagei, Wright. TN
+CALCAREA:
+rumosus, n.sp.
+T
+Amphoriscus elongatus, n.sp.
+Aulascus johnstoni, n.g., n.sp.
+S
+Eilhardia schulzei, n.g., n.sp.
+S
+Aulocalyx irregularis, n.g., n.sp.
+* Leuconia crucifera, n.sp.
+Aulocystis zittelii (Marshall). T
+fruticosa (Haeckel).
+Bathydorus stellatus, n.g., n.sp.
+* Chonelasma sp. (?). T
+* Leucosolenia blanca (M.-Mackay), var.
+Crateromorpha murrayi, n.sp. T
+bathybia, nov. N
+thierfelderi, p.sp.
+poterium (Haeckel). S
+tumida, n.sp.
+* Ute argentea, n.sp.
+S
+Cyrtaulon solutus, n.g., n.sp.
+N
+Dactylocalyx (?) patella, n.sp.
+N
+ALCYONARIA :
+* Eurete carteri, n.sp.
+Acamptogorgia arbuscula (Gray, MS.). N
+farreopsis, Carter. T
+* Acanella chiliensis, n.sp.
+S
+marshalli, n.sp.
+T
+eburnea (Pourtalès). T
+schmidtii, n.sp.
+T
+rigida, n.sp.
+T
+semperi, n.sp.
+T
+Acanthogorgia laxa, n.sp.
+* Farrea clavigera, n.sp. T
+ramosissima, n.sp.
+occa (Bowerbank), Carter. S T
+ridleyi, n.sp.
+s
+Acis pustulata, n.sp.
+N
+* Fieldingia lagettoides, Kent. T
+* Alcyonium haddoni, n.sp.
+S
+* Hexactinella lata, n.sp.
+T
+Amphilaphis regularis, n.g., n.sp. S
+* Hyalonema toceres, n.sp.
+Anthogorgia japonica, n.sp.
+(Stylocalyx) apertum, n.sp.
+N * Anthomuricea argentea, n.g., n.sp.
+) globus, n.sp. T * Bellonella bocagei (Kent). N
+* Lanuginella pupa, Schmidt. T
+* Caligorgia flabellum (Ehrenberg). N
+Lefroyella decora, n.g., n.sp.
+sertosa, n.sp.
+* Myliusia callocyathus, Gray.
+Callistephanus koreni, n.g., n.sp.
+* Pheronema giganteum, n.sp.
+Ceratoisis grandiflora, Studer. T
+globosum, n.sp.
+paucispinosa, n.sp.
+N
+Polylophus philippinensis (Gray). T * Chironephthya crassa, n.g., n.sp.
+T
+S
+*
+>>
+sp. (?). T
+T
+N
+S
+N
+T
+T
+T
+T
+T
+N

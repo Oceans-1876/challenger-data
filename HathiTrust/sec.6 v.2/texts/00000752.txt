@@ -1,182 +1,183 @@
-1470
+1474
 THE VOYAGE OF H.M.S. CHALLENGER.
-Amphiura-continued.
-angularis, 484, 1334.
-antarctica, 434, 1376.
-argentea, 619, 1317.
-bellis, 637, 898, 921, 1317, 1324,
-1325, 1334.
-canescens, 619, 1317.
-capensis, 417, 1376.
-cernua, 947, 1285.
-concolor, 738, 758, 1304, 1312,
-1317.
-constricta, 556, 1376.
-dalea, 1205, 1278.
-depressa, 646, 912, 1376.
-dilatata, 417, 1376.
-duplicata, 237, 1304.
-glabra, 840, 1317.
-glauca, 898, 921, 1317, 1325, 1334.
-impressa, 906, 1376, 1423.
-incana, 408, 1376.
-iris, 921, 1317.
-josephinae, 307, 1376.
-lanceolata, 607, 1317.
-maxima, 720, 1376.
-otteri, 213, 229, 279, 282, 1304,
-1310, 1312, 1317.
-patula, 503, 1293.
-squamata, 417, 548, 1335, 1358,
-1376, 1448.
-studeri, 434, 463, 488, 1335,
-1358, 1376, 1423.
-tomentosa, 463, 1376.
-verrilli, 234, 1278.
-Amphius, 1429.
-huxleyi, 666, 1364.
-Amphora,
-angusta, 442.
-arcuata, 130.
-arenaria, 286.
-bigibba, 130.
-biseriata, 286.
-crassa, 130, 191, 277, 286, 302, 903.
-var. punctata, 197.
-cuneata, 197, 442, 481.
-cymbifera, 286, 930.
-decora, 442, 481.
-diducta, 930.
-digitus, 286.
-egregia, 286.
-eulensteinii, 286.
-formosa, 286.
-fusca, 286.
-gigantea, 191, 197, 277, 903.
-grevilleana, 130, 286.
-grundleri, 286, 302.
-inflata, 903.
-lanceolata, 197.
-lineolata, 930.
-littoralis, 130, 277.
-mexicana, 903.
-Amphora-continued.
-oblonga, 191.
-obtusa, 130, 286.
-ostrearia, 930.
-pellucida, 286.
-plicata, 442.
-proteus, 130, 197, 277, 286, 302,
-442, 481, 903, 930.
-var, minor, 930.
-quadrata, 930, 937.
-robusta, 130, 277, 286.
-salina, 937.
-scala, 903.
-spectabilis, 130, 197, 903.
-studeri, 903.
-sulcata, 286.
-Amphoriscus,
-elongatus, 432, 1330.
-flamma, 373, 1365.
-poculum, 554, 1365.
-Amphymenium,
-amphistylium, 1268.
-fusiforme, 1213.
-monstrosum, 1099.
-pupula, 1055.
-zygartus, 1045.
-Amussium,
-caducum, 801, 1321.
-cancellatum, 170, 174, 194, 237,
-1308, 1313, 1314, 1343, 1356,
-1359, 1394.
-dalli, 194, 1343.
-jeffreysii, 815, 1343.
-lucidum, 267, 283, 351, 1308,
-1311, 1312, 1321.
-meridionale, 447, 520, 1135,
-1296, 1300, 1308, 1311.
-obliquum, 174, 1343.
-pleuronectes, 727, 786, 1394, 1425.
-propinquum, 283, 1308.
-scitulum, 727, 1394.
-squamigerum, 174,194,1343,1356.
-torresi, 683, 1343.
-watsoni, 856, 1308.
-Amygdala (sec Tapes).
-Anachis (sce Columbella).
-Anacropora, ,
-gracilis, 756, 1368.
-solida, 645, 1368.
-Anaitis (see Phyllodoce).
-Anaitis (see Venus).
-Anamathia,
-pulchra, 815, 1343.
-Anamixilla, 1429.
-torresi, 690, 1365.
-Anapagurus, 1441, 1451.
-australiensis, 560, 1388, 1441.
-chiroacanthus, 1441.
-hyndmanni, 1441.
-lævis, 1441.
-Anapagurus--continued.
-pusillus, 126, 271, 411, 1388,
-1425, 1441, 1447.
-Anatina,
-elliptica, 472, 1394.
-siphonata, 806, 1394.
-Anaulax (sce Ancilla).
-Anaulus,
-minutus, 939.
-Anceus, 480, 535.
-bathybius, 280, 1320.
-gigas, 471, 1340.
-latidens, 698, 1386.
-tuberculosus, 471, 1386.
-Anchialus,
-angustus, 532, 1387.
-pusillus, 774.
-typicus, 418.
-Anchylomera, 160, 575, 585, 592, 682,
-889, 890, 892, 894, 895, 968,
-1251, 1255.
-blossevillii, 892.
-thyropus, 799.
-Ancilla, 560.
-(Amalda),
-oblonga, 568, 1398.
-(Anaulax),
-montrouzieri, 418, 1398.
-mucronata, 598, 1399.
-nana, 599, 1399.
-obtusa, 413, 1399.
-pyramidalis, 594, 1345.
-(Dipsaccus),
-cingulata, 728, 1399.
-Ancylodon,
-atricauda, 1195, 1416,
-Andania,
-abyssorum, 602, 1306.
-boecki, 350, 1320.
-gigantea, 446, 453, 1295, 1299,
-1306.
-Androspyris,
-anthropiscus, 1041.
-aptenodytes, 513.
-homunculus, 1050.
-pithecus, 1051.
-Anebocaris,
-quadroculus, 575, 778, 799, 830.
-Anguilla,
-aneitensis, 1076, 1416.
-mauritiana, 660, 1076, 1416, 1428.
-Angulus (see Tellina).
-Anilocra, 716.
-Ankyroderma, 1450.
-danielsseni, 1157, 1337.
-marenzelleri, 607, 1318.
-simile, 899, 1337.
-Anomalina, 400, 1254.
-ammonoides, 134, 167, 183, 216,
-427, 582, 641, 965.
+Ascaris,
+biloba, 1166, 1380.
+macruri, 619, 1319.
+macruroidei, 453, 1294.
+simplex, 464, 1380.
+spiculigera, 464, 1380.
+Aschenionella, 604, 964, 1111.
+catenata, 145, 166, 181, 294, 319,
+353, 449, 581, 876, 936, 956,
+964, 1066, 1091, 1131, 1200.
+ramuliformis, 211, 294, 529, 956,
+964, 979, 1253.
+Ascidia, 576, 1451.
+challengeri, 476, 1414.
+cylindracea, 550, 1353.
+despecta, 476, 1414.
+falcigera, 227, 1414.
+meridionalis, 1171, 1191, 1192,
+1323, 1327, 1414.
+nigra, 245, 423, 1353, 1360,
+1414, 1447.
+placenta, 486, 1353.
+pyriformis, 574, 1414.
+tenera, 1162,1192,1323,1326,1353.
+translucida, 476, 1414.
+vasculosa, 476, 1414.
+Asconema, 122.
+Ascopera, 1361.
+gigantea, 486, 1353.
+pedunculata, 486, 1353.
+Ascopodaria,
+discreta, 399, 1351.
+fruticosa, 550, 1351.
+Ascorhynchus,
+glaber, 447, 1308.
+minutus, 533, 1393.
+orthorhynchus, 865, 1343.
+Aspa (see Ranella).
+Aspidodiadema,
+microtuberculatum, 357, 367, 389,
+1117, 1124, 1285, 1288, 1290,
+1293, 1300, 1336.
+tonsum, 367, 614, 619, 810, 1293,
+1300, 1301, 1318, 1324, 1327,
+1378.
+Aspidosiphon,
+speculator, 307, 1380.
+truncatus, 780, 1380.
+Aspidostoma,
+giganteum, 398, 1351.
+Assiminea, 571, 713, 1399.
+Astacilla,
+marionensis, 437, 470, 1340,
+1359, 1386.
+Astarte, 227, 1451.
+macandrewi, 127, 1394.
+magellanica, 438, 1343.
+Asterias,
+amurensis, 923, 1374.
+caput-meduse, 76.
+Asterias-continued.
+cunninghami, 1168, 1175, 1374,
+1423.
+glomerata, 1168, 1175, 1374, 1423.
+meridionalis, 434, 462, 1374, 1423.
+perrieri, 462, 1374.
+torquata, 923, 1374.
+versicolor, 906, 1374.
+vesiculosa, 738, 1317.
+(Cosmasterias),
+sulcifera, 1145, 1334.
+tomidata, 1140, 1374.
+(Hydrasterias),
+ophidion, 229, 1303.
+(Leptasterias),
+compta, 224, 1374.
+(Smilasterias),
+scalpriſera, 434, 488, 1374, 1423.
+triremis, 484, 1334.
+(Stolasterias),
+africana, 407, 1374.
+calamaria, 537, 556, 1374, 1423.
+eustyla, 393, 1334.
+gemmifera, 646, 1374.
+glacialis, 306, 1374.
+stichantha, 898, 1334.
+tenuispina, 241, 1374.
+volsellata, 810, 1374.
+Asterina,
+cepheus, 827, 1374.
+exigua, 407, 556, 827, 1374, 1423.
+folium, 241, 1374.
+gunnii, 556, 1374.
+pectinifera, 923, 1374.
+penicillaris, 906, 1374.
+regularis, 595, 1374.
+Asterionella,
+japonica, 930.
+Asterodiscus,
+elegans, 819, 1374.
+Asterogonium, 1143.
+Asterolampra,
+affinis, 1012.
+decora, 1012.
+marylandica, 889, 892, 939, 972,
+1012, 1027, 1043.
+vulgaris, 1012.
+Asteromphalus,
+antarcticus, 515.
+arachne, 303, 319, 889, 938.
+brookei, 220, 264, 278, 287, 443,
+515, 517, 812, 938, 950, 1027.
+cleveanus, 904.
+darwinii, 515, 904.
+forma oblonga, 930.
+elegans, 760, 812, 904, 1012,
+1027, 1043.
+flabellatus, 930.
+hiltonianus, 889, 892, 938, 1012,
+1027.
+Asteromphalus-continued.
+hookerii, 443, 481, 493, 515,
+938.
+forma buchii, 515.
+forma cuvierii, 515.
+forma denarius, 515.
+forma humboldtii, 515.
+humboldtii, 889, 938, 1027.
+imbricatus, 1043.
+roperianus, 287, 303, 760, 812,
+889, 892, 938, 1012, 1043.
+shadboltianus, 972, 1027.
+stellatus, 892, 1043.
+wyvillei, 812.
+Asterope, 193, 1338.
+Asteropus, 1452.
+Asthenosoma,
+coriaceum, 624, 633, 1336, 1355,
+1358, 1378.
+gracile, 607, 679, 776, 864, 1304,
+1312, 1318, 1326, 1336, 1355.
+grubii, 828, 1378.
+pellucidum, 747, 810, 1836,
+1358, 1378.
+tessellatum, 788, 1336.
+Astractura,
+clavigera, 1031, 1039, 1051,
+1055, 1060.
+democriti, 1015.
+hippocratis, 1011.
+ordinata, 1254.
+Astræa,
+abyssorum, 719, 745, 1332, 1358,
+1367.
+ananas, 241, 1368.
+cavernosa, 365.
+coarctata, 241, 1368.
+danæ, 643, 1368.
+doreyensis, 755, 1368.
+fragilis, 824, 1368.
+fragum, 306, 1368.
+ordinata, 824, 1368.
+pandanus, 755, 1368.
+speciosa, 756, 1368.
+versi pora, 643, 1348.
+Astrella, 1360, 1451.
+vosmaeri, 1150, 1329.
+Astrеорога,
+profunda, 756, 1368.
+Astriclypeus,
+manni, 923, 1378.
+Astrocapsa,
+quadrifida, 950.
+stellata, 495.
+Astroceras, 1327.
+pergamena, 918, 1317.
+Astroclon, 1361.
+propugnatoris, 746, 1335.
+Astrocyclia,
+heterocycla, 1254.
+1

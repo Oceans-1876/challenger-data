@@ -1,42 +1,40 @@
 SUMMARY OF RESULTS.
-933
-STATION 237,
-Density at 60° F. at surface, 1.02570 ; bottom, 1.02555.
-Depth, 1875 fathoms ; deposit, Blue Mud, containing 4:45 per cent. of carbonate
-of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 5 A.M. sounded in 1875 fathoms, about 40 miles S. E. of No Sima lighthouse.
-At 7 A.M. put trawl over. At 10 A.M. obtained serial temperatures down to 1500 fathoms.
-At noon commenced heaving in trawl, which came up at 2.40 P.M. with numerous
-specimens, a large quantity of mud, pumice-stones, large hardened blocks of the deposit,
-Cephalopod beak, vertebra of fish, and leaves of dicotylodonous trees. Surface current
-running at the rate of about 11 knots per hour. At 3.15 P.M. completed temperatures,
-and made sail to a strong southerly breeze, which during the night increased to a gale.
-Black albatrosses, small petrel-like birds, and larger petrels were seen.
-Distance at noon from Honolulu, Sandwich Islands, 3346 miles.
-Made good
-41 miles. Amount of current 14 miles, direction N. 74° E.
-The following species are recorded in the Zoological Reports from the trawl at
-this Station :-
-ANIMALS FROM
-TRAWL.
-ALCYONARIA (Wright and Studer, Zool. pt. 64).
-Strophogorgia verrilli, n.g., n.sp. Obtained also at Station 235.
-Dasygorgia japonica, n.sp. Obtained at no other locality.
-Stenella dæderleini, n.sp. Several specimens; obtained at no other locality.
-ACTINIARIA (Hertwig, Zool. pts. 15 and 73).
-Cereus spinosus, n.sp.
-Four specimens; obtained also at Station 157.
-Paractis (?) tubulifera, n.sp. Two specimens ; obtained at no other locality.
-Porponia robusta, n.g., n.sp. One specimen ; obtained at no other locality. The
-only other species of the genus (Porponia elongata) was
-taken at Station 160.
-Liponema multiporum, n.g., n.sp. One specimen ; obtained also at Stations 147
-and 305. Only species of the genus.
-HYDROIDA (Allman, Zool. pt. 70).
-Monocaulus imperator, n.sp. Obtained also at Station 248, 2900 fathoms.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Pararchuster semisquamatus, n.g., n.sp. Obtained also at Stations 44 or 45 (var.)
-and 235.
-Porcellanaster tuberosus, n.g., n.sp. Obtained at no other locality.
-(SUMMARY OF RESULTS CHALL. EXP.--1893).
-118
+935
+Nematocarcinus productus, n.sp. One specimen ; obtained also at Stations 177 (?), Station 237.
+195, and 205.
+parvidentatus, n.sp. Nine specimens; obtained at no other locality.
+ANOMURA (Henderson, Zool. pt. 69).
+Parapagurus abyssorum, M.-Edwards, MS. Several specimens; for distribution
+see Station 56.
+Munidopsis subsquamosa, n.sp. Two specimens; obtained also at Stations 146
+and 302 (var.).
+BRACHYURA (Miers, Zool. pt. 49).
+Ethusa (Ethusina) challengeri, n.sp. One specimen ; obtained at no other locality.
+PYCNOGONIDA (Hoek, Zool. pt. 10).
+Phoxichilidium mollissimum, 11.sp.
+One specimen ; obtained at no other locality.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Malletia dunkeri, n.sp. Obtained at no other locality.
+Glomus japonicus, n.sp. Obtained at no other locality.
+Arca (Barbatia) pteroessa, n.sp.
+Obtained also at Stations 16, 24, 71, 73,
+and 246.
+Cuspidaria (Myonera) lischkei, n.sp. [Sce Proc. Zool. Soc. Lond., 1891, p. 438].
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Octopus januarii, Steenstrup, MS. One specimen ; obtained also at Station 122.
+Promachoteuthis megaptera, n.g., n.sp. One specimen ; obtained at no other
+locality. Only species of the genus.
+BRACHIOPODA (Davidson, Zool. pt. 1).
+Terebratula (or Terebratulina ?) dalli, n.sp.
+One specimen ; obtained at no other
+locality:
+Discina atlantica, King. Several specimens ; for distribution see Station 106.
+Fishes (Günther, Zool. pt. 57).
+Neobythites grandis, n.sp. One specimen ; obtained at no other locality.
+Macrurus asper, n.sp. One specimen ; obtained at no other locality.
+altipinnus, n.sp.
+One specimen ; obtained also at Station 235.
+liocephalus, n.sp.
+One specimen; obtained also at Station 246,
+2050 fathoms.
+1

@@ -1,111 +1,41 @@
-REPORT ON OCEANIC CIRCULATION,
-1
-19
-cause operates strongest during those months when, as in the case of Australia,
-atmospheric pressure is lower in the interior than on the coast. Those winds, of
-course, blow the warm waters toward the coast. The other cause is the back water, or
-counter equatorial current to the east, which sets in particularly in the eastern division of
-the region of calms between the north and south trades.
-In the Pacific, in equatorial regions, a great breadth of that ocean from Galapagos
-Islands to long. 165° E. has a temperature under the mean, falling to 50° in the middle
-region from long. 122° to 148° W. This low temperature of 50°, taken in connection
-with the isothermal of 72°, only eighteen degrees of latitude to the south, presents
-what may be regarded as perhaps the most striking fact of oceanic circulation. In
-August 1875 the Challenger took several soundings in this part of the ocean, and in
-Number 6 of the Preliminary Reports there is represented on Plate IV. the vertical
-distribution of temperature in this region as contrasted with surrounding regions.
-The following extracts from the Challenger soundings, Nos. 410 and 417, taken
-respectively on August 30 and September 14, 1875, will show the extraordinary
-differences in the rates of change of temperature with depth in these two parts of
-the ocean down to 200 fathoms :
-Depth in
-Fathoms.
-No. 410.
-No. 417
-Lat. 7° 35' N. Lat. 11° 20'S.
-Long. 149° 49' W. Long. 150° 30' W.
-Difference.
-Surface.
-81°:0
-800.0
-+10.0
-10
-20
-30
-45
-50
-79.3
-79°3
-799.3
-78°.2
-749.0
-790.9
-79'.8
-79°.6
-799.4
-790.0
-- 0°.6
--0°.5
--0°:3
--1°.2
---5°:0
-60
-70
-80
-90
-100
-63º.4
-56.2
-52.6
-51°0
-50°.3
-78.0
-76°:7
-75°:3
-7307
-72.0
-- 14°.6
-- 20°-5
-- 22°:7
-- 22.7
-- 21°:7
-110
-120
-130
-140
-150
-50°:0
-49°:8
-49°:6
-49°•4
-49°.2
-70':1
-68°:3
-66°:2
-64° 0
-61°4
-- 20°:1
--18°.5
-- 16°:6
--14°.6
-- 120.2
-160
-170
-180
-190
-200
-49°:0
-48°.8
-48°.6
-489.4
-48°.2
-58°.9
-5694
-54°.2
-52'.4
-50°.8
-- 99.9
--7° -6
--5°.6
-- 4:0
--2°.6
+REPORT ON OCEANIC CIRCULATION.
+23
+are in the lines of the drift of the surface currents. The highest isothermal in any
+other ocean is 53°, or 10° lower than that of the North Atlantic, thus emphatically
+distinguishing this ocean as, in this respect, markedly different from all other oceans.
+The ten observed specific gravities in the Atlantic from lat. 13° to 40° N. give a
+mean of 1.0266, only one occurring as low as 1:0262 near Cape Verde Islands. In
+marked contrast with this, the mean of the fifteen specific gravities observed between
+lat. 10° and 40° S. is 1.0258, only one of which exceeded the minimum of the North
+Atlantic. Thus, we have still in the North Atlantic the specific gravities greatly more
+favourable to the descent of the warm water of the higher strata, and the observa-
+tions of temperature amply show that this descent takes place.
+A very different state of things now holds good in the Pacific Ocean, which in its
+western division has temperatures above the mean uninterruptedly through eighty
+degrees of latitude, and in its eastern division through forty degrees. As in the case
+of the Atlantic, the higher temperatures are in the western part of the ocean or in the
+lines of the warm surface currents. A lower temperature still prevails in mid-ocean
+immediately south of the equator, and from the western projection of this low
+temperature area to the south there is a somewhat rapid increase of temperature
+amounting at this depth to 5º. The two regions of highest temperature are 51° about
+ten degrees of latitude south of Japan, and 50° the same distance north of New Zealand.
+The specific gravities, while still a little higher in the South than in the North
+Pacific, now approximate to each other over the whole extent of the ocean from lat.
+30° N. to 40° S., the mean being 1.0256, very much below the specific gravity of the
+North Atlantic,
+Depth of 400 Fathoms (Map 6). — The mean temperature of the ocean at 400
+fathoms is 41°:8, or 2°.9 less than at 300 fathoms. The excess of temperature in the
+North Atlantic is even more pronounced than at the previous depth. In the South
+Atlantic the highest temperature is 42º.5, or only 0°:7 above the mean temperature of
+the whole ocean, but in the North Atlantic nearly the whole extent of it has a higher
+temperature than this, and the maximum temperature rises to 55°, or 12°.5 higher than
+in the South Atlantic. It is also to be noted that the higher temperatures still occupy
+the western division of the ocean.
+The specific gravities of the two oceans are very different. In the North Atlantic
+the mean is 1.0264, but in the South Atlantic it is 1.0258, and in the Gulf of Guinea
+1.0254. The densities thus favour the descent of the warmer water of the upper layers
+to greater depths in the North than in the South Atlantic.
+In the North Pacific the highest isothermal is 43°, but in the South Pacific this
+isothermal covers a much wider extent, and temperature rises within the warm area to
+47°, or 4° higher than in the North. In this part of the ocean the mean specific gravity
+is 1.0259, but elsewhere in the North and South Pacific it is only 1.0255.

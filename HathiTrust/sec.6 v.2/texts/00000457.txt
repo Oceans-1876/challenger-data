@@ -1,89 +1,53 @@
 SUMMARY OF RESULTS.
-1185
-STATION 318.
-.
-Challengeria thomsoni, Murray. AMPHIPODA (Stebbing, Zool. pt. 67).
-Gazelletta studeri, Haeckel.
-Podocerus falcatus (Montagu).
-Primno sp. (?).
-OSTRACODA (Brady, Zool. pt. 3).
-Halocypris atlantica, Lubbock. SCHIZOPODA (Sars, Zool. pt. 37).
-Thysanoëssa gregaria, n.sp.
-COPEPODA (Brady, Zool. pt. 23).
-Oithona challengerii, n.sp.
-TUNICATA (Herdman, Zool. pt. 76).
-Goniopsyllus rostratus, n.g., n.sp.
-Doliolum ehrenbergi, Krohn.
-Corycæus varius, Dana.
-sp., (blastozooids).
-In addition, the following are recorded in the note-books :-Peridinium, Globigerina,
-Sagitta, Tomopteris, Cypridina, Hyperids, Euphausia, Atlanta, Salpa. The tow-nets
-at the trawl and weights yielded many deep-sea Radiolaria (Challengeria, Tuscarora, &c.),
-along with Crustaceans and very large Sagittæ (some over two inches in length).
-Station 319 (Sounding 469), Falkland Islands to Rio de la Plata (see Chart 42 Station 319.
-and Diagram 22).
-February 12, 1876 ; lat. 41° 54' S., long. 54° 48' W.
-Temperature of air at noon, 62°:8; mean for the day, 61°:3.
-Temperature of water :-
-o
-Surface,
+1187
+Station 320.
+Density at 60° F. :-
+Surface, .
 25 fathoms,
 50
-75
 100
-125
-150
-175
-200
-225
-250
-275
-300
-59.5
-52.2
-48.2
-44.8
-43.0
-41:6
-40.6
-40.0
-39.5
-39.2
-39.0
-38.8
-38.6
-400 fathoms,
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
+. 1.02523
+. 1.02534
+. 1.02488
+. 1.02562
+200 fathoms,
+400
 Bottom,
-38:1
-37.6
-37:1
-368
-36.8
-36.8
-36.8
-36.8
-36.8
-36.8
-36.8
-36.8
-32:7
->
-9)
-9
-Density at 60° F. at surface, 1.02555; bottom, 1.02552.
-Depth, 2425 fathoms ; deposit, Blue Mud, containing 6:41 per cent. of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 5 A.M. got up steam. At 6.25 A.M. shortened and furled sails, and proceeded
-under steam to sound. At 7 A.M. sounded in 2425 fathoms. Took serial temperatures
-1
+1:02531
+1.02533
+1.02541
+Depth, 600 fathoms; deposit, Blue Mud, containing 11.89 per cent. of carbonate
+of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.30 A.M. proceeded under steam and sail, the wind having fallen off. At 8.30 A. M.
+shortened and furled sails. At 9 A.M. stopped and sounded in 600 fathoms; the sounding-
+tube contained only a small phosphatic concretion. Put trawl over. Obtained serial
+temperatures down to bottom. At 11.30 A. M. commenced heaving in trawl, which came
+up at 12.30 P.M. containing a little mud, five or six phosphatic concretions, and
+numerous specimens. This was one of the richest hauls made during the cruise. At
+2 P.M. proceeded under steam and sail.
+Lobos Island distant at noon, 144 miles. Made good 110 miles. Amount of current
+17 miles, direction S. 5° W.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :
+ANIMALS FROM
+TRAWL.
+MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
+Halichondria latrunculioides, n.sp. Three specimens ; obtained at no other locality.
+sp. (?). Two specimens.
+Gellius lævis, n.sp. Two specimens ; obtained at no other locality.
+calyx, n.sp. One specimen; obtained at no other locality.
+flabelliformis, n.sp. Several specimens ; obtained at no other locality.
+sp. (?). One specimen.
+Tedania massa, n.sp. Numerous specimens ; obtained also at Stations 163 and 313.
+Vomerula esperioides, n.sp. One specimen ; obtained also at Station 142.
+Esperella lapidiformis, n.sp. One specimen ; obtained at no other locality.
+Phelloderma radiatum, n.g., n.sp. One specimen; obtained at no other locality.
+Only species of the genus.
+Amphilectus annectens, n.sp. One specimen ; obtained at no other locality.
+Mycilla spongiosa, n.sp. One specimen ; obtained at no other locality.
+hastata, n.sp.
+One specimen; obtained at no other locality.
+compressa, n.sp. Six or eight specimens ; obtained at no other locality.
+nobilis, n.sp. Three specimens ; obtained also at Station 148.
+Ciocalypta hyaloderma, n.sp. Four specimens ; obtained at no other locality.
+amorphosa, n.sp. Five or six specimens; obtained at no other locality.

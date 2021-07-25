@@ -1,120 +1,106 @@
-1574
+1578
 THE VOYAGE OF H.M.S. CHALLENGER.
-Xiphostylus-continued.
-trochilus, 957.
-trogon, 878.
-Yoldia, 1451.
-hoylei, 956, 1279.
-isonata, 472, 1398.
-lischkei, 900, 1345.
-subæquilateralis, 472, 1398.
-Zafra (see Columbella).
-Zanclifer,
-caribensis, 376, 1389.
-Zanclorhynchus, 1429.
-spinifer, 478, 1421.
-Zaramilla,
-kergueleni, 482.
-Zaus,
-spinatus, 482.
-Zeidora,
-naufraga, 175, 1350.
-Zemira (see Eburna).
-Zetes, 261, 365.
-Zonarium-continued.
-quadrispinum, 1060.
-tetratholium, 949, 1046.
-Zonaspis,
-æquatorialis, 1251.
-cingulata, 1064.
-fragilis, 1218.
-Zoniscus,
-hexathalamus, 957.
-hexatholius, 879, 1040, 1132.
-octacanthus, 1006.
-rectangulus, 979.
-tetracanthus, 1040.
-Zonodiscus,
-saturnalis, 1226.
-Zoontocaris,
-approximus, 835, 836.
-galatheæ, 552.
-Zoroaster,
-fulgens, 217, 229, 350, 1304,
-1310, 1311, 1317.
-tenuis, 855, 1304.
-Zozymus,
-æneus, 648, 1393.
-Zygacantha,
-complanata, 958.
-compressa, 1261.
-costata, 1013, 1017, 1019, 1024,
-1028, 1032, 1046, 1053, 1057,
-1062.
-Zygæna,
-malleus, 308, 309, 629, 1000,
-1421, 1428.
-Zygartus,
-chrysalis, 1031, 1039, 1050, 1055,
-1059.
-doliolum, 1031, 1039, 1045.
-Zygocampe,
-chrysalidium, 1050, 1055, 1059.
-corasium, 979.
-Zygocampe—continued.
-pupula, 1015.
-Zygocircus,
-acacia, 1015.
-dodecanthus, 1006, 1011, 1015,
-1022.
-hexagonus, 950.
-pentagonus, 1022.
-rhombicus, 1040, 1046, 1226.
-sagittalis, 1011, 1015, 1022.
-tetragonus, 1231.
-Zygospyris,
-equus, 1250.
-quadrupes, 1226.
-Zygostaurus,
-amphithectus, 1053.
-caudatus, 1013.
-frontalis, 1062.
-longicornis, 1108.
-sagittalis, 1046.
-Zygostephanium,
-constrictum, 1053.
-dizonium, 1022.
-paradictyum, 922.
-Zygostephanus,
-bicornis, 1132.
-dissocircus, 1040, 1046.
-ramosus, 957.
-reniformis, 880, 1040.
-serratus, 1015.
-violina, 1218.
-Zeus,
-faber, 1440.
-japonicus, 927, 1421.
-Zeuxis (see Nassa).
-Zidona (see Voluta).
-Ziphius, 383.
-Ziziphinus (see Trochus).
-Zoanthus, 240, 1367.
-confertus, 406, 1367.
-danæ, 240, 1367.
-Zoëa,
-elaphoceras, 783.
-Zonarium,
-octangulum, 1040.
-quadrigatum, 1051.
-Genera doubtful :-
-(?),
-clava, 277, 1353.
-(?),
-ignotus, 1171, 1416.
-(!),
-pyriformis, 477, 1416.
-
-AL
-PEARSON.SE
-LABORATORY FOR MICROSCOPIC WORK ON BOARD H.M.S. CHALLENGER.
+Axolotl, 1458.
+Azores, 269, 278, 280, 281.
+Phænician and Cyrenian coins from, 4.
+Ball, ~,
+Bacciali, -, 58.
+Bache, A. D., 87, 89.
+Bacon, Francis, 63.
+Roger, 32, 33, 37, 38, 41,
+Baer, K. von, 5.
+Baffin, William, 48.
+Baffin's Bay, 48, 76.
+Bahama Bank, 99.
+Babia, 371.
+Bailey, J. W., 87, 89, 90, 91, 98.
+Balanidæ, 807, 842, 851, 1029.
+Balbao, Vasco Nuñez de, 45.
+Balbi, Adriano, 72.
+Baldassari, G., 62.
+Balearic Islands, 13.
+81.
+Balls of Cirripeds, 971.
+Baltic Sea, 31, 77.
+Banda Islands, 751, 755.
+Banks, J., 69.
+Barbarians, 29.
+Barbier du Meynard, 32.
+Barboza du Bocage, 97.
+Barents, W., 47.
+Bark of trees, floating, 851.
+Barker, —, 105.
+Barnacles, 252, 670.
+Bartholomew, J. G., xxxix.
+Basaltic pebbles, 1065, 1088, 1128.
+Basic volcanic glass, 1114.
+materials, 1102, 1103.
+Bate, C. Spence (see Macrura).
+Bathometers, 56, 57, 58.
+Bathymetrical chart, Maury's, 91.
+data, earliest, 16.
+distribution of marine organisms, 80, 81,
+82, 83, 84, 85, 86, 1275.
+zones of Forbes, 82, 83, 84, 86.
+Baum, August, 45.
+87.
+Bay of Bengal first crossed, 31.
+Biscay, 102, 106B.
+Beacon, the, 82.
+Beagle, the, 70.
+Beaks of Cephalopods, 501, 933, 1116, 1122.
+Ziphioid whales, 1090.
+Beaufoy, the, 70.
+Beccari, J. B., 62.
+Beche, H. T. de la, 80.
+Beddard, F. E. (see Isopoda).
+Beechey, F. W., 70.
+Beetles, 297, 328.
+Behaim, Martin, 42, 53.
+Belcher, Edward, 70.
+Belknap, G. E., 104.
+Bell, F. J., 448.
+Beloidea, 1044.
+Beneden, P. J. van,
+222.
+Bengal formed by sediment from River Ganges, 34.
+Bent, J. T., 3, 32.
+Benthos, or bottom-living species, comparison of in
+deep water of high northern, high
+southern, and tropical regions, 1438.
+(number of), in shallow and deep zones, 1435.
+tables showing distribution of, 1430.
+Berger, H., 5, 10, 16.
+Bergh, R. (see Marseniadæ and Nudibranchiata).
+Bergman, T. O., 52, 75.
+Bering, V., 48, 69.
+Berlin, 77.
+Bermuda, 192, 198, 199, 200, 201, 239.
+Bernouilli, D., 63.
+Berryman, Lieut., 90, 92.
+Berthoud, F., 71.
+Bianchi, G., 62.
+Biancho, Andrea, 40.
+Bibb, the, 99.
+Biblical passages about the sea, 2, 3.
+Bilin, 77.
+Bipinnaria, 853, 951, 1256, 1260.
+Birds, 212, 322, 384, 506, 523, 584, 632, 665, 672,
+674, 743, 783, 849, 933, 941, 944, 967, 969,
+989, 990, 1010, 1021, 1026, 1058, 1069, 1083,
+1099, 1100, 1102, 1103, 1106, 1114, 1212,
+1214, 1216, 1223, 1246, 1265.
+Bivalves, 78, 482, 681, 948 (see also Lamellibran-
+chiata).
+Black, J. S., xxxviii.
+Black night-hawks, 1100, 1182, 1183, 1198, 1203,
+1204, 1212, 1222.
+prions, 891.
+Sea, 16, 20, 21, 24, 27, 39, 106c.
+present condition of water in, 1439.
+Blaeu, William, 55.
+Blancanus, J., 57.
+Blandet, on the size of the sun, 1457.
+Baur,
+9
+I

@@ -1,24 +1,22 @@
 894
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 231.
-.
-.
 Density at 60° F.:-
-Surface,
+Surface, .
 25 fathoms,
 50
 100
 1:02541
-1.02566
+. 1.02566
 1:02562
-. 1.02650
+1.02650
 200 fathoms,
 300
 400
 Bottom,
 1.02546
 1.02544
-1.02549
+. 1.02549
 1.02579
 .
 Depth, 2250 fathoms ; deposit, Blue Mud, containing only a trace of carbonate of
@@ -31,8 +29,8 @@ Distance at noon from Redfield Rocks, 189 miles. Made good 70 miles. Amount
 of current 7 miles, direction S.
 ORGANISMS FROM
 THE DEPOSIT.
-RADIOLARIA (Haeckel, Zool. pt. 40).— The following species of Radiolaria were
-observed in the deposit from this Station :-
+RADIOLARIA (Haeckel, Zool. pt. 40).—The following species of Radiolaria were
+observed in the deposit from this Station -
 Distephanus corona, Haeckel.
 Aulographis tuumorpha, Haeckel.
 furcula, Haeckel.
@@ -40,7 +38,7 @@ Aulospathis diodon, Haeckel.
 Challengeria sigmodon, Haeckel.
 Challengeria harstoni, Murray.
 murrayi, Haeckel.
-Challengeron channeri, Murray.
+Challengeron chunneri, Murray. .
 ciliatum, Haeckel.
 Haeckeliana goetheana, Haeckel.
 ORGANISMS FROM
@@ -51,7 +49,7 @@ RADIOLARIA (Haeckel, Zool. pt. 40).
 Sagoplegma pyramidophora, Haeckel.
 Staurotholus polystylus, Haeckel.
 Aulosphæra triodon, Haeckel.
-Staurotholonium octodoratium, Haeckel.
+Staurotholoniumoctodoratium, Haeckel.
 Auloscena tentorium, Haeckel.
 Sethoconus trochus, Haeckel.
 Auloplegma spongiosum, Haeckel.
@@ -61,8 +59,7 @@ Castanissa crosbiei, Haeckel.
 In addition, the following are recorded in the note-books (April 9, 10) :-Diatoms,
 Noctiluca, Pyrocystis (two varieties), Peridinium (two species) in catena, Acineta (on
 tails of Copepods), Globigerina, Orbulina, Hastigerina, Pulvinulina, Challengeridæ
-(from tow-net sent down to 1000 fathoms), Medusæ, Diphyids, Velella, Ctenophoræ,
+(from tow-net sent down to 1000 fathoms), Medusa, Diphyids, Velella, Ctenophoræ,
 small Ophiurid (from net sent down to 1000 fathoms), Sagitta, Tomopteris-like Annelid,
 Annelid and Planarian larvæ, Cythere, Cypridina (several species), Saphirina and other
 Copepods, Rhabdosoma, Phronima, Phornimella, Anchylomera, Hyperids, Oxycephalus,
-1

@@ -1,77 +1,60 @@
 SUMMARY OF RESULTS.
-943
-Surface Organisms.—The following species are recorded from the surface at this Station 239.
-ORGANISMS FROM
-Station :
-SURFACE-NETS.
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Theocampe cryptoprora, llaeckel.
-Sphærozoum armatum, Haeckel.
-Auloceros furcosus, Haeckel.
-Xiphacantha platyptera, Haeckel.
-Sagoplegma pyramidophora, Haeckel.
-Orophaspis astrolonche, Haeckel.
-Aulosphæra bifurca, Haeckel.
-tessaraspis, Haeckel.
-Medusetta craspedota, Haeckel.
-Castanidium bethelli, Haeckel.
-Phractopelta dorataspis, Haeckel.
-Dorypelta lithoptera, Haeckel.
-Calodendrum flabellatum, Haeckel.
-Sethophormis umbrella, Haeckel. TUNICATA (Herdman, Zool. pt. 76).
-Sethoconus trochus, Haeckel.
-Doliolum challengeri, n.sp.
-In addition, the following are recorded in the note-books :-Diatoms (very few),
-Pyrocystis, Globigerina, Orbulina, Hastigerina, Pullenia, and other Foraminifera
-(abundant), Siphonophoræ, Sagitta, Saphirina and other Copepods, Phronima, Hyperids,
-Euphausia, Lucifer, Sergestes larvæ, Pteropods and other small shells, Appendicularia,
-small fishes. The absence of Noctiluca, Daphnia, brackish-water Diatoms, and the larvæ
-of shallow-water organisms, indicated that the ship had again entered truly pelagic waters.
-Station 240 (Sounding 382), Yokohama to Sandwich Islands (sce Chart 36 and Station 240.
+915
+STATION 240.
+shells, Glaucus, Doliolum, Salpa, Appendicularia. The ship passed through red and
+white-coloured patches of water, and about the same time a great change was noticed
+in the temperature of the surface water, which fell from 22° to 18° C. ; the patches
+were so noticeable that the hand lead was cast to see if there were not a shoal. The
+discoloration seemed to be due to Copepods, some of which were of a bright red colour,
+similar to what was observed in the Southern Indian Ocean, while others belonging to
+a different species were quite pale, and many of them dead.
+Willemoes-Suhm writes: “The surface abounded with Hyperia, as on the passage
+from Bermuda to Halifax. I found a minute Zoëa, notable for the insertion of the
+eyes
+deeply into the carapace, which has been figured by Dohrn from the Indian Ocean ; after
+a careful search I failed to find any further specimens.”
+June 22, 1875.
+Strong southerly breeze during the night and early morning. At 3 A.M. shortened
+sail, and at 4 A. M. put over trawl with two tow-nets attached. When about 1900 fathoms
+had been veered, the trawl-rope fouled the screw and parted, the trawl and line
+being lost. In the evening it became calm and many Copepods and specimens of
+Doliolum were obtained in the surface-nets.
+Distance at noon from Honolulu, 2543 miles. Made good 140 miles. Amount of
+current 20 miles, direction N. 32° E.
+STATION 241.
+Station 241 (Sounding 383), Yokohama to Sandwich Islands (see Chart 36 and
 Diagram 17).
-June 21, 1875; lat. 35° 20' N., long. 153° 39' E.
-Temperature of air at noon, 67°•3 ; mean for the day, 68°:4.
-Temperature of water:-
-40:1
+June 23, 1875; lat. 35° 41' N., long. 157° 42' E.
+Temperature of air at noon, 70°:3 ; mean for the day, 69°:8.
+Temperature of water :-
+99
 Surface,
-10 fathoms,
-20
-30
-40
+25 fathoms,
 50
-60
-70
-80
-90
+75
 100
-115
 125
-130
 150
 175
 200
-64:8
-61.5
-58.5
-56.0
-54.2
-52:4
-51.0
-49.6
-48:3
-47.0
-45.8
-44.0
-43.2
-428
-41:4
-40.6
-40.2
-225 fathoms,
+225
 250
 275
 300
-400
+69.2
+64:7
+62.5
+60.8
+59.3
+57.5
+55.5
+53:1
+50.7
+48.7
+46:3
+44:0
+42:4
+400 fathoms,
 500
 600
 700
@@ -84,20 +67,16 @@ Surface,
 1400
 1500
 Bottom,
-.
-40.0
-40.0
-39.6
-38.2
-37:4
+398
+38.4
+37.7
+37.2
 36.9
-36:4
+36.6
 36:3
-36.2
-36-0
-35.9
+36.0
 35.7
-35.5
-35:3
+35:4
 35:1
-34.9
+35:1
+35:1

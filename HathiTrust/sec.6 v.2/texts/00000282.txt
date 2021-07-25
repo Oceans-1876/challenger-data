@@ -1,110 +1,100 @@
-1030
+1032
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 270.
-Temperature of water :-
-Surface,
-10 fathoms,
-20
-30
-40
-50
-99
-79.5
-78.7
-77.7
-77.0
-76.2
-75.5
-75:3
-75:3
-72:8
-67.3
-62.8
-59:1
-56.5
-55.0
-54.2
-53.5
-53.2
-52.9
-60
-70
-80
-90
-100
-110
-120
-130
-140
-150
-160
-170
-180 fathoms,
-190
-200
-300
-400
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-52:6
-52:3
-52.0
-48.3
-45.0
-42:7
-40.6
-39.5
-38.7
-38.0
-37.7
-37.3
-37:0
-36.7
-36:3
-36-0
-34.6
-.
-Density at 60° F. :-
-Surface,
-25 fathoms,
-50
-100
-200
-1.02621
-. 1.02591
-. 1.02572
-1:02567
-1.02572
-300 fathoms,
-400
-2500
-Bottom,
-1.02575
-1.02572
-1.02575
-1.02578
-99
-Depth, 2925 fathoms; deposit, Globigerina Ooze, containing 71:47 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4.15 A.m shortened and furled sails. At 5.30 A.m proceeded under steam. At
-6 A.M. sounded in 2925 fathoms. There were about six inches of ooze in the tube, the
-lower part pure white and gradually becoming brown on the upper surface. The white
-lower layer was nearly pure Globigerina Ooze, while the upper brown layer seemed to be
-composed of equal parts of siliceous and calcareous organisms. Took serial temperatures
-down to 1500 fathoms. At 8.30 A. M. temperature line fouled the screw. Stopped and
-lowered whaler to inspect the line ; raised screw and cleared the line. At noon
-completed observations and made all plain sail.
-Venus Point, Tahiti, distant at noon, 1203 miles. Made good 104 miles. Amount
-of current 55 miles, direction S. 76° W.
-The following species of Deep-Sea Keratosa and Radiolaria were observed in the deposit
-from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+:p
+>
+Sethocapsa pyriformis, Haeckel.
+macroceros, Haeckel.
+Dictyoceras insectum, Haeckel.
+Pterocanium orcinum, Haeckel.
+Podoc yrtis tripodiscus, Haeckel.
+costata, Haeckel.
+scaphopodia, Haeckel.
+lithoconus, Haeckel.
+Theopera fusiformis, Haeckel.
+Cycladophora pantheon, Haeckel.
+Theocyrtis microtheca, Haeckel.
+Tricolocampe cylindrica, Haeckel.
+polyzona, Haeckel.
+urnula, Haeckel.
+arcta, Haeckel.
+Lophocorys bovicornis, Haeckel.
+Theocampe sphærothorax, Haeckel.
+Theocapsa mülleri, Haeckel.
+daruinii, Haeckel.
+Lithost robus hexastichus, Haeckel.
+Lithostrobus seriatus, Haeckel.
+Artostrobus articulatus, Haeckel.
+Lithomitra nodosaria, Haeckel.
+Eucyrtidium hexagonatum, Haeckel.
+teuscheri, Haeckel.
+stöhrii, Haeckel.
+Siphocampe erucosa, Haeckel.
+Spirocyrtis cornutella, Haeckel.
+merospira, Haeckel.
+Spirocampe collispira, Haeckel.
+Stichocapsa quadrigata, Haeckel.
+Mesocena stellata, Haeckel.
+Dictyocha triommata, Ehrenberg.
+Distephanus pentasterias, Haeckel.
+octonarius, Haeckel.
+Cannosphæra pacifica, Haeckel.
+Challengeron monodon, Haeckel.
+crosbiei, Haeckel.
+Caelodendrum serratum, Haeckel.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms. The following species are recorded from the surface at this
+Station :
+RADIOLARIA (Haeckel, Zool., pt. 40).
+Sphærozoum stellatum, Haeckel.
+Sethodiscus phacoides, Haeckel.
+Plegmosphæra pachyplegma, Haeckel.
+Hymeniastrum euclidus, Haeckel.
+Collosphæra pyriformis, Haeckel (?).
+Myelastrum dodecaceros, Haeckel.
+polyedra, Haeckel.
+Hexapyle dodecantha, Haeckel,
+Siphonosphæra macrosiphonia, Haeckel.
+Pylodiscus triangularis, Haeckel.
+Saturnalis annularis, Haeckel.
+Spongobrachium lanceolatum, Haeckel.
+Hexalonche xenophanis, Haeckel.
+Larnacantha quadricornis, Haeckel.
+Hecacontium phænaxonium, Haeckel.
+Amphipyle octoceros, Haeckel.
+acophænum, Haeckel.
+Tetrapyle quadricornis, Haeckel.
+papillosum, Haeckel.
+quadrigata, Haeckel,
+Acanthosphæra insignis, Haeckel.
+Octopyle sexangulata, Haeckel.
+capillaris, Haeckel.
+Pylonium quadricorne, Haeckel.
+Heliosphæra polygonuria, Haeckel.
+Lithelius solaris, Haeckel.
+Cladococcus pinetum, Haeckel.
+Phorticium spironium, Haeckel.
+Haliomma datura, Haeckel.
+Actinelius primordialis, Haeckel.
+wyvillei, Haeckel.
+Acanthometron cylindricum, Haeckel.
+Heliosoma radians, Haeckel.
+bulbiferum, Haeckel.
+Elatomma pinetum, Haeckel.
+Zygacantha costata, Haeckel.
+Diplosphæra hexagonalis, Haeckel.
+Acanthonia denticulata, Haeckel.
+Actinomma hexagonium, Haeckel.
+diplopyramis, Haeckel.
+capillaceum, Haeckel.
+Astrolonche bicruciata, Haeckel.
+Arachnosphæra dolichacantha, Haeckel.
+Xiphacantha
+falcata, Haeckel.
+Rhizosphæra serrata, Haeckel.
+Amphilonche conica, Haeckel.
+Druppatractus hippocampus, Haeckel.
+acufera, Haeckel.
+Cypassis puella, Haeckel.
+Acantholonche amphipolaris, Haeckel.

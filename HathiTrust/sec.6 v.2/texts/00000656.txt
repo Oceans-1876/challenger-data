@@ -1,125 +1,125 @@
-1376
+1380
 THE VOYAGE OF H.M.S. CHALLENGER.
-var.
-*
+S
 T
-*
->
-99
-T
+S
 T
 2
-var.
 S
 S
-sp. (?). T
-* Pentaceros productus (Bell),
-OPHIUROIDEA :
-tuberata, nov.
-Amphiura antarctica (Ljungman). S
-turritus, Linck. T
-capensis, Ljungman. S
-constricta, n.sp.
 S
-* Pentagonaster astrologorum (Müller and *
-Troschel). S
-depressa (Ljungman). TN
 S
-dilatata, n.sp.
-granularis (Retzius). N
-patagonicus, n.sp. S
-impressa (Ljungman). N
-semilunatus, Linck.
-incana, n.sp.
 S
-* Peribolaster folliculatus, n.g., n.sp.
 S
-josephina, Ljungman.
-* Perknaster fuscus, n.g., n.sp.
+* Thyonidium rugosum, n.sp.
 S
-maxima, n.sp.
+Phymosoma japonicum, Grube.
+Trochostoma violaceum, Studer. S
+scolops, Selenka and De Man.
 T
-* Pontaster hebitus, n.g., n.sp.
-N
-squamata (Delle Chiaje), Sars.
-venustus,
-S
-n.g., n.sp.,
-robusta, nov. Τ Ν
-studeri, Lyman.
-* Porania glaber, n.sp.
-S
-tomentosa, n.sp.
-magellanica, Studer. S
-T
-spiculata, n.sp.
-ST
-Astronyx loveni, Müller and Troschel.
-* Pseudarchaster intermedius, n.g., n.sp.
-N
-N
-* Astrophyton costosum, Seba. T
-tessellatus, n.g., n.sp.
-S
-exiguum, Agassiz. T
-Psilaster acuminatus, n.g., p.sp. S Astrotoma agassizii, Lyman.
+ENTOZOA :
+* Thalassema baronia, Greeff. T
+* Ascaris biloba, n.sp.
 s
-cassiope, n.g., n.sp. T
-* Euryale aspera, Lamarck.
-patagiatus, n.g., n.sp.
-T
-Gorgonocephalus pourtalesii, Lyman. S
-* Pteraster affinis, Smith. S
-verrucosus (Lamarck).
-militaris, Müller and Troschel.
-S
-N
-Ophiacantha bidentata (Retzius), Ljung-
-semireticulatus, n.sp.
-N
-* Retaster insignis, n.sp.
-discoidea, n.sp.
-verrucosus, n.sp.
-imago, n.sp.
+ANNELIDA :
+simplex, Rudolphi. S
 s
-* Rhipidaster vannipes, n.g., n.sp.
-T
-longidens, n.sp.
-T
-* Solaster endeca (Retzius), Forbes. N
-vivipara, Ljungman. S
-* Stellaster incei, Gray. T
-Ophiactis asperula (Phil.). S
-princeps, n.sp.
-T
-carnea, Ljungman. S
-* Stichaster albulus (Stimpson), Verrill.
-milleri, Lütken,
+spiculigera, Rudolphi.
 N
-quinqueradia, nov.
-aurantiacus (Meyen), Verrill.
-resiliens, n.sp.
-s
-S.
-savignyi (Müller and Troschel).
-felipes, n.sp. S
+* Ammotrypane gracile, n.sp.
+* Filaria flabellata, n.sp.
 T
-polyplas (Müller and Troschel).
-S
-s
-S
+* Amphitrite kerguelensis, MʻIntosh. S
+paradisex, n.sp.
 T
-*
+Aphrodita australis, Baird.
+* Tania clavulus, n.sp.
+T
+* Aricia platycephala, n.sp.
+N
+trichoglossi, n.sp.
+* Artacama challengeriæ, n.sp.
+S
+increscens, n.sp.
+zebuensis, n.sp.
+* Autolytus maclearanus, n.sp.
+NEMERTEA :
+* Brada mammillata, Grube.
+Amphiporus marioni, n.sp.
+S
+S
+whiteavesiä, n.sp.
+moseleyi, n.sp.
+* Chloeia flava (Pallas). TN
+Cerebratulus angusticeps, n.sp.
+fusca, n.sp.
+T
+corrugatus (MʻIntosh). * Cirraiulus assimilis, n.sp.
+N
+longifissus, n.sp.
+S
+capensis, Schmarda.
+parkeri, n.sp.
+S
+zebuensis, n.sp.
+T
+truncatus, n.sp.
+N
+* Dasybranchus (?) sp.
+N
+two species undetermined. S * Dasychone bairdi, n.sp.
+T
+japonica, n.sp.
+N
+* Drepanophorus lankesteri, n.sp. N
+nigro-maculata (Baird). T
+rubrostriatus, Hubrecht.
+orientalis, n.sp.
+T
+picta, n.sp.
+N
+serraticollis, Hubrecht. S * violacea (Schmarda). S
+* Eupolia delineata (Delle Chiaje). T
+wyvillei, n.sp.
+* Tetrastemma agricola, n.sp. N
+Ditrypa arietina, Müller.
+* Eone trifida, n.sp.
+S
+GEPHYREA :
+* Eulalia capensis, Schmarda. S
+* Aspidosiphon speculator, n.sp.
+* Eunice aphroditois, Pallas. S T
+truncatus, Keferstein.
+barvicensis, n.sp.
+* Dendrostoma blandum, Selenka and De
+bassensis, n.sp.
+S
+Man. N
+cirrobranchiata, n.sp.
+N
+* Echiurus unicinctus, Drasche. N
+elseyi, Baird.
+* Phascolion tubicola, Verrill.
+equibranchiata, n.sp.
+T
+* Phascolosoma capense, Teuscher.
+kobiensis, n.sp.
+N
+pudicum, n.sp.
+s
+magellanica, n.sp.
+N
+T
 >
-*
+T
+N
+T
+T
+N
+>
+>
+T
+N
 S
-man.
-T
-T
-S
-*
-var.
-T
-*
-T
-sp. (?).
+22
+s

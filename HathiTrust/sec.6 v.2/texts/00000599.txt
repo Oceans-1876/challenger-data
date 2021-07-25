@@ -1,111 +1,83 @@
 SUMMARY OF RESULTS.
-1321
-S
-T
-T
-T
-hiatus, n.sp.
-S
-T
-S
-T
-nov.
-* Hemipenæus gracilis, n.g., n.sp.
-T * IIomologenus sp. (?). T
-semidentatus, n.g., n.sp.
-ST Munida microphthalma, M.-Edwards. ST
-Heterocarpus alphonsi, n.sp.
-TN
-spinosa, n.sp.
-gibbosus, n.sp.
-T
-subrugosa (White). S
-* Hymenodora mollis (Smith).
-Junidopsis brevimana, n.sp.
-T
-Merhippolyte orientalis, n.g., n.sp.
-milleri, n.sp.
-* Nematocarcinus gracilis, n.sp. S T
-pilosa, n.sp
-T
-* Pagurodes limatulus, n.g., n.sp.
-T
-paucidentatus, 1.sp. T * Paralomis formosus, 1.5P.
-s
-serratus, n.sp.
-S * Parapagurus affinis, n.sp.
-tenuipes, n.sp.
-TN Uroptychus australis, n.sp. ST
-tenuirostris, n.sp.
-T
-politus, n.sp.
-undulatipes, n.sp. S T
-spinimarginatus, n.sp. S T
-Nephropsis rosea, n.sp.
-N
-suhmi, n.sp.
-T
-BRACHYURA:
-* Notostomus brevirostris
-, n.sp.
-* Cyrtomaia suhmii, n.g., p.sp. T
-japonicus, n.sp.
-N
-Ethusa (Ethusina) gracilipes, n.sp. T
-* Oplophorus brevirostris, n.sp.
-T
-( ) )
-var. robusta,
-longirostris, n.sp.
-T
-typus, M.-Edwards.
-T
-Oncinopus aranea, De Haan. S T
-* Pandalopsis amplus, n.g., n.sp.
-s
-Pasiphæa acutifrons, n.sp. SN
-PYCNOGONIDA :
-amplidens, n.sp.
-* Nymphon perlucidum, n.sp. T
-Pentacheles euthrix, n.g., n.sp.
-S T * Oorhynchus aucklanilia, n.g., n.sp.
-gracilis, n.g., n.sp.
-T
-Phoxichilidium patagonicum, n.sp., var.
-læris, n.g., n.sp.
-ST
-elegans, nov. s
-* Phoberus tenuimanus, n.sp. T
-Plesionika semilævis, n.g., n.sp.
-ST LAMELLIBRAXCHIATA :
-Polycheles helleri, n.sp. S T
-* Amussium caducum, n.sp. T
-* Procletes biangulatus, n.g., n.sp.
-T
-lucidum (Jeffreys). TN
-Sergestes atlanticus, M.-Edwards. S TN
-Cryptodon croulinensis (Jeffreys). N
-japonicus, n.sp.
-Τ Ν
-Ervilia subcancellata, n.sp. Τ Ν
-kröyeri, n.sp.
-s
-Leda messanensis, Seguenza. N
-prehensilis, n.sp.
-N
-solidula, n.sp.
-T
-* Stereomastis auriculata, n.g., 11.sp. Lima goliath, Sowerby. SN
-Stylodactylus discissipes, n.sp. S
-(Limatula) confusa, n.sp. Τ Ν
-orientalis, n.sp.
-s
-Limopsis lata, 1.sp. S
-ANOMURA:
-minuta (Philippi). TN
-Eupagurus rubricatus, n.sp.
-Lyonsia formosa, Jeffreys. N
-N
-S
-T
-v2
+13:25
+Aranthephyra sira (3).
+Benthesicymus altus (5).
+Gennalas parrus.
+Haliporus neptunus.
+llemipenæus semulentatus.
+Nematocarcinus gracilis
+tenuirostris.
+undulatipes.
+Uroptychus australis.
+spinimarginatus.
+Ethusa (Ethusina) gracilipes.
+Moliola watsoni.
+Vatica (Amauropsix) apora.
+Cirroteuthis meangensis.
+Bathygalus cottoides (4).
+Bathypterois longifilis.
+quadrifilis.
+Gonostoma microdon (5).
+Macrurus crassiceps.
+parallelus (4).
+rudis (3)
+Scopelus macrolepidotus.
+Sternoptyx iliaphana (3).
+Synaphobranchus pinnatus (3).
+The majority of these were taken at two Stations, while 11 were taken at three
+Stations, 4 at four Stations, and 3 at five Stations.
+Of the 225 species taken in this zone between 500 and 1000 fathoms, as well as in
+deeper or shallower zones, 17 species (or 8 per cent.) were obtained in the zone beyond
+2500 fathoms, 18 species (or 8 per cent.) in the zone between 2000 and 2500 fathoms,
+30 species (or 13 per cent.) in the zone between 1500 and 2000 fathoms, and 74 species
+(or 33 per cent.) in the zone between 1000 and 1500 fathoms ; lists of these have already
+been given (see pp. 1281-2, 1289–90, 1300, 1311-12).
+The following 149 species (or 66 per cent.) were taken in the zone between 100 and
+500 fathoms :
+Axinella erecta.
+Gellius cariluus.
+Iophon chelifer.
+Mycilla nobilis.
+Suberites mollis.
+Tedania massa.
+Vomerula esperioiiles.
+Thenea schmiiltii.
+Fairea orra.
+Rossella antarctica.
+Cerutoisis grandiflora.
+Dasygorgia axillaris.
+Sarakk crassa.
+Phellia spinifera.
+Bathyartis symmetrica.
+Caryophyllia communis.
+maculata.
+Cryptohelia pulica.
+Cyathoceras cornu.
+Deltocyathus italicus.
+Errina labiata.
+Flabellum pertum.
+(SUMMARY OF RESULTS CHALL. EXP.-1894.)
+Stenohelia profunla.
+Anteion multispinu.
+Euliocrinus semperi.
+Pentacrinus alternicirrus.
+naresianus.
+Rhizocrinus lofotensis.
+Labidiaster annulatus.
+Porania spiculata.
+Amphiura bellis.
+glauca.
+Ophiacantha abnormis.
+cosmica.
+rosen.
+vivipara.
+Ophiactis flexuosa.
+Ophioceramix obstricta.
+Ophiochiton fastigatus.
+Ophiorreas oedipus.
+Ophioglypha con fragosa.
+jejuna. .
+lepila.
+Ophiomitra normani.
+>
+167

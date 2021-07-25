@@ -1,27 +1,53 @@
-VERTICAL
-SCALC
-FATHOMS
-_F
-V
-1900
-ma
-v
-C
-DIAGRAN 6
-Nosimal. Japan
-Bhe Mu
-E:S6
-145 2675-69*5
-Blue Mid
-trace
-2250 64
-29
-Summary of Results.
-27°
-Red Clay
-0-00%
-26"
-2425 - 68.5
-230
-STRA TU
-24°
+SUMMARY OF RESULTS.
+895
+Euphausia pellucida with eggs and Nauplii, Siriella, Lucifer, Phyllosoma, Sergestes Station 231.
+and larvæ, Brachyurous Zoëæ, Cleodora [ :- Clio), Cuvierina, Hyalæa [ = Cavolinia),
+Styliola, small Cephalopod with ten arms (over an inch in length), Appendicularia,
+Fritillaria, Doliolum, Salpa (with Coccospheres, &c., in the stomach), Leptocephalus,
+Stomiatidæ. The tow-nets from the surface were filled with Diatoms and Noctilucæ,
+making the water quite thick when placed in the globes, whereas two tow-nets sent down
+to 900 and 1000 fathoms contained fewer Noctilucæ and Diatoms, and the water in the
+globes remained clear. Sometimes the ship appeared to be passing through patches of
+greenish water, in which Noctiluca, numerous Diatoms, and larval forms indicating
+brackish water were rather abundant, but these were quite absent from the surrounding
+deep blue water.
+The following species are recorded in the Zoological Reports from the surface in the
+North-West and West Pacific and between New Guinea and Japan, the exact date
+not being noted:
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Tremoctopus gracilis (Eydoux and
+Souleyet), Tryon (?).
+TUNICATA (Herdman, Zool. pt. 76).
+Cyclosalpa pinnata (Forskål).
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Paraphronima cuivis, n.sp.
+Phronima sp. (?).
+Anchylomera sp. (?).
+MACRURA (Spence Bate, Zool. pt. 52).
+Acanthosoma brevitelsonis, n.sp.
+tynitelsonis, n.sp.
+dorsispinalis, n.sp.
+Mastigopus acetiformis, n.sp.
+spiniventralis, n.sp.
+Sergestes corniculum, Krøyer.
+semiarmis, n.sp.
+Lucifer typus, Thompson.
+reynaudii, M.-Edwards.
+Eretmocaris remipes, n.g., n.sp.
+Amphion sp. (?), (larvæ).
+Pelagic HEMIPTERA (White, Zool. pt. 19).
+Halobates sericeus, Eschscholtz.
+germanus, n.sp.
+FISHES (Günther, Zool. pt. 78).
+Holocentrum sp. (?).
+Histiophorus sp. (?).
+Lirus paucidens, n.sp.
+Psenes cyanophrys, C.V.
+Thynnus thunnina (C.V.), (young).
+Lophotes cepedianus, Giorna, (young).
+Young Pleuronectid (Synaptura ?).
+Scopelus coccoi (Cocco).
+nigro-ocellatus (Günther).
+AT JAPAN.
+The Challenger anchored off Yokohama at 5 P.m. on April 11, 1875, remaining there
+till 2.30 P.M. on May 11, when she sailed for the Inland Sea, anchoring near the entrance

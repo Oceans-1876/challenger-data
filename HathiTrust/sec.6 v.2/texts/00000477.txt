@@ -1,94 +1,37 @@
 SUMMARY OF RESULTS.
-1201
-STATION 323.
-15
-99
-99
-Х
-х
-X
-Ammodiscus charoides (Jones and Parker).
-gordialis (Jones and Parker).
-spectabilis, Brady (?).
-Trochammina inflata (Montagu).
-pauciloculata, Brady.
-ringens, Brady.
-trullissata, Brady.
-Weblina clavata, Jones and Parker.
-hemisphærica, Jones, Parker, and Brady.
-Cyclammina orbicularis, Brady.
-pusilla, Brady.
-Verneuilina propinqua, Brady.
-Gaudryina pupoides, d’Orbigny.
-Clavulina communis, d'Orbigny.
-Bulimina affinis, d'Orbigny.
-Bolivina punctata, d'Orbigny.
-Lagena acuta, Reuss.
-formosa, Schwager, var. comata, Brady.
-gracilis, Williamson.
-gracillima (Seguenza).
-lævis (Montagu).
-longispina, Brady.
-marginata (Walker and Boys).
-quadricostulata, Reuse.
-sp. (?).
-Nodosaria (Glanılulina) æqualis, Reuss.
-filiformis, d'Orbigny ().
-Lingulina carinata, d'Orbigny, var. seminuda,
-Hantken.
-Cristellaria gibba, d'Orbigny.
-mamilligera, Karrer.
-reniformis, d'Orbigny.
-Uvigerina angulosa, Williamson.
-asperula, Czjzek.
-var. auberiana, d'Orbigny.
-Pygmæa, d'Orbigny.
-x Globigerina bulloides, d'Orbigny.
-conglobata, Brady.
-inflata, d’Orbigny.
-rubra, d'Orbigny.
-sacculifera, Brady.
-x Orbulina universa, d’Orbigny.
-Pullenia quinqueloba, Reuss.
-Sphæroidina bulloides, d'Orbigny.
-Spirillina decorata, Brady.
-Truncatulina akneriana (d'Orbigny).
-lobatula (Walker and Jacob).
-pygmæa, Hantken.
-Pulvinulina menardii (d'Orbigny).
-var. fimbriata, Brady.
-micheliniana (d'Orbigny).
-patagonica (d'Orbigny).
-Rotalia broeckhiana, Karrer.
-soldanii, d'Orbigny.
-х
-Х
-х
-Х
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Cenosphæra rosetta, Haeckel.
-Xiphosphæra euphrosyne, Haeckel.
-Hexalonche geometrica, Haeckel.
-Larnacoma lentellipticum, Haeckel.
-Trizonium pleurobelonium, Haeckel.
-Staurotholus quadratus, Haeckel.
-Aegospyris octospina, Haeckel.
-Gorgospyris liriope, Haeckel.
-Acanthocorys furcata, Haeckel.
-Catinulus quadrifidus, Haeckel.
-Circospathis tetrodonta, Haeckel.
-Haeckeliana lamarckiana, Haeckel.
-Surface Organisms.—The following species are recorded from the surface at this ORGANISMS FROM
-SURFACE-NETS.
-Station :
-RADIOLARIA (Haeckel, Zool. pt. 40).
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Clio (Creseis) acicula (Rang).
-Larcarium polystylum, Haeckel.
-Aulographis bovicornis, Haeckel.
-TUNICATA (Herdman, Zool. pt. 76).
-Challengeria thomsoni, Murray.
-Salpa democratica - mucronata,
-Forskål.
-In addition, the following are recorded in the note-books : Globigerina,
-Acanthometræ and compound Radiolaria, Carchesium, Siphonophoræ, Sagitta,
+1205
+STATION 325.
+CORALS (Moseley, Zool. pt. 7).
+Bathyactis symmetrica (Pourtalès). Fourteen specimens ; for distribution see
+Station 24.
+SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
+Anthemodes articulata, n.sp. Obtained at no other locality.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Pontaster pristinus, n.g., n.sp. One specimen ; obtained at no other locality.
+Dytaster nobilis, n.g., n.sp. Several specimens; obtained at no other locality.
+Hymenaster pergamentaceus, n.sp. Obtained at no other locality.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophiocten umbraticum, n.sp. Several specimens; obtained at no other locality.
+Amphiura dalea, n.sp. Several specimens ; obtained at no other locality.
+HOLOTHURIOIDEA (Théel, Zool. pt. 13).
+Scotoplanes papillosa, n.g., n.sp. One specimen ; obtained at no other locality.
+Oneirophanta mutabilis, n.g., n.sp. Several specimens; obtained also at
+Stations 146, 157, 160, 241, 244, 281, and 299.
+ANNELIDA (MʻIntosh, Zool. pt. 34).
+Myriochele heeri, Malmgren, var, One specimen; the species obtained also at
+Stations 20 and 47 (var.).
+Amphicteis sarsi, n.sp. One specimen ; obtained at no other locality.
+Eupista grubei, n.g., n.sp. Several specimens; obtained at no other locality. The
+only other species of the genus (Eupista darwini) was taken at
+Stations 63 and 298.
+Macrura (Spence Bate, Zool. pt. 52).
+Hemipenæus speciosus, n.g., n.sp. Two specimens ; obtained at no other locality.
+PYCNOGONIDA (Hoek, Zool. pt. 10).
+Colossendeis brevipes, n.sp. Two specimens ; obtained at no other locality.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Silenia sarsii, n.g., n.sp. One specimen ; obtained also at Station 157. Only
+species of the genus.
+GASTEROPODA (Watson, Zool. pt. 42).
+Stylifer brychius, n.sp. Several specimens ; obtained at no other locality.
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+152

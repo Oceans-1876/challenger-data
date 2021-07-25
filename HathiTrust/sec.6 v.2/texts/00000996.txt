@@ -1,41 +1,40 @@
-30
+34
 THE VOYAGE OF H.M.S. CHALLENGER.
-throws into the Atlantic a body of water much salter, and therefore, even after allowing
-for temperature, much denser, than the water of that ocean,
-At 200 fathoms to the east of the Strait the temperature is 55°, from which, on
-proceeding eastwards, it gradually rises to 57° about long. 20° E. and to 58° in the
-Levant.
-To the east of the Strait the specific gravity is now 1.0287, while a little to
-the west in the Atlantic it is 1.0268 ; in the Levant the specific gravity is 1·0290. At
-300 fathoms, and down to the bottom of the sea, the temperature of the western basin
-is 55°-5 and of the eastern basin 56°5; the mean specific gravity is 1•0290, calculated
-from the numerous observations made in the eastern basin by the “Pola” Expeditions in
-1890-92. From the few deep-sea observations made of specific gravities in the western
-basin, it is probable that the mean there is about 1.0286. The greatest depth observed
-by the “Pola” was 4400 metres, or 2406 fathoms, in lat. 35° 45' N. and long. 21° 46' E.,
-the temperature at that depth being 56°:3 and the specific gravity 1.0295. The above
-temperature is fully 20° higher than in the open ocean at that depth, and is closely
-approximate to the temperature of the Atlantic adjoining the Strait of Gibraltar at the
-depth of the ridge separating the two seas, or nearly 200 fathoms.
-Owing to the great specific gravity of this warm undercurrent from the Mediterranean,
-it gradually sinks on entering the Atlantic, but its effect in heating the waters of
-this ocean over any considerable extent only becomes clearly apparent at the depth
-of 500 fathoms. Beyond this depth, its great influence is felt over nearly the whole
-breadth of the Atlantic to at least about 1000 fathoms. Periodical surveys of the
-Mediterranean would serve many important objects; thus, if made every five
-years,
-it
-would soon be shown whether the outflow of the Gibraltar undercurrent of such high
-specific gravity is attended with any diminution of the salinity of this sea. It is
-therefore not winds and currents, but different specific gravities and different levels,
-which rule the interchanges of the waters of this sea.
-The Red Sea.
-The mean annual temperature of the surface waters near the head of the sea is 77º;
-it rises to 80° about lat. 22° N., to 84° in lat. 16° N., and then drops down to 82° at the
-Straits. The isothermal of 80° is in long. 50° E.
-At the Strait of Bab-el-Mandeb the specific gravity is 1.0275, which quickly increases
-on advancing northward to 1.0280, 1.0285, 1.0290, 1.0295, 1.0300, 1.0305, and near
-Suez to 1.031. These specific gravities are caused by the rapid evaporation which takes
-place on account of the great heat, dryness, and rainless character of the climate of this
-arm of the sea.
-At 100 fathoms the temperature near the north end of the sea is 65°, from which
+The Arctic Ocean (inclusive of the Norwegian Sea).
+This ocean is bounded on the south by the Faroe Ridge, at a depth not exceeding
+260 fathoms, extending from Iceland in a south-east direction to a point 45 miles south
+of Faroe. To this succeeds a deeper channel, the Wyville Thomson Ridge, 30 miles
+across, descending to 380 fathoms, on the east of which commences a shorter ridge,
+with a depth of 260 fathoms, connecting it with the mainland of Scotland. Since the
+shallowest part of the sea from Iceland to Greenland is less than 260 fathoms, it
+follows that this ocean is a “closed sca” at all depths greater than 260 fathoms, except
+for the short distance of 30 miles where the ridge sinks down to 380 fathoms.
+Owing to the prevailing south-westerly winds and accompanying current, the
+isothermals of the surface of the sea from 60° to 45° are pushed to higher latitudes than
+anywhere else on the globe, and it is to be remarked that the isothermals of the
+surface water of the sea are, for the same positions, much higher than those for the air.
+The line of maximum temperature is not close to the coast, but lies out in the Atlantic
+a considerable way from the west coasts of Europe. The extension of the isothermal
+of 40° eastwards round the north of Norway, and of the isothermal of 30° northwards
+beyond Spitzbergen, are points of great interest in connection with the distribution of
+the isobars and prevailing winds of this region.
+It is not only higher temperatures but also higher specific gravities that this great
+oceanic current conveys into high latitudes. Thus in the North Pacific the specific
+gravity of 1.0260 extends only to about lat. 33° N., and in the South Pacific, South
+Atlantic, and Indian Ocean it just passes lat. 40° S. in a few places. In the North
+Atlantic, however, it extends as far north as lat. 72° N. and the specific gravity of
+1.0255 to lat. 78° N. This northern extension of the region of high temperature and
+specific gravity is doubtless occasioned by the complete absence of icebergs in the
+eastern division of this ocean. The important result is that the higher temperature of
+the surface descends to greater depths in this ocean than would otherwise be the case.
+The lowering of the specific gravities, by the rivers and rainfall, from the English
+Channel northwards along the west coast of Norway to Vardö is strongly marked.
+It will be observed that at 100 fathoms there is an area to the south-west of
+Spitzbergen, extending as the depth increases, where the temperature is only 30°. This
+is the region where the prevailing winds, after curving round from the south-west to
+the north-east, sweep along the fields of Arctic ice, in relation to which the course of
+the isothermal of 35° is interesting. At this depth the highest temperature is close in
+shore to the eastward.
+The specific gravities closely follow those of the surface. The mean of ten
+observations about lat. 73° N. and long. 0° to 40° E. is 1.0258, which is very greatly in
+excess of any specific gravity observed in any ocean in similar latitudes. These,

@@ -1,38 +1,59 @@
 SUMMARY OF RESULTS.
-867
-STATION 220.
-Density at 60° F. at surface, 1.02580; 350 fathoms, 1:02551 ; bottom, 1:02560.
-Depths, 1100 fathoms ; deposit, Globigerina Ooze, containing 63.75 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 9 A.M. shortened and furled sails, and got up steam to sound. At 9.30 A.M.
-stopped and sounded in 1100 fathoms, about 80 miles due N. of the N.E. extremity of
-Admiralty Islands. At 11.30 A.M. put trawl over. At 1.30 P.M. obtained serial
-temperatures down to the bottom. At 4 P.m. hove up trawl with some pumice-stones
-and a few specimens. At 5.30 P. M. completed temperatures. Owing to strong surface
-current drifting ship away from sounding-line, 200 fathoms were deducted from the
-1300 fathoms run out, to allow for the angle of the line, but the temperature curve
-seemed to indicate the actual depth to be about 1200 fathoms.
-to be about 1200 fathoms. At 6 P.M. made
-all plain sail.
-Distance at noon from Guam Island, 850 miles. Made good 82 miles. Amount of
-current 22 miles, direction W.
-The following species are recorded in the Zoological Reports from the trawl
-at this Station
-ANIMALS FROM
-TRAWL.
-DEEP-SEA KERATOSA (Haeckel, Zool. pt. 82).
-Psammina globigerina, n.g., n.sp. Obtained at no other locality.
-MACRCRA (Spence Bate, Zool. pt. 52).
-Gennadas parvus, n.g., n.sp. Three specimens ; for distribution see Station 45.
-Oplophorus typus, M.-Edwards. One specimen ; obtained also at Station 196.
+869
+STATION 221.
+Density at 60° F.:-
+Surface,
+10 fathoms,
+1.02624
+1.02596
+1:02602
+1:02616
+100 fathoms,
+200
+300
+350
+1:02625
+1.02574
+1.02562
+1.02565
+20
+50
+Depth, 2650 fathoms; deposit, Red Clay, containing only a trace of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 5.45 A.M. got up steam, shortened and furled sails, and proceeded under steam.
+At 6.30 A.M. sounded in 2650 fathoms. At 10 A.M. obtained serial temperatures down
+to 1525 fathoms. At 12.30 P.M. completed observations and made all plain sail.
+Distance at noon from Guam Island, 789 miles. Made good 56 miles. Amount of
+current 14 miles, direction S. 82° W.
+Surface Organisms.—The following species are recorded from the surface in the ORGANISMS FROM
+SURFACE-NETS.
+vicinity of this Station :
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Psilomelissa galeata, Haeckel.
+Sethoconus trochus, Haeckel.
+Dictyomitra macilenta, Haeckel.
+Mastigopus sp. (?).
+Elaphocaris sp. (?) ( = Zoëa of
+Sergestes).
+SCHIZOPODA (Sars, Zool. pt. 37).
+Euphausia pellucida, Dana.
 CEPHALOPODA (Hoyle, Zool. pt. 44).
-Eledonella diaphana, n.sp.
-One specimen ; obtained at no other locality.
-Fishes (Günther, Zool. pt. 57).
-Melamphaës crassiceps, n.sp. One specimen ; obtained also at Stations 107,
-120, and 146.
-Gonostoma microdon, n.sp. One specimen; for distribution see Station 23.
-Another shrimp and another fish are recorded in the Station-book.
-Excluding Protozoa, about 10 specimens were obtained at this Station, belonging
-to 8 species, of which 5 are new to science, including representatives of 2 new genera ;
-2 of the new species were not obtained elsewhere.
+Ommastrephes oualaniensis (Lesson).
+MACRURA (Spence Bate, Zool. pt. 52).
+Mastigopus dorsispinalis, n.sp.
+FISHES (Günther, Zool. pt. 78).
+Psenes cyanophrys, C.V.
+In addition, the following are recorded in the note-books (March 13 to 15) :-
+Peridinium (two species), Pyrocystis, Ethmodiscus and other Diatoms (Planktoniella),
+Globigerina, Orbulina, Medusa, Diphyes and other Siphonophoræ, Cydippe,
+Holothurian larvæ, Sagitta, Alciopa, Planarian and small green larvæ, Calanus,
+Copilia, Saphirina, Corycæus, Pontella plumata, Hyperids, Oxycephalus, Phronimids,
+Lucifer, Sergestes, Amphion (?), Zoëæ, Atlanta, Macgillivraya, Pneumonoderma,
+Theceurybia [ = Halopsyche], Hyalæa [= Cavolinia], Styliola, and other Pteropods,
+Octopus (2} inches in length) and another small Cephalopod, Appendicularia, Doliolum,
+Salpa, Percoid fish (2 inches in length) and other small fishes. On the 13th a male
+shark (Carcharias lamia), 5 feet in length, was caught; it had nothing in its stomach.
+The white corpuscles in the blood of this shark were under observation for several hours,
+and exhibited active amceboid movements. On the 14th two sharks, and one or two
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+110

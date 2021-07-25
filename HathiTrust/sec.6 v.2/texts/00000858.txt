@@ -1,103 +1,101 @@
-1576
+1580
 THE VOYAGE OF H.M.S. CHALLENGER.
-.
-Alfred the Great, 31.
-Algæ, 201, 203, 499, 629, 642, 661, 664, 751, 774,
-775, 790, 836, 863, 971, 1127, 1455, 1456,
-1457.
-calcareous, 203, 304.
-marine, 68, 95.
-Algæ on pumice, 975, 981, 982, 984.
-Alliacus, Petrus, 38.
-Allman, G. J., 96, 1459 (see also Hydroida).
-on the Hydroida of the northern and
-southern hemispheres, 1445.
-Almagest, 35.
-Amboina, 760.
-America, discovery of, 43, 44.
-American expeditions, 104.
-Ammonites, 62, 63.
-Ameba, 1062, 1064, 1068, 1106.
-Ampharetidæ, 1443.
-Amphipoda, 110, 114, 120, 123, 142, 160, 173, 218,
-223, 225, 229, 213, 252, 280, 282, 284, 290,
-314, 324, 327, 330, 332, 334, 335, 336, 337,
-350, 380, 383, 385, 386, 388, 389, 394, 410,
-418, 420, 425, 428, 436, 446, 450, 453, 467,
-479, 480, 482, 485, 487, 490, 492, 500, 504,
-520, 522, 524, 525, 530, 531, 538, 545, 551,
-559, 575, 585, 592, 594, 602, 604, 614, 625,
-672, 675, 680, 682, 698, 722, 734, 753, 755,
-767, 778, 782, 783, 799, 808, 835, 836, 841,
-848, 852, 877, 885, 887, 889, 890, 892, 895,
-900, 902, 907, 921, 932, 944, 947, 951, 953,
-960, 967, 975, 986, 992, 1008, 1024, 1029,
-1033, 1054, 1077, 1093, 1095, 1099, 1102,
-1105, 1108, 1112, 1114, 1115, 1127, 1135,
-1137, 1138, 1139, 1146, 1158, 1164, 1169,
-1173, 1174, 1176, 1182, 1185, 1186, 1190,
-1193, 1199, 1208, 1210, 1213, 1214, 1215,
-1219, 1221, 1222, 1223, 1224, 1232, 1236,
-1248, 1251, 1255, 1260, 1262, 1263, 1268,
-1269, 1270, 1279, 1286, 1295, 1306, 1320,
-1340, 1434, 1448, 1451.
-Anaximander, 10, 17,
-Anaximenes, 10, 30.
-Ancients, 2.
-Ancients' views on oceanography, 2.
-Anderson, W. S., 106D.
-Andrussow, N., 19, 106c.
-Animals captured by the Challenger in different zones
-of latitude, 1453.
-in different zones
-of depth, 1453.
-Animals captured by the Challenger south of tropic of
-Capricorn, 1453.
-south of tropic of
-Capricorn deeper than 500 fathoms, 1454.
-south of tropic of
-Capricorn less than 500 fathoms, 1454.
-Animals captured near the bottom by traps and by the
-trawl, 1439.
-Animals (comparison of) captured near to and removed
-from continents, 1436.
-Animals (marine), migration of, downwards from shallow
-zones, 1435.
-migration of, over the sea-bed from
-polar regions, 1438.
-number of, occurring in single hauls
-at different depths, 1431.
-resemblance between, in Southern
-Ocean and in Europe, 1440.
-(mud-eating) in deep-sea, 1433.
-(proportion of species and specimens) captured
-on the different deep-sea deposits, 1436, 1437.
-(rapacious) in deep-sea, 1433.
-Annelida, 17, 94, 97, 112, 117, 121, 132, 133, 141,
-142, 159, 162, 169, 172, 179, 193, 202, 210,
-211, 214, 215, 219, 221, 225, 229, 235, 242,
-251, 259, 266, 270, 279, 307, 323, 325, 327,
-332, 343, 358, 367, 369, 386, 408, 417, 420,
-435, 445, 453, 459, 464, 478, 479, 484, 487,
-489, 494, 498, 500, 503, 508, 514, 520, 527,
-534, 538, 545, 548, 551, 557, 584, 591, 593,
-596, 601, 603, 607, 609, 614, 619, 624, 637,
-647, 673, 679, 696, 716, 722, 735, 747, 753,
-757, 763, 780, 787, 792, 794, 807, 810, 811,
-821, 829, 840, 843, 853, 859, 873, 884, 893,
-894, 899, 902, 907, 912, 915, 918, 921, 922,
-924, 936, 910, 942, 947, 956, 962, 968, 970,
-975, 978, 991, 1003, 1049, 1088, 1094, 1117,
-1124, 1134, 1141, 1143, 1145, 1148, 1151,
-1155, 1157, 1161, 1165, 1169, 1176, 1190,
-1195, 1196, 1205, 1220, 1224, 1242, 1260,
-1272, 1278, 1285, 1294, 1305, 1319, 1337,
-1446, 1448, 1450, 1452.
-larvæ of (see Larvæ).
-tubes of, 94, 158, 294, 759, 1225.
-Anomura, 125, 126, 163, 170, 173, 226, 237, 243,
-257, 266, 271, 282, 310, 333, 339, 344, 358,
-375, 387, 395, 410, 421, 437, 446, 520, 521,
-532, 539, 548, 560, 579, 591, 594, 597, 603,
-608, 615, 620, 625, 633, 638, 648, 668, 699,
-724, 736, 739, 748, 753, 759, 763, 767, 770,
+ooze, 100.
+3
+Calanidæ, 215, 428, 495, 505, 618, 885, 916, 1048, Caterpillars, 328.
+1068, 1434.
+Cathay, 42, 43, 44.
+Calcarea, 201, 269, 305, 373, 392, 432, 461, 483, 536, Cattigara, 41.
+547, 554, 690, 809, 1330.
+Cavalcanti, 32.
+Calcareous Algæ, 203, 304.
+Cavalli, 309.
+conglomerate, 98.
+Cavendish, Charles, 73.
+Cayeux, L., 1457.
+Calcite, 89.
+Celebes, 44.
+Calicut, 44.
+Cephalopoda, 137, 138, 160, 170, 188, 206, 227, 230,
+Calver, Capt., 102.
+245, 312, 320, 333, 348, 363, 369, 397, 414,
+Calypso, 18.
+447, 454, 490, 499, 510, 521, 524, 525, 542,
+Campanularians, 189, 604, 609, 1100.
+549, 551, 572, 584, 586, 605, 615, 620, 628,
+Campbell, G. G., 888.
+634, 657, 661, 664, 674, 676, 681, 684, 729,
+Canary Islands, 32, 42, 43, 125, 131, 135.
+748, 754, 757, 759, 770, 782, 786, 802, 842,
+Canigou, Mount, 60.
+845, 818, 850, 853, 867, 869, 872, 889, 892,
+Cano, Sebastian del, 45.
+895, 901, 910, 914, 926, 935, 1000, 1009,
+Cape Aromata, 28.
+1029, 1036, 1068, 1096, 1101, 1108, 1109,
+Bojador, 42.
+1113, 1114, 1118, 1130, 1170, 1191, 1195,
+Corrientes, 32.
+1220, 1232, 1240, 1260, 1262, 1263, 1264,
+» Guardafui, 28, 33, 1459.
+1269, 1270, 1287, 1297, 1309, 1322, 1350,
+hens, 429.
+1410, 1434, 1447, 1449, 1451, 1452, 1458.
+Horn first seen, 46.
+beaks of, 501, 933, 1116, 1122.
+„ Mendocino, 47.
+eggs of, 96, 676.
+of Good Hope, 405.
+Cestode larva, 802.
+doubled, 43.
+Cestraciontes, 103.
+pigeons, 384, 444, 450, 457, 488, 496, 500, 501, Cetacea, 320, 415.
+584, 585, 588, 606, 611, 618, 1088, 1091, Cetacean bones, 383, 526, 1058, 1080, 1086, 1087,
+1093, 1099, 1103, 1134.
+1090, 1097, 1460.
+Verde Islands, 303, 304, 1262.
+Ceylon, 25, 33, 69.
+York, 688.
+Chaddock Bank, 236.
+Cappo, Pietro, 53.
+Chætocerotidæ, 514.
+Carbonate of lime in deposits (see under each Station). Chaillu, P. B. du, 31.
+Caridid shrimps, 187, 324, 521, 580, 595, 797, 813, Chaldeans, 11.
+913, 915, 936. .
+Chalk, 89, 92, 99, 102.
+Carpenter, P. H. (see Crinoidea).
+Challenger Bank, 199, 200, 201, 203.
+on the Crinoidea of the northern and
+Expedition, conception of, 103.
+southern hemispheres, 1444.
+departure and return of, vii.
+W. B., 76, 77, 84, 101, 102, 106B.
+Report, viii.
+Carrion gulls, 456.
+contents of the fifty volumes of, xxii.
+Carteret Reef, 847.
+number of authors contributing to, x.
+Carthaginians, 5, 6, 14, 17, 23.
+systematic list of memoirs in, xiii.
+Cartography, progress of, 52, 53, 72.
+Challengeridæ, 894, 965, 973, 982, 1048, 1063, 1115,
+Caspian Sea, 11, 17, 25, 29, 33, 40, 58.
+1119, 1127, 1202, 1207, 1215, 1219, 1221,
+Cassini, 60.
+1223, 1227, 1243, 1248, 1256, 1268.
+Cassiterides, 4.
+Chamisso, A. von, 70.
+Castracane degli Antelminelli, F., 514.
+Chancellor, Richard, 47.
+Casts, glauconitic, 90.
+Charlemagne, 31.
+of Foraminifera, 89, 91.
+Charles River, 31.
+Catalan chart, 40, 41.
+Charybdis, 6, 8.
+Catenicellidæ, 534.
+Chateaubriand, F. A. de, 4.
+>
+99
+9
+-

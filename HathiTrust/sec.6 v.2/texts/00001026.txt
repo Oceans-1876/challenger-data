@@ -1,82 +1,83 @@
 
-Track of H.M.S. Changer sho
-MEAN TEMPERATURE OF THE OCEANS AT DI
-90
-100
-80
-70
+Track of HM 5. Callager shorn
+MEAN TEMPERATURE OF THE OCEANS AT D
 The Voyage of HMS "Challenger"
-60
-40
-120
-140
+80
 110
+100
+70
+60
+90
+140
+120
+50
+180
+40
+180
 150
-130
-160
 180
 170
-170
 160
+170
 150
-130
 140
-120
+130
 100
 no
+120
 80
 70
 60
 50
-39
-12
-40°
-429
+381
+390
 40
-43°
-SO
-Tropic of Cancer
-20
-45"
-coe
-Equator
-LO
-20
-Tropic of Capricorn
-@
+409
+ର
 30
+Tropic of Cancer
+459
+20
+42
+421
+431
+Equator
+10
+449
+20
+45°
+Tropic of Capricorn
+30
+46
 40
-44
-420
-40°
 50
-BO
+60
 Antarctic Circle
 70
 ISOTHERMAL LINES
-SHOWING THE MEAN TEMPERATURE FAHR)
+SHOWING THE MEAN TEMPERATURE (FAHR)
 OF THE OCEAN AT
-DEPTH OF 300 FATHOMS
+DEPTH OF 400 FATHOMS
 60
 70
 80
-90
+80
 100
+110
+100
+120
+140
 120
 110
 130
-140
-160
-140
-10
 150
-100
-180
-110
-120
-180
 160
-150
 170
+180
+140
+130
+170
+160
+150
 A. Buchan Delt.
-Isothermals above Average shown in Red thas
+Isothermals above Average shown in Red thus

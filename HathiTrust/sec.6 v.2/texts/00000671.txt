@@ -1,109 +1,142 @@
 SUMMARY OF RESULTS.
-1391
-Kina
-llar
-N
-N
-haswelli, n.sp.
-*
-T
-T
-uin)
-.
-T
-T
-Elle
-T
-*
-T
-7
-T
-023
-*
-var.
-V
-T
-T
-* Heterocrypta granulata (Gibbes). T Leptograpsus variegatus (Fabricius). S
-maltzani, Miers.
-Leptopodia sugittaria (Fabricius). TN
-* Huenia proteus, De Haan. T
-* Leucosia australiensis, n.sp.
+--
+1395
 S
-* Hyas aranea (Linné). N
-craniolaris (Linne). TN
-coarctata, Leach.
+32
+>
+s
 T
-Hyastenus diacanthus (De Haan).
-ocellata, Bell. T
-oryx, M.-Edwards.
-whitei, Bell.
-planasius (Adams and
-* Libinia gracilipes, n.sp.
+T
+T
+T
+T
+(
 S
-White).
-* Lissocarcinus lævis, n.sp.
-Hymenosoma orbiculare, Desmarest. s
-polybioides, Adams and
-Hypopeltarium spinosulum (White). S
-White. s
-* Niacantha intermedia, n.sp.
-* Lithadia cariosa, Stimpson.
-* Inachus leptochirus, Leach. N
-* Lophactæa granulosa (Rüppell). T
-* Ixa cylindrus (Fabricius), var. megaspis,
-lobata, M.-Edwards. N
-Adams and White. T * Lophozozymus (Lophocanthus) bellus,
-* Lambrus affinis, M.-Edwards. T
-Stimpson,
-contrarius (Herbst). T
-leucomanus, Locking-
-guerinii, Capello. T
-ton. N
-intermedius, Miers.
-Macrocæloma concava, n.sp.
-longimanus (Linné). T
-septemspinosa (Stimpson).
-serratus, M.-Edwards. T
+>>
 T
-turriger, White. T
-trispinosa (Latreille). TN
-(Aulacolambrus) hoplonotus, * Macrophthalmus podlophthalmus,
-Adams and White. T
-Eydoux and
-(Aulacolambrus) hoplonotus,
-Souleyet. T
-var. granulosus, Miers.
-serratus, Adams
-(Aulacolambrus) hoplonotus,
-and White. N
-var. longioculis, Miers. * Matuta banksiä, Leach. T
-(Parthenolambrus) calappoides
-inermis, Miers. T
-(Adams and White).
-lævidactyla, Miers.
-(Parthenolambrus) expansus,
-victrix, Fabricius. T
-Miers.
-crebrepunctata,
+T
+S
+T
+*
+T
+T
+T
+*
+T
+>>
+T
+07
+T
+* Cardium (Papyridea) bullatum ((Linné ?)) * Cytherea (Callista) disrupta, Sowerby. S
+Chemnitz). T
+( ) lilacina, Lamarck. T
 (
-) massena,
-Miers.
-Roux. TN * Menæthius monoceros (Latreille), var.
+) semisulcatum,
+( ) multistriata, Sowerby.
+Gray. S
 (
-) massena,
-angusta, Dana T
-var. atlanticus, nov.
-Merocryptus lambriformis, M.-Edwards.
-Leptodius exaratus, var. sanguineus
-(M.-Edwards). T Metopograpsus messor (Forskål), var.
-punctatus, Miers.
-frontalis, nov. T
+transversale,
+(
+) roseotincta, n.sp.
+T
+Deshayes. N
+(
+) rutila, Sowerby.
+* Chama brassica, Reeve.
+(Caryatis) coxeni, Smith.
+carditæformis, Reeve.
+(
+) hebræa, Lamarck. T
+gryphoides, Linné. N
+(
+) regularis, n.sp.
+jukesü, Reeve.
+) rostrata, Koch.
+spinosa, Broderip S
+(Dione)philippinurum, Hanley.T
+sulphurea, Reeve. T
+Davila (?) umbonata, n.sp.
+S
+* Circe amica, n.sp.
+* Diplodonta umboinensis, n.sp.
+angasi, n.n.
+apicalis, Philippi. N
+australis, Sowerby.
+conspicua, n.sp.
+fastigiata, Sowerby.
+corpulenta, n.sp.
+gibbia (Lamarck). T
+scalpta, n.sp.
+gordoni, n.sp.
+subglobosu, n.sp.
+jucunda, n.sp.
+T
+subgranulosa, n.sp.
+T
+minima (Montagu). N
+sp. (?). S
+obliquissima, n.sp.
+T
+* Donax nitidus, Deshayes. S T
+scripta (Linne). S T
+* Dosinia circinaria, Deshayes. S
+sulcata, Gray. T
+deshayesii, Adams.
+* Clavagella torresi, n.sp.
+T
+histrio (Gmelin).
+* Clementia
+papyracea (Gray).
+lambata (Gould). S
+* Calodon elongatus, Carpenter. T
+* Corbula crassa, Hinds.
+sculpta (Hanley). T
+macgillivrayī, n.sp.
+T
+* Ervilia bisculpta, Gould.
+modesta, Hinds.
+castanea (Montagu). N
+monilis, Hinds.
+sandwichensis, n.sp.
+scaphoides, Hinds.
+subcancellata, n.sp.
+TN
+tunicata, Hinds. ST
+* Gastrochana dubia (Pennant). TN
+* Crassatella aurora, Adams and Angas. S
+lamellosa, Deshayes. T
+rhomboides, n.sp.
+T
+* Julia exquisita, Gould.
+torresi, n.sp.
+* Kellia adamsi (Angas). S
+Cryptodon bullulus (Reeve).
+cardiformis, n.sp.
+falklandicus, n.sp.
+rotunda (Deshayes). S
+rufolineatus, n.sp.
+suborbicularis (Montagu). S
+* Cytherea (Callista) chione, Linné.
+* Leda corbuloides, n.sp.
 T
 >
+T
+T
+mira, n.sp.
+T
+T
+S T
+T
+>
+T
+T
+T
+T
+T
+T
 S
-*
-N *
-var.
-s
+>>
+S
+T
+N
 T

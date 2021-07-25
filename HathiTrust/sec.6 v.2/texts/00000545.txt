@@ -1,98 +1,49 @@
 SUMMARY OF RESULTS.
-1267
-Station 354 (Sounding 505), St. Vincent towards Azores (see Chart 6 and Station 354.
-Diagram 7).
-May 6, 1876 ; lat. 32° 41' N., long. 36° 6' W.
-Temperature of air at noon, 72°:3; mean for the day, 69°:9.
-Temperature of water :-
-9
-Surface,
-25 fathoms,
-50
-75
-100
-200
-300
-400
-500
-600
-70.0
-68.2
-66.2
-64.8
-63.2
-58.0
-53.5
-49.7
-46.7
-44:5
-700 fathoms,
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-42.8
-41:2
-39.9
-39.1
-38.6
-38.4
-38.2
-38.1
-38.0
-37.8
-Density at 60° F.:
-.
-.
-Surface,
-25 fathoms,
-50
-100
-200
-1.02729
-1:02704
-1:02693
-1.02698
-1:02701
-300 fathoms,
-400
-600
-1200
-Bottom,
-1.02669
-1:02654
-. 1.02627
-. 1.02726
-. 1.02665
-"
-Depth, 1675 fathoms ; deposit, Globigerina Ooze, containing 90:58 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 1.30 P. M. took in sail and stopped to sound. At 2 P.M. sounded in 1675 fathoms.
-Took serial temperatures down to 1500 fathoms. The carbonic acid was determined in
-water from 400 fathoms, and amounted to 38.7 milligrammes per litre. Passed quantities
-of gulf-weed. At 4.30 P.M. completed observations, and proceeded under steam. A
-Mother Carey's chicken was seen on May 7.
-Fayal Island distant at noon, 510 miles. Made good 145 miles. Amount of current
-3 miles, direction N. 41° E.
-Surface Organisms.—The following species are recorded from the surface and deep ORGANISMS FROM
-tow-nets at this Station :
-SURFACE-NETS.
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Sphærozoum ovodimare, Haeckel.
-Hexacontium furcatum, Haeckel.
-quadrigeminum, Haeckel.
-Acanthosphæra acufera, Haeckel.
-Carposphæra infundibulum, Haeckel (?).
-Haliomma megaporum, Ehrenberg.
-Collosphæra polygona, Haeckel.
-tenellum, Haeckel.
-Hexastylus sapientum, Haeckel.
-Spongechinus cavus, Haeckel.
-Hecalonche seleuci, Haeckel.
-Rhizosphæra leptomita, Haeckel.
->
+1271
+LOCALITIES
+UNCERTAIN.
+The localities of the following species recorded in the Zoological Reports are unknown,
+owing to the labels having become illegible or lost :
+TETRACTINELLIDA (Sollas, Zool. pt. 63). Nogagus grandis, Steenstrup and
+Discodermia ornata, n.sp.
+Lütken.
+Azorica crassiuscula, n.sp.
+ISOPODA.
+ACTINIARIA (Hertwig, Zool. pt. 73).
+Eighteen specimens, genera and species
+Hormathia delicatula, n.sp.
+undetermined.
+ANOMURA (Henderson, Zool. pt. 69).
+Paralomis verrucosus (Dana).
+CORALS (Moseley, Zool. pt. 7).
+Sphenophyllia flabellum, n.g., n.sp.
+The only species of the genus.
+OSTRACODA (Brady, Zool. pt. 3).
+Polycope cingulata, n.sp.
+COPEPODA (Brady, Zool. pt. 23).
+Echthrogaleus affinis, M.-Edwards.
+Perissopus dentatus (Steenstrup and
+Lütken).
+TUNICATA (Herdman, Zool. pt. 38).
+Atopogaster informis, n.g., n.sp.
+Amaroucium hepaticum, n.sp.
+Psammaplidium rude, n.g., n.sp.
+Leptoclinum neglectum, n.sp.
+Cynthia pallida, Heller.
+REMARKS ON THE FOREGOING STATION LISTS.
+In the foregoing account of the scientific work carried out, and of the general results
+obtained, at each of the Challenger observing stations at sea, no mention has been made
+of a large number of observations recorded during the early part of the voyage in the
+note books, as these had become obsolete in the light of subsequent knowledge acquired
+during the cruise. Could the various problems regarding oceanic phenomena have been
+viewed through the experience gained during the voyage and subsequently, many of the
+preceding descriptions would certainly have been much more complete, for fuller details
+might frequently have been furnished concerning many matters which did not at the
+time appear of great importance.
+It must be remembered that the exploration of the deep sea was in its infancy at PreliminARY
+the outset of the Expedition. The work was almost entirely new to the naval officers Work on Board
+THE CHALLENGER,
+and the members of the civilian staff. It took several months to test the various
+appliances and instruments, to settle the methods of observation, to arrange the best way
+of recording the different results, and to apportion the work among the members of the
+scientific staff. As time went on, the proceedings of the ship, and the operations on

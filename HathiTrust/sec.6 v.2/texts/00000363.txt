@@ -1,39 +1,39 @@
 SUMMARY OF RESULTS.
-1101
+1105
+Station 293.
+Aulonia pentagonia, Haeckel.
+Gazelletta medusina, Haeckel.
+Haeckeliana porcellana, Murray.
+Tuscarora belknapii, Murray.
+Conchopsis navicula, Haeckel.
+Coelodendrum lappaceum, Haeckel.
+Calographis triangulum, Haeckel
+Surface Organisms. The following species are recorded from the surface and ORGANISMS FROM
+SURFACE-NETS.
+deep tow-nets in the vicinity of this Station :-
 RADIOLARIA (Haeckel, Zool. pt. 40).
-STATION 291.
-Carposphæra cubaxonia, Haeckel.
-Styptosphæra stupacea, Haeckel.
 Siphonosphæra chonophora, Haeckel.
-Hecalonche setosa, Haeckel.
-Leptosphæra reticulum, Haeckel.
-Octodendron verticillatum, Haeckel.
-Myelastrum heteropterum, Haeckel.
-Amphipyle hexaceros, Haeckel.
-Tholostaurus octobelonis, Haeckel.
-Actinelius polyacanthus, Haeckel.
-Litholophus fasciculus, Haeckel.
-Xiphacantha emarginata, Haeckel.
-Stauracantha diplostaura, Haeckel.
-Diplocolpus sulcatus, Haeckel.
-Hexaplecta tricla lonia, Haeckel.
-Sethophormis leptopilium, Haeckel.
+Stauralastrum cruciforme, Haeckel.
 Aulacantha cannulata, Haeckel.
-Sagoscena tentorium, Haeckel.
-In addition, the following are recorded in the note-books :-Ceratium (Peridinium)
-tripos, Coccospheres, Globigerina, Hastigerina, Pulvinulina, Siphonophore, Sagitta,
-Alciopa, Aphroditacean larvæ, Cypridina, Copepods, Hyperids, small shells, Pteropods,
-small Cephalopod, Appendicularia, and Fritillaria. In the tow-nets attached to the
-trawl were a small Sternoptychid, remains of another small fish, a small shrimp and other
-small deep-sea Crustacea, and a number of Phæodaria (Challengeria and Tuscarora) and
-other Radiolaria, along with many surface things. The Pulvinulina shells were again
-surrounded with yellow-coloured granular sarcode.
-Station 292 (Sounding 437), Tahiti to Valparaiso (see Chart 38 and Diagram 20). Station 292.
-October 29, 1875 ; lat. 38° 43' S., long. 112° 31' W.
-Temperature of air at noon, 48°:5; mean for the day, 50°:0.
+PTEROPODA (Pelseneer, Zool. pt. 65).
+Clio (Creseis) acicula (Rang).
+pyramidata, Linné.
+Cavolinia longirostris (Lesueur).
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Synopioides macronyx, n.g., n.sp.
+In addition, the following are recorded in the note-books from the nets at the surface
+and down to 30 fathoms :-Peridinium tripos and other species, Globigerina, Pulvinulina
+micheliniana, Sagitta, Copepods, Hyperids, larval Decapods, small Lamellibranch shells,
+Pteropod larvæ, Appendicularia, and Doliolum. The tow-nets at the trawl procured
+several forms of Phæodaria (Tuscarora, &c.) and other Radiolaria, Hastigerina,
+Cypridina, Saphirina, Euphausia, &c.
+Station 294 (Sounding 439), Tahiti to Valparaiso (see Chart 38 and Diagram 20). Station 294.
+November 3, 1875; lat. 39° 22' S., long. 98° 46' W.
+Temperature of air at noon, 62°:0; mean for the day, 58°:4.
 Temperature of water :-
+57.5
 99
-Surface, .
+Surface,
 25 fathoms,
 50
 75
@@ -46,23 +46,25 @@ Surface, .
 250
 275
 300
-53.2
-52:8
-51.7
-50:0
-48.5
-47:4
-46.2
-45.2
-44:3
-43.9
-43.5
-43.5
-43.0
-400 fathoms,
+400
 500
 600
-700
+55:1
+52-5
+50.1
+48.2
+46.5
+45.5
+447
+44:1
+43.5
+43:1
+42-7
+42.2
+40.8
+39.5
+38.8
+700 fathoms,
 800
 900
 1000
@@ -71,23 +73,29 @@ Surface, .
 1300
 1400
 1500
+1600
+1700
+1800
+1900
+2000
+2100
 Bottom,
-41:1
-40.0
-39.0
 38.3
-37.6
-37:1
-36.6
-36.2
+37.7
+37.1
+36.7
+36:3
 36.0
+35.9
 35.8
+35.6
 35.5
 35.3
 35.2
-$
-Density at 60° F. at surface, 1:02532 ; 1600 fathoms (?), 1.02532; bottom, 1.02559.
-Depth, 1600 fathoms ; deposit, Globigerina Ooze, containing 83.75 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-(SUMMARY OF RESULTS CHALL. EXP.—1893.)
-139
+35.0
+34.9
+34.8
+34:6
+99
+99
+.

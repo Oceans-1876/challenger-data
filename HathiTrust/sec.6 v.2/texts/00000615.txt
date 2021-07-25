@@ -1,122 +1,126 @@
 SUMMARY OF RESULTS.
-1337
-S
-* Cerebratulus sp. (?).
-* Eupolia nipponensis, n.g., n.sp.
-sp. (?). N
-N
-Schizaster moseleyi, n.sp.
-ventricosus, Gray. N
-Spatangus raschi, Lovén. S
-Temnopleurus hardwicki (Gray).
-reynaudi, Agassiz.
-Τ Ν
-ST
-GEPHYREA :
-* Chætoderma militare, n.sp.
+1341
+I
+STOMATOPODA :
+* Squilla leptosquilla, n.sp.
 T
-S
+SCHIZOPODA :
 *
+N
+T
+Boreomysis obtusata, n.sp.
+* Gnathophausia longispina, n.g., n.sp. T
+Lophogaster typicus, Sars.
+Pseudomma sarsü, n.sp.
+T
+S
+S
+MACRURA:
+T
 >
+sica, n.sp.
+*
+Ileterocarpus alphonsi, n.sp.
+TN
+dorsalis, n.sp.
+T
+ensifer, M.-Edwards. T
+lævigatus, n.sp.
+T
+Ibaccus alticrenatus, n.sp.
+S
+brevipes, n.sp.
+verdi, n.sp.
+Merhippolyte agulhasensis, n.g., n.sp. S
+Nauticaris marionis, n.g., n.sp.
+s
+Nematocarcinus productus, n.sp.
+TN
+tenuipes, n.sp.
+TN
+undulatipes, n.sp. S T
+* Nephrops thomsoni, n.sp. S T
+* Nothocaris geniculatus (M.-Edwards). T
+rostricrescentis, n.g., n.sp. T
+* Palamonella orientalis, Dana. T
+Palinosytus (Palinostus) lalandii
+(Lamarck). S
+* Pandalus magnoculus, n.sp.
+S
+modestus, n.sp.
+S
+* Panulirus angulatus, n.sp.
+T
+Pasiphaa acutifrons, n.sp. SN
+cristata, 1.sp.
+T
+Penæus fissurus, n.sp.
+philippinensis, n.sp.
+T
+rectacutus, n.sp.
+serratus, n.g., n.sp. ·T
+Pentacheles euthrie, n.g., n.sp.
+S T
+* Philonicus (Pleoticus) lucasii, n.g., n.sp. T
+* Platybema rugosum, n.g., n.sp.
+* Plesionika brevirostris, n.g., n.sp. T
+semilæris, n.g., n.sp.
+S T
+spinipes, n.g., n.sp.
+unidens, n.g., n.sp.
+T
+uniproducta, n.g., n.sp. T
+Polycheles baccata, n.sp.
+T
+crucifera, n.sp.
+* Pontocaris propensalata, n.g., n.sp. T
+Pontophilus junceus, n.sp.
+* Acanthephyra angusta, n.sp.
+T
+approxima, n.sp. S
+armata, M.-Edwards.
+brachytelsonis, n.sp. STN
+carinata, n.sp.
+S
+S T N
+Amphiplectus depressus, n.g., n.sp. T
+* Arctus sordidus, Stimpson. T
+* Aristeus rostridentatus, n.sp. T
+Benthesicymus altus, n.g., n.sp. S TN
+brasiliensis, n.g., n.sp. S T
+pleocanthus, n.g., n.sp. T
+* Callianassa occidentalis, n.sp. T
+* Campylonotus capensis, n.g., n.sp.
+ST
+semistriatus, n.g., n.sp. S
+vagans, n.g., n.sp.
+S
+* Cheiroplatea cenobita, n.g., n.sp.
+T
+* Cheramus occidentalis, n.g., n.sp.
+* Chlorotocus incertus, n.sp.
+* Chorismus tuberculatus, n.g., n.sp. S
+* Eiconazius acutifrons, n.g., n.sp.
+Gennadas parvus, n.g., n.sp.
+S TN
+* Glyphocrangon hastacauda, n.sp. N
+regalis, n.sp. ST
+Haliporus equalis, n.g., n.sp.
+Hemipenæus semidentatus, n.g., n.sp. S T
+tomentosus, n.g., n.sp.
+T
+virilis, n.g., n.sp.
+T
+(SUMMARY OF RESULTS CHALL. EXP.-1894.)
+T
+T
 T
 S
 T
-nov.
-S
 T
-S
-S
-HOLOTHURIOIDEA :
-ANNELIDA :
-Ankyroderma danielsseni, n.sp.
-* Allmaniella setubalensis, n.g., n.sp.
-N
-simile, n.sp.
-N
-Ampharete kerguelensis, n.sp. S
-* Chirodota sp. (?). T
-sombreriana, n.sp. T
-Cucumaria capensis, n.sp. S
-Amphicteis japonica, n.sp. N
-serrata, n.sp.
-s
-Aphrodita echidna, Quatrefages.
-var. intermedia, nov.
-intermedia, n.sp.
-Holothuria atra, Jæger. T
-* Apomatus elisabetha, n.sp.
-murrayi, n.sp., var. parva,
-* Chatozone atlantica, n.sp.
-STN
-Dasychone capensis, n.sp.
-Ilyodæmon maculatus, n.g., n.sp.
-Ditrypa arietina, Müller. N
-* Lætmogone violacea, n.g., n.sp.
-* Ereutho kerguelensis, n.sp.
-s
-wyville-thomsoni, n.g., n.sp.
-Eulagisca corrientis, n.g., n.sp.
-s
-SN
-Eulepis challengerix, n.sp. T
-* Orphnurgus asper, n.g., n.sp.
 T
-wyvillei, n.sp.
-N
-Pannychia moseleyi, n.g., n.sp.
-* Eunice eduardsi, n.sp.
-S
-Pseudostichopus mollis, n.g., n.sp.
-s
-magellanica, n.sp. S
-Psolus antarcticus, Philippi. S
-prognatha, n.sp. T
-disciformis, 1.sp.
-pycnobranchiata, n.sp.
-ephippifer, n.sp.
-s
-* Eunou iphionoides, n.sp.
-incertus, n.sp.
-opalind, n.sp.
-s
-squamatus, Diben and Koren. S
-yedoensis, n.sp.
-N
-Stichopus moseleyi, n.sp.
-N
-S
-* Eunotomastus grubei, n.g., n.sp.
-* Synapta aculeata, n.sp. N
-Euphione elisabethæ, n.g., n.sp.
-beseli, Jæger.
+*
 T
-* Eupolynoë mollis, M'Intosh.
-challengeri, n.sp.
-Eusyllis kerguelensis, n.sp. s
-* Trochostoma antarcticum, n.sp. s * Euthelepus setubalensis, n.g., n.sp.
-N
-violaceum, Studer. s * Glycera capitata, Ersted.
-s
-kerguelensis, n.sp.
-tesselata, Grube.
-NEMERTEA :
-Hemipodus (?) magellanicus, n.sp. S
-Amphiporus marioni, n.sp.
-Hyalinæcia tubicola, Müller,
-Cerebratulus macroren, n.sp.
-SN
-longibranchiata, nov. S TN
-S
-S
-S
-وو
-s
-S
-S
 T
-N
-(?) sp.
-S
-N
-S
-var.
+T
+169

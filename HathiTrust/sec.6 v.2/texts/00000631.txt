@@ -1,131 +1,99 @@
 SUMMARY OF RESULTS.
-1353
-T
-rar.
-*
-*
-var.
-T
-S
-3
-S
-s
-T
-*
-T
-S
-*
-S
-s
-$
-02
-S
-N
-T
-Terebratula vitrea (Born), var. minor, FISHES :
-Philippi. SIN * Acanthaphritis grandisquamis, n.g.,
-* Terebratulina cailleti, Crosse. T
-n.sp.
-caput-serpentis, Linné,
-Anthias megalepis, n.sp. T
-septentrionalis, Anticitharus polyspilus, n.g., n.sp.
-Couthouy. SN
-Antigonia capros, Lowe. T
-wyvillii, n.sp.
-T
-Aphritis gobio, Günther.
-Waldheimia kerguelenensis, n.sp.
-Bathyanthias roseus, n.g., n.sp.
-Bathythrissa dorsalis, n.g., n.sp. N
-TUNICATA :
-Beryx decadactylus, C.V. N
-* Amaroucium colelloides, n.sp. S
-Brachionichthys hirsutus, Lac. S
-recumbens, n.sp.
-S
-Callionymus calauropomus,
-Rich.
-* Ascidia cylindracea, n.sp.
-S
-ST
-nigra (Savigny). S N
-kaianus, n.sp.
-placenta, n.sp.
-phasis, n.sp.
-tenera, n.sp.
-* Catætyx messieri, n.g., n.sp.
-S
-Ascopera gigantea, n.g., n.sp.
-* Centrophorus foliaceus, n.sp. N
-pedunculata, n.g., n.sp.
-squamulosus, n.sp.
-Colella murrayi, n.g., n.sp.
-S
-* Centropristis annularis, n.sp. T
-ramulosa, n.g., n.sp.
-s
-pleurospilus, n.sp.
-Cynthia pallida, Heller. ST
-* Centroscyllium granulatum, n.sp.
-Cystodytes draschii, n.sp. T
-* Ceratias bispinosus, n.sp.
-* Didemnum savignüi, n.sp. S
-carunculatus, n.sp.
-N
-* Ecteinascidia crassa, n.g., n.sp.
-Champsodon vorax, Günther. T
-Leptoclinum edwardsi, n.sp. S
-* Chaunax pictus, Lowe. T
-propinquum, n.sp. s Chlorophthalmus nigripinnis, n.sp. s
-speciosum,
-n.sp.,
-productus, n.sp.
-asperum, nov. ST * Congromuræna guttulata, n.sp.
-tenue, n.sp.
-* Cyttus abbreviatus, Hector. S
-Molgula pedunculata, n.sp. S
-Diplacanthopoma brachysoma, n.g.,
-* Polycarpa minuta, n.sp.
-quadrata, n.sp.
-T
-* Echeneis albescens, Schleg.
-radicata, n.sp.
-S
-* Etelis sp. (?). S
-Psammaplidium subviride, n.g., n.sp. S
-Gonostoma elongatum, n.sp.
-Pyrosoma giganteum, Lesueur (surface.)
-gracile, n.sp.
-N
-S T
-microdon, n.sp.
-STN
-Styela convexa, n.sp. S
-Haloporphyrus inosimæ, n.sp. N
-grandis, n.sp.
-* Heliastes roseus, n.sp.
-T
-radicosa, n.sp.
-S
-* Hippocampus guttulatus, Cuv. T
-(?) clava, n.sp. (genus doubtful). N Læops parviceps, n.g., n.sp.
-ST
-s
-100
-*
-T
-*
-T
-*
-S
-var.
-T
-T
-S
-*
-*
-S
-n.sp. T
-T
-T
-s
+1355
+Notes on the Bathymetrical Distribution.—Of the species enumerated in the above list
+233 species (or 12 per cent.) were taken at more than one Station (when taken at more
+than two Stations the number of times is indicated within parenthesis after the name),
+viz:-
+Mimaster cognatus.
+Nymphaster symbolicus.
+Psilaster acuminatus.
+Astrotoma agassizii (5).
+Gorgonocephalus pourtalesii (4).
+Ophiacantha imago.
+rosea.
+Axinella erecta.
+Gellius carduus.
+glacialis.
+Iophon chelifer.
+pattersoni (3).
+Mysilla mollis.
+nobilis.
+Petrosia similis.
+Phakellia papyracea.
+Reniera aquæductus.
+Tedania tenuicapitata.
+Trachytedania patagonica.
+Azorica pfeifferæ.
+Cydonium magellani.
+Tetilla grandis.
+Aphrocallistes bocagei (4).
+Aulocystis zittelii.
+Myliusia callocyathus (3).
+Rossella antarctica.
+Acanella rigida.
+Dasygorgia geniculata.
+Melitodes nodosa.
+Pleurocorallium secundum (3).
+Primnoella distans.
+Thouarella köllikeri.
+variabilis.
+Balanophyllia malaccensis.
+Caryophyllia clavus (4).
+profunda.
+rugosa.
+Deltocyathus italicus.
+Desmophyllum ingens (4).
+Lophohelia prolifera.
+Rhizotrochus fragilis.
+Solenosmilia variabilis.
+Halecium beanii.
+Perisiphonia filicula.
+Bathybiaster loripes.
+Cribrella simplex (3).
+Crossaster penicillatus.
+Ctenodiscus procurator (5)
+Gnathaster elongatus.
+meridionalis.
+Labidiaster annulatus.
+Lophaster stellans.
+Luidia
+aspera.
+vivipara.
+Ophiactis asperula.
+Ophiocamac vitrea (4).
+Ophioconis antarctica.
+Ophiocreas adipus.
+Ophiocten amitinum.
+Ophioglypha deshayesi.
+irrorata.
+lymani (5).
+Ophiolebes vestitus (3).
+Ophiomastus tegulitius.
+Ophiomusium pulchellum.
+validum.
+Ophiomyza australis (5).
+vivipara. .
+Ophiopyren longispinus.
+Ophiothrix aristulata.
+Arbacia dufresnii.
+Asthenosoma coriaceum.
+gracile.
+Brissus damesi.
+Cælopleurus maillardi (3).
+Dorocidaris (Cidaris) papillata (3)
+Echinus magellanicus.
+margaritaceus (4).
+norvegicus.
+Goniocidaris canaliculata.
+florigera.
+Hemiaster cavernosus.
+Linopneustes murrayi.
+Micropyga tuberculata.
+Peronella decagonalis.
+Phormosoma bursarium.
+Salenia varispina (4).
+Schizaster moseleyi (6).
+Temnopleurus reynaudi (3).
+Ilyodæmon maculatus.
+Pseudostichopus mollis.
+Psolus ephippifer.

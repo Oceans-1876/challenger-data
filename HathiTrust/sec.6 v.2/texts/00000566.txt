@@ -1,81 +1,113 @@
-1288
-THE VOYAGE OF H.M.S. CHALLENGER.
+1292
+THE VOYAGE OF H,M.S. CHALLENGER.
+* Hyalonema (Stylocalyx) clavigerum,
+n.sp.
+s
+* Pheronema carpenteri (Wyville
+Thomson). T
+* Poliopogon amadou, n.g., p.sp.
+* Polyrhabdus oviformis, n.g., 1.sp. S
+CORALS :
+Bathyactis symmetrica (Pourtalès).
+S TN
+Caryophyllia berteriana, Duchassaing. N
+Cryptohelia pudica, M.-Edwards and
+Haime. STN
+* Leptopenus discus, n.g., n.sp. S
+N
+N
+HYDROIDA :
+Monocaulus imperator, n.sp.
+N
+Stephanoscyphus simplex, Allman,
 S
+S
+N
+MS., n.sp.
+ALCYONARIA :
+* Acanella arbuscula (Johnson).
+Anthomastus canariensis, n.sp.
+* Callozostron mirabilis, n.g., n.sp.
+* Dasygorgia japonica, n.sp.
+Pleurocorallium johnsoni, Gray.
+* Stenella dæilerleini, n.sp.
+N
+* Strophogorgia fragilis, n.g., n.sp.
+verrilli, n.g., n.sp.
+* Telesto rigida, n.sp.
+N
+N
+DEEP-SEA MEDUSÆ:
+S
+N
+S
+N
+Atolla wyvillii, n.g., n.sp.
+* Periphema regina, n.g., n.sp.
+* Thamnostylus dinema, n.g., 11.sp.
+S
+VA
+PENNATULIDA:
+* Anthoptilum simplex, n.g., n.sp.
+Protoptilum aberrans, n.sp.
+N
+* Umbellula carpenteri, n.sp.
+s
+güntheri, n.sp.
+magniflora, n.sp.
+SIPHONOPHORÆ :
+* Bathyphysa gigantea, n.sp.
+s
+* Disconalia pectyllis, n.g., n.sp.
+* Salacia polygastrica, n.g., n.sp.
+s
 T
-* Opostomias micripnus, n.g., n.sp.
-* Pachystomias microdon, n.g., n.sp.
-* Porogadus rostratus, n.sp.
-Sternoptyx diaphana (Herm.). STN
-Synaphobranchus bathybius, n.sp. SN
-* Typhlonus nasus, n.g., n.sp.
 T
+S
+S
+ANTIPATHARIA :
+* Schizopathes crassa, n.g., n.sp. S
+S
+CRINOIDEA :
+* Antedon abyssorum, n.sp.
+bispinosa, n.sp.
+s
+remota, n.sp.
+s
+Bathycrinus aldrichianus, n.sp.
+campbellianus, n.sp.
+Hyocrinus bethellianus, n.g., n.sp.
+ST
+* Promachocrinus abyssorum, n.g., n.sp. S
+Rhizocrinus lofotensis, Sars. S T
+* Thaumatocrinus renovatus, n.g., n.sp.
+s
 T
-Notes on the Bathymetrical Distribution.—Of the species enumerated in the above
-list 39 species (or 15 per cent.) were taken at more than one Station (when taken at more
-than two Stations the number of times is indicated within brackets after the name),
-viz. :
-A.cinella profunda.
-Esperella biserialis.
-Hyalonema (Stylucaly.) depressum.
-Bathypathes lyra.
-Bathyactis symmetrica (4).
-Freyella tuberculata.
-Ophiacantha cosmica.
-Ophioglypha convexa (3).
-Ophiomusium armigerum.
-Aspidlodiadema microtuberculatum (3).
-Cystechinus vesica.
-Pourtalesia ceratopyga.
-Benthodytes mamillifera.
-Cucumaria abyssorum.
-Oneirophanta mutabilis (3).
-Pælopatides confundens.
-Holothurian (?).
-Nothria ehlersi.
-pycnobranchiata.
-Cythere circumdentata.
-Cythere dasyderma (3).
-dictyon.
-Acanthephyra longillens.
-sica (4).
-Aristeus armatus (3).
-Benthesieymus brasiliensis.
-Gennadas parvus (3).
-Haliporus curvirostris.
-Arca (Barbatia) corpulenta (3).
-( ) pteroessa.
-Sarepta abyssicola.
-Dentalium keras.
-Bugula reticulata.
-Farciminaria delicatissima.
-Discina atlantica.
-Gonostoma microdon (4).
-Macrurus armatus.
-Malacosarcus macrostoma.
-Typhlonus nasus.
-Of the 97 species taken in this zone between 2000 and 2500 fathoms, as well as in
-deeper or shallower zones (those without asterisks), 29 species (or 30 per cent.) were
-taken in the zone beyond 2500 fathoms, a list of which has already been given (see
-pp. 1280, 1281).
-The following 52 species (or 54 per cent.) were taken in the zone between 1500 and
-2000 fathoms :
-Bathyactis symmetrica.
-Atolla wyvillii.
-Hyocrinus bethellianus.
-Freyella echinata.
-Ophiacantha cosmica.
-Ophioglypha minuta.
-Ophiomusium armigerum.
-Aspidodiailema microtuberculatum.
-Cystechinus vesica.
-wycillic
-Pourtalesia carinata.
-ceratopyga.
-Benthodytes sanguinolenta.
-sordida.
-Cucumaria abyssorum.
-Oneirophanta mutabilis.
-Pseudostichopus villosus.
-Psychropotes longicauda.
-Scotoplanes globosa.
-Phascolosoma flagriferum.
+S
+SN
+ACTINIARIA :
+* Bunodes minuta, n.sp.
+S
+* Cereus spinosus, n.sp.
+SN
+Corallimorphus obtectus, n.g., n.sp.
+Liponema multiporum, n.g., n.sp.
+* Paractis (?) tubulifera, n.sp.
+N
+Polystomidium patens, n.g., n.sp.
+* Porponia robusta, n.g., n.sp.
+N
+Sicyonis crassa, n.g., n.sp.
+S
+* Tealidium cingulatum, n.g., n.sp.
+* Actinian undetermined. s
+s
+S
+ASTEROIDEA :
+Brisinga armillata, n.sp. N
+membranacea, n.sp.
+* Chitonaster catåphractus, n.g., n.sp.
+* Colpaster scutigerula, n.g., n.sp.
+S
+S
+N

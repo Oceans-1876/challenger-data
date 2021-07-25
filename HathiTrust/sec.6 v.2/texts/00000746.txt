@@ -1,18 +1,182 @@
-1464
+1468
 THE VOYAGE OF H.M.S. CHALLENGER.
-sented. The Diagranis show the isotherms for every five degrees, which were obtained by plotting the
-temperature observations on paper of equal squares and drawing the curves (the observations and curves
-are published as Part III. of the Physics and Chemistry of the Expedition).
-In the Diagrams the thick Horizontal lines represent lines of equal temperature in Fahrenheit
-37
-Scale,
-The figures above each Vertical line, thus,
-2650-68
-indicate,
-37
-the number of the
-Station, 68, the Surface Temperature, and, 2650, the Depth in fathoms. The figures below
-each Vertical line indicate the temperature at the Bottom, the type of Deposit being
-given with the percentage of Carbonate of Lime underneath.
-
-EXAMINING ('OTŁ TS OF TRAWL.
+Alaba, 711, 1076, 1398.
+(Diala), 474, 570, 1345, 1398.
+albugo, 711, 1398.
+limnæiformis, 439, 1345.
+phasianella, 570, 1398.
+(Styliferina),
+fulva, 711, 1398, 1426.
+goniochila, 711, 999, 1398, 1426.
+striata, 656, 1076, 1398, 1426.
+sulcata, 711, 1398.
+Alacorys,
+bismarckii, 868.
+carcinus, 881, 1012, 1016, 1023.
+dodecantha, 1006.
+enneacantha, 1023.
+gigas, 881.
+guilelmi, 875.
+hexacantha, 881, 1016.
+lutheri, 881.
+octacantha, 1012, 1042, 1047.
+polyacantha, 957.
+Alauna,
+rostrata, 85.
+Albacore, 337.
+Albula,
+conorhynchus, 1001, 1416.
+Albunea microps, 819, 1388.
+Alciopa, 137, 143, 153, 249, 252, 327,
+330, 334, 380, 382, 383, 495,
+499, 505, 530, 587, 661, 671,
+673, 676, 782, 790, 793, 799,
+802, 817, 836, 845, 868, 869,
+871, 882, 884, 885, 887, 889,
+890, 893, 940, 942, 951, 975,
+980, 982, 1003, 1007, 1018,
+1062, 1068, 1082, 1083, 1085,
+1094, 1096, 1101, 1119, 1207,
+1209, 1210, 1227, 1232, 1236,
+1237, 1256, 1262, 1266, 1268.
+quadrioculata, 1003.
+Alcithoe (sce Voluta).
+Alcyonidium,
+flustroides, 422, 1351.
+Alcyonium, 96, 346, 379, 479, 534,
+600, 1445.
+antarcticum, 488, 1365.
+arboreum, 85.
+haddoni, 1150, 1330.
+sollasi, 1168, 1365.
+Alebion,
+carchariæ, 309, 1384. .
+Alecto,
+granulata, 398, 1410, 1449.
+Alectryon (see Nassa).
+Alepas, 580.
+pedunculata, 578, 1339.
+Alepocephalus, 81.
+niger, 681, 1310.
+Alima, 889, 1458.
+bidens, 416, 1167.
+Alima-continued.
+gracilis, 314, 698, 1033, 1262.
+Allmaniella, 1361.
+setubalensis, 112, 1337.
+Alloioneis,
+antillarum, 197, 812, 892, 904,
+911, 938.
+debyii,
+forma osculifera, 938.
+monodon, 938.
+peragalli, 938.
+Allomorphina,
+trigona, 903.
+Allopora,
+profunda, 1188, 1316.
+Alloposus,
+mollis, 1270.
+Alpheus, 379, 617, 629, 716, 754, 808,
+915.
+acuto-femoratus, 699, 1387.
+avarus, 625, 699, 723, 913, 915,
+1387, 1424.
+bermudensis, 169, 243, 1387.
+biunguiculatus, 805, 1387.
+crassimanus, 699, 1387.
+crinitus, 805, 830, 1387, 1424.
+cristidigitus, 309, 1387.
+edwardsii, 309, 1387.
+gracilipes, 539, 1387.
+intrinsecus, 375, 1387.
+lævis, 997, 1387.
+leviusculus, 785, 1387.
+longimanus, 908, 924, 1387, 1424.
+minus, 340, 343, 375, 1387, 1424.
+neptunus, 723, 1387.
+prolificus, 997, 1387.
+rapax, 795, 1387.
+spiniger, 805, 1387.
+Alvania (see Rissoa).
+Alveolina,
+boscii, 630, 631, 639, 685, 717,
+862, 1002.
+melo, 1002.
+Alveopora,
+retusa, 692, 1368.
+Amalda (see Ancilla).
+Amalthea,
+acuta, 655, 1398.
+australis, 628, 1398.
+Amaroucium,
+albidum, 544, 1414.
+colelloides, 423, 1353.
+complanatum, 477, 1414.
+globosum, 477, 1414.
+hepaticum, 1271, 1414.
+irregulare, 1171, 1414.
+var. concinnum, 1171, 1414.
+lævigatum, 1171, 1414.
+nigrum, 477, 1414.
+pallidulum, 1180, 1414.
+Amaroucium-continued.
+recumbens, 1162, 1353.
+variabile, 477, 1414.
+var. tenerum, 477, 1414.
+Amaryllis, 1451.
+bathycephalus, 531, 1385.
+haswelli, 282, 1306.
+macrophthalmus, 1169, 1385.
+Amathia, 378.
+brasiliensis, 378, 1410.
+connexa, 714, 1410.
+distans, 378, 1410.
+lendigera, 203, 1410.
+semispiralis, 730, 1410.
+spiralis, 534, 544, 550, 1351,
+1360, 1410, 1427.
+tortuosa, 550, 1351.
+Amathillopsis,
+australis, 680, 1306.
+Amathina (see Capulus).
+Amauropsis (see Natica).
+Ambasia,
+integricauda, 468, 1385.
+Amblyops, 479, 1452.
+crozetii, 450, 454, 1295.
+Amblyopus, 910, 911, 915.
+Amblypneustes,
+formosus, 537, 1378,
+Ammoconia,
+auloplegma, 298, 1283.
+sagenella, 985, 1277.
+Ammodiscus,
+charoides, 211, 319, 353, 427,
+429, 449, 480, 511, 604, 857,
+937, 1037, 1201, 1216, 1247.
+gordialis, 139, 145, 166, 181,
+342, 353, 480, 581, 639, 671,
+798, 857, 937, 949, 957, 979,
+986, 1010, 1037, 1067, 1092,
+1111, 1126, 1158, 1201.
+incertus, 115, 166, 181, 353,
+581, 587, 610, 639, 671, 857,
+979, 1085, 1092, 1216, 1247.
+proteus, 1067.
+schoneanus, 480, 941.
+spectabilis, 1201.
+tenuis, 211, 353, 449, 581, 604,
+610, 937, 1067, 1158.
+Ammolynthus,
+haliphysema, 1031, 1277.
+prototypus, 1035, 1283.
+Ammosolenia, 1290.
+rhizammina, 847, 1283.
+Ammotrypane, 603.
+gracile, 924, 1380.
+Amoeba, 887.
+Ampelisca,
+abyssicola, 173, 1340.
+acinaces, 559, 1385.
+chiltoni, 594, 1340.

@@ -1,90 +1,60 @@
-1098
+1102
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 289.
-FISHES (Günther, Zool. pt. 57).
-Bathypterois longicauda, n.g., n.sp. One specimen ; obtained at no other locality:
-In addition to the foregoing, the following are recorded in the Station-book :-
-Esperid Sponge (osculum only), two Serpula tubes attached to manganese nodules.
-Excluding Protozoa, over a dozen specimens of invertebrates and fishes were
-obtained at this Station, belonging to about 10 species, of which 8 (all those
-reported) are new to science, including representatives of 6 new genera; 6 of the
-new species and 2 new genera were not obtained elsewhere.
+Station 292.
+At 1.15' P.M. shortened and furled sails, and proceeded under steam. At 2 P.M.
+sounded in 1600 fathoms. The sounding-tube had sunk several inches into the deposit
+and brought up half a litre of the ooze, which was of a brown colour, but on shaking up
+in water the Foraminifera separated from the red amorphous matter and settled as a
+white layer at the bottom of the glass. There were a great many particles of palagonite
+and other volcanic matter, as well as numerous small particles of peroxide of manganese,
+many of the Foraminifera being studded with grains of this substance. The association
+of the basic volcanic materials with the manganese in this Globigerina Ooze is suggestive
+of the origin of the manganese. Put trawl over and veered 2100 fathoms. Obtained
+serial temperatures down to the bottom. The carbonic acid was determined in water
+from the surface, and amounted to 36:6 milligrammes per litre. At 6 P.M. commenced
+beaving in trawl, but at 7.40 P.M. the trawl-rope carried away, and the trawl, tow-nets,
+and 1600 fathoms of line were lost. Made all plain sail. The usual birds were
+noticed, and one of the mutton birds was caught.
+Valparaiso distant at noon, 2022 miles. Made good 162 miles. Amount of current
+13 miles, direction N. 13° E.
 ORGANISMS FROM
-SURFACE-N ETS.
-Surface Organisms.—The following species of Radiolaria are recorded from the surface
-at this Station :
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Siphonosphæra chonophora, Haeckel.
-Sphærostylus diadema, Haeckel.
-Cenellipsis micropora, Haeckel.
-Druppocarpus ananassa, Haeckel.
-Ceriaspis inermis, Haeckel.
-Sethocephalus platycryphalus, Haeckel.
-Cannorrhaphis lampoxanthium, Haeckel.
-In the tow-nets attached to the trawl were several forms of Phæodaria (Challengeria
-and Tuscarora) and other Radiolaria, Cypridina, shrimps and smaller Crustacea, and two
-small Sternoptychids, while from the surface the usual surface things, as noted at the
-last Station, were obtained, including some broken portions of Ethmodiscus, and small
-Foraminifera (principally Pulvinulina).
-1
-STATION 290.
-Station 290 (Sounding 435), Tahiti to Valparaiso (see Chart 38 and Diagram 20).
-October 25, 1875; lat. 39° 16' S., long. 124° 7' W.
-Temperature of air at noon, 52°•8; mean for the day, 50°:1.
-Temperature of water :-
-o
-.
+SURFACE-NETS.
+Surface Organisms.—The following are recorded in the note-books from the surface
+at this Station :—Peridinium tripos, Globigerina, Pulvinulina, Acanthometræ and other
+Radiolaria, Diphyes and other Siphonophoræ, Sagitta, Tomopteris, Cypridina, Copilia
+and other Copepods, small shells, Atlanta, Pteropods, Appendicularia, and Doliolum.
+The following species are recorded from the surface of the South Pacific in October
+1875, the exact locality not being noted :-
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Pronoe capito, Guérin.
+Parapronoë clausi, n.sp.
+Brachyscelus latipes, n.sp.
+bovallii, n.sp.
+STATION 293.
+Station 293 (Sounding 438), Tahiti to Valparaiso (see Chart 38 and Diagram 20).
+November 1, 1875; lat. 39° 4' S., long. 105° 5' W.
+Temperature of air at noon, 57°:8; mean for the day, 56°:4.
+Temperature of water:-
 Surface,
+53.7
+125 fathoms,
 25 fathoms,
-o
-50
-75
-100
-125
+52.9
 150
+51.7
 175
+75
+50.1
 200
+100
+48.3
 225
-250
-275
-300
-52.5
-52.0
-49.6
-48.6
-47.6
-46.7
-46.0
-45:3
-44.9
-44.5
+.
+27
+50
+46:4
+45.4
+44.6
 44:1
-43.7
-43.4
-400 fathoms,
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-42:0
-40.7
-39.4
-37.8
-36.9
-36.4
-36.2
-36.0
-35.8
-35.6
-35:3
-35:1
-34.9
-99
+43.8
+2

@@ -1,7 +1,10 @@
-RE OF THEM AT
-80 110
 
-DEPTH OF 900 FATHOMS - 3658
+THE AT
+DEPTH OF
+1000 FATHOMS
+365
+Oceanic Circulation. Map 12
+140
 40
 30
 20
@@ -9,12 +12,10 @@ DEPTH OF 900 FATHOMS - 3658
 0
 10
 20
-Oceanic Circulation. Map 11.
-140 150
 30
-40
+10
 50
-30
+60
 70
 80
 90
@@ -22,70 +23,69 @@ Oceanic Circulation. Map 11.
 no
 120
 130
+150
 180
-BO
-30°
+80
 70
-Arctic Circle
-ready
+retic Circle
+30°
 50
-1.38
-35
-39
-366
+34
+38%
 40
 30
-365
 40
 20
 399
-10
+20
+38
 39
 10
+38
 20
-384
+38
 30
-B
-370
+374
+8
 40
 36°
 36°
-80
+30
 60
 EXPLANATION OF COLOURING
-Cantours showing
-6000 Feet
 70
+6000 Feet
+Contours showing
 Height of Land
 3000
-Contours showing
-Depth of Sea
 SEA LEVEL
-Loo Fathoms
+100 Fathoms
 800
 1000
 1500
-40
-30
-20
-10
-o
-10
-20
-30
-40
-50
-60
-70
-80
-90
-100
-210
+Contours showing
+Depth of Seå
 120
+100
+110
 130
 140
+160
 150
-180
-nger shown thus
-Bartholomew, Zdin?
+90
+BO
+80
+40
+30
+50
+70
+20
+40
+10
+20
+30
+10
+o
+Bertholomew, Edin?
+shown thus
 Isothermals below Average shown in Blue thus

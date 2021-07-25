@@ -1,38 +1,39 @@
 SUMMARY OF RESULTS.
-1139
-The following species are recorded from the surface of the South Pacific, the exact
-locality not being noted :-
+1143
+Stations 305 TO
+305B.
+Bairdia amygdaloides, Brady. For distribution see Station 162.
+angulata, Brady. For distribution see Station 75.
+Cythere scalaris, n.sp. Obtained also at Station 185.
+dictyon, n.sp. For distribution see Station 24.
+dasyderma, n.sp. For distribution see Station 5.
+Krithe producta, n.sp. For distribution see Station 70.
+Cytherura cribrosa, n.sp. Obtained at no other locality.
+Cytheropteron patagoniense, n.sp. Obtained at no other locality.
+Cytherella punctata, Brady. For distribution see Station 135.
 MACRURA (Spence Bate, Zool. pt. 52).
-Acanthosoma longitelsonis, n.sp.
-Sergestes rinkii, Krøyer.
-Sergestes junceus, n.sp.
-fermerinkii, n.sp.
-The following species are recorded from the surface of the Pacific, the precise locality
-not being noted :-
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Vibilia, sp. (?).
-ISOPODA.
-Two specimens, genera and species
-undetermined.
-MACRURA (Spence Bate, Zool. pt. 52).
-Amphion reynaudi, M.-Edwards.
-sp. (Zoëæ).
-D. MAGELLAN STRAIT AND OTHER CHANNELS BETWEEN THE PACIFIC
-AND ATLANTIC OCEANS.
-Station 304 (Sounding 449), Gulf of Peñas to Sandy Point through Magellan Station 304.
-Strait (see Chart 41).
-December 31, 1875, lat. 46° 53' 15" S., long. 75° 12' W.
-Temperature of air at noon, 54°:8; mean for the day, 54°•2.
-Temperature of water at surface, 57° -2.
-Density at 60° F. at surface, 1:02295.
-Depth, 45 fathoms ; deposit, Quartz Sand, containing 2.72 per cent. of carbonate
-of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-About 9 A.M. observed Cape Gallegos to the N.E. At 10.45 A.m. observed Cape
-Raper. About 2 P.M. rounded Cape Tres Montes. At 3 P.M. rounded Cape Stokes. At
-3.15 P. M. stopped and sounded in 45 fathoms. Put dredge over. At 4.15 P.M. hauled
-up dredge and put trawl over. At 5 P.m. hove up trawl and proceeded for Port Otway.
-Many specimens were procured, most of them in the swabs attached to the dredge. At
-6.30 P.m. stopped and anchored in the entrance to Port Otway in 13 fathoms. Landed
-exploring parties, who returned with botanical and zoological specimens.
-The following species are recorded in the Zoological Reports from the dredge and
-trawl at this Station :
+Stereomastis suhmi, n.g., n.sp. One specimen ; obtained also at Station 311,
+245 fathoms. The only other species of the genus (Stereo-
+mastis auriculata) was taken at Station 174.
+Campylonotus semistriatus, n.g., n.sp. Six specimens; obtained also at Stations 306,
+307, 308, 309, 310, and 311, 40 to 400 fathoms.
+ANOMURA (Henderson, Zool. pt. 69).
+Munida subrugosa (White). Two specimens ; for distribution see Station 304.
+LAMELLI BRANCHIATA (Smith, Zool. pt. 35).
+Neæra patagonica, n.sp. Single valve ; obtained at no other locality.
+GASTEROPODA (Watson, Zool. pt. 42).
+Fusus (Neptunea) scalaris, n.sp. Obtained at no other locality.
+FISHES (Günther, Zool. pt. 57).
+Spinax granulosus, n.sp. One specimen ; obtained at no other locality.
+Lotella marginata, n.sp. Two specimens ; obtained also at Stations 306, 307,
+and 308, 140 to 345 fathoms.
+Macrurus fasciatus, n.sp.
+One specimen ; obtained also at Stations 309 and 311,
+40 to 245 fathoms.
+In addition to the foregoing, the following are recorded in the Station-book :-
+Several specimens of Asterogonium, six specimens of Ctenodiscus australis, Annelid in
+arenaceous tube shaped like a Dentalium shell, another Annelid, and a Dentalium.
+Excluding Protozoa, over 120 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 27 species, of which 17 are new to science,
+including representatives of 3 new genera ; 6 of the new species were not obtained
+elsewhere.

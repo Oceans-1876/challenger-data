@@ -1,89 +1,73 @@
-970
+972
 THE VOYAGE OF H.M.S. CHALLENGER.
-Station 248.
-Stylosphæra nana, Haeckel.
-Myelastrum spinale. Haeckel.
-Cenocapsa nirvana, Haeckel.
-Hexacolpus dodecodus, Haeckel.
-Arachnocorys arachnodiscus, Haeckel.
-Sethoconus trochus, Haeckel.
-anthocyrtis, Haeckel.
-Theocampe cryptoprora, Haeckel.
-Aulacantha spinosa, Haeckel.
-Auloceros furcosus, Haeckel.
-Challengeria bromleyi, Haeckel.
-Castanissa hoylei, Haeckel.
-Conchidium rhynchonella, Haeckel.
-CIRRIPEDIA (Hoek, Zool. pt. 25).
-Lepas fascicularis, Ellis and Solander.
-On the balls of Lepas fascicularis were found Nudibranchs, Aphroditacean Annelids,
-and Halobates. In addition, the following are recorded from the tow-nets :-Diatoms,
-Peridinium tripos, Coccospheres, Rhabdospheres, Infusorians, Medusæ, Ctenophoræ,
-Cirriped larvæ, Euphausia, larval Gasteropods, Pteropods, Salpa, Appendicularia.
-STATION 249.
-Station 249 (Sounding 391), Yokohama to Sandwich Islands (see Chart 36 and
-Diagram 18).
-July 7, 1875; lat. 37° 59' N., long. 171° 48' W.
-Temperature of air at noon, 66°:3 ; mean for the day, 65°:0.
-Temperature of water :-
-O
-0
+STATION 250.
+Density at 60° F.:-
+.
+.
 Surface,
 25 fathoms,
 50
-75
 100
-125
-150
-175
 200
-225
-250
-275
-300
-65.2
-57.2
-54:8
-53:3
-52:3
-51.6
-51:1
-49.8
-48.0
-46:4
-45.0
-43.7
-42.7
-400 fathoms,
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
+. 1.02550
+1.02537
+1.02449
+1.02539
+. 1.02542
+300 fathoms,
+400
+2800
 Bottom,
-40:1
-38.5
-37.7
-37.0
-36.5
-36.2
-35.9
-35.6
-35:3
-35.2
-35.2
-35.2
-35.2
-Density at 60° F. at surface, 1:02540 ; bottom, 1.02542.
-Depth, 3000 fathoms; deposit, Red Clay, containing only a trace of carbonate of
+. 1.02528
+. 1.02531
+1.02539
+1:02568
+.
+Depth, 3050 fathoms; deposit, Red Clay, containing only a trace of carbonate of
 lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-Strong westerly breeze and heavy sea. At 8 A.M. got up steam.
-At 9.30 A.M.
-shortened and furled sails and proceeded under steam to sound. At 11 A.M. sounded in
-3000 fathoms. Only a small sample of deposit was obtained, adhering to the sounding-
+At 4.15 A.M. shortened and furled sails, and proceeded under steam to sound. At
+6 A.M. sounded in 3050 fathoms. Lowered trawl with two tow-nets attached, but hauled
+it in again after 800 fathoms had been paid out, as the weather became unfavourable for
+trawling in great depths. At 7 A.M. took serial temperatures down to 1500 fathoms.
+The carbonic acid was determined in water from 2800 fathoms, and amounted to
+37.4 milligrammes per litre. At 11.20 A.M. completed temperatures, and at 11.30 A. M.
+made sail to a good westerly breeze.
+Honolulu distant at noon, 1096 miles. Made good 115 miles. No current for last
+two days.
+Spence Bate (Zool. pt. 52) records in error Benthesicymus pleocanthus, n.g., n.sp., and
+Gennadas
+parvus, n.g., n.sp., from this Station ; the specimens probably came from
+Station 205.
+ORGANISMS FROM
+THE DEPOSIT.
+The following species of Radiolaria and Diatoms were observed in the deposit from
+this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Clathrosphæra circumtexta, Haeckel.
+Anthospyris spathulata, Haeckel.
+Theocyrtis proserpinæ, Haeckel.
+Aulographis hexancistra, Haeckel.
+Auloceros dicranaster, Haeckel.
+Aulospathis triodon, Haeckel.
+Challengeron triangulum, Haeckel.
+Entocannula circularis, Haeckel.
+Tuscarora tubulosa, Murray.
+Tuscaridium cygneum, Haeckel.
+Conchellium tridacna, Haeckel.
+Conchopsis compressa, Haeckel.
+DIATOMACEÆ.—The following species were observed by Mr. Rattray.
+Coscinodiscus rex, Wallich.
+Coscinodiscus lineatus, Ehrenberg.
+centralis, Ehrenberg.
+forma major.
+excentricus, Ehrenberg,
+radiatus, Ehrenberg.
+marginatus, Ehrenberg.
+var. media, Grunow.
+curvatulus, Grunow, var. genuina,
+argus, Ehrenberg.
+Grunow.
+polyacanthus, Grunow.
+imperator, Janisch, an gazellæ, Janisch. Asterolampra marylandica, Ehrenberg.
+anguste-lineatus, A. Schmidt.
+Asteromphalus shalboltianus, Ralfs.

@@ -1,44 +1,63 @@
-1436
+1440
 THE VOYAGE OF H.M.S. CHALLENGER.
-shallow zones the percentage of the species procured in these zones which pass through
-several zones of depth is very low, while in the deeper zones the percentage of species
-procured in these zones which pass through several zones of depth is rather high. These
-facts are evidently to be accounted for by the changes in the physical conditions
-which take place between the depths of 100 and 500 fathoms. When once animals
-have accommodated themselves to deep-sea conditions there are few barriers to further
-vertical or horizontal migration, hence the same species is often recorded in several of
-the deeper zones. An examination of Table I. page 1430 shows that the percentage of
-new species from the shallower zones, which extend into the deeper zones, is relatively
-large. This is probably due to a large number of the Challenger's dredgings and
-trawlings being in rather deep water within these zones and on muddy bottoms. In all
-probability the deep sea was peopled by continuous migrations downwards and seawards
-from about the mud-line. If we suppose these migrations to have taken place from
-the mud-line at many different periods of time and from many different parts of the
-world, then it may be thus possible to account for the relatively large number of genera
-in the deep sea in proportion to the number of species.
-DIMINUTION IN
-THE NUMBER OF
-SPECIES OF
-BENTHOS WITH
-DISTANCE FROM
-SHORE.
-When we take into consideration the horizontal as well as the vertical distribution,
-it would appear that in all the tropical and sub-tropical regions of the ocean the number of
-individuals and species living on the sea-bed very distinctly diminishes with the distance
-from the shore, and especially with the distance from continental shores. This statement
-would be universally true for all regions of the ocean were not the continental conditions
-pushed far from land by the presence of floating ice in the great Southern Ocean, and
-in some similar regions of the northern hemisphere. At first sight it might appear that
-this diminution in the number of species resulted from the greater depth at the seaward
-stations. This cannot, however, be the sole explanation. When the captures at the same
-or similar depths are compared from those stations within and those beyond 300 miles
-from land, it is found that the near-shore stations yield much the larger number of
-specimens and species. Stations in depths between 1000 and 2000 fathoms near shore
-give, on the average, 121 specimens and 39 species per haul; the remote stations beyond
-300 miles from land and between the same limits of depth yielded only 21 specimens and
-10 species per haul. In making this comparison, those stations were selected in which
-the conditions as to depth and other circumstances were nearly similar, excepting always
-the distance from a continental shore.
-When the results of the trawlings and dredgings on the different kinds of deposits
-are compared, similar indications are obtained with reference to the relatively greater
-abundance of both individuals and species close to continental shores—the Terrigenous
+RESEMBLANCE
+BETWEEN THE
+SHALLOW-WATER
+OF BRITAIN AND
+.
+shallow water in the extra-tropical regions of the southern hemisphere were those
+about the Tristan da Cunha group. With reference to these dredgings and trawlings,
+Marine Faunas Professor Wyville Thomson wrote in the Station-book at the time : “ From 150 to
+100 fathoms the dredge brought up a large quantity of specimens of all groups.
+TRISTAN DA CUNHA.
+Altogether a mass of material much like what is found off the coast of England.
+From 75 fathoms nearly the same things were got as in 60 fathoms, notably a profusion
+of Alcyonarians. These shallow-water dredgings around Tristan da Cunha gave a great
+amount of material, the fauna being very much of the same character as that of some-
+what shallower water in the north. The species seem in many cases to be identical,
+but this will require critical examination to determine.” 1
+The general similarity between the animals from the dredgings and trawlings in
+high southern latitudes and those from like positions in the high northern latitudes
+was the subject of frequent discussion among the naturalists during the whole of
+the southern cruise of the Challenger. The number of identical or nearly identical
+Mollusc shells in the Challenger collections from the deposits in 400 fathoms off the
+ANIMALS OF Hige Azores, and off the south-eastern coasts of Australia, was especially remarkable. Again,
+the similarity, and in many cases identity, of species from high northern and high
+southern latitudes is frequently pointed out by the naturalists who have written the
+Zoological Memoirs in the Challenger Report. This may be illustrated by the following
+extracts, dealing with distribution and development :-
+NORTHERN AND
+High SOUTHERN
+LATITUDES.
+.
+FISHES OF THE
+NORTHERN AND
+SOUTHERN HEMI-
+SPHERES.
+GÜNTHER writes: “The fauna of Chili and Juan Fernandez might be described, without much exaggera-
+tion, as a mixture of European and New Zealand forms; of the fishes mentioned here two being identical
+with, and four representative of, European species." Lycodes “is represented in the Southern as well as
+Northern Hemisphere, but it would appear from the present state of our knowledge that the Antarctic species
+do not descend to so great a depth as the Arctic. Probably all of the latter will be found to reach beyond
+the yertical limit of 100 fathoms. Two species only of Gymnelis are known: one (Gymnelis viridis)
+from the Arctic Ocean, the other [Gymnelis picta] from the Straits of Magellan."; "The most striking
+character of the fauna [of the southern temperate zone] is the reappearance of types inhabiting the
+corresponding latitudes of the northern hemisphere, and not found in the intervening tropical zone. This
+interruption of the continuity in the geographical distribution of shore-fishes is exemplified by species as well
+as genera, for instance-Chimæra monstrosa, Galeus canis, Acanthias vulgaris, Acanthias blainvillii, Rhina
+squatina, Zeus faber, Lophius piscatorius, Centriscus scolopax, Engraulis encrasicholus, Clupea sprattur,
+Conger vulgaris. Instances of genera are still more numerous--C'estracion, Spinaz, Pristiophorus, Raja ;
+Callanthias, Polyprion, Histioptrrus, Cantharus, Box, Girella, Pagellus, Chilodactylus, Sebustes, Aploactis,
+Agonus, Lepidopus, Cyttus, Psychrolutidæ, Notacanthus ; Lycodes, Merluccius, Lotella, Phycis, Motella ;
+Aulopus, Urocampus, Solenoyathus; Mycine. ... The reappearance of so specialised a genus as Lycodes
+[in the Antarctic] is most remarkable." 4
+HERDMAN writes: “The discovery, so far south as Kerguelen Island, of a member of this genus
+[Eugyra)
+, which has been hitherto found only in the northern hemisphere, is very interesting. .
+In the
+genus Boltenia, one species occurs in the extreme north, while the other two are from far south, the genus
+being unrepresented in intermediate latitudes. . . . In the genus Styela, all the species, with the exception
+I See ante, p. 399.
+? Zool. Chall. Exp., pt. vi. p. 23.
+3 Zool. Chall. Exp., pt. lvii. pp. 76, 81.
+• Study of Fishes, pr. 281, 290, Loudon, 1880.

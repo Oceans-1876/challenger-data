@@ -1,125 +1,104 @@
-1322
+1326
 THE VOYAGE OF H.M.S. CHALLENGER.
-S
-T
-sp. (?). T
+Ophiomusium cancellatum.
+lymani.
+Aërope rostrata.
+Asthenosoma grucile.
+Brissopsis luzonica.
+Dorocidaris (Cilaris) papilluta.
+Echinus acutus.
+norvegicus.
+Ilemiaster gibbosus.
+Maretia alta,
+Micropyga tuberculata.
+Phormosoma hoplacant) a.
+luculentum.
+Porocidaris elegans.
+Pourtalesia laguncula.
+Prionechinus sagittiger.
+Salenia hastigera.
+Cucumaria serrata,
+Pannychia moseleyi.
+Psolus antarcticus,
+Trochostoma violaceum.
+Cerebratulus macroren.
+Eulagisca corrientis,
+Hyalinecia tubicola.
+Nothia teniusetis.
+Myzostoma murrayi.
+willemoesii.
+xycille-thomsoni.
+Bairilia formosa.
+victrix.
+Bythocypris reniformis.
+Cythere dasy lerma.
+ilictyon.
+Cytherella lata.
+punctata.
+Krithe bartonensis.
+producta.
+Macrocypris similix.
+Scalpellum elongatum.
+intermedium.
+Neasellus kergurlenensis.
+Serolis bromleyana.
+Acanthephyra brachytelsonis.
+sicu.
+Benthesicymus altus.
+Gennadas parvus.
+Glyphocrangon regalis.
+Hemipenxus semidentatus.
+Heterocarpus alphonsi.
+Nematocarcinus tenuipes.
+Nematocarcinus unilulatipes.
+Pasiphæa acutifrons.
+Pentacheles euthrie.
+Plesionika semilæris.
+Sergestes atlanticus.
+japonicus.
+Munila microphthalma.
+spinosa.
+subrugosa.
+Uroptychus australis.
+Phonichilidium patagonicum.
+Cryptodon croulinensis.
+Ervilia subrancellata.
+Leila messanonsis,
+Lima goliath
+(Limatula) confusa.
+Limopsis minuta.
+Montacuta pura.
+Perten ritreus.
+Busilissa alta.
+Bembix æola.
+Cithna tenella.
+Clionella lophočesa.
+Cyclostrema conicum.
+Dentalium entalis.
+Ianthina exigua.
+Marginella (Glabella) musica.
+Natica sp. (?).
+Pleurotoma (Genota) engonia.
+Sequenzia monocinjulata.
+Trochus (Margarita) clavatus.
+Bugula reticulata.
+Caberea daruinii.
+Carbasea dissimilis.
+peilunculata.
+Catenicella elegans.
+Cribrilina monoceros,
+Farciminaria hexagona.
+Hippothoa divaricata.
+Idmonea marionensis.
+Membrani pora galeata.
+umbonata.
+Myriozoum marionense.
+Schizoporella elegans.
+Turritigera stellata.
+Terebratula uva.
+Ascidia tenera.
+Leptoclinum tenue.
+Gonostoma elongatum.
+microdon,
 >
-nov.
-sp (?). T
-T
-1
-S
-* Malletia arrouana, n.sp.
-T
-* Pleurotoma ischna, n.sp.
-S
-* Modiola watsoni, n.sp.
-T
-(Bela) ula, n.sp.
-Montacuta pura, n.sp.
-N
-(Genota) engonia, n.sp. S N
-* Neæra platensis, n.sp.
-(Spirotropis) brachytona,
-n.sp.
-T
-teres, Jeffreys. N
-bulbacea,
-Nucula pernambucensis, n.sp.
-( )
-n.sp.
-S
-* Pecten kermadecensis, n.sp. S
-(Surcula) bulbodes, n.sp. T
-vitreus (Chemnitz).
-S TN
-(
-) dissimilis, n.sp. T
-* Spondylus ostreoides, n.sp. S
-( ) goniodes, n.sp. S
-) gypsata, n.sp.
-(
-S
-SCAPHOPODA AND GASTEROPODA ;
-( ) hemimeres, n.sp.
-T
-Basilissa alta, n.g., p.sp., var. oxytoma,
-(Typhlomangelia) paupera,
-T
-T
-n.sp.
-Bembix æola, n.g., n.sp.
-N
-two species undetermined. T
-* Bittium enode, n.sp.
-T
-* Scalaria sp (?).
-mamillanum, n.sp.
-Scaphander mundus, n.sp. T
-* Cadulus colubridens, n.sp. S
-niveus, n.sp.
-T
-TN
-Cassis sp. (?), fry. TN
-Seguenzia carinata, Jeffreys.
-Cithna tenella, Jeffreys. Τ Ν
-monocingulata, Seguenza, var.
-Clionella lophoëssa, n.sp.
-T
-lineata, nov.
-TN
-Cyclostrema conicum, n.sp.
-trispinosa, n.sp.
-T
-sulcatum, n.sp.
-T
-Trochus (Margarita) clavatus, n.sp.
-T
-* Dentalium diarrhox, n.sp.
-s
-(
-) streptophorus, n.sp.
-entalis, Linné, var, agile, Sars.
-T
-S TN
-(
-) sp. (?).
-S
-T
-subterfissum, Jeffreys. TN
-two species undetermined.
-* Echinella (?) tectiformis, n.sp.
-N
-* Turbo transenna, n.sp.
-N
-* Gaza dædala, n.g., n.sp.
-T
-* Utriculus (Tornatina) pachys, n.sp.
-Ianthina exigua, Lamarck (surface). T N
-Marginella (Glabella) musica, Hinds. S N
-NUDIBRANCHIATA :
-Murex (Phyllonotus) zelandicus, Quoy
-* Euplocamus pacificus, n.sp.
-and Gaimard. ST
-* Nassa (Tritia) brychia, n.sp.
-N
-( ) ephamilla, n.sp. S
-CEPHALOPODA :
-* Natica amphiala, n.sp.
-S
-* Amphitetrus pelagicus, n.g., n.sp.
-S
-(Amauropsis) apora, n.sp.
-ST * Cirroteuthis meangensis, n.sp.
-ST
-sp. (?). TN
-* Eledone brevis, n.sp.
-S
-* Odostomia hyphala, n.sp.
-verrucosa, Verrill.
-S
-T
-S
-2
-S
-1
+>

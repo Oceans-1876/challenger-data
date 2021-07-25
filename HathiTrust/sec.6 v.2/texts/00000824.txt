@@ -1,185 +1,182 @@
-1542
+1546
 THE VOYAGE OF H.M.S. CHALLENGER.
-'
-Pleuropodium,
-cortina, 1042, 1268.
-Pleuropus, 1219, 1221, 1223, 1232, 1236,
-1256, 1264.
-pellucidus, 931.
-Pleurosigma,
-æstuarii, 911.
-affine,
-.
-1
-Platycephalus-continued.
-sculptus, 731, 1420.
-spinosus, 715, 1420.
-Platydia,
-anomioides, 441, 1352, 1449.
-Platydoris,
-eurychlamys, 628, 833, 1410,
-1427.
-Platyglossus,
-cyanostigma, 340.
-pæcilopterus, 928, 1420.
-pyrrhogramma, 928, 1420.
-trimaculatus, 659, 1420.
-Platygrapsus,
-depressus, 909, 1393.
-Platyischnopus, 1429.
-mirabilis, 559, 1386.
-Platymaia, 1361.
-wyville-thomsoni, 865, 1343.
-Platynereis (see Nereis).
-Platyonychus,
-bipustulatus, 561, 1393.
-iridescens, 748, 1343.
-Platysaccus,
-crenatus, 1262.
-Platyscelus,
-armatus, 889, 1263.
-ovoides, 953.
-risseine, 625, 1340.
-serratulus, 334, 337, 1255, 1263.
-Platystethus,
-huttonii, 592.
-Platytroctes, 1301.
-apus, 336, 1298.
-Plaxiphora,
-carmichaelis, 1145, 1350.
-carpenteri, 397, 1409.
-simplex, 397, 1350, 1359, 1409.
-Plecoglossus,
-altivelis, 939, 1420.
-Plectaniscus,
-cladoscenium, 1062.
-clathrocorys, 1040.
-cortiniscus, 958.
-tripodiscus, 941.
-Plectanium,
-ovodimare, 922.
-sphærozoum, 1017.
-trigeminum, 958.
-Plectocoronis,
-anacantha, 1060.
-pentacantha, 1046.
-triacantha, 1011.
-Plectophora,
-pyramidalis, 1019.
-triomma, 941.
-Plectopyramis,
-dodecomma, 1041.
-heteromma, 1218.
-hexapleura, 881, 1011.
-Plectopyramis—continued.
-lagena, 881, 1226.
-quadratomma, 957.
-serrata, 1118.
-trapezomma, 1016.
-Plectropoma,
-maculatum, 657, 1420.
-Plegmosphæra,
-exodictyon, 1038, 1044, 1206.
-leptodictyon, 1017.
-leptoplegma, 980.
-maxima, 1044
-pachypila, 973, 1038.
-pachyplegma, 1032.
-Pleoticus (see Philonicus).
-Pleroma, 1360.
-turbinatum, 632, 1329.
-Plesiastræa,
-indurata, 643, 1371.
-urvillei, 643, 1371.
-Plesionika,
-brevirostris, 776, 1341.
-semilævis, 579, 615, 633, 776,
-1321, 1326, 1341, 1356.
-spinipes, 865, 1341.
-unidens, 865, 1341.
-uniproducta, 358, 1341.
-Plesiops,
-corallicola, 658, 1420.
-Pleuraspis,
-amphithecta, 1062.
-horrida, 845.
-pyramidalis, 871.
-ramosa, 1053
-Pleurechinus,
-bothyroides, 695, 906, 1378,
-1423.
-Pleurobrachia, 889, 1109.
-Pleurobranchus, 447, 571, 910, 1309,
-1404.
-Pleurocorallium,
-johnsoni, 140, 292, 1292, 1299,
-1303.
-secundum, 432, 744, 752, 1331,
-1355.
-Pleurocyathus, 1361.
-brunneus, 752, 1332.
-Pleurogonium,
-albidum, 470, 1340.
-minutum, 395, 1340.
-serratum, 470, 1340.
-Pleuromma,
-abdominale, 314, 498, 500, 524,
-551, 575, 600, 675, 986, 1093,
-1095, 1141, 1167, 1193, 1207,
-1213, 1257, 1266, 1269.
-Pleuronectes,
-variegatus, 928, 1420.
-yokohamæ, 928, 1420.
-Pleuronectia, 1125.
-var, normanni, 812, 904, 938.
-angulatum, 277.
-antarcticum, 514, 517.
-balticum, 286, 911, 930.
-decorum, 889, 930.
-delicatulum, 481.
-directum, 220, 286, 302, 424, 615.
-elegantissimum, 733.
-elongatum, 930.
-japonicum, 733.
-kerguelense, 442.
-macilentum, 733.
-naviculaceum, 812.
-var. arafurensis, 733.
-pulchrum, 904.
-rigidum, 492,
-strigilis, 287.
-strigosum, 733, 911, 930, 973.
-Pleurostomella, 511.
-alternans, 200.
-brevis, 511.
-subnodosa, 139, 215, 1092, 1111,
-1217, 1247, 1253.
-Pleurotoma, 266, 267, 333, 351, 361,
-387, 422, 542, 560, 568, 603,
-684, 708, 786, 792, 795, 841,
-1171, 1309, 1322, 1348, 1405.
-carinata, 684.
-ischna, 609, 1322.
-maritima, 86.
-marmorata, 653, 708, 806, 1404,
-1427.
-monilifera, 653, 1404.
-phymatias, 793, 1309.
-speciosa, 728, 1404.
-spicea, 361, 1348.
-tigrina, 653, 1405.
-undosa, 708, 1405.
-xanthophaes, 568, 1405.
-(Bela),
-climakis, 333, 1297.
-dyscrita, 164, 1348.
-phacra, 361, 1348.
-ula, 609, 1322.
-(Crassispira),
-owenii, 568, 1405.
-(Drillia),
-challengeri, 579, 1348.
-climacota, 627, 1405.
-crossei, 579, 1348.
-horrenda, 361, 1348.
-hoylei, 579, 1348.
+Praxilla, 114, 279, 1319.
+abyssorum, 508, 1295
+assimilis, 465, 1338.
+capensis, 417, 1382.
+challengeriæ, 112, 1338.
+kerguelensis, 465, 1338.
+köllikeri, 637, 1338.
+lankesteri, 899 1338.
+occidentalis, 214 1305.
+Praya,
+galea, 1261.
+Priacanthus, 751.
+benmebari, 731 1420.
+Priapulus, 815.
+caudatus, 253.
+Priene (see Lampusia).
+Primno, 495, 499, 505, 517, 522, 944,
+1185, 1186.
+antarctica, 500.
+latreillei, 575, 585.
+macropa, 525, 1093, 1268.
+menevillei, 524.
+Primnoa, 399, 426, 455, 486, 1243.
+Primnoella,
+australasiæ, 547, 555, 1331, 1358,
+1366.
+biserialis, 1150, 1331.
+distans, 161, 356, 1331, 1355.
+flagellum, 1150, 1331.
+grandisquamis, 547, 1331
+magellanica, 1188, 1315
+murrayi, 1188, 1315.
+Primnoides, 1361.
+sertularoides, 432, 1331,
+Primnoisis,
+ambigua, 461, 1366.
+antarctica, 432, 1331.
+rigida, 1188, 1315.
+sparsa, 432, 1366.
+Pristacantha,
+dodecodon, 958.
+polyodon, 611.
+Pristiophorus, 1440.
+Procellaria, 1058.
+æquinoctialis, 494, 584, 588,
+1204, 1211, 1212.
+capensis, 494, 1093, 1095, 1099,
+1100, 1103, 1107, 1110.
+gigantea, 385, 612, 1107, 1110,
+1212.
+glacialoides, 501.
+maxima, 1100, 1107, 1128, 1133,
+1134.
+Procletes,
+biangulatus, 739, 1321.
+Productus,
+longispinus, 1456.
+semireticulatus, 1456.
+Promachocrinus, 1445.
+abyssorum, 452, 518, 1292, 1298.
+kerguelensis, 462, 488, 1374,
+1422.
+naresi, 840, 1317.
+Promachoteuthis, 1301.
+megaptera, 935, 1297.
+Pronoe,
+capito, 1102.
+Propoma, 1361.
+roseum, 749, 1354.
+Proteleia, 1429.
+sollasi, 406, 1364.
+Protella,
+gracilis, 722, 1386.
+Protellopsis, 1429.
+kergueleni, 469, 1386.
+Prothelmins, 1301.
+profundissima, 508, 1294.
+Proto (sce Phtisica).
+Protocaulon, 1327.
+molle, 606, 1316.
+Protopterus, 1439.
+Protoptilum,
+aberrans, 210, 212, 216, 1292,
+1299, 1303, 1310.
+Protosquilla,
+cerebralis, 648, 1386.
+elongata, 309, 1386.
+guérinii, 997, 1387.
+Protula,
+americana, 225, 1382.
+arafurensis, 722, 1382.
+capensis, 420, 1338.
+lusitanica, 112, 1338.
+Protympaniun,
+amphipodium, 1040.
+primordiale, 1006, 1008, 1013,
+1018, 1019, 1024, 1029, 1033,
+1046, 1053, 1057, 1062.
+trissocircus, 1022.
+Provocator, 1361.
+pulcher, 473, 485, 1348, 1356.
+Prunocarpus,
+melocactus, 1022.
+Prunulum,
+cerasum, 1217.
+coccymelium, 1055.
+crenatum, 1021.
+fragulum, 1015.
+pyrenium, 879.
+triplex, 1265.
+Prymnothonus, 505, 965, 1266.
+Psammaplidium,
+effrenatum, 1192, 1323.
+exiguum, 418, 1415.
+flavum, 1192, 1323.
+ovatum, 714, 1415.
+pyriforme, 714, 1415.
+retiforme, 477, 1415.
+rude, 1271, 1415.
+spongiforme, 574, 1415.
+subviride, 423, 1353.
+Psammastra, 1429.
+murrayi, 536, 1365.
+Psammina,
+globigerina, 867, 1302.
+nummulina, 1058, 1277.
+plakina, 1214, 1291.
+Psammobatis,
+rudis, 1171, 1420.
+Psammobia, 764, 1397.
+anomala, 702, 1397.
+castrensis, 626, 1397.
+costulata, 127, 1397.
+intermedia, 311, 1397.
+lineolata, 597, 1397.
+modesta, 563, 1397.
+pallida, 726, 1397.
+pulcherrima, 626, 1397.
+zonalis, 563, 1397.
+Psammoclema,
+foliaceum, 535, 1362.
+ramosum, 535, 1362.
+vosmaeri, 689, 1362.
+Psammocora
+exesa, 761, 1371.
+obtusangula, 623, 1371.
+ramosa, 824, 1371.
+Psammolyce,
+fijiensis, 647, 1382.
+occidentalis, 162, 1338.
+Psammopemma,
+calcareum, 298, 1283.
+densum, 223,552, 1362, 1422,1446.
+porosum, 371, 1362.
+radiolarium, 1049, 1277.
+Psammophyllum,
+annectens, 954, 1277.
+flustraceum, 946, 1283.
+reticulatum 771, 1283.
+Prion,
+desolatus, 506.
+turtur, 1095, 1099, 1100, 1107,
+1110, 1128, 1182, 1212.
+vittatus, 1093.
+Prionastræa,
+flexuosa, 643, 1371.
+obtusata, 643, 1371.
+quoyi, 643, 1371.
+robusta, 761, 1371.
+Prionechinus,
+sagittiger, 578, 801, 855 1305,
+1312, 1318, 1326, 1336.
+Prionospio,
+capensis, 417, 1382.
+Prionotus,
+punctatus, 1196, 1420.
+Prionurus,
+scalprum, 927, 1420.
+Prismatium,
+tripodium, 880, 1040, 1046, 1251.

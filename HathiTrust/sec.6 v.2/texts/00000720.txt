@@ -1,46 +1,57 @@
-1438
+1442
 THE VOYAGE OF H.M.S. CHALLENGER.
-the area is much more restricted. For instance, large hauls were obtained at Station
-246 in the North Pacific, and at many stations in the North Atlantic explored by the
-“Porcupine,” “Valorous,” « Triton,” and “Knight Errant.” The greater number of animals
-on the sea-floor in the Southern Ocean, the North Atlantic and Pacific, may, however,
-be connected with migrations of Benthos animals equatorwards from polar regions.
-THE SPECIES CAP-
-DEEP-SEA STA-
-TIONS, IN VARIOUS
-OCEAN
-It is usual to assume that there is a universal and peculiar fauna of great antiquity
-in the deep sea. An examination of the statistics given in the foregoing pages does
-COMPARISON OF not seem to confirm this opinion. Let us further compare some of the results of
-TURED AT several deep-sea trawlings in different regions of the ocean.
-In 1850 fathoms in mid-equatorial Atlantic (Station 106), and in 2425 fathoms
-Regions of the mid-equatorial Pacific (Station 271), both on Globigerina Ooze, 66 species were
-obtained, 38 species in the first and 29 in the second Station, but only one species
--the little Discina atlantica-was common to the two localities. The
-genus
-Discina
-ranges from the Cambrian to the present time.
-In 1875 fathoms in the Northern Pacific (Station 237), and in 2050 fathoms
-(Station 246) also in the North Pacific, and in nearly the same latitude (35° N.), but
-separated from each other by about 1790 miles, 100 species were obtained, 57 species in
-the first and 48 in the second Station, and of these only five species were common to the
-two stations.
-In 1375 fathoms in the Southern Ocean (Station 146), and in 1600 fathoms (Station
-147) also in the Southern Ocean, and in nearly the same latitude (46° S.), but separated
-by only 122 miles, 145 species were obtained, 78 species in the first and 89 in the
-second Station, 22 of which were common to the two stations.
-There is not one species common to the six above-mentioned stations. If we take
-the above two tropicab stations as one group, the two Northern Pacific stations as a
-second, and the two Southern Ocean stations as a third group, then of the 290 species
-recorded from all three groups only two species-Macrurus armatus and Eucopia
-australis-or 0.7 per cent., are common to all the three groups. In the Northern Pacific
-and equatorial groups 160 species were obtained, of which only 6 species, or 3-7 per
-cent., were common to these northern and tropical Stations. In the Southern Ocean and
-equatorial groups 208 species were obtained, of which only 4 species, or 1.9 per cent., were
-common to these southern and tropical Stations. In the Northern Pacific and Southern
-Ocean groups 235 species were obtained, of which 10 species, or 4-2 per cent, were
-common to these Stations from high northern and high southern latitudes. Discina
-atlantica, Hyocrinus bethellianus, Hyalonema (Stylocalyx) depressum, Bugula reticulata,
-Liponema multiporum, which live attached to the bottom, are among the species
-common to two or more of the above Stations, but the majority of the species common
-to two or more Stations belong to Fishes and Crustaceans which move freely over the
+SchiZOPODA OF
+THE NORTHERN
+AND SOUTHERN
+HEMISPHERES.
+SARS says: “Concerning the geographical distribution of this species (Lophogaster typicus), the
+occurrence of this form in the southern hemisphere, as shown by the Challenger collection, is remarkable,
+and might induce the belief that it ranges from the Norwegian Sea along the whole western coast of Europe
+and Africa, or throughout the boreal, lusitanic, tropic, and antiboreal regions. It may, however, be considered
+as a highly remarkable fact, that this very striking form has never been recorded either from the coasts of
+England and France, or from the Mediterranean, although each of these tracts has been carefully investigated
+by numerous zoologists. We may therefore entertain the assumption that this form in reality does not occur
+throughout the intermediate tracts of the ocean, but is met with independently in both hemispheres in the
+corresponding region. Should this be the case, we may infer that the distribution of the species must at
+an earlier date have been continuous, but considerable changes afterwards occurring in the physical conditions
+led to a separation of the species into two independent stocks. In the sequel we shall meet with another
+still more striking example of a similar kind, in treating of the Mysidan Boreomysis scyphops, a form stated
+to occur in the Arctic and Subantarctic regions only, having never yet been found in any intervening tract.
+The typical species (of Boreomysis] is Boreomysis arctica, first met with in the Arctic Sea, off Greenland,
+and also occurring along the coasts of Norway, where two other species, Boreomysis tridens and Boreomysis
+megalops, have been also observed. Moreover, on the Norwegian North Atlantic Expedition two large species
+were taken, Boreomysis nobilis and Boreomysis scyphops, the latter of which is also represented in the
+Challenger collection (from the Southern Ocean). Finally, there are two additional species from the
+Challenger Expedition (one from the North Pacific and one from the North Atlantic). . . . The total number
+of species thus amounts to seven. All are true deep-sea forms, the animals descending to very considerable
+depths, and having never been met with in shallow water. .. The geographical distribution of this form
+(Boreomysis scyphops] is very remarkable, ranging, as it does, within the limits of well-nigh the same region
+in both hemispheres, and not occurring in the intermediate tracts of the ocean. As it cannot be reasonably
+assumed that the species has originated independently in both hemispheres, the physical condition of the
+sea-bottom must at some time or other have been more uniform than at present, to have admitted of the
+species spreading over a much more extensive area, whereas at a later period essential changes in the
+climatological conditions must be assumed to have caused this form to withdraw successively from the equa-
+torial region towards the two poles, thus dividing the species into two widely separated stocks, inhabiting
+corresponding regions in both hemispheres. Another fact, too, viz., the remarkable occurrence ... of the northern
+form, Lophogaster typicus, in the Southern Ocean, without its being ever met with in the intermediate tracts,
+may also warrant the assumption of essential changes in the physical conditions of the sea-bed having taken
+place at some former period, thus causing the occurrence of certain species to appear discontinuous." I
+Sars further writes: “The development of most Schizopoda exhibits a very striking resemblance to that
+of the Isopoda, the young passing within the marsupium of the female through one or more so-called pupa-
+stages before being hatched. In the Euphausiidæ, however, a totally different mode of development has
+been discovered, the young of these animals being hatched in a very immature condition, and not attaining,
+till after an exceedingly complicated free metamorphosis, the form characteristic of the adults." 2
+Sars writes: "The genus (Leucon} at present comprises, besides the two new forms described below (one
+from Kerguelen and one from the North Pacific), nine species, seven of which are from the Northern Ocean,
+one from the Mediterranean, and one from the Atlantic. . . The genus [Diastylis) is very abundantly
+represented, especially in the Northern Ocean, no less than twenty-seven distinct species having been hitherto
+recorded. The Challenger collection contains four species, one of which [from the North Atlantic) has been
+formerly described, whereas the three others (two from the North Atlantic and one from Kerguelen) are now
+added, increasing the number to thirty-one." 3
+BEDDARD, speaking of the development of spines in Isopods, writes: “This modification of structure is
+not, however, confined to the deep-sea species; it is found in quite as marked a degree in Arcturus furcatus and
+Arcturus studeri and other species of Arcturus; it will be noticed, however, that these species are inhabitants
+of the colder regions, and indeed it would appear that there is some connection between temperature and the
+* Zool. Chall. Exp., pt. xxxvii. pp. 16, 177, 178, 182.
+Zool. Chall. Exp., pt. xxxvii. p. 8.
+3 Zool. Chall. Exp., pt. lv. Pp. 33, 44,

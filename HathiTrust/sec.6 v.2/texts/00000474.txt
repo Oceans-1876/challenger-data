@@ -1,37 +1,100 @@
-1198
+1202
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 323.
-heaving in trawl, which came up at 3 P.M. with many specimens. Made sail. Mutton
-birds and black night hawks (?) were seen.
-Tristan da Cunha distant at noon, 1870 miles. Made good 89 miles. Amount of
-current 4 miles, direction N. 43° E.
-ANIMALS FROM
-TRAWL.
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :
-HEXACTINELLIDA (Schulze, Zool. pt. 53).
-Hyalonema tenue, n.sp. Two fragments; obtained at no other locality.
-ANTIPATHARIA (Brook, Zool. pt. 80).
-Schizopathes crassa, n.g., n.sp.
-One specimen ; obtained at no other locality.
-CORALS (Moseley, Zool. pt. 7).
-Leptopenus discus, n.g., n.sp. One specimen ; obtained also at Stations 147 and 157.
-The only other species of the genus (Leptopenus hypocælus)
-was taken at Station 299.
-SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
-Bathyphysa gigantea, n.sp. Obtained at no other locality.
-CRINOIDEA (Carpenter, Zool. pt. 32).
-Rhizocrinus lofotensis, Sars. Stem fragment; obtained also at Stations 24 and 122.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Pythonaster murrayi, n.g., n.sp.
-Obtained at no other locality. Only species of
-the genus.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophiomusium archaster, Wyville Thomson, MS., n.sp. Five specimens ; obtained
-at no other locality.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Aceste bellidifera, Wyville Thomson, n.g., n.sp. Obtained also at Stations VIII.
-and 272. Only species of the genus.
-GEPHYREA (Selenka, Zool. pt. 36).
-Phascolosoma catharina, Müller. One specimen ; obtained at no other locality by
-the Challenger. Recorded from Desterro (shore).
+STATION 323,
+Distomum, Tomopteris, Annelid larvæ (like Balanoglossus), small Planarian, Saphirina
+and other Copepods, Hyperids, larvæ of Sergestes and Lucifer (?) and other Decapod
+larvæ, Ianthina and other small shells and egg-clusters (of Ianthina ?), Atlanta and
+other Heteropods, various species of Pteropods, Appendicularia, Doliolum, and larval
+fishes. A tow-net sent down to 150 fathoms yielded a few Oscillatoriaceæ, a single
+Pulvinulina, Tomopteris, and Cypridina. The tow-net at the weights and one of the
+tow-nets at the trawl were full of mud, but the second tow-net at the trawl had very
+little mud in it, and contained many arenaceous and other Foraminifera (Globigerina
+and Pulvinulina menardii), some of the larger specimens of the latter being quite
+surrounded by sarcode, while some of the bottom-living forms (such as Discorbina
+and Rupertia) were alive and attached to the surface of Polyzoa and worm-tubes ; the
+tow-net contained besides large living Challengeridæ, large Sagittæ, red shrimps, and
+other surface and deep-water organisms.
+STATION 324.
+Station 324 (Sounding 474), Rio de la Plata to Tristan da Cunha (see Chart 16
+and Diagram 6).
+February 29, 1876; lat. 36° 9' S., long. 48° 22' W.
+Temperature of air at noon, 67°:0; mean for the day, 69°:5.
+Temperature of water :-
+Surface,
+10 fathoms,
+20
+30
+40
+50
+>
+75
+99
+71-5
+69.7
+69.6
+69.5
+69.3
+68.8
+64.0
+60.0
+56.5
+53.8
+50.8
+48.0
+45.0
+42.5
+41:5
+40.6
+39:4
+38.6
+100
+125
+150
+175
+200
+225
+250
+275
+300
+400
+500
+600 fathoms,
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1800
+2000
+2200
+2400
+2500
+2600
+2700
+Bottom,
+38.1
+37.5
+37.0
+37.0
+37:0
+37:0
+37.0
+37.0
+37.0
+370
+37.0
+360
+33.3
+32.6
+326
+32.6
+32.6
+32.6
+3
+Density at 60° F. at surface, 1.02603 ; bottom, 1.02600.
+Depth, 2800 fathoms; deposit, Blue Mud, containing 4:04 per cent. of carbonate
+of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).

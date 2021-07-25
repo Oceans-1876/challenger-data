@@ -1,67 +1,110 @@
-936
+938
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 237.
-Gonostoma microdon, n.sp. Eight specimens ; for distribution see Station 23.
-Bathysaurus mollis, n.g., n.sp. One specimen ; obtained also at Station 281,
-2385 fathoms.
-Notacanthus rissoanus, Filippi and Vérany. One specimen ; obtained at no
-other locality by the Challenger. Recorded from
-Mediterranean.
-Synaphobranchus bathybius, n.sp. Nine specimens ; obtained also at Stations 146
-and 246.
-In addition to the foregoing, the following are recorded in the Station-book :-
-Palythoa on shells with Pagurus, two species of Holothuria (only one given above),
-two Annelids, two Lernæans on Synaphobranchus, Cryptoniscus on Caridid shrimp,
-three cuttlefishes (only two given above).
-Excluding Protozoa, over 150 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 57 species, of which 45 are new to science,
-including representatives of 11 new genera ; 25 of the new species and 1 new genus
-were not obtained elsewhere.
-ORGANISMS FROM
-THE DEPOSIT.
-The following species of Foraminifera and Diatoms were observed in the deposit from
-this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.):-
-FORAMINIFERA (Brady, Zool. pt. 22). — The pelagic species, which make up about
-33 per cent. of carbonate of lime present in the deposit, are marked thus x.
+1
+Actinocyclus japonicus, Castracane.
+punctulatus, Castracane.
+rotula, Castracane.
+Actinoptychus subangulatus, A. Schmidt.
+undulatus, Ehrenberg.
+areolatus, A. Schmidt.
+vulgaris, Schumann.
+splendens, Ralfs.
+Asteromphalus brookei, Bailey.
+humboldtii, Ehrenberg,
+roperianus, Ralfs.
+hookerii, Ehrenberg.
+hiltonianus, Ralfs.
+arachne, Ralfs.
+Coscinodiscus lineatus, Ehrenberg.
+anguste-lineatus, A. Schmidt.
+leptopus, Janisch.
+eccentricus, Ehrenberg.
+var. punctifera, Grunow.
+curratulus, Grunow.
+var. recta, Rattray.
+marginatus, Ehrenberg.
+fimbriato-limbatus, Ehrenberg.
+subtilis, Ehrenberg.
+concinnus, Smith, var. jonesiana,
+3
+Navicula spectabilis, Gregory.
+smithii, Brebisson.
+nitescens, Ralfs.
+prætexta, Ehrenberg.
+constricta, Grunow.
+gemmata, Greville.
+multicostata, Grunow.
+splendida, Gregory.
+notabilis, Greville.
+aspera, Ehrenberg,
+Alloioneis antillarum, Cleve and Grunow.
+debyii, forma osculifera (= Trachyneis,
+Cleve).
+peragalli, Brun.
+monodon, Brun
+Pleurosigma affine, Grunow, var. normanni, Ralfs.
+Cocconeis pellucida, Hantzsch.
+Orthoneis splendida, Grunow.
+Campyloneis grevillei, Grunow.
+Nitzschia jelinekii, Grunow.
+marina, Grunow.
+Surirella recedens, A. Schmidt.
+lata, W. Smith.
+fastuosa, Ehrenberg.
+var. suborbicularis, A. Schmidt.
+slesvicensis, Grunow (fresh water).
+ocellata, Castracane.
+Campylodiscus echeneis, Ehrenberg.
+hypoilromus, Tempère and Brun.
+horologium, Williamson, var.
+dentatus, Deby.
+undulatus, Greville ( = C.brightwellii,
+Grunow).
+toniatus, A. Schmidt.
+Rhaphoneis surirella, Ehrenberg, var, australis, Petit.
+Synedra superba, Kutzing.
+gaillionii, Ehrenberg.
+doliolus, Wallich.
+Grammatophora undulata, Ehrenberg, var. japonica,
+Grunow.
+stricta, Ehrenberg.
+ovalauensis, Grunow.
+marina, Kutzing, var. tropica,
+Grunow.
+Glyphodesmis williamsonii, Grunow.
+Rhabdonema adriaticum, Kutzing.
+arcuatum, Kutzing.
+Gephyria media, Arnott.
+Roperia tesellata, Grunow.
+Actinocyclus complanatus, Castracane.
+Rattray.
+99
+9)
+radiatus, Ehrenberg.
+var. media, Grunow.
+obscurus, A. Schmidt.
+var. floralis, Brun.
+oculus-iridis, Ehrenberg.
+var. lorulifera, Rattray.
+argus, Ehrenberg
+borealis, Bailey.
+asteromphalux, Ehrenberg, var.
+rex, Wallich.
+gazellæ, Janisch.
+nitidus, Gregory.
+ralliosus, Grunow.
+nodulifer, Janisch.
+obovatus, Castracane.
+robustus, Greville.
+decrescens, Grunow.
+convexus, A. Schmidt.
+africanus, Janisch.
+apiculatus, Ehrenberg.
+gigas, Ehrenberg, var. diorama, Grunow.
+janischii, A. Schmidt.
+2
 >
-)
-Biloculina depressa, d’Orbigny.
-var. murrhyna, Schwager.
-var. serrata, Brady.
-Spiroloculina tenuis (Czjzek).
-Miliolina insignis, Brady.
-tricarinata (d'Orbigny).
-trigonula (Lamarck).
-Ophthalmidium inconstans, Brady.
-Planispirina celata (Costa).
-sigmoilea, Brady.
-Cornuspira involvens, Reuss.
-Pelosina cylindrica, Brady.
-Storthosphæra (?) sp.
-Technitella legumen, Norman.
-melo, Norman.
-Bathysiphon filiformis, Sars.
-Psammosphæra fusca, Schulze.
-Jaculella obtusa, Brady.
-Hyperammina ramosa, Brady.
-subnodosa, Brady (3).
-Marsipella cylindrica, Brady.
-Rhabılammina abyssorum, Sars.
-linearis, Brady.
-Asche monella catenata (Norman).
-Rhizammina algæformis, Brady.
-Reophax allunca, Brady.
-cylindrica, Brady (?).
-dentuliniformis, Brady.
-difflugiformis, Brady.
-distans, Brady.
-guttifera, Brady.
-membranacea, Brady (?).
-nodulosa, Brady.
-pilulifera, Brady.
-scorpiurus, Montfort.
-spiculifera, Brady (?).
-Haplophragmium anceps, Brady.
-canariense (d'Orbigny).
-globigeriniforme (Parker and Jones).
-glomeratum, Brady.
+99
+sp. (?).
+Ethmodiscus sp. (?).

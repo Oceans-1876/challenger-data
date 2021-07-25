@@ -1,63 +1,83 @@
-1446
+1450
 THE VOYAGE OF H.M.S. CHALLENGER.
-south of the tropic of Capricorn, and those taken north of the tropic of Cancer. In the
-foregoing lists (pages 1277–1429), as previously stated, the letter T after a name
-indicates that the species was taken within the tropics ; N in like manner indicates the
-An examination of these lists
-northern, and S the southern great zone of latitude.
-with reference to the animals occurring north and south of the tropics, but not
-within the tropics, brings out some interesting results.
-The following 91 species were taken by the Challenger to the South and North of
-the tropics, and not within the intervening tropical zone, but 11 of these species
-(marked thus *) are recorded from other sources as having been obtained within the
-tropics :-
-KERATOSA :
-OPHIUROIDEA :
-Psammopemma densum, Marshall. Ophiacantha rosea, n.sp.
-Ophiernus vallincola, n.g., n.sp.
-MONAXONIDA :
-Ophiocten hastatum, n.sp.
-* Halichondria panicea, Johnston.
-Ophioglypha bullata, n.sp.
-* Tedania digitata (Schmidt).
-confragosa, n.sp.
-Tentorium semisuberites (Schmidt).
-ECHINOIDEA :
-HEXACTINELLIDA :
-* Echinocardium australe, Gray.
-Aulocalyx irregularis, n.g., n.sp.
-Echinus norvegicus, Düben and Koren.
-Chonelasma lamella, n.g., n.sp.
-Phormosoma hoplacantha, n.sp.
-*Schizaster fragilis (Düben and Koren).
-ACTINIARIA :
-HOLOTHURIOIDEA :
-Cereus spinosus, n.sp.
-Euphronides depressa, n.g., n.sp.
-Liponema multiporum, n.g., n.sp.
-Holothuria lactea, n.sp.
 CORALS :
-thomsoni, n.sp.
-Caryophyllia communis (Seguenza). Kolga nana, n.sp.
-Cladocora arbuscula, M.-Edwards and Lætmogone wyville-thomsoni, n.g., n.sp.
+Stylaster gemmascens, M.-Edwards and
 Haime.
-Psolus operculatus, Pourtalès.
-Flabellum apertum, n.sp.
-Trochostoma albicans, n.sp.
-NEMERTEA :
-HYDROIDA:
-Cerebratulus macroren, n.sp.
-Halecium beanii, Johnston.
-Perisiphonia filicula, n.g., n.sp.
-Pelagonemertes rollestoni, n.g., n.sp.
-CRINOIDEA :
-ANNELIDA :
-Eunice ærstedi, Stimpson.
-Antedon abyssicola, n.sp.
-vittata, Delle Chiaje.
+sanguineus, M.-Edwards and
+Haime.
+CIRRIPEDIA :
+Acasta spongites (Poli).
+Pollicipes polymerus, Sowerby.
 ASTEROIDEA :
-Eupista darwini, n.g., n.sp.
-Dytaster exilis, n.g., n.sp.
-Placostegus ornatus, Sowerby.
-Pontaster forcipatus, n.g., n.sp.
-Terebellides stræmi, Sars.
+Pycnopodia helianthoides (Brandt),
+Stimpson.
+PYCNOGONIDA :
+Achelia lævis, Hodge.
+Pycnogonum litorale (Ström).
+The following 106 genera are represented in the Challenger collections by species
+taken only to the north and south of the tropics, and not in the intervening tropical
+zone, but 14 of these genera (marked thus *) are known from other sources to occur in
+the tropics :-
+DEEP-SEA KERATOSA :
+Porponia, n.g.
+HOLOTHURIOIDEA :
+Holopsamma.
+Sicyonis, n.g.
+Achlyonice, n.g.
+Ankyroderma.
+MONAXONIDA :
+HYDROIDA :
+Elpidia.
+*Tedania.
+Halecium. .
+Euphronides, n.g.
+Tentorium.
+Perisiphonia, n.g.
+Kolga.
+Lætmogone, n.g.
+HEXACTINELLIDA :
+ASTEROIDEA :
+*Psolus.
+* Cribrella.
+Aulocalyx, n.g.
+Trochostoma.
+Bathydorus, n.g.
+* Crossaster.
+Caulophacus, n.g.
+Leptoptychaster.
+NEMERTEA :
+Poliopogon, n.g.
+Pseudarchaster, n.g.
+Pelagonemertes, n.g.
+* Pteraster.
+ALCYONARIA:
+Solaster.
+ANNELIDA :
+*Sympodium.
+Stichaster.
+Amphicteis.
+PENNATULIDA :
+OPHIUROIDEA :
+Eupista, n.g.
+Anthoptilum, n.g.
+Ophiernus, n.g.
+Eusyllis.
+Virgularia.
+Ophiocten.
+Euthelepus, n.g.
+Evarne.
+*Ophiomyces.
+ACTINIARIA :
+Lanassa.
+ECHINOIDEA :
+Cereus.
+Leæna.
+Corticifera.
+Echinocardium.
+Leanira.
+Liponema, n.g.
+Spatangus.
+Lumbriconereis.
+Paractis.
+*Strongylocentrotus.
+Nicomache.

@@ -1,53 +1,42 @@
 SUMMARY OF RESULTS.
-1187
-Station 320.
-Density at 60° F. :-
-Surface, .
-25 fathoms,
-50
-100
-. 1.02523
-. 1.02534
-. 1.02488
-. 1.02562
-200 fathoms,
-400
-Bottom,
-1:02531
-1.02533
-1.02541
-Depth, 600 fathoms; deposit, Blue Mud, containing 11.89 per cent. of carbonate
-of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4.30 A.M. proceeded under steam and sail, the wind having fallen off. At 8.30 A. M.
-shortened and furled sails. At 9 A.M. stopped and sounded in 600 fathoms; the sounding-
-tube contained only a small phosphatic concretion. Put trawl over. Obtained serial
-temperatures down to bottom. At 11.30 A. M. commenced heaving in trawl, which came
-up at 12.30 P.M. containing a little mud, five or six phosphatic concretions, and
-numerous specimens. This was one of the richest hauls made during the cruise. At
-2 P.M. proceeded under steam and sail.
-Lobos Island distant at noon, 144 miles. Made good 110 miles. Amount of current
-17 miles, direction S. 5° W.
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :
-ANIMALS FROM
-TRAWL.
-MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Halichondria latrunculioides, n.sp. Three specimens ; obtained at no other locality.
-sp. (?). Two specimens.
-Gellius lævis, n.sp. Two specimens ; obtained at no other locality.
-calyx, n.sp. One specimen; obtained at no other locality.
-flabelliformis, n.sp. Several specimens ; obtained at no other locality.
-sp. (?). One specimen.
-Tedania massa, n.sp. Numerous specimens ; obtained also at Stations 163 and 313.
-Vomerula esperioides, n.sp. One specimen ; obtained also at Station 142.
-Esperella lapidiformis, n.sp. One specimen ; obtained at no other locality.
-Phelloderma radiatum, n.g., n.sp. One specimen; obtained at no other locality.
-Only species of the genus.
-Amphilectus annectens, n.sp. One specimen ; obtained at no other locality.
-Mycilla spongiosa, n.sp. One specimen ; obtained at no other locality.
-hastata, n.sp.
-One specimen; obtained at no other locality.
-compressa, n.sp. Six or eight specimens ; obtained at no other locality.
-nobilis, n.sp. Three specimens ; obtained also at Station 148.
-Ciocalypta hyaloderma, n.sp. Four specimens ; obtained at no other locality.
-amorphosa, n.sp. Five or six specimens; obtained at no other locality.
+1191
+STATION 320.
+PYCNOGONIDA (Hoek, Zool. pt. 10).
+Phoxichilidium patagonicum, n.sp., var. elegans, nov. Several specimens; the
+species obtained also at Stations 304, 308, and 313.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Neæra platensis, n.sp. Obtained at no other locality.
+GASTEROPODA (Watson, Zool. pt. 42).
+Trochus (Margarita) sp. (?).
+Pleurotoma (Surcula) goniodes, n.sp. Obtained at no other locality.
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Eledone brevis, n.sp. Three specimens; obtained at no other locality.
+Polyzoa (Busk, Zool. pts. 30 and 50 ; Waters, pt. 79).
+Caberea crassimarginata, n.sp. Obtained at no other locality.
+Bugula reticulata, n.sp. Obtained also at Stations 147, 299, and 308.
+Ichthyaria oculata, n.g., n.sp. Obtained also at Station 314. Only species
+of the genus.
+Membranipora galeata, Busk, var. erecta, nov. The species obtained also at
+Stations 75, 145, 149, 150, and the Cape.
+umbonata, Busk, var.
+nov., Waters.
+(Growing on Ascidia
+meridionalis).
+Foveolaria (?) elliptica, n.g., n.sp. Obtained also at Station 162.
+falcifera, n.g., n.sp. Obtained at no other locality. [Waters calls it
+Membranipora falcifera (Busk)].
+Vincularia labiata, n.sp. Obtained at no other locality. [Waters calls it
+Thalamoporella labiata (Busk)].
+Bifaxaria abyssicola, n.g., n.sp. (?). Obtained also at Station 253.
+denticulata, n.g., n.sp.
+Obtained at no other locality.
+Salicornaria dubia, n.sp. Obtained at no other locality.
+Melicerita atlantica, n.sp. Obtained at no other locality.
+(?) dubia, n.sp. Obtained at no other locality. .
+Retepora magellensis, n.sp. Obtained at no other locality by the Challenger.
+Recorded from Falkland Islands.
+Turritigera stellata, n.g., n.sp. Obtained also at Station 142. Only species
+of the genus.
+Cribrilina latimarginata, n.sp.
+Obtained at no other locality.
+monoceros (Busk). For distribution see Station 145.

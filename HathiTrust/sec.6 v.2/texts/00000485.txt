@@ -1,46 +1,66 @@
 SUMMARY OF RESULTS.
-1209
-In addition, the following are recorded in the note-books from the tow-nets at the Station 326.
-surface and down to 50 fathoms :--Peridinium tripos, Globigerina, Acanthometræ and
-compound Radiolaria, Carchesium, Medusæ, Beroë, Echinoderm larvæ, Sagitta, Alciopa,
-Aphroditacean larvæ, Planarians, Cypridina, Hyperids, Zoëæ of Decapods, Archizoca,
-Atlanta, Firoloida, Limacina and other Pteropods, Cymbulia Jarvæ, Membranipora
-larvæ, Appendicularia, and many specimens of a stage of Doliolum, which gave the
-tow-net a slight reddish appearance. The tow-net sent down to 50 fathoms contained a
-number of Globigerina, which were not noticed in the surface hauls, and several organisms
-apparently indicating the presence of shore or river water, such as Echinoderm larvæ,
-Membrani pora larvæ, Planarians, Carchesium, and Aphroditacean larvæ.
-Station 327 (Sounding 477), Rio de la Plata to Tristan da Cunha (see Chart 16 Station 327.
+1213
+Distance at noon from Tristan da Cunha, 1000 miles. Made good 143 miles. Station 330.
+Amount of current 23 miles, direction S. 70° E.
+Surface Organisms. The following species are recorded from the surface and OrganisMS FROM
+SURFACE-NBTS
+deep tow-nets at this Station :-
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Aulographis cruciata, Haeckel.
+Carposphæra micrococcus, Haeckel.
+Challengeria thomsoni, Murray.
+Thecosphæra diplococcus, Haeckel.
+Pharyngella gastræa, Haeckel.
+Amphisphæra cronos, Haeckel.
+OSTRACODA (Brady, Zool. pt. 3).
+Heliosestrum ægineta, Haeckel.
+Amphymenium fusiforme, Haeckel.
+Halocypris brevirostris, Dana.
+Histiastrum velatum, Haeckel.
+COPEPODA (Brady, Zool. pt. 23).
+Tetrapyle cruciata, Haeckel.
+Pleuromma abdominale (Lubbock).
+Stauracantha quadrifurca, Haeckel.
+Heterochæta spinifrons, Claus.
+Ceriaspis lacunosa, Haeckel.
+Lychnaspis serrata, Haeckel.
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Lychnodictyum sethopodium, Haeckel. Calamorhynchus rigidus, n.sp.
+In addition, the following are recorded in the note-books :-Hastigerina, Medusa,
+Distomum, Sagitta, Phronimids, Oxycephalus, Hyperids, large Euphausiæ (?) with
+Coccospheres and Rhabdoliths in their stomachs, small shells (Gasteropods ?), Pteropods,
+and Salpa.
+Station 331 (Sounding 481), Rio de la Plata to Tristan da Cunha (see Chart 16 Station 331.
 and Diagram 6).
-March 4, 1876; lat. 36° 48' S., long. 42° 45' W.
-Temperature of air at noon, 68º.8; mean for the day, 68°:4.
+March 9, 1876 ; lat. 37° 47' S., long. 30° 20' W.
+Temperature of air at noon, 68°:8; mean for the day, 66°•8.
 Temperature of water :-
-46:0
-19
+O
 Surface,
+64.5
 25 fathoms,
-50
-75
-100
-125
-150
-175
-200
-225
-250
-275
-70.2
-68.0
-66.8
-65.6
-64.0
 62.0
-59.7
-57.5
-55.0
-52:5
-50.3
-48.2
+50
+58.0
+75
+56.0
+100
+54:9
+125
+54:1
+150
+54:0
+175
+53:7
+200
+51.0
+225
+48-5
+250
+46.5
+275
+45.0
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
 300 fathoms,
 400
 500
@@ -49,28 +69,19 @@ Surface,
 800
 900
 1000
-2225
-2425
-2625
+1200
+1400
 Bottom,
-40:4
-38.4
-37.8
-37.6
-37.4
-37.2
+43.3
+39.6
+37.5
 37.0
-34.0
-33.5
-33.1
-32.8
-Density at 60° F. at surface, 1:02633 ; bottom, 1·02614.
-Depth, 2900 fathoms; deposit, Red Clay, containing no carbonate of lime (see
-Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 1.30 P.M. shortened and furled sails, and proceeded under steam, and at 2.30 P.M.
-sounded in 2900 fathoms. Over a litre of the deposit was obtained in the sounding-tube,
-the upper layers having a dark slate colour, while the lower layers had a tinge of red and
-were more compact. Obtained serial temperatures. At 5 P.M. completed observations,
-and at 5.20 P.M. made sail. Albatrosses, black petrels, and another petrel were seen.
-Tristan da Cunha distant at noon, 1462 miles. Made good 89 miles. Amount of
-current for the past two days 26 miles, direction S. 70° E.
+37.0
+37.0
+37.0
+37.0
+37.0
+37.0
+35.4
+9
+153

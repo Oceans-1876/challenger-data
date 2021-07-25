@@ -1,22 +1,112 @@
-1274
+1278
 THE VOYAGE OF H.M.S. CHALLENGER.
-COLLECTIONS
-FROM TOW-NETS.
-submitted to a microscopic examination by the naturalists. Notes concerning these
-collections were always entered in the journals stating the general character of the fauna
-and flora, along with particulars about rare or unusual occurrences. Many hundreds of
-microscopic preparations of these pelagic organisms were mounted in various preserving
-mediums. The reports of Professor Haeckel and Mr Brady concerning the pelagic
-Radiolaria and Foraminifera were largely based upon the microscopic preparations thus
-mounted during the voyage by Mr Murray. Samples of these tow-net gatherings were
-also preserved in spirit, but no systematic attempt was made to form complete collections
-of pelagic organisms representing each region of the ocean visited by the Expedition.
-To have preserved all the collections from the surface waters would have been beyond
-the resources at our command. Even those collections of pelagic organisms that were
-brought home were so large that they have not yet all been carefully examined by
-specialists.
-When we remember all the varied researches in which the Expedition was engaged,
-the wonder is that so much was accomplished, rather than that some fields of investigation
-were only partially explored.
-
-THE STEAM-PINNACE FITTED FOR DREDGING IN SHALLOW-WATER.
+S
+T
+N
+N
+*
+2
+S
+S
+T
+ECHINOIDEA :
+CORALS :
+Bathyactis symmetrica (Pourtalès).
+Aceste bellidifera, n.g., n.sp.
+S TN
+STN
+Calymne relicta, n.g., n.sp.
+N
+Phormosoma tenue, n.sp.
+TN
+HYDROIDA :
+Pourtalesia laguncula, n.sp. S TN
+* Cryptolaria abyssicola, n.sp.
+n'osea, n.sp.
+T
+diffusa, n.sp.
+* Halisiphonia megalotheca, n.g., n.sp. S HOLOTHURIOIDEA :
+Monocaulus imperator, n.sp.
+Benthodytes sanguinolenta, n.g., n.sp. S
+Stylactis vermicola, n.sp.
+selenkiana, n.g., n.sp.
+T
+* Elpidia glacialis, Théel. S
+SIPHONOPHORÆ :
+Holothuria thomsoni, n.sp.
+SN
+* Anthemodes articulata, n.sp.
+Oneirophanta mutabilis, n.g., n.sp.
+S TN
+CRINOIDEA :
+Peniagone atrox, n.g., n.sp.
+* Antedon abyssicola, n.sp. SN
+lugubris, n.g., n.sp.
+T
+ASTEROIDEA :
+Pseudostichopus villosus, n.g., n.sp.
+S TN
+* Benthaster wyville-thomsoni, n.g., 1.sp. N
+Brisinga discincta, n.sp.
+* Psycheotrephes exigua, n.g., n.sp.
+Dytaster nobilis, n.g., n.sp.
+s
+Psychropotes semperiana, n.g., n.sp.
+ST
+* Freyella benthophila, n.sp.
+heroina, n.sp.
+* Scotoanassa diaphana, n.g., n.sp.
+N
+Hymenaster infernalis, n.sp.
+Scotoplanes mollis, n.g., n.sp.
+S.
+papillosa, n.g., n.sp.
+s
+pergamentaceus, n.sp. S
+* Hyphalaster hyalinus, n.g., n.sp.
+T
+ANNELIDA :
+* Pontaster pristinus, n.g., n.sp. S
+* Porcellanaster eremicus, n.g., n.sp.
+Amphicteis gunneri (Sars),
+atlantica, nov. N
+OPHIUROIDEA :
+sarsi, n.sp.
+S
+* Amphiura dalea, n.sp. S
+Buskiella abyssorum, n.g., n.sp.
+ST
+verrilli, n.sp.
+N
+Ehlersiella atlantica, n.g., n.sp.
+Ophiocten pallidum, n.sp.
+* [Estrella levinseni, n.g., n.sp.,
+umbraticum, n.sp.
+Crustacean parasite on the pre-
+Ophioglypha bullata, n.sp. SN
+ceding]. N
+lacazei, n.sp.
+* Eunoa abyssorum, n.sp.
+S
+s
+Eupista darwini, n.g., n.sp. SN
+ornata, n.sp.
+S T
+grubei, n.g., n.sp.
+s
+S
+Lætmonice producta, Grube, var.
+Ophiomastus tegulitius, n.g., n.sp. ST benthaliana, nov. S TN
+S
+S
+N
+S
+var.
+N
+02
+S
+S
+loveni, n.sp.
+*
+sp. (?).
+.

@@ -1,56 +1,114 @@
-1114
+1116
 THE VOYAGE OF H.M.S. CHALLENGER.
-Station 297.
-;
-a small Sponge, and about four litres of manganese nodules, while about three litres of
-nodules were obtained in the tow-net attached to the trawl, along with a quantity of
-Globigerina Ooze. The yellowish brown colour of this deposit is due to the presence of
-manganese and iron, and, like the deposit at Station 292, it contained abundance of
-volcanic ashes. In the examination of a large quantity of the deposit Mr. Murray
-recognised only two or three Radiolaria and a few siliceous spicules. The association of
-manganese nodules here in a Globigerina Ooze with a considerable quantity of basic
-volcanic glass, fine areolar volcanic ash, and palagonitic grains, deserves special mention
-indeed, this association of altered basic volcanic material and
-manganese
-is
-very constant
-in deep-sea deposits. While there were perfect casts of Foraminifera observed in the
-nuclei of many of the nodules, no casts of these organisms were found in the deposit
-itself. The accumulation of free silica in these nuclei is very remarkable, especially when
-the small proportion of siliceous organisms in the deposit is remembered. One of the
-tow-nets contained several rounded lumps of the deposit, loosely held together by dendritic
-depositions of manganese and iron, which seemed to indicate the beginning of the nodule
-formation. Proceeded under steam. Seven Mother Carey's chickens and three albatrosses
-(Diomedea exulans) were shot, and prions, mutton birds, and another petrel were seen,
-but birds were on the whole rare, a single one or occasionally two coming along at
-intervals.
-Juan Fernandez distant at noon, 302 miles. Made good 88 miles. Amount of
-current 3 miles, direction S. 39° W.
-1
-ANIMAL FROM
+STATION 298.
+.
+99
+1)
+Temperature of water :
+Surface,
+25 fathoms,
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+300
+400
+500
+600
+59.0
+55.8
+52.5
+50.5
+49.6
+48.3
+47.2
+46.1
+45:1
+44:1
+43.2
+42:4
+41.9
+40:3
+39.5
+38.7
+700 fathoms,
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+Bottom,
+38.1
+377
+37.2
+36.9
+36.7
+36.5
+36.3
+36.2
+36.1
+36.0
+35.9
+35.9
+35.8
+35.7
+35.7
+35.6
+Density at 60° F.:-
+Surface,
+25 fathoms,
+50
+100
+200
+.
+.
+1.02533
+1.02526
+. 1.02522
+1:02546
+1.02540
+300 fathoms,
+400
+800
+1725
+1.02529
+. 1:02540
+. 1.02544
+1.02540
+.
+Depth, 2225 fathoms; deposit, Blue Mud, containing 5'65 per cent. of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.30 A.M. shortened and furled sails, and proceeded under steam. Sounded in
+2225 fathoms. Put trawl over, veering 2700 fathoms. Obtained serial temperatures
+from surface to bottom. The carbonic acid was determined in bottom water and amounted
+to 44:3 milligrammes per litre. At 1 P.M. commenced heaving in trawl, which came up
+at 3.40 P.M. with numerous specimens, while the attached tow-nets contained a little
+mud, one manganese nodule, portions of a Cephalopod beak, and pieces of twigs.
+The mud contained many excreta of Echinoderms. Proceeded under steam, and at
+5.30 P.M. made sail. Many stormy petrels were seen.
+Valparaiso distant at noon, 122 miles. Made good 122 miles. Amount of current
+15 miles, direction S. 16° W.
+ANIMALS FROM
 TRAWL.
-The following species is recorded from the trawl at this Station :-,
-TETRACTINELLIDA (Sollas, Zool. pt. 63).
-Thenea sp. (possibly young of Thenea wrightii, n.sp.).
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.—The following species are recorded from the surface and deep
-tow-nets at this Station :
-Cleonardo longipes, n.g., n.sp.
-Lanceola
-sp. (?).
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Spongocore puella, Haeckel.
-Chiastolus amphicopium, Haeckel.
-Phormocampe conus, Haeckel.
-Castanella thomsoni, Haeckel.
-Castanidium wildi, Haeckel.
-PTEROPODA (Pelseneer, Zool. pt. 58).
-Dexiobranchæa polycotyla,
-Boas,
-(larvæ).
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Pardaliscoides tenellus, n.g., n.sp.
-CEPHALOPODA (Hoyle, Zool. pt. 44).
-Tracheloteuthis (?) sp.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :--
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Porcellanaster gracilis, n.g., n.sp. Obtained at no other locality.
+Hymenaster carnosus, n.sp. Obtained at no other locality. [Recorded in error
+from Station 295].
 1

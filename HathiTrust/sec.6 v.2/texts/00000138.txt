@@ -1,42 +1,36 @@
-898
+900
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 232.
-Chironephthya crassa, n.g., n.sp. Two specimens ; obtained at no other locality.
-The genus Chironephthya was not obtained elsewhere.
-Siphonogorgia godeffroyi, Kölliker. One specimen ; obtained at no other locality
-by the Challenger. Recorded from Pelew Islands.
-Anthogorgia japonica, n.sp. One specimen; obtained at no other locality.
-PENNATULIDA (Kölliker, Zool. pt. 2).
-Pennatula naresi, n.sp. One specimen ; obtained at no other locality.
-Kophobelemnon ferrugineum, n.sp. One specimen ; obtained at no other locality.
-ACTINIARIA (Hertwig, Zool. pt. 15).
-Stephanactis tuberculata, n.g., n.sp. One specimen ; obtained at no other locality.
-The only other species of the genus (Stephanactis
-abyssicola) was taken at Station 46.
-CORALS (Moseley, Zool. pt. 7).
-Flabellum japonicum, n.sp. Eight specimens ; obtained at no other locality.
-Recorded subsequently from Indian Ocean (“ Investigator").
-CRINOIDEA (Carpenter, Zool. pt. 60).
-Antedon latipinna, n.sp. One specimen ; obtained at no other locality.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Pontaster oxyacanthus, n.g., n.sp. Obtained at no other locality.
-Astropecten brevispinus, n.sp. Obtained at no other locality.
-Pentagonaster japonicus, n.sp. Obtained at no other locality.
-arcuatus, n.sp.
-Obtained at other locality.
-Recorded
-subsequently from Indian Ocean (“ Investigator”).
-Solaster paxillatus, n.sp. Obtained at no other locality.
-Asterias (Stolasterias) stichantha, n.sp. Obtained at no other locality.
-no
-> >
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha flagellata, n.sp. Obtained at no other locality.
-imbecillis, n.sp. Obtained at no other locality.
-ponderosa, n.sp. Obtained at no other locality.
-Amphiura bellis, n.sp. Obtained also at Stations 174 and 236.
-glauca, n.sp. Obtained also at Station 236, 775 to 420 fathoms.
-Ophiochiton fastigatus, n.g., n.sp. Obtained also at Station 191. The only other
-species of the genus (Ophiochiton lentus) was taken at
-Station 171.
->
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Phronima sedentaria (Forskål). One specimen, numerous young, and two houses ;
+obtained at no other locality by the Challenger.
+ISOPODA (Beddard, Zool. pt. 48).
+Munnopsis latifrons, n.sp. One specimen ; obtained at no other locality.
+SCHIZOPODA (Sars, Zool. pt. 37).
+Boreomysis obtusata, n.sp. One specimen ; obtained also at Station 252,
+2740 fathoms.
+MACRURA (Spence Bate, Zool. pt. 52).
+Benthesicymus altus, n.g., n.sp. One specimen ; obtained also at Stations 133,
+170, 171, 174, 184, 205, 214, and 235.
+Gennadas parvus, n.g., n.sp. Four specimens ; for distribution see Station 45.
+Sergestes japonicus, n.sp. One specimen ; obtained also at Station 207.
+atlanticus, M.-Edwards. One specimen ; for distribution see Station 42.
+Glyphocrangon hastacauda, n.sp. One specimen ; obtained at no other locality.
+Heterocarpus alphonsi, n.sp. One specimen ; obtained also at Station 214.
+Acanthephyra brachytelsonis, n.sp. Three specimens; for distribution see Station 170.
+Systellaspis lanceocaudata, n.g., n.sp. One specimen ; obtained at no other locality.
+Nematocarcinus tenuipes, n.sp. Six specimens; obtained also at Stations 218
+and 235.
+BRACHYURA (Miers, Zool. pt. 49).
+Macrocheira kämpferi, De Haan. Two specimens; obtained at no other locality by
+the Challenger. Recorded from Japan.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Nucula niponica, n.sp. Obtained at no other locality.
+Yoldia lischkei, n.sp. Obtained at no other locality.
+Limopsis pelagica, n.sp. Obtained also at Station 106.
+Pecten vitreus (Chemnitz). For distribution see Station 204.
+GASTEROPODA (Watson, Zool. pt. 42).
+Bembic æola, n.g., n.sp. Obtained also at Station 235, 565 fathoms. Only species
+of the genus.
+Pleurotoma (Genota) engonia, n.sp.
+Obtained also at Station 169.

@@ -1,37 +1,40 @@
 SUMMARY OF RESULTS.
-1199
-STATION 323.
-OSTRACODA (Brady, Zool. pt. 3).
-Argillæcia eburnea, n.sp. Obtained also at Station 149.
-Cythere squalidentata, n.sp. Obtained at no other locality.
-Krithe tumida, n.sp. Obtained at no other locality.
-Xestoleberis expansa, n.sp. Obtained at no other locality.
-Pseudocythere caudata, Sars. Obtained also at Stations 145 and 149.
-CIRRIPEDIA (Hoek, Zool. pt. 25).
-Verruca quadrangularis, n.sp. Seven specimens ; obtained at no other locality.
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Orchomene abyssorum, n.sp. One specimen ; obtained at no other locality.
-ISOPODA (Beddard, Zool. pt. 48).
-Neotanais americanus, n.g., n.sp. One specimen ; obtained also at Station 45.
-Only species of the
-genus.
-MACRURA (Spence Bate, Zool. pt. 52).
-Aristeus armatus, n.sp. One specimen ; obtained also at Stations 133, 148, 213,
-237, 246, and 276.
-Benthesicymus brasiliensis, n.g., n.sp. Four specimens; obtained also at Stations 168,
-173, 181, 184, and 285.
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Glomus nitens, Jeffreys. Obtained at no other locality by the Challenger. Recorded
-from North Atlantic.
-SCAPHOPODA and GASTEROPODA (Watson, Zool. pt. 42),
-Dentalium amphialum, n.sp. Two specimens ; obtained at no other locality.
-Trochus sp. (?).
-Basilissa simplex, n.g., n.sp. Obtained at no other locality.
-POLYZOA (Busk, Zool. pt. 30).
-Cellularia crateriformis, n.sp.
-Obtained also at Station 325, 2650 fathoms.
-Bugula margaritifera, n.sp. Obtained also at Station 332, 2200 fathoms.
-Farciminaria cribraria, n.sp. Obtained at no other locality.
-magna, n.sp., var. armata, nov. The species obtained also at
-Stations 153 and 325.
-Salicornaria magnifica, n.sp. Obtained also at Stations 13, 122, and 157.
+1203
+At 8 A.M. got up steam, and at 8.30 A.M. shortened and furled sails. At 9 A.m. put Station 324.
+trawl over and veered 2600 fathoms. At 10.30 A.M. sounded in 2800 fathoms. Took
+serial temperatures down to the bottom. The carbonic acid was determined in the
+bottom (?) water, and amounted to 51.7 milligrammes per litre. At 1.20 P.M. trawl-rope
+carried away, probably owing to friction against ship's side, as the rope parted close to
+the ship, and the trawl and over 3000 fathoms of rope were lost. At 5 P. M. completed
+observations and made sail. Albatrosses, mutton birds, black night hawks, and
+Thalassidroma were seen.
+Tristan da Cunha distant at noon, 1740 miles. Made good 121 miles. Amount of
+current 30 miles, direction S. 56° E.
+Surface Organisms. The following species are recorded from the surface at this ORGANISMS FROM
+SURFACE-NETS.
+Station :
+COPEPODA (Brady, Zool. pt. 23).
+TUNICATA (Herdman, Zool. pt. 76).
+Calanus valgus, n.sp.
+Salpa democratica - mucronata,
+tonsus, n.sp.
+Forskål.
+Acartia denticornis, n.sp.
+Pontella detruncata (Dana).
+FISHES (Günther, Zool. pt. 78).
+Saphirina inæqualis, Dana.
+Ovum of a Scombresocid,
+In addition, the following are recorded in the note-books from the tow-nets at the
+surface and down to 60 fathoms :-Diatoms, Coccospheres, and Rhabdoliths entangled in
+the sarcode of the Foraminifera, Globigerina, Orbulina, Hastigerina, Acanthometræ and
+compound Radiolaria, two forms of Medusæ, many Siphonophoræ, Sagitta, Tomopteris,
+Hyperids, Squilla larvæ, Mysids, Euphausia and larvæ, Sergestes larvæ, young of
+lanthina and other Gasteropods, and other small shells, Atlanta and other Heteropods,
+Styliola, Limacina, and other Pteropods (one form with eggs in sac-like masses, in some
+of which the shell was partly, and in others almost completely, developed), several small
+forms of Salpæ, three forms of Appendicularia, and young fishes. A large shark
+was seen at the stern of the ship.
+Station 325 (Sounding 475), Rio de la Plata to Tristan da Cunha (see Chart 16 Station 325.
+and Diagram 6).
+March 2, 1876; lat. 36° 44' S., long. 46° 16' W.
+Temperature of air at noon, 74°:8; mean for the day, 71°:4.

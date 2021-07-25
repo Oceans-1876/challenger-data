@@ -1,118 +1,89 @@
-1296
+1300
 THE VOYAGE OF H.M.S. CHALLENGER.
-N
-T
-S
-T
-S
-S
-T BRACHYURA:
-* Gnathophausia affinis, n.g., n.sp.
-gigas, n.g., n.sp.
-SN
-* Ethusa (Ethusina) challengeri, n.sp.
-gracilis, n.g., n.sp.
-coëd, n.g., n.sp.
-S T N
-PYCNOGONIDA :
-Pseudomma sarsii, n.sp. S
-Colossendeis gigas, n.sp.
-s
-gigas-leptorhynchus, n.sp. S
-MACRURA :
-gracilis, n.sp.
-S
-* Acanthephyra acanthitelsonis, n.sp. T
-leptorhynchus, n.sp.
-brevirostris, n.sp.
-Nymphon hamatum, n.sp. S
-purpurea, M.-Edwards. N
-meridionale, n.sp.
-Aristcus armatus, n.sp.
-S TN
-Phoxichilidium mollissimum, n.sp.
-N
-* Bentheocaris stylorostratis, n.g., n.sp. T
-oscitans, n.sp.
-N
-Benthesicymus altus, n.g., n.sp.
-S T N
-pilosum, n.sp.
-s
-brasiliensis, n.g., n.sp. S T
-iridescens, n.g., n.sp.
-s
-mollis, n.g., n.sp.
-S LAMELLIBRANCHIATA :
-* Eryoneicus cæcus, n.g., n.sp.
-N
-Amussium meridionale, 1.sp.
-Gennadlas intermedius, n.g., n.sp.
-S T
-Arca (Barbatia) pteroessa, n.sp.
-TN
-parvus, n.g., n.sp.
-S TN
-* Cryptodon moseleyi, n.sp.
-s
-Glyphocrangon rimapes, n.sp.
-SN
-Cuspidaria (Nyonera) lischkei, n.sp. N
-Hemipenæus spinidorsalis, n.g., n.sp. S T
-* Glomus japonicus, n.sp.
-N
-Haliporus lævis, n.g., n.sp.
-nitens, Jeffreys.
-S
-* Hepomadus glacialis, n.g., n.sp.
-N
-* Kellia (?) sp.
-S
-* Hymenodora duplex, n.sp.
-* Leda excisa (Philippi). N
-mollicutis, n.sp.
-S TN
-S
-* Nematocarcinus longirostris, n.sp.
-* Lima (Limatula), n.sp. (?).
-S
-parridentatus, n. sp.
-productus, n.sp.
-TN
-Limopsis pelagica, n.sp. Τ Ν
-proximatus, n.sp. S T N
-Lyonsiella grandis, n.sp.
-* Notostomus murray, n.sp.
-S
-jeffreysi, n.sp
-T
-Pontophilus gracilis, n.sp.
-S T
-paprracea, n.sp.
-Willemæsia leptodactyla, n.g., n.sp. S T * Malletia dunkeri, n.sp.
-N
-* Modiolaria semigranata (Reeves). N
-ANOMURA :
-* Neæra filocarinata, n.sp.
-Munidopsis antonii (M.-Edwards, MS.). S
-meridionalis, n.sp.
-subsquamosa, n.sp.
-SN
-Semele (Abra) profundorum, n.sp.
-Parapagurus abyssorum, M.-Edwards. Silenia sarsiä, n.g., n.sp.
-S T N
-* Verticordia tornata (Jeffreys). TN
-T
-s
-n.sp. (?). S
-N
-N
-(?) sp.
-s
-*
-S
-T
-T
-s
-Τ Ν
-s
+Nematocarcinus procluctus.
+pro.cats.
+Pontophilus gracilis.
+Willemæsia leptodactyla.
+Munidopsis antonii.
+subsquamosa.
+Parapagurus abyssorum.
+Colossenıleis gijas.
+gracilis.
+leptorhynchus.
+Nymphon hamatum.
+Amussium merillionale.
+Arca (Barbatia) pteroessa.
+Semele (Abra) profundorum.
+Fusus (Neptunea) setosus.
+Ianthina eriqua.
+rotundata.
+Discina atlantica.
+Bathyonus compressus.
+Gonostoma microdon.
+Macrurus armatus.
+filicaula.
+Melamphaës crassiceps.
+Sternopty.c diaphana.
+Synaphobranchus bathybius.
+The following 30 species (or 18 per cent.) were taken in the zone between 500 and
+1000 fathoms :
+A.cinella erecta.
+Euplectella suberea.
+Strophogorgia verrilli.
+Bathyactis symmetrica.
+Cryptohelia pudica.
+Pararchaster semisquamatus.
+Ophiacantha cosmicu.
+Ophiomusium lymani.
+Aceste belliliferu.
+Aspidodiwlema tonsum.
+Salenia hastigera.
+Pelagonemertes rollestoni.
+Lætmonice producta.
+Cythere acanthoderma.
+dasyderma.
+Cythere lictyon.
+Krithe producta.
+Cystisoma spinosum.
+Lanceola astira.
+Serolis bromleyana.
+Gnathophausia zoëa.
+Benthesicymus altus.
+Gennalas parvus.
+Ianthina exigua.
+Bugula reticulata.
+Ilmonea marionensis.
+Gonostoma microdon.
+Macrurus altipinnus.
+Melamphaës crassiceps.
+Sternoptyr diaphana.
+>
+The following 51 species (or 31 per cent.) were taken in the zone between 100 and
+500 fathoms :-
+Axinella erecta.
+Stylocoruyla stipitata.
+Aulocalyx irregularis.
+Liponema multiporum.
+Bathyactis symmetrica.
+Cryptohelia pudica.
+Rhizocrinus lofotensis.
+Porania antarctica.
+Ophiacantha cosmica.
+Ophiocten amitinum.
+Ophioglypha irrorata.
+Ophiolebes scorteus.
+Ophiomitra chelys.
+Ophiomusium lymani.
+pulchellum.
+Aspidodiadema microtuberculatum.
+Echinus majellanicus.
+Goniocidaris canaliculata.
+Salenia hastigera.
+varispina.
+.
+Lætmogone wyville-thomsoni.
+Lætmonice producta.
+Argillæcia eburnea.
+Cythere dasyilerma.
+dictyon.
+normani.

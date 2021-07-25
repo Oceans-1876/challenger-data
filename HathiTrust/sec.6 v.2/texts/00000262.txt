@@ -1,78 +1,103 @@
-1010
+1012
 THE VOYAGE OF H.M.S. CHALLENGER.
-Station 265.
+STATION 265.
+Anthocyrtium adonis, Haeckel.
+hispidum, Haeckel.
+turris, Haeckel.
+flosculus, Haeckel.
+Clistophæna rüstiana, Haeckel.
+Sethocyrtis occycephalis, Haeckel.
+diomedis, Haeckel.
+Sethocorys patrocli, Haeckel.
+Lophophæna circumtexta, Haeckel.
+Dictyocephalus amphora, Haeckel.
+Sethocapsa pyriformis, Haeckel.
+ampulla, Haeckel.
+Cryptocapsa bacca, Haeckel.
+Pterocorys tubulosa, Haeckel.
+Dictyoceras insectum, Haeckel.
+Pterocanium orcinum, Haeckel.
+Pterocodon ornatus, Haeckel.
+Podocyrtis tripodiscus, Haeckel.
+urceolata, Haeckel.
+pedicellaria, Haeckel.
+scaphopodia, Haeckel.
+Thyrsocyrtis trifida, Haeckel.
+Theopera fusiformis, Haeckel.
+chytropus, Haeckel.
+Rhopalocanium lasanum, Haeckel.
+Rhopalatractus foveolatus, Haeckel.
+Lithochytris pyramidalis, Ehrenberg.
+Phormocyrtis embolum, Haeckel.
+Alacorys octacantha, Haeckel.
+carcinus, Haeckel.
+Cycladophora gætheana, Haeckel
+.
+pantheon, Haeckel.
+fenestrata, Haeckel.
+Calocyclas aspasia, Haeckel.
+Clathrocyclas principessa, Haeckel.
+domina, Haeckel.
+Lamprocyclas deflorata, Haeckel.
+Lophoconus rhinoceros, Haeckel.
+Theocyrtis microtheca, Haeckel.
+Tricolocampe cylindrica, Haeckel.
+Theocorys ovata, Haeckel.
+obliqua, Haeckel.
+Theocampe sphærothorax, Haeckel.
+Theocapsa plinii, Haeckel.
+darwinii, Haeckel.
+Pteropilium pyramis, Haeckel.
+Stichocampe divergens, Haeckel.
+Stichophormis lucerna, Haeckel.
+Phormocampe metalis, Haeckel.
+Cyrtophormis cornuta, Haeckel.
+Artophæna ærostatica, Haeckel.
+Stichophæna daruiniana, Haeckel.
+Lithostrobus cornutus, Haeckel.
+botryocyrtis, Haeckel.
+Stichocorys panderi, Haeckel.
+Lithomitra nodosaria, Haeckel.
+eruca, Haeckel.
+Eucyrtidium spinosum, Haeckel.
+profundissimum, Ehrenberg.
+conostoma, Haeckel.
+Stichocapsa subglobosa, Haeckel.
+Artocapsa fusiformis, Haeckel.
+Aulospathis furcata, Haeckel.
+Orona macima, Haeckel.
+Oroscena mülleri, Haeckel.
+Oroplegma diplosphæra, Haeckel.
+Challengeria quadridens, Haeckel.
 1
-3
-At 4.30 A.M. shortened and furled sails, and got up steam to sound and dredge. At
-5.30 A.M. stopped and sounded in 2900 fathoms. At 7 A.M. put dredge over and veered
-3600 fathoms. Obtained serial temperatures down to 1500 fathoms. At 1 P.M.
-commenced heaving in dredge, which came up at 4.30 P.M. filled with a fine tenacious
-ooze and with one mutilated fish. Made all plain sail. A gannet and a prion-like bird
-were seen.
-Venus Point, Tahiti, distant at noon, 1820 miles. Made good 27 miles. Amount
-of current for the last two days 37 miles, direction S. 71° W.
-ANIMAL FROM
-DREDGE.
-The following species is recorded from the dredge at this Station :
-FISHES (Günther, Zool. pt. 57).
-Gonostoma microdon, n.sp.
-One specimen ; for distribution see Station 23.
-ORGANISMS FROM
-THE DEPOSIT.
-The following species of Foraminifera, Radiolaria, and Diatoms were observed in the
-deposit from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.):-
-FORAMINIFERA (Brady, Zool. pt. 22).—The two pelagic species are marked thus x.
-Miliolina labiosa (d'Orbigny).
-Haplophragmium latidorsatum (Bornemann).
-Hyperammina ramosa, Brady.
-Ammodiscus gordialis (Jones and Parker).
-vagans, Brady.
-x Globigerina bulloides, d'Orbigny.
-Reophax nodulosa, Brady.
-pachyderma (Ehrenberg).
->
-Х
-RADIOLARIA (Haeckel, Zool. pt. 40).
+DIATOMACEÆ.—The following species were observed by Mr. Comber.
+Nitzschia marina, Grunow.
+Coscinodiscus minor, Ehrenberg.
+Asterolampra marylandica, Ehrenberg.
+excentricus, Ehrenberg, and vars.
+afinis, Greville.
+marginatus, Ehrenberg.
+vulgaris, Greville.
+radiatus, Ehrenberg.
+decora, Greville.
+borealis, Bailey.
+Asteromphalus roperianus, Ralfs.
+convexus, A. Schmidt.
+elegans, Greville.
+concinnus, Smith.
+hiltonianus, Ralfs.
+concavus, Ehrenberg.
+Cestodiscus convexus, Castracane. Probably all
+excavatus, Greville, var. quadriocellata,
+coronatus, Castracane. forms of
+Grunow.
+parmula, Castracane.
+C. pulchellus.
+nodulifer, Janisch.
+pulchellus, Greville.
+Coscinodiscus elegans, Greville (1).
+asteromphalus, Ehrenberg.
+africanus, Janisch.
+leptopus, Janisch.
+var. wallichiana, Grunow.
 1
-Cenosphæra hexagonalis, Haeckel.
-vesparia, Haeckel.
-proserpinæ, Haeckel.
-compacta, Haeckel.
-Ethmosphæra pachysiphonia, Haeckel.
-Cromyosphæra quadruplex, Haeckel.
-Solenosphæra megalactis, Haeckel.
-Xanthiosphæra lappacea, Haeckel.
-Xiphosphæra hebe, Haeckel.
-Xiphostylus picus, Haeckel.
-Amphistylus clio, Haeckel.
-Stylocromyum amphipyramis, Haeckel.
-Spongolonche lawa, Haeckel.
-Staurosphæra pauli, Haeckel.
-andreæ, Haeckel.
-Staurolonche lucretii, Haeckel.
-Staurocromyum quadrispinum, Haeckel.
-Hexastylus contortus, Haeckel.
-Hexastylarium heteraxonium, Haeckel.
-Hexacontium favosum, Haeckel.
-Hexadoras axophæna, Haeckel.
-Acanthosphæra enneacantha, Haeckel.
-Conosphæra plagioconus, Haeckel.
-Cladococcus quadricuspis, Haeckel.
-Haliomma duodecinum, Haeckel.
-compactum, Haeckel.
-clavatum, Haeckel.
-Actinomma hirsutum, Haeckel.
-Caryomma irregulare, Haeckel.
-Cenellipsis oblonga, Haeckel.
-Druppatractus ostracion, Haeckel.
-coronatus, Haeckel.
-Pipetta salpinx, Haeckel.
-Pipettaria tubaria, Haeckel.
-Spongoprunum amphilonche, Haeckel.
-Spongoliva prunulina, Haeckel.
-Spongoziphus sphærococcus, Haeckel.
-prunococcus, Haeckel.
-Stylodiscus endostylus, Haeckel.
-Phacodiscus lentiformis, Haeckel.
-Sethostylus distyliscus, Haeckel.
-Distriactis liriantha, Haeckel.

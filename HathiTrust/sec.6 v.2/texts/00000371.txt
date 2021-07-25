@@ -1,64 +1,49 @@
 SUMMARY OF RESULTS.
-1109
-STATION 295.
-TUNICATA (Herdman, Zool. pt. 76).
-Salpa echinata, n.sp.
-mollis, n.sp.
-cylindrica, Cuvier.
-runcinata - fusiformis,
-Chamisso-Cuvier.
-Salpa democratica
-mucronata,
-Forskål.
-scutigera - confoederata,
-Cuvier-Forskål.
-FISHES (Günther, Zool. pt. 78).
-Scopelus coccoi (Cocco).
-In addition, the following are recorded in the note-books (November 5 to 8) :-
-Peridinium, Globigerina, Hastigerina, Pulvinulina, large Medusa (Pelagia), many
-forms of Siphonophoræ, Ctenophoræ (Pleurobrachia ?), Sagitta, Tomopteris, Cypridina,
-many Copepods, Hyperids, Phronimids, Stomatopod larvæ, Euphausia, Lucifer, Dohrn's
-larva, Ianthina and other small shells, various forms of Pteropods, many small transparent
-Cephalopods, several small Scopelids with phosphorescent dots, and fish eggs. In the
-deep nets attached to the trawl were several deep-sea Crustaceans, along with many
-Phæodaria and other Radiolaria. There was no phosphorescence on the surface at night,
-but the tow-net when drawn in at night showed many bright spots, due principally to a
-large species of Pelagia.
-Station 296 (Sounding 441), Tahiti to Valparaiso (see Chart 38 and Diagram 20). Station 296.
-November 9, 1875 ; lat. 38° 6' S., long. 88° 2' W.
-Temperature of air at noon, 60°:8; mean for the day, 58°:6.
+1113
+Station 296.
+In addition, the following are recorded in the note-books from the surface and down
+to 30 fathoms :-Ceratium (Peridinium) tripos, Globigerina, Orbulina, Hastigerina,
+Acanthometræ and compound Radiolaria, Sagitta, Tomopteris, Evadne, Cypridina,
+Euphausia and larvæ, larvæ of Sergestes, Atlanta, Oxygyrus, Pteropods, small transparent
+Cephalopods, Appendicularia, Fritillaria, Doliolum, Salpa, fish eggs. A large whale
+was seen close to the ship.
+STATION 297.
+Station 297 (Sounding 442), Tahiti
+442), Tahiti to Valparaiso (see Chart 38, and
+Diagrams 20 and 21).
+November 11, 1875; lat. 37° 29' S., long. 83° 7' W.
+Temperature of air at noon, 57°:3; mean for the day, 55°:9.
 Temperature of water :-
-O
+39-1
 .
 Surface,
-59.8
 25 fathoms,
-56.8
 50
-54.6
 75
-52.2
 100
-50:1
 125
-48:1
 150
-46:3
 175
-45.0
 200
-43.8
 225
-43.2
 250
-42:7
 275
-42:1
 300
-41.7
 400
-40.8
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+57.0
+55.5
+53.7
+51.9
+50:1
+48.4
+47.0
+45.7
+44.5
+43.8
+43:1
+42-5
+41.9
+40.4
 500 fathoms,
 600
 700
@@ -73,18 +58,47 @@ Surface,
 1600
 1700
 Bottom,
-40-2
-39.6
-39.0
-38.5
-38.0
-37.5
-37.0
-36:6
-364
+38.2
+37.4
+36.7
+36.5
+36.4
+36.3
 36.2
-360
+36:1
+36.0
+35.9
 35.8
-35:6
-5.3
-140
+35.6
+35.5
+2
+.
+"
+99
+Density at 60° F. :-
+Surface,
+25 fathoms,
+50
+100
+200
+1.02542
+1.02529
+1.02526
+1:02518
+1.02536
+300 fathoms,
+400
+800
+1300
+Bottom,
+1.02533
+1.02532
+1.02539
+1:02554
+1:02565
+Depth, 1775 fathoms ; deposit, Globigerina Ooze, containing 71:15 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 5 A.M. stopped and sounded in 1775 fathoms; the sounding-tube brought up no
+trace of the bottom. Put trawl over, veering 2300 fathoms. Obtained serial temperatures
+from surface to bottom. Lowered whaler with naturalist, who shot a number of birds.
+At 1 P.M. commenced heaving in trawl, which came up fouled at 3.15 P.M., but containing

@@ -1,36 +1,37 @@
-12
+16
 THE VOYAGE OF H.M.S. CHALLENGER.
-with the aid of this little organ. It is now necessary to abandon this idea, for there is
-no evidence that Spirula fixes itself by its aboral extremity.
-There is besides nothing in the fossa and its papilla which recalls the structure
-of an acetabulum or sucker, especially there are no retractile muscles at the bottom
-of the cavity. Nor is this fossa a mucous pore, as other authors have supposed ;
-there is no trace of special glandular apparatus.
-Its functions still remain very
-problematical. One might perhaps suppose that the papilla is a protective prominence ;
-we know that owing to the rapid swimming of Cephalopods, being retrograde, their aboral
-extremity is much exposed. And Spirula, having a well-developed funnel, is organised
-for swimming backwards, like the other Dibranchiates, and its terminal papilla has
-V110
-Vu
-iv
-Fig. K. --- Part of the external face of the
-shell of Spirula ; x 90.
-Fig. J.-Left view of Spirula reticulata (the
-internal part of the shell and the visceral
-sac represented by broken lines) ; 2.i,
-pallial cavity; ii, ventral external part of
-the shell ; iii, terininal disk; iv, fin ; v,
-dorsal external part of the shell ; vi, last
-septum; vii, dorsal projection of the
-mantle edge; viii, ventro-lateral projection
-of the mantle edge.
-precisely the situation of an organ of protection for the aboral extremity. In the
-majority of Decapods this situation is occupied by the point of the rostrum. Still, on
-the hypothesis that in the living animal this papilla would be covered by a small
-external shell, it does not appear that one could see in this the homologue of the rostrum
-of the Decapods, since the latter is formed in the shell sac.
-C. Shell.—The shell of Spirula, being very common, can be easily studied, and is
-well known to zoologists. Therefore it is not proposed to dwell on this subject, except
-in so far as concerns the relations of the shell to the animal.
-In the adult it is as we know multicellular, siphonated, and rolled like a spiral, in a
+L
+These are the only connective cords visible externally, the others (cerebro-pedal :
+cpc.; cerebro-pleural : cchc.; pleuro-pedal : pchc.) being hidden under the cellular coating
+of the centres. It is true, however, that the shrunken part binding together the
+brachial and pedal ganglia, which are far apart from one another, may be called the
+brachio-pedal connective cord, as in the Egopsids. But these brachial centres
+(innervating the arms by their anterior part) and pedal centres (innervating the funnel
+by their postero-ventral part) only constitute a single pair of ganglia as has been already
+proved by the development.
+In the pleuro-visceral centres should be distinguished :-
+A. The pleural (lateral), from which arise the pallial nerves (pl.n.);? and
+B. The true visceral ganglia, from which arise the visceral nerves (Pl. III. and
+Pl. V., v.n.).
+Fig. M.--Pedo-brachial connective of Ommatostrophes pteropus ; left-hand side view, magnified. i, brachial nerves; ii,
+part of a brachial nerve coming from the pedal ganglion ; iii, pedal ganglion ; iv, brachial ganglion.
+These latter nerves, which arise separately (Pl. V. fig. 2, v.n.), could not be followed in
+Spirula peronii. In Spirula reticulata it has been shown that they are closely united
+(Fig. S, xi) to the back of the anus, in the same manner as in the Egopsids, and not
+by a long “commissure” as in Sepia. They do not, however, at their point of
+junction form a true ganglion, as in the first mentioned. From this junction arise
+1 In Ommatostrephes pteropus and Illex coindeti, examined for comparison with Spirula, are found, at the
+surface of the pedo-brachial connective, ten nervous bundles coming from the pedal centres properly so-called,
+and going each to be joined to one of the brachial nerves (Fig. M). There is then no need of histological
+researches (like those of Owsjannikow and Kowalevski, Ueber das central nervensystem und das Gehörorgan
+der Cephalopoden, Mem. Acad. d. Sci. St Pétersbourg, sér. 7, t. xi, 1867; and of Jatta, La innervazione delle
+bracchia dei Cefalopodi, Boll. Soc. Natur. Napoli, anno 3, 1889) to show that the pedal ganglion (or of the
+funnel) contributes to innervate the arms. A similar disposition has already been observed in other Egopsids
+by Hancock (On the nervous system of Ommastrephes todarus, Ann. Mag. Nat. Hist., ser. 2, vol. x., 1852, p. 2),
+Posselt (Todarodes sagittatus [Lamk.] Stp., Vidensk. Meddel. naturh. Foren., 1890, p. 238), and Appellöf
+(Teuthologische Beiträge, ii., Bergens Museums Aarsberetning, 1890, p. 8).
+2 In the paper : Pelseneer, Sur la valeur morphologique des bras et la composition du système nerveux
+central des Céphalopodes (Arch. de Biol., t. viii., 1888), the ganglionic swellings from which arise the pallial
+nerves have been interpreted as anterior visceral (p. 752), and the value of pleural centres was refused to
+them (p. 749). A re-examination has made evident that all the visceral ganglionic elements form a single
+median mass and that the pleural centres are indeed those from which arise the pallial nerves,

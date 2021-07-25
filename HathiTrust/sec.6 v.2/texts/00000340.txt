@@ -1,72 +1,90 @@
-1078
+1082
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 280.
-At 5 A.m. shortened and furled sails, and got up steam to sound and trawl. At 6 A.M.
-sounded in 2050 fathoms, only a small quantity of the deposit being obtained adhering
-to the sounding-tube. At 8 A.M. put trawl over. At 10 A.M. sounded in 1940 fathoms.
-The sounding-tube contained a piece of wood perforated by worms. Obtained serial
-temperatures down to 1500 fathoms. At 3 P.M. trawl came up containing only two or
-three specimens, while the tow-net attached brought up some fragments of volcanic rock
-and two or three manganese nodules. The trawl was used without a bag. At 3.10 P.M.
-made sail. A black albatross was seen about the ship on the afternoon of October 5.
-Tubuai Island distant at noon, 284 miles. Made good 63 miles. Amount of current
-13 miles, direction S. 73° W.
-ANIMALS FROM
-Trawl.
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :
-OSTRACODA (Brady, Zool. pt. 3).
-Cythere dictyon, n.sp. For distribution see Station 24.
-Polyzoa (Busk, Zool. pt. 30).
-Catenaria bicornis, n.sp. Obtained at no other locality.
-The Station-book records also an Esperid.
+STATION 282.
+At 2 P.M.
+At 7 A.M. observed Tubuai Island lying nearly due east, at a distance of 30 miles.
+At 1.30 P.M. shortened and furled sails, and proceeded under steam to sound.
+sounded in 2450 fathoms. Obtained serial temperatures down to 1500 fathoms. At
+5 P.M. completed observations, and at 5.30 P.M. made sail.
+Valparaiso distant at noon, 4167 miles. Made good 81 miles. Amount of current
+7 miles, direction S.
 ORGANISMS FROM
-THE DEPOSIT.
-FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera were
-observed in the deposit from this Station ; the pelagic species, which make up about
-84 per cent of the carbonate of lime present in the deposit, are marked thus x :-
->
-Biloculina depressa, d'Orbigny.
-Miliolina seminulum (Linné).
-venusta (Karrer).
-Haplophragmium latidorsatum (Bornemann).
-Hormosina carpenteri, Brady.
-Trochammina trullissata, Brady.
-Verneuilina pygmæa (Egger).
-Gaudryina pupoides, d'Orbigny.
-Cassidulina crassa, d'Orbigny.
-Ehrenbergina hystrix, Brady.
-Lagena formosa, Schwager.
-marginata (Walker and Boys).
-Uvigerina asperula, Czjzek.
-pygmæa, d'Orbigny.
-x Globigerina æquilalateralis, Brady.
-bulloides, d'Orbigny.
-conglobata, Brady.
-sacculifera, Brady.
-x Orbulina universa, d'Orbigny.
-x Pullenia obliquiloculata, Parker and Jones.
-sphæroides (d'Orbigny).
-x Sphæroidina dehiscens, Parker and Jones.
-x Candeina nitida, d'Orbigny.
-Truncatulina pygmæa, Hantken.
-ungeriana (d'Orbigny).
-wuellerstorfi (Schwager).
-Pulvinulina crassa (d’Orbigny).
-favus, Brady.
-menardii (d'Orbigny).
-micheliniana (d'Orbigny).
-partschiana (d'Orbigny).
-patagonica (d'Orbigny).
-tumida, Brady.
-umbonata, Reuss.
-Rotalia soldanii, d'Orbigny.
-Nonionina pompilioides (Fichtel and Moll).
-umbilicatula (Montagu).
-X X
-Х
-Х
-x
+SURFACE-NETS.
+Surface Organisms. - The following species are recorded from the surface in the
+neighbourhood of this Station :-
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Dicranastrum dichotomum, Haeckel.
+Sethoconus trochus, Haeckel.
+Stichopterium virgineum, Haeckel.
+PELAGIC HEMIPTERA (White, Zool. pt. 19).
+Halobates sericeus, Eschscholtz.
+PTEROPODA (Pelseneer, Zool. pt. 65).
+Clio (Hyalocylix) striata (Rang).
+In addition, the following are recorded in the note-books :-Ceratium (Peridinium)
+tripos, Coccospheres, Rhabdospheres, Globigerina, Hastigerina, Infusoria, Siphonophoræ,
+Sagitta, Alciopa, Annelid larvæ, Cypridina, Corycæus, Copilia, Saphirina, and other
+Copepods, Stomatopod larvæ, small shells (Ianthina ?), Salpa, Appendicularia, and
+small fishes.
+STATION 283.
+Station 283 (Sounding 428), Tahiti to Valparaiso (see Chart 38 and Diagram 19).
+October 9, 1875; lat. 26° 9' S., long. 145° 17' W.
+Temperature of air at noon, 68°:3; mean for the day, 66°:0.
+Temperature of water :-
 99
-х
-Х
+.
+Surface,
+25 fathoms,
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+300
+3 2
+68.5
+68.2
+68.0
+66.5
+64.6
+62:8
+60:3
+57.5
+54:8
+52.0
+49.2
+46.8
+45.4
+400 fathoms,
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+42.2
+40.3
+39.0
+38.0
+37.3
+36:7
+36.3
+36.0
+35.8
+35-6
+35.4
+35.4
+35.4
+3
+.
+1

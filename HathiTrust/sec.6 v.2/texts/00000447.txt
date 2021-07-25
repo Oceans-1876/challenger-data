@@ -1,46 +1,44 @@
 SUMMARY OF RESULTS.
-1175
-Station 314a.
-sounding-tube. Took serial temperatures. The carbonic acid was determined in surface
-water, and amounted to 42:9 milligrammes per litre. Put over trawl, which came up at
-10.15 A.M. empty. Owing to a strong northerly current, it probably did not touch the
-bottom. At 10.30 A.M. made sail.
-Jason West Cay distant at noon, 22 miles. Made good 135 miles.
-The Challenger remained at the Falkland Islands from January 23 till February 6, 1876,
-during which time several dredgings and trawlings were taken from the steam pinnace
-and from the ship in Port William, Port Louis, &c., in from 4 to 12 fathoms (Stations 315
-and 316). The deposit in Stanley Harbour, in 6 fathoms, was a Blue Mud containing
-39:12 per cent. of carbonate of lime (for description of the islands see Narr. Chall.
-Exp., vol. i. pp. 883–894). The following species are recorded in the Zoological
-Reports as having been obtained during the visit, the depth and locality being
-indicated :
-AT FALKLAND
-ISLANDS.
-ANIMALS FROM
+1179
 FALKLAND
 ISLANDS.
-(Stations 315
-AND 316).
-HYDROIDA (Allman, Zool. pt. 70).
-Obelia geniculata (Linné). (Station 315, 5 to 12 fathoms); obtained also at
-Station 149.
-Hypanthea hemispherica, n.sp. (Station 315, 5 to 12 fathoms); obtained at no
-other locality.
-Sertularia polyzonias, Linné. (Station 315, 5 to 12 fathoms); obtained at no other
-locality by the Challenger.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Cycethra electilis, n.sp. (Station 315, 12 fathoms); obtained at no other locality.
-Cribrella obesa, n.sp. (Station 315, 12 fathoms); obtained also at Station 311.
-Asterias glomerata, n.sp. (Station 315, 12 fathoms); obtained also at Station 313.
-cunninghami, Perrier. (Station 315, 12 fathoms); obtained also at
-Station 313.
-Calvasterias stolidota, n.sp. (Station 315, 5 to 10 fathoms); obtained also in
-Messier Channel.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophiactis asperula (Phil.). (Station 315, 5 to 12 fathoms); obtained also at
-Stations 308, 311, and 312.
-Ophiacantha vivipara, Ljungman. (Station 315, 5 to 12 fathoms); for distribution
-see Station 145.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Goniocidaris canaliculata, Agassiz. (Station 315, 5 to 12 fathoms); for
-distribution see Station 147.
+19
+POLYZOA (Busk, Zool. pts. 30 and 50 ; Waters, pt. 79).
+Menipea benemunita, n.sp. (Station 315, 5 to 12 fathoms); obtained also at
+Stations 149, 308, 313, and 314.
+aculeata (d'Orbigny). (Station 315, 5 to 12 fathoms); obtained also at
+Stations 308 and 314.
+Caberea minima, n.sp. (Station 315, 5 to 12 fathoms); obtained at
+other locality
+Carbasea ovoidea, Busk. (Station 315, 5 to 12 fathoms); obtained also at
+Stations 145, 149, 308, and 312.
+Diachoris magellanica, Busk. (Station 315, 5 to 12 fathoms); obtained also at
+Port Jackson.
+costata, Busk. (Station 315,5 to 12 fathoms); obtained at no other locality
+by the Challenger. Recorded from Australia and Kerguelen.
+Salicornaria malvinensis, Busk. (Station 315, 5 to 10 fathoms); obtained also at
+Stations 145, 149, 176, and 304.
+Cribrilina monoceros (Busk). (Station 315, 12 fathoms); for distribution see
+Station 145.
+Microporella malusië (Audouin). (Station 315, 5 to 12 fathoms); obtained also at
+Station 135.
+Lepralia margaritifera (Quoy and Gaimard). (Station 315, 12 fathoms); obtained
+at no other locality by the Challenger. Recorded from
+Tierra del Fuego, Falkland Islands, and Kerguelen.
+marsupium, Macgillivray. (Station 315, 12 fathoms); obtained at no other
+locality by the Challenger. Recorded from Australia.
+Chorizopora hyalina, var. bougainvillei, Busk. (Station 315, 12 fathoms); obtained
+also at Stations 135 and 149.
+Smittia stigmatophora, n.sp. (Station 315, 12 fathoms); obtained at no other
+locality. [Waters calls it Smittia smittiana, Busk].
+Mucronella tricuspis, Hincks. (Station 315, 5 to 12 fathoms); obtained also at
+Station 145 and the Cape.
+Cellepora eatonensis, n.sp. (Station 315, 5 to 12 fathoms) ; obtained also at
+Stations 149 and 308. [Waters calls it Celleporu
+pumicosa, var. eatonensis).
+Tubulipora flabellaris (Fabricius). (Station 315, 12 fathoms); obtained at no other
+locality by the Challenger. Recorded from European
+seas and Arctic.
+fimbria, Lamarck. (Station 315, 12 fathoms); obtained at no other
+locality by the Challenger. Recorded from Arctic, North
+Atlantic, and Australia.

@@ -1,127 +1,136 @@
-1336
+1340
 THE VOYAGE OF H.M.S. CHALLENGER.
-T
-T
+S
 s
+* Scalpellum recurrirostrum, n.sp.
+* Tryphosa antennipotens, n.sp.
+* Urothoë lachneëssa, n.sp.
+s
+rubrum, n.sp.
 T
+ISOPODA:
 S
 T
-S
 *
 S
-T
-1
-* Ophiomusium serratum, n.sp.
-Catopygus recens, n.sp.
-simplex, n.sp.
-T
-Colopleurus muillardi (Michelin). T
-T
-validum, Ljungman. T
-* Cottaldia forbesiana, n.sp.
-Ophiomyxa australis, Lütken. ST Dorocidaris (Cidaris) bracteata, n.sp. T
-vivipara, Studer.
-S
-( ) papillata (Leske).
-S T N
-Ophionereis dubia (Müller and Troschel).
-Echinanthus testudinarius, Gray. S
-Τ Ν
-* Ophiopeza æqualis, n.sp.
-T
-* Echinocardium flavescens (Müller). S
-aster, n.sp.
-S
-Echinocyamus pusillus (Müller). T
-yoldii, Lütken.
 s
-Echinolampas oriformis (Gmelin). T
-* Ophiopyren brevispinus, n.g., n.sp.
-T
-STN
-Echinus acutus, Lamarck.
-longispinus, n.g., n.sp. TN
-elegans, Düben and Koren. S TN
-horridus, 1.sp.
+>
 S
-* Ophiopyrgus vyrille-thomsoni, n.g., n.sp.T *
-* Ophiosciasma attenuatum, n.g., n.sp.
-magellanicus, Phil.
-* Ophioscolex dentatus, 1.sp.
+s
+s
 S
-margaritaceus, Lamarck.
-tropicus, n.sp.
-norvegicus, Dübenand Koren. SN
-Ophiothamnus remotus, 11.81).
+s
 S
+s
+s
 S
-Fibularia australis, Desmoulins.
-vicarius, Lyman. T Goniocidaris canaliculata, Agassiz.
-Ophiothrix aristulata, n.sp.
-florigera, n.sp.
-Hemiaster carernosus (Phil.).
-capillaris, n.sp.
-gibbosus, n.sp.
-Τ Ν
-lütkeni, Wyville Thomson. N * Homolampas fragilis, Agassiz.
-* Ophiozona antillarum, n.sp.
-* Linopneustes murrayi, n.g., 1.sp.
-Τ Ν
-(?) dubia, Lyman. T
-Maretia alta, Agassiz. T
-insularia, n.sp.
 T
-Micropyga tuberculata, n.g., 1.sp).
+* Anceus gigas, n.sp.
+Apseudes antarctica, n.sp. S
+* Arcturides cornutus, Studer. s
+Arcturus purpureus, n.sp.
+furcatus, Studer.
+Astacilla marionensis, n.sp.
+* Astrurus crucicauda, n.g., n.sp.
+* Cymodocea darwini, Cunningham. S
+* Ilyarachna quadrispinosa, n.sp.
+s
+* Jæropsis marionis, n.sp.
+* Janira tristani, n.sp.
+* Leptognathia australis, n.sp. S
+* Munnopsis latifrons, n.sp.
+Neasellus kerguelensis, n.g., n.sp.
+s
+* Paranthura neglecta, n.sp.
+S
+* Paratanais dimorphus, n.sp.
+S
+* Pleurogonium albidum, n.sp.
+minutum, n.sp.
+serratum, n.sp.
+Serolis antarctica, n.sp.
+ST
+bromleyana, n.sp.
+latifrons, White.
+septemcarinata, Miers.
+s
+* Tanais hirsutus, n.sp.
+S
+* Typhlapseudes nereus, n.g., n.sp.
 T
-nivea, Lyman.
-* Moiropsis claudicans, n.g., 0.sp.
-T
-* Palæotropus loveni, n.sp.
-T
-ECHINOIDEA :
-Peronella decagonalis (Lesson).
-Aërope rostrata, n.g., n.sp.
-Τ Ν
-Phormosoma bursarium, n.sp.
-Τ Ν
-Arbacia dufresnii (Bl.). S
-hoplacantha, n.sp.
 SN
-Aspidodiadema microtuberculatum, n.g.,
-luculentum, n.sp.
-n.sp.
-ST
-* Podocidaris sculpta, Agassiz.
-Asthenosoma coriaceum, n.sp.
-Porocidaris elegans, n.sp.
-gracile, n.sp.
-ST
-Pourtalesia laguncula, n.sp.
-S TN
-pellucidum, n.sp.
-Prionechinus sagittiger', n.g., n.sp. S T
-tessellatum, n.sp.
-Salenia hastigera, n.sp.
-S T N
-Brissopsis luzonica (Gray). STN
-varispina, Agassiz. TN
-lyrifera (Forbes). S
-Salmacis dussumieri, Agassiz. T
-* Brissus damesi, n.sp.
-Τ Ν
-Schizaster fragilis(Dübenand Koren). S N
+Typhlotanais kerguelenensis, n.sp.
 S
-berberis, n.sp.
+s
+s
+AMPHIPODA:
+* Acanthechinus tricarinatus, n.g., n.sp. S
+S
+* AEginella tristanensis, n.sp.
+Ampelisca abyssicola, n.sp. T
+chiltoni, n.sp.
+S
+fusca, 1.sp.
+S
+* Amphilochus marionis, n.sp.
+* Atylopsis emarginatus, n.g., n.sp.
+* Autonoe kergueleni, n.sp.
+* Caprellinoides tristanensis, n.g., n.sp.
+* Cerapus sismithi, n.sp.
+* Cheirimeilon crenatipalmatus, n.g., n.sp. S
+* Dodecas elongata, n.g., n.sp.
+Eusirus longipes, Boeck.
+* Gammaropsis afra, n.sp.
+* Iphimedia pacifica, n.sp.
+S
+Kerguelenia compacta, n.g., n.sp.
+* Lætmatophilus purus, n.sp.
+S
+* Lanceola sp. (?). T
+Lepidepecreum foraminiferum, n.sp.
+* Leucothoë miersi, n.sp.
+* Mæra bruzelii, n.sp. S
+rubromaculata, Stimpson.
+Metopa crenatipalmata, n.sp.
+nasutigenes, n.sp.
+* Neohela serrata, n.sp.
+* Ediceroides rostrata, n.g., n.sp.
+* Pardalisca marionis, n.sp.
+Phoxocephalus kergueleni, n.sp.
+* Phronima sedentaria (Forskål). N
+Platophium danæ, n.sp:
+Platyscelus rissoina, Spence Bate.
+* Podocerus tristanensis, n.sp.
+* Stenothoë adhærens, n.sp.
+Syrrhoë papyracea, n.sp.
+S
+S
+S
+12
+S
+S
+s
+s
+S
+S
+S
+S
+S
+S
+S
+CUMACEA :
+* Campylaspis nodulosa, n.sp.
+s
+* Diastylis horrida, n.sp.
+S
+* Leucon assimilis, n.sp.
+* Paralamprops serrato-costata, n.g., n.sp.
+s
 T
+s
+S
+s
+s
 T
-T
-T
-.
-T
-T
-T
-T
-T
-ST
-T
-T
+* Vaunthompsonia meridionalis, n.sp.
+-

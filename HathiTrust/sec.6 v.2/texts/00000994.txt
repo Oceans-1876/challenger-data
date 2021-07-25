@@ -1,63 +1,44 @@
-28
+32
 THE VOYAGE OF H.M.S. CHALLENGER.
-At the 100 fathoms depth the temperature conditions have materially altered. As
-regards the entrance to the Gulf, it is within the North Atlantic isothermal of 65°, but
-over the Gulf itself temperature, to the west of long. 90° W., falls below 60°, and over
-a small region between that line and the continent it falls to 55°. Here, then,
-observation gives no evidence that the dense surface waters descend to any great depth
-carrying with them their high temperature downward. The evidence, on the contrary,
-goes to show that the strong surface current issuing through the Straits of Bemini, with
-the deeper current it generates, drains away, to a very large extent, the whole of the
-warm dense waters of the surface, thus bringing about an upwelling of colder water in
-the western part of the Gulf, so that the temperature there is 15° lower than it is
-immediately to the south-west of Cuba. Unfortunately, no specific gravities have
-been available at this and lower depths in the Gulf of Mexico, which would probably
-show a diminished specific gravity corresponding to the diminished temperature.
-Three specific gravities have, however, been observed in the western part of
-the Atlantic, viz., 1.0278, 1•0278 and 1.0274, which may be regarded as pointing to a
-mixing of the higher surface specific gravities of the Gulf of Mexico with the water
-of the Atlantic at this depth.
-The relation of the temperature of the west of the Gulf of Mexico to that of the
-Atlantic continues to hold at greater depths till the temperature falls at 700 fathoms to
-39º.5, at which depth the Gulf of Mexico becomes “a closed sea,” and the temperature
-remains at this point down to the greatest depth, 2067 fathoms, of the Gulf of
-Mexico. The following gives a comparison of the lowest temperature in the Gulf of
-Mexico and the temperature at the entrance to the Gulf at the different depths :
-Depth in
-Fathoms.
-Temperature at
-Entrance.
-Lowest Tempera-
-ture in Gulf.
-Difference.
-200
-300
-400
-500
-600
-700
-55°.0
-50°.0
-43°.5
-41°5
-41° 0
-40° 0
-46.0
-44° 0
-41° 0
-40°:0)
-40° 0
-39º.5
-90.0
-6°0
-2° +5
-1°.5
-1°:0
-0.5
-These facts point to a strong upwelling of the deep waters in the western division
-of the Gulf of Mexico, necessitated by the strong current which issues from it, and which
-extends to a considerable depth in the ocean. This view is borne out by the fact that
-the Atlantic easterly current is there embayed before starting to join the Atlantic north-
-eastern current on its way towards the Arctic Ocean, and southerly and south-
-westerly winds become prevalent, thus inducing upwelling in the western part of the Gulf.
-It has been calculated that, owing to the heaping up of the waters driven by the
+except that it is rather lower over the eastern parts off the coast of Australia than
+over the western parts off the coast of South Africa.
+The specific gravities of the Arabian Sea and of the Bay of Bengal are strikingly
+different. Owing to the very salt currents from the Red Sea and Persian Gulf, and
+to the extreme dryness of the climate, the specific gravity of the Arabian Sea is large.
+On the other hand, owing to the heavy rainfall during the summer monsoon, and to
+the northerly winds during the winter months inducing upwelling, the specific gravity of
+the Bay of Bengal is low. For the same reasons the east coasts of Asia and the
+Eastern Archipelago are marked by a specific gravity much lower than anywhere else
+over the ocean in the same latitudes. The track of least specific gravity in the central
+part of this ocean is a little south of the equator from east to west.
+At 100 fathoms a large extent of this ocean has a temperature above the mean
+(Map 3), this region being virtually defined by the isothermal of 60°.
+The highest
+temperature, 70°, is near the centre of the ocean, about long. 80° E. The same high
+temperature is found a little to the east of the Strait of Bab-el-Mandeb, from which
+point eastwards it gradually falls to 60°. The lowest temperature, 56', overspreads a
+considerable area lying east and west to the south of Ceylon. This area lies in the
+region of the meeting of the N.E. and S. E. trades, and its position is analogous to the
+low-temperature regions of the Atlantic and Pacific at this depth with respect to the
+N.E. and S. E. trades of those oceans.
+Unfortunately, at no depths north of lat. 40° S. are there any specific gravities
+available, except in the Arabian Sea and Bay of Bengal, and there only down
+to 400 fathoms. Outside the Strait of Bab-el-Mandeb the specific gravity is about
+1:0280, but in the east of the Bay of Bengal it is 1.0259, or even lower, the tempera-
+tures being respectively 70° and 56º. The low specific gravities in the Bay of Bengal
+seriously prevent the diffusion downwards of the higher temperatures of the surface.
+In this region there is no doubt that upwelling takes place during the winter months
+when winds are northerly.
+The distribution of temperature is totally changed at 200 fathoms, nearly the whole
+of the ocean north of lat. 40° S., being above 50°1, the mean temperature of the
+The region of highest temperature, 61°, remains at the same place as at 100
+fathoms, and the lowest temperature, 50°, is situated to the north-west of Australia,
+where also occurs at 100 fathoms a secondary minimum. The temperature is also
+high in the west of the Arabian Sea, and there the specific gravity is 1.0267 off Aden
+to the east of the Strait of Bab-el-Mandeb, gradually falling to 1·0261 near Ceylon.
+At 300 fathoms the whole ocean is above the average temperature to the north of
+lat. 40° S., the absolute highest, 55°, being near Cape Guardafui. But the highest
+temperature in the ocean proper is 53°, the position of which is now fully ten
+degrees of longitude to the westwards of its position at 100 and 200 fathoms. This
+oceans.
+.

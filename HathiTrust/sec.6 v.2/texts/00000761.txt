@@ -1,182 +1,182 @@
 SUMMARY OF RESULTS.
-1479
-Biloculina ringens-continued.
-var. denticulata, 195, 629,
-862, 1002.
-var. striolata, 630, 716, 862.
-sphæra, 181, 195, 261, 285, 294,
-353, 423, 449, 480, 486, 492,
-511, 580, 610, 685, 857, 1130,
-1153, 1158, 1162, 1247.
-tubulosa, 115, 133, 181, 215, 449,
-580, 640.
-Bipinnaria,
-asterigera, 836.
-Birgus,
-latro, 770, 830, 1388, 1425.
-Bithynis,
-grandimanus, 997, 1387.
-lar, 648, 757, 830, 1075,1387,1424.
-Bittium, 178, 275, 362, 396, 542, 711,
-925, 1243, 1345, 1399.
-abruptum, 275, 1345.
-aëdonium, 396, 1345.
-amblyterum, 275, 1345.
-amboynense, 765, 1399.
-cylindricum, 570, 1399.
-delicatum, 396, 1345.
-diplax, 765, 1399.
-enode, 351, 1322.
-furvum, 570, 1399.
-geinmatum, 113, 1345.
-granarium, 570, 1399.
-lacteum, 129, 1399.
-leucocephalum, 999, 1399.
-lusciniæ, 396, 1345.
-mamillanum, 352, 1322.
-oosimense, 925, 1399.
-perparvulum, 628, 710, 999, 1399,
-1426.
-philomelæ, 396, 1345.
-pigrum, 396, 1345.
-porcellanum, 684, 1345.
-pupiforme, 711, 1399.
-reticulatum, 129, 275, 1345, 1359,
-1399.
-xanthum, 711, 1399.
-Blennius,
-sanguinolentus, 314, 1416.
-tasmanianus, 574, 1416.
-Blennophis,
-webbi, 1240, 1416.
-Bolina (see Turbo).
-Bolivina,
-ænariensis, 427, 581, 686.
-amygdalæformis, 115, 686, 857.
-beyrichi, 134, 295, 581, 903.
-var. alata, 686.
-costata, 686.
-decussata, 182, 631, 1131, 1136.
-dilatata, 190, 196, 198, 286, 427.
-hantkeniana, 1071.
-karteriana, 196,354,663,903, 1071.
-Bolivina--continued.
-limbata, 630, 6:1, 686, 717, 1002,
-1225.
-lobata, 686.
-var. strigosa, 631, 686.
-nitida, 686.
-nobilis, 663, 862, 1071.
-porrecta, 182, 200, 286, 686, 1071.
-punctata, 115, 134, 145, 166,
-182, 196, 286, 354, 429, 492,
-686, 903, 949, 965, 1071, 1111,
-1131, 1154, 1201, 1217, 1225.
-pygmæa, 134, 215.
-reticulata, 166, 429, 686, 1071,
-1225.
-robusta, 166, 190, 295, 354, 424,
-581, 640, 641, 686, 903, 1158.
-schwageriana, 686.
-subangularis, 686.
-textilarioides, 134, 166, 196, 286,
-587, 589, 631, 641, 862, 937,
-1002, 1111, 1131.
-tortuosa, 196, 640.
-Boltenia, 1118, 1440, 1451.
-elegans, 222, 1414.
-legumen, 1165, 1180, 1414, 1428,
-1449.
-pachyderinatina, 599, 1414.
-Bonellia,
-suhmii, 219, 1305.
-Bopyrus, 228, 716, 772, 773, 777, 781,
-843, 968, 975, 980, 1219.
-Boreomysis, 1442, 1451.
-arctica, 1442.
-megalops, 1442.
-microps, 230, 1307.
-nobilis, 1442.
-obtusata, 900, 976, 1279, 1282,
-1341.
-scyphops, 454, 456, 509, 520, 521,
-1295, 1298, 1442, 1448.
-tridens, 1442.
-Borlasia, 1192.
-Bornella,
-excepta, 729, 1409.
-Borsonia,
-ceroplasta, 177, 1345.
-silicea, 361, 1345.
-Botellina,
-labyrinthica, 115.
-Botrylloides,
-nigrum, 245, 1414.
-perspicuum, 821, 1414.
-var, rubicundum, 821, 1414.
-tyreum, 807, 1414,
-Botryocampe,
-camerata, 880, 1041.
-inflata, 513, 1046.
-rotalia, 880.
-theocapsa, 1046, 1226.
-Botryocella,
-borealis, 512, 513.
-quadricellarts, 1051.
-tricellaris, 1265.
-Botryocyrtis,
-cerebellum, 1041, 1046, 1218.
-quinaria, 513.
-theocampe, 1041, 1046, 1060.
-Botryopera,
-cyrtoloba, 1011, 1016, 1023, 1027,
-1031, 1041, 1051, 1056, 1060.
-multiloba, 880.
-quinqueloba, 980.
-Botryopyle,
-cephalodes, 880.
-cribrosa, 512.
-dictyocephalus, 1041, 1051, 1056,
-1060.
-sethocorys, 880.
-Box, 1440.
-Bracebridgia,
-geometrica, 534, 543.
-Brachionichthys,
-hirsutus, 551, 1353.
-Brachiospyris,
-diacantha, 798.
-ocellata, 1226.
-Brachycarpus, 1429, 1451.
-audouini, 597, 1387.
-savignyi, 243, 1387.
-Brachynotus,
-(Heterograpsus),
-penicillatus, 925, 1390.
-Brachypleura,
-novæ-zealandiæ, 732, 1416, 1428.
-Brachyscelus, 892.
-acuticaudatus, 1033.
-bovallii, 1102.
-crusculum, 889, 992.
-inæquipes, 836.
-latipes, 1102.
-mediterranea, 314.
-Brada,
-mammillata, 465, 1380.
-whiteavesii, 596, 1380, 1448.
-Brama,
-raii, 617, 927, 1416.
-Branchiostoma,
-belcheri, 834, 1416.
-cultellum, 716, 1416.
-pelagicum, 991.
-Bregmaceros,
-macclellandi, 766, 1416.
-Brettia,
-australis, 767, 1323.
-cornigera, 164, 1351.
-Breynia,
-australasiæ, 695, 1378.
-Brisinga, 448, 504, 528, 883, 976, 1130,
-1452.
+1483
+Cardium (Fragum)-continued.
+medium, 344, 1394.
+torresi, 726, 1394.
+(Lævicardium),
+norvegicum, 311, 1394.
+(Papyridea),
+bullatum, 377, 1395.
+semisulcatum, 412, 1395.
+transversale, 127, 272, 1343,
+1359, 1395.
+Caricyphus,
+angulatus, 450.
+cornutus, 830, 1387.
+gibberosus, 1033.
+serramarginis, 661.
+turgidus, 799.
+Caridina,
+typus, 310, 1387.
+Carijoa (see Telesto).
+Carinaria, 109, 119, 121, 180, 775, 890,
+893, 1064.
+atlantica, 117.
+cristata, 853, 857, 863, 871,
+1068.
+lamarckii, 294.
+Carinina, 1314.
+grata, 213, 219, 1305, 1310.
+Carpenteria, 183, 197, 862.
+balaniformis, 115, 124, 199.
+monticularis, 197, 427, 631, 687,
+862, 1003.
+proteiformis, 124, 183, 197, 631,
+687.
+utricularis, 183, 197, 199, 630.
+Carpilius,
+maculatus, 997, 1390.
+Carpilodes,
+bellus, 830, 1390.
+Carpocanistrum,
+acephalum, 950.
+evacuatum, 1051.
+flosculum, 1251.
+giganteum, 880.
+novenum, 1041, 1047, 1207.
+Carpocanium,
+cylindricum, 1042.
+diadema, 1042, 1047.
+gemmula, 1052.
+hexagonale, 1251.
+irregulare, 1006, 1008, 1013, 1018,
+1020, 1024, 1029, 1033, 1047,
+1054, 1057, 1062.
+læve, 881, 1254.
+lanceolatum, 1132.
+microdon, 1268.
+palmipes, 881.
+peristomium, 881.
+petalospyris, 1042.
+verecundum, 957.
+virgineum, 1052.
+Carposphæra,
+belladonna, 167.
+borassus, 1024.
+capillacea, 1044, 1061.
+cerasus, 1044.
+cubaxonia, 1038, 1101.
+infundibulum, 1038, 1044, 1267.
+maxima, 1050.
+melissa, 1021.
+melitomma, 1014, 1021, 1027,
+1031, 1038, 1050, 1055, 1059.
+micrococcus, 878, 1213.
+nobilis, 512, 878, 1038, 1044.
+nodosa, 1038, 1044.
+prunulum, 1206.
+Carteriospongia,
+otahitica, 858, 1362.
+radiata, 689, 1362.
+Caryatis (see Cytherea).
+Caryomma,
+irregulare, 1010.
+regulare, 1021.
+Caryophyllia, 96, 399.
+arcuata, 96.
+berteriana, 140, 1292.
+borealis, 96, 399.
+clavus, 1355.
+var. borealis, 745, 1332.
+var, epithecata, 864, 1332.
+var. smithi, 270, 1150, 1332.
+var, transversalis, 745, 1332.
+communis, 213, 229, 239, 281,
+419, 1303, 1310, 1311, 1312,
+1316, 1325, 1332, 1446.
+cylindracea, 192, 1332.
+electrica, 96.
+lævicostata, 1238, 1332.
+lamellifera, 613, 1316.
+maculata, 356, 612, 1316, 1325,
+1332.
+pauci palata, 171, 1332.
+profunda, 305, 393, 399, 1332,
+1355.
+rugosa, 745, 779, 1332, 1355.
+Caryosphæra,
+hexalepas, 1021, 1038.
+pentalepas, 1059.
+Caryostylus,
+hexalepas, 878.
+Casmaria (see Cassis).
+Cassidaria,
+(Sconsia),
+striata, 361, 1346.
+Cassidulina, 354, 604, 965.
+bradyi, 196, 511, 581, 686, 903,
+965, 1136, 1154, 1230.
+calabra, 124, 182, 198, 686.
+crassa, 134, 152, 182, 319, 354,
+400, 424, 449, 480, 486, 492,
+498, 511, 581, 671, 686, 843,
+Cassidalina crassa-continued.
+903, 1002, 1071, 1078, 1085,
+1104, 1131, 1136, 1154, 1158,
+1162, 1247.
+lævigata, 182, 215, 424, 427, 429,
+498, 581, 631, 641, 686, 843,
+903, 1071, 1154, 1162.
+parkeriana, 152, 196, 1154.
+subglobosa, 124, 139, 145, 152,
+166, 182, 191, 261, 286, 295,
+354, 427, 449, 480, 486, 511,
+522, 529, 581, 587, 589, 640,
+663, 671, 686, 937, 949, 965,
+986, 1026, 1037, 1067, 1085,
+1092, 1104, 1111, 1131, 1136,
+1172, 1230.
+Cassis, 177, 238, 284, 293, 351, 569, 748,
+1308, 1312, 1322, 1346, 1399.
+(Bezoardica),
+wyvillei, 789, 1346.
+(Casmaria),
+turgida, 860, 1399.
+(Semicassis),
+pila, 569, 728, 786, 1399, 1426.
+Castanarium,
+darwini, 1184.
+huxleyi, 585.
+lubbocki, 1254.
+lyelli, 1054.
+Castanella,
+balfouri, 944, 950, 953, 958, 960.
+campbelli, 1033, 1048, 1054,
+1057, 1062.
+channeri, 1261, 1266, 1268.
+horstoni, 1218.
+sloggetti, 1251, 1255, 1257.
+thomsoni, 1108, 1112, 1114, 1119.
+wyvillei, 977, 980, 982, 986.
+Castanidium,
+aldrichi, 1033, 1048, 1054, 1067,
+1062.
+bethelli, 920, 922, 940, 941, 943,
+944, 950, 953, 958, 960.
+bromleyi, 545, 582, 585, 592, 611.
+buchanani, 1251, 1255, 1257.
+moseleyi, 1251, 1255, 1257.
+murrayi, 1261, 1266, 1268.
+wildi, 1114.
+willemoesi, 1006, 1008, 1013,
+1018, 1019, 1024, 1029, 1033,
+1048, 1054, 1057, 1062.
+Castanissa,
+challengeri, 1251.
+crosbiei, 894, 905, 916, 920.
+hoylei, 960, 967, 970, 973.
+macleani, 1024.
+pearceyi, 1218.
+richardsi, 1268.
+Castanopsis,
+fergusoni, 1268.

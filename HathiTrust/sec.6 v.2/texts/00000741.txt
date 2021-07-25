@@ -1,42 +1,81 @@
-SUMMARY OF RESULTS.
-1459
-ORIGIN OF MARINE
-AND FRESH-WATER
-shore and shallow-water origin. In polar waters a marked peculiarity of the tow-net
-gatherings is the almost total absence of pelagic larvæ belonging to benthonic
-organisms, and we know that many of the Echinoderms and other shallow-water
-animals of the Arctic and Antarctic regions are furnished with pouches in which
-the young are reared;" the same appears to be true of the animals living about
-and deeper than the mud-line in all parts of the world. In temperate zones
-where there is a wide range in annual temperature the pelagic larvæ of benthonic
-animals appear only in the spring or summer seasons; in the tropics they are
-present at all times in the surface waters. If there were once a nearly universal
-climate over the whole ocean, we may suppose that the same species of benthonic
-animals were nearly everywhere present in the shallow-water zones. When cooling
-at the poles set in, those animals with pelagic larvæ would be killed out or be Fatsas.
-forced to migrate towards the warmer tropics. By being able to limit the reproductive
-process to the summer season, some of these organisms with free-swimming larvæ have
-been able to live on in the temperate regions, but in the tropical and coral-reef regions we
-have the remnants of a once universally distributed shallow-water fauna. With the
-disappearance of this shallow-water fauna from the polar regions its place would be
-occupied by the organisms from the deeper mud-line, very few of which possess
-pelagic larvæ. In this way we may account for the identity or similarity between
-the polar marine faunas and floras, the great abundance of individuals and the
-relatively few species in the polar areas when compared with the tropical area, as well
-is the greater likeness of the shallow-water polar animals to deep-sea species. In like
-manner we may account for the disappearance of coral reefs from the west coasts of
-Africa and America and off Cape Guardafui, owing to the wide range of temperature in
-these positions from upwelling of cold deep water. Organisms derived recently from the
-mud-line animals here too occupied the shallow waters, and hence more closely
-resemble polar faunas than any other fauna within the tropics. From the general
-character of fresh-water species, and from the almost complete absence of free-swimming
-larvæ, we may suppose that the fresh-water fauna has also been chiefly derived from
-mud-line animals which ascended from the mouths of great rivers and from estuaries.
-The general similarity, and, in many cases, the identity of species of marine
-organisms in the Arctic and Antarctic regions, is a very remarkable fact, but probably
-not a more remarkable fact than that in the tropical regions there should be among
-benthonic animals hardly a marine species common to the east and west coasts of the
-continent of Africa, if we exclude some brackish-water and deep-sea species. The
-greater annual range and higher temperature, as well as the greater variety in the
-other conditions which obtain on either side of Africa, compared with those that obtain
-1 See Narr. Chall. Exp., vol. i. P. 379.
+EXPLANATION OF CHARTS
+CHARTS AND DIAGRAMS. .
+APPENDIX I.
+CHARTS.
+?
+Chart 1A.--Hemisphere showing the Atlantic Ocean on Lambert's equal-area projection. In pocket of
+18.
+Pacific
+Cover to
+10.
+Indian
+First Part.
+These charts show the depths of the ocean so far as at present known. The positions of all soundings
+over 1000 fathoms are shown, except where so close together as to cause confusion, and are represented by the
+first two figures only, thus 24 stands for 2400 fathoms, 16 for 1600 fathoms, the last two figures being always
+omitted. Basins are areas of the floor of the Ocean surrounded by low marine ridges, deeps are areas where
+depths greater than 3000 have been obtained. The areas between the contour lines are marked out by
+different shades of blue on the ocean and different shades of brown on the continents and other land surfaces.
+Charts 2 to 43 show the positions of the Sounding and Dredging Stations, nature of the Deposits,
+direction and force of the Wind and Surface Current, the following abbreviations and symbols being made
+use of:
+Figures enclosed thus, 37, indicate the position and distinguishing mumber of a Sounding,
+Dredging, or Trawling Station. Figures in block letter, thus, 2650, indicate the depth in
+Fathoms.
+The letters under the depth indicate the nature of the Deposit at the bottom :--
+gl. 07. signifying Globigerina Ooze.
+r. m. signifying Red Mud.
+pt. oz.
+Pteropod Ooze.
+Blue Mud.
+di. 07.
+Diatom Ooze.
+calc.
+calcareous.
+rad, oz.
+Radiolarian Ooze.
+sand.
+T. cl.
+Red Clay.
+mud.
+crl. m.
+Coral Mud.
+stones.
+Coral Sand.
+sh.
+shells.
+volc. m.
+Volcanic Mud.
+gravel.
+volc. s.
+Volcanic Sand.
+crl.
+Coral.
+Green Mud,
+h. g.
+hard ground.
+Green Sand.
+bl. m.
+S.
+m.
+st.
+crl. s.
+9
+gr. m.
+gr. s.
+Arrows thus,
+indicate the mean direction of the Wind, the number at the base giving the mean
+Force (in Beaufort's Scale). Arrows thus,
+indicate the direction of the Surface Curr ent,
+the numbers at the base giving the rate in miles per 24 hours.
+The position of the Ship each day at Noon is indicated by a black dot. When the position at
+noon corresponds with a Sounding Station the black dot is replaced by the number of the
+Station. The day of the month is noted in hair line, thus, 25, and occasionally the month
+and year are also given, the month being shown in Roman figures, thus, 1. V. 74.
+DIAGRAMS.
+Diagrams 1 to 22 show the vertical distribution of Temperature, the relief of the Bottom of the Sea, the
+nature of the Deposits, and the percentages of Carbonate of Lime. In these Diagrams horizontal lengths or
+distances from Station to Station are on a scale of 200 miles to the inch, and the depths are on a scale
+of 500 fathoms to the inch, so that depths or heights, as compared with horizontal distances, are
+exaggerated in the proportion of 400 to l. In looking, therefore, at the Plan as one of the bed of the
+area, it must be remembered that the inclines as observed were 400 times less steep than they are repre-

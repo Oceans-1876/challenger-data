@@ -1,37 +1,80 @@
 SUMMARY OF RESULTS.
-1135
-STATION 302.
+1137
+Station 302.
+Lithoptera darwinii, Haeckel.
+Dodecaspis tricinata, Haeckel.
+Dorypelta ramosa, Haeckel.
+Undina darwinii, Lubbock.
+Euchæta prestandreæ, Philippi.
+Centropages violaceus (Claus).
+Oncæa obtusa (Dana).
 OSTRACODA (Brady, Zool. pt. 3).
-Cythere dictyon, n.sp. For distribution see Station 24.
-acanthoderma, n.sp.
-For distribution see Station 64.
-dasyderma, n.sp.
-For distribution see Station 5.
-Krithe producta, n.sp.
-For distribution see Station 70
-Cytheropteron mucronalatum, n.sp. For distribution see Station 70.
-CIRRIPEDIA (Hoek, Zool. pt. 25).
-Scalpellum minutum, n.sp. Three specimens attached to a manganese nodule ;
-obtained at no other locality.
-ISOPODA (Beddard, Zool. pt. 48).
-Ischnosoma bacilloides, n.sp. One specimen ; obtained at no other locality.
-Acanthocope acutispina, n.g., n.sp. One specimen ; obtained at no other locality.
-MACRURA (Spence Bate, Zool. pt. 52).
-Nematocarcinus proscimatus, n.sp. Three specimens ; obtained also at Stations 146,
-188, 237, and 300.
-ANOMURA (Henderson, Zool. pt. 69).
-Munidopsis subsquamosa, n.sp., var. aculeata, nov. One specimen ; the species
-obtained also at Stations 146 and 237.
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Amussium meridionale, n.sp. Three specimens and single valves ; obtained also at
-Stations 146 and 158.
-BRACHIOPODA (Davidson, Zool. pt. 1).
-Terebratula wyvillii, n.sp. Obtained also at Stations 160, 184, 244, 299, and 317.
-In addition to the foregoing, the following are recorded in the Station-book :-Many
-specimens of Stephanoscyphus on manganese nodules, small Actinian attached to a
-manganese nodule and covered with Foraminifera, fragments of Pourtalesia (?), small
-fragments of Nemertine, several Serpula attached to manganese nodules, blind Amphipod
-with long slender body and limbs, and an empty Gasteropod shell.
-Excluding Protozoa, nearly 100 specimens of invertebrates were obtained at this
-Station, belonging to about 25 species, of which 16 are new to science, including repre-
-sentatives of 4 new genera ; 5 of the new species were not obtained elsewhere.
+Halocypris atlantica, Lubbock.
+brevirostris, Dana.
+COPEPODA (Brady, Zool. pt. 23).
+Calanus tonsus, n.sp.
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Podocerus validus (Dana).
+Euthemisto gaudichaudii (Guérin).
+In addition, the following are recorded in the note-books from the tow-nets at the
+surface and down to 60 fathoms :-Diatoms, Ceratium (Peridinium) tripos, Coccospheres
+and Rhabdospheres, Globigerina, Orbulina, Pulvinulina, Infusoria, Medusæ, Siphonophoræ,
+Sagitta, larvæ of Mysids and other Crustacea, Appendicularia, small fishes. The tow-
+net at the weights had not touched the bottom and contained a number of deep-sea
+organisms, including Polycystinæ, Phæodaria (Challengeria), and other Radiolaria, along
+with several very large Sagittæ, while the tow-nets at the trawl each contained some
+ooze, in which were some surface and deep-sea organisms. Schools of porpoises were seen
+about the ship, and one was struck but not captured.
+STATION 303.
+Station 303 (Sounding 448), Valparaiso to Gulf of Peñas (see Chart 40 and
+Diagram 21).
+December 30, 1875 ; lat. 45° 31' S., long. 78° 9' W.
+Temperature of air at noon, 53°:8; mean for the day, 53°:7.
+Temperature of water :-
+40-8
+Surface,
+25 fathoms,
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+>
+54:8
+51:4
+48.5
+46.4
+44.9
+43.9
+43:1
+42.5
+42:0
+41.6
+41:3
+41:0
+300 fathoms,
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+Bottom,
+39.8
+39.0
+38.1
+37.4
+36.8
+36.4
+36.2
+36.0
+360
+36.0

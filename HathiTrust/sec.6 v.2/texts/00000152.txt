@@ -1,42 +1,59 @@
-912
+914
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 233B.
-Station 233B (Sounding 373), off Japan (see Chart 35).
-May 26, 1875; lat. 34° 18' N., long. 133° 35' E.
-Temperature of air at noon, 71°:8; mean for the day, 67°.9.
-Temperature of water at surface, 66°:3.
-Density at 60° F. at surface, 1:02631.
-Depth, 15 fathoms ; deposit, Blue Mud, containing 4.29 per cent. of carbonate of
-lime, and numerous oval-shaped pellets, believed to be the dung of Holothurians
-(see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 5 A.M. got up steam. At 6.15 A.M. weighed anchor and proceeded through the
-channels leading from Harima Nada to Bingo Nada. At 9.5 A.M. passed Odutsi Island.
-At 11.20 A.M. stopped to dredge in about 12 fathoms to the east of the headland of
-Akeno Misaki. At 11.50 A.M. proceeded. At 12.40 P.M. stopped, and put over trawl
-in about 15 fathoms. The dredge came up with a bag full of mud, and the trawl came
-up at 1.30 P.M. with numerous specimens. Proceeded towards Miwara. After crossing
-the northern part of the Bingo Nada, the ship stopped at 4.15 P.M. off the village of
-Matsuhama, and close to the town of Miwara, both situated on the mainland of Nipon,
-and anchored in 14 fathoms.
+Excluding Protozoa, over 80 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 32 species, of which 6 are new to science;
+3 of the new species were not obtained elsewhere.
+STATION 233c.
+Station 233c (Sounding 374), off Japan (see Chart 35).
+May 28, 1875; lat. 34° 18' N., long. 133° 21' E.
+Temperature of air at noon, 69°:0; mean for the day, 67°•O.
+Temperature of water :-
+Surface,
+1 fathom,
+2 fathoms,
+3
+4
+66.8
+65.5
+61.9
+64.4
+63.8
+63.2
+62:7
+7 fathoms,
+8
+9
+10
+11
+Bottom,
+62.1
+61.5
+60-9
+60:3
+59.7
+59.2
+7
+5
+6
+Density at 60° F. at surface, 1.02381.
+Depth, 12 fathoms; deposit, Blue Mud, containing 4.29 per cent. of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 7.30 A.M. got up steam. At 9.40 A.M. weighed anchor and proceeded under steam
+towards Bingo Nada. At 11.15 A.M. passed Hyakfu Kung Island. At 12.15 P.M. stopped
+to traw) and obtain serial temperatures. The first haul of the trawl was unsuccessful, but
+at 1.15 P.M. the trawl came up for the second time with many specimens. At 1.30 P.M.
+proceeded. At 2.30 P.M. passed Matsu Sima. At 3.15 P.M. stopped and anchored in
+9 fathoms off Sanagi Sima, at entrance to channel leading to Harima Nada.
 ANIMALS FROM
-DREDGE AND
 TRAWL.
-The following species are recorded in the Zoological Reports from the dredge and trawl
-at this Station :
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Astropecten japonicus, Müller and Troschel. Many specimens ; obtained also at
-Station 233 and Yokohama.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha sinensis, Lyman. Several specimens ; obtained also at Yokohama.
-Amphiura depressa, Lyman (?). Obtained also at Fiji.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Echinocardium australe, Gray. Obtained also at Port Jackson.
-[Recorded in
-error from Station 234].
-Schizaster japonicus, n.sp. Several specimens ; obtained also at Stations 188, 233,
-Yokohama, and Hong Kong.
-HOLOTHURIOIDEA (Théel, Zool. pt. 39).
-Synapta distincta, Marenzeller. Several fragments; obtained also at Station 233.
-ANNELIDA (MʻIntosh, Zool. pt. 34).
-Chloeia flava (Pallas). Two specimens ; obtained also in Arafura Sea (?).
-Dasybranchus (?) sp. One specimen.
+The following species are recorded in the Zoological Reports from the trawl at
+this Station :
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Raeta pulchella (Adams and Reeve). Obtained also at Yokohama. Recorded
+from Borneo and Japan.
+GASTEROPODA (Watson, Zool. pt. 42).
+Nassa (Zeuxis) crenulata, Bruguière. Obtained also at Stations 233 and 233B.
+Philine sp. (?).
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Loligo kobiensis, n.sp. Four specimens; obtained also at Station 233.

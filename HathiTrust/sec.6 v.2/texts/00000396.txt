@@ -1,103 +1,85 @@
-1132
+1136
 THE VOYAGE OF H.M.S. CHALLENGER.
-3
-STATION 300.
-х
->
+STATION 302.
+ORGANISMS FROM
+THE DEPOSIT.
+The following species of Foraminifera and Radiolaria were observed in the deposit from
+this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+FORAMINIFERA (Brady, Zool. pt. 22).—The pelagic species, which make up about
+85 per cent. of the carbonate of lime present in the deposit, are marked thus .
 Х
-X
-x
-Х
-Х
-Uvigerina pygmaa, d’Orbigny.
-sp. (?).
-Sagrina virgula, Brady.
-x Globigerina æquilateralis, Brady.
-brulloides, d'Orbigny.
-var. triloba, Reuss.
-digitata, Brady.
+1
+Biloculina depressa, d'Orbigny.
+Spiroloculina tenuis (Czjzek).
+Miliolina seminulum (Linné).
+venusta (Karrer).
+Haplophragmium latidorsatum (Bornemann).
+Webbina clavata, Jones and Parker.
+Gaulryina pupoides, d’Orbigny.
+Bulimina buchiana, d'Orbigny.
+Virgulina schreibersiana, Czjzek.
+Bolivina decussata, Brady.
+Cassidulina bradyi, Norman.
+crassa, d’Orbigny.
+subglobosa, Brady.
+Lagena auriculata, Brady.
+botelliformis, Brady.
+globosa (Montagu).
+lævigata (Reuss).
+marginata (Walker and Boys).
+orbignyana (Seguenza).
+seminiformis, Schwager.
+seminula, Brady.
+staphyllearia (Schwager).
+Lagena sulcata (Walker and Jacob).
+Nodosaria mucronata, Neugeboren.
+Polymorphina suroria, Reuss.
+Uvigerina asperula, Czjzek.
+pygmæa, d'Orbigny.
+x Globigerina bulloides, d'Orbigny.
 dubia, Egger.
-helicina, d'Orbiguy.
 inflata, d'Orbigny.
-x Orbulina universa, d'Orbigny.
-Pullenia quinqueloba, Reuss.
-sphæroides (d’Orbigny).
-Sphæroidina bulloides, d'Orbigny.
-dehiscens, Parker and Jones.
-x Canileina nitida, d'Orbigny.
-Spirillina limbata, Brady.
-Truncatulina lobatula (Walker and Jacob).
-Truncatulina tenera, Brady.
+x Orbulina unirersa, d'Orbigny.
+Truncatulina pygmæd, Hantken.
 ungeriana (d'Orbigny).
-vuellerstorfi (Schwager).
-Anomalina grosserugosa (Gümbel).
-Rupertia stabilis, Wallich.
-x Pulvinulina canariensis (d'Orbigny).
-crassa (d'Orbiguy).
-farus, Brady.
-menarilii (d'Orbigny).
-micheliniana (d'Orbigny).
+wuellerstor fi (Schwager).
+x Pulrinulina canariensis (d'Orbigny).
+exigua, Brady.
+favus, Brady.
+menardii (d'Orbigny).
+micheliniana (d'Orbiguy).
+partschiana (d'Orbigny).
 patagonica (d'Orbigny).
 pauperata, Parker and Jones.
-umbonata, Reuss.
-Rotalia orbicularis, d’Orbigny.
-soldanii, d'Orbigny.
-Nonionina scapha (Fichtel and Moll).
-umbilicatula (Montagu).
->>
-Х
-x x x
-Х
+Rotalia soldanii, d'Orbigny.
+Nonionina umbilicatula (Montagu).
+x x
+x
 RADIOLARIA (Haeckel, Zool. pt. 40).
-Hexastylus cleobuli, Haeckel.
-He.calonche aspera, Haeckel.
-.
-Hecacromyum arachnoules, Haeckel.
-Ellipsostylus ovicularis, Haeckel.
-Pipettaria fusaria, Haeckel.
-Trochodiscus solaris, Haeckel.
-Periphæna statoblastus, Haeckel.
-Phacostaurus quadrigatus, Haeckel.
-Archidiscus hecathalamus, Haeckel.
-Stauralastrum dilatatum, Haeckel.
-Spongotripus irregularis, Haeckel.
-Larcarium staurostylum, Haeckel.
-Octopyle subylobosa, Haeckel.
-Amphitholus acanthometra, Haeckel.
-Zoniscus hexatholius, Haeckel.
-Stauracantha johannis, Haeckel.
-Lithocircus quadricornis, Haeckel.
-Semantis sigillum, Haeckel.
-Zygostephanus bicornis, Haeckel.
-Tympanilium foliosum, Haeckel.
-Parastephanus dispar, Haeckel.
-Eutympanium dodecarium, Haeckel.
-Petalospyris furcata, Haeckel.
-Archipera quailricornis, Haeckel.
-Cystophormis tabulata, Haeckel.
-Cornutanna cyrtoconus, Haeckel.
-Dictyophimus longipes, Haeckel.
-Arachnocorys polyptera, Haeckel.
-Carpocani uin lanueolatum, Haeckel.
-Sethophæna tetraptera, Haeckel.
-Sethoconus lophophæna, Haeckel.
-bimarginatus, Haeckel.
-Podocyrtis favosa, Haeckel.
-Calocyclas hyaloyaster, Haeckel.
-Artopilium trigonopterum, Haeckel.
-Cyrtopera lagenella, Haeckel.
-Stichophormis railiata, Haeckel.
-Artophormis horrila, Haeckel.
-Artophæna hecalatractus, llaeckel.
-Stichophæna ritteriana, Haeckel.
-Aulographis canulelabrum, Haeckel.
-Aulospathis trifurca, Haeckel.
+Xiphostylus falco, Haeckel.
+Stylosphæra euterpe, Haeckel.
+thalia, Haeckel.
+Lithatractus rosetta, Haeckel.
+Stomatodiscus amphistomus, Haeckel.
+Amphitholonium tricolonium, Haeckel.
+Lonchostaurus rhomboides, Haeckel.
+Anthocyrtium campanula, Haeckel.
+Eucyrtilium chrysaliilium, Haeckel.
+Aulographis flammabunda, Haeckel.
 Aulonia pentagonia, Haeckel.
-Challengeria hacergalli, Murray.
-Coelodrymus ancoratus, Haeckel.
-Celotholus octonus, Haeckel.
-2
-STATION 301.
-Station 301 (Sounding 446), Valparaiso to Gulf of Peňas (see Chart 40).
-December 22, 1875; lat. 37° 29' S., long. 84° 2' W.
-Temperature of air at noon, 60°:8; mean for the day, 56°:9.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms. —The following species are recorded from the surface at this
+Station :
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Thalassoxanthium triradiatum,
+Haeckel.
+Rhaphidozoum patagonicum, Haeckel.
+Haliomma patagonicum, Haeckel.
+Astrosphæra hexagonalis, Haeckel.
+Spongocore diplocylindrica, Haeckel.
+puella, Haeckel.
+Tholoma quadrigeminum, Haeckel.
+Actinastrum pentazonium, Haeckel.
+.
+1

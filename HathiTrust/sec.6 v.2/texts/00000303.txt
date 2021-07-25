@@ -1,68 +1,112 @@
-1049
+1
+1053
 SUMMARY OF RESULTS.
-STATION 272.
-Density at 60° F. :-
-.
-.
-Surface,
-25 fathoms,
-50
-100
-200
-. 1.02650
-1.02621
-. 1.02621
-. 1.02615
-1:02575
-300 fathoms,
-400
-800
-2600 (?)
-Bottom,
-1.02585
-1:02557
-1:02557
-. 1:02561
-. 1.02636
-.
-.
-Depth, 2600 fathoms ; deposit, Radiolarian Ooze, containing 10:19 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4.30 A.M. shortened and furled sails and got up steam to sound. At 5.30 A.M.
-sounded in 2600 fathoms. At 7.30 A. M. put trawl over and veered 3200 fathoms. Took
-serial temperatures down to 1500 fathoms. At 2 P.M. commenced heaving in trawl,
-which came up at 5.40 P. M. with several specimens, a rounded piece of pumice slightly
-impregnated with manganese, and two or three irregular manganese nodules with nuclei
-of pumice. At 6 P.M. made all plain sail. Frigate birds and boatswain birds were seen,
-supposed to be fishing for flying-fish.
-Venus Point, Tahiti, distant at noon, 846 miles. Made good 88 miles. Amount of
-current 44 miles, direction W.
-The following species are recorded in the Zoological Reports from the trawl at
-Station :-
-ANIMALS FROM
-TRAWL.
+Surface Organisms.—The following species are recorded from the surface at this Station 272.
+Station -
+ORGANISMS FROM
+SURFACE-NETS.
+RADIOLARIA (Haeckel, Zool. pt. 40).
 .
 1
-1
-DEEP-SEA KERATÓSA (Haeckel, Zool. pt. 82).
-Psammopemma radiolarium, n.sp.
-radiolarium, n.sp. Obtained at no other locality.
-Stannarium alatum, n.g., n.sp. Obtained at no other locality.
-Stannoma dendroides, n.g., n.sp. Obtained also at Station 271.
-coralloides, n.g., n.sp. Obtained also at Station 271. .
-The
-genus Stannoma was obtained only at these two Stations.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Phormosoma tenue, n.sp. Obtained also at Stations 237 and 274.
-Pourtalesia rosea, n. sp. Obtained at no other locality.
-Aceste bellidifera, Wyville Thomson, n.g., n.sp. Obtained also at Stations VIII.
-and 323. Only species of the genus.
-ANNELIDA (MʻIntosh, Zool. pt. 34).
-Myriochele pacifica, n.sp. One specimen ; obtained at no other locality.
-Macrura (Spence Bate, Zool. pt. 52).
-Benthesicymus crenatus, n.g., n.sp. One specimen ; obtained also at Station 276,
-2350 fathoms.
+i
 1
 1
 1
+1
+.
+Actissa lenticularis, Haeckel.
+Collozoum volvocinum, Haeckel.
+Thalassosphæra belonium, Haeckel.
+Collosphæra primordialis, Haeckel.
+pyriformis, Haeckel (?).
+polyedra, Haeckel.
+Siphonosphæra macrosiphonia, Haeckel.
+Saturnalis annularis, Haeckel.
+Saturnulus circulus, Haeckel.
+Saturninus triplex, Haeckel.
+Staurosphæra philippi, Haeckel.
+Hexalonche xenophanis, Haeckel.
+Hexacontium acophænum, Haeckel.
+papillosum, Haeckel.
+Hexadendron bipinnatum, Haeckel.
+Acanthosphæra insignis, Haeckel.
+capillaris, Haeckel.
+Heliosphæra polygonaria, Haeckel.
+Cladococcus pinetum, Haeckel.
+Haliomma favosum, Haeckel.
+datura, Haeckel.
+enneaxiphos, Haeckel.
+longispinum, Müller.
+wyvillei, Haeckel.
+Heliosoma radians, Haeckel.
+Elatomma pinetum, Haeckel.
+Diplosphæra hecagonalis, Haeckel.
+Actinomma hexagonium, Haeckel.
+capillaceum, Haeckel.
+Echinomma cidaris, Haeckel.
+Arachnopegma longispinum, Haeckel.
+Arachnosphæra dolichacantha, Haeckel.
+Spongiomma radiatum, Haeckel.
+Spongodrymus alnetinus, Haeckel.
+Octodendron pinetum, Haeckel.
+Spongosphæra quadricuspis, Haeckel.
+Rhizosphæra serrata, Haeckel.
+Cenellipsis primitiva, Haeckel.
+Druppatractus hippocampus, Haeckel.
+Spongoliva daturina, Haeckel.
+Cypassis puella, Haeckel.
+Sethodiscus phacoides, Haeckel.
+Heliosestrum craspedotum, Haeckel.
+Heliodiscus trochiscus, Haeckel.
+Porodiscus perispira, Haeckel.
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+Hymeniastrum euclidis, Haeckel.
+Euchitonia triangulum, Haeckel.
+Myelastrum decaceros, Haeckel.
+Spongotripus regularis, Haeckel.
+Stylotrochus helianthus, Haeckel.
+Sponsotrochus multispinus, Haeckel.
+Sponyaster scyllæus, Haeckel.
+Dizonium octacanthum, Haeckel.
+Trizonium dodecabelos, Haeckel.
+Tetrapyle quadricornis, Haeckel.
+Pylonium qualricorne, Haeckel.
+Tholostaurus qualrigatus, Haeckel.
+Lithelius solaris, Haeckel.
+Phorticium spironium, Haeckel.
+Actinelius primordialis, Haeckel.
+Acanthometron cylindricum, Haeckel.
+bull ferum, Haeckel.
+Zygacantha costata, Haeckel.
+Acanthonia denticulata, Haeckel.
+diplopyramis, Haeckel.
+serrulata, Haeckel.
+Xiphacantha trigonoptera, Haeckel.
+platyptera, Haeckel.
+Stauracantha tetrastaura, Haeckel.
+Lonchostaurus lanceolatus, Haeckel.
+Zygostaurus amphithectus, Haeckel.
+Xiphoptera dodecactena, Haeckel.
+Amphilonche conica, Haeckel.
+acufera, Haeckel.
+Amphibelone clavaria, Haeckel.
+Acantholonche amphipolaris, Haeckel.
+Pleuraspis ramosa, Haeckel.
+Dorataspis typica, Haeckel.
+Coscinaspis orthopora, Haeckel.
+Acontaspis furcata, Haeckel.
+Lychnaspis maxima, Haeckel.
+Icosaspis cruciata, Haeckel.
+Phractopelta hexadopora, Haeckel.
+Hexalaspis heliodiscus, Haeckel.
+Hexacolpus infundibulum, Haeckel.
+Lithocircus tarandus, Haeckel.
+Dendrocircus arborescens, Haeckel.
+Zygostephanium constrictum, Haeckel.
+Protympanium primordiale, Haeckel.
+Anthospyris aculeata, Haeckel.
+133
+1
+1
+.
 1

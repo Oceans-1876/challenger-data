@@ -1,130 +1,74 @@
 SUMMARY OF RESULTS.
-1353
-*
-T
-T
-var.
-*
-T
-S
-S
-*
-*
-*
-T
-S
-*
-S
-S
-92
-S
-T
-S
-*
-Terebratula vitrea (Born), var. minor, | FISHES :
-Philippi. S TN Acanthaphritis grandisquamis, n.g.,
-* Terebratulina cailleti, Crosse.
-n.sp.
-caput-serpentis, Linné, * Anthias megalepis, n.sp. T
-septentrionalis, Anticitharus polyspilus, n.g., n.sp.
-T
-Couthouy. SN * Antigonia capros, Lowe. T
-wyvillii, n.sp.
-Aphritis gobio, Günther.
-Waldheimia kerguelenensis, n.sp.
-Bathyanthias roseus, n.g., n.sp.
-T
-Bathythrissa dorsalis, n.g., n.sp.
-N
-TUNICATA :
-Beryx decadactylus, C.V. N
-* Amaroucium colelloides, n.sp. S
-* Brachionichthys hirsutus, Lac. S
-recumbens, n.sp.
-S
-Callionymus calauropomus,
-Rich.
-* Ascidia cylindracea, n.sp.
-S
-ST
-nigra (Savigny). SN
-kaianus, n.sp.
-placenta, n.sp.
-phasis, n.sp.
-tenera, n.sp.
-Catætyx messieri, n.g., n.sp.
-Ascopera gigantea, n.g., n.sp.
-s
-Centrophorus foliaceus, n.sp. N
-pedunculata, n.g., n.sp.
-S
-squamulosus, n.sp.
-N
-Colella murrayi, n.g., n.sp.
-S
-Centropristis annularis, n.sp.
-ramulosa, n.g., n.sp.
-pleurospilus, n.sp.
-T
-Cynthia pallida, Heller. ST
-Centroscyllium granulatum, n.sp. S
-* Cystodytes draschii, n.sp.
-* Ceratias bispinosus, n.sp.
-* Didemnum savignii, n.sp.
-carunculatus, n.sp. N
-Ecteinascidia
-crassa, n.g., n.sp.
-T
-Champsodon vorax, Günther.
-Leptoclinum edwardsi, n.sp.
-* Chaunax pictus, Lowe. T
-propinquum, n.sp.
-* Chlorophthalmus nigripinnis, n.sp. s
-speciosum, n.sp.,
-productus, n.sp.
-T
-asperum, nov.
-S T * Congromuræna guttulata, n.sp. T
-S
-Cyttus abbreviatus, Hector. S
-Molgula pedunculata, n.sp. s
-Diplacanthopoma brachysoma, n.g.
-Polycarpa minuta, n.sp.
-quadrata, n.sp. T
-* Echeneis albescens, Schleg.
-radicata, n.sp.
-s
-* Etelis sp. (?). S
-Psammaplidium subviride, n.g., n.sp. S Gonostoma elongatum, n.sp. T
-Pyrosoma giganteum, Lesueur (surface.)
-gracile, n.sp.
-S T
-microdon, n.sp.
-S TN
-Styela convexa, n.sp.
-s
-* Haloporphyrus inosimæ, n.sp. N
-grandis, n.sp.
-* Heliastes roseus, n.sp.
-T
-radicosa, n.sp.
-S
-* Hippocampus guttulatus, Cuv. T
-(?) clava, n.sp. (genus doubtful) N Læops parviceps, n.g., n.sp. S T
-T
-T
-S
-*
-T
-S
-S
-var.
-tenue, n.sp.
-*
-S
-n.sp. T
-T
->
-N
-S
->>
+1357
+Ranella fijiensis.
+Ringicula peracuta.
+Rissoa (Setia) tenuisculpta.
+Scissurella aëdonia.
+crisputa.
+Seguenzia monocin pulata.
+Trachysma delicatum.
+Triforis perversa.
+Trochus (Margarita) rhysus.
+(Ziziphinus) striatus
+Trophon acanthodes.
+Adeonella distoma.
+Bicellaria pectogemma.
+Bugula versicolor.
+Caberea darwinii (4).
+Carbasea ovoidea (3).
+Catenicella elegans.
+Cellepora bicornis.
+eatonensis.
+Haswellia auriculata.
+Iilmonea milnenna. .
+Membranipora galeata.
+Menipea benemunita.
+Mucronella ventricosa.
+Pasythea eburnea (3).
+Retepora imperati.
+Terebratula uva.
+vitrea.
+Terebratulina caput-serpentis.
+Waldheimia kerguelenensis.
+Leptoclinum tenue.
+Aphritis gobio.
+Champsodon voras (3).
+Lioscorpius longiceps.
+Lophius naresii.
+Lotella marginata (4).
+Macrurus fasciatus (3).
+Neobythites macrops.
+Scorpæna percoiles (3).
+Sebastes oculatus.
+Synaphobranchus pinnatus.
+The majority of these were taken at two Stations, while 32 species were taken at
+three Stations, 13 at four Stations, 6 at five Stations, 3 at six Stations, 3 at seven Stations,
+and 1 at eight Stations.
+Of the 485 species taken in this zone between 100 and 500 fathoms, as well as in
+deeper or shallower zones (those without asterisks), 12 species (or 2 per cent.) were
+obtained in the zone beyond 2500 fathoms, 25 species (or 5 per cent.) in the zone
+between 2000 and 2500 fathoms, 51 species (or 11 per cent.) in the zone between 1500
+and 2000 fathoms, 102 species (or 21 per cent.) in the zone between 1000 and 1500
+fathoms and 149 species (or 31 per cent.) in the zone between 500 and 1000 fathoms ;
+lists of these have already been given (see pages 1282, 1290, 1300-1301, 1312–13,
+1325-27).
+The following 290 species (or 60 per cent.) were taken in depths less than 100
+fathoms, at the surface, or on the shore :-
+Desmaciilon ramosa.
+Echinoclathria carteri.
+Petrosia similis.
+Stylocordyla stipitata.
+Suberites carnosus.
+Tedania massa.
+tenuicapitata.
+Anthastra communis.
+(SUMMARY OF RESULTS CHALL. EXP.-1894.)
+Azorica pfeifferæ.
+Tetilla grandis.
+Polylophus philippinensis.
+Rossella antarctica.
+Semperella schultzei.
+Eilhardia schulzei.
+Leuconia fruticosa.
+Leucosolenia poterium.
+171

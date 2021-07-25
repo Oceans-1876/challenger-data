@@ -1,142 +1,124 @@
 SUMMARY OF RESULTS.
-1373
+1377
+S
 T
 T
-*
 T
 S
->
-*
+T
+T
+S
+T
+29
+T
+T
+s
+>>
+S
+T
+T
+2 02
+T
+) >
+S
+T
+* Ophiobyrsa rudis, n.g., n.sp.
+Ophiocamax vitrea, n.g., n.sp.
+* Ophiochạta setosa, Lütken. T
+* Ophiocnida pilosa, n.sp.
+ST
+* Ophiocoma echinata (Agassiz).
+erinaceus, Müller and Tros-
+chel.
+pica, Müller and Troschel. T
+pumila, Lütken. N
+scolopendrina (Lamarck).
+ST
+* Ophiocten sericeum, Ljungman.
+Ophioglypha ambigua, n.sp. S
+brevispina, Smith.
+costata, n.sp.
+deshayesi, n.sp.
+hexactis, Smith.
+intorta, n.sp.
+kinbergi, Ljungman. ST
+lymani, Ljungman. S
+multispina, Ljungman.
+sarsii (Lütken), Lyman. N
+sinensis Lyman.
+* Ophiogymna elegans, Ljungman.
+Ophiolepis annulosa (Blainville). T
+cincta, Müller and Troschel.
+T
+* Ophiomastix caryophyllata, Lütken.
+mixta, Lütken.
+sp. (?). T
+* Ophiomaza cacaotica, Lyman.
+* Ophiomusium flabellum, n.sp.
+S
+Ophiomyza australis, Lütken. ST
+flaccida, Lütken. TN
+vivipara, Studer.
+S
+Ophionereis dubia (Müller and Troschel).
+Τ Ν
+porrecta, Lyman.
+reticulata (Say). TN
+* Ophionereis schayeri (Müller and Tros-
+chel). ST
+* Ophiopholis aculeata, Gray. N
+Ophiostigma africanum, n.sp.
+Ophiothrix angulata, Ayres. Τ Ν
+aristulata, n.sp.
+berberis, n.sp.
+cæspitosa, n.sp.
+capillaris, n.sp.
+ciliaris (Lamarck).
+exigua, Lyman.
+longipeda, Müller and Tros-
+chel. T
+martensi, Lyman. T
+melanosticta, Grube.
+nereidina (Lamarck).
+propinqua, Lyman.
+purpurea, Martens.
+pusilla, Lyman. T
+stelligera, Lyman.
+striolata, Grube. T
+suensonii, Lütken. N
+triglochis, Müller and Tros-
+chel. S
+trilineata, Lütken. T
+virgata, Lyman. T
+* Ophiozona impressa (Lütken). T
+Ophiura appressa, Say.
+T
+brevispina, Say. T
+cinerea (Müller and Troschel).
+T
+tongana (Lütken). S
+* Pectinura arenosa, n.sp.
+S
+gorgonia (Müller and Troschel).
+T
+maculata, Verrill. s
+rigida, Lyman.
+stellata (Ljungman).
+T
+19
 S
 .
-S
+)
+»
+N
 T
-T
-97
-S
-T
-* Idia pristis, Lamouroux. T
-CRINOIDEA :
-Lafoëa fruticosa, Sars. S
-* Actinometra belli, n.sp.
-T
-* Lictorella halecioides (Allman). T
-coppingeri, Bell. T
-Lytocarpus longicornis (Busk). T
-distincta, n.sp.
-racemiferus, n.sp.
-divaricata, n.sp.
-T
-secundus, Kirchenpauer. T T *
-duplex, n.sp.
-T
-spectabilis, n.sp.
-elongata, n.sp.
-T
-* Obelia geniculata (Linné). S
-fimbriata (Lamarck). T
-* Plumularia armata, n.sp.
-lineata, n.sp.
-T
-dolichotheca, n.sp.
-T
-littoralis, n.sp.
-T
-flabellum, n.sp.
-S
-maculata, n.sp.
-T
-Schizotricha multifurcata, n.g., n.sp.
-S
-meridionalis (Agassiz). T
-unifurcata, n.g., n.sp.
-multibrachiata, n.sp.
-T
-* Sciurella indivisa, n.g., n.sp.
-T
-multiradiata (Linné). T
-* Sertularia abietina, Linné. N
-nobilis, n.sp.
-T
-annulata, n.sp.
-S
-parvicirra (Müller). S T
-articulata, n.sp.
-paucicirra, Bell.
-cylindritheca, n.sp.
-pectinata (Retzius). T
-echinocarpa, n.sp.
-pulchella (Pourtalès).
-exserta, n.sp.
-s
-quadrata, n.sp.
-gracilis, n.sp.
-S
-regalis, n.sp.
-implexa, n.sp.
-rotalaria (Lamarck). T
-integritheca, n.sp.
-sentosa, n.sp.
-T
-operculata, Linné.
-simplex, n.sp.
-T
-polyzonias, Linné. S
-solaris (Lamarck). T
-secunda, n.sp.
-S
-trichoptera (Valenciennes,
-Synthecium alternans, n.sp. S
-Müller) s
-campylocarpum, n.sp.
-S
-* Thecocladium flabellum, n.g., n.sp.
-Antedon anceps, n.sp.
-* Thuiaria cupressina (Linné). N
-antarctica, n.sp.
-S
-pectinata, n.sp.
-S
-balanoidles, n.sp.
-T
-quadridens, n.sp.
-carinata (Lamarck). T
-vincta, n.sp.
-clemens, n.sp.
-T
-Thyroscyphus ramosus, Allman. T
-compressa, n.sp. T
-simplex, n.sp.
-T
-conjungens, n.sp.
-T
-denticulata, n.sp.
-T
-MEDUSÆ:
-disciformis, n.sp. T
-Pegantha pantheon, n.g., n.sp.
-dübeni, Böhlsche.
-* Polycolpa forskalii, n.g., n.sp.
-elegans, Bell. T
-(SUMMARY OF RESULTS CHALL. EXP.—1894.)
-"
-T
-T
-S
+92
 >
 T
->
-s
-2
-valida, n.sp.
 T
-S
-T
-S
-*
-T
-*
+.
 T
 T
+07
 T
-173
+T

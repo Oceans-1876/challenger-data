@@ -1,39 +1,62 @@
-962
+964
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 246.
-MonAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Suberites senilis, n.sp. One specimen ; obtained at no other locality.
-HEXACTINELLIDA (Schulze, Zool. pt. 53).
-Caulophacus sp. (?). One specimen.
-Hyalonema (Stylocalyx) depressum, n.sp. Ten specimens and fragments ; obtained
-also at Station 271, 2425 fathoms.
-PENNATULIDA (Kölliker, Zool. pt. 2).
-Umbellula simplex, n.sp. One specimen ; obtained at no other locality.
-ANTIPATHARIA (Brook, Zool. pt. 80).
-Bathypathes patula, n.g., n.sp. One specimen ; obtained also at Stations 195, 218
-(var.), and 244.
-alternata, n.g., n.sp. One specimen ; obtained at no other locality.
-lyra, n.g., n.sp.
-One specimen ; obtained also at Station 181.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Dytaster spinosus, n.g., n.sp.
-Obtained at no other locality.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha convexa, n.sp. Three specimens ; obtained also at Stations 241
-and 346.
-HOLOTHURIOIDEA (Théel, Zool. pt. 13).
-Deima validum, n.g., n.sp. Several specimens ; obtained at no other locality. The
-only other species of the genus (Deima fastosum) was taken
-at Station 216A.
-ANNELIDA (MʻIntosh, Zool. pt. 34).
-Melinna pacifica, n.sp. Several specimens ; obtained at no other locality.
-OSTRACODA (Brady, Zool. pt. 3).
-Bairdia abyssicola, n.sp. Obtained at no other locality.
-minima, n.sp. Obtained also at Port Jackson.
-Cythere dictyon, n.sp. For distribution see Station 24.
-acanthoderma, n.sp. Obtained also at Stations 64, 73, 146, 191A, 296,
-and 302.
-dasyderma, n.sp. For distribution see Station 5.
-circumdentata, n.sp. Obtained also at Station 276, 2350 fathoms.
-Cytheropteron mucronalatum, n.sp. Obtained also at Stations 70, 224, 296, 300,
-and 302.
+FISHES (Günther, Zool. pt. 57).
+Macrurus liocephalus, n.sp. Two specimens ; obtained also at Station 237.
+armatus, Hector. Three specimens ; obtained also at Stations 146, 147,
+157, 158, and 271.
+Synaphobranchus bathybius, n.sp. One specimen ; obtained also at Stations 146
+and 237.
+In addition to the foregoing, the following are recorded in the Station-book :—Three
+Actinians, several specimens of Stephanoscyphus on pumice-stones, three Ophiurids
+(besides Ophioglypha), four Asteroidea belonging to three species (only one given
+above), two Polyzoons, and another Brachiopod (besides Discina).
+Excluding Protozoa, about 150 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 48 species, of which 38 are new to science,
+including representatives of 6 new genera ; 19 of the new species were not obtained
+elsewhere.
+ORGANISMS FROM
+THE DEPOSIT.
+The following species of Pteropoda and Foraminifera were observed in the deposit
+from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+PTEROPODA (Pelseneer, Zool. pt. 65).
+Clio pyramidata, Linné.
+sp. (?).
+sp. (3).
+sp. (?).
+FORAMINIFERA (Brady, Zool. pt. 22). — The pelagic species, which make up about
+62 per cent. of the carbonate of lime present in the deposit, are marked thus .
+Biloculina depressa, d'Orbigny.
+Rhablammina linearis, Brady.
+irregularis, d'Orbigny.
+ringens (Lamarck).
+Aschemonella catenata (Norman).
+Spiroloculina tenuis (Czjzek).
+ramuliformis, Brady.
+Miliolina circularis (Bornemann).
+gracilis (d'Orbigny).
+Rhizammina algæformis, Brady.
+oblonga (Montagu).
+seminulum (Linné).
+Haliphysema sp. ().
+Pelosing cylindrica, Brady.
+Reophax adunca, Brady.
+dentaliniformis, Brady.
+Dendrophrya (?) sp.
+difflugiformis, Brady.
+Syringammina (?) sp.
+distans, Brady.
+Technitella (1) sp.
+guttifera, Brady.
+Sorosphæra confusa, Brady.
+nodulosa, Brady.
+Saccammina socialis, Brady.
+spiculifera, Brady (3).
+sphærica, Sars.
+Haplophragmium agglutinans (d'Orbigny).
+Hyperammina ramosa, Brady.
+globigeriniforme (Parker and
+vagans, Brady.
+Jones)
+sp. (?).
+9

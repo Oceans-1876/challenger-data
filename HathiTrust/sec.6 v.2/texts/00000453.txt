@@ -1,77 +1,89 @@
 SUMMARY OF RESULTS.
-1181
-Lagena marginata (Walker and Boys).
-orbignyana (Seguenza).
-striata (d’Orbigny).
-sulcata (Walker and Jacob).
-Nodosaria calomorpha, Reuss.
-Patellina corrugata, Williamson.
-FALKLAND
-ISLANDS.
-Truncatulina lobatula (Walker and Jacob).
-Pulvinulina karsteni (Reuss).
-Rotalia beccarii (Linné).
-Polystomella crispa (Linné).
-macella (Fichtel and Moll).
-striatopunctata (Fichtel and Moll).
-Surface Organisms.—The water in Port Stanley, Port William, and near the land ORGANISMS FROM
-SURFACE-NETS.
-was of a green colour, doubtless arising from the presence of great numbers of Diatoms
-(chiefly Coscinodiscus). In Stanley Harbour the tow-net yielded immense numbers of
-small beautiful Medusæ.
-Station 317 (Sounding 467), Falkland Islands to Rio de la Plata (see Chart 42 Station 317.
+1185
+STATION 318.
+.
+Challengeria thomsoni, Murray. AMPHIPODA (Stebbing, Zool. pt. 67).
+Gazelletta studeri, Haeckel.
+Podocerus falcatus (Montagu).
+Primno sp. (?).
+OSTRACODA (Brady, Zool. pt. 3).
+Halocypris atlantica, Lubbock. SCHIZOPODA (Sars, Zool. pt. 37).
+Thysanoëssa gregaria, n.sp.
+COPEPODA (Brady, Zool. pt. 23).
+Oithona challengerii, n.sp.
+TUNICATA (Herdman, Zool. pt. 76).
+Goniopsyllus rostratus, n.g., n.sp.
+Doliolum ehrenbergi, Krohn.
+Corycæus varius, Dana.
+sp., (blastozooids).
+In addition, the following are recorded in the note-books :-Peridinium, Globigerina,
+Sagitta, Tomopteris, Cypridina, Hyperids, Euphausia, Atlanta, Salpa. The tow-nets
+at the trawl and weights yielded many deep-sea Radiolaria (Challengeria, Tuscarora, &c.),
+along with Crustaceans and very large Sagittæ (some over two inches in length).
+Station 319 (Sounding 469), Falkland Islands to Rio de la Plata (see Chart 42 Station 319.
 and Diagram 22).
-February 8, 1876; lat. 48° 37' S., long. 55° 17' W.
-Temperature of air at noon, 50°:3; mean for the day, 48°:9.
+February 12, 1876 ; lat. 41° 54' S., long. 54° 48' W.
+Temperature of air at noon, 62°:8; mean for the day, 61°:3.
 Temperature of water :-
+o
 Surface,
 25 fathoms,
 50
-46.7
-42:3
-40.0
-39.6
-39.3
 75
-200 fathoms,
+100
+125
+150
+175
+200
+225
+250
+275
 300
-400
-500
-Bottom,
+59.5
+52.2
+48.2
+44.8
+43.0
+41:6
+40.6
+40.0
+39.5
+39.2
+39.0
+38.8
 38.6
-38:0
-37.4
-36.8
-35•7
-100
-Density at 60° F. :-
-Surface,
-25 fathoms,
-50
-100
-. 1.02524
-. 1.02525
-. 1.02520
-1.02522
-200 fathoms,
-300
-400
+400 fathoms,
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
 Bottom,
-1.02523
-1:02523
-1:02538
-1:02531
-.
-.
-Depth, 1035 fathoms; deposit, Sandy Gravel, containing 14:61 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 9 A.M. shortened and furled sails, and proceeded under steam to sound and trawl.
-At 9.30 A.M. stopped and sounded in 1035 fathoms. The sounding-tube contained no
-trace of the bottom. At 11 A.M. put trawl over and veered 1600 fathoms. Took serial
-temperatures down to 500 fathoms. The carbonic acid was determined in bottom water,
-and amounted to 38.5 milligrammes per litre. At 3 P.M. commenced heaving in trawl,
-but at 3.55 P.m. trawl-rope carried away after the weights had come in. The rope
-appeared much chafed, indicating the probable stony nature of the bottom. In the
-tow-net attached to the weights were found a few specimens and some of the deposit,
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
-149
+38:1
+37.6
+37:1
+368
+36.8
+36.8
+36.8
+36.8
+36.8
+36.8
+36.8
+36.8
+32:7
+>
+9)
+9
+Density at 60° F. at surface, 1.02555; bottom, 1.02552.
+Depth, 2425 fathoms ; deposit, Blue Mud, containing 6:41 per cent. of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 5 A.M. got up steam. At 6.25 A.M. shortened and furled sails, and proceeded
+under steam to sound. At 7 A.M. sounded in 2425 fathoms. Took serial temperatures
+1

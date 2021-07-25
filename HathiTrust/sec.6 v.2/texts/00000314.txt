@@ -1,104 +1,62 @@
-1060
+1064
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 274.
+STATION 275.
+Depth, 2610 fathoms ; deposit, Red Clay, containing only a trace of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 1.15 P.M. shortened and furled sails, and got up steam to sound. At 2 P.M.
+sounded in 2610 fathoms. The deposit was of a darker chocolate colour than any
+hitherto
+obtained, and contained a very large number of crystals of phillipsite formed in situ at
+the bottom. Obtained serial temperatures down to 1500 fathoms. At 5 P.M. completed
+observations and made all plain sail. Flocks of terns, man-of-war birds, and gannets
+were seen.
+Distance at noon from Point Venus, Tahiti, 378 miles. Made good 70 miles.
+Amount of current 9 miles, direction S. 63º W.
+:
+Solenosphæra megalactis and Challengeron willemoesië were observed among the
+Radiolaria in the deposit from this Station.
 1
-Trigonactura rhopalastrella, Haeckel.
-Astractura clavigera, Haeckel.
-Archidiscus polythalamus, Haeckel.
-Ascodiscus octogonus, Haeckel.
-spinosum, Haeckel.
-Stylodictya centrospira, Haeckel.
-Hexalastrum palmanthum, Haeckel.
-Triopyle trigona, Haeckel.
-Discozonium trigonium, Haeckel.
-Spongotripus ypsilon, Haeckel.
-Stylotrochus geddesii, Haeckel.
-Dictyocoryne profunda, Ehrenberg.
-tetradiscus, Haeckel.
-Spongaster quadratus, Haeckel.
-Larcarium amphistylum, Haeckel.
-Coccolarcus platellipsis, Haeckel.
-Dizonium transversum, Haeckel.
-Tetrapyle turrita, Haeckel.
-Tetrapylonium pantellipticum, Haeckel.
-Staurotholus octostylus, Haeckel.
-Tholonium sphæronium, Haeckel.
-Zonarium quadrispinum, Haeckel.
-Larcospira qualrangula, Haeckel.
-Tessaraspis concreta, Haeckel.
-Archicircus princeps, Haeckel.
-monostephus, Haeckel.
-primordialis, Haeckel.
-Dendrocircus elegans, Haeckel.
-Cortina dendroides, Haeckel.
-Clathrocircus multiforis, Haeckel.
-Cortiniscus tripodiscus, Haeckel.
-Stephaniscus tetrapoilius, Haeckel.
-Plectocoronis anacantha, Haeckel.
-Podocoronis cortiniscus, Haeckel.
-Toxarium circospyris, Haeckel.
-Microcubus dodecastoma, Haeckel.
-Octotympanum arborescens, Haeckel.
-Triceraspyris tripodiscus, Haeckel.
-Cephalospyris triangulata, Haeckel.
-Dorcadospyris dentata, Haeckel.
-antilope, Haeckel.
-Aegospyris æquispina, Haeckel.
-Elaphospyris capricornis, Haeckel.
-Gorgospyris medusetta, Haeckel.
-Dictyospyris spinulosa, Ehrenberg.
-quadriloba, Haeckel.
-Tholospyris cupola, Haeckel.
-Phormospyris tridentata, Haeckel.
-Lamprospyris huxleyi, Haeckel.
-Nephrospyris nephridium, Haeckel.
-Botryopera cyrtoloba, Haeckel.
-Cannobotrys sagittalis, Haeckel.
-cortina, Haeckel,
-Botryopyle dictyocephalus, Haeckel.
-Acrobotrys disolenia, Haeckel.
-Lithobotrys mascula, Haeckel.
-Bothryocyrtis theocampe, Haeckel.
-Tripodiscium ramosum, Haeckel
-Euscenium plectaniscus, Haeckel
-Cla loscenium ancoratum, Haecke.
-Archiscenium quadrispinum, Haeckel.
-Pteroscenium pinnatum, Haeckel.
-Archipera multicornis, Haeckel.
-Peripyramis spongiosa, Haeckel.
-Phænoscenium polypodium, Haeckel.
-Carpophæna hexacorethra, Haeckel.
-Halicapsa hystrix, Haeckel.
-Dictyophimus triserratus, Haeckel.
-Lithomelissa bütschlii, Haeckel.
-Psilomelissa calvata, Haeckel.
-Clathrocanium reginæ, Haeckel.
-Callimitra emma, Haeckel.
-Clathrocorys giltschii, Haeckel.
-Lychnodictyum uyrillei, Haeckel.
-scaphopodium, Haeckel.
-Sethophormis hexalactis, Haeckel.
-rotula, Haeckel.
-aurelia, Haeckel.
-Sethamphora costata, Haeckel.
-Acanthocorys hexapodia, Haeckel.
-Anthocyrtium chrysanthemum, Haeckel.
-flosculus, Haeckel.
-Clistophæna pyramilalis, Haeckel.
-polyolena, Haeckel.
-Sethocyrtis oxycephalis, Haeckel.
-Sethocorys patrocli, Haeckel.
-Lophophæna liothorar, Haeckel.
-Sethocapsa pyriformis, Haeckel.
-Dictyoceras insectum, Haeckel.
-Pteropilium eques, Haeckel.
-Pterocanium orcinum, Haeckel.
-Podocyrtis scaphopodia, Haeckel.
-Theopera fusiformis, Haeckel.
-Cycladophora pantheon, Haeckel.
-Lamprocyclas reginx, Haeckel.
-Theocyrtis microtheca, Haeckel.
-Tricolocampe cylindrica, Haeckel.
-urnula, Haeckel.
-arcta, Haeckel.
-Theocampe sphxrothorax, Haeckel.
+ORGANISMS FROM
+SURFACE NETS.
+Surface Organisms.—The following species of Radiolaria are recorded from the surface
+at this Station :
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Hystrichaspis fruticata, Haeckel.
+Zonaspis cingulata, Haeckel.
+Sethoconus trochus, Haeckel.
+In addition, the following are recorded in the note-books :-Peridinium, Pyrocystis,
+Diatoms, Coccospheres, Coccoliths, Amoeba and small ciliated organisms, Velella, Porpita,
+Physalia, Diphyes, Sagitta, Lepas attached to a piece of wood, on which was also a small
+crab (Nautilograpsus), Phronimids, Halobates, large Carinaria without the head (several
+others were seen from the ship), cuttle-fish, Appendicularia, small Scopelids and other
+fishes. Coryphæna and flying fishes were observed.
+1
+1
+STATION 276.
+Station 276 (Sounding 418), Sandwich Islands to Tahiti (see Chart 38 and
+Diagram 19).
+September 16, 1875; lat. 13° 28' S., long. 149° 30' W.
+Temperature of air at noon, 739:8; mean for the day, 76°:4.
+Temperature of water:-
+80:0
+9
+Surface,
+10 fathoms,
+20
+30
+40
+78.9
+78.8
+78.7
+78.6
+50 fathoms,
+60
+70
+80
+90
+78.4
+78.2
+77.7
+76.4
+75.1
+!

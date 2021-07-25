@@ -1,125 +1,137 @@
-1352
+1354
 THE VOYAGE OF H.M.S. CHALLENGER.
+S
+T
+T
+T
+T
+T
+T
+hectori, n.sp.
 s
+T
 S
-var.
-S
-var.
-S
-*
+s
+.
+)
+99
+T
 N
-S
 *
-1
-92
+Lepidopsetta maculata, n.g., n.sp.
+Lepidopus tenuis, n.sp.
+N
+Lepidotrigla spiloptera, n.sp.
+* Lioscorpius longiceps, n.g., n.sp.
+Lophius naresii, n.sp.
+* Lotella marginata, n.sp. s
+* Lycodes macrops, n.sp.
+s
+* Macruronus nova-zelandia (Hector). S
+Macrurus armatus, Hector. S TN
+australis (Rich.). S
+carinatus, n.sp.
+denticulatus, Rich.
+fasciatus, n.sp.
+japonicus, Schlegel. N
+lævis, Lowe. T
+leptolevis, n.sp.
+longibarbis, n.sp.
+T
+macrochir, n.sp.
+N
+microlepis, n.sp.
+T
+nasutus, n.sp.
+parallelus, 1.sp.
+SN
+villosus, n.sp.
+Τ Ν
+* Malthe vespertilio, Linné. T
+* Monacanthus occidentalis, Günther. T
+tessellatus, n.sp.
+Myripristis kaianus, n.sp.
+Myxine australis (Jenyns). S N
+Nematops microstoma, n.g., n.sp.
+T
+Neobythites macrops, n.sp.
+ocellatus, n.sp.
+T
+* Nettastoma parviceps, n. sp.
+N
+* Notacanthus bonapartii, Risso. s
+Notothenia longipes, Steindachner.
+mizops, n.sp.
+s
+* Ophidium muranolepis, n.sp.
+T
+* Ostracion quadricornis, Linné. T
+* Paraliparis membranaceus, n.sp.
+Percis allporti, Günther. s
+* Peristethus liorhynchus, Günther.
+N
+* Peristethus moluccense, Bleeker,
+murrayi, n.sp.
+truncatum, n.sp.
+T
+* Physiculus kaupi, Poey. N
+* Pæcilopsetta colorata, n.g.,n.sp.
+Polymixia nobilis, Lowe. N
+Propoma roseum, n.g., n.sp.
+T
+Pseudophycis bacchus (Forst.). S
+* Pseudorhombus boops, Hector. S
 S
+ocellatus, n.sp.
+* Raja nitida, n.sp.
+s
+* Rhomboidichthys cornutus, n.sp.
+T
+* Samaris maculatus, n.sp.
+T
+* Saurus kaianus, n.sp.
+T
+Scombrops chilodipteroides, Bleeker.
+Scopelus dumerilii, Bleeker.
+T
+Scorpana cruenta, Solander. S
+percoides, Solander. ST
+Scyllium canescens, n.sp.
 S
-Kinetoskias pocillum, n.sp.
-ST
-* Salicornaria bicornis, Busk.
-divaricata, n.sp.
-S
-* Lichenopora fimbriata, Busk.
-magnifica, n.sp.
-ST
-hispida (Fleming)
-holdsworthii, Busk.
-S Schizoporella auriculata, Hassall, var.
-alba, nov.
+* Sebastes hexanema, n.sp. T
+macrochir, n.sp.
+N
+oculatus, C.V. S
+percoides, Rich. S
+Setarches fidjiensis, n.sp.
+T
+* Solea kaiana, n.sp.
+T
+* Solenognathus fasciatus, n.sp.
+* Spinax granulosus, n.sp.
+s
+* Stomias affinis, n.sp.
+T
+Synaphobranchus brevidorsalis, n.sp. TN
+pinnatus (Gronovius).
 TN
-S
-Membranipora albida, Hincks.
-crassimarginata (Hincks),
-elegans (d'Orbigny). S
-S
-marsupifera, n.sp.
-var. incrustans, nov. S
-galeata,
-Busk,
-nivea, n.sp.
-S
-furcata, nov. SN Scrupocellaria pilosa (Audouin). S
-galeata,
-Busk,
-Smittia graciosa, n.sp.
-jacobensis, n.sp. S T
-multifida, nov.
-spinosa, d'Orbigny. S
-marionensis, Busk
-Menipea aculeata (d’Orbigny).
-orotavensis, n.sp.
-benemunita, n.sp.
-S
-transversa, n.sp.
-S
-flagellifera, n.sp.
-s
-* Supercytis digitata, d’Orbigny. S
-marionensis, n.sp.
-S
-Tessaradoma boreale (Busk). T
-Micropora coriacea (Esper). SN * Tubucellaria hirsuta (Lamouroux). S
-S
-uncifera, n.sp.
-Turritigera stellata, n.g., n.sp.
-* Microporella ciliata (Pallas). S
-Vincularia gothica, d’Orbigny. S
-malusii (Andouin).
-RHABDOPLEURA :
-Mucronella castanea, n.sp.
-rostrigera, n.sp.
-Rhabdopleura normani, Allman (on
-tricuspis, Hincks.
-Lophohelia). S
-S
-ventricosa, var. multispinata, CEPHALODISCUS :
-Busk. S
-* Cephalodiscus dodecalophus, 1.g., 1.sp.
-(Phylactella ?) canali fera,
-BRACHIOPODA :
-n.sp.
-N
-Myriozoum marionense, n.sp.
-s
-* Crania sp. (?). N
-Onchopora sinclairi, Busk. s
-Discina atlantica, King.
-STN
-* Pasythea eburnea (Smitt). T
-* Kraussina pisum (Val.apud Lamarck). S
-* Porella lævis,
-subcompressa, Magasella incerta, n.sp.
+* Trachichthys intermedius, Hector. S
+* Triacanthodes anomalus, Schlegel.
+* Trichiurus lepturus, Linné. N
+* Trigla leptacanthus, n.sp.
 T
-Hincks. T
-* Megerlia willemöesi, p.sp.
-S
-* Porina proboscidea, n.sp.
-Platydia anomioides (Scacchi).
-S
-Pustulopora proboscidea, M.-Edwards. S
-* Rhynchonella nigricans (Sowerby), var.
-Retepora atlantica, n.sp.
-pixydata, nov. S
-imperati, Busk.
-Τ Ν
-Terebratella frielii, n.sp.
-Τ Ν
-margaritacea, n.sp. T * Terebratula cubensis, Pourtalès.
-tessellata, Hincks, var. pubens,
-moseleyi, n.sp.
-uva, Broderip.
-S
+Uranoscopus kaianus, n.sp. T
+* Urolophus kaianus, n.sp.
 T
-S
-1
-S
-var.
+* Xenodermichthys nodulosus,n.g., n.sp. N
 T
-N
-T
-s
 *
-s
-nov.
-s
-1
+T
+v2
+T
+S
+S
+*
+T
+S
+T

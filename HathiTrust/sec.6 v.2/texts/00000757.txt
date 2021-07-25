@@ -1,182 +1,182 @@
 SUMMARY OF RESULTS.
-1475
-Astrocyclia-continued.
-rotula, 879, 1217.
-solaster, 1022.
-Astrogonium, 418, 1174.
-longimanum, 118, 165.
-Astrolonche,
-bicruciata, 1032.
-pinnata, 1218.
-Astrolophus,
-solaris, 1112.
-stellaris, 1095
-Astronesthes,
-niger, 324, 1263, 1280, 1282.
-Astronyx,
-loveni, 224, 899, 1335, 1358, 1376.
-Astropecten, 110, 399, 915.
-acanthifer, 746, 1334.
-brasiliensis, 343, 374, 1374, 1423.
-brevispinus, 898, 1334.
-cingulatus, 357, 1334.
-granulatus, 720, 1374.
-hermatophilus, 270, 1334.
-imbellis, 788, 1334.
-japonicus, 906, 912, 923, 1374,
-1423.
-mesactus, 393, 1374.
-monacanthus, 785, 1374.
-pectinatus, 531, 537, 556, 1374,
-1423.
-polyacanthus, 556, 794, 859, 906,
-923, 1374, 1423.
-pontoporæus, 407, 1374.
-velitaris, 762, 859, 1374, 1423.
-zebra, 694, 1374.
-var. rosea, 694, 1374.
-Astropeplus, 1360.
-pulcher, 305, 1329.
-Astrophacus,
-apollinis, 879.
-asteriscus, 1011, 1039, 1045.
-cingillum, 879.
-phacodiscus, 167.
-trochiscus, 1268.
-Astrophyton, 85, 379.
-costosum, 375, 1376.
-exiguum, 721, 819, 1376, 1423.
-Astropyga,
-pulvinata, 721, 995, 1378, 1423.
-Astrorhiza, 522, 604, 610.
-angulosa, 211, 285, 426, 449,
-498, 581.
-arenaria, 215, 423, 449, 581.
-crassatina, 511.
-granulosa, 211, 285, 498.
-Astroschema,
-brachiatum, 193, 1335.
-horridum, 614, 1317.
-rubrum, 1157, 1335.
-saliz, 614, 1317.
-tumidum, 746, 1335.
-Astrosestrum,
-acraspedum, 1217.
-echinastrum, 1039.
-ephyra, 1031, 1039, 1050, 1055,
-1059.
-floscula, 1206.
-nauphanta, 1015, 1022.
-octacanthum, 879.
-pelagium, 1039, 1045.
-Astrosphæra,
-hexagonalis, 1038, 1045, 1136.
-sideræa, 1017.
-splendens, 1250.
-stellata, 1061.
-Astrotoma, 459.
-agassizii, 458, 484, 1148, 1151,
-1155, 1166, 1169, 1335, 1355,
-1358, 1376.
-murrayi, 752, 1335.
-Astrurus, 1361.
-crucicauda, 470, 1340.
-Astylus, 1327.
-subviridis, 839, 1316.
-Atelecrinus,
-balanoides, 357, 1333.
-wyvillii, 636, 1317.
-Atelecyclus, 1441.
-Atergatis,
-floridus, 770, 830, 1389, 1425.
-Atergatopsis,
-granulatus, 724, 1389.
-Athanas,
-veloculus, 309, 1387.
-Atherina,
-lacunosa, 659, 1416.
-Atherinichthys,
-brevianalis, 1121, 1416.
-Athoria,
-bractealis, 1095.
-Atilia (see Columbella).
-Atlanta, 137, 249, 252, 383, 425, 525,
-530, 661, 664, 672, 673, 676,
-735, 737, 742, 751, 768, 770,
-775, 799, 802, 816, 836, 845,
-848, 853, 858, 868, 869, 871,
-873, 877, 882, 884, 885, 887,
-890, 893, 916, 920, 940, 942,
-951, 953, 959, 968, 973, 975,
-977, 980, 982, 990, 994, 1018,
-1025, 1063, 1068, 1079, 1094,
-1096, 1102, 1113, 1185, 1202,
-1203, 1207, 1209, 1221, 1223,
-1227, 1237, 1256, 1260, 1264,
-1266, 1268, 1269.
-fusca, 165, 180, 195, 277, 294,
-353, 366.
-inclinata, 165, 180, 195, 353,
-366.
-inflata, 195, 294, 329,
-lesuegri, 165, 195.
-Atlanta--continued.
-peronii, 165, 180, 195, 277, 285,
-294, 353, 366.
-souleyeti, 165, 180, 195, 277,
-285, 294, 353, 366.
-Atolla,
-wyvillii, 507, 1184, 1234, 1288,
-1292.
-Atopogaster, 1429.
-aurantiaca, 544, 1414,
-elongata, 1171, 1414, 1427.
-var. pallida, 415, 1414.
-gigantea, 1171, 1414.
-informis, 1271, 1414.
-Atya,
-bisulcata, 997, 1387.
-sertata, 310, 1387.
-sulcatipes, 309, 1387.
-Atyloides,
-assimilis, 428.
-australis, 468, 482, 1385.
-serraticauda, 532, 1385.
-Atylopsis,
-dentatus, 1170, 1385.
-emarginatus, 436, 1340.
-magellanicus, 1170, 1385.
-Atylus,
-homochir, 532, 1385.
-Atys, 712, 999, 1399.
-cylindrica, 656, 1399.
-debilis, 656, 1399.
-hyalina, 656, 712, 1399, 1426.
-parallela, 656, 1399.
-(Dinia),
-dentifera, 656, 712, 1399, 1426.
-Auchenoceros, 1068.
-Aulacantha,
-cannulata, 1101, 1105.
-clavata, 1184.
-lævissima, 980.
-spinosa, 950, 953, 958, 960, 967,
-970, 973, 977, 980.
-tubulosa, 1047, 1054, 1057, 1062.
-Aulacodiscus,
-affinis, 905, 1028.
-amænus, 303.
-kilkellyanus, 303.
-petersii, 287, 303.
-polygonus, 905.
-Aulacolambrus (sce Lambrus).
-Aulactinia, 406, 1367.
-Aulactinium,
-actinelium, 1104.
-actinosphærium, 513..
-Aularia,
-ternaria, 1033, 1048, 1054, 1057,
-1062.
-trigonaria, 980.
-Aulascus, 1360.
-johnstoni, 432, 1330.
+1479
+Biloculina ringens-continued.
+var. denticulata, 195, 629,
+862, 1002.
+var. striolata, 630, 716, 862.
+sphæra, 181, 195, 261, 285, 294,
+353, 423, 449, 480, 486, 492,
+511, 580, 610, 685, 857, 1130,
+1153, 1158, 1162, 1247.
+tubulosa, 115, 133, 181, 215, 449,
+580, 640.
+Bipinnaria,
+asterigera, 836.
+Birgus,
+latro, 770, 830, 1388, 1425.
+Bithynis,
+grandimanus, 997, 1387.
+lar, 648, 757, 830, 1075,1387,1424.
+Bittium, 178, 275, 362, 396, 542, 711,
+925, 1243, 1345, 1399.
+abruptum, 275, 1345.
+aëdonium, 396, 1345.
+amblyterum, 275, 1345.
+amboynense, 765, 1399.
+cylindricum, 570, 1399.
+delicatum, 396, 1345.
+diplax, 765, 1399.
+enode, 351, 1322.
+furvum, 570, 1399.
+geinmatum, 113, 1345.
+granarium, 570, 1399.
+lacteum, 129, 1399.
+leucocephalum, 999, 1399.
+lusciniæ, 396, 1345.
+mamillanum, 352, 1322.
+oosimense, 925, 1399.
+perparvulum, 628, 710, 999, 1399,
+1426.
+philomelæ, 396, 1345.
+pigrum, 396, 1345.
+porcellanum, 684, 1345.
+pupiforme, 711, 1399.
+reticulatum, 129, 275, 1345, 1359,
+1399.
+xanthum, 711, 1399.
+Blennius,
+sanguinolentus, 314, 1416.
+tasmanianus, 574, 1416.
+Blennophis,
+webbi, 1240, 1416.
+Bolina (see Turbo).
+Bolivina,
+ænariensis, 427, 581, 686.
+amygdalæformis, 115, 686, 857.
+beyrichi, 134, 295, 581, 903.
+var. alata, 686.
+costata, 686.
+decussata, 182, 631, 1131, 1136.
+dilatata, 190, 196, 198, 286, 427.
+hantkeniana, 1071.
+karteriana, 196,354,663,903, 1071.
+Bolivina--continued.
+limbata, 630, 6:1, 686, 717, 1002,
+1225.
+lobata, 686.
+var. strigosa, 631, 686.
+nitida, 686.
+nobilis, 663, 862, 1071.
+porrecta, 182, 200, 286, 686, 1071.
+punctata, 115, 134, 145, 166,
+182, 196, 286, 354, 429, 492,
+686, 903, 949, 965, 1071, 1111,
+1131, 1154, 1201, 1217, 1225.
+pygmæa, 134, 215.
+reticulata, 166, 429, 686, 1071,
+1225.
+robusta, 166, 190, 295, 354, 424,
+581, 640, 641, 686, 903, 1158.
+schwageriana, 686.
+subangularis, 686.
+textilarioides, 134, 166, 196, 286,
+587, 589, 631, 641, 862, 937,
+1002, 1111, 1131.
+tortuosa, 196, 640.
+Boltenia, 1118, 1440, 1451.
+elegans, 222, 1414.
+legumen, 1165, 1180, 1414, 1428,
+1449.
+pachyderinatina, 599, 1414.
+Bonellia,
+suhmii, 219, 1305.
+Bopyrus, 228, 716, 772, 773, 777, 781,
+843, 968, 975, 980, 1219.
+Boreomysis, 1442, 1451.
+arctica, 1442.
+megalops, 1442.
+microps, 230, 1307.
+nobilis, 1442.
+obtusata, 900, 976, 1279, 1282,
+1341.
+scyphops, 454, 456, 509, 520, 521,
+1295, 1298, 1442, 1448.
+tridens, 1442.
+Borlasia, 1192.
+Bornella,
+excepta, 729, 1409.
+Borsonia,
+ceroplasta, 177, 1345.
+silicea, 361, 1345.
+Botellina,
+labyrinthica, 115.
+Botrylloides,
+nigrum, 245, 1414.
+perspicuum, 821, 1414.
+var, rubicundum, 821, 1414.
+tyreum, 807, 1414,
+Botryocampe,
+camerata, 880, 1041.
+inflata, 513, 1046.
+rotalia, 880.
+theocapsa, 1046, 1226.
+Botryocella,
+borealis, 512, 513.
+quadricellarts, 1051.
+tricellaris, 1265.
+Botryocyrtis,
+cerebellum, 1041, 1046, 1218.
+quinaria, 513.
+theocampe, 1041, 1046, 1060.
+Botryopera,
+cyrtoloba, 1011, 1016, 1023, 1027,
+1031, 1041, 1051, 1056, 1060.
+multiloba, 880.
+quinqueloba, 980.
+Botryopyle,
+cephalodes, 880.
+cribrosa, 512.
+dictyocephalus, 1041, 1051, 1056,
+1060.
+sethocorys, 880.
+Box, 1440.
+Bracebridgia,
+geometrica, 534, 543.
+Brachionichthys,
+hirsutus, 551, 1353.
+Brachiospyris,
+diacantha, 798.
+ocellata, 1226.
+Brachycarpus, 1429, 1451.
+audouini, 597, 1387.
+savignyi, 243, 1387.
+Brachynotus,
+(Heterograpsus),
+penicillatus, 925, 1390.
+Brachypleura,
+novæ-zealandiæ, 732, 1416, 1428.
+Brachyscelus, 892.
+acuticaudatus, 1033.
+bovallii, 1102.
+crusculum, 889, 992.
+inæquipes, 836.
+latipes, 1102.
+mediterranea, 314.
+Brada,
+mammillata, 465, 1380.
+whiteavesii, 596, 1380, 1448.
+Brama,
+raii, 617, 927, 1416.
+Branchiostoma,
+belcheri, 834, 1416.
+cultellum, 716, 1416.
+pelagicum, 991.
+Bregmaceros,
+macclellandi, 766, 1416.
+Brettia,
+australis, 767, 1323.
+cornigera, 164, 1351.
+Breynia,
+australasiæ, 695, 1378.
+Brisinga, 448, 504, 528, 883, 976, 1130,
+1452.

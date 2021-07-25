@@ -1,83 +1,138 @@
 SUMMARY OF RESULTS.
-13:25
-Aranthephyra sira (3).
-Benthesicymus altus (5).
-Gennalas parrus.
-Haliporus neptunus.
-llemipenæus semulentatus.
-Nematocarcinus gracilis
-tenuirostris.
-undulatipes.
-Uroptychus australis.
-spinimarginatus.
-Ethusa (Ethusina) gracilipes.
-Moliola watsoni.
-Vatica (Amauropsix) apora.
-Cirroteuthis meangensis.
-Bathygalus cottoides (4).
-Bathypterois longifilis.
-quadrifilis.
-Gonostoma microdon (5).
-Macrurus crassiceps.
-parallelus (4).
-rudis (3)
-Scopelus macrolepidotus.
-Sternoptyx iliaphana (3).
-Synaphobranchus pinnatus (3).
-The majority of these were taken at two Stations, while 11 were taken at three
-Stations, 4 at four Stations, and 3 at five Stations.
-Of the 225 species taken in this zone between 500 and 1000 fathoms, as well as in
-deeper or shallower zones, 17 species (or 8 per cent.) were obtained in the zone beyond
-2500 fathoms, 18 species (or 8 per cent.) in the zone between 2000 and 2500 fathoms,
-30 species (or 13 per cent.) in the zone between 1500 and 2000 fathoms, and 74 species
-(or 33 per cent.) in the zone between 1000 and 1500 fathoms ; lists of these have already
-been given (see pp. 1281-2, 1289–90, 1300, 1311-12).
-The following 149 species (or 66 per cent.) were taken in the zone between 100 and
-500 fathoms :
-Axinella erecta.
-Gellius cariluus.
-Iophon chelifer.
-Mycilla nobilis.
-Suberites mollis.
-Tedania massa.
-Vomerula esperioiiles.
-Thenea schmiiltii.
-Fairea orra.
-Rossella antarctica.
-Cerutoisis grandiflora.
-Dasygorgia axillaris.
-Sarakk crassa.
-Phellia spinifera.
-Bathyartis symmetrica.
-Caryophyllia communis.
-maculata.
-Cryptohelia pulica.
-Cyathoceras cornu.
-Deltocyathus italicus.
-Errina labiata.
-Flabellum pertum.
-(SUMMARY OF RESULTS CHALL. EXP.-1894.)
-Stenohelia profunla.
-Anteion multispinu.
-Euliocrinus semperi.
-Pentacrinus alternicirrus.
-naresianus.
-Rhizocrinus lofotensis.
-Labidiaster annulatus.
-Porania spiculata.
-Amphiura bellis.
-glauca.
-Ophiacantha abnormis.
-cosmica.
-rosen.
-vivipara.
-Ophiactis flexuosa.
-Ophioceramix obstricta.
-Ophiochiton fastigatus.
-Ophiorreas oedipus.
-Ophioglypha con fragosa.
-jejuna. .
-lepila.
-Ophiomitra normani.
->
-167
+1329
+T
+s
+S
+S
+S
+S
+S
+s
+T
+s
+*
+T
+S
+S
+T
+S
+T
+T
+S
+S
+T
+typus, Schmidt T
+s
+s
+T
+T
+* Halichondria pelliculata, n.sp.
+TETRACTINELLIDA :
+Iophon chelifer, n.sp.
+Anthastra communis, 1.g., n.sp.
+cylindricus, n.sp.
+pulchra, n.g., n.sp.
+laminalis, n.sp.
+* Astrella vosmaeri, n.g., n.sp.
+(?) omnivorus, n.sp.
+Astropeplus pulcher, n.g., n.sp.
+pattersoni (Bowerbank). S * Azorica marginata, n.sp.
+Myxilla cribrigera, n.sp.
+pfeiffera, Carter. Τ Ν
+digitata, n.sp.
+* Callipelta ornata, n.g., n.sp.
+fusca, n.sp.
+Calthropella simplex, n.g., n.sp.
+mollis, n.sp.
+* Characella aspera, n.g., n.sp.
+nobilis, n.sp.
+S
+* Chrotella simplex, n.g., 1.sp.
+var. bacillifera, nov. * Corallistes bowerbanki (Johnson). N
+var. patagonica, nov.
+masoni (Bowerbank). T
+paucispinata, n.sp.
+T
+thomasi, n.sp.
+Pachychalina megalorrhaphis, n.sp.
+Petrosia similis, n.sp.
+S T
+* Craniella pulchra, n.sp.
+* Phakellia papyracea, n.sp.
+schmidtii, n.sp.
+ventilabrum (Johnston), var. Cydonium hirsutus, n.sp.
+connexiva, nov. ST
+magellani, n.sp.
+* Plocamia coriacea (Bowerbank), var. * Discodermia panoplia, n.sp.
+elegans, nov.
+Dorypleres dendyi, n.g., n.sp.
+* Polymastia agglutinans, n.sp.
+Epallax callocyathus, n.g., 11.sp.
+* Raspailia (?) rigida, n.sp.
+Neosiphonia superstes, n.g., 1.sp.
+* Reniera aquæductus, Schmidt, * Pachastrella abyssi, Schmidt.
+infundibularis, nov. * Pleroma turbinatum, n.g., n.sp.
+implexa, Schmidt.
+* Pæcillastra crassiuscula, n.sp.
+subglobosa, n.sp.
+laminaris, n.sp.
+tufa, n.sp.
+schulzii, n.sp.
+* Rhizochalina singaporensis (Carter).
+* Scleritoderma flabelliformis, n.sp.
+Stylocordyla stipitata (Carter), * Siphonidium capitatum, n.sp.
+globosa, nov. STN Sphinctrella cribrifera, n.sp.
+Suberites carnosus (Johnston). N
+gracilis, n.sp.
+ornatus, n.sp.
+elongatus, n.sp.
+microstomus, n.sp.
+* Stelletta phrissens, n.sp.
+mollis, n.sp.
+Synops vosmaeri, n.sp.
+Tedania massa, n.sp.
+* Tetilla coronida, n.sp.
+tenuicapitata, Ridley.
+grandis, n.sp.
+* Trachytedania patagonica, n.sp.
+var. alba, nov.
+Vomerula esperioides, n.sp.
+* Thenea grayi, n.sp.
+S
+N
+T
+N
+T
+S
+T
+var.
+T
+s
+S
+N
+T
+s
+T
+T
+T
+S
+S
+var.
+T
+T
+T
+N
+T
+S
+T
+S
+S
+S
+T
+S
+s
+S
+S
+99
+S
+S

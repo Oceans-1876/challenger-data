@@ -1,103 +1,115 @@
 SUMMARY OF RESULTS.
-1397
+1401
+labiata, n.sp.
+T
+T
+T
+>>
+N
+Emarginula (Tugalia) parmophoidea,
+Quoy and Gaimard. S
+Eulima acanthyllis, n.sp.
+dissimilis, n.sp.
 S
+fallax, n.sp.
+latipes, n.sp.
+martini, Adams. T
+oxytata, n.sp.
+T
+philippii, Weinkauff.
+nine species undetermined. T
+* Eulimella angusta, n.sp.
+coacta, n.sp.
+T
+subtilis, n.sp.
+T
+* Fasciolaria armata (Adams). N
+coronata, Lamarck. S
+trapezium (Linné). T
+(Latirus) contempta, Adams.
+T
+( ) strangei, Adams.
 *
-* Psammobia costulata, Turton. N
-intermedia, Deshayes. T
-lineolata, Gray. S
-modesta, Deshayes. S
-pallida, Deshayes. T
-pulcherrima, Deshayes. T
-zonalis (Lamarck). S
-*
-sp. (?). T
+T
+T
+T
+>
 >
 *
+T
+* Cylichna arachis (Quoy and Gaimard). S
+cuticulifera (Smith). S T
+T
+noronyensis, n.sp. T
+reticulata, n.sp. T
+subreticulata, n.sp.
+T
+tahitiensis, n.sp.
+T
+(Mnestia) bizona, Adams. T
+(Volvula) sulcata, n.sp. T
+eight species undetermined. T
+Cypræa bicolor, Gaskoin.
+cylindrica, Born.
+lynx, Linné. T
+microdon, Gray. T
+miliaris, Gmelin. T
+piperata, Solander. S
+spurca (Linné). TN
+teres, Gmelin. T
+vitellus, Linné.
+(Trivia) australis, Lamarck. S
+( ) candidula, Gaskoin. N
+( ) pellucidula, Gaskoin. T
+T
+* Dentalium dentalis, Linné. SN
+entalis, Linné, var. striolatum,
+Stimpson. STN
+javanum, Sowerby.
+longitrorsum, Reeve.
+tornatum, n.sp.
+T
+yokohamense, n.sp. N
+Dolabrifera triangularis, n.sp. S
+* Dolium perdix (Linné). T
+* Eatoniella caliginosa (Smith). S
+subrufescens (Smith). S
+* Eburna (Zemira) australis, Sowerby. S
+Emarginula (Hemitoma) rugosa, Quoy
+and Gaimard. S
+(Scutus) anatina(Donovan).
+T
 *
-T
-* Nucula nitidula, Adams. S
-obliqua, Lamarck. T
-uruguayensis, Smith. S
-(Acila) mirabilis, Adams and
-Reeve. N
-* Nuculina ovalis (Wood). S
-* Ostrea imbricata, Lamarck. T
-* Pecten amicus, n.sp.
-T
-asperrimus, Lamarck. S
-corallinoides, d’Orbigny.
-TN
-lemniscatus, Reeve. T
-leopardus, Reeve, var. solaris,
-Sowerby. T
-limatula, Reeve. s
-noronhensis, n.sp.
-T
-patagonicus, King S
-pusio (Linné). N
-senatorius (Gmelin). T
-undulatus, Sowerby. S
-vitreus (Chemnitz).
-STN
-(Janira) fumatus, Reeve. S
-( ) laqueatus, Sowerby. N
-* Pectunculus beddomei, n.sp. S
-formosus, Reeve. T
-holosericus, Reeve. S
-pectinatus (Gmelin). T
-stellatus (Bruguière). N
-striatularis,
-n.sp. ()
-(Lamarck ?), Reeve. S T
-vitreus, Lamarck. T
-Periploma compressa, d'Orbigny. S
-* Perna samoensis, Baird. T
-vitrea, Reeve. T
-* Petricola lapicida (Chemnitz). T
-* Pinna tasmanica, Woods. s
-* Plicatula ramosa, Lamarck.
-* Raeta pulchella (Adams and Reeve). N
-Saxicava arctica, Linné. SN
-* Semele amabilis, Adams. T
-infans, n.sp.
-T
-(Theora) iridescens (Hinds). T
-Septifer bilocularis (Linne). T
-* Solecurtus (Azor) coarctatus (Gmelin). T
-* Solen sloanii, Gray. S
-* Spondylus victoria, Sowerby. T
-zonalis, Lamarck.
-Tapes obscurata, Deshayes. T
-(Amygdala) exalbida (Chemnitz).
-s
-(
-) fabagella Deshayes.
-s
-( ) intermedia (Quoy
-and Gaimard). S
-(Paratapes) semirugata (Philippi).
-T
-( ) tectrix (Chemnitz). S
-) undulata, Born. TN
-* Tellina compacta, n.sp.
-T
-(Angulus) lux, Hanley. T
-( ) natalensis, Krauss. S
-( ?) rhomboides, Quoy and
-Gaimard. T
-( ) valtonis, Hanley.
-T
-( ) vernalis, Hanley. T
-(Arcopagia) elegantissima, n.sp.
-***
+sp. (?). S
+*
+sp. (?)
+*
+*
+*
 >>
+T
+T
+T
+9
+* Fissurella crassa, Lamarck. s
+maxima, Sowerby. S
+mutabilis, Sowerby. S
+picta (Gmelin). S
+(Luucapina) fumata, Reeve. S
+Fossarus ambiguus (Linne). T
+* Fusus colosseus, Lamarck.
+colus (Linné). T
+hanleyi (Angas). S
+marmoratus, Philippi. T
+novæhollandiæ, Reeve.
+pyrulatus, Reeve. S
+verruculatus, Lamarck.
+(Euthria) chloroticus, Martens. S
+( ) fuscatus (Bruguière). S
+(Neptunea) mandarinus, Duclos.
 S
-sp. (?). T
->>
-T
-* Psammobia anomala, Deshayes. T
-castrensis (Spengler). T
-(SUMMARY OF RESULTS CHALL. EXP.—1894.)
-(
-) pretiosa, Deshayes. T
-176
+( ) nodosus (Martyn). S
+S
+*
+S
+S

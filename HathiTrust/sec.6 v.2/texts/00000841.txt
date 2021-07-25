@@ -1,184 +1,177 @@
 SUMMARY OF RESULTS.
-1559
-Spongelia,
-horrida, 689, 1362.
-pallescens, 371, 1362.
-spinifera, 552, 1362, 1448.
-Spongellipsis,
-aplysina, 254.
-aspera, 980.
-lævis, 1013.
-setosa, 1206.
-Spongicola,
-venusta, 811, 1388.
-Spongiobranchæa, 884.
-australis, 522, 1174, 1219.
-Spongiomma,
-asteroides, 1206.
-clavatum, 950.
-denticulatum, 1061.
-helioides, 1261.
-radiatum, 1053.
-spathillatum, 1108.
-Spongobrachium,
-lanceolatum, 1032.
-Spongocore,
-chrysalis, 1184.
-cincta, 513.
-diplocylindrica, 1136.
-puella, 1108, 1112, 1114, 1119,
-1126, 1136.
-pupula, 958.
-velata, 167, 1206.
-Spongocyrtis,
-arachnoides, 1031.
-Spongodes, 1239.
-anguina, 818, 1366.
-bicolor, 691, 818, 1366.
-carnea, 1072, 1366.
-cervicornis, 1072, 1366.
-collaris, 744, 1331.
-coronata, 691, 1366.
-corymbosa, 719, 1366.
-dendrophyta, 784, 1366.
-digitata, 822, 1366.
-florida, 818, 1366.
-heterocyathus, 691, 1366.
-laxa, 744, 1331.
-macrospina, 691, 1366.
-monticulosa, 719, 1366.
-nephthyæformis, 859, 1366.
-pustulosa, 1072, 1366.
-rhodosticta, 744, 1331.
-spicata, 822, 1366.
-spinosa, 691, 1366.
-umbellata, 691, 1366.
-Spongodictyon,
-antarcticum, 512.
-arcadophoron, 1257. :
-cavernosum, 1231. ;
-Spongodiscus, 512.
-biconcavus, 1011.
-cycloides, 167, 879.'
-Spongodiscus-continued.
-favus, 167, 879, 1040, 1045.
-radiatus, 1022.
-resurgens, 167, 513.
-spiralis, 513, 1040, 1045.
-spongocyclia, 879.
-Spongodruppa,
-elliptica, 798.
-frangula, 957.
-lentisca, 1017.
-polyacantha, 1268.
-terebintha, 879, 1039, 1045.
-Spongodrymus,
-abietinus, 1053.
-elaphococcus, 1257.
-Spongolarcus,
-amphicentria, 253.
-dimensivus, 879.
-lentellipsis, 1061.
-triaxonius, 980.
-Spongolena,
-cypselura, 1051.
-rhopalura, 1055.
-spongura, 1031.
-Spongoliva,
-daturina, 1053.
-opuntina, 1206.
-persicina, 1254.
-prunulina, 1010.
-Spongolonche,
-amphistyla, 1040.
-compacta, 1059.
-conostyla, 1022.
-laxa, 1010.
-Spongophacus,
-periphæna, 879, 1039.
-Spongophortis,
-larnacilla, 1040.
-radiosa, 1217.
-spongiosa, 1062.
-Spongopila,
-dichotoma, 1250.
-verticillata, 777.
-Spongoplegma,
-antarcticum, 512.
-Spongoprunum,
-amphicylindrus, 1221.
-amphilonche, 1010.
-atractus, 879.
-Spongopyle, 512.
-osculosa, 513.
-setosa, 513.
-Spongopyramis,
-spongiosa, 1041.
-spongoplecta, 1052.
-Spongosphæra,
-polyacantha, 1265.
-quadricuspis, 1053.
-Spongostaurus,
-cruciatus, 957.
-Spongostaurus-continued.
-hastatus, 1250.
-quadratus, 1045.
-Spongostylus,
-gladiatus, 1021.
-hastatus, 1038, 1044, 1226.
-serratus, 1089.
-Spongothamnus,
-furcatus, 950.
-scoparius, 1045.
-Spongotripus,
-irregularis, 1132.
-regularis, 1053
-strepsiceros, 1051.
-ypsilon, 1060.
-Spongotrochus, 512.
-moseleyi, 513.
-multispinus, 1045, 1053, 1057,
-1061.
-murrayi, 513.
-parma, 1040, 1045, 1207.
-scutella, 513.
-willemoesii, 513.
-wyvillei, 513.
-Spongoxiphus,
-prunococcus, 1010, 1015, 1022.
-sphærococcus, 1010.
-Spongurus,
-cylindricus, 513.
-phalanga, 1022.
-spongechinus, 1265.
-stypticus, 1059.
-tricolus, 1050.
-Sporadopora, 1327.
-dichotoma, 1188, 1316.
-Squilla, 211, 346, 380, 416, 418, 586,
-698, 807, 835, 848, 884, 885,
-915, 942, 1003, 1033, 1141,
-1167, 1193, 1203, 1262.
-chlorida, 763, 1387.
-fasciata, 913, 1387.
-lata, 723, 1387.
-leptosquilla, 788, 1341.
-nepa, 908, 913, 924, 996, 1387,
-1424.
-quinquedentata, 723, 1387.
-Squillerichthus, 552, 817, 836.
-Stachyodes, 1327.
-regularis, 618, 1316.
-Stachyptilum, 1361.
-macleari, 745, 1331.
-Stannarium, 1282.
-alatum, 1049, 1277.
-concretum, 1031, 1277.
-Stannoma, 1035, 1049.
-coralloides, 1035, 1049, 1277,
-1280, 1283.
-dendroides, 1035, 1049, 1277,
-1280, 1283.
-Stannophyllum, 1035, 1290.
-1
-1
+---
+1563
+Suberogorgia-continued.
+suberosa, 859, 1367.
+verriculata, 897, 1331.
+Sula,
+fusca, 322, 891.
+piscator, 672.
+Supercytis,
+digitata, 594, 1352.
+tubigera, 491, 1413
+Surcula (see Pleurotoma).
+Surirella, 911.
+dives, 812.
+fastuosa, 130, 191, 197, 278, 287,
+303, 733, 812, 904, 911, 930,
+938, 973, 1028.
+var. suborbicularis, 938.
+fluminensis, 911.
+japonica, 904.
+lata, 130, 135, 278, 287, 303, 938.
+laxa, 278, 303.
+macraeana, 278, 287.
+mexicana, 130.
+ocellata, 938.
+patens, 130, 278.
+proclara, 930.
+recedens, 812, 938.
+robusta, 889.
+slesvicensis, 938.
+Sycon,
+arboreum, 536, 1365.
+arcticum, 809, 1422.
+var, maximum, 201, 1365.
+raphanus, 809, 1365, 1422.
+var, tergestinum, 392, 1365.
+Syllis, 114, 119, 121, 817.
+brasiliensis, 358, 1338.
+capensis, 417, 1382.
+gigantea, 465, 1382.
+ramosa, 747, 810, 1338, 1358,
+1382.
+robertianæ, 1190, 1319.
+setubalensis, 112, 1338.
+Sylon,
+challengeri, 225, 1385.
+Sympagella,
+nux, 305, 1330.
+Symphyllia,
+acuta, 755, 1372.
+sinuosa, 824, 1372.
+Symplegma, 1429.
+viride, 245, 1416.
+Sympodium, 1450.
+armatum, 236, 1303.
+glomeratum, 392, 1331.
+verrilli, 1188, 1316.
+Sympronoë, 782.
+parva, 799.
+propinqua, 383.
+Synalpheus, 1429.
+falcatus, 699, 1388.
+Synanceia,
+Synopioides,
+verrucosa, 658, 1421.
+macronyx, 1105, 1108.
+Synaphobranchus, 936.
+Synops,
+bathybius, 448, 936, 964, 1288,
+neptuni, 356, 365, 1365.
+1289, 1298, 1300, 1310, 1447.
+nitida, 554, 1365.
+brevidorsalis, 856, 902, 1310,
+vosmaeri, 356, 1329.
+1313, 1354.
+Synstyela,
+pinnatus, 368, 369, 815, 842, incrustans, 833, 1171, 1416,
+901, 919, 1324, 1325, 1327,
+1428.
+1354, 1357.
+Synthecium,
+Synapta, 130, 369, 639, 821.
+alternans, 555, 1373.
+abyssicola, 1246, 1285.
+campylocarpum, 555, 1373.
+aculeata, 899, 1337.
+Syringammina, 964.
+beselii, 668, 763, 829, 1074, 1337, Syrnola (see Odostomia).
+1358, 1379, 1424.
+Syrrhoë,
+challengeri, 637, 1337.
+papyracea, 173, 1340.
+distincta, 907, 912, 1379, 1424.
+semiserrata, 532, 1386.
+glabra, 829, 1379.
+Systellaspis,
+incerta,
+lanceocaudata, 900, 1342.
+var. variabilis, 907, 1379.
+insolens, 721, 1379.
+lappa, 135, 1379.
+Tabellaria,
+picta, 242, 1379.
+fenestrata, 481.
+verrilli, 695, 1379.
+Tachypetes, 871.
+Synaptura, 895.
+Tægeria, 1327.
+arafurensis, 732, 1421.
+pulchra, 636, 1315.
+zebra, 732, 1421.
+Tænia, 501.
+Synaræa,
+clavulus, 695, 1380.
+convexa, 1074, 1372.
+diomedeæ, 954.
+Synedra, 442.
+increscens, 596, 1380.
+affinis,
+trichoglossi, 696, 1380.
+var. hybrida,
+Tanais, 211, 284, 479, 480.
+forma elongata, 973.
+hirsutus, 437, 1340.
+capitata, 889.
+willemoesii, 470, 1386.
+doliolus, 760, 904, 938, 1027, Tanystylum, 1452.
+1043.
+Taonius, 1451.
+fasciculata, 930.
+hyperboreus, 230, 1309.
+filiformis, 515.
+suhmi, 524, 584, 586, 676, 1262,
+fulgens, 197.
+1287, 1290, 1447.
+var. dalmatica, 973.
+gaillionii, 191, 197, 278, 287,
+obscurata, 764, 1397.
+889, 938.
+(Amygdala),
+goulardii, 904.
+exalbida, 1177, 1397.
+lanceolata, 515, 517.
+fabagella, 563, 1397.
+philippinarum, 733.
+intermedia, 598, 1397.
+pulchella, 287.
+(Paratapes),
+robusta, 197, 812.
+semirugata, 726, 1397.
+superba, 278, 287, 303, 904, 938.
+textrix, 563, 1397.
+thalassiothrix, 513, 515, 517.
+undulata, 726, 909, 1397, 1426.
+ulna, 931, 973, 1027.
+Tarsaster, 1361.
+vitrea,
+stoichodes, 864, 1334.
+forma angustior tepuirostris, Taurospyris,
+1027.
+bovina, 1250.
+(Ardissonia),
+cervina, 1218.
+baculus, 287, 973.
+Taxipathes, 1361.
+Syngnathus, 187, 1451.
+recta, 1242, 1332.
+pelagicus, 188.
+Tealia,
+superciliaris, 574, 1421.
+bunodiformis, 392, 1367.
+Synopia,
+Tealidium, 1301.
+schécleana, 314, 848, 889, 1033.
+cingulatum, 517, 1292.
+Tapes,

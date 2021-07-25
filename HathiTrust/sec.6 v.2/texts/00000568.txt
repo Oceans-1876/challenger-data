@@ -1,86 +1,108 @@
-1290
-THE VOYAGE OF H.M.S. CHALLENGER,
-Acanthephyra acutifrons.
-brachytelsonis.
-sica.
-Gennadas parvus.
-Sergestes atlanticus.
-Bugula reticulata.
-Flustra biseriuta.
-Chauliodus sloanii.
-Gonostoma microdon.
-Sternoptyx diaphana.
->
-!
-The following 25 species (or 26 per cent.) were taken in the zone between 100 and
-500 fathoms :
-Bathyactis symmetrica.
-Deltocyathus italicus.
-Ophiacantha cosmica.
-Aspidodiadema microtuberculatum.
-Eunoa opalina.
-Cythere dasy.lerma.
-dictyon.
-suhmi.
-Typhlotanais kerguelenensis.
-Acanthephyra brachytelsonis.
-sica.
-Benthesicymus brasiliensis.
-Gennadas parvus.
-Sergestes atlanticus.
-Arca (Barbatia) corpulenta.
-( ) pteroessa
-Spirula peronii.
-Bicellaria naricularis.
-Bugula reticulata.
-Kinetoskias pocillum.
-Discina atlantica.
-Gonostoma gracile.
-microdon.
-Lepidopus tenuis.
-Macrurus armatus.
-The following 12 species (or 12 per cent.) were taken in depths less than 100 fathoms
-or at the surface :
-Bathyactis symmetrica.
-Gennadas parvus (surface).
-Pontaster venustus.
-Sergestes atlanticus (surface).
-Lætmonice producta.
-Parapagurus abyssorum.
-Bairdia minima.
-Taonius suhmi (surface).
-Cythere dictyon.
-Pyrosoma giganteum (surface).
-Bathytanais bathybrotes.
-Sternoptyx diaphana (surface).
-Of the 166 species taken only in this zone between 2000 and 2500 fathoms, 154
-species (or 93 per cent.) are new to science, and the following 23 new genera were
-obtained only in this zone of depth ::
-Ammosolenia.
-Ævinura.
-Tylaspis.
-Stannophyllum (5).
-Tesserantha.
-Bathydoris.
-Axoniderma.
-Ophiochytra.
-Histiopsis.
-Caulocalyx.
-Deima (2).
-Malacosarcus.
-Dictyocaly..
-Parelpidia (2).
-Opostomias.
-Bathygorgia.
-Eusamytha.
-Pachystomias.
-Aulorchis.
-Samythopsis.
-Typhlonus.
-Polyopis.
-Paradryope.
-Twenty of these genera are each represented by a single species, two others (Deima
-and Parelpidia) each by two species taken at separate Stations within the zone, while
-the remaining one (Stannophyllum) contains five species all taken at one Station.
-1
-1
+1294
+THE VOYAGE OF H.M.S. CHALLENGER.
+nov.
+72 72
+Goniocidaris canaliculata, Agassiz.
+s Psychropotes longicauda, var. monstrosa,
+Phormosoma tenue, n.sp.
+TN
+N
+Uranus, n.sp.
+semperiana, n.g., n.sp. S T
+Pourtalesia carinata, n.sp.
+S
+S
+* Scotoplanes albida, n.g., n.sp.
+ceratopyga, n.sp.
+S
+globosa, n.g., n.sp.
+hispida, n.sp.
+s
+robusta, n.g., n.sp.
+phiale, Wyville Thomson. S
+ENTOZOA :
+Salenia hastigera, n.sp.
+S TN
+varispina, Agassiz. TN
+* Ascaris macruroidei, n.sp. (parasitic
+S
+Spatagocystis challengeri, n.g., n.sp.
+on Macrurid). s
+Urechinus naresianus, n.g., n.sp.
+s * Prothelmins profundissima, n.g., 1.sp. S
+NEMERTEA :
+HOLOTHURIOIDEA :
+Pelagonemertes rollestoni, n.g., n.sp.
+* Achlyonice lactea, n.g., n.sp.
+s
+(surface). SN
+Benthodytes sanguinolenta, n.g., n.sp.,
+var. marginata, nov. S GEPHYREA :
+sordida, n.g., n.sp.
+S * Phascolion lutense, n.sp.
+S
+Cucumaria abyssorum, n.sp. S
+* Phascolosoma catharina, Müller. S
+hyalina,
+flagriferum, n.sp.
+N
+var.
+nov.
+* Elpidia ambigua, n.sp.
+S
+purpurea, n.sp.
+S
+willemöesi, n.sp.
+s
+Holothuria thomsoni, n.sp. SN
+hyalina,
+>>
+var.
+nov.
+ANNELIDA :
+Amphicteis gunneri (Sars). N
+wyvillei, n.sp.
+s
+Buskiella abyssorum, n.g., n.sp.
+S T
+* Chloenea atlantica, n.sp.
+N
+* Dalhousia atlantica, n.g., n.sp.
+N
+* Ephesia antarctica, n.sp.
+S
+* Evarne tenuisetis, n.sp.
+N
+* Grubianella antarctica, n.g., n.sp.
+Hyalinacia benthaliana, n.sp. S
+Lætmonice producta, Grube,
+benthaliana, nov.
+S TN
+var. willemoesi,
+Lætmogone wyville-thomsoni, n.g., n.sp.
+SN
+Oneirophanta mutabilis, n.g., n.sp.
+S TN
+* Peniagone affinis, n.g., n.sp.
+horrifer, n.g., n.sp.
+Pseudostichopus villosus, n.g., n.sp.
+S TN
+var. violaceus,
+2
+S
+var.
+S
+nov.
+nov.
+var.
+wyvillei,
+s
+nov.
+Psychropotes longicauda, n.g., n.sp.
+var. fusco-purpurea,
+S
+* Lagisca crosetensis, n.sp.
+(Agnodice) moseleyi, n.sp.
+*
+T
+nov.

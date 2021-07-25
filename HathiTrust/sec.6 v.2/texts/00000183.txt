@@ -1,61 +1,103 @@
 SUMMARY OF RESULTS.
-941
-Density at 60° F. at bottom, 1.02558.
-STATION 238.
-Depth, 3950 fathoms ; deposit, Red Clay, containing no carbonate of lime (see
-Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 11.45 A.M. shortened and furled sails, and proceeded under steam.
-At 1 P.M.
-sounded in 3950 fathoms. Obtained serial temperatures down to 1500 fathoms. At
-4.30 P.M. completed temperatures and made sail. Black albatrosses and a small prion-
-like bird were seen.
-Distance at noon from Honolulu, 3170 miles. Made good 172 miles. Amount of
-current 35 miles, direction N. 9° E,
-The following species of Foraminifera and Radiolaria were observed in the deposit OrganiSMS FROM
-THE DEPOSIT.
-from this Station, in which there was no trace of the bluish-coloured mud, nor of the
-glauconitic particles characteristic of all the deposits nearer the coast of Japan (see also
-Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
-FORAMINIFERA (Brady, Zool. pt. 22).
-Miliolina labiosa (d'Orbigny).
-Haplophragmium latidorsatum (Bornemann).
-Reophu dentaliniformis, Brady.
-tenuimargo, Brady.
-difflugriformis, Brady.
-Ilormosina ovicula, Brady.
-membranacea, Brady.
-Ammodiscus shoneanus, Siddall.
-nodulosa, Brady.
-Trochammina coronata, Brady ().
-scorpiurus, Montfort,
-pauciloculata, Brady.
-Haplophraimium canariense (d'Orbigny).
-trullissata, Brady.
-globigeriniforme (Parkerand Jones). Gaudryina siphonella, Reuss.
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Clathrosphæra circumtexta, Haeckel.
-| Challengeron bethelli, Murray.
-Surface Organisms.—The following species are recorded from the surface at
+943
+Surface Organisms.—The following species are recorded from the surface at this Station 239.
+ORGANISMS FROM
+Station :
 SURFACE-NETS.
-this Station :
 RADIOLARIA (Haeckel, Zool. pt. 40).
-Theocampe cryptoprora, Haeckel.
-Xiphoptera tessaractena, Haeckel.
+Theocampe cryptoprora, llaeckel.
+Sphærozoum armatum, Haeckel.
 Auloceros furcosus, Haeckel.
-Hystrichaspis serrata, Haeckel.
+Xiphacantha platyptera, Haeckel.
 Sagoplegma pyramidophora, Haeckel.
-Phractopelta tessaraspis, Haeckel.
-Gazelletta trispathilla, Haeckel.
-Plectophora triomma, Haeckel.
+Orophaspis astrolonche, Haeckel.
+Aulosphæra bifurca, Haeckel.
+tessaraspis, Haeckel.
+Medusetta craspedota, Haeckel.
 Castanidium bethelli, Haeckel.
-Plectaniscus tripodiscus, Haeckel.
-Cælodendrum flabellatum, Haeckel.
+Phractopelta dorataspis, Haeckel.
+Dorypelta lithoptera, Haeckel.
+Calodendrum flabellatum, Haeckel.
 Sethophormis umbrella, Haeckel. TUNICATA (Herdman, Zool. pt. 76).
 Sethoconus trochus, Haeckel.
 Doliolum challengeri, n.sp.
-In addition, the following are recorded in the note-books :-Noctiluca, Pyrocystis
-(two varieties), Peridinium tripos (in catena) and other species, Diatoms, Globigerina,
-Orbulina, Hastigerina, Pullenia, and other Foraminifera, Vorticella on Diatoms,
-Medusæ, Porpita and other Siphonophoræ, young Ophiurids, Echinoderm larvæ, Sagitta,
-(SUMMARY OF RESULTS CHALL. EXP.—1893.)
-119
+In addition, the following are recorded in the note-books :-Diatoms (very few),
+Pyrocystis, Globigerina, Orbulina, Hastigerina, Pullenia, and other Foraminifera
+(abundant), Siphonophoræ, Sagitta, Saphirina and other Copepods, Phronima, Hyperids,
+Euphausia, Lucifer, Sergestes larvæ, Pteropods and other small shells, Appendicularia,
+small fishes. The absence of Noctiluca, Daphnia, brackish-water Diatoms, and the larvæ
+of shallow-water organisms, indicated that the ship had again entered truly pelagic waters.
+Station 240 (Sounding 382), Yokohama to Sandwich Islands (sce Chart 36 and Station 240.
+Diagram 17).
+June 21, 1875; lat. 35° 20' N., long. 153° 39' E.
+Temperature of air at noon, 67°•3 ; mean for the day, 68°:4.
+Temperature of water:-
+40:1
+Surface,
+10 fathoms,
+20
+30
+40
+50
+60
+70
+80
+90
+100
+115
+125
+130
+150
+175
+200
+64:8
+61.5
+58.5
+56.0
+54.2
+52:4
+51.0
+49.6
+48:3
+47.0
+45.8
+44.0
+43.2
+428
+41:4
+40.6
+40.2
+225 fathoms,
+250
+275
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+.
+40.0
+40.0
+39.6
+38.2
+37:4
+36.9
+36:4
+36:3
+36.2
+36-0
+35.9
+35.7
+35.5
+35:3
+35:1
+34.9

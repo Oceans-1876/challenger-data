@@ -1,116 +1,120 @@
-1416
+1420
 THE VOYAGE OF H.M.S. CHALLENGER.
-T
-T
 s
+T
+T
+pavo, Bleeker.
+sp. (?). T
+sp. (?) T
+>
+T
+T
+T
 S
 T
-*
-T
-T
->
-s
->
-sp. (?). S
-(?) sp.
-T
-Styela radicosu, 1.sp.
-s
-* Arnoglossus tenuis, n.sp.
-Symplegma viride, n.g., n.sp.
-N
-* Atherina lacunosa, Forst.
-Synstyela incrustans, n.sp.
-ST
-* Atherinichthys brevianalis, n.sp.
-Tylobranchion speciosum, n.g., n.sp. * Aulopus japonicus, n.sp.
-N
-(?) ignotus, n.sp. (genus * Balistes aculeatus, Linné.
-doubtful). S
-buniva, Lac. T
-(?) pyriformis, n.sp. (genus * forcipatus, Gm.
-doubtful). S
-fuscus, Bl. Schn.
-maculatus, Gm. T
-FISHES :
-stellatus, Lac. T
-* Acanthias blainvilli, Risso.
-verrucosus, Bl. Schn.
-T
-* Acanthurus blochi, C.V. T
-vetula, L. T
-gahm, Forsk.
-T
-* Barbus afer, Peters. S
-hepatus, Linné.
-T
-maculatus, C.V. T
-rhombeus, Kittl. T
-triostegus, Linné. T
-Bathysebastes albescens, Steindachner and
-T
-Döderlein. N
-Achilognathus melanogaster, Bleeker. N * Batrachus diemensis, Les.
-Acropoma japonicum, Günther. T * Bellostoma cºlatum, Forst. S
-philippinense, n.sp.
-polytrema, Girard. S
-Agonus chiloensis, Jen.
 S
-* Belone annulata, C.V. T
-'Agrammus schlegeli, Günther. N
-jonesi, Goode.
+>
+S
+* Platycephalus pristiger, C.V. T
+* Raja platana, n.sp.
 N
-* Albula conorhynchus, Bl. Schn.
-luiroides, Bleeker.
-Amphisile scutata, Linné.
+* Rasbora philippina, n.sp.
+punctatus, C.V.
+rudis, n.sp. N
+* Rhomboidichthys angustifrons, 1.sp.
+sculptus, n.sp.
 T
-strongylurus, Bleeker.
-* Ancylodon atricauda, n.sp. S
-trachura, C.V. T
-* Anguilla ancitensis, Günther. T
-* Blennius sanguinolentus, Pall. T
-mauritiana, Benn.
-tasmanianus, Rich. S
-* Antennarius multiocellatus, C.V. T * Blennophis webbi, Val. T
-Aphoristia ornata, Lac. S
-* Brachypleura nova-zealandia, Günther.
-Aphritis gobio, Günther. S
-* Apocryptes polyophthalmus, Günther. T * Brama raii, Bl.
-* Apogon arafuræ, n.sp.
-* Branchiostoma belcheri, Gray.
-lineatus, Schleg
-cultellum, Peters.
-monogrammai, n.sp.
-* Bregmaceros macclellandi, Thompson. N
-savayensis, Günther.
-* Cæsio tile, C.V.
-septemstriatus, n.sp.
-Callionymus calauropomus, Rich. ST
-* Argyriosus setipinnis, Mitch.
-curvicornis, C.V. T
-* Arius commersoni, Lac. S
-longicaudatus, Schleg. T
-* Arnoglossus aspilus, Bleeker.
-lunatus, Schleg. SN
+pantherinus, Rüpp. T
 T
-*
-*
-T
-T
-T
-*
-T
-T
+spinosus, Schleg T
+podas, de la Roche. T
+* Platyglossus pæcilopterus, Schleg. N
+spilurus, n.sp. T
+Pyrrhogramma, Schleg. N
+trimaculatus, Q. and G. * Rhypticus arenatus, C.V. T
+* Plecoglossus altivelis, Schleg. N
+saponaceus, Bl. Schn.
+* Plectropoma maculatum, Bl.
+* Salanx microdon, Bleeker. N
+Plesiops corallicola, Bleeker.
+* Salilota australis, n.g., n.sp.
+* Pleuronectes variegatus, Schleg. N
+* Salmo macrostoma, n.sp.
 N
-T
-T
+yokohamæ, n.sp. N
+Sargus argenteus, C.V. T
+* Polynemus sexfilis, C.V. T
+capensis, Smith.
 N
-*
+* Polyprion kneri, Steindachner.
 T
-*
+* Saurida argyrophanes, Rich.
+* Pomacanthus para, Bl.
+T
+grandisquamis, Günther. T
+* Pomacentrus scolopsis, Q. and G. T
+tumbil, Bl. N
+* Porichthys porosus, C.V.
+* Saurus intermedius, Agassiz.
+T
+* Priacanthus benmebari, Schleg.
+varius, Lac.
+T
+* Prionotus punctatus, Bl T
+* Scarus chrysopterus, Bl.
+* Prionurus scalprum, Langsı. N
+* Sciæna sina, C.V. N
+* Psammobatis rudis, Günther.
+* Scolopsis bilineatus, Bl. T
+* Psenes anomalus, Schleg. N
+monogramma, C.V. T
+* Psettus argenteus, Linné.
+temporalis, C.V. T
+Pseudophycis bacchus (Forst). S
+Scorpæna cirrhosa, Thunb. T
+* Pseudorhombus cinnamomeus, Schleg. T
+cruenta, Solander. s
+olivaceus, Schleg. N
+miostoma, n.sp;
+N
+pentophthalmus,
+nuchalis, Günther.
+Günther. N
+plumieri, Bl.
+T
+russelli, Gray.
+scrofa, Linné.
+T
+* Pseudoscarus macrorhinus, Bleeker.
+thomsoni, n.sp.
+S
+nuchipunctatus, C.V. T
+zanzibarensis, Playfair. T
+* Pterois lunulata, Schleg. Τ Ν
+* Scyllium chilense, Guich. S
+zebra, C.V. T
+Sebastes macrochir, n.sp.
+N
+* Raja brachyura, n.sp.
+marmoratus, C.V. T
+eatoni, Günther.
+nematophthalmus, Günther. T
+microps, n.sp.
+S
+oblongus, n.sp.
+N
+murrayi, n.sp.
+percoides, Rich.
+s
 T
 T
+S
 T
 T
+92
 T
 T
+S
+>
+9
+S

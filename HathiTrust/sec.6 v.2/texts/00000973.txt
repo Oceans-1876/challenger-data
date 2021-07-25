@@ -1,50 +1,40 @@
 REPORT ON OCEANIC CIRCULATION.
-7
-M
-ܝܪܝ iw
-mean,
-temperatures below it by black lines. These lines thus show graphically for each
-depth the regions where the temperature is above the average for that depth and where
-it is below it.
-The most striking fact revealed by deep-sea observations of temperature is the very
-low temperature of the ocean at great depths in all latitudes, this being but a little way
-above the freezing-point of fresh water.
-To show this feature more exactly, a map
-was constructed indicating the temperature at the depth of 2200 fathoms. The average
-of all the observations made at this depth give a mean temperature of 35°-2. Another
-map has been constructed (Map 14) on which are entered the differences of the
-individual temperatures from this average, those which exceed it being entered in
-red ink, and those under it in blue ink. The result is interesting and instructive.
-Everywhere over the Indian Ocean temperatures at 2200 fathoms are under the
-There are twenty observations whose mean temperature is 34°4, being thus 0°:8
-lower than the general ocean at this depth. Over the whole of the South Atlantic to the
-south of lat. 10° S. temperatures are also under the mean, slightly in the eastern side of
-the ocean but very largely in the south-west of it. At three stations to the east of Buenos
-Ayres between longitudes 35º and 45° west the temperature is only 32°:6, which is the
-lowest yet observed in any part of the ocean not within a “ closed area ; that is, in a
-position shut off by submarine ridges from the general oceanic circulation.
-It is highly
-probable that temperatures even lower may yet be observed off Cape St. Roque, where
-32°:2 has been observed at a depth of 2537 fathoms. Temperature is also under the
-mean over the whole of the Pacific Ocean, except (1) to westwards of a line drawn
-from the south and west of Japan to the north of New Zealand ; and (2) over a large
-section of that ocean enclosed within a line passing from Valparaiso and curving round
-by about Marquesas Islands to Acapulco, though it must here be stated that
-observations are wanting from Valparaiso to Galapagos in and over the central parts of
-this region. Future soundings will probably show that these are areas shut off by a
-low enclosing ridge at the bottom. The lowest temperature in the Pacific is 33º.2, or
-2°:0 under the mean, a little to the south of Kamtschatka. Temperatures nearly a
-degree under the mean have been observed off Alaska, San Francisco, to the north-east
-of New Zealand, and in about lat. 40° S. and long. 107° W. But throughout the
-cold area of the Pacific generally the deficiency below the mean temperature of
-the oceans is extremely small. Thus, leaving out the small areas where temperature is
-nearly a degree under the mean, the mean temperature of the remaining sixty-three
-stations is 35°:0, or only 0°-2 under the mean temperature of the whole ocean at that
-depth. Speaking generally, the temperature of the Pacific at 2200 fathoms closely
-approximates to the average of the ocean taken as a whole at this depth.
-The temperature of the North Atlantic is everywhere above the average of the
-whole ocean, and the amounts of excess are for the great depths in all cases large. In
-maken
-arch
-Į THE
-IZ
+the north coast, and the highest, 30.180 inches, over the basin of the Murray River and
+its affiluents. From this region the diminution in pressure is uninterrupted to the
+north, even as far as the low-pressure system of Central Asia. Hence, the prevailing
+winds of Australia are essentially an outflow from the high pressure of the interior
+towards the lower pressure of the coasts, particularly the north coast, and these winds
+are S. E. on the north coast, S.W. at Brisbane, W.N.W. at Sydney, N. at Melbourne,
+and N.E. at Adelaide. The high pressure of the south of Australia is continued west-
+wards in the same latitudes through the Indian Ocean. From these latitudes (about
+lat. 30° S.), pressure falls continuously northward to the low pressure of Central Asia,
+and, following inevitably that diminution of pressure, southerly winds sweep across that
+ocean home into Asia. Where they touch the coast after traversing a great extent of
+the ocean, such as the coasts of the Bay of Bengal, they bring with them a heavy
+rainfall, which, from the lowering of the specific gravity thus occasioned, has an
+important retarding effect on the vertical circulation of the ocean there. On the
+other hand, on the northern and western parts of the Arabian Sea, the rainfall is
+exceedingly small, as the winds there have traversed but a small breadth of the ocean,
+and consequently, from the dryness of these winds, the specific gravity is much increased,
+and the vertical circulation becomes thereby accelerated.
+Similarly, as pressure diminishes from about lat. 25° S. in the Pacific uninterruptedly
+to the low pressure of Central Asia, the southerly winds on the south-eastern coasts of
+Asia, after having traversed a wide extent of ocean, pour a heavy rainfall on these
+coasts and outlying islands, thus lowering greatly the specific gravity of the surface
+during the warm months.
+The winds of Europe are determined by the high pressure of the Atlantic in its
+relations to the low-pressure systems of Asia and Africa at this time. On the
+coasts of Spain and North-West Africa the prevailing winds are northerly ; farther to
+the north, on the coasts of France and the British Islands, south-westerly ; and on the
+coast of Norway westerly and north-westerly. The curving of the winds round the
+anti-cyclone of the North Atlantic, from the N.E. off the coast of Africa, to E. and S.E.
+in the region of the West Indies, to S. and finally S. W. off the Eastern States of
+America, has all-important bearings on the circulation of the waters of that ocean.
+The centre of lowest pressure in North America is over the States about Utah, from
+which pressure rises all round, but chiefly to the south-east and west. In accordance
+with this arrangement of the pressure, the winds blow from the Gulf of Mexico home to
+the coasts of the States as southerly winds. On the other hand, the winds on the coasts
+of the Pacific States are N. and N.W. as far north as Vancouver, but over that island,
+and along the coasts to northward, they are S.W.
+From lat. 30° S. to lat. 63º S. pressure, as already explained, diminishes
+uninterruptedly from 30·150 inches to 29.000 inches, over a broad ring going round the

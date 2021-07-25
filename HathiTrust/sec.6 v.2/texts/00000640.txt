@@ -1,98 +1,131 @@
-1360
+1364
 THE VOYAGE OF H.M.S. CHALLENGER.
-Octopus boscii.
-Spirula peroni.
-Adeonella atlantica.
-distoma.
-Ætea anguina.
-Amathia spiralis.
-Amphiblestrum umbonatum.
-Bicellaria pectogemma.
-Carbasea dissimilis.
-ovoidea.
-Catenicella elegans.
-hastata.
-plagiostoma.
-Cellepora bicornis.
-eatonensis.
-mamillata.
-pustulata.
-tubulosa.
-vagans.
-Cribrilina monoceros
-radiata.
-Crisia conferta.
-Escharoides occlusa.
-Flustramorpha hastigera.
-marginata.
-Haswellia auriculata.
-Idmonea atlantica.
-marionensis.
-milneana.
-Membranipora albidla.
-crassimarginata.
-galeata.
-Menipea aculeata.
-benemunita.
-flagellifera.
-marionensis.
-Micropora coriacea.
-Microporella malusii.
-Mucronella castanea.
-tricuspis.
-(Phylactella) canalifera.
-Myriozoum marionense.
-Onchopora sinclairii.
-Pustulopora proboscidea.
-Retepora atlantica.
-tessellata.
-Schizoporella marsupifera.
-Scrupocellaria pilosa.
-Smittia jacobensis.
-marionensis.
-Vincularia gothica.
-Terebratulina caput-serpentis.
-Waldheimia kerguelenensis.
-Ascidia nigra.
-Colella murrayi.
-Cynthia pallida.
-Leptoclinum speciosum.
-Polycarpa radicata.
-Pyrosoma giganteum (surface).
-Styela radicosa.
-Aphritis gobio.
-Callionymus calauropomus.
-Champsodon vorax.
-Læops parviceps.
-Lepidotrigla spiloptera.
-Lophius naresii.
-Mycine australis.
-Notothenia longipes.
-Percis allporti.
-Pseudophycis bacchus.
-Scorpæna cruenta.
-Sebastes minicrochir.
-percoides.
-Uranoscopus kaianus.
-Of the 1408 species taken only in this zone between 100 and 500 fathoms, 1025
-species (or 73 per cent.) are new to science, and the following 89 new genera were
-obtained only in this zone. (The number of species is indicated within brackets for
-those genera containing more than one species) :-
-Astrella.
-Astropeplus.
-Callipelta.
-Calth ropella.
-Characella.
-Dorypleres.
-Epalla.c.
-Neosiphonia.
-Pleroma.
-Throminis.
-Tretolophus.
-Triptolemus.
-Aulascus.
-Amphilaphis.
-Anthomuricea.
-Callistephanus
-Chironephthya (3).
-Clematissa (3)
+S
+* Plumohalichondria mammillata, Carter.
+s
+* Polymastia robusta, Bowerbank. N
+Tedania tenuicapitata, Ridley.
+Tentorium semisuberites (Schmidt). SN
+* Thrinacophora
+cervicornis, n.g.,
+sp. (?). N
+n.sp. T
+S
+S
+T
+T
+T
+S
+S
+s
+s
+T
+T
+*
+s
+T
+S
+*
+T
+T
+S
+* Proteleia sollasi, n.g., n.sp.
+*
+funiformis, n.g., n.sp. T
+* Quasillina brevis (Bowerbank). N
+* Toxochalina robusta, Ridley. T
+Raspailia flagelliformis, n.sp.
+tenuis, n.sp.
+T
+TETRACTINELLIDA :
+* Reniera cinerea (Grant).
+* Rhaphidophlus filifer, n.sp.
+* Amphius huxleyi, n.g., n.sp.
+Anthastra communis, n.g., n.sp.
+gracilis (Ridley). T
+lobatus (Vosmaer), var.
+parvispicula, n.g., n.sp. S
+horrida, nov.
+pyriformis, n.g., n.sp.
+Rhizochalina fistulosu (Bowerbank). TN
+ridleyi, n1.g., n.sp.
+pedunculata, n.sp.
+* Azorica crassiuscula, n.sp. (locality and
+putridosa (Lamarck ?). S T
+depth unknown).
+pfeiffera, Carter. TN
+* Sideroderma navicelligerum, n.g., n.sp. T
+Siphonochalina annulata, n.sp.
+* Caminus sphæroconica, n.sp.
+* Chrotella macellata, n.g., n.sp
+intermedia, n.sp. S
+Spirastrella decumbens, Ridley.
+* Cinachyra barbata, n.g., n.sp.
+* Craniella carteri, n.sp.
+massa, n.sp.
+ST
+papillosa, n.sp.
+simillima (Bowerbank).
+* Cydonium cosaster, n.sp.
+T
+Stylocordyla stipitata (Carter). S TN
+glariosus, n.sp.
+var. globosa, nov.
+* Discodermia discifurca, n.sp.
+* Suberites antarcticus, Carter.
+ornata, n.sp. (locality and
+caminatus, n.sp.
+depth unknown).
+carnosus (Johnston). STN * Disyringa dissimilis (Ridley). T
+T
+durissimus, n.sp.
+* Erylus formosus, n.sp.
+S
+perfectus, n.sp.
+s
+* Myriastra clavosa (Ridley). T
+T
+ramulosus,
+simplicifurca, n.g., n.sp.
+n.sp.,
+N
+cylindrifera, nov. T
+subtilis, n.g., n.sp.
+spiralis, n.sp.
+S
+toxodonta, n.g., n.sp.
+* Tedania commixta, n.sp.
+s
+* Pilochrota anancora, n.g., n.sp.
+T
+digitata (Schmidt). SN
+crassispicula, n.g., n.sp.
+var. bermudensis, nov.
+T
+gigas, n.g., n.sp.
+digitata, var. fibrosa, nov.
+lendenfeldi, n.g., n.sp.
+infundibuliformis, n.sp.
+moseleyi, n.g., n.sp.
+massa, n.sp.
+S
+pachydermata, n.g., n.sp.
+S
+99
+s
+solida, n.sp.
+T
+S
+S
+S
+var.
+>
+T
+*
+T
+>>
+S
+T
+S
+T
+,

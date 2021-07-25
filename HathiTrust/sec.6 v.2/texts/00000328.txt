@@ -1,146 +1,50 @@
-CHART 38
-Summary of Results.
-170
-20°
-160°
-150°
-140°
-130°
-12
-HET
-SED
-TITUTT
-EFT
-SIPATI
-STONE
-THE
-TES
-TRI
-QUODDODDwaacobo DCGOGO 900000.00
-RE BITENT
-Domandom
-FR
-BMW
-.5
-20
-262 2875 volc.m
-Hawaii
-(For sounding and stations
-in the vicinity on the
-(Sandwich I see sheet 37
-2.1 VIII 3
-3
-1263 2650 volem
-3000
-r.d.
-2900 265 25
-rad. oz
-2750
-266
-rador
-10°
-20 267 2700 rados
-Northern limit of Counter Current
-August 1875.
-2900
-A.IX.75
-rad.oz
-13
-2550 269 2
-Southern limit of Counter Carnt
-1 September 1875.
-rad.oz
-1270 2923
-Loz
-70
-Christmas I.»
-o
-2425 2716
-goz
-Malden le
-272-2
-2600 rutor
-Starbucki
-273
-2350
-radoz
-Victorial,
-274
-2750
-radoz
-Penrhyn L.
-Marquesas 1
-10°
-Caroline 1
-Humphrey I.
-Vostock 1.7
-Flint1, 275
-2610r.d
-Suwarrow I.
-23501276
-rol
--12°
-Pa u mot
-a
-2325 277
-r.cl
-Society
-1525
-vplc.in
-Tahiti
-Low
-Cook
-For acudings and station
-in the varis of Taruta
-see sheet 3
-1940 280 4-X.76
-20°
-gl.oz
-lo
-1%
-A r
-h
-280 2385r.cl
-Tubuai I.
-2827
-2450
-r.cl
-Pitcairn I.
-!
-8 283 2075
-gl.oz
-P el a go
-1985 gl.oz
-1284
-3091
-285
-2375
-r.d
-16
-(286)
-2333
-I
-2400 267 19
-r.ci
-25
-20.
-4001
-290
-2600
-289
-2550
-r.d 288
-2300 y
-r.d
-Coop
-catalans TOODOODOODIDACTAR
-COORDOTEUT
-od
-TOODEDEPOTSDATA
-F
-பபபபா
-170°
-16:00
-15 0°
-14100
-130° Long West from Greenwich 12
+1072
+THE VOYAGE OF H.M.S. CHALLENGER.
+Station 279.
+Discorbina saulcii (a'Orbigny).
+Truncatulina haidingerii (d’Orbigny).
+lobatula (Walker and Jacob).
+ungeriana (d'Orbigny).
+Pulvinulina auricula (Fichtel and Moll).
+elegans (d’Orbigny).
+Pulvinulina hauerii (d'Orbigny).
+Rotalia orbicularis, d'Orbigny.
+soldanii, d'Orbigny.
+Amphistegina lessonii, d'Orbigny.
+Operculina complanata (Defrance).
+Heterostegina depressa, d'Orbigny.
+9
+Ат TAHITI.
+The Challenger remained at Tahiti from 4.20 P.M. on September 18 till 9 A.M. on
+October 3 (for description of the island see Narr. Chall. Exp., vol. i. pp. 776-788).
+Mr. Murray and Lieutenant Swire spent most of the time in examining the outward
+slope of the reef, by dredging, sounding, &c., from the steam pinnace and boats. The
+following species are recorded in the Zoological Reports as having been obtained from
+shore and shallow-water during the stay -
+ANIMALS FROM
+Tahiti.
+KERATOSA (Poléjaeff, Zool. pt. 31).
+Luffaria variabilis, n.sp. Obtained also at New Hebrides.
+MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
+Halichondria solida, n.sp. One specimen (30 to 70 fathoms); obtained also at
+New Hebrides (var.).
+Acarnus ternatus, Ridley. One specimen (20 fathoms); obtained at no other
+locality by the Challenger. Recorded from Bombay,
+Torres Strait, and Amirante Islands.
+Echinodictyum asperum, n.sp. Eight specimens (20 fathoms); obtained at no
+other locality
+TETRACTINELLIDA (Sollas, Zool. pt. 63).
+Pilochrota pachydermata, n.g., n.sp. One specimen (30 to 70 fathoms); obtained
+at no other locality.
+ALCYONARIA (Wright and Studer, Zool. pt. 64).
+Spongodes carnea, n.sp. (30 to 70 fathoms); obtained at no other locality.
+pustulosa, n.sp. Three specimens (30 to 70 fathoms); obtained at no
+other locality.
+cervicornis, n.sp. (30 to 70 fathoms); obtained at no other locality.
+>
+REEF CORALS (Quelch, Zool. pt. 46).
+Pocillopora cespitosa, Dana. One specimen ; obtained also at Sandwich Islands.
+solida, n.sp. One specimen ; obtained at no other locality.
+grandis, Dana. One specimen ; obtained at no other locality by the
+Challenger.
+37

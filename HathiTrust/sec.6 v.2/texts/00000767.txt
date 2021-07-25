@@ -1,182 +1,180 @@
 SUMMARY OF RESULTS.
-1485
-Cenosphæra-continued.
-reticulata, 1037.
-rosetta, 1201.
-setosa, 777, 1037, 1044.
-solida, 512, 1037.
-tenerrima, 1044.
-vesparia, 1010, 1013, 1037, 1044.
-Centriscus,
-scolopax, 592, 1440.
-Centrocubus,
-cladostylus, 986.
-octostylus, 1045.
-polystylus, 1108.
-Centronotus,
-nebulosus, 928, 1417.
-Centropages,
-brachiatus, 1119, 1141, 1167.
-furcatus, 575, 734, 835.
-violaceus, 551, 799, 835, 986,
-1093, 1095, 1137, 1208, 1210,
-1212, 1237, 1266.
-Centrophorus,
-foliaceus, 901, 1353.
-squamulosus, 901, 1353.
-Centropogon,
-australis, 574, 1417.
-Centropristis,
-annularis, 364, 1353.
-pleurospilus, 749, 1353.
-Centroscyllium,
-granulatum, 1162, 1353.
-Cephalacanthus, 1458.
-Cephalodiscus, 1361.
-dodecalophus, 1162, 1352.
-Cephalospyris,
-cancellata, 1051.
-clavipes, 1051.
-orata, 1040.
-triangulata, 1060.
-Cephalothrix, 910.
-Cerapus,
-flindersi, 698, 1385.
-sismithi, 469, 1340.
-Cerataulina,
-bergonii, 734.
-Cerataulus,
-lævis, 287.
-turgidus, 278, 287, 303, 888, 905,
-931, 939.
-Ceratia (see Rissoa).
-Ceratias,
-bispinosus, 754, 1353.
-carunculatus, 901, 1353.
-uranoscopus, 299, 1286, 1287.
-Ceratium (see Peridinium).
-Ceratocarcinus,
-longimanus, 736, 1390.
-Ceratocephalus,
-grayanus, 532, 559, 1386, 1424.
-Ceratodus, 1439.
-Ceratoisis,
-grandiflora, 636, 1315, 1325, 1330.
-nuda, 642, 1365.
-palmæ, 292, 1303.
-paucispinosa, 897, 1330.
-philippinensis, 779, 1365.
-Ceratolepis,
-hamata, 675.
-Ceratonereis (see Nereis).
-Ceratoplax,
-arcuata, 725, 1390.
-ciliata, 701, 1890.
-Ceratosoma,
-cornigerum, 832, 1410.
-Ceratospyris,
-allmersii, 880, 1250.
-calorrhiza, 1046.
-carnerii, 880.
-krausei, 798.
-polygona, 1041.
-preyeri, 1218.
-strasburgeri, 880.
-Cerebratulus, 464, 810, 899, 1194, 1337,
-1380.
-angusticeps, 596, 601, 1305, 1313,
-1380.
-corrugatus, 464, 489, 1380, 1424.
-longifissus, 435, 1380.
-macroren, 607, 899, 1319, 1326,
-1337, 1446.
-medullatus, 464.
-parkeri, 596, 1380.
-truncatus, 221,225, 242,1380,1424.
-Cerelasma,
-gyrosphæra, 1035, 1283.
-lamellosa, 847, 1283.
-Cereus, 1450.
-spinosus, 507,933,1292,1298,1446.
-Cerianthus,
-americanus, 1194, 1367.
-membranaceus, 823, 1367.
-Ceriaspis,
-cicatricosa, 922.
-favosa, 1062.
-icosahedra, 1257.
-inermis, 1098.
-lacunosa, 1213.
-scrobiculata, 1033.
-Cerithiopsis, 345, 655, 710, 999, 1076,
-1399, 1400.
-balteata, 655, 1399.
-fayalensis, 274, 1346.
-pulchella, 178, 1346.
-ridicula, 710, 1399.
-turrigera, 999, 1399.
-Cerithium, 79, 439, 711, 1076, 1225,
-1346, 1400.
-balteatum, 655, 710, 1400, 1426.
-carbonarium, 925, 1400.
-columna, 655, 1400.
-Cerithium-continued.
-dubium, 655, 710, 1400, 1426.
-lessium, 656, 1400.
-matukense, 634, 1346.
-novæhollandiæ, 710, 1400.
-phoxum, 656, 1400.
-salebrosum, 655, 1400.
-tuberculatum,
-var, variegatum, 656, 1400.
-vulgatum, 413, 1400, 1449.
-(Lampania),
-australe, 570, 1400, 1449.
-(Vertagus), 628, 1400.
-articulatum, 711,736, 1400, 1426.
-asperum, 628, 656, 1400, 1426.
-kochi, 736, 765, 1400, 1426.
-martinianum, 861, 1400.
-turritum, 711, 1400.
-Cestodiscus,
-convexus, 1012.
-coronatus, 1012, 1028.
-fasciculatus, 1028.
-gemmifer, 1028.
-ovalis, 1027.
-parmula, 1012, 1028.
-pulchellus, 1012, 1028.
-trochus, 1028.
-Cestracion, 1440.
-Cestum, 587.
-Chænostoma (see Euplax).
-Chætaster,
-longipes, 202, 270, 1334, 1358,
-1375.
-Chætoceros, 734.
-æquatoriale, 931.
-antarcticum, 517.
-atlanticum, 514, 517.
-var, attenuata, 517.
-boreale, 734.
-var. brightwellii, 517.
-coarctatum, 734, 760,905,939,950.
-compressum, 734, 931.
-criophilum, 517.
-decipiens, 514, 517.
-dicladia, 493.
-didymum, 931.
-dispar, 517.
-distans, 734, 931.
-diversum, 734.
-incisor, 734.
-janischianum, 514, 515, 517.
-var. lata, 515, 517.
-javanicum, 734.
-lorenzianum, 734.
-pelagicum, 931.
-peruvianum, 734, 931.
-protuberans, 734, 931.
-ralfsii, 931.
-remotum, 514, 515, 517.
-var. biaurita, 517.
+1489
+Clistosaccus, 521.
+Coelacantha,
+Clupea,
+mammillata, 1218.
+moluccensis, 862, 1417.
+Colagalma,
+sagax, 1121, 1417.
+mirabile, 1043.
+sprattus, 1440.
+Coelocormus, 1327.
+tembang, 660, 1417.
+huxleyi, 1192, 1323.
+Clymene, 122, 284, 479, 495, 603, 639, Coelodasea,
+902, 948.
+spongiosa, 1250.
+Clypeaster,
+Celodecas,
+humilis, 762, 819, 1378, 1423.
+decastyla, 1052.
+subdepressus, 375, 1378.
+pentagona, 1218.
+Clytus, 297.
+sagittaria, 1250.
+Cnemidaster, 1327.
+Celodendrum,
+wyvillii, 738, 1317.
+bifurcum, 977, 980, 982, 986.
+Cnidoglanis,
+cervicorne, 1218.
+megastoma, 574, 1417.
+flabellatum, 920, 922, 940, 941,
+nudiceps, 732, 1417.
+943, 944.
+Coccia, 922.
+lappaceum, 1089, 1105.
+ovata, 842.
+serratum, 1032, 1043, 1052, 1056,
+Coccocyclia,
+1061.
+heliantha, 1022.
+spinosissimum, 1251, 1255, 1257.
+liriantha, 1011.
+Calodon,
+Coccodiscus,
+elongatus, 702, 1395.
+darwinii, 1039.
+Cælodoras,
+goethei, 1217.
+hexagraphis, 1017.
+lamarckii, 868, 879.
+octographis, 1052.
+Coccolarcus,
+Colodrymus,
+lentellipsis, 1051.
+ancoratus, 1132.
+platellipsis, 1060.
+lappulatus, 610.
+Cocconeis, 197, 442.
+Colographis,
+arctica, 492.
+sagittella, 1043.
+cælata, 286.
+triangulum, 1105.
+coronata, 287.
+Cceloplegma,
+cyclophora, 442.
+atlanticum, 1184.
+costata, 142, 481, 930.
+tetradecastylum, 1231, 1237.
+var, kerguelensis, 442, 481, Celopleurus,
+492.
+maillardi, 747, 762, 780, 1336,
+decipiens, 442.
+1355.
+dirupta, 287.
+Caloria,
+var. fulgur, 442.
+dædolina, 643, 1368.
+var, minutissima, 481.
+esperi, 643, 1368.
+var, sigma, 442.
+leptoticha, 623, 1368.
+grantiana, 287, 424.
+stricta, 643, 1368.
+heteroidea, 904.
+Celospathis,
+interrupta, 287.
+octodactyla, 977.
+moorei, 130, 191, 197.
+octostyla, 1043, 1052, 1056, 1061.
+pellucida, 904, 938.
+Celostylus,
+placentula, 931.
+flabellatus, 977.
+pseudomarginata, 191, 277, 287, Cælothamnus,
+302, 424, 904, 930.
+bivalvis, 1268.
+scutellum, 130, 191, 197, 220,
+maximus, 1043.
+277, 287, 424, 442, 904, 930.
+sedecimalis, 592.
+var. ampliata, 442, 481. Celothauma,
+var. distans, 442.
+duodenum, 610.
+var, fulgur, 481.
+Celotholus,
+var. minutissima, 442.
+cruciatus, 582.
+wrightii, 442.
+octonus, 1132.
+Cocculina,
+Coenobita,
+angulata, 786, 1400.
+clypeata, 860, 1388.
+Codakia (see Lucina).
+perlata, 648, 668, 1388, 1425.
+(SUMMARY OF RESULTS CHALL. EXP.-1894.)
+Cænobita--continued.
+rugosa, 648, 668, 736, 860, 1075,
+1388, 1425.
+Coleaspis,
+coronata, 1017.
+hydrotomica, 428.
+occulta, 524.
+vaginata, 980.
+Colella,
+concreta, 477, 1414.
+elongata, 574, 1414.
+gamiardi, 1180, 1414.
+murrayi, 580, 1353, 1360.
+var. rubida, 544, 1414.
+pedunculata, 476, 491, 1171,
+1173, 1180, 1414, 1428.
+pulchra, 714, 1414.
+quoyi, 477, 1414.
+ramulosa, 1162, 1353.
+thomsoni, 821, 1414.
+ollonia (see Turbo).
+Collosphæra, 109, 117, 139, 142, 143,
+148, 383, 848, 849, 872, 952,
+965, 1068.
+cyathina, 1257.
+huxleyi, 167.
+irregularis, 1254, 1261.
+polyedra, 1017, 1019, 1024, 1028,
+1032, 1044.
+polygona, 1038, 1254, 1261, 1265,
+1267.
+primordialis, 1044, 1053, 1056,
+1061.
+pyriformis, 1017, 1019, 1024,
+1028, 1032, 1038, 1044, 1053,
+1024, 1261.
+regularis, 1038.
+Collozoum,
+contortum, 1250.
+inerme, 587.
+ovatum, 958.
+stellatum, 1061.
+vermiforme, 1257.
+volvocinum, 1053.
+Colochirus,
+australis, 557, 1379.
+challengeri, 695, 1379.
+cucumis, 785, 1379.
+inornatus, 907, 1379.
+pygmæus, 375, 1379.
+quadrangularis, 785, 1379.
+spinosus, 557, 1379, 1447.
+violaceus, 785, 1379.
+Colossendeis, 1451.
+brevipes, 1205, 1279.
+gigas, 447, 454, 1130, 1296, 1300,
+1308, 1311.
+gigas-leptorhynchus, 520, 1296.
+gracilis, 447, 454, 1296, 1300,1308.
+leptorhynchus, 447, 454, 1130,
+188

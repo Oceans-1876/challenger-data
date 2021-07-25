@@ -1,115 +1,90 @@
-1374
+1378
 THE VOYAGE OF H.M.S. CHALLENGER.
-*
-97
-»
-N
 T
 *
 T
-S
-09
-* Antedon eschrichti (Müller). N
-* Asterias (Stolasterias) calamaria, Gray.
-informis, n.sp.
-T
-S
-macronema (Müller). S
-(
-) gemmifera (Val-
-marginata, n.sp.
-T
-enciennes, MS.),
-microdiscus, Bell. T
-Perrier. T
-milberti (Müller).
-T
-(
-) glacialis, Müller.
-multiradiata, n.sp.
-T
-T
-parvicirra, n.sp.
-T
-(
-) tenuispina, La-
-quadrata, n.sp.
-marck. N
-quinduplicava, n.sp.
-T
-(
-) volsellata, n.sp.
-regalis, n.sp.
-T
-variipinna, Carpenter.
-* Asterina cepheus (Müller and Troschel).
-* Metacrinus interruptus, n.g., n.sp.
-T
-T
-* Promachocrinus kerguelensis, n.g., n.sp.
-exigua (Lamarck), Perrier.
-ST
-folium (Lütken), Agassiz. N
-ASTEROIDEA :
-S
-gunnii, Gray.
-pectinifera (Müller and Tros
-* Acanthaster echinites (Ellis and Solander),
-chel). N
-Lütken. T
-penicillaris (Lamarck). N
-* Anthenea acuta, Perrier. s
-regularis, Verrill. S
-tuberculosa, Gray
-* Asterodiscus elegans, Gray.
-T
-Archaster typicus, Müller and Troschel. * Astropecten brasiliensis, Müller and Tros-
-chel. T
-* Asterias amurensis, Lütken. N
-granulatus, Müller and Tros-
-cunninghami, Perrier.
-chel. T
-glomerata, n.sp.
-S
-japonicus, Müller and Tros-
-meridionalis, Perrier.
-chel. N
-perrieri, Smith. s
-mesactus, n.sp.
-s
-torquata, n.sp.
-N
-monacanthus, n.sp.
-versicolor, n.sp.
-N
-pectinatus, n.sp.
-(Cosmasterias) tomidata,
-polyacanthus, Müller and
-n.sp.
-S
-Troschel. S TN
-(Leptasterias)compta, Stimpson.
-pontoporaus, n.sp.
-S
-N
-velitaris, Martens. T
-(Smilasterias) scalprifera, n.sp.
-zebra, n.sp.
-T
-s
-var. rosea, nov.
-(Stolasterias) africana (Müller Bathybiaster loripes, n.sp., var. obesa,
-and Troschel), Perrier. s
-s
+27
 *
 T
 T
-S
-S
->
 T
->
+*
+ECHINOIDEA :
+Hipponoë variegata (Leske). S T
+* Amblypneustes formosus, Val. S * Holopneustes purpurescens (Lütken). S
+Arbacia dufresnii (Bl.). s
+Laganum depressum, Lesson.
+nigra (Molin). S
+putnami, Barn.
+pustulosa (Leske). T
+* Lovenia elongata, Gray. S T
+Aspidodiadema tonsum, n.g., n.sp. S T
+subcarinata, Gray. T
+Asthenosoma coriaceum, n.sp.
+T * Maretia planulata, Gray. S T
+grubii, n.sp.
+* Mellita sexforis, Agassiz. T
+pellucidum, n.sp.
+T Mespilia globulus, Agassiz.
+* Astriclypeus manni, Verrill. N
+* Metalia maculosa (Gmelin). T
+* Astropyga pulvinata (Lamarck). T
+pectoralis, Agassiz. T
+* Breynia australasia (Leach). T Microcyphus zigzag, Agassiz. S
+Brissopsis luzonica (Gray). S TN Micropyga tuberculata, n.g., n.sp. T
+lyrifera (Forbes). S * Periaster limicola, n.sp. T
+* Cidaris tribuloides (Lamarck).
+Peronella decagonalis (Lesson). T
+Clypeaster humilis (Leske). T
+peroni (Agassiz). S
+subdepressus (Gray). . T * Phyllacanthus annulifera (Lamarck). T
+* Diadema setosum (Gray). T
+baculosa (Lamarck). T
+Dorocidaris (Cidaris) bracteata, n.sp. T
+gigantea, Agassiz. T
+( ) papillata (Leske). . *
+verticillata (Lamarck). T
+STN * Pleurechinus bothyroides, Agassiz. TN
+Echinanthus testudinarius, Gray. * Pseudoboletia indiana (Michelin). T
+* Echinocardium australe, Gray. SN * Rhinobrissus hemiasteroides, n.sp.
+T
+* Echinometra lucunter (Leske). T
+Salenia hastigera, n.sp.
+S TN
+subangularis (Leske). T * Salmacis bicolor, Agassiz. T
+* Echinothrix calamaris (Pallas). T
+dussumieri, Agassiz. T
+turcarum (Schynv.).
+globator, Agassiz. T
+* Echinus angulosus (Leske). S
+rarispina, Agassiz. T
+magellanicus, Phil. S
+sulcata, Agassiz. T
+margaritaceus, Lamarck. S Schizaster fragilis (Düben and Koren).
+Encope emarginata (Leske).
+SN
+* Eupatagus valenciennesii, Agassiz. S T
+japonicus, n.sp.
+Τ Ν
+* Evechinus chloroticus (Val.). T
+Spatangus purpureus, Müller. N
+Fibularia australis, Desmoulins. S
+raschi, Lovén. S
+volva, Agassiz. T
+Sphærechinus australiæ, Agassiz. S
+Goniocidaris canaliculata, Agassiz.
+granularis (Lamarck).
+tubaria (Lamarck).
+Τ Ν
+Hemiaster cavernosus (Phil.). S
+Strongylocentrotus dröbachiensis
+* Heterocentrotus mammillatus (Klein). T
+(Müller). N
 S
 *
-X
-nov.
+*
+T
+T
+*
+02
+S

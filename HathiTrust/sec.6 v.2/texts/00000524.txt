@@ -1,56 +1,96 @@
-1246
+1250
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 346.
-Density at 60° F. :-
-Surface,
-25 fathoms,
-. 1.02624
-. 1.02633
-. 1.02614
-. 1.02618
-102602
-50
-100
-300 fathoms,
-400
-800
-1875
-Bottom,
-. 1.02570
-. 1:02556
-. 1.02594
-1.02591
-. 1.02622
->
-200
-Depth, 2350 fathoms; deposit, Globigerina Ooze, containing 85.42 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 5.40 A.M. shortened sail. At 6 A.M. stopped and sounded 2350 fathoms ; the
-sounding-tube had sunk about a foot into the ooze, but with the exception of a few
-streaks on the outside it brought up no deposit. At 8 A.M. put dredge over and veered
-2900 fathoms. At 9.30 A.M. took serial temperatures down to 1500 fathoms. The
-carbonic acid was determined in water from 800 and 1875 fathoms, and amounted
-respectively to 45.5 and 39.2 milligrammes per litre. At 1 P.M. commenced heaving in
-dredge, which came up at 3.45 P.M., with the swabs foul of the mouth of the dredge,
-but with several specimens attached to the swabs. In the dredge and attached tow-nets
-were about five litres of the deposit. Proceeded under steam and sail. A bird, probably
-a frigate bird, was seen while dredging.
-Cape Verde distant at noon, 1062 miles. Made good 88 miles. Amount of current
-29 miles, direction S. 72º W.
-ANIMALS FROM
-DREDGE.
-The following species are recorded in the Zoological Reports from the dredge at this
-Station :
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Styracaster horridus, n.g., n.sp. Three specimens ; obtained at no other locality.
-Recorded subsequently from Indian Ocean (“ Investigator ").
-Freyella tuberculata, n.sp. Two specimens ; obtained also at Station 89.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha convexa, n.sp.
-Four specimens ; obtained also at Stations 241
-and 246.
-HOLOTHURIOIDEA (Théel, Zool. pt. 39).
-Synapta abyssicola, n.sp. (?). Small fragment; obtained at no other locality.
-OSTRACODA (Brady, Zool. pt. 3).
-Cythere dasyderma, n.sp. For distribution see Station 5.
-The Station-book records also a Polyzoon.
+STATION 347.
+Tricyclidium dictyospiris, Haeckel.
+Tympaniscus dodecaster, Haeckel.
+Tympanidium staurocircum, Haeckel.
+Distympanium distephanus, Haeckel.
+Tripospyris semantidium, Haeckel.
+Tristylospyris palmipes, Haeckel.
+Dendrospyris arborescens, Haeckel.
+Tessarospyris nuciformis, Haeckel.
+Zygospyris equus, Haeckel.
+Taurospyris bovina, Haeckel.
+Ceratospyris allmersii, Haeckel.
+Circospyris nucula, Haeckel.
+Patagospyris anthocyrtis, Haeckel.
+Sphærospyris globosa, Haeckel.
+Cannobotrys monocanna, Haeckel.
+Acrobotrys pentasolenia, Haeckel.
+Pylobotrys putealis, Haeckel.
+Tridictyopus conulus, Haeckel.
+Cladoscenium pinnatum, Haeckel.
+Bathropyramis ramosa, Haeckel.
+Phænoralpis petalospyris, Haeckel.
+Cyrtocalpis reticulum, Haeckel.
+Lithomelissa haeckelii, Bitschli.
+Lychnocaninm fortipes, Haeckel.
+Anthocyrtium anemone, Haeckel.
+setosum, Haeckel.
+Sethoconus mitra, Haeckel.
+tabulatus, Haeckel.
+Pterocorys pipetta, Haeckel.
+Theopodium tricostatum, Haeckel.
+Rhopalocanium cortinium, Haeckel.
+Phormocyrtis carinata, Haeckel.
+Cycladophora lanterna, Haeckel.
+Calocyclas sacerdotis, Haeckel.
+Theoconus longicornis, Haeckel.
+Theocampe nucula, Haeckel.
+Tricolocapsa schleidenii, Haeckel.
+Eucyrtidium galathea, Ehrenberg.
+Eusyringium leptosiphon, Haeckel.
+Cyrtocapsa diploconus, Haeckel.
+Phæodina cannopylea, Haeckel.
+Catinulus lopadium, Haeckel.
+Mesocena annulus, Haeckel.
+Aulographis gemmascens, Haeckel.
+polyancistra, Haeckel.
+Orosphæra confluens, Haeckel.
+Oroplegma giganteum, Haeckel.
+Aulastrum monoceros, Haeckel.
+Cannosphæra atlantica, Haeckel.
+Lithogromia diatomacea, Haeckel.
+Challengeria sloggettii, Murray.
+uildi, Haeckel.
+Challengeron heptacanthum, Haeckel.
+carpenterii, Murray.
+wyvillei, Haeckel.
+Pharyngella invas pinata, Haeckel.
+Porcupinia aculeata, Haeckel.
+Medusetta codonium, Haeckel.
+Euphysetta hybocodlon, Haeckel.
+Gazelletta schleinitzii, Haeckel.
+Circoyonia icosahedra, Haeckel.
+Haeckeliana maxima, Haeckel.
+Calodasea spongiosa, Haeckel.
+Celodecas sagittaria, Haeckel.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms. The following species are recorded from the surface at this
+Station :-
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Actissa phacoiles, Haeckel.
+Collozoum contortum, Haeckel.
+Thalassosphæra rhaphidium, Haeckel.
+Siphonosphæra socialis, Haeckel.
+Coronosphæra convolvulus, Haeckel.
+Hexastylus longissimus, Haeckel.
+Hexacontium sceptrum, Haeckel.
+Acanthosphæra insignis, Haeckel.
+Heliosphæra heteracantha, Haeckel.
+Haliomma hexagonium, Haeckel.
+Astrosphæra splendens, Haeckel.
+Arachnosphæra velaris, Haeckel.
+Spongopila dichotoma, Haeckel.
+Cenellipsis macima, Haeckel.
+Stylartus penicillus, Haeckel.
+Cyphonium ethmarium, Haeckel.
+Amphibrachium capitatum, Haeckel.
+Dictyastrum hexagonum, Haeckel.
+trispinosum, Haeckel.
+Histiastrum quadrigatum, Haeckel.
+Pylolena inermis, Haeckel.
+Spongostaurus hastatus, Haeckel.
+Pylonium stenozonium, Haeckel.
+Acanthonia claparedei, Haeckel.

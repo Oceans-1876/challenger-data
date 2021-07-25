@@ -1,182 +1,183 @@
-1536
+1540
 THE VOYAGE OF H.M.S. CHALLENGER.
-Pachygrapsus,
-transversus, 245, 311, 561, 1392,
+Philomedes,
+gibbosa, 834.
+wyville-thomsoni, 531, 1384.
+Philonicus,
+(Pleoticus),
+lucasii, 748, 1341.
+mülleri, 1194, 1388.
+pectinatus, 723, 1388.
+Philyra,
+platycheira, 562, 1392.
+Phlyctenophora, 1429.
+zealandica, 558, 596, 852, 1384,
+1424.
+Phlyxia (see Ebalia).
+Phoberus,
+tenuimanus, 739, 1320.
+Phoebetria (see Diomedea).
+Pholas, 852.
+Pholidaster, 1361.
+distinctus, 746, 788, 1334.
+squamatus, 788, 1334.
+Phorcorrhaphis, 675.
+edwardsi, 575, 889.
+zamboanga, 290, 783, 1095.
+Phormobotrys,
+cannothalamia, 880.
+pentathalamia, 880, 1051.
+polythalamia, 1118.
+trithalamia, 1016.
+Phormocampe,
+campanula, 881, 1042.
+conus, 1114.
+eucalyptra, 950, 1042, 1047.
+lamprocyclas, 1052.
+metalis, 1012.
+mitra, 920.
+Phormocyrtis,
+carinata, 1042, 1047, 1250.
+costata, 881, 1052.
+embolum, 1012, 1016, 1023.
+longicornis, 881, 1023.
+quadrata, 980.
+Phormosoma, 580, 777.
+asterias, 1124, 1285.
+bursarium, 776, 792, 899, 1304,
+1312, 1336, 1355.
+hoplacantha, 578, 918, 1128,
+1304, 1312, 1318, 1326, 1336,
+1446.
+luculentum, 738, 776, 792, 1304,
+1312, 1318, 1326, 1336.
+rigidum, 607, 1318.
+tenue, 934, 1049, 1058, 1278,
+1280, 1281, 1294.
+uranus, 121, 282, 1294, 1299,
+1304.
+Phormospyris,
+tricostata, 1051.
+tridentata, 880, 1060.
+trifoliata, 1041.
+Phoronis,
+buskii, 821, 1413.
+Phorticium,
+deforme, 1051.
+spironium, 1032, 1046, 1053,
+1057, 1061.
+Phorus, 365, 790.
+Phos,
+bathyketes, 815, 1348.
+naucratoris, 865, 1348.
+nodicostatus, 627, 1404.
+roseatus, 736, 806, 820, 1404,
+1427.
+scalarioïdes, 707, 1404.
+senticosus, 736, 1404.
+smithi, 360, 1348.
+(Strongylocera),
+angulatus, 820, 1404.
+sculptilis, 707, 1404.
+Photichthys,
+argenteus, 599, 1419.
+Photinula (see Trochus).
+Photis,
+brevicaudata, 532, 1386.
+macrocarpus, 469, 1386.
+Phoxaster,
+pumilus, 210, 213, 217, 1293,
+1299, 1304.
+Phoxichilidium,
+fluminense, 377, 1394.
+insigne, 377, 1394.
+mollissimum, 935, 1296.
+oscitans, 259, 1296.
+patagonicum, 1141, 1152, 1326,
+1343, 1359, 1394,
 1425.
-Pachyseris,
-speciosa, 1073, 1371.
-Pachysoma, 783.
-punctatum, 783, 835.
-Pachystomias, 1290.
-microdon, 674, 675, 1288.
-Pælopatides,
-appendiculata, 918, 1318.
-aspera, 801, 1318.
-confundens, 1117, 1124, 1129,
-1285, 1288, 1289, 1305.
-Pagellus, 1440.
-Pagodroma,
-nivea, 506.
-Pagrus,
-cardinalis, 927, 1419.
-major, 927, 1419.
-Paguristes, 805, 1389.
-hians, 805, 1389.
-pilosus, 597, 1389.
-subpilosus, 594, 1342.
-visor, 358, 1342.
-Pagurodes, 266, 1307.
-inarmatus, 446, 603, 1307, 1311.
-limatulus, 841, 1321.
-piliferus,724,789,1342, 1359,1389.
-Paguropsis, 1361.
-typicus, 789, 1342.
-Pagurus, 114, 118, 203, 224, 238, 260,
-268, 346, 418, 560, 595, 603,
-787,822,842,910,936, 1225,1389.
-calidus, 126, 310, 1389, 1425.
-dearmatus, 860, 1389.
-deformis, 1075, 1389.
-euopsis, 625, 1389.
-granulatus, 411, 1389.
-imbricatus, 699, 1389.
-similimanus, 819, 1389,
-striatus, 789,830, 1342, 1359, 1389.
-Palæmon, 152, 155, 811.
-affinis, 560, 1388, 1441 1448.
-natator, 188.
-squilla, 1441.
-Palæmonella,
-orientalis, 776, 1341.
-Palæotropus,
-loveni, 814, 1336.
-Palinostus (see Palinosytus).
-Palinosytus,
-(Palinostus),
-lalandii, 395, 1341, 1359.
-Palinurus, 1115.
-Pallasia (see Sabellaria).
-Pallene, 1452.
-australiensis, 540, 549 1343,
-1359, 1394.
-lævis, 540, 1394.
-Pallene-continued.
-languida, 533, 1394.
-Palmeria,
-hardmaniana, 733.
-Palmicellaria,
-skenei,
-var. tridens, 227, 1413.
-Palmipes,
-diaphanus, 864, 1334
-Palmyra,
-aurifera, 907, 1382.
-Palolo,
-viridis, 647, 1382.
-Palythoa, 117, 260, 387, 392, 418, 504,
-505, 603, 759, 793, 936, 1123,
-1192, 1284, 1367.
-anguicoma, 392, 1367.
-Panarium,
-annularium, 979.
-facettarium, 1022.
-pipettarium, 879, 1039, 1045.
-tubularium, 1031, 1039, 1050.
-Panartus,
-amphiconus, 957.
-diploconus, 1050.
-fusiformis, 939.
-pluteus, 1050.
-quadriceps, 1059.
-quadrijugus, 1039, 1045.
-setosus, 777, 979.
-spinosus, 944.
-tetracolus, 1039, 1254.
-tetraplus, 1031, 1039, 1050, 1055
-1059.
-tetrathalamus, 167.
-Pandalopsis, 1327.
-amplus, 1190, 1321.
-Pandalus, 1434, 1441, 1451.
-annulicornis, 1441.
-falcipes, 226, 1388.
-magnoculus, 590, 591, 594, 1341,
-1356, 1432.
-modestus, 421, 1341.
-Pandanus, 851.
-Pandarus
-cranchii, 617, 892.
-satyrus, 617.
-zygænæ, 308, 1384.
-Panicium,
-coronatum, 1039.
-scoparium, 1031, 1039, 1050,
-1055, 1059.
-Pannychia,
-moseleyi, 578, 607, 1318, 1326,
-1337.
-Panopeus,
-herbstii,
-var. serratus, 244, 1392.
-Pantopelta,
-icosaspis, 512, 513.
-Panulirus,
-angulatus, 865, 1341.
-guttatus, 340.
-penicillatus, 1075, 1388.
-Papyridea (see Cardium).
-Paractis, 1450.
-excavata, 1128, 1303.
-tubulifera, 933, 1292.
-Paracyathus,
-de filippii, 270, 719, 1368, 1422.
-Paracycloïs, 1361.
-milne-edwardsii, 865, 1343.
-Paracypris,
-polita, 596, 1071, 1270, 1339,
-1359, 1384, 1424.
-Paradisea,
-apoda, 735.
-Paradoxostoma, 1443, 1451.
-abbreviatum, 467,1384,1443, 1448
-ensiforme, 1270, 1384, 1443.
-Paradryope, 1290.
-orguion, 947, 1286.
-Paragonaster,
-ctenipes, 332, 746, 1334.
-cylindratus, 332, 1293.
-Paralamprops, 1361.
-serrato-costata, 471, 1340.
-Paralia,
-sulcata, 130, 191, 198, 220, 303,
-425, 481, 493, 733, 812, 904,
-931, 939, 1119.
-Paraliparis, 1452.
-membranaceus, 1158, 1354.
-Paralomis, 1452.
-aculeatus, 437, 1342.
-formosus, 1190, 1321.
-verrucosus, 1177, 1271, 1389.
-Paralpheus,
-diversimanus, 699, 1388, 1424.
-Paralycæa,
-hoylei, 1260.
-Paramuricea,
-æquatorialis, 338, 1366.
-laxa, 1156, 1331.
-ramosa, 1150, 1331.
-Paranebalia, 1429.
-longipes, 243, 1386.
-Paranephthya, 1429.
-capitulifera, 822, 1366.
-Paranthura,
-chiltoni, 608, 1320.
-neglecta, 471, 1340.
-Parapagurus,
-abyssorum, 237, 333, 387, 759,
-792, 856, 935, 1129, 1140,
-1225, 1289, 1290, 1296, 1298,
-1300, 1301, 1307, 1311, 1314,
-1389.
-var. scabra, 237, 257, 1286.
-affinis, 841, 1321.
+var. elegans, 1152, 1191,1321.
+pilosum, 454, 509, 1296, 1298.
+Phoxocephalus,
+bassi, 545.
+kergueleni, 468, 1340, 1359,
+1386.
+Phractacantha,
+bifurca, 1046.
+bipennis, 1017.
+Phractaspis,
+cataphracta, 1266.
+complanata, 1239.
+condylophora, 1095.
+constricta, 1254.
+Phractopelta,
+aspidomima, 12:1.
+diporaspis, 1218.
+dorataspis, 943.
+dyadopora, 986.
+haliomma, 1108.
+hexadopora, 1053.
+tessaraspis, 941.
+tessaromma, 1017.
+tetradopora, 980.
+Phrenocodon,
+clathrostomium, 1052.
+diaphragma, 1042.
+Phronima, 137, 153, 249, 252, 334, 336,
+380, 382, 383, 384, 385, 428,
+522, 525, 530, 552, 661, 664,
+768, 836, 845, 848, 871, 889,
+893, 894, 895, 920, 943, 944,
+951, 959, 965, 977, 992, 1186.
+atlantica, 960.
+megalodous, 314, 675, 885.
+nova-zealandiæ, 520, 1295.
+pacifica, 327.
+sedentaria, 122, 143, 900, 1340.
+tenella, 1054.
+Phronimella, 334, 845, 853, 889, 894,
+1208, 1210.
+tlongata, 142, 334, 337, 799,
+836, 852, 887, 892, 1024, 1033,
+1255.
+Phrosina,
+australis, 575.
+pacifica, 889, 892.
+semilunata, 252, 1263.
+Phtisica,
+(Proto),
+novæ hollandiæ, 559, 1386.
+Phycis, 1440.
+Phylactella, 978, 1280.
+Phylactella (see Mucronella).
+Phyllacanthus,
+annulifera, 695, 721, 1378, 1423.
+baculosa, 780, 828, 1378, 1423.
+gigantea, 995, 1378.
+verticillata, 695, 1378.
+Phylliroë, 325, 380, 381, 383, 676, 884.
+atlantica, 315, 317, 322.
+bucephala, 381.
+Phyllochætopterus,
+claparedii, 907, 1382.
+Phyllocomus,
+crocea, 489, 1382.
+Phyllodoce, 327, 492.
+duplex, 548, 1338.
+(Anaitis),
+sancti-vincentis, 307, 1382.
+Phyllonotus (sce Murex).
+Phyllophorus,
+incompertus, 557, 1379.
+Phyllopteryx,
+teniophorus, 716, 1419.
+Phyllopus,
+bidentatus, 1207.
+Phyllosoma, 137, 150, 153, 157, 189,
+251, 320, 661, 676, 782, 884,
+885, 887, 889, 890, 893, 895,
+951, 1263, 1458.
+furcicaudatum, 314.
+philippinense, 835.
+verdense, 314.
+1327,

@@ -1,51 +1,44 @@
-1432
+1436
 THE VOYAGE OF H.M.S. CHALLENGER.
-NUMBER OF
-INDIVIDUALS OF
-ONE SPECIES IN
-DEEP-SEA
-TRAWLINGS.
-There were over thirty specimens of the little sea-urchin, Urechinus naresianus, in the
-trawl at Station 146 in 1375 fathoms, but as a rule, in the Challenger trawlings deeper
-than 1000 fathoms, it was unusual to take more than four or five specimens of any one
-species in a single haul. Indeed, a great number of genera as well as species, in
-proportion to the number of specimens, is the marked peculiarity of these hauls in very
-deep water. In depths less than 1000 fathoms, and especially in depths less than 500
-fathoms, immense numbers of individuals, all belonging to the same species, may
-be
-captured in a single haul. At Station 166, in 275 fathoms, the specimens of Pandalus
-magnoculus were so very numerous that they were served on the ward-room table. In
-555 fathoms in the Faroe Channel over four hundred specimens of Lætmogone violacea
-were procured in a single haul. The only other known specimens of this species were
-captured by the Challenger at the very antipodes in 410 fathoms off the east coast of
-Australia. In the Faroe Channel the “Triton” also captured in a single haul of the
-trawl, from a depth of 540 fathoms, over one thousand specimens of Pycnogonids,
-chiefly belonging to one species of Nymphon. Similar instances might be mentioned in
-which large numbers of Rossella, Euplectella, and other organisms, all belonging to
-one species, were taken in single hauls in depths between 100 and 300 fathoms.
-COMPARISON OF It is interesting to compare single hauls made in the deep sea and in shallow water
-DEEP-SEA AND
-SHALLOW-WATER
-with respect to the number of different species obtained. For instance, at Station 146 in
-Hauls with the the Southern Ocean, at a depth of 1375 fathoms, the 200 specimens captured belonged to
-TRAWL.
-59
-genera and 78 species. The trawl made use of had only a 10-feet beam. In working
-at such a depth it is not possible to say how long or for what distance the trawl had
-been dragged over the bottom,—two hours, and a distance of two miles, would probably
-be an excessive estimate. In depths less than 50 fathoms, on the other hand, I cannot
-find in all my experiments any record of such a variety of organisms in any single
-haul, even when using much larger trawls and dragging over much greater distances.
-The statistics of the Scottish Fishery Board's trawlings in the North Sea, with a 25-feet
-beam in depths less than 80 fathoms, show the average catch per haul of many
-trawlings to be 7.3 species for invertebrates and 8:3 species for fishes, the greatest
-number of both invertebrates and fishes recorded in any one haul being 29 species.'
-My own trawlings off the west coast of Scotland, in depths between 40 and 100 fathoms
-on muddy bottoms, gave usually a much greater number of species per haul than this,
-sometimes as many as 50 species, still not such a great variety of animals as was
-procured in many instances by the Challenger's small trawl in great depths.
-The great abundance of both individuals and species in deep water, and the peculiar
-adaptations among deep-sea animals to the conditions of their existence, all point to the
-1
-I
-am indebted to Dr Fulton of the Scottish Fishery Board for these particulars.
+shallow zones the percentage of the species procured in these zones which pass through
+several zones of depth is very low, while in the deeper zones the percentage of species
+procured in these zones which pass through several zones of depth is rather high. These
+facts are evidently to be accounted for by the changes in the physical conditions
+which take place between the depths of 100 and 500 fathoms. When once animals
+have accommodated themselves to deep-sea conditions there are few barriers to further
+vertical or horizontal migration, hence the same species is often recorded in several of
+the deeper zones. An examination of Table I. page 1430 shows that the percentage of
+new species from the shallower zones, which extend into the deeper zones, is relatively
+large. This is probably due to a large number of the Challenger's dredgings and
+trawlings being in rather deep water within these zones and on muddy bottoms. In all
+probability the deep sea was peopled by continuous migrations downwards and seawards
+from about the mud-line. If we suppose these migrations to have taken place from
+the mud-line at many different periods of time and from many different parts of the
+world, then it may be thus possible to account for the relatively large number of genera
+in the deep sea in proportion to the number of species.
+DIMINUTION IN
+THE NUMBER OF
+SPECIES OF
+BENTHOS WITH
+DISTANCE FROM
+SHORE.
+When we take into consideration the horizontal as well as the vertical distribution,
+it would appear that in all the tropical and sub-tropical regions of the ocean the number of
+individuals and species living on the sea-bed very distinctly diminishes with the distance
+from the shore, and especially with the distance from continental shores. This statement
+would be universally true for all regions of the ocean were not the continental conditions
+pushed far from land by the presence of floating ice in the great Southern Ocean, and
+in some similar regions of the northern hemisphere. At first sight it might appear that
+this diminution in the number of species resulted from the greater depth at the seaward
+stations. This cannot, however, be the sole explanation. When the captures at the same
+or similar depths are compared from those stations within and those beyond 300 miles
+from land, it is found that the near-shore stations yield much the larger number of
+specimens and species. Stations in depths between 1000 and 2000 fathoms near shore
+give, on the average, 121 specimens and 39 species per haul; the remote stations beyond
+300 miles from land and between the same limits of depth yielded only 21 specimens and
+10 species per haul. In making this comparison, those stations were selected in which
+the conditions as to depth and other circumstances were nearly similar, excepting always
+the distance from a continental shore.
+When the results of the trawlings and dredgings on the different kinds of deposits
+are compared, similar indications are obtained with reference to the relatively greater
+abundance of both individuals and species close to continental shores—the Terrigenous

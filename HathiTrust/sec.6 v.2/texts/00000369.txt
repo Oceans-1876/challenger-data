@@ -1,69 +1,69 @@
 SUMMARY OF RESULTS.
-1107
-some of them being quite as large as any found in the deposits at the bottom. In a great Station 294.
-many instances they were surrounded with yellow-coloured sarcode ; apparently this
-expands in the form of a large float, but we have never been able to get a specimen fully
-expanded as in the case of Hastigerina.
-Station 295 (Sounding 440), Tahiti to Valparaiso (see Chart 38 and Diagram 20).
-STATION 295.
-41-3
-November 5, 1875; lat. 38° 7' S., long. 94° 4' W.
-Temperature of air at noon, 60°:8; mean for the day, 58°8.
-Temperature of water :-
-Surface,
-58.5 400 fathoms,
-25 fathoms,
-55.7
-500
-50
-53.0
-600
-75
-50.5
-700
-100
-47.8
-800
-125
-460
-900
-150
-44:8 1000
-175
-44.0 1100
-200
-43:4 1200
-225
-43.0 1300
-250
-42.6 1400
-275
-42:3 Bottom,
-300
-42:0
-40.3
-39.5
-38.7
-38.0
-37.4
-36.8
-36:3
-36.1
-35.9
-35.6
-35.3
-Density at 60° F. at surface, 1.02536; 1000 fathoms, 1·02563; bottom, 1.02562.
-Depth, 1500 fathoms; deposit, Globigerina Ooze.
-At 10 A.M. stopped. Put trawl over and veered 2500 fathoms. Sounded in
-1500 fathoms. The sounding-tube contained some water, which on being allowed to settle
-gave indications of a red-coloured Globigerina Ooze, but the tow-nets at the trawl
-contained many fragments of augite-andesite, which may possibly have been derived from
-a comparatively recent volcanic outflow at the bottom. Took serial temperatures from
-surface to bottom. The carbonic acid was determined in bottom water, and amounted to
-47.5 milligrammes per litre. At 3 P.M. commenced heaving in trawl, having previously
-shortened the line to 1900 fathoms. It came up at 4.30 P.M. containing only a fish, which
-was still alive when taken out of the trawl. Made sail. Two specimens of Diomedea
-exulans were caught from the ship, and two mutton birds were shot from a boat; there
-were seen besides Procellaria maxima or Procellaria, gigantea, Procellaria capensis,
-Prion turtur, Mother Carey's chickens, along with a molly mauk (?), Diomedea fuliginosa (?),
-and a small black petrel with white belly.
+1111
+STATION 296.
+OSTRACODA (Brady, Zool. pt. 3).
+Bairdia hirsuta, n.sp.
+Obtained also at Station 300, 1375 fathoms.
+Cythere dictyon, n.sp. Widely distributed (see Station 24).
+normani, Brady (?). Obtained also at Station 150.
+acanthoderma, n.sp. For distribution see Station 64.
+dasyderma, n.sp. Widely distributed (see Station 5).
+Krithe producta, n.sp. Widely distributed (see Station 70).
+Cytheropteron mucronalatum, n.sp. For distribution see Station 70.
+In addition to the foregoing, the following are recorded in the Station-book :-Large
+spicule of Hyalonema, fragment of a second Holothurian, long coiled narrow flexible tube
+(probably the egg-capsule of a Mollusc), fragment of a shrimp, and a Polyzoon-one of
+the Salicornariadæ.
+Excluding Protozoa, over 20 specimens of invertebrates were obtained at this
+Station, belonging to about 17 species, of which 10 are new to science, including
+representatives of 4 new genera; 2 of the new genera and species were not obtained
+elsewhere.
+9
+The following species of Foraminifera and Radiolaria were observed in the deposit ORGANISMS FROM
+THE DEPOSIT.
+from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+FORAMINIFERA (Brady, Zool. pt. 22).—The pelagic species, which make up about
+85 per cent. of the carbonate of lime present in the deposit, are marked thus x.
+Biloculina depressa, d'Orbigny.
+Thurammina albicans, Brady.
+var. murrhyna, Schwager.
+papillata, Brady.
+elongata, d'Orbigny.
+Hormosina normani, Brady.
+Spiroloculina tenuis (Czjzek).
+Ammodiscus gordialis (Jones and Parker).
+Miliolina circularis (Bornemann).
+Trochammina galeata, Brady.
+seminulum (Linné).
+Textularia aspera, Brady.
+valvularis (Reuss) (?).
+Verneuilina propinqua, Brady.
+venusta (Karrer).
+Pygmæa (Egger).
+Pelosina sp. (?).
+Gaudryina pupoides, d'Orbigny.
+Psammosphæra fusca, Schulze.
+Clavulina communis, d'Orbigny.
+Hyperammina ramosa, Brady.
+Bulimina elegans, d'Orbigny.
+subnodosa, Brady.
+elongata, d'Orbigny.
+vagans, Brady.
+ovata, d'Orbigny.
+sp. ().
+Virgulina schreibersiana, Czjzek.
+Marsipella cylindrica, Brady.
+subdepressa, Brady.
+Aschemonella (1) sp.
+subsquamosa, Egger.
+Rhizammina algæformis, Brady.
+te.cturata, Brady
+Reophax dentaliniformis, Brady.
+Bolivina punctata, d'Orbigny.
+Haplophragmium anceps, Brady.
+textilarioides, Reuss.
+globigeriniforme (Parker and Pleurostomella subnodosa, Reuss.
+Jones)
+Cassidulina subglobosa, Brady.
+latidorsatum (Bornemann).
+Ehrenbergina serrata, Reuss.

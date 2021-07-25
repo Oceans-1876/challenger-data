@@ -1,41 +1,42 @@
-14
+18
 THE VOYAGE OF H.M.S. CHALLENGER.
-1
-Sea, the specific gravity of the Arabian Sea is high, but everywhere else to the north of
-lat. 10° S. it is rather low, owing no doubt to the large and, over wide areas, heavy rain-
-fall occurring there. For a considerable portion of the year the prevailing winds of West
-and North Australia are from the sea, where barometric pressure is much higher than in
-the interior of the continent, and consequently the specific gravity is higher for some
-distance round these coasts. Similarly, over the western half of this ocean the prevail-
-ing winds blow home on the coast of Southern Africa, in the interior of which in the same
-months pressure is also low, and, just as happens off South America, the specific gravity
-is largest on the coast to the south of the latitude of Madagascar, which lies quite open to
-the ocean.
-The deflection of the lines round the South African coast is very interest-
-ing in connection with the well-known warm and cold ocean currents which are so strik-
-ing a feature of that part of the globe. Fortunately, these lines are drawn from good
-annual mean specific gravities, calculated from numerous observations made during each
-of the twelve months of the year, which have been published by the Meteorological
-Council. It will be observed that the highest specific gravities of the Indian Ocean
-are found in the region of the anticyclones of that ocean, just as occurs with respect to
-the other occans, particularly the Pacific Ocean.
-The lower specific gravities observed in central Atlantic, between the higher specific
-gravities of the North and South Atlantic, are also annual averages, based on numerous
-observations, and mark with great distinctness the region between the two trade
-winds. It will be observed that in this region from long. 30° W. the specific gravity
-constantly diminishes eastward to the head of the Gulf of Guinea, where it falls below
-1•0260, being lower than occurs anywhere on the coasts from the English Channel to
-the Cape of Good Hope.
-The region of lowest specific gravity anywhere hitherto observed is the southern
-part of the Sea of Okhotsk where the mean falls to 1.0240, as calculated from numerous
-observations made there by Admiral Makaroff on board the “ Vitiaz," and the next
-lowest between Greenland and Spitzbergen, where Professor Mohn, also from numerous
-observations, gives the low mean specific gravity of 1.0245. The mean of the ten
-observations made by the Challenger to the south of lat. 60° S. is 1.0247, and of the
-six of these made near to or to the south of the line of 1.0245 on Map 1, the mean
-is 1.0245, being the same as Mohn's line of least mean specific gravity. The low specific
-gravities round the southern part of South America are occasioned, on the west coast
-chiefly, by the heavy rainfall of that region, and on the east coast, in addition to the
-rainfall, by the upwelling there resulting from the strong westerly winds blowing from
-the land seawards.
-1
+It has been long recognised that in the Atlantic the region of calms between the
+north and south trades is in all seasons north of the equator, reaching its northern
+limit, lat. 13° N., in July, and its southern limit, lat. 2° N., in January. Hence, in all
+seasons the south-east trades penetrate into the northern hemisphere, driving before
+them the warm surface waters of the South Atlantic. Thus vast quantities of the
+heated surface water of the South Atlantic are transferred bodily to the North Atlantic,
+resulting in these oceans presenting, as regards their temperature, the strongest
+contrasts to each other at all depths down to the bottom of the sea. The mean annual
+position of this region of calms may be shown by drawing on Map 51 of the Report
+on Atmospheric Circulation a line across the Atlantic, marking out the path of least
+barometric pressure of that region. Now it is this simple circumstance, the position of
+this line, which gives to the North and the South Atlantic Oceans their distinct
+contrasted features.
+Turning now to the Pacific Ocean on the same map, we find that the line of least
+barometric pressure lies not north, but south, of the equator, from long. 160° E. to
+long. 130° W.
+An examination of the maps for the separate months shows that for
+eight months of the year this state of things substantially holds good, culminating in
+December, January, and February when barometric pressure is very low in Australia.
+In these months the north-east trades and ocean currents of the Western Pacific extend
+into the South Pacific to about lat. 15° S., as shown by the current charts now in course
+of preparation by the Meteorological Council.
+The isothermals for the depth of 100 fathoms (Map 3) show that the manner of
+the distribution of the temperature in the North and South Pacific is precisely the
+reverse of what obtains in the Atlantic. In the North Pacific the highest temperature,
+70°, is restricted to two very small areas, whereas in the South Pacific the area marked
+out by the isothermal of 70° covers a very extensive region, and encloses another region,
+also very extensive, where the temperature exceeds 72º. In truth at this depth the
+South Pacific presents a region with a temperature above the general mean of the ocean,
+larger than the high temperature regions of all the other oceans combined. The rôle
+played by Australia, the low atmospheric pressure of its warmer months mainly
+bringing about the result, deserves careful consideration.
+A feature of the temperature in all the oceans is a pronounced increase in the
+eastern equatorial region of each ocean on nearing the continents. Thus in the Pacific
+about the Galapagos Islands, temperature is 62°, or 12° higher than in the same latitudes
+some distance to westward ; in the Atlantic it rises to 59° in the Gulf of Guinea, or 6°
+warmer than it is to westward; and in the Indian Ocean it rises to 60°, or 4° higher
+than it is to westward. This peculiarity arises from two causes, one being the monsoonal
+deflection of the trade winds, for some distance out to sea, out of their course to west-
+ward, so as to blow towards and in upon the heated land of the continents ; and this

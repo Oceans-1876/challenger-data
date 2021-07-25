@@ -1,105 +1,128 @@
 SUMMARY OF RESULTS.
-1409
+1413
+S
 *
+s
+09
+T
+s
+s
+2
+S
+S
+S
+S
+tenuis, 1.sp.
+S
+>>
+* Mucronella pyriformis, n.sp. S
+quadrata, n.sp. T
+simplicissima, n.sp. S
+tricuspis, Hincks.
+(Phylactella?) canalifera,
+n.si N
+* Myriozoum honolulense, n.sp.
+marionense, 1.sp.
+Nellia oculata, Busk. S T
+Onchopora sinclairii, Busk.
+Onchoporella bombycina (Linné).
+* Palmicellaria skenei (Ellis and Solander),
+var. tridens, Kirchenpauer. N
+Pustulopora proboscidea, M.-Edwards. S
+proboscidioides (Smitt). S
+regularis, MacGillivray. S
+* Retepora apiculata, n.sp. T
+atlantica, n.sp.
+N
+columnifera, p.sp. T
+contortuplicata, n.sp.
+T
+crassa, n.sp.
+S
+delicatula, n.sp.
+T
+denticulata, n.sp.
+hirsuta, n.sp.
+T
+jacksoniensis, n.sp. S
+lata, n.sp.
+S
+mucronata, n.sp.
+T
+philippinensis, n.sp. T
+phoenicia, Busk. S
+producta, n.sp.
+simplex, n.sp.
+tessellata, Hincks.
+var. cæspitosa, nov.
+var. pubens, nov.
+tubulata, n.sp.
+victoriensis, n.sp.
+SN
+japonica,
+* Salicornaria clavata, n.sp.
+gracilis, Busk. T
+malvinensis, Busk. ST
+simplex, n.sp.
+S
+tenuirostris, Busk. S
+variabilis, n.sp.
+s
+Schizoporella cecilii (Audouin).
+circinata (MacGillivray). S
+furcata, n.sp.
+T
+jacksoniensis, n.sp. S
+longispinata, n.sp.
+marsupifera, n.sp.
+ST
+triangula, Ilincks.
+vitrea (MacGillivray). S
+woosteri, MacGillivray. S
+Scrupocellaria ciliata (Audouin). T
+macandrei, Busk. T
+ornithorhynchus (Wyville
+Thomson). T
+pilosa (Audouin).
+securifera, n.sp.
+T
+* Selenaria maculata, Busk. S
+Smittia jacobensis, n.sp.
+S T
+marionensis, Busk.
+marsupialis, n.sp. S T
+stigmatophora, n.sp.
+tenuis, n.sp.
+T
+Steganoporella magnilabris (Busk).
+Supercytis tubigera, n.sp. s
+* Tubucellaria opuntioides, Pallas.
+* Tubulipora fimbria, Lamarck. S
+flabellaris (Fabricius). S
+* Vesicularia papuensis, n.sp.
+Vincularia gothica, d'Orbigny, var.
+granulata, nov.
 S
 T
-T
-T
-T
-N
-T
+S
+2
+S
+*
 T
 *
+T
+T
+T
 S
 >
 T
-S
 T
 S
-S
+var.
+nov.
+PHORONIS:
+* Phoronis buskii, n.sp.
 T
-Typhis philippensis, n.sp.
-Xenophora corrugata (Reeve). T
-* Umbrella mediterranea, Lamarck.
-helvacea, Philippi. T
-* Utriculus amphizostus, n.sp.
-solarioides (Reeve). T
-complanatus, n.sp.
-* New genus (?). S
-famelicus, n.sp.
-mamillatus (Philippi).
-POLYPLACOPHORA :
-planospira (Adams).
-* Acanthochiton garnoti (Blainville). S
-simillimus, n.sp.
-Acanthopleura (?) incana (Gould). S N
-tornatus, n.sp.
-N
-spiniger (Sowerby). T
-(Tornatina) acrobeles, n.sp. T * Callistochiton antiquus (Reeve).
-(
-) amboinensis, n.sp. * Callochiton platessa (Gould). S
-* Chiton jugosus, Gould.
-) aratus, n.sp.
-murrayi, n.sp.
-) avenarius, n.sp. S nigrovirescens, Blainville.
-) canaliculatus (Say). * pellis-serpentis, Quoy and
-Gaimard. S
-( ) voluta (Quoy and
-squamosus, Linné. N
-Gaimard). T
-* Cryptoplas larvaformis, Blainville. T
-(
-) four species un-
-oculatus (Quoy and Gaimard).
-determined. T
-T
-four species undetermined.
-striatus (Lamarck).
-s
-T * Francisia spinosa (Bruguière). T
-* Vanikoro (?) sp.
-T
-* Hemiarthrum setulosum, Carpenter, MS.
-* Vermetus (?) cyclicus, n.sp.
-T
-s
-* Vitularia crenifera (Montrouzier). T
-* Ischnochiton boogii, n.n.
-* Voluta (Alcithoe) gracilis, Swainson.
-fruticosus (Gould). S
-(Cymbiola) ancilla, Solander. S
-longicymba (Blainville). S
-(Scaphella) turneri, Gray. T
-viridulus (Couthouy). S
-) undulata, Lamarck. S * Lepidoradsia australis (Sowerby). S
-(Vespertilio) sophia, Gray.
-* Leptochiton kerguelensis, n.sp. S
-) vespertilio, Linné,
-* Lorica volvox (Reeve).
-var. pellis serpentis, * Plaxiphora carpenteri, n.sp.
-Lamarck.
-simplex (Carpenter, MS.). S
-(Volutilithes) abyssicola, Adams * Schizochiton incisus (Sowerby). T
-and Reeve.
-NUDIBRANCHIATA :
-(Zidona) angulata, Swainson. S
-* Archidoris australis, 1.sp.
-* Volutomitra fragillima, n.sp.
-kerguelenensis, n.sp. s
-* Watsonia elegans, n.g., n.sp.
-* Bornella excepta, n.sp.
-N
-T
-S
->>
-T
-*
-S
-S
-T
-s
-sp. (?). T
-S
-s
-T
+* Reteporella flabellata, n.g., n.sp. S
+(SUMMARY OF RESULTS CHALL. EXP.—1894.)
+178

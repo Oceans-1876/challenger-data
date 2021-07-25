@@ -1,45 +1,42 @@
-2
-THE VOYAGE OF H.M.S. CHALLENGER,
-this Spirula,' often reproduced, but this precious specimen disappeared without having
-been further studied.?
-The English Expedition to the Congo procured a fragment of Spirula (the posterior
-extremity with the shell), which was deposited in the British Museum. In 1836, several
-Spirula, not so complete as that of Péron, were taken by the French corvette “ La
-Recherche,"4 upon the most perfect of which the first anatomical sketch of the genus,
-by de Blainville, was based ;" he recognised especially the existence of a single pair
-of gills. The first work of Owen does not add much to the discoveries of de Blainville,
-his observations being likewise exclusively based on fragments.
-A single specimen almost entirely intact had been collected at this time; it had already
-been figured by Gray' and by Reeve, but it was only at a relatively recent period that
-the collector to whom it belonged would permit Owen to study its organisation. His
-memoir" is then the first description of a complete Spirula. Unfortunately, there are,
-in the text as well as in the illustrations of this work, not only a considerable number
-of important gaps, but a regrettable absence of even approximate precision, which render
-the results much less important than we would have expected, all the more so, as in the
-work there is a complete absence of the present ideas, tendencies, and pre-occupations of
-Zoology. This memoir has, however, remained the only one containing an anatomical
-description of a complete individual, for if Owen had the exceptional good fortune of
-dissecting a second complete Spirula (male), his observations were limited to making
-known, with as little precision, the sexual characters. 10
-Another complete individual was collected in 1865 near Port Jackson, but it was
-| Freycinet, Voyage de découvertes aux terres australes, pl. xxx. fig. 4, Paris, 1816.
-2 "Malheureusement le seul et précieux spécimen qu'ils rapportèrent conservé dans la liqueur, et trouvé
-mort et flottant en mer, s'est perdu au Muséum, où ils l'avaient déposé, avant même qu'une bonne description
-pût nous consoler de cette perte” (Férussac et d'Orbigny, Histoire naturelle des Céphalopodes acétabulifères,
-p. 55, Paris, 1848).
-3 Gray, Catalogue of the Mollusca in the British Museum, Part I., Cephalopoda antepedia, 1849, p. 116.
-4 Lettre de M. Robert sur les Spirules, sur le lamentin du Sénégal et sur l'existence dans cette région de
-l'Afrique de l'hyène tâchetée (Comptes rendus Acad. Sci. Paris, t. ii., 1836, pp. 362, 363 ; id., in Ann. Sci. nat.
-[Zoologie), sér. 2, t. v. pp. 226, 227, 1836).
-5 De Blainville, Quelques observations sur l'Anatomie de la Spirula et sur l'usage du siphon des coquilles
-polythalames (Ann. franc. et étrang. d'Anat. et de Phys., t. i., 1837, pp. 369-382).
-6 Owen, Description of two mutilated specimens of Spirula peronii, with some observations on S. australis
-and S. reticulata (Zoology of the voyage of H.M.S. “Samarang,” Mollusca, part i. pp. 6-17, pl. iv., 1848).
-7 Gray, On the Animal of Spirula (Ann. Mag. Nat. Hist., ser. 1, vol. xv., 1845, pp. 257-260, pl. xv.).
-8 Reeve, Elements of Conchology, 1846, p. 16, pl. A, figs. a-f.
-9 Owen, Supplementary Observations on the Anatomy of Spirula australis, Lamarck (Ann. Mag. Nat. Hist.,
-ser. 5, vol. iii., 1879, pp. 1-16, pls. i.-iii.).
-10 Owen, On the External and Structural Characters of the Male Spirula australis, Lam. (Proc. Zool. Soc.
-London, 1880, p. 352, pl. xxxii.). Owen reports that this specimen was taken during the voyage of the “Bonite."
-Souleyet, however, who was on board this ship, says expressly that they had not succeeded in capturing a Spirula
-(Voyage autour du monde . . . sur la corvette la “Bonite," Zoologie, t. ii. p. 8, 1852).
+6
+THE VOYAGE OF H.M.S. CHALLENGER.
+the internal face of the mantle (Pl. II. fig. 1, Ipa.), which form with these the resisting
+apparatus destined to insure the closure of the pallial chamber while the water is
+expelled through the funnel. The nuchal cartilage (Pl. I. fig. 5, d. i.) on the anterior
+dorsal margin of the “collar ” in the median line has nearly the form of that in Loligo,
+and especially in the Ommatostrephidæ.
+The retractor muscles of the siphuncle (Pl. IV. 1.mr.) and of the head unite laterally,
+and have their common origin upon the external sides of the last chamber of the shell.
+The retractile part of the head of these latter muscles is inserted upon the aboral
+face of the perineural or cephalic cartilage, which forms a capsule enveloping the nervous
+centres. This cartilage sends, upon the sides, vast prong-like prolongations (Pl. V. fig. 3,
+pn.ct*.) supporting the optic ganglia, and ventrally, in front, the median projection
+(Pl. V. fig. 3, pn.cº.), which (as in Sepia) gives attachment to the muscles of the arms.
+In front, the cartilaginous capsule is continued by the envelope of connective tissue
+of the junction between the pedal and brachial centres.
+4. Mantle.--a. Pallial Envelope.— The external surface of the mantle is smooth, as
+in the other Dibranchiates ; the reticulation observed in the form called Spirula reticulata
+does not belong to the superficial portion of the integuments, as will be seen later on.
+The border of the mantle, free all round its circumference, offers three anterior
+protuberances : a median dorsal one, and two symmetrical latero-ventral ones, which
+limit the “sinus” of the funnel (Pl. I. figs. 2, 3 ; and Fig. C).
+In the Challenger specimen the external surface of the mantle was deprived of its
+epidermis, and, for the greater part of its extent, of the layer of chromatophores. The
+chromatophores, however, were present at the aboral extremity (Pl. VI. fig. 14), where the
+skin was not removed, as well as upon a narrow band of the internal face of the mantle
+along the margin at this place. The “ Blake” specimen was in this respect in the same
+condition, the chromatophores being preserved only at the aboral extremity (Pl. II. figs.
+1, 2) and along the margin of the mantle on the internal face (Pl. II. figs. 1, 2, cr.).
+The chromatophores are nevertheless spread over the whole external surface of the
+mantle.” In fact there exists in the form called Spirula reticulata a general reticu-
+lation of this surface given as a character of that form, and due, from what I have seen,
+to bundles of subcutaneous fibres disposed in such a manner as to form more or less
+regular polygons.
+However, these polygonal spaces with definite limits exist also in an Ommatostrepbid,
+Illex coindeti, where on taking away the pallial epithelium, an appearance is observed
+very similar to that presented by Spirula reticulata, and the polygonal spaces are there
+occupied by chromatophores. In Illex it is especially near the free margin of the
+i It is probably this state which led von Willemoes-Suhm to suppose that the specimen had been swallowed
+by an abyssal fish and regurgitated when brought to the surface by the trawl.
+2 The coloration of the dead specimens, but freshly taken from the water, is yellowish-white spotted with
+brown, according to Robert (Comptes rendus, t. ii., 1836, p. 362).

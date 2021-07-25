@@ -1,66 +1,131 @@
-1302
+1306
 THE VOYAGE OF H.M.S. CHALLENGER.
-Notes on the Geographical Distribution.--An examination of the foregoing list shows
-that of the 412 species taken in this zone between 1500 and 2000 fathoms, 274 species
-(or 67 per cent.) were taken south of the southern tropic, 101 species (or 25 per cent.)
-were taken within the tropics, and 137 species (or 33 per cent.) were taken north of the
-northern tropic; while 30 species (or 7 per cent.) were found to be common to all those
-three areas, 18 species (or 4 per cent.) were common to the southern and northern areas,
-13 species (or 3 per cent.) were common to the tropical and northern areas, and 20
-species (or 5 per cent.) were common to the southern and tropical areas.
-4. ANIMALS OBTAINED IN THE DREDGINGS AND TRAWLINGS IN DEPTHS BETWEEN 1000
-AND 1500 FATHOMS.
-The Challenger dredged or trawled at 25 Stations where the depth was between 1000
-and 1500 fathoms, about 2000 specimens being procured, belonging to about 600 species
-and about 400 genera. The total number of species and genera actually described and
-recorded in the Zoological Reports from the zone between these depths amounts to 508
-species and 327 genera, of which 365 species (or 72 per cent.) and 83 genera (or 25 per
-cent.) are new to science, as shown in the following list. Those species taken by the
-Challenger in this zone only (numbering 277 species, or 55 per cent.) are indicated by an
-asterisk thus.* The geographical distribution of the species is indicated by the heavy letters
-S, T, and N, used to denote that the species was taken south of the tropic of Capricorn
-(S), between the tropics of Capricorn and Cancer (T), or north of the tropic of Cancer (N).
-DEEP-SEA KERATOSA:
-HEXACTINELLIDA :
-* Psammina globigerina, n.g., n.sp.
+* Myzostoma coronatum, n.sp. (parasitic
+on Bathycrinus). s
+* Scalpellum distinctum, n.sp. T
+dubium, n.sp.
 T
-Aphrocallistes bocagei, Wright. Τ Ν
-MONAXONIDA :
-Aulocalyx irregularis, n.g., n.sp.
+eximium, n.sp.
+S
+flavum, n.sp.
+S
+minutum, n.sp.
 s
-Chonelasma lamella, n.g., n.sp.
+moluccanum, n.sp.
+T
+tenue, n.sp.
+S
+truncatum, n.sp.
+T
+velutinum, n.sp.
 SN
-Phakellia ventilabrum (Johnston), var.
-N
-connexiva, nov. ST
-Rhizochalina fistulosa (Bowerbank).
-Dactylocalyx (?) patella, p.sp. N
-N
-Tentorium semisuberites (Schmidt). S N
-N
-* Euplectella nodosu, n.sp.
-* Trichostemma sursii, n.sp.
-subered, n.sr.
-Τ Ν
-TN
-* Farrea sp. (?). S
-TETRACTINELLIDA :
-Holascus fibulatus, n.g., n.sp.
-Azorica pfeifferæ, Carter. Τ Ν
-Hyalonema poculum, n.sp.
-S
-Isops pachydermata, n.sp.
-(Stylocalyx) thomsoni,
-* Tetilla sandalina, n.sp. N
-Marshall, var. exiguum,
-Thenea schmidtii, n. n. Τ Ν
-N
-wrightii, n.sp.
-two species undeter-
+* Verruca gibbosa, n.sp.
+s
+incerta, n.sp.
+*
 T
-mined. T
+S
+s
+>
+N
+T
+OSTRACODA:
+* Bairdia acanthigera, Brady. T
+exaltata, n.sp.
+T
+foveolata, Brady. S TN
+hirsuta, n.sp.
+S
+milne-edwardsi, Brady.
+victrix, Brady. S T N
+Bythocypris elongata, n.g., n.sp.
+* Crossophorus imperator, n.g., 1.sp. S
+* Cypridina gracilis, n.sp.
+Cythere acanthoderma, n.sp. STN
+dasyderma, n.sp.
+S T N
+dictyon, n.sp.
+STN
+dorsoserrata, n.sp.
+S
+irpex, n.sp.
+SN
+scutigera, Brady. ST
+(?) serratula, n.sp. S TN
+speyeri, Brady. T
+stolonifera, n.sp.
+s
+sulcato-perforata, n. sp.
+viminea, n.sp.
+S
+Cytheropteron fenestratum, n.sp. S
+mucronalatum, n.sp.
+S TN
+Krithe producta, n.sp.
+S TN
+Xestoleberis curta, Brady. S TN
+variegata, n.sp.
+T
+S
+>
+AMPHIPODA :
+* Amaryllis haswelli, n.sp.
+N
+* Amathyllopsis australis, n.sp.
+* Andania abyssorum, n.sp.
+S
+gigantea, 11.sp.
+s
+* Camacho bathyplous, n.g., n.sp.
+Cyphocaris micronyx, n.sp. S
+Cystisoma spinosum (Fabricius). S TN
+Elasmopus subcarinata (Haswell).
+s
+* Gammaropsis thomsoni, n.sp. S
+* Lanceola suhmi, n.sp.
+* Leucothoë tridens, n.sp.
+* Ediceroides cinderella, n.g., n.sp.
+* Onesimoides carinatus, n.g., n.sp.
+* Platamon longimanus, n.g., n.sp.
+* Podocerus hoeki, n.sp.
+>>
+S
+N
+s
+Z H 2
+S
+2
+COPEPODA :
+* Calanus princeps, n.sp.
 s
 N
-Dov.
+T
+T
+ISOPODA:
+* Acanthocope acutispina, n.g., n.sp.
+Acanthomunna proteus, n.g., n.sp.
+* Anuropus branchiatus, n.g., n.sp.
+Arcturus abyssicola, n.sp.
+spinosus, n.sp.
+* Cymodocea abyssorum, n.sp.
+Eurycope fragilis, n.sp. SN
+nova-zelandiæ, 1.sp.
+pellucida, n.sp.
 S
-sp. (?).
+T
+CIRRIPEDIA:
+* Dichelaspis sessilis, n.sp. N
+Scalpellum acutum, n.sp.
+australicum, n.sp.
+brevicarinatum, n.sp.
+carinatum, n.sp.
+SN
+T
+*
+S
+02
+>>
+*
+T
+*
+s

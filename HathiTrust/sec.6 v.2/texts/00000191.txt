@@ -1,103 +1,88 @@
 SUMMARY OF RESULTS.
-949
+951
 STATION 241.
-FORAMINIFERA (Brady, Zool. pt. 22).—The pelagic species, which make up about
-58 per cent of the carbonate of lime present in the deposit, are marked thus x.
->
->
-Biloculina depressa, d'Orbigny.
-Lagena feildeniana, Brady.
-Miliolina labiosa (d’Orbigny).
-fimbriata, Brady.
-Ophthalmidium tumidulum, Brady.
-gracillima (Seguenza).
-Hyperammina ramosa, Brady.
-hexagona (Williamson).
-subnodosa, Brady.
-hispida (Reuss).
-Reophax dentaliniformis, Brady.
-lævigata (Reuss).
-difflugiformis, Brady.
-lævis (Montagu).
-distans, Brady.
-marginata (Walker and Boys).
-nolulosa, Brady.
-orligyana (Seguenza).
-Haplophragmium agglutinans (d'Orbigny).
-ovum (Ehrenberg).
-gloligeriniforme (Parkerand Jones).
-semistriata, Williamson.
-latidorsatum (Bornemann).
-squamosa (Montagu).
-Hormasina globulifera, Brady.
-stelligera, Brady.
-ovicula, Brady.
-striata (d'Orbigny).
-Ammodiscus gordialis (Jones and Parker).
-striatopunctata, Parker and Jones.
-Trorhammina pauciloculata, Brady.
-sulcata (Walker and Jacob).
-trullissata, Brady.
-trigono-marginata, Parker and Jones.
-Textularia agglutinans (d'Orbigny).
-Nodosaria scalaris (Batsch).
-gramen, d'Orbigny.
-Polymorphina angusta, Egger.
-Verneuilina pygmæa (Egger).
-lactea (Walker and Jacob).
-spinulosa, Reuss.
-Urigerina asperula, Czjzek.
-Gawlryina baccata, Schwager.
-x Globigerina bulloides, d'Orbigny.
-Clarulina communis, d'Orbigny.
-dubia, Egger.
-Bolirina punctata, d'Orbigny.
-inflata, d'Orbigny
-Caxxilulina subglobosa, Brady.
-x Orbulina universa, d'Orbigny.
-El renbergina serrata, Reuss.
-Pullenia quinqueloba, Reuss.
-Chilostomella oroidea, Reuss.
-sphæroides (d'Orbigny).
-Lagena acuta (Reuss).
-Sphæroidina bulloides, d'Orbigny.
-acuticosta, Reuss.
-Truncatulina pygmæa, Hantken.
-alveolata, Brady.
-ungeriana (d'Orbigny).
-aniculata, Reuss.
-Pulvinulina exigua, Brady.
-aspera, Reuss.
-menarlii (d'Orbigny).
-auriculata, Brady.
-micheliniana (d'Orbigny).
-var. costata, Brady.
-Nonionina depressula (Walker and Jacob).
-exsculpta, Brady.
-umbilicatula (Montagu).
-х
-9)
-х
-х
-х
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Cromyosphæra bigemina, Haeckel.
-Trypanosphæra coronata, Haeckel.
-Clathrosphæra circumtexta, Haeckel.
-Sphærostylus trigla, Haeckel.
-Staurosphæra johannis, Haeckel.
-Hecalonche aristarchi, Haeckel.
-Ellipsostylus ornithoides, Haeckel.
-Pipetta conus, Haeckel.
-Cyphinidium amphistylium, Haeckel.
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
-Desmocampe atractus, Haeckel.
-Desmartus larvalis, Haeckel.
-Cenodiscus rotula, Haeckel.
-Trochodiscus medusinus, Haeckel.
-Heliodiscus pertusus, Haeckel.
-Stylodictya stellata, Bailey.
-Trizonium staurobelonium, Haeckel.
-Zonarium tetratholium, Haeckel.
-Soreuma spinosum, Haeckel.
-120
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Paraphronima cuivis, n.sp.
+OSTRACODA (Brady, Zool. pt. 3).
+Halocypris atlantica, Lubbock.
+brevirostris, Dana.
+imbricata, n.sp.
+COPEPODA (Brady, Zool. pt. 23).
+Calanus propinquus, n.sp.
+tonsus, n.sp.
+SCHIZOPODA (Sars, Zool. pt. 37).
+Euphausia pellucida, Dana.
+PTEROPODA (Pelseneer, Zool. pt. 65).
+Cavolinia tridentata (Forskål).
+In addition, the following are recorded in the note-books from the surface and down
+to 60 fathoms :-Diatoms, Pyrocystis, Peridinium (a few), Globigerina, Orbulina,
+Hastigerina, Medusæ, Siphonophora, Bipinnaria, Ophiurid and other Echinoderm larvæ,
+Sagitta, Alciopa, Tomopteris, Saphirina and other Copepods, Hyperids, Phronima,
+Oxycephalus, Vibilia, Euphausia megalopæ, Lucifer, Sergestes, Phyllosoma, Zoëæ,
+Archizoia, Halobates, Atlanta, Pneumonoderma and other Pteropods, transparent
+cuttle-fish, Doliolum, Salpa, Appendicularia. Many circular masses of Lepas attached
+around small bladders of a sea-weed, and a large log covered with Lepas and Balanus,
+passed the ship during the day,
+STATION 242.
+Station 242 (Sounding 384), Yokohama to Sandwich Islands (see Chart 36 and
+Diagram 17).
+June 24, 1875; lat. 35° 29' N., long. 161° 52' E.
+Temperature of air at noon, 70°:3; mean for the day, 70°:0.
+Temperature of water :-
+Surface,
+25 fathoms,
+50
+99
+75
+100
+125
+150
+175
+200
+225
+250
+275
+300
+68.5
+629
+60.7
+583
+56.0
+54:1
+52.2
+50:3
+48.3
+46.4
+44:4
+42.8
+41.6
+400 fathoms,
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+39.6
+38.2
+37:4
+36:9
+36.5
+36.3
+36:1
+35.9
+35.8
+35.7
+35.5
+35.3
+35:1
+9
+Density at 60° F. at surface, 1·02590 ; bottom, 1.02560.
+Depth, 2575 fathoms; deposit, Red Clay, containing only a trace of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).

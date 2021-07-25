@@ -1,45 +1,55 @@
-1130
+1134
 THE VOYAGE OF H.M.S. CHALLENGER.
-!
-STATION 300.
-PYCNOGONIDA (Hoek, Zool. pt. 10).
-Colossendeis gigas, n.sp. Several specimens ; obtained also at Stations 146 and 147.
-leptorhynchus, n.sp. Several specimens ; obtained also at Stations 146,
-147, and 310.
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Arca (Barbatia) corpulenta, n.sp.
-Obtained also at Stations 184, 194, 198, 216,
-and 271.
-BRACHIOPODA (Davidson, Zool. pt. 1).
-Discina atlantica, King. For distribution see Station 186.
-FISHES (Günther, Zool. pt. 57).
-Macrurus fernandezianus, n.sp. One specimen ; obtained at no other locality.
-Chlorophthalmus gracilis, n.sp. Three specimens ; obtained also at Stations 168
-and 335.
-In addition to the foregoing, the following are recorded in the Station-book :-
-Fragments of Farrea facunda (?), Stephanoscyphus, many Actinians of four or five
-different species (only three species given above), many specimens of a compound
-Actinian on Margarita shells inhabited by Pagurids, several Medusæ (one 4.1 inches in
-diameter), Pennatulid (with short conical base and a single pair of enormously large
-laterally-placed polyps), fragments of arms of Brisinga, several specimens of Ophiolepis,
-two Aphroditaceans, dead shells of Margarita (?) with Pagurids, and single arm of a
-Cephalopod. The stomachs of several of the shrimps were examined, and contained
-half-digested fragments of red-coloured Crustaceans, as well as fragments of Globigerinæ
-and mineral particles, all of which seemed to indicate that these animals fed on the bottom.
-Excluding Protozoa, nearly 200 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 52 species, of which 34 are new to science, including
-representatives of 10 new genera; 10 of the new species were not obtained elsewhere.
-ORGANISMS FROM
-THE DEPOSIT.
-The following species of Foraminifera and Radiolaria were observed in the deposit
-from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
-FORAMINIFERA (Brady, Zool. pt. 22).—The pelagic species, which make up about
-83 per cent. of the carbonate of lime present in the deposit, are marked thus x.
-Biloculina depressa, d'Orbigny.
-Biloculina sphæra, d'Orbigny.
-var, murthyna, Schwager. Spiroloculina tenuis (Czjzek).
-» serrata, Brady.
-Miliolina seminulum (Linne).
-ringens (Lamarck).
-tricarinata (d'Orbigny).
-99
+STATION 302.
+Density at 60° F. :-
+Surface,
+25 fathoms,
+50
+100
+200
+1.02531
+1.02504
+. 1:02514
+. 1.02522
+. 1.02538
+300 fathoms,
+400
+800
+950
+Bottom,
+1:02534
+. 1.02535
+1.02557
+. 1.02564
+. 1.02562
+.
+Depth, 1450 fathoms ; deposit, Globigerina Ooze, containing 82:31 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4 A.M. shortened and furled sails, and proceeded under steam. At 6 A.M. sounded in
+1450 fathoms. At 7 A.M. put trawl over and veered 2000 fathoms. Obtained serial
+temperatures down to bottom. The carbonic acid was determined in water from
+200, 400, and 800 fathoms, and bottom, and amounted respectively to 47.3, 48•8, 53.2,
+and 55.6 milligrammes per litre. . At 1 P.M. commenced heaving in trawl, which came
+up at 4.15 P.M. with numerous specimens, about a peck of the ooze, in which were
+numerous manganese nodules, some volcanic pebbles, and pieces of rock. At 4.30 P.M.
+made all plain sail. Molly mauks, stinkers (Procellaria maxima), mutton birds, and
+Cape pigeons were seen, and a molly mauk was shot, but a boat could not be lowered to
+pick it up
+Cape Tres Montes distant at noon 382 miles. Made good 100 miles. Amount of
+current 10 miles, direction W.
+i
+ANIMALS FROM
+TRAWL.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :
+TETRACTINELLIDA (Sollas, Zool. pt. 63).
+Thenea wrightii, n.sp. Six specimens ; obtained at no other locality.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Urechinus naresianus, n.g., n.sp. Six specimens ; obtained also at Stations 146,
+147, and 158. Only species of the genus.
+HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
+Peniagone vitrea, n.g., n.sp. Several specimens; obtained at no other locality.
+Pscudostichopus villosus, n.g., n.sp. One specimen; for distribution see Station 61.
+Holothurian, (fragmentary specimen indeterminable).
+ANNELIDA (MʻIntosh, Zool. pt. 34).
+Vermilia (?) sp. One specimen.

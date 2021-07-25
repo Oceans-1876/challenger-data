@@ -1,186 +1,177 @@
 SUMMARY OF RESULTS.
-1511
-29, 1368
-, 1422
-1039, 1951.
-15.
-Hemidiscus cuneiformis-continued.
-405, 425, 443, 515, 760, 812,
-880, 892, 905, 911, 939, 950,
-973, 974, 1013, 1028, 1043,
-1119.
-var, angusta, 1028.
-ventricosa, 905.
-Hemieuryale, 459.
-Hemipeneus, 1326.
-gracilis, 801, 1321.
-semidentatus, 615, 620, 753, 1321,
-1325, 1341.
-speciosus, 1205, 1279.
-spinidorsalis, 386, 837, 1286,
-1289, 1296.
-tomentosus, 668, 776, 1341,
+1515
+Juneella,
+barbadensis, 161, 1331.
+gemmacea, 691, 1366.
+juncea,
+var. alba, 691, 1366.
+racemosa, 897, 1331.
+Kalamopsis, 115.
+Kellia, 509, 1296, 1452.
+adamsi, 564, 1395.
+cardiformis, 472, 1395.
+nuculina, 438, 472, 1314, 1356.
+rotunda, 540, 564, 1395, 1426.
+suborbicularis, 472, 1395, 1448.
+Keramosphæra,
+murravi, 511.
+Kerguelenia, 1361.
+compacta, 469, 1340.
+Keroeides, 1361.
+koreni, 897, 1331.
+Kinetoskias,
+cyathus, 122, 154, 1206, 1280,
+1281, 1297, 1417.
+pocillum, 363, 1125, 1287, 1290,
+1352.
+Kolga, 1450.
+nana, 229, 494, 1305, 1310, 1443,
+1446.
+Kophobelemnon, 606, 1059, 1316.
+burgeri, 809, 1367.
+ferrugineum, 898, 1331.
+stelliferum,
+var. durum, 606.
+Kraussina,
+lamarckiana, 573, 1414.
+pisum, 422, 1352.
+Krithe,
+bartonensis, 467, 742, 13:20, 1326,
+1339, 1443.
+hyalina, 913, 1384.
+producta, 259, 279, 293, 350, 358,
+436, 446, 509, 578, 594, 638,
+uli, 1129, 1135, 1143, 1152,
+1161, 1224, 1295, 1298, 1299,
+1300, 1301, 1306, 1311, 1312,
+1313, 1320, 1324, 1326, 1339,
 1356.
-virilis, 776, 1341.
-Hemiplax,
-hirtipes, 597, 1390.
-Hemipodus,
-magellanicus, 1145, 1157, 1337,
-1356.
-Hemipristis, 1087.
-Hemirhamphus, 160.
-commersoni, 660, 716, 1418,
-1428.
-quoyi, 716, 1418.
-sajori, 929, 1418.
-vittatus, 314, 1418.
-Hemitoma (see Emarginala).
-Hemityphis,
-tenuimanus, 1263.
-Heniochus,
-macrolepidotus, 658, 1418.
-Hepomadus, 1451.
-glacialis, 934, 1296.
-inermis, 934, 1097, 1279.
-Herbstia, 423.
-ovata, 310, 1390.
-rubra, 310, 1390.
-violacea, 310, 1390.
-(Herbstiella),
-depressa, 359, 1390.
-Herbstiella (sce Herbstia).
-Hercotheca,
-mamillaris, 905.
-Heritiera,
-littoralis, 851.
-Hermadion,
-kerguelensis, 465, 1176, 1381,
-1424.
-Hermes (see Conus).
-Hermione, 261, 478, 492.
-hystrix, 307, 1381.
-Hermodice,
-carunculata, 169, 235, 242, 307,
-1381, 1424.
-Herpetolitha,
-crassa, 756, 1369.
-Hesione, 169, 1381.
-pacifica, 624, 1381.
-(Fallacia),
-pantherina, 307, 1381.
-Hessella,
-cylindrica, 835.
-Hetairus,
-debilis, 226, 1387.
-gaimardii, 226, 1387.
-tenuis, 226, 1387.
-Heterocarpis,
-alphonsi, 841,900,1321,1326, 1341.
-dorsalis, 753, 1341.
-ensifer, 776, 1341.
-gibbosus, 801, 1321.
-lævigatus, 753, 1341.
-Heterocentrotus,
-mammillatus, 647, 1378.
-Heterochæta,
-spinifrons, 449, 522, 660, 688,
-1095, 1193, 1207, 1213, 1255,
-1258, 1266.
-Heterocrypta,
-granulata, 376, 1391.
-maltzani, 271, 1343, 1359, 1391.
-Heterocyathus, 822.
-philippinensis, 818, 1368.
-Heterofusus, 137, 664, 735, 871, 1264.
-Heterograpsus (see Brachynotus).
-Heteromysis,
-bermudensis, 243, 1387.
-Heteropegma, 1429.
-nodus gordii, 201, 690, 1365, 1422.
-Heteroplon, 1429.
-pluma, 537, 1372.
-Heteropsammia, 822.
-michelini, 818, 1368.
-multilobata, 823, 1368.
-Heterostegina, 631, 717.
-depressa, 630, 631, 641, 687, 863,
-1003, 1072.
-Hexacaryum,
-arborescens, 1061.
-Hexacolpus,
-conifer, 922.
-dodecodus, 970.
-infundibulum, 1053.
-nivalis, 882.
-trypanon, 1095.
-Hexacontarium,
-clavatum, 1050.
-dentatum, 1015.
-Hexacontium,
-antarcticum, 512.
-axophænum, 1017, 1019, 1024,
-1028, 1032, 1044, 1053.
-axotrias, 980.
-circumtextum, 1659.
-clavigerum, 1217.
-favosum, 1010.
-Hexacontium-continued.
-floridum, 1015, 1044.
-furcatum, 1267.
-hexaconicum, 512.
-lævigatum, 1038, 1044,!1217.
-octahedrum, 1038.
-papillosum, 1017, 1019, 1024,
-1028, 1032, 1044, 1053.
-periplectum, 950.
-phænaxonium, 1032.
-prionacanthum, 879.
-sceptrum, 1250.
-triplosphærium, 1021.
-Hexaconus,
-ciliatus, 1033.
-coronatus, 980.
-serratus, 1095.
-vaginatus, 1062.
-velatus, 1268.
-Hexacromyum,
-arachnoides, 1132.
-elegans, 1044.
-octahedrum, 1006.
-quadrigatum, 979.
-Hexactinella,
-lata, 744, 1330.
-Hexadendron,
-bipinnatum, 1053.
-quadricuspis, 1050.
-Hexadoridium,
-streptacanthum, 1038.
-Hexadorus,
-axophæna, 1010.
-lychnosphæra, 1031,
-octahedrum, 1015.
-Hexalaspis,
-heliodiscus, 1046, 1053, 1057,1062.
-hexaglypha, 1261.
-hexalastrum, 876.
-sexalata, 944.
-stellata, 1086.
-Hexalastrum,
-crinanthrum, 1022.
-orchidaceum, 1015.
-palmanthum, 1060.
-Hexalatractus,
-fusiformis, 1016.
-sexalatus, 1006.
-Hexaloncharium,
-hystricinum, 1095.
-octahedrum, 879, 1217.
-Hexalonche,
-amphisiphon, 1044.
-anaximandri, 1050.
-anaximenis, 1050.
-aristarchi, 949.
-aspera, 1132.
-brevicornis, 979.
-castanella, 167, 1038, 1265.
-conicornis 1021.
+tumida, 253, 1199, 1279, 1281,
+1295.
+Kyptocaris,
+stylofrontalis, 835.
+Labrichthys,
+bothryocosmus, 599, 1418.
+celidota, 599, 1418.
+Lachesis, 397, 999, 1347, 1402.
+Læmonema,
+longifilis, 1195, 1418.
+Lænilla,
+fusca, 1190, 1319.
+Læops,
+parviceps, 551, 732, 1353, 1360,
+1418.
+Letmatophilus,
+purus, 421, 1340.
+Lætmogone, 1450.
+spongiosa, 918, 1318.
+violacea, 578, 1337, 1432, 1443,
+1448.
+wyville-thomsoni, 453, 519, 899,
+1129, 1294, 1298, 1299, 1300,
+1305, 1313, 1337, 1446.
+Lætmonice,
+aphroditoides, 918, 1319.
+japonica, 899, 1338.
+producta, 453, 464, 489, 1280,
+1281, 1282, 1289, 1290, 1298,
+1299, 1300, 1301, 1310, 1312,
+1327, 1358, 1381, 1424.
+var. assimilis, 225, 1381.
+var. benthaliana, 508, 947,
+955, 956, 1278, 1285, 1294.
+var. willemoesi, 259, 386,
+445, 607, 679, 1294, 1305,
+1319.
+var. wyvillei, 435, 508, 1294,
+1338, 1381.
+Levicardium (sec Cardium).
+Lafoëa,
+dumosa, 162, 1333.
+fruticosa, 1164, 1373, 1445, 1448.
+Lafystius,
+sturionis, 223.
+Laganun,
+depressum, 695, 721, 1378, 1423.
+putnami, 762, 1378.
+Lagena, 211, 354, 427, 587, 589, 605,
+641, 862, 937, 1037, 1067,
+1085, 1104, 1131, 1201.
+acuta, 354, 427, 429, 480, 492,
+581, 640, 876, 949, 1037, 1067,
+1089, 1092, 1112, 1180, 1201,
+1217, 1225, 1247.
+acuticosta, 166, 211, 295, 427,
+492, 529, 581, 587, 937, 949,
+1037, 1067.
+alveolata, 145, 511, 529, 949,
+1112
+var. caudigera, 1104, 1112.
+var. substriata, 424, 427,
+1067, 1085.
+ampulla.distoma, 686.
+Lagena-continued.
+apiculata, 145, 152, 211, 215,
+261, 354, 492, 640, 671, 857,
+937, 949, 965, 1037, 1067,
+1085, 1092, 1112, 1230.
+aspera, 134, 354, 686, 857, 937,
+949, 1037, 1131.
+auriculata, 139, 145, 261, 449,
+587, 589, 671, 876, 949, 1067,
+1112, 1136, 1217, 1247.
+var, costata, 949, 1067.
+var. substriata, 449, 876.
+bicarinata, 145.
+botelliformis, 511, 1136.
+castrensis, 631, 686, 903.
+clavata, 492.
+crenata, 671.
+dentata, 686.
+desmophora, 145, 152, 354, 671,
+876, 1067, 1104, 1112, 1131,
+1230, 1247, 1253.
+distoma, 211, 215, 480, 903,
+1154, 1162.
+elongata, 581, 686, 857, 937.
+exsculpta, 261, 529, 671, 937,
+949, 1067, 1225, 1253.
+favoso-punctata, 196, 671, 686.
+feildeniana, 429, 949, 1067,
+1217.
+fimbriata, 215, 529, 663, 876,
+949, 1037, 1067, 1104.
+formosa, 145, 152, 261, 354, 6:29,
+671, 867, 876, 1026, 1037,
+1067, 1078, 1085, 1092, 1104,
+1125, 1126, 1131, 1230, 1253.
+var. brevis, 686.
+var. comata, 427, 876, 1037,
+1201, 1230.
+var. favosa, 486, 876.
+globosa, 145, 211, 215, 261, 342,
+427, 449, 511, 529, 581, 604,
+631, 671, 857, 876, 937, 1002,
+1026, 1037, 1067, 1085, 1092,
+1104, 1112, 1131, 1136, 1180,
+1217, 1230, 1247.
+gothica, 686.
+gracilis, 215, 342, 429, 529, 604,
+671, 1026, 1037, 1067, 1085,
+1112, 1131, 1154, 1201, 1230,
+1247.
+gracillima, 182, 211, 480, 492,
+529, 581, 671, 686, 798, 857,
+903, 937, 949, 1067, 1071,
+1085, 1112, 1201, 1217.
+hertwigiana, 529, 686.
+hexagona, 211, 429, 581, 604,
+949, 1002, 1037, 1067, 1104.
+hispida, 182, 196, 319, 354, 687,
+686, 903, 949, 1112, 1131,
+1154, 1162.
+Labidiaster,
+annulatus, 462, 484, 488, 738,
+131 1325, 1327, 1334, 1355,
+1358, 1375.
+radiosus, 1168, 1375.

@@ -1,53 +1,40 @@
-946
+948
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 241.
-Density at 60° F. :-
-Surface,
-50 fathoms,
-100
-200
-. 1.02574
-. 1.02574
-. 1:02567
-1:02573
-300 fathoms,
-400
-900
-Bottom,
-. 1.02575
-. 1.02575
-. 1.02561
-. 1.02558
-Depth, 2300 fathoms; deposit, Red Clay, containing 17-29 per cent. of carbonate
-of lime (sec Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 3 A.M. shortened and furled sails. At 4 A.M. got up steam. At 4.30 A.M. put over
-trawl, veering 4000 fathoms. At 6 A.M. proceeded under steam. At 6.30 A.M. sounded
-in 2300 fathoms. At 8 A.M. shortened in trawl-rope to 3000 fathoms.
-At 10 A.M.
-obtained serial temperatures down to 1500 fathoms. At 2 P.M. commenced heaving in
-trawl, which came up at 4.40 P.M. with numerous specimens and many pumice-stones
-with animals attached to them. The two tow-nets attached to the beam of the trawl
-were filled with clay. At 4.45 P.M. made sail
-.
-Distance at noon from Honolulu, 2484 miles. Made good 61 miles. Amount of
-current 20 miles, direction N. 17° E.
-ANIMALS FROM
-TRAWL.
-The following species are recorded in the Zoological Reports from the trawl at
-this Station :
-DEEP-SEA KERATOSA (Haeckel, Zool. pt. 82).
-Psammophyllum flustraceum, n.g., n.sp. One specimen; obtained at no other locality.
-MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Axinella profunda, n.sp. One specimen ; obtained also at Station 281, 2385 fathoms.
-HEXACTINELLIDA (Schulze, Zool. pt. 53).
-Caulophacus elegans, n.g., n.sp. Three specimens ; obtained at no other locality.
-Bathydorus fimbriatus, n.g., n.sp. One specimen; obtained also at Station 248,
-2900 fathoms.
-Hyalonema robustum, n.sp. One specimen ; obtained at no other locality.
-sp. (?).
-ALCYONARIA (Wright and Studer, Zool. pt. 64).
-Bathygorgia profunda, n.g., n.sp. One specimen ; obtained at no other locality.
-Only species of the
-genus.
-PENNATULIDA (Kölliker, Zool. pt. 2).
-Scleroptilum grandiflorum, n.g., n. sp. Three specimens; obtained at no other locality.
+GASTEROPODA.
+Trochus (Bembix) abyssorum, Smith, n.sp. [See Proc. Zool. Soc. Lond., 1891, p. 438].
+POLYPLACOPHORA (Haddon, Zool. pt. 43).
+Leptochiton benthus, n.sp. Two specimens ; obtained at no other locality.
+POLYZOA (Busk, Zool. pt. 30).
+Farciminaria pacifica, n.sp.
+One specimen ; obtained at no other locality.
+TUNICATA (Herdman, Zool. pts. 17 and 38).
+Culeolus murrayi, n.g., n.sp. Two specimens ; obtained at no other locality.
+willemoesi, n.g., n.sp. One specimen ; obtained at no other locality.
+Bathyoncus discoideus, n.g., n.sp. One specimen ; obtained at no other locality.
+1
+In addition to the foregoing, the following are recorded in the Station-book :-
+Several specimens of Stephanoscyphus attached to pumice-stones, fragments of Pourtalesia,
+worm-tube, microscopical Isopod (Arcturus ?), fragment of an Isopod (probably belonging
+to a long Munopsid), and a small bivalve.
+Excluding Protozoa, nearly 100 specimens of invertebrates were obtained at this
+Station, belonging to about 35 species, of which 27 are new to science, including
+representatives of 12 new genera; 19 of the new species and 3 new genera were not
+obtained elsewhere.
+Willemoes-Suhm writes: "Among the specimens obtained were Aphroditaceans with
+long setæ of brilliant colours, which I think were previously obtained in deep water, and
+a fine Clymene with the head entire but with broken tail. Two large specimens of a
+Sipunculid, having no papillä on the pharynx but on the posterior part of the body,
+which tapers towards the extremity, apparently belong to Keferstein's genus
+Phascolosoma. There were also a small Isopod, probably an Arcturus, and a Gammarid,
+one inch in length, transparent and with red eyes, which came up alive probably from
+the surface."
+ORGANISMS FROM
+THE DEPOSIT.
+The following species of Foraminifera, Radiolaria, and Diatoms were observed in the
+deposit from this Station. The sounding-tube indicated two layers in this deposit, the
+lower one being lighter in colour and containing more calcareous shells ; the soft mud
+from the tow-nets attached to the trawl was carefully sifted, and was found to contain
+large numbers of arenaceous Foraminifera, Biloculina, Textularia, and Truncatulina
+(two or three of the Biloculinæ contained sarcode, which was of a yellowish colour, the
+nucleus colouring readily with carmine):-

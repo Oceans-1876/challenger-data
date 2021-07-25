@@ -1,36 +1,45 @@
-vi
+2
 THE VOYAGE OF H.M.S. CHALLENGER.
 1
-during the past five years, and has been a peculiarly heavy piece of work.
-It involved a search for all available material, extracting the observations
-and reducing them to uniform standards, charting them thereafter on a large
-number of maps, a selection only of which are published with this Report.
-Much time was required in the preparation of the maps, Nos. I. and II.,
-which exhibit the mean annual temperature and specific gravity of the
-surface of the ocean. The practice of including annual means in their
-published tables and maps of sea-temperatures and salinities has been
-hitherto seldom adopted by meteorologists, consequently it was necessary to
-calculate these means where possible, since it is from such alone that any
-satisfactory discussion of the temperature and specific gravity of the ocean
-at all depths can proceed.
-The present Report is divided into two parts, the first dealing with the
-surface of the ocean, and the second with the deeper ocean waters. The
-former gives a brief résumé of those atmospheric conditions which bear on
-the question, particularly the distribution of pressure and the prevailing
-winds dependent on the pressure. Attention is pointedly drawn to the
-intertropical distribution of pressure and the area within this region where
-pressure is lowest, since the position of this area or band with reference to
-the equator appears to give the key to the solution of the problems under
-consideration, viz., whether any of the surface currents of the ocean,
-generated and maintained by the trade winds, cross the equator, bearing
-with them a high temperature and high specific gravity into another
-hemisphere than that in which they had their origin. The relation of the
-prevailing winds to the great currents of the ocean is pointed out as well as
-the relation of the rainfall to the specific gravities. The distribution of the
-temperature of the surface of the ocean and of its specific gravity is fully
-described and illustrated on the first two maps. On twenty-seven maps
-the
-temperatures of the sea at 10, 15, 20, 25, 30, &c., fathoms down to 200
-fathoms were entered with the view of ascertaining approximately the depth
-1
+phenomena the most important is an approximately correct representation of the
+circulation of the atmosphere over the surface of the globe in all seasons of the year.
+The only way by which this knowledge can be obtained is by the geographical
+distribution of the mass of the earth's atmosphere, as shown by mean isobaric lines,
+which, as is recognised, ultimately depend on the geographical distribution of the
+temperature and humidity of the air. Observation abundantly shows that it is the
+isobaric lines which absolutely rule the direction of the prevailing winds.
+A discussion, therefore, of all available information relative to the different
+atmospheric phenomena, with more special reference to the work of the Challenger,
+was undertaken in 1882, and the results were published in the beginning of 1890.1
+That Report gives, in addition to the results of the Challenger observations, the mean
+diurnal variations of atmospheric pressure at 147 places in all parts of the globe; the
+mean monthly and annual pressure at 1366 places ; a similar table of mean temperatures
+at 1620 places; and the mean monthly and annual direction of the wind at 746 places.
+Owing to the all-importance of the wind ou oceanic circulation, other data were
+obtained and utilised in constructing the maps, which had been published by the
+marine and meteorological departments of the United States, England, France, Holland,
+Germany, Norway, Denmark, Italy, Mauritius, and India. A first attempt was also
+made to investigate and describe the meteorology of the ocean.
+Among the more important factors of ocean meteorology that bear more directly
+on this discussion are the large permanent anticyclonic areas over the oceans, out of
+which the winds blow in all directions towards and over all surrounding regions where
+atmospheric pressure is lower. These are the regions of the oceans where calms and
+light winds are of most frequent occurrence. Since this state of things necessarily
+implies vast accessions of air setting towards these anticyclonic regions as upper aerial
+currents, and thence slowly descending to the surface of the sea, it follows that in these
+regions the air is relatively very dry; and this being so, evaporation is very great,
+and the specific gravity of the surface water of the sea consequently also large in
+anticyclonic regions.
+An examination of the anticyclones and their relative prevailing winds on the isobaric
+maps accompanying the Report on Atmospheric Circulation, already cited, indicate that
+these regions may be regarded, in a very large degree, as the ORIGINS OF THE WINDS
+and surface currents on the sea. It is of the greatest importance to note, in con-
+nection with the specific gravity of the surface water, that the less space the winds
+have traversed the ocean from their origins in the anticyclonic regions, the less is the
+rainfall. And on the other hand, the greater the distance the winds have traversed the
+ocean, the more copious is the rainfall.
+To take examples : The isobaric lines and
+winds for July show that the regions of the globe where at this time of the year the
+Report on Atmospheric Circulation, based on the Observations made on board H.M.S. Challenger, and other
+Meteorological Observations, by Alex. Buchan, M.A., LL.D. (Phys. Chem. Chall. Exp., pt. v., 1889).
 1

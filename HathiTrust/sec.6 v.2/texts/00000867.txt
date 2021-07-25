@@ -1,107 +1,98 @@
+1589
 SUMMARY OF RESULTS.
-1585
-Euplectella-ground, 808.
-Euplectellidæ, 263.
-Euryalidæ, 1149.
-Euthymenes, 14.
-Euxinus, Pontus, 6, 9, 11, 13, 19, 20, 24.
-Evolution of the Metazoa, 1458.
-Excreta (see Dung).
-External Sea, 6, 8, 11, 12, 13, 16, 21.
-Eydoux, F. Th., 75.
-Fishes-continued.
-1068, 1076, 1081, 1091, 1094, 1098, 1107,
-1108, 1109, 1115, 1121, 1125, 1130, 1143,
-1146, 1148, 1153, 1155, 1158, 1162, 1165,
-1166, 1171, 1174, 1180, 1184, 1192, 1195,
-1196, 1197, 1200, 1203, 1206, 1207, 1212,
-1225, 1228, 1240, 1253, 1255, 1259, 1260,
-1262, 1263, 1266, 1269, 1273, 1280, 1287,
-1298, 1310, 1323, 1434, 1438, 1447, 1449,
+1291, 180:
+Hubrecht, A. A. W. (see Nemertea).
+Infusoria--continued.
+Hudson, Henry, 47, 48.
+Humboldt, Alexander von, 3, 4, 7, 15, 52, 74, 79.
+882, 886, 889, 893, 916, 931, 932, 970, 982,
+Huxley, T. H., 92, 93, 754.
+988, 1003, 1025, 1068, 1082, 1083, 1085,
+Hyalonema-ground, 896.
+1106, 1119, 1121, 1127, 1137, 1156, 1158,
+1193, 1197, 1227, 1269.
+Hybodontes, 103.
+Innocentes Bay, 1156.
+Hydrographic signs, 53, 54.
+Internal Sea, 16.
+Hydroida, 123, 141, 162, 172, 202, 221, 251, 265, International Polar expeditions, 106a.
+270, 279, 306, 323, 331, 356, 366, 369, 373,
+Investigator, the, 106c, 141, 156, 164, 210, 213, 214,
+393, 399, 407, 418, 428, 433, 448, 461, 482,
+299, 335, 336, 369, 386, 447, 458, 507, 519,
+483, 488, 507, 527, 531, 537, 548, 555, 577,
+609, 615, 633, 634, 738, 739, 710, 746, 748,
+606, 632, 667, 692, 720, 768, 772, 778, 784,
+749, 754, 759, 776, 777, 792, 801, 841, 842,
+826, 836, 839, 851, 921, 933, 955, 969, 995,
+856, 865, 875, 898, 901, 919, 1097, 1123.
+1018, 1087, 1100, 1125, 1140, 1148, 1153, Ionian school, 10, 11.
+1164, 1171, 1172, 1175, 1182, 1189, 1196, Ionic colonies, 9.
+1200, 1242, 1266, 1278, 1292, 1303, 1316,
+Iron oxide, 1103, 1114, 1233, 1461.
+1333, 1446, 1448, 1450, 1452.
+Irvine, Robert, 106p, 1456.
+Hydromedusa, 482.
+William, 73.
+Hydrometer, 66.
+Isabella, the, 76.
+Hydrozoa, 280, 348, 661, 684, 851.
+Isidore of Seville, 30.
+Hypatia, 66.
+Isobathic curves, 50, 55.
+Hyperborean Ocean, 50.
+Isopoda, 85, 163, 169, 211, 214, 227, 243, 257, 260,
+Sea, 49.
+262, 280, 282, 350, 358, 375, 383, 394, 410,
+Hyperidæ, 506, 629, 677, 737, 755, 768, 782, 869,
+436, 446, 453, 458, 470, 479, 480, 482, 490,
+871, 884, 885, 887, 889, 893, 894, 920, 943,
+494, 497, 498, 504, 509, 520, 521, 532, 539,
+944, 951, 952, 953, 960, 965, 975, 977, 980,
+548, 559, 578, 597, 600, 602, 608, 638, 663,
+982, 994, 1007, 1018, 1025, 1033, 1048, 1063,
+680, 698, 716, 722, 841, 843, 853, 855, 900,
+1068, 1085, 1094, 1096, 1099, 1101, 1105,
+908, 918, 932, 934, 948, 963, 975, 976,
+1109, 1119, 1127, 1138, 1174, 1185, 1186,
+1080, 1135, 1139, 1140, 1148, 1166, 1170,
+1193, 1202, 1203, 1207, 1209, 1212, 1213,
+1173, 1177, 1184, 1190, 1194, 1199, 1219,
+1215, 1232, 1245, 1248, 1256, 1260, 1262,
+1251, 1260, 1263, 1269, 1271, 1279, 1286,
+1263, 1266, 1268, 1269.
+1295, 1306, 1320, 1340, 1434, 1442, 1447,
 1451, 1452, 1454.
-flying, 145, 148, 155, 157, 158, 187, 188, 302,
-380, 632, 799, 852, 987, 1020, 1029, 1048,
-1057, 1064, 1186, 1207, 1262, 1261.
-pilot, 143, 158, 617, 893, 1020, 1256.
-pipe-, 184, 1266.
-eggs of (see Eggs).
-observations on deep-sea, 80, 81.
-otoliths of, 138.
-teeth of, 1093, 1265.
-Fiske, John, 44.
-Fitzroy, Robert, 70, 77.
-Flavio Giogo, 33.
-Flavius Arrianus, 27.
-Fleeming Jenkin, H. C., 96.
-Flemish, 52, 53.
-Fleurieu, C. F. C. de, 71.
-Flies, 142.
-Flint, 89.
-Floating driftwood, 849.
-99
-Falkland Islands, 1175.
-Faroe Channel, 101, 1432, 1433.
-Fathoms used to measure distances at sea, 11.
-Fauna (deep-sea), origin of, 1434.
-(Lusitanian), 249.
-(polar), origin of, 1434.
-(universal deep-sea), no sufficient evidence for,
-1439.
-of east and west coasts of Africa, 1459.
-America, 1459.
-Fawn colour of water, 1193.
-,
-Felspar, 98.
-Fernando Noronha, 343, 346.
-Ferrer, Jacques, 42.
-Festus Avienus, R., 5, 6.
-Fiji Islands, 642.
-Finches, 212, 891.
-First account of deep-sea sounding, 22.
-First attempt at deep-sea sounding, 45.
-Fischer, B., 106a.
-H., 23.
-P., 106B.
-Fishes, 110, 111, 118, 120, 137, 153, 157, 160, 164,
-167, 170, 188, 203, 206, 227, 245, 247, 248,
-249, 251, 257, 299, 302, 313, 315, 320, 322,
-324, 329, 334, 336, 340, 346, 352, 364, 367,
-369, 379, 387, 402, 415, 425, 428, 441, 447,
-455, 478, 486, 495, 504, 505, 510, 520, 524,
-530, 544, 545, 546, 550, 551, 574, 591, 592,
-595, 599, 603, 609, 616, 617, 621, 629, 634,
-657, 661, 664, 665, 669, 674, 676, 681, 684,
-688, 715, 731, 732, 735, 737, 740, 741, 749,
-751, 754, 766, 768, 772, 777, 781, 782, 783,
-786, 789, 790, 793, 796, 797, 798, 802, 815,
-816, 833, 838, 842, 843, 845, 848, 849, 850,
-851, 852, 853, 856, 857, 861, 863, 865, 867,
-869, 870, 871, 873, 883, 885, 890, 891, 892,
-895, 901, 902, 910, 911, 915, 919, 926, 935,
-940, 964, 965, 976, 988, 991, 993, 1000, 1004,
-1010, 1013, 1020, 1026, 1029, 1036, 1066,
-(SUMMARY OF RESULTS CHALL. EXP.-1894.)
-spar, 403.
-wood, 189, 235, 268.
-Florez, Padre, 4.
-Florida, 44.
-Keys, 100.
-reefs, 98, 100.
-Flower, W. H., xii.
-Flying fishes (see Fishes).
-Fol, H., 328.
-Folin, Marquis de, 106B.
-Food of Cirriped Zoeæ, 971.
-deep-sea animals, 1433.
-Euphausia, 971.
-Holothurians, 808.
-organisms inhabiting intermediate waters of
-the ocean, 1455.
-shrimps, 1130.
-(struggle for) in deep sea, 1433.
-Foraminifera, xxxviii., 79, 85, 87, 89, 90, 92, 93, 98,
-114, 115, 124, 133, 138, 144, 147, 152, 165,
-180, 187, 190, 195, 198, 200, 203, 211, 215,
-200
-99
-atsistita skaistis tie tus amintimitad tihti sanitare Aktien
+Iberian peninsula, 37.
+Italian Expeditions, 106B.
+Ibn-al-Fakih, 33.
+Ibn Khaldun, 34.
+Jackal, the, 106D.
+Ibn-Wahab, 31.
+Jacobsen, O., 103, 106A.
+Icebergs, 493, 494, 496, 500, 501, 502.
+Jacquinot, C. H., 70.
+Ice-borne pebbles, 1086, 1088, 1090.
+H., 75.
+Iles de Flandres, 58.
+Jamestown, the, 90.
+Ilo-Ilo, 783.
+Jane, the, 70.
+India, 21, 22, 27, 28, 34, 37, 38, 40, 42, 43, 44.
+Janey, the, 88, 90.
+Indian current, 522.
+Janszoon, Jan, 55.
+Gulf, 16.
+Lucas, 55.
+Ocean, 50, 71, 72, 88.
+Japan, 32, 33, 44, 895, 896.
+Sea, 34, 51, 69.
+current, 893, 915, 942.
+India-Rubber, Gutta-Percha, and Telegraph Works Co.,
+Java, 33, 44.
+106a.
+Jebb, S., 38.
+Indus, River, 13, 17, 33.
+Jeffreys, J. Gwyn, 84, 86, 102, 106B.
+Iufusoria, 338, 501, 587, 774, 790, 800, 853, 871, Jelly-fish, 14, 735, 737.
+1,00

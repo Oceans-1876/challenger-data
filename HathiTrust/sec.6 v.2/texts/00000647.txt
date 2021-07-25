@@ -1,107 +1,110 @@
+wand
+1371
 SUMMARY OF RESULTS.
-1367
-S
-*
-N
+♡
+solida, n.sp.
+>
+hing
+and
+nd
+bulbosa, n.sp.
+and *
+* Moseleya latistellata, n.g., n.sp.
+T
+Pocillopora nobilis, Verrill. T
+* Mussa aspera, M.-Edwards and Haime. T *
+paucistellata, n.sp.
+T
+brueggemanni, n.sp.
+T
+plicata, Dana. T
+echinata, M.-Edwards and Haime. *
 T
 T
+squarrosa, Dana. T
+fistulosa, M.-Edwards and Haime. *
+suffruticosa, Verrill. T
 T
+terrucosa (Ellis and
+multilobata, Dana. T
+Solander) T
+Napopora irregularis, n.g., n.sp.
 T
+* Podabacia robusta, n.sp.
 T
-N
-S
-sp. (?). S
+* Oculina bermudensis, Duchassaing and * Porites arenosu (Esper). T
+Michelotti. N
+astræoides, Lamarck. T
+coronalis, n.sp. N
 T
+diffusa, Lamarck TN
+clavaria, Lamarck. N
+pallens, Ehrenberg. N
+compressa, Dana. T
+recta, n.sp.
 T
+Clussa, n.sp.
 T
-N
+speciosa, M.-Edwards
+crassistellata, 1.sp.
 T
+Haime. N
+explanata, n.sp.
 T
-N
-S
-* Suberia genthi, n.sp.
-Dysactis rhodora (Couthouy). S
-* Suberogorgia suberosa (Pallas). N * Epizoanthus cancrisocius, Studer.
-* Telesto (Carijoa) arborea, n.sp.
-elongatus, n.sp.
-S
-( ) rupicola, Müller.
-stellaris, n.sp.
-( ) trichostemma (Dana). * Halcampa clavus (Quoy and Gaimard).
-S
-* Thouarella affinis, n.sp.
-S
-kerguelensis, n.sp.
-S
-* Tubipora musica, Linné.
-Halcampella maxima, n.sp. T
-* Xenia elongata, Dana. T
-sp. (?). T
-* Hormathia delicatula, n.sp. (locality and
-PENNATULIDA:
-depth unknown).
-* Cavernularia obesa, Valenciennes. S Ilyanthopsis longifilis, n.g., n.sp.
-* Clavella australasia, Gray. S
-* Palythoa anguicoma, Norman.
-Halisceptrum gustavianum, Herklots,
-var. parvifolia, Kölliker.
-Sphenopus arenaceus, n.sp.
-Kophobelemnon burgeri, Herklots. T
-marsupialis, Steenstrup.
-* Lituaria phalloides, Pallas.
-pedunculatus, n.sp.
-* Pennatula sulcata, n.sp.
+varicosa, Lesueur. TN
+gaimardi, M.-Edwards and
+* Orbicella cavernosa (Esper).
 T
-Stephanidium schulzii, n.g., n.sp.
-* Pteroeides breviradiatum, Kölliker.
-* Tealia bunodiformis, n.sp.
-esperi, Herklots. T
-* Zoanthus confertus, Verrill. S
-* Renilla mülleri, Schultze.
-dana, Le Conte.
-Sarcophyllum grande, Gray.
-Scytalium sarsi, Herklots.
-two species undetermined.
-tentaculatum, n.sp.
+Haime. T
+Oxypora contorta, n.sp. T
+guadaloupensis, Duchassaing and
+Pachyseris speciosa (Dana). T
+Michelotti. T
+* Pavonia crassa, Dana. T
+latistellata, n.sp.
 T
-* Virgularia gracillima, n.sp.
-CORALS :
-Astræa abyssorum, n.sp.
-ANTIPATHARIA :
-* Balanophyllia lairdiana, M.-Edwards
-* Pteropathes fragilis, n.g., n.sp.
-and Haime. s
-sp. (?). T
-ACTINIARIA:
-Bathyactis symmetrica (Pourtalès).
-* Antholoba reticulata (Couthouy). S
-STN
-Aulactinia
-Cladocora arbuscula, M.-Edwards and
-* Calliactis polypus (Forskål).
+decussata, Dana. T
+lichen, Dana. T
+divaricata, Lamarck. T
+lutea, M.-Edwards and Haime. T
+formosa, Dana. T
+mirabilis, n.sp.
 T
-Haime. S TN
-* Cerianthus americanus, Verrill. S
-conferta, n.sp.
+prætorta, Dana.
 T
-membranaceus, Spall. T * Cycloseris tenuis (Dana). T
-* Comactis flagellifera (Drayton).
-Dendrophyllia cornigera, Blainville. T
-* Corticifera lutea, Quoy and Gaimard. N * Distichopora irregularis, n.sp.
-tuberculosa (Klunzinger). S * Flabellum stokesi, M.-Edwards and Haime.
-Dysactis crassicornis, n.sp.
+palmata, Dana. T
+* Pectinia profunda (Dana). T
+parvistellata, n.sp. T
+* Phymastræa aspera, n.sp.
 T
-s
-N
-s
-sp. (?). N
+superficialis, Duchassaing and
+* Physogyra aperta, n.g., n.sp.
 T
+Michelotti. T
+* Plesiastræa indurata, Verrill. T
+tenuis, Verrill. T
+urvillei, M.-Edwards and * Prionastræa flexuosa (Dana). T
+Haime. T
+obtusata, M.-Edwards and
+* Pocillopora acuta, Lamarck. T
+Haime. T
+brevicornis, Lamarck. T
+quoyi, , M.-Edwards and
+cespitosa, Dana.
 T
-s
+Haime. T
+damicornis (Esper). T
+robusta (Dana). T
+dana, Verrill. T
+* Psammocora exesa, Dana. T
+grandis, Dana. T
+obtusangula (Lamarck). T
+ligulata, Dana. T
+ramosa, n.sp.
 T
-T
-sp. (?).
-S
-s
-T
-s
+>
+>
+>
+"
+3
+22

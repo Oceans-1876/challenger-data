@@ -1,103 +1,99 @@
 SUMMARY OF RESULTS.
-1309
-* Rotella (?) sp.
-N
-*
-ionica, n.sp.
-*
-Dentalium capillosum, Jeffreys. TN Rissoa (Alvania) deliciosa, Jeffreys. TN
-circumcinctum, n.sp.
-Τ Ν
-subterfissum, Jeffreys. TN
-Scalaria acus, n.sp.
-TN
-* Dunkeria falcifera, n.sp.
-N
-Scaphander gracilis, n.sp. N
-Fenella elongata, n.sp.
-TN
-punctostriatus (Mighels).
-* Fossarus cereus, n.sp.
-T
-Τ Ν
-Fusus (Neptunea) setosus, n.sp.
-S Seguenzia carinata, Jeffreys. TN
-(Sipho) n.sp. (?). N
-Τ Ν
-Ianthina exigua, Lamarck (surface). T N
-monocingulata, Seguenza. TN
-rotundata, Leach (surface). S N * Siliquaria (Tenagodus) bernardii, Mörch.
-* Lamellaria sp. (?). S
-N
-Lepeta (Pilidium) fulva (Müller). N Siphodentalium pusillum, n. sp. N
-Mitrularia uncinata (Reeve). TN Trachysma delicatum (Philippi). TN
-* Nassa dissimilis, n.sp.
-s
-* Trochus (Margarita) brychius, 1.sp. s
-Natica radiata, n.sp.
-N
+1313
+Cadulus gracilis.
+Cithna tenella.
+Clathurella chariessa.
+formosa.
+Cylichna ovata.
+Dentalium capillosum.
+circumcinctum.
+Fenella elongata.
+Ianthina exigua.
+Mitrularia uncinata.
+Natica radiata.
+sp. (?).
+Salenia varispina.
+Schizaster moseleyi.
+Holothuria murrayi.
+Lætmogone wyville-thomsoni.
+Terebellides stræmi.
+Bairdia foveolata.
+victrix.
+Cythere dasyderma.
+dictyon.
+scutigera.
+serratula.
+speyeri.
+Cytheropteron fenestratum.
+Krithe producta.
+Xestoleberis curta.
+Serolis antarctica.
+bromleyana.
+Acanthephyra sica.
+Benthesicymus altus.
+brasiliensis.
+pleocanthus.
+Gennadas parvus.
+Nematocarcinus productus.
+tenuipes.
+Penæus serratus.
+Colossendeis leptorhynchus.
+Amussium cancellatum.
+Arca (Barbatia) corpulenta.
 (
-) infundibulum, n.sp.
-SN
-sp. (?). TN
-Odostomia (Turbonilla) compressa,
+) pteroessa.
+Cryptodon croulinensis.
+Ervilia castanea.
+Leda jeffreysi.
+Lima (Limatula) confusa.
+Limopsis aurita.
+Bulla semilevis.
+Odostomia (Turbonilla) compressa.
+Pleurotoma (Mangelia) acanthodes.
 (
-N
-) rhina, n.sp.
-,
+) tiara.
+(Surcula) staminea.
+Ringicula peracuta.
+Rissoa (Alvania) deliciosa.
+Scalariu acus.
+Scaphander punctostriatus.
+Seguenzia ionica.
+monocingulata.
+Trachysma delicatum.
+Trochus (Margarita) rhina.
 (
-?) scintillans, 1.sp.
-Jeffreys. N
-TN
-Philine quadrata (Wood). N
-(Ziziphinus) tiara, 1.sp. Τ Ν
-* Pleurobranchus sp. (?). S
-* Pleurotoma phymatias, n.sp.
-* Utriculus leucus, n.sp. N
-(Mangelia) acanthodes, n.sp.
-(
-N
-( ) incincta, n.sp. N
-POLYPLACOPHORA :
-(
-) macra, n.sp. N
-T
-(
-* Leptochiton belknapi, Dall.
-) tiara, n.sp. TN
-(
-CEPHALOPODA :
-(Pleurotomella) pruina, n.sp.
-N
-Corroteuthis magna, n.sp.
-* Eledonella diaphana, n.sp.
-T
-(
-Surcula) staminea, n.sp. S Enoploteuthis margaritifera, Rüppell. T
-(Thesbia) membranacea, n.sp.
-* Octopus sp. (?). T
-S
-* Taonius hyperboreus,
-( ) xanthias, n.sp. S
-(surface ?). N
-T
-sp. (?). N
-*
-) sp. (?). N
-s
-) sp. (?). N
-Steenstrup
-sp. (?). N
-POLYZOA:
-* Puncturella brychia, n.sp.
-N
-Purpura (?) sp., fry. N
-Ringicula peracuta, n.sp. TN
-* Rissoa amblia, n.sp.
-N
-(SUMMARY OF RESULTS CHALL. EXP.–1894.)
-Catenicella elegans, Busk. S T
-* Cellularia cirrata, n.sp.
-* Crisia biciliata, MacGillivray. s
-T
-165
+) scintillans.
+(Ziziphinus) tiara.
+Catenicella elegans.
+Farciminaria hexagona.
+Hippothoa divaricata.
+Discina atlantica.
+Terebratella frielii.
+Terebratula vitrea.
+Gonostoma microdon.
+Macrurus armatus.
+Synaphobranchus brevidorsalis.
+The following 37 species (or 16 per cent.) were taken in depths less than 100 fathoms
+or at the surface :
+Rhizochalina fistulosa.
+Tentorium semisuberites.
+Azorica pfeifferæ.
+Bathyactis symmetrica.
+Cribrella oculata.
+Leptoptychaster arcticus.
+Ophiacantha bidentata.
+Brissopsis luzonica.
+Salenia hastigera.
+Cerebratulus angusticeps.
+Eunice wrstedi.
+? Notomastus agassizii.
+Bairdia foreolata.
+victrix.
+Cythere dictyon.
+scutigera.
+stolonifera.
+Xestoleberis curta.
+variegata.
+Cyphocaris micronys (deep tow-net).
+Elasmopus subcarinata.
+Gennadus parvus (surface).

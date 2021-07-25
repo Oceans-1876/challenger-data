@@ -1,41 +1,41 @@
-10
+14
 THE VOYAGE OF H.M.S. CHALLENGER.
-the ocean from the American coast and West Indies across the Atlantic, then northwards
-over its eastern side, and thereafter round the north of Norway and along the north of
-Siberia. This state of things results, as regards Europe, in the setting-in of a strong
-ocean current bringing the waters of warmer latitudes to its western shores, and on the
-other hand, as regards America, the draining away from its shores of its warmer surface
-waters, and as this water is replaced by the upwelling of the water from greater depths,
-it is therefore of a lower temperature than that removed by the surface current.
-Similarly, the wind system of the North Pacific is ruled by the low pressure in the
-north of that ocean, resulting in north-westerly winds in the east of Asia and south-
-westerly and southerly winds in the west of North America. The great dryness and
-low temperature of these north-westerly winds have the effect of lowering to a still
-greater degree the temperature of the North Pacific Ocean.
-In the southern hemisphere, south of lat. 35° S., there occurs no circumscribed
-region of low pressure, but a broad ring, in width about 30° of latitude, of very low
-pressure, passes completely round the globe, falling to a mean pressure of about
-29.000 inches near lat. 63º S. Over this broad space of low pressure the prevailing
-winds are strong, and approximately west or north-westerly all the year round. These
-strong north-westers pour south into the Southern Ocean, by the surface currents they
-generate and maintain, inconceivably enormous volumes of water from lower latitudes,
-and these waters, be it noted, of a comparatively high temperature and specific gravity.
-These warm and specifically heavy waters in their passage southward by and by
-necessarily sink to greater depths, and are overlaid by the cold and specifically light
-waters from the melted snow and icebergs of the Antarctic region, as suggested by Dr
-Murray. A striking feature of the waters of the Southern Ocean is the interdigitation of
-currents differing very widely from each other both in temperature and specific gravity,
-the colder of these currents having their origin, doubtless, in the numerous icebergs
-of these regions. An important part played by these vast currents of warm and
-specifically heavy water is to mitigate, most materially, the cold of the Antarctic region,
-particularly at great depths, and thus restrict the ice-clad area to its present limits.
-At this season, south of the equator, systems of low atmospheric pressure are not
-situated over the ocean but over the land. Of these systems there are three-in
-South America, South Africa, and Australia. The most pronounced of these is in
-Australia, and the result is that, on all coasts, winds blow from the sea upon the land,
-and at the same time the surface currents of the ocean are directed towards the land.
-July.—In this season the geographical distribution of pressure is exactly the reverse
-in Australia of what obtains in January. Everywhere it increases on advancing from
-the coast into inland regions. The lowest pressure, about 30.000 inches, occurs near
-The Renewal of Antarctic Exploration, by John Murray, Ph.D., LL.D., of the Challenger Expedition (Geogr.
-Journ., vol. iii. p. 18, 1894).
+1
+Sea, the specific gravity of the Arabian Sea is high, but everywhere else to the north of
+lat. 10° S. it is rather low, owing no doubt to the large and, over wide areas, heavy rain-
+fall occurring there. For a considerable portion of the year the prevailing winds of West
+and North Australia are from the sea, where barometric pressure is much higher than in
+the interior of the continent, and consequently the specific gravity is higher for some
+distance round these coasts. Similarly, over the western half of this ocean the prevail-
+ing winds blow home on the coast of Southern Africa, in the interior of which in the same
+months pressure is also low, and, just as happens off South America, the specific gravity
+is largest on the coast to the south of the latitude of Madagascar, which lies quite open to
+the ocean.
+The deflection of the lines round the South African coast is very interest-
+ing in connection with the well-known warm and cold ocean currents which are so strik-
+ing a feature of that part of the globe. Fortunately, these lines are drawn from good
+annual mean specific gravities, calculated from numerous observations made during each
+of the twelve months of the year, which have been published by the Meteorological
+Council. It will be observed that the highest specific gravities of the Indian Ocean
+are found in the region of the anticyclones of that ocean, just as occurs with respect to
+the other occans, particularly the Pacific Ocean.
+The lower specific gravities observed in central Atlantic, between the higher specific
+gravities of the North and South Atlantic, are also annual averages, based on numerous
+observations, and mark with great distinctness the region between the two trade
+winds. It will be observed that in this region from long. 30° W. the specific gravity
+constantly diminishes eastward to the head of the Gulf of Guinea, where it falls below
+1•0260, being lower than occurs anywhere on the coasts from the English Channel to
+the Cape of Good Hope.
+The region of lowest specific gravity anywhere hitherto observed is the southern
+part of the Sea of Okhotsk where the mean falls to 1.0240, as calculated from numerous
+observations made there by Admiral Makaroff on board the “ Vitiaz," and the next
+lowest between Greenland and Spitzbergen, where Professor Mohn, also from numerous
+observations, gives the low mean specific gravity of 1.0245. The mean of the ten
+observations made by the Challenger to the south of lat. 60° S. is 1.0247, and of the
+six of these made near to or to the south of the line of 1.0245 on Map 1, the mean
+is 1.0245, being the same as Mohn's line of least mean specific gravity. The low specific
+gravities round the southern part of South America are occasioned, on the west coast
+chiefly, by the heavy rainfall of that region, and on the east coast, in addition to the
+rainfall, by the upwelling there resulting from the strong westerly winds blowing from
+the land seawards.
+1

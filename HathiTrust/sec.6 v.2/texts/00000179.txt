@@ -1,110 +1,93 @@
 SUMMARY OF RESULTS.
-937
+939
 STATION 237.
-х
-"
-X
-х
-X
-Х
-Haplophragmium latidorsatum (Bornemann).
-nanum, Brady (9).
-rotulatum, Brady.
-Thurammina papillata, Brady.
-Hormosina globulifera, Brady.
-ovicula, Brady.
-Ammoiliscus charoides (Jones and Parker).
-gordialis (Jones and Parker).
-tenuis, Brady.
-Trochammina galeata, Brady.
-inflata (Montagu).
-pauciloculata, Brady.
-ringens, Brady
-trullissata, Brady.
-Webbina clavata, Jones and Parker.
-Cyclammina cancellata, Brady.
-pusilla, Brady.
-Turtularia agglutinans, d’Orbigny.
-quadrilatera, Schwager.
-Gaulryina baccata, Schwager.
-pupoides, d'Orbigny.
-siphonella, Reuss.
-Clavulina parisiensis, d’Orbigny (?).
-Bulimina aculeata, d'Orbigny.
-luchiana, d'Orbigny.
-inflata, Seguenza.
-ovata, d'Orbigny.
-pyrula, d'Orbigny
-sulteres, Brady.
-Virgulina subsquamosa, Egger.
-Bolivina textilarioides, Reuss.
-Cassiulina subglobosa, Brady.
-Chilostomella ovoidea, Reuss.
-Lagena aruticosta, Reuss.
-apiculata, Reuss.
-aspera, Reuss.
-elongata (Ehrenberg).
-essculpta, Brady.
-globosa (Montagu).
-gracillima (Seguenza).
-Lagena lævigata (Reuss).
-lævis (Montagu).
-lineata (Williamson) (?).
-marginata (Walker and Jacob).
-orbignyana (Seguenza).
-quadricostulata, Reuss (?).
-squamosa (Montagu).
-staphyllearia (Schwager).
-striata (l'Orbigny).
-sulcata (Walker and Jacob).
-sp. ().
-Nodosaria communis, d'Orbigny.
-Cristellaria reniformis, d'Orbigny.
-Uvigerina tenuistriata, Reuss.
-x Globigerina æquilateralis, Brady.
-bulloiles, d'Orbigny.
-var. triloba, Reuss.
-conglobata, Brady.
-dubia, Egger.
-rubra, d'Orbigny.
-sacculifera, Brady.
-x Orbulina universa, d'Orbigny.
-x Pullenia obliquiloculata, Parker and Jones.
-quinqueloba, Reuss.
-sphæroides (d'Orbigny).
-Sphæroi lina bulloides, d’Orbigny.
-dehiscens, Parker and Jones.
-Truncatulina lobatula (Walker and Jacob).
-variabilis, d'Orbigny.
-x Pulvinulina canariensis (d'Orbigny).
-crassa (d'Orbigny).
-elegans (d'Orbigny).
-favus, Brady.
-menarlii (d'Orbigny).
-micheliniana (d'Orbigny).
-patagonica (d'Orbigny).
-Rotalia soldanii, d'Orbigny.
-Nonionina pompilioides (Fichtel and Moll).
-umbilicatula (Montagu).
-x
->
-Х
-Х
-xx
-Х
-"
-DIATOMACEÆ.—The following species of Diatoms were observed by Mr. Comber and
-Mr. Rattray.
-Amphora quaclrata, Gregory.
-salina, W. Smith, var.
-Cymbella gastroides, Kutzing (fresh water).
-ehrenbergii, Kutzing (fresh water).
-Naricula lyra, Ehrenberg.
-var. elliptica, A. Schmidt.
->
-Navicula henneilyi, Smith.
-oblonga, Kutzing (fresh water).
-crabro, Kutzing.
-legumen, Ehrenberg, var. decrescens, Gru-
-now (), (fresh water).
-nebulosa, Gregory.
+9
+Paralia sulcata, Cleve.
+Melosira mediterranea, Grunow, var. punctulata,
+Brun.
+solida, Eulenstein.
+clavigera, Grunow.
+Podosira hormoides, Kutzing.
+lævis, Gregory.
+maxima, Grunow.
+Cyclotella striata, Grunow, var. intermedia, Grunow.
+Arachnoidiscus ehrenbergii, Harvey and Bailey.
+japonicus, Ebrenberg.
+ornatus, Ehrenberg.
+var. (near var. montereyana,
+but with the transverse costæ more
+regular, and near Arachnoidiscus
+grevilleanus, Hardman).
+Stictodiscus californicus, Greville.
+var. nankoorensis, Grunow.
+var. areolata, Grunow.
+var. ecostata, Grunow.
+varians, Castracane.
+parallelus, A. Schmidt, forma tetragona.
+Auliscus sculptus, Ralfs.
+cælatus, Bailey
+Curataulus turgidus, Ehrenberg.
+Bildulphia pulchella, Gray.
+reticulata, Roper.
+tridentata, Ehrenberg.
+rhombus, Smith.
+aurita, Brebisson.
+Anaulus minutus, Grunow.
+Isthmia nervosa, Kutzing.
+Euodia janischii, Grunow.
+Hemidisus cuneiformis, Wallich.
+Triceratium farus, Ehrenberg.
+fimbriatum, Wallich.
+Triceratium formosum, Brightwell.
+armatum, Roper.
+grande, Brightwell.
+listinctum, Janisch.
+arrticum, Brightwell, var. permagnu,
+Rattray, MS.
+var. californira, Grunow.
+var. japonica, A. Schmidt.
+calvescens, Castracane.
+tumescens, Castracane.
+rivale, A. Schmidt.
+grunovii, Janisch (= T. ferox,
+Castracane).
+scitulum, Brightwell.
+quadrangulare, Greville.
+cuspidatum, Janisch.
+americanum, Ralfs (= T. amblyoceros,
+Brightwell).
+Chætoceros coarctatum, Lauder.
+Goniothecium sp. (?).
+Craspedodiscus coscinodiscus, Ehrenberg.
+Asterolampra marylandica, Ehrenberg.
+Hyalodiscus subtilis, Bailey.
+stelliger, Bailey.
+Bacteriastrum varians, Lauder.
+Rhizosolenia sp. ().
+Gomphonema geminatum, Agardh (fresh water).
+Striatella unipunctata, Agardh.
+Stauroneis phoenicenteron, Ehrenberg (fresh water).
+Epithemia turgida, Kutzing, var. granulata, Cleve
+(fresh water).
+gibba, Kutzing (fresh water).
+argus, Smith, var. amphicephala,
+Grunow (= E. alpestris, W.
+Smith), (fresh water).
+Podocystis alriatica, Bailey.
+Surface Organisms—The following species are recorded from the surface in the ORGANISMS FROM
+neighbourhood of this Station :-
+SURFACE-NETS.
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Cromyechinus polyacanthus, Haeckel.
+Panartus fusiformis, Haeckel.
+Desmocampe catenula, Haeckel.
+Myelastrum anomalum, Haeckel.
+Pylodiscus sexangularis, Haeckel.
+Rhopalodictyum bifidum, Haeckel.
+Sethophormis umbrella, Haeckel.
+Sethoconus trochus, Haeckel.
+Pterocorys columba, Haeckel.
+Theocampe cryptoprora, Haeckel.
+Auloceros furcosus, Haeckel.
+Sagoplegma pyramidophora, llaeckel.
+Auloplegma perplexum, Haeckel.

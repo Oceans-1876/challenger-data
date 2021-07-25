@@ -1,121 +1,122 @@
 SUMMARY OF RESULTS.
-1385
+1389
+T
+* Petrolisthes violaceus (Guérin). S
+sp. (?). T
 S
 T
-N
 T
-S
-T
-S
-T
-N
-S
-S
-T
-S
-N
-S
 *
 T
-s
+T
+Hypoconcha panamensis, Smith.
+sabulosa (Herbst). T
+Latreillia australiensis, n.sp.
+valida, De Haan.
+Latreillopsis bispinosa, n.g., n.sp.
+Lyreidus tridentatus, De Haan. ST
+* Mastigochirus quadrilobatus, Miers.
+* Munida sancti-pauli, n.sp.
+spinifrons, n.sp.
+spinulifera, Miers.
+subrugosa (White). S.
+var. australiensis,
+T
+T
+T
+T
+*
+Polyonyx obesulus (White), Miers.
+* Porcellana sayana (Leach).
+T
+serratifrons, Stimpson.
+streptocheles, Stimpson. S
+* Porcellanella triloba, White. ST
+* Pseudodromia latens, Stimpson. S
+* Raninoides personatus, White, MS.
+T
+Raphidopus ciliatus, Stimpson.
+Remipes scutellatus (Fabricius). TN
+testudinarius, Latreille. T
+Spiropagurus elegans, Miers.
+spiriger (De Haan). T
+Uroptychus tridentatus, n.sp. (deep-water
+form ?).
+* Zanclifer caribensis (Freminville).
+T
+T
+nov.
 N
+T
+Pachycheles barbatus, M.-Edwards.
+pulchellus (Haswell).
+* Paguristes hians, n.sp.
+pilosus (M.-Edwards).
+T
+*
+T
+T
+S
+sp. (?). T
+T
+*
 >
-* Balanus rostratus, n.sp.
-N
-* Autonoe philacantha, n.sp.
-socialis, n.sp.
-* Caprella danilevskii, Czerniavski.
-tintinnabulum (Linné), var.
-scaura, Templeton. N
-communis, Darwin.
-Cardenio paurodactylus, n.g., n.sp.
-tintinnabulum (Linné), var.
-* Cerapus flindersi, n.sp.
-spinosus, Gmelin
-* Chosroës incisus, n.g., n.sp.
-trigonus, Darwin. SN
-* Dexamine flindersi, n.sp.
 T
-sp. (?) T
-* Dryopoides westwoodi, n.g., n.sp.
-S
-* Chthamalus dentatus, Krauss.
-Elasmopus subcarinata (Haswell). S
-* Conchoderma virgatum (Spengler). T * Epimera loricata, Sars.
-* Coronula diadema (Linné). N
-* Eusiroides cæsaris, n.g., n.sp.
-* Lepas anatifera, Linné. N
-pompeii, n.g., n.sp.
-hillii (Leach).
-Eusirus longipes, Boeck.
-* Scalpellum stroemii, Sars.
-* Euthemisto thomsoni, n.n.
-trispinosum, n.sp.
-Gammaropsis exsertipes, n.sp.
-Sylon challengeri, n.sp.
-* Halimedon schneideri, n.sp.
-S
-* Tetraclita cærulescens (Spengler). T * Halirages fulvocinctus (Sars). N
-rosea (Krauss). S
-husleyanus (Spence Bate). S
-* Haplocheira plumosa, n.sp. S
-AMPHIPODA :
-Harpinia obtusifrons, n.sp. S
-* Acontiostoma kergueleni, n.g., n.sp.
-Harpinioides drepanocheir, n.g., n.sp. S
-magellanicum, n.g., n.sp. S * Hippomedon geelongi, n.sp.
-marionis, n.g., n.sp.
-kergueleni (Miers).
-S
-pepinii, n.g., n.sp. S
-miersi, n.sp.
-S
-* Amaryllis bathycephalus, n.sp. s
-trigonicus, n.sp.
-S
-macrophthalmus, Haswell. s * Hyperia gaudichaudi, M.-Edwards.
-* Ambasia integricauda, n.sp. S
-* Icilius dana, n.sp.
-S
-Ampelisca acinaces, n.sp.
-Iphimedia pulchridentata, n.sp.
-S
-Amphithoë flindersi, n.sp.
-* Leucothoë flindersi, n.sp.
-japonica, n.sp.
-* Liljeborgia æquabilis, n.sp.
-kergueleni, n.sp.
-consanguinea, p.sp.
-Anonyx cicadoides, n.sp. S
-haswelli, Stebbing. S
-* Aora kergueleni, n.sp.
-* Lysianax variegatus (Stimpson). S
-trichobostrichus, n.sp.
-Mæra rubromaculata (Stimpson). S
-Atyloides australis (Miers). S * Metopa compacta, n.sp.
-serraticauda, n.g., n.sp. S
-crenatipalmata, n.sp.
-* Atylopsis dentatus, n.g., n.sp. S
-magellanica, n.sp. S
-magellanicus, n.g., n.sp. S
-ovata, n.sp.
-* Atylus homochir, Haswell. s
-parallelocheir, n.sp. S
-S
+T
+Pagurodes piliferus, n.g., n.sp.
+* Pagurus calidus, Risso. Τ Ν
+dearmatus, n.sp.
+deformis, M.-Edwards.
+cuopsis, Dana. T
+granulatus, Olivier. S
+imbricatus, M.-Edwards.
+similimanus, n.sp.
+T
+striatus, Latreille.
 *
-S
-S
-2
-S
-S
 T
+9
+>>
 T
-N
+sp. (?). S
+BRACHYURA :
+Acanthocyclus gayi, M.-Edwards and
+Lucas. S
+Acanthonyx lunulatus (Risso). T
+Achæopsis spinulosus, Stimpson. S
+Achæus japonicus, De Haan. N
+tenuicollis, n.sp. S
+* Actæa granulata (Audouin). T
+hirsutissima (Rüppell). T
+hystrix, n.sp.
+T
+nodulosa, White.
+peronië (M.-Edwards). S
+rufopunctata (M.-Edwards), var.
+nodosa, Stimpson. T
+Actæodes tomentosus (M.-Edwards). T
+Apocremnus septemspinosus, M.-
+Edwards. T
+* Arcania septemspinosa (Fabricius). TN
+Atergatis floridus (Linné). T
+Atergatopsis granulatus, (M.-Edwards).
+>
+Paralomis verrucosus (Dana). S
+Parapagurus abyssorum, M.-Edwards,
+MS. (deep-water form).
+S TN
+latimanus, n.sp.
 S
-S
-S
-S
-S
-S
-S
-S
+* Petrolisthes annulipes (White), Miers.
+T
+armatus (Gibbes). N
+serratus, n.sp.
+T
+unilobatus, n.sp.
+T
+validus (Dana). S
+(SUMMARY OF RESULTS CHALL. EXP.-1894.)
+T
+*
+T
+175

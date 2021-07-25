@@ -1,49 +1,99 @@
-1068
+1070
 THE VOYAGE OF H.M.S. CHALLENGER.
-Pai
-STATION 276.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms. —The following species are recorded from the surface at
-this Station :
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Drymosphæra cladophora, Haeckel.
-Hystrichaspis furcata, Haeckel.
-Sethoconus trochus, Haeckel.
-CEPHALOPODA (Hoyle, Zool. pt. 44).
-Tremoctopus quotgames (d'Orbigny),
-Steenstrup
-1777197
-CIRRIPEDIA (Hoek, Zool. pt. 25).
-Lepas anserifera, Linné.
-TA
-HETEROPODA (Smith, Zool. pt. 72).
-Carinaria cristata (Linné).
-FISHES (Günther, Zool. pt. 78).
-Coryphæna hippurus, (young).
-Nomeus gronovii, Gm.
-Auchenoceros sp. (?), (young).
+STATION 278.
+120 fathoms,
+130
+140
+150
+160
+170
+180
+190
+200
+70.0
+69.5
+68.5
+67.7
+66.7
+65.3
+63.8
+61.6
+59.2
+300 fathoms,
+400
+500
+600
+700
+800
+900
+1000
+Bottom,
+46.2
+42:6
+40.0
+38.7
+37:7
+37•1
+36.8
+36.5
+36.5
+Density at 60° F. :-
+Surface,
+25 fathoms,
+50
+100
+. 1.02696
+1.02694
+. 1.02697
+. 1.02678
+200 fathoms,
+400
+1025
+Bottom,
+. 1.02593
+. 1.02548
+. 1.02556
+. 1.02565
+Depth, 1525 fathoms ; deposit, Volcanic Mud, containing 20:47 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 5 A.m. observed Tahiti and Eimeo Islands ahead, and at 5.50 A.m. Tetuaroa Islands
+on the port bow. At 10 A.M. stopped and sounded in 1525 fathoms. Obtained serial
+temperatures down to 1000 fathoms. At 12.40 P.M. completed observations and proceeded
+towards Papieté Harbour, anchoring there in 11 fathoms at 4.20 P. M.
+Stations 279 to 279c (Soundings 421 to 424), off Tahiti (see Chart 39).
+STATIONS 279
+TO 279c
 .
-In addition, the following are recorded in the note-books :-Peridinium tripos
-and three other species, Pyrocystis, Ethmodiscus and other Diatoms, Globigerina,
-Orbulina, Hastigerina, Pulvinulina, Amaba and Infusorians, Medusa, Porpita,
-Physalia, Ctenophoræ, Sagitta, Alciopa, Tomopteris, Aphroditacean larvæ, Evadne,
-Calanids, Setella, Saphirina, and other Copepods, Hyperids, Stomatopod larvæ,
-Euphausia, Lucifer, Halobates, Ianthina (adult and young), young of other Gasteropods,
-Atlanta, Tiedemannia
-Tiedemannia [= Gleba], Diacria [ = Cavolinia], Styliola, Spirialis,
-[ = Limacina], Salpa, Appendicularia, Doliolum. Several sharks were seen about
-the ship.
-Mr. Murray went away in a boat and picked up a good many Ianthinæ, on which
-Lepas was growing, and on the Lepas were Acineta and small Aphroditaceans. He also
-took specimens of Porpita and Physalia ; under the latter he observed two species of
-small blue fishes, one with stripes of blue and white, and they were generally taken in
-the net along with Physalia. Some smaller fishes were seen, and many specimens of
-Collosphæra were floating on the surface. Halobates was abundant. Some pieces of
-wood were noticed on the surface, and the presence of Evadne, Annelid larvæ, the
-numerous Peridinia and Infusoria, appeared to indicate some drift from land.
-STATION 277.
-Station 277 (Sounding 419), Sandwich Islands to Tahiti (see Chart 38 and
-Diagram 16).
-September 17, 1875 ; lat. 15° 51' S., long. 149° 41' W.
-Teniperature of air at noon, 78°:8; mean for the day, 76°:7.
+October 2, 1875.
+Temperature of air at noon, 80°:3 ; mean for the day, 77°•0.
+Temperature of water :-
+Surface,
+790 175 fathoms,
+25 fathoms,
+76.2
+200
+50
+76.2
+225
+75
+74.4
+250
+100
+72.4
+275
+125
+69.8
+300
+150
+66.3
+610
+55.3
+51.6
+48.8
+46.0
+44:3
+At 11 A.M. got up steam, and at 12.15 A.M. weighed anchor and proceeded out of
+Papieté Harbour with a numerous party of visitors on board. Sounded successively
+outside Papieté Harbour in 420 fathoms, deposit Volcanic Mud, containing 22-30 per
+cent. of carbonate of lime (Station 279); in 590 fathoms, deposit Volcanic Mud,
+containing 25-28 per cent. of carbonate of lime (Station 279A); in 620 fathoms, deposit

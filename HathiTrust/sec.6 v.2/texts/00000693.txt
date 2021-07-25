@@ -1,128 +1,137 @@
 SUMMARY OF RESULTS.
-1413
-S
-*
-s
-09
+1117
 T
-s
-s
-2
-S
-S
-S
-S
-tenuis, 1.sp.
-S
->>
-* Mucronella pyriformis, n.sp. S
-quadrata, n.sp. T
-simplicissima, n.sp. S
-tricuspis, Hincks.
-(Phylactella?) canalifera,
-n.si N
-* Myriozoum honolulense, n.sp.
-marionense, 1.sp.
-Nellia oculata, Busk. S T
-Onchopora sinclairii, Busk.
-Onchoporella bombycina (Linné).
-* Palmicellaria skenei (Ellis and Solander),
-var. tridens, Kirchenpauer. N
-Pustulopora proboscidea, M.-Edwards. S
-proboscidioides (Smitt). S
-regularis, MacGillivray. S
-* Retepora apiculata, n.sp. T
-atlantica, n.sp.
+T
+T
+*
 N
-columnifera, p.sp. T
-contortuplicata, n.sp.
 T
-crassa, n.sp.
+N
+*
 S
-delicatula, n.sp.
+*
 T
-denticulata, n.sp.
-hirsuta, n.sp.
 T
-jacksoniensis, n.sp. S
-lata, n.sp.
+T
 S
-mucronata, n.sp.
 T
-philippinensis, n.sp. T
-phoenicia, Busk. S
-producta, n.sp.
-simplex, n.sp.
-tessellata, Hincks.
-var. cæspitosa, nov.
-var. pubens, nov.
-tubulata, n.sp.
-victoriensis, n.sp.
-SN
-japonica,
-* Salicornaria clavata, n.sp.
-gracilis, Busk. T
-malvinensis, Busk. ST
-simplex, n.sp.
-S
-tenuirostris, Busk. S
-variabilis, n.sp.
+T
+T
+*
+T
+*
+T
+T
+T
+*
+* Conger marginatus, Val. TN
+* Congrogadus subducens, Rich.
+Congromurana anago, Schleg. N
+megastoma, n.sp.
+Coryphaenoides denticulatus, Rich.
+Cymbium niphonium, C.V. N
+Cynoglossus interruptus, n.sp. N
+kopsi, Bleeker.
+melampetalus, Rich.
+puncticeps, Rich.
+Cyprinus auratus, Linné.
+Dactylopterus orientalis, C.V.
+volitans, Linné.
+Dascyllus allisella, Gill.
+Diagramma pardale, C.V.
+pictum, Thunb.
+* Diodon hystrix, Linné.
+Doryichthys brachyurus, Bleeker.
+pleurotania, n.sp.
+Drepane punctata, Linné.
+* Dules marginatus, C.V. T
+rupestris, Lac.
+Duymæria flagellifera, C.V.
+* Echeneis naucrates, Linné. T
+* Eleginus maclovinus, C.V.
+* Eleotris fusca, Bl. Schn.
+longipinnis, Benn.
+macrolepidota, Bl.
+sinensis, Lac.
+Engraulis japonica, Houttuyn. N
+olida, Günther. S
+* Equula dussumieri, C.V.
+fasciata, Lac.
+nuchalis, Schleg
+Euctenogobius ophthalmonema (Bleeker).
+T
+T
+* Caranx armatus, Forsk.
+ascensionis, Forst.
+caballus, Günther.
+crumenophthalmus, Bl.
+georgianus, C.V. S
+hippos, Linné. T
+muroadsi, Schleg. N
+speciosus, Forsk. T
+* Carcharias obscurus, Les. T
+* Centronotus nebulosus, Schleg. N
+Centropogon australis, White.
+* Chætodon modestus, Schleg. N
+rajjlesi, Benn.
+T
+vagabundus, Linné. T
+Champsodon vorax, Günther. T
+* Chanos salmoneus, Forst. T
+* Chilinus chlorurus, Bl. T
+trilobatus, Lac. T
+* Chilodactylus macropterus, Forst. S
+monodactylus, Carmich. S
+zonatus, C.V. T
+* Chilomycterus orbicularis, Bl. T
+* Chiloscyllium indicum, Gm. T
+* Chirocentrus dorab, Forsk. T
+* Chirus hexagrammus, Pall. N
+* Chanichthys rhinoceratus, Rich.
+* Chcrops cyanodon, Rich. T
+ommopterus, Rich. T
+* Chorinemus toloo, C.V. T
+* Chorisochismus dentex, Pall.
+Chrysophrys swinhonis, Günther.
+* Cirrhites arcatus, C.V. T
+Cirrhitichthys maculatus, Lac.
+* Clinus microcirrhis, C.V.
+*
 s
-Schizoporella cecilii (Audouin).
-circinata (MacGillivray). S
-furcata, n.sp.
-T
-jacksoniensis, n.sp. S
-longispinata, n.sp.
-marsupifera, n.sp.
-ST
-triangula, Ilincks.
-vitrea (MacGillivray). S
-woosteri, MacGillivray. S
-Scrupocellaria ciliata (Audouin). T
-macandrei, Busk. T
-ornithorhynchus (Wyville
-Thomson). T
-pilosa (Audouin).
-securifera, n.sp.
-T
-* Selenaria maculata, Busk. S
-Smittia jacobensis, n.sp.
-S T
-marionensis, Busk.
-marsupialis, n.sp. S T
-stigmatophora, n.sp.
-tenuis, n.sp.
-T
-Steganoporella magnilabris (Busk).
-Supercytis tubigera, n.sp. s
-* Tubucellaria opuntioides, Pallas.
-* Tubulipora fimbria, Lamarck. S
-flabellaris (Fabricius). S
-* Vesicularia papuensis, n.sp.
-Vincularia gothica, d'Orbigny, var.
-granulata, nov.
+Clupea moluccensis, Bleeker. T
 S
+tembang, Bleeker. T
+Cnidoglanis megastoma, Rich.
+nudiceps, n.sp.
+*
+T
+T
+*
 T
 S
 2
-S
+T
+T
+*
 *
 T
 *
 T
-T
-T
 S
->
+*
+*
+N
+*
 T
 T
+T
+*
+N
+T
+sagax, Jen.
 S
-var.
-nov.
-PHORONIS:
-* Phoronis buskii, n.sp.
+* Exocoetus simus, C.V. T
+* Fistularia serrata, Cuv.
+* Fundulus bermuda, Günther.
 T
-* Reteporella flabellata, n.g., n.sp. S
-(SUMMARY OF RESULTS CHALL. EXP.—1894.)
-178
+N

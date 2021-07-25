@@ -1,40 +1,99 @@
 SUMMARY OF RESULTS.
-1243
-STATION 344.
-SCAPHOPODA and GASTEROPODA (Watson, Zool. pt. 42).
-Dentalium entalis, Linné, var. agile, Sars. For distribution of the species see
-Station II.
-Basilissa oxytropis, n.g., n.sp. Two specimens ; obtained at no other locality.
-Sigaretus sp. (?).
-Capulus sp. (?).
-Odostomia sp. (?).
-Eulima chyta, n.sp. Obtained at no other locality.
-Bittium sp. (?).
-Rissoa (Setia) tenuisculpta, Watson. Obtained also at Station 24.
-( , ) triangularis, n.sp.
-Obtained at no other locality.
-Utriculus oryctus, n.sp. Obtained at no other locality.
-Cylichna cylindracea (Pennant). Two specimens ; obtained also at Station 135.
->>
-BRACHIOPODA (Davidson, Zool. pt. 1).
-Terebratula cubensis, Pourtalès. Two specimens ; obtained at no other locality by
-the Challenger. Recorded from Florida Reefs and Havana.
-Terebratulina caput-serpentis, Linné, or cailleti, Crosse.
-In addition to the foregoing, the following are recorded in the Station-book :- Many
-specimens, mostly dead, of Aphrocallistes bocagei, several Actinians on the Corals,
-Primnoa, Mopsea, and several other forms of Gorgonoids (only two species given above),
-Sertularian, Stylaster erubescens, Echinus flemingi, Myzostoma on Antedon, many
-Serpulæ, two specimens of Scalpellum, Arcturus (?), Gnathophausia zoëa, and several
-specimens of Galathea.
-Excluding Protozoa, about 200 specimens of invertebrates were obtained at this
-Station, belonging to about 45 species, of which 15 are new to science, including
-representatives of 3 new genera; 11 of the new species and 2 new genera were not
-obtained elsewhere.
-Surface Organisms.—The following species is recorded from the surface at this ORGANISMS FROM
-SURFACE-NETS.
-Station :
-COPEPODA (Brady, Zool. pt. 23).
-Pontella inermis, n.sp.
-The tow-nets at the surface yielded, among other organisms, many Globigerinæ,
-Aphroditacean larvæ, larval Planarians, Copepods, Zoëæ, while the tow-net at the weights
-brought up a few Challengeride and other Radiolaria.
+1247
+Excluding Protozoa, over a dozen specimens of invertebrates were obtained at this Station 346.
+Station, belonging to 6 species, of which 5 (all those reported) are new to science,
+including representative of 1 new genus ; 2 of the new species were not obtained
+elsewhere.
+>
+FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera were ORGANISMS FROM
+observed in the deposit from this Station ; the pelagic species, which make up about the DEPOSIT.
+88 per cent. of the carbonate of lime present in the deposit, are marked thus x:-
+Biloculina depressa, d'Orbigny.
+Lagena multicosta (Karrer).
+sphæra, d’Orbigny.
+orbignyana (Seguenza).
+Miliolina insignis, Brady.
+semimarginata, Reuss.
+seminulum (Linné).
+seminiformis, Schwager.
+venusta (Karrer).
+seminuda, Brady.
+Reophax nodulosa, Brady.
+siliqua, Rymer Jones.
+pilulifera, Brady.
+staphyllearia (Schwager).
+Haplophragmium globigeriniforme (Parker and
+stelligera, Brady.
+Jones).
+striata (d'Orbigny).
+glomeratum, Brady.
+sulcata (Walker and Jacob).
+nanum, Brady.
+Nodosaria communis, d’Orbigny.
+turliinatum, Brady.
+mucronata, Neugeboren.
+Thurammina papillata, Brady.
+radicula (Linné).
+Hormosina globulifera, Brady.
+Marginulina costata (Batsch).
+Ammodiscus charoides (Jones and Parker).
+glabra, d'Orbigny.
+incertus (d'Orbigny).
+Vaginulina legumen (Linné).
+Trochammina galeata, Brady.
+Cristellaria convergens, Bornemann.
+ringens, Brady.
+crepidula (Fichtel and Moll).
+trullissata, Brady.
+tenuis, Bornemann.
+Textularia agglutinans, d'Orbigny, var. porrecta, Polymorphina angusta, Egger.
+Brady.
+lanceolata, Reuss.
+Verneuilina pygmæa (Egger).
+Uvigerina asperula, Czjzek.
+Gaudryina pupoides, d'Orbigny.
+x Globigerina bulloides, d'Orbigny.
+siphonella, Reuss.
+conglobata, Brady.
+Bulimina pyrula, d'Orbigny.
+cretacea, d'Orbigny ().
+Virgulina schreibersiana, Czjzek.
+inflata, d'Orbigny
+subdepressa, Brady.
+rubra, d'Orbigny.
+texturata, Brady.
+sacculifera, Brady.
+Pleurostomella subnodosa, Reuss.
+x Orbulina universa, d'Orbigny.
+Cassidulina crassa, d’Orbigny.
+~ Pullenia obliquiloculata, Parker and Jones.
+Ehrenbergina serrata, Reuss.
+quinqueloba, Reuss.
+Chilostomella ovoidea, Reuss.
+sphäroides (d'Orbigny).
+Lagena acuta (Reuss).
+Sphæroidina bulloides, d’Orbigny.
+auriculata, Brady.
+dehiscens, Parker and Jones.
+desmophora, Rymer Jones.
+Truncatulina wuellerstorfi (Schwager).
+globosa (Montagu).
+x Pulvinulina canariensis (d'Orbigny).
+gracilis, Williamson.
+crassa (L'Orbigny).
+lævigata (Reuss).
+menardii (d'Orbigny).
+lavis (Montagu).
+var. fimbriata, Brady.
+marginata (Walker and Boys).
+micheliniana (d'Orbigny).
+Х
+x
+Х
+X
+х
+Х
+Х
+Х
+Х
+Х

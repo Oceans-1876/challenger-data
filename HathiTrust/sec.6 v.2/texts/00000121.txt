@@ -1,54 +1,46 @@
 SUMMARY OF RESULTS.
-885
-Density at 60° F. :-
-Station 227.
-.
-Surface,
-25 fathoms,
-50
-100
-1.02572
-1.02574
-1.02575
-1.02605
-200 fathoms,
-300
-400
-1.02591
-1.02536
-. 1.02550
-Depth, 2475 fathoms; deposit, Red Clay, containing only a trace of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4 A.M. got up steam. At 5.30 A.M. shortened and furled sails, and proceeded under
-steam to sound. At 6.30 A.M. sounded in 2475 fathoms. Took serial temperatures down
-to 1500 fathoms. At 10 A.M. completed observations and made sail. Albatrosses,
-boatswain birds, and what seemed to be a noddy tern were seen about the ship.
-No Sima lighthouse distant at noon, 1040 miles; Lindsay Islands, 105 miles.
-Made good 77 miles. Amount of current 23 miles, direction N. 48° W.
-Surface Organisms.— The following species are recorded from the surface in the ORGANISMS FROM
-vicinity of this Station :-
-SURFACE-NETS.
+887
+STATION 228.
+golden band round it (like Semper’s Cælenterate larva), Beroë, Echinoderm larvæ,
+Sagitta, Alciopa, Sipunculid and Echiurid larvæ, Cypridina (three or four species),
+Pontella, Copilia, Calanus, Setella, Saphirina, Hyperids, Oxycephalus, Erichthus,
+Euphausia, Regulus lucidus, Dana, Lucifer, Sergestes and larvæ, Phyllosoma,
+Zoëæ, Halobates, small Lamellibranchs and Gasteropods, Atlanta, Cardiopoda,
+Firoloida, Pteropods and larvæ in great variety, small Cephalopods, Appendicularia,
+Duliolum, Salpa, small fishes. A female shark (Carcharias) was caught; it
+had the remains of a noddy tern in its stomach. What appeared to be a true
+Amaba was observed, but it may have escaped from some of the animals on the
+slide. Hastigerina became abundant, while the other Foraminifera became less
+numerous ; it was always of a red colour and always had spines, along which it threw
+out its pseudopodia, attaching itself to the glass globe by other pseudopodia ; it had no
+yellow cells (zooxanthellæ) like Orbulina and Globigerina. The red sarcode mass of
+Aulosphæra was often separated from the skeleton, and was found in the globe among
+the other things without reticulated sphere. Some of the specimens of Ilalobates lived
+for a long time in a glass globe, diving frequently and carrying with them a bubble
+of air.
+The following species are recorded from the surface in this part of the Pacific, in
+February and March 1875, the exact date not being noted :-
 AMPHIPODA (Stebbing, Zool. pt. 67).
-MACRURA (Spence Bate, Zool. pt. 52).
-Phronima megalodous, n.sp.
-Eretmocaris longicaulis, n.g., n.sp.
+Phronimella elongata, Claus.
+PELAGIC HEMIPTERA (White, Zool. pt. 19).
+Halobates wüllerstorffi, Frauenfeld.
+germanus, n.sp.
 NUDIBRANCHIATA (Bergh, Zool. pt. 26).
-Acura lanceolata, Bergh.
-In addition, the following are recorded in the note-books :-Oscillatoriaceæ,
-Pyrocystis (two species), Ethmodiscus and other Diatoms, Peridinium tripos and two
-other species, Gregarinids (Gregarina clavata ?), Globigerina, Orbulina, Pulvinulina,
-Radiolaria in great numbers, Medusæ, Siphonophoræ, Beroë, Echinoderm larvæ, Sagitta,
-Alciopa, Sipunculid and Echiurid larvæ, Cypridina (several species), Setella, Copilia,
-Calanids, Hyperids, Oxycephalus, Squilla larvæ, Euphausia, Siriella, Sergestes and
-larvæ, Lucifer, Amphion, Phyllosoma, small Anomurous crab, Zoëæ of crab, Halobates,
-small Lamellibranchs and Gasteropods, Atlanta, Pterotrachea, Hyalæa [ = Cavolinia),
-Styliola, small Octopus, Fritillaria, Doliolum, Salpa, small Percoid fishes. Coccoliths
-and Rhabdoliths were found in the stomachs of the Salpæ. About a dozen of the large
-cylindrical Diatoms (Ethmodiscus) were separated into a globe of water, and after dark
-disturbed for phosphorescence, but they showed no light. Coryphæna and another large
-fish of a dark colour, with the dorsal and anal fins opposite each other on the hinder part
-of the body, as well as a shoal of small fishes, were seen about the ship. In this
-connection it may be noted that no sharks were seen, and it was observed that other
-fishes were seldom seen when sharks were about.
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
-112
+Glaucilla briarcus (Reinhardt).
+Schizopoda (Sars, Zool. pt. 37).
+Nematoscelis rostrata, n.g., n.sp.
+Siriella gracilis, Dana.
+MACRCRA (Spence Bate, Zool. pt. 52).
+Sergestes corniculum, Krøyer.
+læviventralis, n.sp.
+Sciacaris telsonis, n.g., n.sp.
+Amphion sp. (?), (Zoëæ).
+TUNICATA (Herdman, Zool. pt. 76).
+Pyrosoma sp. (?).
+Salpa runcinata - fusiformis,
+Chamisso-Cuvier.
+Station 229 (Sounding 367), Admiralty Islands to Yokohama (see Chart 31, and
+Diagrams 14 and 16).
+STATION 229.
+April 1, 1875; lat. 22° 1' N., long. 140° 27' E.
+Temperature of air at noon, 79°:8; mean for the day, 77°-3.

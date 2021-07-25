@@ -1,122 +1,130 @@
 SUMMARY OF RESULTS.
-1317
-T
-*
-T
-T
-T
-T
-s
-T
-T
-T
-T
-T
-"
-T
-T
-T
-T
-T
-* Eulima piriformis, Brugnone.
-Marginella (Gibberula) miliaria (Linne).
-psila, n.sp.
-N
-sarissa, n.sp.
-(Glabella) alta, n.sp.
-six species undetermined.
-) brachia, n.sp.
-T
-two
-(
-) elata, n.sp.
-* Eulimella acerrima, n.sp.
-( ) musica, Hinds. SN
-laxa, n.sp.
-(
-) pachia, n.sp.
-T
-rudis, n.sp.
-(
-) valida, n.sp.
-* Fasciolaria rutila, n.sp.
-s
-(Granula) agger, n.sp.
-Fenella elongata, n.sp.
-Τ Ν
-three species undetermined.
-* Fissurella (Lucapina) cayenensis,
-T
-Lamarck. Τ Ν
-* Mathilda sp. (?).
-Fossarus ambiguus (Linné).
-* Mitra miranda, n.sp. S
-* Fusus niphonicus, Smith. T
-(Cancilla) interlirata, Reeve.
-pagodoïdes, n.sp.
+1351
 S
-Mitrularia uncinata (Reeve). TN
-radialis, n.sp.
 S
-* Murex (Chicoreus) calcar, Kiener. T
-sarissophorus, n.sp.
-(Haustellum) sp. (?). T
-(Metula) philippinarum, n.sp. T (Ocinebra)aciculatus, Lamarck. N
-(Neptunea) despectus (Linné). N (Pseudomurex) aëdonius, n.sp. S
-( ) edwardiensis, n.sp.
+var.
+Ep. T
+ovalis, n.sp.
 S
-) fusulus, Brocchi. N
-) mandarinus, Duclos. * Nassa (Aciculina) babylonica, 11.sp.
-(Alectryon) psilu, n.sp.
-) scalaris, n.sp. S
-* Nassaria campyla, n.sp. S
-( ) valedictus, n.sp. S
-Natica fartilis, n.sp.
-(Sipho) futile, n.sp. S
-insularum, n.sp.
-( ) libratus, n.sp.
-leptulea, n.sp.
-(Siphonorbis) amblyterus, n.sp. N * philippinensis, n.sp.
-psila, n.sp.
-S
-radiata, n.sp.
-N
-* Homalogyra atomus (Philippi). S
-densicostata, Jeffreys.
-variabilis, Recluz. N
-xantha, n.sp.
-Ianthina exigua, Lamarck (surface). TN
-Iphitus tuberculatus, n.sp.
-three species undetermined. T
-Jeffreysia edwardiensis, n.sp. S
-* Nerita tessellata, Gmelin.
-* Lachesis sp. (?). S
-Odostomia nitens, Jeffreys. N
-Lampusia (Priene) murrayi, n.sp. S
-rissoïdes, Hanley. S
-Lepeta cæca (Müller). T
-turrita, Hanley. TN
-Litiopa melanostoma, Rang. TN
-unidentata (Montague). T
-Marginella brazieri, n.sp.
-(Obeliscus) nitidula (Adams).
-TN
-carinata, n.sp. S
-T
-s
-T
+ms
 >
 S
-*
+S
 T
 T
 T
+POLYZOA :
+Cellepora cylindriformis, n.sp.
+* Adeona appendiculata, n.sp.
+S
+eatonensis, n.sp.
+Adeonella atlantica, n.g., n.sp.
+S
+mamillata,
+atlantica,
+distoma, Busk.
+Τ Ν
+Busk.
+ST
+var. imperforata, nov.
+N
+regularis, n.g., n.sp.
+S
+pustulata, n.sp.
+S
+Ætea anguina (Linné). S N
+tubulosa (Hincks). S
+Alcyonidium flustroides, n.sp.
+vagans, n.sp.
+ST
+Amathia spiralis, Lamouroux. s
+Cribrilina monoceros (Busk). S N
+tortuosa, Wood.
+S
+radiata (Moll). S
+Amphiblestrum umbonatum, Busk. s
+Crisia biciliata, MacGillivray. S
+Ascopodaria discreta, n.g., n.sp.
+s
+conferta, Busk. ST
+fruticosa (Hincks). S
+cylindrica, n.sp.
+Aspidostoma giganteum (Busk). s
+elongata, M.-Edwards. T
+Bicellaria navicularis, n.sp.
+ST
+holdsworthii, Busk. s
+pectogemma, Goldstein. * Diastopora patina (Lamarck). S
+Bifazaria corrugata, n.g., n.sp. * Didymia simplex, Busk. S
+submucronata, n.g., n.sp.
+Dimetopia cornuta, Busk. s
+* Brettia cornigera, n.sp.
+* Electra cylindracea, n.sp.
+Bugula reticulata, n.sp. S TN
+Escharoides occlusa, n.sp.
+S T
+sinuosa, n.sp.
+s
+Eucratea chelata (Linné). S
+versicolor, p.sp.
 T
-sp. (?). T
+Farciminaria atlantica, n.sp.
+T
+Caberea darwini, Busk.
+biseriata, n.sp.
+rostrata, n.sp.
+brasiliensis, n.sp.
+Calymmophora lucida, n.g., n.sp.
+s
+gracilis, n.sp.
+Τ Ν
+Carbasea dissimilis, Busk. S T
+hexagona, n.sp.
+ST
+ovoidea, Busk. S
+Fasciculi pora ramosa, d'Orbigny. S
+pedunculata, n.sp.
+N
+* Flustra denticulata, Busk. S
+Catenicella elegans, Busk.
+ST
+Flustramorpha hastigera, n.sp. N
+hastata, Busk. s
+marginata (Krauss). S
+plagiostoma, Busk.
+* Frondipora verrucosa (Lamouroux).
+sacculata, n.sp.
+T
+Gephyrophora polymorpha, n.g., n.sp. S
+ventricosa,
+maculata,
+Haswellia auriculata, n.g., n.sp.
+Busk.
+Hippothoa divaricata, Lamouroux. SN
+Cellepora ansata, n.sp.
+N
+Hornera frondiculata, Lamouroux. T
+armata, Hincks, var. erecta, Idmonea atlantica, Forbes. SN
+S
+irregularis, Meneghini. N
+aspera, n.sp.
+T
+marionensis, Busk. S
+s
+milneana, d'Orbigny.
+SN
+S
+s
 T
 S
-*
 T
-T
-9
 S
+S
+*
+var.
+S
+S
+*
+nov.
+2.
+bicornis, n.sp.

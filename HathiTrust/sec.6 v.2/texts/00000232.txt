@@ -1,81 +1,47 @@
-986
-THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 256.
-ORGANISMS FROM
-THE DEPOSIT.
-FORAMINIFERA (Brady, Zool. pt. 22).-The three pelagic species are marked thus .
-Hyperammina ramosa, Brady.
-Cassidulina subglobosa, Brady.
-Reophax adunca, Brady.
-x Globigerina bulloides, d'Orbigny.
-difflugiformis, Brady.
-inflata, d'Or bigny.
-nodulosa, Brady.
-Pullenia sphæroides, (d'Orbigny).
-scorpiurus, Montfort.
-Truncatulina pygmæa, Hantken.
-Haplophragmium latidorsatum (Bornemann). x Pulvinulina micheliniana (d'Orbigny).
-Ammodiscus gordialis (Jones and Parker).
-Rotalia beccarii (Linné).
-Trochammina trullissata, Brady.
-1
-9
-1
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Siphonosphæra serpula, Haeckel.
-Solenosphæra megalactis, Haeckel.
-Hexastylus dimensivus, Haeckel.
-Desmartus tubulatus, Haeckel.
-Larnacantha dissacantha, Haeckel.
-Dendrocircus quadrangulus, Haeckel.
-Clathrocircus decaporus, Haeckel.
-Tricolocampe stenozona, Haeckel.
+988
+THE VOYAGE OF H.M.S. CHALLENGER,
+STATION 257.
+At 11 A.M. got up steam.
+At 11.30 A.M. shortened and furled sails. At noon
+proceeded under steam. At 1 P.M. sounded in 2875 fathoms. The valves of the
+sounding-tube had become jammed, and consequently did not open on reaching the
+bottom, but the tube had sunk two feet into the deposit and was streaked with clay,
+and sufficient was scraped off to indicate the nature of the deposit. Obtained serial
+temperatures down to 1500 fathoms. At 4 P.M. completed temperatures, and at
+4.15 P.M. made all plain sail. Albatrosses became less numerous; one was caught.
+Several boatswain birds were seen flying high.
+East point of Oahu Island, Sandwich Islands, distant at noon, 402 miles. Made
+good 89 miles. Amount of current 15 miles, direction S. 45° W.
+>
+.
+.
+.
 ORGANISMS FROM
 SURFACE-NETS.
-Surface Organisms.—The following species are recorded from the surface at this
-Station -
-Candace truncata, Dana.
-Centropages violaceus (Claus).
-Pontellopsis villosa, n.g., n.sp.
-Pontella detruncata (Dana).
-acutifrons (Dana).
-Setella gracilis, Dana.
-Corycæus varius, Dana.
-Oncæa obtusa (Dana).
+Surface Organisms. The following species are recorded from the surface at this
+Station :
+MACRURA (Spence Bate, Zool. pt. 52).
+Sergestes oculatus, Krøyer.
 RADIOLARIA (Haeckel, Zool. pt. 40).
-Heliosphæra hyperionis, Haeckel.
-Cladococcus abietinus, Haeckel.
-Leptosphæra polygonalis, Haeckel.
-Centrocubus cladostylus, Haeckel.
-Amphitholus dodecanthus, Haeckel.
-Xiphacantha macroptera, Haeckel.
-Icosaspis cruciata, Haeckel. .
-Phractopelta dyadopora, Haeckel.
-Triplagia triradialis, Haeckel.
-Sethopera pyrum, Haeckel.
+Coscinaspis stigmopora, Haeckel.
+Icosaspis cruciata, Haeckel.
 Sethoconus trochus, Haeckel.
 Theocampe cryptoprora, Haeckel.
-Sagosphæra verticilla, Haeckel.
-Sagoscena coronata, Haeckel.
-Sagmidium unicorne, Haeckel.
-Castanella wyvillei, Haeckel.
-Calodendrum bifurcum, Haeckel.
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Cyphocaris challengeri, n.sp.
-MACRURA (Spence Bate, Zool. pt. 52).
-Sergestes armatus, Krøyer.
->
+Fishes (Günther, Zool. pt. 78).
+Thyrsites prometheus, C.V.
 COPEPODA (Brady, Zool. pt. 23).
-Pleuromma abdominale (Lubbock).
-Undina vulgaris, Dana.
-darwinii, Lubbock.
-Euchæta prestandrea, Philippi.
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Clio (Creseis) acicula (Rang).
-(Styliola) subula (Quoy and
-Gaimard).
-pyramidata, Linné.
-Cavolinia inflexa (Lesueur).
-TUNICATA (Herdman, Zool. pt. 76).
-Salpa runcinata - fusiformis,
-Chamisso-Cuvier.
+Hemicalanus aculeatus, n.sp.
+3
+Most of the organisms noted at the previous Station were taken at the surface ;
+Hastigerina was not, however, noticed. A haul of the tow-net from 500 fathoms
+brought up Globigerina, Orbulina, Fulvinulina, Phæodaria and other Radiolaria not
+usually observed at the surface, many specimens of Cypridina, Euphausia, and Sergestes,
+as well as masses of Diatoms apparently different from those previously seen on the high
+seas, Pyrocystis, Peridinium, and small Infusoria. Many of the specimens of Pyrocystis
+were in a state of division, an outer sphere frequently containing two perfectly-separated
+individuals.
+STATION 258.
+Station 258 (Sounding 400), Yokohama to Sandwich Islands (see Chart 36 and
+Diagram 19).
+July 24, 1875 ; lat. 26° 11' N., long. 155° 12' W.
+Temperature of air at noon, 77°•5 ; mean for the day, 75°•3.

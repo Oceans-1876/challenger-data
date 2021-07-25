@@ -1,121 +1,123 @@
-1350
+1352
 THE VOYAGE OF H.M.S. CHALLENGER.
-T
-T
 S
-n.sp. (?). S
-T
+S
+S
+*
+S
+var.
+var.
+92
+N
+S
 s
-T
-T
-T
-*
-n.sp. (?).
-T
-T
-S
-*
-S
 >>
 S
-* Triforis inflata, n.sp.
-* Turritella deliciosa, n.sp.
-perversa (Linné).
-Τ Ν
-exoleta (Linné). T
-Triton (Lagena) magellanicus (Chem-
-* Utriculus oryctus, n.sp.
-T
-nitz).
-spatha, n.sp.
-T
-(Tornatina) leptekes, n.sp. T
-(Simpulum) philomelæ, n.sp. s *
-two species undetermined. T
-* Trochus (Gibbula) glyptus, n.sp.
-S. * Velutina, sp. (?). T
-(Margarita) ægleës, n.sp.
-* Voluta (Cymbiola) lutea, n.sp.
 S
-(
-) azorensis, n.sp. N (Volutilithes)abyssicola, Adams
-(
-) cancellatus, Jef-
-and Reeve.
-freys.
-Xenophora caribæa, Petit.
-(
-) charopus, n.sp. S
-pallidula (Reeve). T
-) clavatus, n.sp.
-) dnopherus, n.sp. T * Zeidora naufraga, n.sp.
-) pompholugotus,
+S
+s
+Kinetoskias pocillum, n.sp.
+ST
+* Salicornaria bicornis, Busk.
+* Lichenopora fimbriata, Busk.
+.
+divaricata, n.sp.
+ST
+hispida (Fleming). S
+magnifica, n.sp.
+holdsworthii, Busk. * Schizoporella auriculata, Hassall, var.
+S
+Membranipora albida, Hincks.
+alba, nov.
+TN
+crassimarginata (Hincks
+elegans (d'Orbigny). S
+S
+var. incrustans, nov. S
+marsupifera, n.sp.
+S
+galeata,
+nivea, n.sp.
+Busk,
+furcata, nov. SN Scrupocellaria pilosa (Audouin). S
+S
+galeata, Busk,
+* Smittia graciosa, 1.sp.
+multifida, nov.
+jacobensis, n.sp.
+S T
+S
+spinosa, d'Orbigny. S
+marionensis, Busk
+Menipea aculeata (d’Orbigny).
+orotavensis, n.sp.
+benemunita, n.sp.
+S
+transversa, n.sp.
+S
+flagellifera, n.sp.
+* Supercytis digitata, d'Orbigny.
+marionensis, n.sp.
+Tessaradoma boreale (Busk). T
+Micropora coriacea (Esper). S N
+* Tubucellaria hirsuta (Lamouroux). S
+S
+Turritigera stellata, n.g., n.sp.
+uncifera, n.sp.
+* Microporella ciliata (Pallas). s
+Vincularia gothica, d'Orbigny. S
+malusii (Andouin). S
+RHABDOPLEURA :
+Mucronella castanea, n.sp.
+rostrigera, n.sp.
+Rhabdopleura normani, Allman (on
+Lophohelia). S
+tricuspis, Hincks. S
+ventricosa, var. multispinata, CEPHALODISCUS :
+Busk. S
+Cephalodiscus dodecalophus, 11.g., n.sp. S
+(Phylactella?) canalifera,
 n.sp.
-T
-POLYPLACOPHORA :
-) rhina, n.sp.
 N
-(
-) rhysus, n.sp. TN
-* Lepidopleurus dallii, n.sp.
-(
-) scintillans, n.sp.
-dorsuosus, n.sp.
+BRACHIOPODA :
+Myriozoum marionense, n.sp. S
+* Crania sp. (?). N
+Onchoporu sinclairü, Busk. S
+Discina atlantica, King. S TN
+* Pasythea eburnea (Smitt). T
+* Kraussina pisum (Val.apud Lamarck). S
+* Porella lævis,
+subcompressa, Magasella incerta, n.sp.
+T
+Hincks.
+T
+* Megerlia willemöesi, n.sp.
+* Porina proboscidea, n.sp.
+* Platydia anomioides (Scacchi).
+s
+Pustulopora proboscidea, M.-Edwards. S
+Rhynchonella nigricans (Sowerby), var.
+Retepora atlantica, n.sp.
+pixydata, nov.
+imperati, Busk.
 Τ Ν
-* Plaxiphora carmichaelis (Gray).
-(Omphalius) hotesserianus,
-simplex (Carpenter, MS.). S
-d'Orbigny. T
-(Oxystele) euspira (Dall). T NUDIBRANCHIATA :
-(Photinula) expansus (Sowerby). * Tritonia challengeriana, n.sp.
-S
-(Ziziphinus) stirophorus, n.sp. T
-CEPHALOPODA :
-(
-) striatus, Linné. N
-(
-) tiara, n.sp.
-Τ Ν Calliteuthis reversa, Verrill.
-four species undetermined. * Nautilus pompilius, Linné.
-* Trophon acanthodes, n.sp.
-* Octopus areolatus, De Haan, MS. T
-T
-Doscü (Lesueur), var. pallida,
-carduelis, n.sp.
-declinans, n.sp.
-duplex, n.sp.
-liratus, Couthouy, MS. S
-januarii, Steenstrup, MS. Τ Ν
-scolopax, n.sp.
-punctatus, Gabb. N
-sp. (?). S
-Sepia cultrata, Steenstrup, MS. S
-* Turbo (Calcar) henicus, n.sp.
-(Collonia) indutus, n.sp. T
-sulcata, n.sp.
-Spirula peronië, Lamarck.
+Terebratella frielii, n.sp.
+Τ Ν
+margaritacea, n.sp.
+* Terebratula cubensis, Pourtalès. T
+tessellata, Hincks, var. pubens, *
+moseleyi, n.sp.
 s
+uva, Broderip.
+T
+S
+*
+var.
+s
+T
+*
 N
-T
+S
 T
 s
-*
-aculeatus, n.sp.
->>
-*
-S
-Nov.
-S
-S
-S
-*
-s
-*
-T
-kiensis, n.sp.
-T
-T
-(?) sp.
-T
-T
-1
+nov.

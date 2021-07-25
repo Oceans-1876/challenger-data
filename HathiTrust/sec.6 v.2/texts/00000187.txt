@@ -1,82 +1,36 @@
 SUMMARY OF RESULTS.
-915
-STATION 240.
-shells, Glaucus, Doliolum, Salpa, Appendicularia. The ship passed through red and
-white-coloured patches of water, and about the same time a great change was noticed
-in the temperature of the surface water, which fell from 22° to 18° C. ; the patches
-were so noticeable that the hand lead was cast to see if there were not a shoal. The
-discoloration seemed to be due to Copepods, some of which were of a bright red colour,
-similar to what was observed in the Southern Indian Ocean, while others belonging to
-a different species were quite pale, and many of them dead.
-Willemoes-Suhm writes: “The surface abounded with Hyperia, as on the passage
-from Bermuda to Halifax. I found a minute Zoëa, notable for the insertion of the
-eyes
-deeply into the carapace, which has been figured by Dohrn from the Indian Ocean ; after
-a careful search I failed to find any further specimens.”
-June 22, 1875.
-Strong southerly breeze during the night and early morning. At 3 A.M. shortened
-sail, and at 4 A. M. put over trawl with two tow-nets attached. When about 1900 fathoms
-had been veered, the trawl-rope fouled the screw and parted, the trawl and line
-being lost. In the evening it became calm and many Copepods and specimens of
-Doliolum were obtained in the surface-nets.
-Distance at noon from Honolulu, 2543 miles. Made good 140 miles. Amount of
-current 20 miles, direction N. 32° E.
+947
 STATION 241.
-Station 241 (Sounding 383), Yokohama to Sandwich Islands (see Chart 36 and
-Diagram 17).
-June 23, 1875; lat. 35° 41' N., long. 157° 42' E.
-Temperature of air at noon, 70°:3 ; mean for the day, 69°:8.
-Temperature of water :-
-99
-Surface,
-25 fathoms,
-50
-75
-100
-125
-150
-175
-200
-225
-250
-275
-300
-69.2
-64:7
-62.5
-60.8
-59.3
-57.5
-55.5
-53:1
-50.7
-48.7
-46:3
-44:0
-42:4
-400 fathoms,
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-398
-38.4
-37.7
-37.2
-36.9
-36.6
-36:3
-36.0
-35.7
-35:4
-35:1
-35:1
-35:1
+ACTINIARIA (Hertwig, Zool. pts. 15 and 73).
+Amphianthus bathybium, n.g., n.sp. One specimen ; obtained at no other locality.
+ornatum, n.g., n.sp. Three specimens; obtained also at Stations 56
+and 244. These are the only two species of the genus.
+CORALS (Moseley, Zool. pt. 7).
+Bathyactis symmetrica (Pourtalès). Many specimens; for distribution see
+Station 24.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophioglypha convexa, n.sp., (young). Obtained also at Stations 246 and 346,
+2050 and 2350 fathoms.
+Amphiura cernua, n.sp. Obtained at no other locality.
+Ophiocreas abyssicola, n.sp. Obtained at no other locality.
+HOLOTHURIOIDEA (Théel, Zool. pt. 13).
+Elpidia rigida, n.sp. One specimen; obtained at no other locality.
+Achlyonice paradoxa, n.g., n.sp. Two specimens ; obtained at no other locality.
+Oneirophanta mutabilis, n.g., n.sp. Obtained also at Stations 146, 157, 160, 244,
+281, 299, and 325. Only species of the genus.
+GEPHYREA (Selenka, Zool. pt. 36).
+Phascolosoma flagriferum, n.sp. Two specimens ; obtained also at Station 44.
+ANNELIDA (MʻIntosh, Zool. pt. 34).
+Lætmonice producta, Grube, var. benthaliana, nov. Obtained also at Stations 147,
+157, and 244.
+Nicomache (?) benthaliana, n.sp. One specimen ; obtained at no other locality.
+Eusamytha pacifica, n.g., n.sp. One specimen ; obtained at no other locality.
+Only species of the genus.
+OSTRACODA (Brady, Zool. pt. 3).
+Cythere suhmi, n.sp. Obtained also at Station 145.
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Paradryope orguion, n.g., n.sp.
+Only species of the genus.
+Lonceola pacifica, n.sp.
+One specimen; obtained at no other locality.
+One specimen; obtained at no other locality.

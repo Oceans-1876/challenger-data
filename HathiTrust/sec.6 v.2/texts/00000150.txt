@@ -1,38 +1,42 @@
-910
+912
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATIONS 233
-AND 233A.
-Capulus (Amathina) tricarinatus (Linné). Obtained also at Stations 186 and 187.
-Crepidula aculeata (Gmelin). Obtained also at Port Jackson.
-Lamellaria sp. (?).
-Philine sp. (?).
-Pleurobranchus sp. (?).
-CEPHALOPODA (Hoyle, Zool. pt. 44).
-Inioteuthis morsei, Verrill. Four specimens ; obtained at no other locality by
-the Challenger. Recorded from Hong Kong and Japan.
-Sepia kobiensis, n.sp. One specimen ; obtained at no other locality.
-Loligo kobiensis, n.sp. One specimen ; obtained also at Station 233c, 12 fathoms.
-POLYZOA (Busk, Zool. pt. 30).
-Retepora victoriensis, n.sp. (?), var. japonica, nov. The species obtained also at
-Station 161.
-Lepralia japonica, n.sp.
-Obtained at no other locality.
-TUNICATA (Herdman, Zool. pts. 17 and 38).
-Styela clava, n.sp. Several specimens ; obtained at no other locality.
-Corella japonica, n.sp. About twelve specimens ; obtained also at Yokohama and
-Hong Kong
-Ciona savignyi, n.sp. One specimen ; obtained at no other locality.
-aspera, n.sp. One specimen; obtained at no other locality.
-Leptoclinum japonicum, n.sp. One colony; obtained at no other locality.
-FISHES (Günther, Zool. pt. 6).
-Apogon lineatus, Schlegel. Obtained also in Yokohama Bay.
-Hapalogenys mucronatus, Eydoux and Souleyet. Obtained at no other locality by
-the Challenger.
-Trypauchen vagina, Bl. Schn. Obtained also at Amboina and Hong Kong.
-In addition to the foregoing, the following are recorded in the Station-book :-
-Nemertean with eggs (Cephalothrix), Pagurus, large Nudibranch, small reddish fish with
-hidden eyes and peculiar nose-organ (Amblyopus), and several other fishes from fishermen
-or caught with trammel in their boat (three species of fishes only noted above).
-Excluding Protozoa, over 300 specimens of invertebrates and fishes were obtained
-at this place, belonging to about 90 species, of which 30 are new to science, including
-representatives of 2 new genera ; 27 of the new species were not obtained elsewhere.
+STATION 233B.
+Station 233B (Sounding 373), off Japan (see Chart 35).
+May 26, 1875; lat. 34° 18' N., long. 133° 35' E.
+Temperature of air at noon, 71°:8; mean for the day, 67°.9.
+Temperature of water at surface, 66°:3.
+Density at 60° F. at surface, 1:02631.
+Depth, 15 fathoms ; deposit, Blue Mud, containing 4.29 per cent. of carbonate of
+lime, and numerous oval-shaped pellets, believed to be the dung of Holothurians
+(see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 5 A.M. got up steam. At 6.15 A.M. weighed anchor and proceeded through the
+channels leading from Harima Nada to Bingo Nada. At 9.5 A.M. passed Odutsi Island.
+At 11.20 A.M. stopped to dredge in about 12 fathoms to the east of the headland of
+Akeno Misaki. At 11.50 A.M. proceeded. At 12.40 P.M. stopped, and put over trawl
+in about 15 fathoms. The dredge came up with a bag full of mud, and the trawl came
+up at 1.30 P.M. with numerous specimens. Proceeded towards Miwara. After crossing
+the northern part of the Bingo Nada, the ship stopped at 4.15 P.M. off the village of
+Matsuhama, and close to the town of Miwara, both situated on the mainland of Nipon,
+and anchored in 14 fathoms.
+ANIMALS FROM
+DREDGE AND
+TRAWL.
+The following species are recorded in the Zoological Reports from the dredge and trawl
+at this Station :
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Astropecten japonicus, Müller and Troschel. Many specimens ; obtained also at
+Station 233 and Yokohama.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophioglypha sinensis, Lyman. Several specimens ; obtained also at Yokohama.
+Amphiura depressa, Lyman (?). Obtained also at Fiji.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Echinocardium australe, Gray. Obtained also at Port Jackson.
+[Recorded in
+error from Station 234].
+Schizaster japonicus, n.sp. Several specimens ; obtained also at Stations 188, 233,
+Yokohama, and Hong Kong.
+HOLOTHURIOIDEA (Théel, Zool. pt. 39).
+Synapta distincta, Marenzeller. Several fragments; obtained also at Station 233.
+ANNELIDA (MʻIntosh, Zool. pt. 34).
+Chloeia flava (Pallas). Two specimens ; obtained also in Arafura Sea (?).
+Dasybranchus (?) sp. One specimen.

@@ -1,34 +1,38 @@
-1148
+1152
 THE VOYAGE OF H.M.S. CHALLENGER.
-Station 307.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha lymani, Ljungman. Many specimens; for distribution see Station 304.
-Ophiacantha sp. (?), (young).
-Ophiolebes vestitus, n.g., n.sp. Obtained also at Stations 308 and 310, 175 and
-400 fathoms.
-Gorgonocephalus pourtalesië, Lyman. Three specimens; for distribution see
-Station 149.
-Astrotoma agassizii, Lyman. Obtained also at Stations 148, 150, 308, 309, and 313.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Schizaster moseleyi, n.sp. Many specimens ; for distribution see Station 146.
-HOLOTHURIOIDEA (Théel, Zool. pt. 39).
-Trochostoma antarcticum, n.sp. One specimen; obtained also at Station 306.
-Psolus squamatus, Düben and Koren (var. ?). Two specimens ; obtained also at
-Stations 308 and 311, 175 and 245 fathoms. Recorded from
-Europe and east coast of North America.
-ANNELIDA (M'Intosh, Zool. pt. 34).
-Aphrodita echidna, Quatrefages (?). Obtained also at Station 309, 40 to 140 fathoms.
-Recorded from South America.
+STATION 308.
+OSTRACODA (Brady, Zool. pt. 3).
+Bairdia sp. (?).
+Cythere patagoniensis, n.sp. Obtained at no other locality.
+dictyon, n.sp.
+For distribution see Station 24.
+Krithe producta, n.sp. For distribution see Station 70.
+Cytherella sp. (?).
 MACRURA (Spence Bate, Zool. pt. 52).
-Campylonotus semistriatus, n.g., n.sp. Forty specimens; for distribution see
+Campylonotus semistriatus, n.g., n.sp. Nine specimens; for distribution see
 Station 305.
+vagans, n.g., n.sp. One specimen ; obtained at no other locality.
+ANOMURA (Henderson, Zool. pt. 69).
+Eupagurus comptus (White), var. jugosa, nov. Many specimens ; obtained also
+at Station 315, 5 to 12 fathoms. The species recorded
+from Patagonia.
+BRACHYURA (Miers, Zool. pt. 49).
+Euripodius longirostris, n.sp. Two specimens ; obtained at no other locality.
+PYCNOGONIDA (Hoek, Zool. pt. 10).
+Phoxichilidium patagonicum, n.sp. One specimen ; obtained also at Stations 304,
+313, and 320 (var. elegans).
 LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Pecten vitreus (Chemnitz). Two specimens; for distribution see Station 204.
-FISHES (Günther, Zool. pts. 6 and 57).
-Sebastes oculatus, C.V. Several specimens; obtained also at Station 306.
-Aphritis gobio, Günther. One specimen ; obtained also at Stations 308 and 312,
-10 to 175 fathoms.
-Lotella marginata, n.sp. One specimen ; obtained also at Stations 305, 306, and 308.
-In addition to the foregoing, the following are recorded in the Station-book :
-Echinus, several Serpulæ, Isopod parasitic on fish, Doris (?), Ascidian, and cluster of
-egg masses (?) with Sertularian Hydroid attached.
+Pecten vitreus (Chemnitz). For distribution see Station 204.
+GASTEROPODA (Watson, Zool. pt. 42).
+Trophon liratus, Couthouy, MS. Obtained also at Station 315, 12 fathoms.
+Recorded from Falkland Islands and Oregon.
+acanthodes, n.sp. Obtained also at Station 311, 245 fathoms.
+NUDIBRANCHIATA (Bergh, Zool. pt. 26).
+Tritonia challengeriana, 1.sp. Two specimens ; obtained at no other locality.
+Polyzoa (Busk, Zool. pt. 30 ; Waters, pt. 79).
+Menipea benemunita, n.sp. Obtained also at Stations 149, 313, 314, and 315.
+[Recorded in error from Station 303].
+aculeata (d’Orbigny). Obtained also at Stations 314 and 315,
+70 fathoms. Recorded from Patagonia and Kerguelen.
+[Recorded in error from Station 303].
+to

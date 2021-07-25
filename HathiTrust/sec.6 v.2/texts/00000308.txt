@@ -1,98 +1,73 @@
-1054
+1058
 THE VOYAGE OF H.M.S. CHALLENGER.
-2
-STATION 272.
-Arachnocalpis ellipsoides, Haeckel.
-Cornutella hexagona, Haeckel.
-Cornutanna orthoconus, Haeckel.
-Dictyophimus hertwigii, Haeckel.
-Eucecryphalus halicalyptra, Haeckel.
-Arachnocorys araneosa, Haeckel.
-Carpocanium irregulare, Haeckel.
-Sethoconus trochus, Haeckel.
-pileus, Haeckel.
-rayianus, Haeckel.
-facetus, Haeckel.
-setosus, Haeckel.
-Pterocorys campanula, Haeckel.
-rhinoceros, Haeckel.
-Theopilium tricostatum, Haeckel.
-Corocalyptra emmæ, Haeckel.
-Theophormis senaria, Haeckel.
-Cecryphalium lamprodiscus, Haeckel.
-Phæocolla primordialis, Haeckel.
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Phronima tenella, n.sp.
-Cannobelos calymmata, Haeckel.
-Mesocena octogona, Ehrenberg.
-Distephanus mesophthalmus, Haeckel.
-Aulacantha tubulosa, Haeckel.
-Aulographis triglochin, Haeckel.
-Sagena pertusa, Haeckel.
-Sagoscena prætorium, Haeckel.
-debilis, Haeckel.
-Aularia ternaria, Haeckel.
-Medusetta spiralis, Haeckel.
-Gazelletta macronema, Haeckel.
-orthonema, Haeckel.
-robusta, Haeckel.
-Castanarium lyelli, Haeckel.
-Castanella campbelli, Haeckel.
-Castanidium willemoesi, Haeckel.
-allrichi, Haeckel.
-Conchidium leptæna, Haeckel.
-hüdium
+bi
+Station 274.
+"
+9)
+180 fathoms,
+190
+200
+300
+400
+500
+600
+700
+800
+49.2
+48.5
+480
+44.6
+42:5
+41:0
+39.5
+38.5
+37.6
+900 fathoms,
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+37.1
+36.7
+36.4
+36:1
+35.9
+35.6
+35.3
+35:1
+99
 1
 1
-The tow-nets procured mostly the same organisms as at the last few Stations,
-including :-Pyrocystis, Diatoms, many Globigerina, Orbulina, Acanthometræ and other
-Radiolaria, Copepods, Lucifer, and other Crustacea, small cuttle-fish. One of the
-Phæodaria (Conchopsis) was observed alive under the microscope ; it threw out
-pseudopodia in the same manner as the Foraminifera. The large brown cells of the
-phæodium were turned round and round by the motions of the pseudopodia, which
-attached themselves to the glass and moved the whole shell.
-STATION 273.
-o
-Station 273 (Sounding 415), Sandwich Islands to Tahiti (see Chart 38 and
-Diagram 19).
-September 9, 1875; lat. 5° 11' S., long. 152° 56' W.
-Temperature of air at noon, 790-8; mean for the day, 79°-2.
-Temperature of water :-
-Surface,
-80.7
-90 fathoms,
-71.9
-10 fathoms,
-80.4
-100
-68.2
-20
-80.0
-110
-64.0
-30
-79.5
-120
-59.8
-40
-79.4
-130
-56.5
-50
-79.3
-140
-54:3
-60
-79.2
-150
-52-6
-70
-78.5
-160
-51.7
-80
-75.8
-170
-50:7
-99
-99
+Density at 60° F. at surface, 1.02656 ; 2275 fathoms, 1.02569.
+Depth, 2750 fathoms; deposit, Radiolarian Ooze, containing 3.89 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.15 A.M. shortened and furled sails, and got up steam to sound and trawl. At
+6 A.M. sounded in 2750 fathoms. At 7.30 A.m. put trawl over and veered 3350 fathoms.
+Obtained serial temperatures down to 1500 fathoms. At 2 P.M. commenced heaving in
+trawl, which came up at 4.20 P.M. with several specimens, over nine litres of compact
+flattened manganese nodules, with earbones of Cetaceans, sharks' teeth, and pumice
+fragments. At 4.45 P.M. made sail. Frigate birds, boatswain birds, gannets, and a large
+bird like a Procellaria were seen.
+Venus Point, Tahiti, distant at noon, 625 miles ; Caroline Islands, 202 miles ; Vostok
+Island, 160 miles. Made good 62 miles. Amount of current 18 miles, direction S. 47°W.
+ANIMALS FROM
+TRAWL.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :
+DEEP-SEA KERATOSA (Haeckel, Zool. pt. 82).
+Psammina nummulina, n.g., n.sp. Obtained at no other locality.
+One specimen ; obtained at
+MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
+Cladorhiza abyssicola, Sars, var. rectangularis, nov.
+no other locality.
+HEXACTINELLIDA (Schulze, Zool. pt. 53).
+Euplectella crassistellata, n.sp. One specimen ; obtained at no other locality.
+.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Hyphalaster hyalinus, n.g., n.sp. Two specimens ; obtained at no other locality.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Phormosoma tenue, n.sp.
+Obtained also at Stations 237 and 272.

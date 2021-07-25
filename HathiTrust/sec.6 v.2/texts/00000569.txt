@@ -1,67 +1,123 @@
 SUMMARY OF RESULTS.
-1291
-Notes on the Geographical Distribution. --An examination of the foregoing list shows
-that of the 262 species taken in this zone between 2000 and 2500 fathoms, 133 species
-(or 51 per cent.) were taken south of the southern tropic, 122 species (or 47 per cent.)
-were taken within the tropics, and 99 species (or 38 per cent.) were taken north of the
-northern tropic; while 23 species (or 9 per cent.) were found to be common to all those
-three areas, 11 species (or 4 per cent.) were common to the southern and northern areas,
-22 species (or 8 per cent.) were common to the southern and tropical areas, and 13
-species (or 5 per cent.) were common to the tropical and northern areas.
-3. ANIMALS OBTAINED IN THE DREDGINGS AND TRAWLINGS IN DEPTHS BETWEEN
-1500 AND 2000 FATHOMS.
-The Challenger dredged or trawled at 32 Stations where the depth was between 1500
-and 2000 fathoms, about 1250 specimens of invertebrates and fishes being procured,
-belonging to about 500 species and about 345 genera. The total number of species and
-genera actually described and recorded in the Zoological Reports from the zone between
-these depths amounts to 412 species, of which 348 (or 84 per cent.) are new to science,
-belonging to 272 genera, of which 105 (or 39 per cent.) are new to science, as shown in
-the following list. Those species taken by the Challenger in this zone only (numbering
-249 species, or 60 per cent.) are indicated by an asterisk thus. * The geographical dis-
-tribution of the species is indicated by the heavy letters S, T, and N, used to denote
-that the species was taken south of the tropic of Capricorn (S), between the tropics of
-Capricorn and Cancer (T), or north of the tropic of Cancer (N).
-* Thenea fenestrata (Schmidt).
-DEEP-SEA KERATOSA :
-Holopsamma cretaceum, n.sp.
-* Psammina plakina, n.g., n.sp.
-*
+1295
+1
 N
-sp. (?). S
-s
+N
+Scalpellum insigne, n.sp.
+vitreum, n.sp.
+Verruca obliqua, n.sp.
+N
+quadrangularis, n.sp.
 S
-s
+N
 S
 S
-MONAXOXIDA:
-Axinella erecta (Carter).
-* Cladorhiza moruliformis, n.sp.
-(?) tridentata, n.sp.
-Esperella mammiformis, n.sp.
-Esperiopsis profunda, n.sp.
-s
-Meliiderma stipitata, n.g., n.sp.
+* Leæna antarctica, n.sp.
 S
-Stylocordyla stipitata (Carter). STN
-S
-HEXACTINELLIDA :
-Aulocalyx irregularis, n.g., n.sp.
-* Balanella pipetta, n.g., n.sp.
-S
-Bathydorus spinosus, n.g., n.sp.
-S
-Caulophacus latus, n.g., n.sp. S
-Euplectella suberea, n.sp.
+* Maldane malmgreni, n.sp. N
+Maldanella antarctica, n.g. n.sp.
+Melinnopsis atlantica, n.g., n.sp.
+* Nereis longisetis, n.sp.
+N
+Nothria abranchiata, n.sp.
+armandi, n.sp. s
+* Petta assimilis, n.sp.
+* Pista abyssicola, n.sp.
+Polynoë (Robertianella) synophthalma,
+n.sp.
 TN
-* Farrea sp. (?). S
-Holascus fibulatus, n.g., 1.sp.
-polejaevii, n.g., n.sp.
+* Praxilla abyssorum, n.sp.
+* Trophonia wyvillei, n.sp.
+S
+AMPHI PODA:
+Andania gigantea, n.sp.
+S
+Cystisoma spinosum (Fabricius).
+Lanceola æstiva, n.sp.
+australis, n.sp.
+S
+S TN
+S
+T
+sp. (?). S
+S
+S
+MYZOSTOMIDA :
+* Stelechopus hyocrini, n.g., n.sp. (parasitic
+on Hyocrinus). S
+* Orchomene abyssorum, n.sp.
+S
+* Phronima nova zealandiæ, Powell. s
+* Pleustes abyssorum, n.sp.
+S
+Stenopleura atlantica, n.g., n.sp.
+(surface ?). ST
+* Valettia coheres, n.g., n.sp.
+S
+OSTRACODA :
+S
+S
+ISOPODA :
+Acanthocope spinicauda, n.g., n.sp.
+* Arcturus brunneus, n.sp.
 s
-Hyalonema conus, n.sp.
-tenue, n.sp.
+furcatus, Studer.
 S
-TETRACTINELLIDA :
-* Thenea delicata, n.sp.
+glacialis, n.sp.
 s
+Eurycope fragilis, n.sp. SN
+S
+spinosa, n.sp.
+s
+sarsii, n.sp.
+Argillæcia eburned, n.sp.
+* Bairdin bosquetiana, Brady. S
+hirsuta, n.sp.
+s
+Cythere acanthoderma, n.sp. S TN
+dasyderma, n.sp.
+S TN
+dictyon, n.sp.
+STN
+normani, Brady. s
+squalidentata, n.sp.
+S
+Cytheropteron mucronalatum, n.sp.
+STN
+Krithe producta, n.sp.
+S TN
+tumida, n.sp.
+Macrocypris similis, n.sp.
+ST
+Pseudocythere caudata, Sars. S
+Xestoleberis expansa, n.sp.
+sp. (?). S
 S
 S
+* Iolanthe acanthonotus, n.g., n.sp.
+* Munnopsis australis, n.sp.
+Neotanais americanus, n.g., n.sp.
+Serolis antarctica, n.sp.
+ST
+bromleyana, n.sp.
+S
+SN
+S
+>>
+S
+CIRRIPEDIA :
+SCHIZOPODA :
+Amblyops crozetii, n.sp.
+S
+Bentheuphausia amblyops, n.g., n.sp. S T
+Boreomysis scyphops, Sars. S
+* Chalaraspis alata, n.g., n.sp.
+S T
+Eucopia australis, Dana. STN
+Scalpellum antarcticum, n.sp.
+s
+brevicarinatum, n.sp.
+improvisum, n.sp., MS.
+*
+S
+s

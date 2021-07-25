@@ -1,80 +1,123 @@
 SUMMARY OF RESULTS.
-1299
-Salicornaria magnifica (3)
-Discina atlantica.
-Cyema atrum.
-Gonostoma microdon (3).
-Ipnops murrayi.
-Macrurus armatus (3).
-filicauila (3)
-Scopelus antarcticus.
-Sternoptyx diaphana.
-The majority of these were taken at two Stations, while 14 were taken at three
-Stations, 5 at four Stations, and 1 at five Stations.
-Of the 163 species taken in this zone between 1500 and 2000 fathoms, as well as in
-deeper or shallower zones (those without asterisks), 37 species (or 23 per cent.) were
-taken in the zone beyond 2500 fathoms, and 52 species (or 32 per cent.) in the zone
-between 2000 and 2500 fathoms ; lists of these have already been given (see pp. 1281
-and 1288–9).
-The following 85 species (or 52 per cent.) were taken in the zone between 1000 and
-1500 fathoms :-
-Aulocalye irregularis.
-Euplertella suberea.
-Holascus fibulatus.
-Pleurocorallium johnsoni.
-Protoptilum aberrans.
-Umbellula magniflora.
-Bathyactis symmetrica.
-Bathycrinus aldrichianus.
-Brisinga membranacea.
-Dytaster exilis.
-malreporifer.
-Freyella fragilissima.
-Hymenaster præcoquis.
-Phoxaster pumilus.
-Pontaster forcipatus.
-Ophiacantha cosmica.
-Ophiernus vallincola.
-Ophiocten amitinum.
-Ophioglypha bullata.
-loveni.
-minuta.
-Ophiomitra chelys.
-Ophiomusi um lymani.
-Cystechinus clypeatus.
-wyvillii.
-Phormosoma uranus.
-Salenia hastigera.
-varispina.
-Urechinus naresianus.
-Cucumaria abyssorum.
-Læ mogone wycille-thomsoni.
-Oneirophanta mutabilis.
-Pseudostichopus villosus.
-Hyalinuciu benthaliana.
-Lætmonire producta.
-Maldanella antarctica.
-Nothria abranchiata.
-Bairdia hirsuta.
-Cythere acanthoderma.
-dasyderma.
-dictyon.
-Cytheropteron mucronalatum.
-Krithe producta.
-Scalpellum brevicarinatum.
-Andania gigantea.
-Cystisoma spinosum.
-Eurycope fragilis.
-sarsii.
-Neotanais americanus.
-Serolis antarctica.
-bromleyana.
-Beutheuphausia amblyope.
-Eucopia australis.
-Gnathophausia zoëa.
-Aristeus armatus.
-Benthesicymus altus.
-brasiliensis.
-Gennadas parvus.
-Glyphocrangon rimapes.
-Haliporus lævis.
+1303
+N
+Lefroyella decora, n.g., n.sp.
+* Malacosaccus vastus, n.g., n.sp.
+Rhabdodictyum delicatum, Schmidt.
+S
+*
+* Flabellum conuis, n.sp.
+T
+Solenosmilia variabilis, Duncan.
+ST
+Stephanotrochus diadema, n.g., n.sp. T N
+nobilis, n.g., n.sp.
+N
+N
+ALCYONARIA:
+* Acanella simplex, Verrill. N
+* Ceratoisis palma, n.sp.
+N
+* Clavularia elongata, n.sp.
+N
+Pleurocorallium johnsoni, Gray.
+* Sympodium armatum, n.sp.
+N
+HYDROIDA :
+Cryptolaria humilis, n.sp.
+N
+N
+S
+DEEP-SEA MEDUS.E:
+* Nauphanta challengeri, n.g., n.sp.
+* Pectis antarctica, n.g., n.sp.
+S
+Pectyllis arctica, Haeckel. N
+* Periphylla mirabilis, n.sp.
+Ptychogena pinnulata, Haeckel. N
+PENNATULIDA :
+* Anthoptilum murrayi, n.g., n.sp.
+Protoptilum aberrans, n.sp.
+Umbellula magniflora, n.sp.
+*
+N
+N
+S
+S
+ANTIPATHARIA :
+Bathypathes patula, n.g., n.sp.
+Τ Ν
+plenispina,
+var.
+nov.
+Schizopathes affinis, n.g., n.sp.
+CRINOIDEA :
+* Antedon acutiradia, n.sp.
+T
+alternata, n.sp.
+STN
+basicurva, n.sp.
+ST
+breviradia, n.sp.
+S T
+inaqualis, n.sp.
+ST
+Bathycrinus aldrichianus, 1.sp. S
+* Eudiocrinus varians, n.g., n.sp. T
+Pentacrinus naresianus, n.sp.
+S T
+T
+N
+ACTINIARIA :
+Amphianthus ornatum, n.g., n.sp.
+Corallimorphus profundus, n.g., n.sp. S
+rigidus n.g., n.sp.
+ST
+* Edwardsia sp. (?). S
+* Ophiodiscus sulcatus, n.g., n.sp.
+* Paractis excavata, n.sp.
+S
+* Phellia sp. (?) s
+Stephanactis abyssicola, n.g., n.sp.
+* Actinian undetermined.
+S
+N
+T
+N
+S
+T
+ASTEROIDEA :
+* Aphroditaster gracilis, n.g., n.sp.
+* Asterias (Hydrasterias) ophidion, n.sp. N
+* Benthaster penicillatus, n.g., n.sp.
+Brisinga membranacea, n.sp.
+verticillata, n.sp.
+N
+Cribrella oculata (Linck), Forbes.
+Dytaster exilis, n.g., n.sp.
+SN
+madreporifer, n.g., n.sp.
+Freyella bracteata, n.sp.
+N
+dimorpha, n.sp.
+T
+echinata, n.sp.
+fragilissima, n.sp.
+Hymenaster anomalus, n.sp.
+N
+N
+CORALS :
+Bathyactissymmetrica (Pourtalès). S TN
+Caryophyllia communis (Seguenza). S N
+Deltocyathus italicus, M.-Edwards and
+Haime.
+S TN
+* Flabellum alabastrum, n.sp
+angulare, n.sp.
+*
+>
+T
+N
+S
+N
+S

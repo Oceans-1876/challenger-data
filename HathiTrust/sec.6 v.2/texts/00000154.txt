@@ -1,59 +1,59 @@
-914
+916
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 233B.
-Excluding Protozoa, over 80 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 32 species, of which 6 are new to science;
-3 of the new species were not obtained elsewhere.
-STATION 233c.
-Station 233c (Sounding 374), off Japan (see Chart 35).
-May 28, 1875; lat. 34° 18' N., long. 133° 21' E.
-Temperature of air at noon, 69°:0; mean for the day, 67°•O.
+STATION 234.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms.-
+The following species are recorded from the surface at this
+Station
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Auloceros furcosus, Haeckel.
+Heliosphæra castanella, Haeckel.
+Sagoplegma pyramidophora, Haeckel.
+Sethoconus trochus, Haeckel.
+Medusetta quadrigata, Haeckel.
+Castanissa crosbiei, Haeckel.
+Theocampe cryptoprora, Haeckel.
+In addition, the following are recorded in the note-books from the surface and down
+to a depth of 60 fathoms :- Very many Noctiluca at the surface, nearly all with prey inside
+and more or less collapsed, unlike in this respect the quite spherical specimens taken
+while at anchor at Oosima ; Noctiluca was less abundant in the deep haul; Pyrocystis,
+very few at the surface, more abundant in deep haul; Peridinium tripos (in catena) and
+another species ; Diatoms (Coscinodiscus, &c.); Globigerina, Orbulina, Hastigerina ;
+Vorticella (on Diatoms) and other Infusoria ; Medusæ, Siphonophoræ, Ophiurid larvæ,
+Sagitta, Annelid larvæ, Planarian larvæ, Daphnia, Cypridina, Setella, Calanids, and
+other Copepods, Phronimids, Euphausia, Incifer, Crustacean and other eggs, Zoëæ, small
+Gasteropods and Lamellibranchs, Atlanta, Pteropods and larvæ, Appendicularia,
+Doliolum. The hauls from the surface appeared to indicate a mixture of shallow-water
+(neritic) and pelagic organisms, and the presence probably of brackish water, while the
+deeper haul was much more oceanic in character.
+STATION 235.
+Station 235 (Sounding 376), off Japan (see Chart 35).
+June 4, 1875; lat. 34° 7' N., long. 138° 0' E.
+Temperature of air at noon, 69°8; mean for the day, 69°:4.
 Temperature of water :-
+577
 Surface,
-1 fathom,
-2 fathoms,
-3
-4
-66.8
-65.5
-61.9
-64.4
-63.8
-63.2
-62:7
-7 fathoms,
-8
-9
-10
-11
+25 fathoms,
+50
+75
+100
+73.0
+71.2
+66.4
+63.5
+60.5
+125 fathoms,
+150
+175
+200
 Bottom,
-62.1
-61.5
-60-9
-60:3
-59.7
-59.2
-7
-5
-6
-Density at 60° F. at surface, 1.02381.
-Depth, 12 fathoms; deposit, Blue Mud, containing 4.29 per cent. of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 7.30 A.M. got up steam. At 9.40 A.M. weighed anchor and proceeded under steam
-towards Bingo Nada. At 11.15 A.M. passed Hyakfu Kung Island. At 12.15 P.M. stopped
-to traw) and obtain serial temperatures. The first haul of the trawl was unsuccessful, but
-at 1.15 P.M. the trawl came up for the second time with many specimens. At 1.30 P.M.
-proceeded. At 2.30 P.M. passed Matsu Sima. At 3.15 P.M. stopped and anchored in
-9 fathoms off Sanagi Sima, at entrance to channel leading to Harima Nada.
-ANIMALS FROM
-TRAWL.
-The following species are recorded in the Zoological Reports from the trawl at
-this Station :
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Raeta pulchella (Adams and Reeve). Obtained also at Yokohama. Recorded
-from Borneo and Japan.
-GASTEROPODA (Watson, Zool. pt. 42).
-Nassa (Zeuxis) crenulata, Bruguière. Obtained also at Stations 233 and 233B.
-Philine sp. (?).
-CEPHALOPODA (Hoyle, Zool. pt. 44).
-Loligo kobiensis, n.sp. Four specimens; obtained also at Station 233.
+54.7
+51.5
+480
+38.1
+Density at 60° F. at surface, 1.02557 ; bottom, 1.02560.
+Depth, 565 fathoms ; deposit, Green Mud, containing about 5 per cent. of carbonate
+of lime (sce Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 8.30 A. M. observed land about Cape Sima on the port quarter. At 4 P.M. stopped
+and sounded in 565 fathoms. Put over trawl, which came up at 7.30 P.M. with many

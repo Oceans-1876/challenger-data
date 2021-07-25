@@ -1,128 +1,134 @@
-1344
+1348
 THE VOYAGE OF H.M.S. CHALLENGER.
-S
+2
+13
 T
-T
-T
-sp. (?).
-T
-T
-Davila (?) umbonata, p.sp.
-* Diplodonta sp. (?). S
-Ervilia castanea (Montagu). N
-subcancellata, n.sp.
-Τ Ν
-* Glomus inæquilateralis, n.sp.
-jeffreysi, n.sp.
-T
-simplex, n.sp.
-T
-T
-* Idas dalli, n.sp.
-T
-* Kellia nuculina, Martens. S
-* Leda decipiens, n.sp.
-T
-despecta, n.sp.
-hebes, n.sp.
-inaudax, n.sp.
-T
-inopinata, n.sp.
-s
-jeffreysi, Hidalgo. TN
-messanensis, Seguenza. N
-neæriformis, n.sp.
-T
-ramsayi, n.sp. S
-rectidorsata, Seguenza.
-semen, n.sp.
-T
-watsoni, n.sp.
-* Lima australis, n.sp. S
-goliath, Sowerby. S N
-T
-murrayi, n.sp. S
-(Limatula) confusa, n.sp.
-Τ Ν
-) laminifera, n.sp.
-T
-( ) Pygmæd, Philippi. S
-) sp. (?). S
-(Mantellum) loscombii, Sowerby.
-SN
-Limopsis aurita (Brocchi). TN
-marionensis, n.sp.
-S
-minuta (Philippi).
-Τ Ν
-pelagica, n.sp.
-TN
-straminea, n.sp.
-s
-T
-* Lucina cristata, n.sp.
-S
-* Lucina lamellata, Smith. s
-(Codakia) congenitu, n.sp.
-) pecten, Lamarck. TN
-* Malletia cuneata, n.sp.
-T
-veneriformis, n.sp.
-Τ Ν
-Modiolarca trapezina (Lamarck). S
-* Montacuta acuminata, n.sp. T
-occidentalis, n.sp.
-purd, n.sp.
-N
-Mytilus exustus (Lamarck), Reeve. T
-meridionalis, n.sp.
-s
-* Neara angasi, n.sp. S
-capensis, n.sp. S
-claviculata, Dall. N
-congenita, n.sp. N
-consociata, n.sp.
-TN
-curta, Jeffreys. N.
-fallax, n.sp.
-T
-fragilissima, n.sp.
-S
-kerguelenensis, n.sp.
-patagonica, n.sp.
-T
-two species undetermined.
-* Nucula culebrensis, n.sp.
-T
-dilecta, n.sp.
-S
-niponica, n.sp.
-N
-T
-umbonatu, n.sp.
-S
-* Pecten aviculoides, n.sp. S
-challengeri, n.sp.
-clathratus, Martens.
-culebrensis, n.sp.
-T
-distinctus, n.sp.
-S
-gibbus (Linné). N
-limatula, Reeve. S
-philippii, Recluz. N
-pusio (Linné). N
-subhyalinus, n.sp.
-S
-sulcatus, Müller, var. crebricostata,
-Sars. N
-N
-s
-T
-lata, n.sp.
-torresi, n.sp.
 *
->>
-S
-torresi, n.sp.
+*
 T
+T
+T
+T
+T
+T
+T
+>
+T
+>
+S
+Odostomia, (Turbonilla) compressa, Pleurotoma (Mangelia) acanthodes, n.sp.
+Jeffreys.
+N
+N
+) consanguinea, n. sp.
+) corallina, n.sp.
+T
+s
+(
+) eritmeta, n.sp. N
+(
+) constricta, n.sp. S
+) hypsela, n.sp. T
+) densicostata (Phil-
+(
+) subtilis, n.sp. T
+ippi). T
+(
+) tiara, n.sp. TN
+(
+) fischeri, n.sp.
+s
+(Perrona) marmarina, n.sp.
+(
+) kymatoëssa,n.sp. T
+(
+) paucistriata, Jef- *
+(Rhaphitoma) rhysa, n.sp. T
+freys. T
+(Spirotropis) stirophora, n.sp.
+(
+) philomela, p.sp. S
+(
+)phrikalea, n.sp. T
+(
+) tmeta, n.sp.
+(
+) rhabdota, n.sp.
+(Surcula) anteridion, n.sp. S
+( ) sp. (?). T
+) deshayesi,
+three species undetermined.
+Doûmet.
+* Oliva (Olivella) amblia, n.sp.
+) plebeia, 11.sp.
+) ephamilla, n.sp.
+) staminea, n.sp. S
+) vitilia, n.sp.
+T
+( ) syngenes, n.sp. T
+sp. (?).
+( ) trilix, n.sp.
+* Oniscia cithara, n.sp.
+(Thesbia) eritimu, n.sp.
+* Phasianella sp. (?).
+( ) translucida, n.sp. S
+* Phos bathyketes, n.sp.
+(Typhlomangelia) lincta, n.sp.
+naucratoris, n.sp.
+T
+(
+) lithocolleta,
+* Pleurotoma spiced, n.sp.
+n.sp.
+(Bela) dyscrita, n.sp.
+two species undetermined. T
+( , ) phæacra, n.sp.
+(Drillia) challengeri, n.sp. S * Provocator pulcher, n.g., n.sp. S
+) crossei, n.sp.
+* Puncturella agger, n.sp.
+T
+(
+) horrenda, n.sp. T
+clathrata, Jeffreys.
+) hoylei, n.sp. S
+noachina (Linne)
+princeps, Mighels. S
+) incrassata, Dujar-
+din. N
+sportella, n.sp.
+( ) watsoni, n.sp. S
+(Cranopsis) asturiana (Fischer).
+(Genota) atractoïdes, n.sp. T
+T
+(
+) didyma, n.sp.
+T
+) granulata
+( ) engonia, n.sp. S N
+(Seguenza). T
+T
+>
+S
+T
+T
+T
+T
+smithi, n.sp.
+T
+T
+T
+T
+S
+T
+one
+S
+T
+var.
+) incilis, n.sp.
+T
+oxia, n.sp.
+T
+T
+*
+u
+> >

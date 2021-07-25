@@ -1,41 +1,111 @@
-REPORT ON OCEANIC CIRCULATION.
-15
-MEAN ANNUAL TEMPERATURE OF THE SURFACE OF THE OCEAN. (Map 2.)
-The point
-In this map, showing the mean annual temperature of the surface of the ocean, the
-deeper red shaded portions indicate those regions where the temperature is highest, or
-where it exceeds 80°.
-The area of high temperature does not quite circle the equatorial region of the globe,
-as it does not occur in the Pacific from long. 117° to 140° W. In the Atlantic and
-eastern portion of the Pacific, these areas of high temperature lie north of the equator,
-which is due to the circumstance that in these parts of the ocean the south-east trades
-protrude north of the equator, being the simple result of the geographical distribution
-of atmospheric pressure there. Quite different is it in the western division of the
-Pacific where this area of high surface temperature extends east of Australia as far south
-as lat. 20° S.
-This striking extension southward of the temperature is occasioned by
-the circumstance that, for eight months of the year, the line of lowest barometric pressure
-is there to the south of the equator, and, necessarily, accompanied by northerly winds,
-which propel into more southern regions the warmer waters of the surface.
-here insisted on is vital to the whole question of oceanic circulation.
-Another important result of the geographical distribution of atmospheric pressure
-in the Atlantic and Pacific is that in the Atlantic the north and south trades are
-stronger and more persistent than those of the Pacific, and the inter-space between
-them characterised by calms and very light variable winds is therefore much narrower
-in the Atlantic than in the Pacific. From this it follows that the region of highest
-surface temperature in the Atlantic is comparatively much contracted in width, whereas
-in the Pacific it occupies a breadth nearly four times greater.
-To the north of lat. 13° S. the area of maximum surface temperature overspreads
-the whole of the Indian Ocean, including the Arabian Sea and the Bay of Bengal,
-except the north-western portion of the Arabian Sea. This comparatively low tempera-
-ture over the western division of the Arabian Sea is brought about by the prevailing
-north-westerly winds there in the summer and also the winter months, which drive the
-warm surface water to the south-eastwards, and thus bring, by upwelling, the colder
-waters of lower depths to the surface. The effect is well seen in the mean monthly
-temperature of the surface of the sea off the Arabian coast about long. 57° E., which,
-during the spring months, is 82°:8, but falls in the summer months to 76°:3 when
-the N.W. winds are strongest, rising again in the autumn to 7994. This low summer
-temperature is the more remarkable since the north-west winds which then prevail come
-from the deserts of Arabia, and are therefore hot, dry and rainless till they have
-traversed the sea a considerable way to the south-east. On the other hand, the pre-
-vailing winds at this season at the head of the Bay of Bengal are southerly and
+REPORT ON OCEANIC CIRCULATION,
+1
+19
+cause operates strongest during those months when, as in the case of Australia,
+atmospheric pressure is lower in the interior than on the coast. Those winds, of
+course, blow the warm waters toward the coast. The other cause is the back water, or
+counter equatorial current to the east, which sets in particularly in the eastern division of
+the region of calms between the north and south trades.
+In the Pacific, in equatorial regions, a great breadth of that ocean from Galapagos
+Islands to long. 165° E. has a temperature under the mean, falling to 50° in the middle
+region from long. 122° to 148° W. This low temperature of 50°, taken in connection
+with the isothermal of 72°, only eighteen degrees of latitude to the south, presents
+what may be regarded as perhaps the most striking fact of oceanic circulation. In
+August 1875 the Challenger took several soundings in this part of the ocean, and in
+Number 6 of the Preliminary Reports there is represented on Plate IV. the vertical
+distribution of temperature in this region as contrasted with surrounding regions.
+The following extracts from the Challenger soundings, Nos. 410 and 417, taken
+respectively on August 30 and September 14, 1875, will show the extraordinary
+differences in the rates of change of temperature with depth in these two parts of
+the ocean down to 200 fathoms :
+Depth in
+Fathoms.
+No. 410.
+No. 417
+Lat. 7° 35' N. Lat. 11° 20'S.
+Long. 149° 49' W. Long. 150° 30' W.
+Difference.
+Surface.
+81°:0
+800.0
++10.0
+10
+20
+30
+45
+50
+79.3
+79°3
+799.3
+78°.2
+749.0
+790.9
+79'.8
+79°.6
+799.4
+790.0
+- 0°.6
+-0°.5
+-0°:3
+-1°.2
+--5°:0
+60
+70
+80
+90
+100
+63º.4
+56.2
+52.6
+51°0
+50°.3
+78.0
+76°:7
+75°:3
+7307
+72.0
+- 14°.6
+- 20°-5
+- 22°:7
+- 22.7
+- 21°:7
+110
+120
+130
+140
+150
+50°:0
+49°:8
+49°:6
+49°•4
+49°.2
+70':1
+68°:3
+66°:2
+64° 0
+61°4
+- 20°:1
+-18°.5
+- 16°:6
+-14°.6
+- 120.2
+160
+170
+180
+190
+200
+49°:0
+48°.8
+48°.6
+489.4
+48°.2
+58°.9
+5694
+54°.2
+52'.4
+50°.8
+- 99.9
+-7° -6
+-5°.6
+- 4:0
+-2°.6

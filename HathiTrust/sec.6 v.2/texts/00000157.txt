@@ -1,42 +1,45 @@
 SUMMARY OF RESULTS.
-917
-specimens and a few pumice-stones. At 8 P.M. proceeded under steam against a strong Station 235.
-headwind from E.N.E. which continued all night. Black albatrosses and black petrels
-were observed.
-Distance at noon from Rock Island lighthouse, 86 miles. Made good 82 miles.
-No current
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :
-ANIMALS FROM
-TRAWL.
-ALCYONARIA (Wright and Studer, Zool. pt. 64).
-Strophogorgia verrilli, n.g., n.sp. Several specimens ; obtained also at Station 237,
-1875 fathoms.
-Anthomastus steenstrupi, n.sp. One specimen ; obtained at no other locality.
-PENNATULIDA (Kölliker, Zool. pt. 2).
-Pennatula pearceyi, n.sp. Two specimens; obtained at no other locality.
-Virgularia bromleyi, n.sp. One specimen; obtained at no other locality.
-Umbellula durissima, n.sp. One specimen ; obtained at no other locality.
-huxleyi, n.sp. Four specimens ; obtained at no other locality.
-Microptilum willemöesi, n.g., n.sp. One specimen ; obtained at no other locality.
+919
+STATION 235.
+Only
+GASTEROPODA (Watson, Zool. pt. 42).
+Bembix æola, n.g., n.sp. One specimen ; obtained also at Station 232.
+species of the genus.
+Turbo transenna, n.sp. One specimen; obtained at no other locality.
+Echinella (?) tectiformis, n.sp. One specimen ;
+One specimen ; obtained at no other locality.
+Fishes (Günther, Zool. pt. 57).
+Raja isotrachys, n.sp. One specimen ; obtained at no other locality.
+Cottus bathybius, n.sp. One specimen ; obtained at no other locality.
+Pteroidonus quinquarius, n.g., n.sp. One specimen ; obtained at no other locality.
 Only species of the genus.
-Scleroptilum durissimum, n.g., n.sp. One specimen ; obtained at no other locality.
-The only other species of the genus (Scleroptilum
-grandiflorum) was taken at Station 241.
-ACTINIARIA (Hertwig, Zool. pt. 15).
-Polysiphonia tuberosa, n.g., n.sp.
-Twenty specimens ; obtained at no other
-locality. Only species of the genus.
-Epizoanthus parasiticus, Verrill. Two specimens ; obtained at no other locality
-by the Challenger.
-Crinoidea (Carpenter, Zool. pts. 32 and 60).
-Pentacrinus (?) mollis, n.sp. One specimen ; obtained at no other locality.
-Eudiocrinus japonicus, n.g.
-, n.sp. Three specimens ; obtained at no other locality.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Pararchaster semisquamatus, n.g., n.sp.
-One specimen; obtained also at
-Station 237, 1875 fathoms.
-Hymenaster glaucus, n.sp. Several specimens ; obtained at no other locality.
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
-116
+Macrurus parallelus, n.sp. One specimen ; obtained also at Stations 169, 170,
+171, and 232.
+nasutus, n.sp.
+Five specimens; obtained also at Station 232.
+altipinnis, n.sp.
+Two specimens ; obtained also at Station 237,
+1875 fathoms.
+longifilis, n.sp. One specimen; obtained at no other locality.
+Sternoptyx diaphana (Herm.). One specimen ; for distribution see Station 101.
+Chauliodus sloanii, Bl. Schn. One specimen ; obtained also at Stations 60, 104,
+191, and 216A.
+Halosaurus affinis, n.sp. Two specimens ; obtained at no other locality. Recorded
+subsequently from Indian Ocean (“ Investigator").
+Synaphobranchus pinnatus (Gronovius). Four specimens ; obtained also at
+Stations 125, 210, 214, and 232.
+In addition to the foregoing, the following are recorded in the Station-book :-
+Flabellum, several Asterids besides Hymenaster (only one given above), Cymothoa on
+Macrurus, Stylifer (?) on Hymenaster.
+Excluding Protozoa, over 120 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 55 species, of which 42 are new to science, including
+representatives of 14 new genera ; 29 of the new species and 5 new genera were not
+obtained elsewhere.
+Surface Organisms. — The following species are recorded from the surface at this Organisms. FROM
+Station :
+SURFACE-N ETS.
+Radiolaria (Haeckel, Zool. pt. 40).
+Quadrilonche platystaura, Haeckel.
+Orophaspis ramosa, Haeckel.
+Coscinaspis peripora, Haeckel.
+Dorypelta dodecaspis, Haeckel.

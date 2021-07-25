@@ -1,53 +1,42 @@
 SUMMARY OF RESULTS.
-895
-Euphausia pellucida with eggs and Nauplii, Siriella, Lucifer, Phyllosoma, Sergestes Station 231.
-and larvæ, Brachyurous Zoëæ, Cleodora [ :- Clio), Cuvierina, Hyalæa [ = Cavolinia),
-Styliola, small Cephalopod with ten arms (over an inch in length), Appendicularia,
-Fritillaria, Doliolum, Salpa (with Coccospheres, &c., in the stomach), Leptocephalus,
-Stomiatidæ. The tow-nets from the surface were filled with Diatoms and Noctilucæ,
-making the water quite thick when placed in the globes, whereas two tow-nets sent down
-to 900 and 1000 fathoms contained fewer Noctilucæ and Diatoms, and the water in the
-globes remained clear. Sometimes the ship appeared to be passing through patches of
-greenish water, in which Noctiluca, numerous Diatoms, and larval forms indicating
-brackish water were rather abundant, but these were quite absent from the surrounding
-deep blue water.
-The following species are recorded in the Zoological Reports from the surface in the
-North-West and West Pacific and between New Guinea and Japan, the exact date
-not being noted:
-CEPHALOPODA (Hoyle, Zool. pt. 44).
-Tremoctopus gracilis (Eydoux and
-Souleyet), Tryon (?).
-TUNICATA (Herdman, Zool. pt. 76).
-Cyclosalpa pinnata (Forskål).
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Paraphronima cuivis, n.sp.
-Phronima sp. (?).
-Anchylomera sp. (?).
-MACRURA (Spence Bate, Zool. pt. 52).
-Acanthosoma brevitelsonis, n.sp.
-tynitelsonis, n.sp.
-dorsispinalis, n.sp.
-Mastigopus acetiformis, n.sp.
-spiniventralis, n.sp.
-Sergestes corniculum, Krøyer.
-semiarmis, n.sp.
-Lucifer typus, Thompson.
-reynaudii, M.-Edwards.
-Eretmocaris remipes, n.g., n.sp.
-Amphion sp. (?), (larvæ).
-Pelagic HEMIPTERA (White, Zool. pt. 19).
-Halobates sericeus, Eschscholtz.
-germanus, n.sp.
-FISHES (Günther, Zool. pt. 78).
-Holocentrum sp. (?).
-Histiophorus sp. (?).
-Lirus paucidens, n.sp.
-Psenes cyanophrys, C.V.
-Thynnus thunnina (C.V.), (young).
-Lophotes cepedianus, Giorna, (young).
-Young Pleuronectid (Synaptura ?).
-Scopelus coccoi (Cocco).
-nigro-ocellatus (Günther).
-AT JAPAN.
-The Challenger anchored off Yokohama at 5 P.m. on April 11, 1875, remaining there
-till 2.30 P.M. on May 11, when she sailed for the Inland Sea, anchoring near the entrance
+897
+STATION 232.
+list. Put dredge over again, also put over trawl twice, as the first time it did not seem
+to have been at the bottom. This is a noted ground for dredging Hyalonema. Obtained
+a series of temperatures. At 6 P.M. completed trawling and dredging, and proceeded
+towards Kobé.
+The following species are recorded in the Zoological Reports from the dredge and Animals FROM
+DREDGE AND
+trawl at this Station :-
+TRAWL.
+HEXACTINELLIDA (Schulze, Zool. pt. 53).
+Hyalonema (Stylocalyx) apertum, n.sp. Several
+Several specimens; obtained at no
+other locality.
+ALCYONARIA (Wright and Studer, Zool. pts. 64 and 81).
+Strophogorgia petersi, n.g., n.sp. One specimen ; obtained at no other locality.
+Dasygorgia geniculata, n.sp. One specimen ; obtained also at Station 201.
+Ceratoisis paucispinosa, n.sp. Three specimens ; obtained at no other locality.
+Caligorgia flabellum (Ehrenberg). A few branches ; obtained at no other locality
+by the Challenger. Recorded from Formosa, Japan,
+and Mauritius.
+Acamptogorgia arbuscula (Gray, MS.). One specimen ; obtained at no other
+locality by the Challenger.
+Acis pustulata, n.sp. One specimen ; obtained at no other locality.
+Muricella complanata, n.sp. One specimen ; obtained at no other locality.
+perramosa, Ridley. Two specimens; obtained at no other locality by
+the Challenger. Recorded from Mauritius.
+nitida, Verrill (?). One specimen ; obtained at no other locality by the
+Challenger. Recorded from Central Pacific.
+Scirpearella rubra, n.g., n.sp. One specimen ; obtained at no other locality.
+Juncella racemosa, n.sp. Several specimens; obtained at no other locality.
+Gorgonella orientalis, n.sp. One specimen ; obtained at no other locality.
+Suberogorgia verriculata (Esper). Fragments; obtained at no other locality by the
+Challenger. Recorded from W. Indies (?) and Australia.
+köllikeri, n.sp. Several pieces ; obtained at no other locality.
+Keroeides koreni, n.g., n.sp. Several fragments; obtained at no other locality.
+Only species of the genus.
+Melitodes nodosa, n.sp. Several specimens ; obtained also at Station 177.
+Parisis minor, n.sp. One specimen ; obtained at no other locality.
+Chironephthya dipsacea, n.g., n.sp. Several fragments ; obtained at no other locality.
+scoparia, n.g., n.sp. One specimen ; obtained at no other locality.

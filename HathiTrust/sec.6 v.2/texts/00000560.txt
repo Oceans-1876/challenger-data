@@ -1,60 +1,114 @@
-1282
+1286
 THE VOYAGE OF H.M.S. CHALLENGER.
-Cythere acantholerma.
-dasyderma.
-dictyon.
-Cystisoma spinosum.
-Acanthephyra sica.
-Gennadas parvus.
-Bifaxaria abyssicola.
-Bugula reticulata.
-Cribrilina monoceros.
-Chauliodus sloanii.
-Gonostoma microdon.
-Nemichthys infans.
-Sternoptyx diaphana.
-The following 12 species (or 19 per cent.) were taken in the zone between 100
-and 500 fathoms :-
-Bathyactis symmetrica.
-Acanthephyra sica.
-Ophiomastus tegulitius.
-Gennadas parvus.
-Pourtalesia laguncula.
-Arca (Scapharca) inæquisculpta.
-Cythere dasyderma.
-Bugula reticulata.
-dictyon.
-Cribrilina monoceros.
-Boreomysis obtusata.
-Gonostoma microdon.
-Thus four species (Cythere dasyderma, Acanthephyra sica, Bugula reticulata, and
-Gonostoma microdon) were taken in all the zones, except the shallow-water zone less than
-100 fathoms.
-The following 8 species (or 12 per cent.) were taken in depths less than 100 fathoms
-or at the surface :
-Bathyactis symmetrica.
-Lætmonice producta.
-Cythere dictyon.
-Lepas anatifera.
-Gennadas parvus (surface).
-Cribrilina monoceros.
-Astronesthes niger (surface).
-Sternoptyx diaphana (surface).
-Thus three species (Bathyactis symmetrica, Cythere dictyon, and Gennadas parvus)
-occur in all the zones of depth from the surface or shallow water to over 2500 fathoms.
-Of the 96 species taken only in this zone beyond 2500 fathoms, 85 species (or 89 per
-cent.) are new, and the following 9 new genera were obtained only in this zone of depth :-
-Stannarium (2)
-Hyalostylus.
-Trachycaulus.
-Antheomorphe.
-Halisiphonia.
-Psycheotrephes.
-Scotoanassa.
-Petalophthalmus.
-Mixonus.
-These genera are each represented by a single species taken at a single station, except
-the genus Stannarium, which contains two species, cach taken at a different Station
-inside this zone.
-Notes on the Geographical Distribution. An examination of the foregoing list shows
-that of the 161 species taken in this zone beyond 2500 fathoms, 87 species (or 54 per
+1
+S
+N
+N
+sica, n.sp.
+T
+T
+CUMACEA :
+* Placoste us mönch, n.sp.
+SN
+ornatus, Sowerby.
+N
+* Diastylis arenaceus, n.sp.
+N
+mystacina, n.sp.
+* Samythopsis grubei, n.g., n.sp.
+* Leucon tenuirostris, n.sp.
+OSTRACODA:
+SCHIZOPODA:
+* Bairdia abyssicola, n.sp.
+minima, n.sp.
+SN
+SN
+Gnathophausia gigas, n.g., n.sp.
+Cythere acanthoderma, n.sp.
+T
+S T N * Thysanopoda cristata, n.sp.
+circumdentata, n.sp.
+Τ Ν
+MACRURA :
+dasyderma, n.sp.
+S TN
+Acanthephyra acutifrons, n.sp. T
+dictyon, n.sp.
+S TN
+brachytelsonis, n.sp.
+suhmi, n.sp.
+SN
+STN
+Cytheropteron mucronalatum, n.sp.
+longidens, n.sp.
+S T
+S TN
+S T N
+COPEPODA:
+Aristeus armatus, n.sp.
+S T N
+* Lernæa abyssicola, n.sp. (parasitic on
+Benthesicymus brasiliensis, n.g., n.sp.
+ST
+Ceratias uranoscopus).
+crenatus, n.g., n.sp.
+CIRRIPEDIA:
+Gennadas parvus, n.g., n.sp.
+STN
+* Scalpellum abyssicola, n.sp. N
+Haliporus curvirostris, n.g., n.sp.
+Hemipenæus spinidorsalis, n.g., n.sp. S T
+compressum, n.sp.
+S T
+darwinii, n.sp.
+Hymenodora glauca, n.sp.
+S T N
+gigas, n.sp.
+mollicutis, n.sp.
+N
+marginatum, n.sp.
+T
+* Nematocarcinus altus, n.sp.
+ovatum, n.sp.
+* Notostomus patentissimus, n.sp.
+perlatus, n.sp.
+AMPHIPODA:
+Petalidium foliaceum, n.g., n.sp.
+* Lanceola pacifica, n.sp.
+N
+Pontophilus gracilis, n.sp.
+ST
+Paradryope orguion, n.g., n.sp. N
+Sergestes atlanticus, M.-Edwards. STN
+* Tropiocaris planipes, n.g., n.sp.
+N
+IsoPODA.
+Willemæsia leptodactyla, n.g., n.sp.
+ST
+Arcturus abyssicola, n.sp.
+Bathytanais bathybrotes, n.g., n.sp. S N ANOMURA :
+* Eurycope abyssicola, n.sp.
+Parapagurus abyssorum, M.-Edwards
+* Ischnosoma thomsoni, n.sp.
+var. scabra, nov. S TN
+* Macrostylis latifrons, n.sp.
+* Tylaspis anomala, n.g., n.sp.
+S
+Serolis neæra, n.sp. (?). S
+Typhlotanais brachyurus, n.sp. N
+PYCNOGONIDA :
+kerguelenensis, n.sp.
+SN * Colossendeis media, n.sp.
+ST
+T
+S
+T
+T
+T
+T
+S
+T
+N
+N
+N
+S

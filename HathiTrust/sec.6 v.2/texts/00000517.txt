@@ -1,46 +1,40 @@
-CHART 43
-Summary of Results.
-14935
-50
-30'
-Pಹಣrmಹುದಾಸ್ತುಪಟುತ್ತೆ
-25'
-The Voyage of H.M.S. Challenger.
-14,15
-20
-ритуалиштатларини
-50
-பாப்பாமரர்கine
-SOUNDINGS AND STATIONS
-in the vicinity of
-ASCENSION 1.
-For explanation of abbreviations de ser Appendur 1
-பெண்பாப்பார்
-North Point
-100 fathom line
-420
-(344
-calc volcanic sand
-Clarence
-Bay
-55
-or the
-South East Head
-l'ortland Pt
-South P!
-8°
-ਗਈ ਪਰ
-(343
-425
-globagerina ooze
-MET
-14,35
-30
-Long West fron Greenwich
-25
-20
-14,15
-Engraved by Malby & Sons
-
-55
-8°
+SUMMARY OF RESULTS.
+1243
+STATION 344.
+SCAPHOPODA and GASTEROPODA (Watson, Zool. pt. 42).
+Dentalium entalis, Linné, var. agile, Sars. For distribution of the species see
+Station II.
+Basilissa oxytropis, n.g., n.sp. Two specimens ; obtained at no other locality.
+Sigaretus sp. (?).
+Capulus sp. (?).
+Odostomia sp. (?).
+Eulima chyta, n.sp. Obtained at no other locality.
+Bittium sp. (?).
+Rissoa (Setia) tenuisculpta, Watson. Obtained also at Station 24.
+( , ) triangularis, n.sp.
+Obtained at no other locality.
+Utriculus oryctus, n.sp. Obtained at no other locality.
+Cylichna cylindracea (Pennant). Two specimens ; obtained also at Station 135.
+>>
+BRACHIOPODA (Davidson, Zool. pt. 1).
+Terebratula cubensis, Pourtalès. Two specimens ; obtained at no other locality by
+the Challenger. Recorded from Florida Reefs and Havana.
+Terebratulina caput-serpentis, Linné, or cailleti, Crosse.
+In addition to the foregoing, the following are recorded in the Station-book :- Many
+specimens, mostly dead, of Aphrocallistes bocagei, several Actinians on the Corals,
+Primnoa, Mopsea, and several other forms of Gorgonoids (only two species given above),
+Sertularian, Stylaster erubescens, Echinus flemingi, Myzostoma on Antedon, many
+Serpulæ, two specimens of Scalpellum, Arcturus (?), Gnathophausia zoëa, and several
+specimens of Galathea.
+Excluding Protozoa, about 200 specimens of invertebrates were obtained at this
+Station, belonging to about 45 species, of which 15 are new to science, including
+representatives of 3 new genera; 11 of the new species and 2 new genera were not
+obtained elsewhere.
+Surface Organisms.—The following species is recorded from the surface at this ORGANISMS FROM
+SURFACE-NETS.
+Station :
+COPEPODA (Brady, Zool. pt. 23).
+Pontella inermis, n.sp.
+The tow-nets at the surface yielded, among other organisms, many Globigerinæ,
+Aphroditacean larvæ, larval Planarians, Copepods, Zoëæ, while the tow-net at the weights
+brought up a few Challengeride and other Radiolaria.

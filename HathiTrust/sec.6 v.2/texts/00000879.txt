@@ -1,100 +1,104 @@
 SUMMARY OF RESULTS.
-1595
-Mulgrave, Lord, 65, 73.
-Müller, C., 5, 24.
-O. F., 75, 76.
-Muncke, G. W., 67.
-Munopsidæ, 260, 521.
-Münster, Sebastian, 41, 49, 54.
-Mureau, Millet de, 55.
-Murray, George, xxxviii.
-Dr. John, 75.
-John, 84, 91, 101, 104, 106c, 1061, 142, 156,
-184, 186, 188, 189, 218, 222, 254, 262,
-303, 304, 330, 346, 379, 405, 499, 500,
-501, 552, 576, 586, 587, 605, 617, 688,
-755, 760, 774, 775, 790, 794, 844, 845,
-849, 858, 872, 893, 896, 965, 984, 987,
-993, 1020, 1068, 1072, 1092, 1114, 1207,
-1273, 1274, 1456.
-Mrs, xxxix.
-Mussels, 1146, 1156.
-Mutton birds, 523, 526, 1093, 1095, 1099, 1100, 1102,
-1103, 1106, 1107, 1110, 1114, 1128, 1133,
-1134, 1182, 1183, 1198, 1203, 1212, 1222.
-Myrtaceous fruits, 851.
-Mysidæ, 336, 775, 866, 1203, 1207, 1210.
-Myth of Atlantis, 12, 13.
-Myths, 7, 9.
-Myzostomida, 222, 375, 445, 453, 614, 637, 696, 722,
-747, 805, 814, 829, 840, 921, 1295, 1305,
-1319, 1338.
-Nehring, A., 26, 27.
-Nematodes, 251, 595, 681, 802.
-Nemertea, 213, 219, 221, 225, 242, 254, 307, 369,
-370, 435, 464, 478, 479, 489, 519, 522, 537,
-596, 601, 603, 607, 778, 810, 899, 910, 921,
-1135, 1194, 1294, 1305, 1319, 1337, 1446,
-1448, 1450.
-Nephthydæ, 843.
-Nereidæ, 551.
-Neritic organisms, 916.
-Neva, the, 70.
-New Guinea, 44, 47, 69, 852.
-» Hebrides, 48, 665.
-Holland, 48, 69.
-Newton, Isaac, 15, 54, 63, 67.
-New Zealand, 48, 69, 595.
-Niebuhr, B. G., 13.
-Nile, River, 9, 11, 12, 21, 30, 33.
-Noah, 29.
-Noddy terns, 847, 873, 883, 885, 887.
-Nodules of manganese (see Manganese nodules).
-Nomenclature of the oceans, 49, 50, 51, 71, 72.
-Nordenskiöld, A. E., 40, 41.
-Norman, A. M., 106B.
-Norsemen, 31.
-North Atlantic Ocean, 72.
-Cape, 31.
-Sea, 50.
-Northern Ocean, 72.
-Sea of the Great Ocean, 51.
-Northmen, 31.
-Norwegian North Atlantic Expedition, 106a.
-Novara, the, 70, 93.
-Nova Scotia, 222.
-Zembla discovered, 47.
-Nudibranchiata, 189, 315, 322, 346, 381, 389, 448,
-455, 475, 479, 572, 615, 628, 657, 713, 729,
-832, 885, 887, 910, 958, 970, 971, 975, 977,
-993, 999, 1033, 1036, 1152, 1195, 1266, 1287,
-1322, 1452.
-Nuñez, P., 53.
-Nymphon, a thousand specimens captured in one haul,
-1432.
-Nymphonids, 604.
-Nares, G. S., 103.
-Narwhals, food of, 1434.
-Nassellaria, 167, 512, 513, 516, 878, 880, 987, 1007,
-1009, 1040, 1046.
-National, the, 106a.
-Natterer, K., 106c.
-Naturalists' dredge introduced, 76.
-subdivision of work on board among, 1273.
-Nauplius stages, 778, 782, 783, 848, 858, 975, 980.
-of Cirripedia, 525, 932, 965.
-Decapoda, 576.
-Euphausia, 895, 1009.
-Lepas, 262, 980.
-Nautilus, 62, 63.
-Navigator Archipelago, 48.
-Nea Kaŭmena, 61.
-Nearchus, 17.
-Necho, 5, 12.
-Neckham, Alexander, 33.
-Negretti and Zambra's thermometer, 74.
-Observations on colour of the sea, 67 (see also Colour).
-deep-sea fishes, 80, 81.
-temperature, 65.
-marine organisms, 67, 93, 94, 95.
-transparency of sea-water, 67.
+1599
+-
+9
+Pommerania, the, 103.
+Pomponius Mela, 25.
+Pontus Euxinus, 6, 9, 11, 13, 16, 20, 24.
+Pope, The, 45.
+Porcupine, the, 74, 86, 102, 103, 106c, 112, 113, 161,
+162, 172, 176, 179, 192, 194, 202, 217, 221,
+223, 224, 230, 265, 266, 267, 273, 274, 276,
+279, 283, 333, 338, 363, 367, 392, 407, 503,
+693, 821, 921, 1438.
+Porpoise, the, 70.
+Porpoises, 204, 209, 320, 735, 799, 849, 971, 1121,
+1137, 1138.
+Port Churruca, 1159.
+Famine, 1163
+Grappler, 1147.
+Jackson, 552.
+Sharks, 1439.
+Otway, 1139.
+Portugal, King of, 42, 53.
+Portuguese, 42, 43, 44, 45, 52, 53, 64.
+Expeditions, 42, 44.
+Portulani, 39, 53.
+Posidonius, 21, 22, 63.
+Pouchet, G., 499.
+Pourtalès, L. F. de, 89, 97, 98, 99.
+Pourtalès Plateau, 98, 99, 100.
+Precursor of modern sailing directions, 19.
+Predprijätje, the, 70.
+Pressure-gauge lost, 143.
+Prester John, 44.
+Prestwich, J., 65, 96.
+Priapulidæ, 253.
+Prince Edward Island, 430.
+Prince of Monaco's Expeditions, 1061, 106c.
+Princesse Alice, the, 106c.
+Louise, the, 70.
+Prions, 431, 444, 450, 456, 457, 488, 494, 500, 501,
+584, 585, 588, 606, 888, 891, 941, 944, 967,
+969, 989, 1010, 1106, 1114, 1122, 1183, 1212,
+1222.
+Priscianus, 66.
+Progress of Cartography, 52, 53, 72.
+knowledge of Geology, 91.
+regarding composition of sea-
+water, 75.
+deep-sea organisms, 75.
+deep-sea temperature,
+Progress of knowledge regarding tides, 63.
+Prosch, V., 843.
+Protective colouring, 618, 635.
+Protococcaceæ, 1269, 1455, 1456.
+Protophyta of the Pre-Cambrian ocean, 1457, 1458.
+Protozoa, 102, 1273, 1431.
+of the Pre-Cambrian ocean, 1457, 1458.
+Prunoidea, 167, 512, 878, 1039, 1045.
+Psammeticus, 5, 9.
+Pseudopodia in Radiolaria, 1048, 1054.
+Psychrolutidæ, 1440.
+Pteropoda, xxxviii., 86, 110, 111, 119, 121, 124, 133,
+138, 142, 165, 180, 190, 195, 200, 233, 245,
+252, 261, 277, 280, 285, 290, 294, 295, 304,
+315, 320, 322, 327, 334, 353, 366, 388, 425,
+428, 430, 450, 459, 482, 487, 495, 498, 499,
+500, 505, 506, 522, 524, 545, 546, 575, 580,
+584, 617, 618, 621, 639, 642, 661, 664, 670,
+673, 675, 676, 685, 734, 737, 741, 751, 760,
+768, 773, 778, 782, 783, 793, 799, 813, 816,
+835, 838, 845, 848, 858, 863, 866, 868, 869,
+871, 873, 877, 882, 884, 887, 890, 892, 916,
+920, 931, 940, 942, 943, 944, 951, 952, 953,
+960, 964, 965, 967, 968, 970, 975, 977, 980,
+982, 986, 990, 994, 1007, 1008, 1018, 1029,
+1033, 1034, 1048, 1063, 1079, 1082, 1086,
+1089, 1092, 1094, 1096, 1101, 1102, 1105,
+1106, 1108, 1109, 1113, 1114, 1115, 1119,
+1126, 1127, 1174, 1182, 1200, 1201, 1202,
+1203, 1207, 1208, 1209, 1210, 1213, 1215,
+1219, 1221, 1222, 1223, 1225, 1227, 1229,
+1232, 1233, 1235, 1236, 1237, 1245, 1248,
+1251, 1255, 1256, 1257, 1258, 1260, 1262,
+1264, 1266, 1268, 1269, 1456, 1458.
+larvæ of (see Larva).
+Ptolemaic school, 28.
+system of astronomy, 64.
+Ptolemy, 11, 17, 19, 22, 27, 28, 29, 30, 33, 35, 37, 40,
+41, 42, 44, 46, 47, 69.
+views on morphology of the oceans, 28.
+Ptolemy Philadelphus, 19.
+Puehler, Christoff, 56, 57, 88.
+Puerto Bueno, 1154.
+Puffins, 488, 672, 989.
+Pullen, Captain, 74.
+Pumice, 80, 91, 383, 391, 443, 617, 618, 622, 662, 673,
+679, 758, 791, 844, 847, 848, 854, 867, 873,
+883, 891, 917, 933, 946, 954, 961, 964, 969,
+975, 976, 981, 982, 984, 985, 1049, 1058, 1065,
+1086, 1088, 1090, 1122, 1233, 1224, 1225, 1266.
+73.
+depth of the sea, 55.
+sea-weeds, 68.

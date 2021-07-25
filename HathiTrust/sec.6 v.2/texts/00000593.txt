@@ -1,124 +1,134 @@
 SUMMARY OF RESULTS.
-1315
-was taken south of the tropic of Capricorn (S), between the tropies of Capricorn and Cancer
-(T), or north of the tropic of Cancer (N).
+1319
+Trochostoma violaceum, Studer.
+s
 S
-2
-sp. (?). N
-T
+(?) sp.
+S
+* Pista corrientis, n.sp.
+mirabilis, n.sp.
+* Polynoë magnipalpa, n.sp.
+(Macellicephala) mirabilis, n.sp.
+ENTOZOA :
+* Ascaris macruri, n.sp. (parasitic on
+Macrurus).
+S
+s
+S
 *
 S
-*
-S
-S
-S
-*
-sp. (?). S
-S
-S
-sp. (?). S
-S
-MONAXONIDA :
-TETRACTINELLIDA :
-* Pæcillastra tenuilaminaris, 1.sp. N
-* Amphilectus annectens, n.sp.
-* Tetilla leptodermu, n.sp.
-S
-Asinella erecta (Carter). S
-pedifera, n.sp.
-T
-(?) tubulosa, 1.sp.
-* Chondrocladia clavata, n.sp.
-Thenea schmidtii, n.n. Τ Ν
-Ciocalypta amorphosa, n.sp.
-hyaloderma, n.sp.
-S
-HEXACTINELLIDA :
-* Cladorhiza pentacrini, n.sp.
-Aulochone cylindrica, n.g., n.sp.
-S
-Esperella lapidiformis, n.sp.
-lilium, n.g., n.sp.
-T
-Esperiopsis challengeri, n.sp. T
-var. meangensis, nov.
-* Chonelasma hamatum, n.g., n.sp.
-S
-* Gellius calyx, n.sp.
-lamella, n.g., n.sp.
-SN
-carduus, n.sp.
-S
-Euplectella suberea, n.sp.
-flabelliformis, n.sp.
-TN
-læris, n.sp.
-* Euryplegma auriculare, n.g., n.sp. S
-Farrea occa (Bowerbank), Carter. ST
-* Ilalichondria latrunculioides, n.sp.
-* Hyalonema lusitanicum, Bocage. N
-* Poliopogon gigas, n.g., n.sp.
-S
-Rossella antarctica, Carter. s
-Iophon chelifer, n.sp. s
-Latrunculia apicalis, n.sp.
-Tægeria pulchra, n.g., n.sp).
-T
-S
-* Walteria flemmingii, n.g., n.sp.
-s
-brevis, n.sp.
-* Vyxilla compressa, n.sp.
-frondosa, n.sp.
-S
-ALCYOXARIA:
-hastata, n.sp.
-S
-* Acanthogorgia longiflora, n.sp. T
-nobilis, n.sp.
-S
-* Anthomastus steenstrupi, n.sp.
-spongiosa, n.sp.
-S
-Calyptrophora japonica, Gray.
-* Phelloderma radiatum, n.g., n.sp.
-wyrillei, n.sp.
-Polymastia corticata, n.sp. T
-Ceratoisis grandiflora, Studer.
-* Suberites axiatus, n.sp.
-S
-* Dasygorgia acanthella, p.sp.
-caminatus, n.sp.
-s
-axillaris, n.sp.
-ST
-S
-mollis, n.sp.
-expansa, n.sp.
-ramulosus, n.sp
-T
-squarrosa, n.sp
-s
-Tedania massa, n.sp.
-s
-* Primnoella magellanica, Studer.
-Vomerula esperioides, n.sp.
-murrayi, n.sp.
-Primnoisis rigida, n.g., n.sp.
-sp. (?).
-. S
-72 72
-*
 N
+SN
+s
+NEMERTEA :
+Cerebratulus macroren, n.sp.
+* Eupolia australis, n.g., n.sp.
+giardii, n.g., n.sp.
+Pelagonemertes rollestoni, n.g., n.sp.
+(surface ?). SN
+S
+S
+Polynoella levisetosa, n.g., n.sp.
+* Praxilla (?) sp.
+N
+* Sabella assimilis, n.sp.
+Scalibregma inflatum, Rathke.
+Syllis robertianæ, n.sp.
+* Terebella kermadecensis, n.sp.
+(Lanice) sp. (?). N
+* Terebellides (?) sp.
+* Thelepus marenzelleri, n.sp.
+S
+S
+s
+s
+GEPHYREA :
+* Phascolosoma prioki, Sluiter.
+* Sternaspis princeps, n.sp.
+N
+T
+S
+T
+T
+TN
+s
+2
+ANNELIDA :
+Aricia norvegica, Sars.
+* Chatozone pacifica, n.sp.
+Ehlersiella utlantica, n.g., n.sp.
+Eulagisca corrientis, n.g., n.sp.
+Genetyllis (?) oculata, n.sp.
+Hyalinæcia tubicola, Müller. STN
+var. longibranchiata,
+N
+27
+S
+MYZOSTOMIDA:
+Myzostoma asymmetricum, n.sp.
+calycotyle, n.sp.
+cornutum, Graff. N
+deformator, n.sp.
+ST
+echinus, n.sp.
+T
+elongatum, Graff.
+fissum, n.sp.
+labiatum, n.sp.
+murrayi, n.sp.
+pentacrini, n.sp.
+tenuispinum, n.sp. ST
+willemoesii, n.sp.
+wyville-thomsoni, n.sp. T
+T
 *
 T
-S
-S
-***
 T
-S
-S
+2
 T
+17
+ST
+nov.
+T
+T
+ů
+s
+"
+S T
+N
+var.
+Iphionella cimex (Quatrefages).
+* Lænilla fusca, n.sp.
+* Lætmonice aphroditoides, n.sp.
+producta, Grube,
+willemoesi, nov. STN
+* Lagisca (?) kermadecensis, n.sp.
+* Lanassa sarsi, n.sp.
+Leanira hystricis, Ehlers. N
+* Lumbriconereis neo-zealania, n.sp.
+* Nicidon balfouriana, n.sp.
+Nothria conchylega, Sars.
+minuta, n.sp.
+tenuisetis, n.sp.
 S
+OSTRACODA:
+Bairdia formosa, Brady.
+victrix, Brady.
+S
+Τ Ν
+STN
+sp. (?). N
+VA
+S
+ST
+STN
+N
+Bythocypris reniformis, n.g., n.sp.
+Cythere acanthoderma, n.sp.
+adunca, Brady. T
+dasyderma, n.sp.
+dictyon, n.sp.
+S TN
 s
-s
+S T
+S TN

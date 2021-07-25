@@ -1,184 +1,182 @@
-1478
+1482
 THE VOYAGE OF H.M.S. CHALLENGER.
-Bifaxaria-continued.
-corrugata, 363, 1351.
-denticulata, 1191, 1323.
-lævis, 842, 1323.
-minuta, 260, 1297.
-papillata, 767, 1323.
-reticulata, 152, 257, 1287, 1289,
-1297.
-submucronata, 363, 1351.
-Biflustra, 545.
-savartii, 833, 1411.
-Bifrontia,
-pernambucensis, 360, 1345.
-Bigenerina,
-capreolus, 115, 124, 134, 139, 166,
-181, 196, 354, 1131.
-digitata, 640.
-nodosaria, 134.
-pennatula, 124, 134, 166, 181,
-354.
-Bathytroctes,
-macrolepis, 772, 1287.
-microlepis, 120, 772, 1310.
-rostratus, 352, 1324.
-Batrachus,
-diemensis, 715, 1416.
-Bdelloidine,
-aggregata, 181, 196.
-Baellostoma,
-cirrhatum, 415, 599, 1416, 1428,
-polytrema, 1121, 1416.
-Bebryce,
-philippii, 719, 1365.
-Bela (see Pleurotoma).
-Bellerochia,
-malleus, 733.
-Bellerophina, 293, 1308.
-Bellonella,
-bocagei, 269, 1330
-Belonaspis,
-conifera, 1019.
-datura, 1046.
-lanceolata, 920.
-multiforis, 1251.
-pandanus, 1108.
-Belone,
-annulata, 660, 716, 1416, 1428.
-jonesi, 246, 1416.
-luiroides, 862, 1416.
-strongylurus, 716, 1416.
-trachura, 1240, 1416.
-Belonozoum,
-atlanticum, 1254.
-bacillosum, 1044.
-Belonostaurus,
-bicuspis, 1006.
-quadratus, 1046.
-Belostoma, 380.
-Bembis,
-æola, 900, 919, 1322, 1326, 1345.
-Bembix (sce Trochus).
-Benthaster,
-penicillatus, 855, 955, 1303.
-wyville-thomsoni, 955, 1278.
-Bentheocaris,
-exuens,
-1089.
-stylorostratis, 151, 1296.
-Benthesicymus,
-altus, 386, 615, 620, 638, 680,
-792, 841, 900, 918, 1296, 1299,
-1300, 1301, 1307, 1311, 1312,
-1313, 1320, 1325, 1326, 1341,
+Campylodiscus-continued.
+robertsianus, 812.
+samoensis, 911.
+tæniatus, 938.
+thuretii, 278, 287.
+undulatus, 812, 904, 911, 938.
+Campyloneis,
+grevillei, 424, 938.
+Campylonotus, 1361.
+capensis, 358, 437, 1341, 1356.
+semistriatus, 1143, 1145, 1148,
+1152, 1155, 1157, 1161, 1341,
 1356.
-brasiliensis, 602, 633, 674, 680,
-1088, 1199, 1286, 1288, 1289,
-1290, 1296, 1299, 1301, 1307,
-1311, 1313, 1341.
-crenatus, 1049, 1066, 1279, 1280,
-1286.
-iridescens, 386, 1296.
-Benthesicymus-continued.
-mollis, 386, 1296.
-pleocanthus, 163, 792, 972, 1307,
-1313, 1341.
-Bentheuphausia,
-amblyops, 335, 395, 520, 1295,
-1298, 1299, 1307.
-Benthodytes,
-abyssicola, 1117, 1285.
-mamillifera, 1108, 1117, 1124,
-1285, 1288.
-papillifera, 679, 1035, 1129,
-1285, 1289, 1305, 1310.
-sanguinolenta, 519, 527, 1108,
-1117, 1278, 1280, 1281, 1285,
-1288.
-var, marginata, 1294.
-selenkiana, 1059, 1278.
-sordida, 503, 508, 519, 1117,
-1285, 1288, 1294, 1298.
-typica, 120, 1305.
-Beroë, 119, 546, 552, 885, 887, 1115,
-1195, 1207, 1209.
-Beryx, 902.
-decadactylus, 901, 1353,
-Betæus,
-malleodigitus, 648, 1387.
-microstylus, 699, 1387.
-Bezoardica (see Cassis).
-Bicellaria, 1081.
-bella, 767, 1323.
-glabra, 378, 1411.
-infundibulata, 454, 504, 1297,
-1298.
-macilenta, 767, 1323.
-moluccensis, 767, 1323.
-navicularis, 363, 1216, 1287,
-1290, 1351,
-pectogemma, 440, 485, 491, 1351,
-1357, 1360, 1411.
-Biddulphia, 303, 812.
-aurita, 220, 287, 931, 939.
-chinensis, 733, 931.
-grundleri, 905.
-indica, 733.
-longicruris,
-var. japonica, 931.
-mobiliensis, 287.
-pulchella, 191, 198, 278, 287,
-303, 760, 905, 911, 939, 1028.
-reticulata, 812, 931, 939.
-forma subquadrata, 931.
-rhombus, 939.
-roperiana, 443, 481, 492.
-tridentata, 939.
-tuomeyii, 191, 198, 287, 303, 812.
-weissflagii 492, 515.
-Bifaxaria,
-abyssicola, 978, 1191, 1279, 1282,
-1323, 1447.
-robusta, 166, 181, 1131.
-Biloculina, 261, 353, 716, 948, 1066.
-bulloides, 115, 211, 285, 291,
-423, 426, 449, 580, 640, 1066,
-1216.
-comata, 115, 133, 165, 180, 580,
-604, 857.
-depressa, 115, 139, 145, 152, 165,
-180, 190, 200, 211, 215, 261,
-285, 294, 319, 342, 353, 426,
-429, 449, 480, 486, 511, 522,
-529, 580, 587, 588, 604, 630,
-639, 640, 663, 671, 685, 843,
-857, 876, 903, 936, 949, 956,
-964, 979, 1026, 1036, 1066,
-1078, 1084, 1091, 1104, 1111,
-1130, 1136, 1153, 1162, 1200,
-1216, 1225, 1230, 1247, 1253.
-var. murrhyna, 211, 261,
-449, 511, 529, 604, 663,
-671, 876, 936, 1036, 1066,
-1084, 1091, 1104, lill,
-1130, 1200, 1230.
-var. serrata, 215, 319, 449,
-604, 857, 936, 1066,
-1130.
-elongata, 124, 180, 198, 353, 480,
-492, 640, 1084, 1104, 1111,
-1162.
-irregularis, 133, 165, 180, 261,
-294, 353, 449, 611, 587, 604,
-639, 640, 857, 964, 1126.
-lævis, 180.
-ringens, 115, 124, 133, 145, 181,
-190, 195, 198, 200, 211, 215,
-285, 353, 423, 449, 480, 511,
-580, 604, 610, 630, 640, 685,
-716, 956, 964, 1071, 1130,
-1153, 1158, 1162, 1172, 1225,
-1253.
-1
+vagans, 1152, 1341.
+Canarium (see Strombus).
+Cancellaria, 361, 1345.
+exigua, 579, 1345.
+imbricata, 422, 1345.
+spengleriana, 909, 1399.
+undulata, 568, 1399.
+(Admete), 473, 1399.
+carinata, 473, 1399.
+specularis, 473, 490, 1399, 1426.
+Cancer, 600, 1452.
+longipes, 1120, 1390.
+Cancilla (see Mitra).
+Canda, 1451.
+arachnoides, 543, 1411.
+simplex, 210, 1297.
+Candace,
+pachydactyla, 314, 575, 585, 660,
+835, 1003, 1208, 1210, 1263,
+1266.
+pectinata, 314, 545, 552, 575,
+675, 799, 835, 940, 1255, 1257,
+1258, 1260, 1261.
+truncata, 449, 500, 660, 675, 773,
+778, 799, 835, 986, 1237, 1266.
+Candeina,
+nitida, 153, 167, 182, 354, 631,
+640, 664, 687, 843, 1078, 1085,
+1132, 1226, 1229, 1231.
+Cannartidium,
+amphiconicum, 879.
+amphisiphon, 183.
+bicinctum, 1217.
+mammiferum, 879, 1022.
+mastophorum, 1015.
+Canpartiscus,
+amphiconiscus, 979.
+amphicylindrus, 1022.
+Cannartus,
+biscottus, 1254.
+bitubulus, 1217.
+violina, 1022, 1039.
+Cannobelos,
+calymmata, 1006, 1008, 1013,
+1018, 1020, 1024, 1029, 1033,
+1047, 1054, 1057, 1062.
+thalassoplaneta, 1251.
+Cannobotrys,
+cortina, 1006, 1011, 1016, 1023,
+1027, 1031, 1041, 1051, 1056,
+1060.
+monocanna, 1041, 1046, 1250.
+pentacanna, 880.
+sagittalis, 1060.
+tetracanna, 980.
+tricanna, 1011.
+Cannocapsa,
+stethoscopium, 1221.
+tubulosa, 1184.
+Cannopilus,
+cyrtoides, 1017.
+diplostaurus, 882.
+Cannorrhaphis,
+lampoxanthium, 1098.
+lappacea, 1047.
+spinulosa, 958.
+Cannosphæra,
+antarctica, 512, 513.
+atlantica, 1250.
+pacifica, 1032, 1043, 1052, 1056,
+1061.
+Cantharospyris,
+carabus, 1023, 1231.
+platybursa, 1041.
+Cantharus, 1440.
+Cantharus (see Pisania).
+Caprella, 379, 418, 479, 797, 799, 836,
+868, 870, 1029, 1141.
+danilevskij, 243, 1385.
+equilibra, 428, 835.
+scaura, 908, 1385.
+Caprellinoides, 1361.
+tristanensis, 394, 1340.
+Capulus, 655, 1243, 1345, 1399.
+compressus, 1161, 1345.
+japonicus, 861, 1399.
+(Amathina),
+tricarinatus, 709, 910, 1399, 1426.
+Caranx,
+armatus, 715, 1417.
+ascensionis, 340, 1240, 1417,
+1428.
+caballus, 246, 1417.
+crumenophthalmus, 313, 861,
+1001, 1417, 1428.
+georgianus, 1115, 1417.
+hippos, 1001, 1076, 1417.
+muroadsi, 927, 1417.
+speciosus, 658, 715, 1417, 1428.
+Carbasea,
+cribriformis, 713, 730, 1411, 1427.
+dissimilis, 534, 543, 550, 767,
+1323, 1326, 1327, 1351, 1360,
+1411, 1427.
+elegans, 543, 1173, 1411, 1427.
+moseleyi, 616, 1323.
+ovoidea, 440, 475, 1138, 1153,
+Carbasea ovoidea-continued.
+1165, 1179, 1351, 1357, 1360,
+1411, 1427.
+pedunculata, 276, 280, 1323,
+1326, 1351.
+pisciformis, 543, 1411.
+Carcharias, 852, 887, 890, 1005.
+brachyurus, 168.
+glaucus, 892, 893, 1207.
+lamia, 617, 642, 676, 775, 794,
+869, 872, 873, 920.
+obscurus, 1240, 1255, 1417, 1428.
+Carcharodon, 976, 1080, 1087.
+megalodon, 1080.
+Carchesium, 734, 773, 1193, 1201, 1209.
+Cardenio, 1429.
+paurodactylus, 468, 1385.
+Cardiopoda, 143, 790, 845, 871, 882,
+887, 890, 973, 975.
+placenta, 737, 741.
+Cardiosoma,
+armatum, 311, 1390.
+carnifex, 648,860,1075,1390,1425.
+guanhumi, 244, 1390.
+Cardita, 564, 1394.
+astartoides, 472, 485, 1343, 1359,
+1394.
+beddomei, 540, 1394.
+bimaculata, 540, 1394.
+calyculata, 127, 540, 1394, 1425,
+1447.
+canaliculata, 820, 1394.
+dilecta, 540, 1394.
+excavata, 564, 1394.
+insignis, 727, 1394.
+(Thecalia),
+concamerata, 412, 1394.
+Carditella,
+angasi, 564, 1394.
+capensis, 412, 1394.
+exulata, 395, 1343.
+infans, 727, 1394.
+torresi, 704, 727, 1394, 1425.
+Cardium,
+(Acanthocardium),
+papillosum, 127, 272, 1343, 1359
+1394.
+setosum, 820, 1394.
+sueziense, 650, 1394.
+(Bucardium),
+australe, 650, 806, 1394, 1425.
+mirabile, 786, 1394.
+multispinosum, 726, 1394, 1425.
+pulchellum, 533, 540, 564, 1394,
+1425.
+tenuicostatum, 564, 806, 1394,
+1425.
+(Fragum),
+fornicatum, 626, 1394.
+imbricatum, 704, 1394.

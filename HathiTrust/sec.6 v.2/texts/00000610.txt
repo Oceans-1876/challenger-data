@@ -1,114 +1,127 @@
-1332
+1336
 THE VOYAGE OF H.M.S. CHALLENGER.
+T
+T
+s
+T
+S
+T
+S
 *
 S
-var.
 T
+1
+* Ophiomusium serratum, n.sp.
+Catopygus recens, n.sp.
+simplex, n.sp.
 T
-s
+Colopleurus muillardi (Michelin). T
+T
+validum, Ljungman. T
+* Cottaldia forbesiana, n.sp.
+Ophiomyxa australis, Lütken. ST Dorocidaris (Cidaris) bracteata, n.sp. T
+vivipara, Studer.
 S
+( ) papillata (Leske).
+S T N
+Ophionereis dubia (Müller and Troschel).
+Echinanthus testudinarius, Gray. S
+Τ Ν
+* Ophiopeza æqualis, n.sp.
 T
+* Echinocardium flavescens (Müller). S
+aster, n.sp.
 S
-T
+Echinocyamus pusillus (Müller). T
+yoldii, Lütken.
 s
-Antipathella contorta, n.g., n.sp.
-s * Caryophyllia clavus, Scacchi, var, smithi,
-minor, n.g., n.sp.
-Duncan.
-(?) speciosa, n.g., n.sp.
+Echinolampas oriformis (Gmelin). T
+* Ophiopyren brevispinus, n.g., n.sp.
+T
+STN
+Echinus acutus, Lamarck.
+longispinus, n.g., n.sp. TN
+elegans, Düben and Koren. S TN
+horridus, 1.sp.
 S
-[Antipathes] cylindrica, n.sp.
-transversalis, nov.
-Aphanipathes cancellata, 1.g., n.sp. T
-communis (Seguenza). S N
-sarothamnoides, n.g., n.sp.T
-cylindracea, Reuss. N
-Cladopathes plumosa, n.g., n.sp.
-s
-lævicostata, n.sp.
-* Dendrobrachia fallax, n.g., n.sp.
+* Ophiopyrgus vyrille-thomsoni, n.g., n.sp.T *
+* Ophiosciasma attenuatum, n.g., n.sp.
+magellanicus, Phil.
+* Ophioscolex dentatus, 1.sp.
+S
+margaritaceus, Lamarck.
+tropicus, n.sp.
+norvegicus, Dübenand Koren. SN
+Ophiothamnus remotus, 11.81).
+S
+S
+Fibularia australis, Desmoulins.
+vicarius, Lyman. T Goniocidaris canaliculata, Agassiz.
+Ophiothrix aristulata, n.sp.
+florigera, n.sp.
+Hemiaster carernosus (Phil.).
+capillaris, n.sp.
+gibbosus, n.sp.
+Τ Ν
+lütkeni, Wyville Thomson. N * Homolampas fragilis, Agassiz.
+* Ophiozona antillarum, n.sp.
+* Linopneustes murrayi, n.g., 1.sp.
+Τ Ν
+(?) dubia, Lyman. T
+Maretia alta, Agassiz. T
+insularia, n.sp.
 T
-maculata (Pourtalès). S T
-Schizopathes conferta, n.g., n.sp.
-paucipalata, n.sp. T
-Taxipathes recta, n.g., n.sp.
+Micropyga tuberculata, n.g., 1.sp).
 T
-profunda, n.sp.
+nivea, Lyman.
+* Moiropsis claudicans, n.g., 0.sp.
+T
+* Palæotropus loveni, n.sp.
+T
+ECHINOIDEA :
+Peronella decagonalis (Lesson).
+Aërope rostrata, n.g., n.sp.
+Τ Ν
+Phormosoma bursarium, n.sp.
+Τ Ν
+Arbacia dufresnii (Bl.). S
+hoplacantha, n.sp.
+SN
+Aspidodiadema microtuberculatum, n.g.,
+luculentum, n.sp.
+n.sp.
 ST
-T
-Tylopathes crispa, n.g., n.sp.
-rugosa, n.sp.
-Cladocora arbuscula, M.-Edwards and
-Haime. SN
-ACTINIARIA:
-Cryptohelia pudica, M.-Edwards and
-* Adamsia (?) sp.
-Haime. S TN
-* Corynactis (?) sp.
-T
-Cyathoceras cornu, n.g., n.sp.
-* Leiotealia nymphæa (Drayton). S
-pubescens, n.g., n.sp.
-Liponema multiporum, n.g., n.sp.
-SN
-Deltocyathus italicus, M.-Edwards and
-* Phellia pectinata, n.sp.
+* Podocidaris sculpta, Agassiz.
+Asthenosoma coriaceum, n.sp.
+Porocidaris elegans, n.sp.
+gracile, n.sp.
+ST
+Pourtalesia laguncula, n.sp.
+S TN
+pellucidum, n.sp.
+Prionechinus sagittiger', n.g., n.sp. S T
+tessellatum, n.sp.
+Salenia hastigera, n.sp.
+S T N
+Brissopsis luzonica (Gray). STN
+varispina, Agassiz. TN
+lyrifera (Forbes). S
+Salmacis dussumieri, Agassiz. T
+* Brissus damesi, n.sp.
+Τ Ν
+Schizaster fragilis(Dübenand Koren). S N
 S
-Haime. S TN
-spinifera, n.sp.
-var. calcar, nov.
-* Sagartia sp. (?).
-. T
-magnificus, n.sp.
-Scytophorus striatus, n.g., n.sp.
-Dendrophyllia cornigera, Blainville.
-* Stephanactis tuberculata, n.g., n.sp.
-* Desmophyllum cailleti, Duchassaing and
-* Actinian undetermined.
-Michelotti. T
-eburneum, n.sp.
-CORALS :
-ingens, n.sp.
-S
-Acanthocyathus dentatus, 11.sp.
-Errina labiata, n.sp.
-S
-spinicarens, n.sp.
-Flabellum apertum, n.sp.
-SN
-Astræa abyssorum, n.sp. T
-australe, n.sp.
-* Acohelia dumetosa, Duchassaing. N
-japonicum, n.sp.
-N
-* Balanophyllia cornu, n.sp. T
-patagonichum, n.sp.
-malaccensis, Kent. T
-patens, n.sp.
-T
-parvula, n.sp.
-Lophohelia arbuscula, n.sp. T
-candida, n.sp.
-T
-Bathyactissymmetrica (Pourtalès). S T N *
-prolifera, M.-Edwards and
-* Caryophyllia clavus, Scacchi, var, borealis,
-Haime. ST
-Duncan. S TN *
-var. epithecata, * Odontocyathus coronatus (Pourtalès). T
-Duncan. * Pleurocyathus brunneus, n.g., n.sp.
-T
-s
-T
-N
-T
-S
+berberis, n.sp.
 T
 T
-S
 T
-rediviva, n.sp.
 T
-tenuis, n.sp.
+.
+T
+T
+T
+T
+T
+ST
 T
 T

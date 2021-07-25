@@ -1,93 +1,55 @@
 SUMMARY OF RESULTS.
-1027
+1029
 STATION 269.
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Cenosphæra hexagonalis, Haeckel.
-Carposphæra melitomma, Haeckel.
-Chenicosphæra flammabunla, Haeckel.
-Solenosphæra pandora, Haeckel.
-megalactis, Haeckel.
-Otosphæra auriculata, Haeckel.
-Coronosphæra diadema, Haeckel.
-Xanthiosphæra lappacea, Haeckel.
-Hecalonche phænaxonia, Haeckel.
-cristata, Haeckel.
-Acanthosphæra tenuis, Haeckel.
-Haliomma compactum, Haeckel.
-Lithatractus carduelis, Haeckel.
-lobatus, Haeckel.
-jugatus, Haeckel.
-Cyphonium profundum, Haeckel.
-Heliodiscus trigonodon, Haeckel.
-Archidiscus polythalamus, Haeckel.
-Axoliscus spinosus, Haeckel.
-Stylodictya centrospira, Haeckel.
-Archicircus princeps, Haeckel.
-primordialis, Haeckel.
-Cortina dendroides, Haeckel.
-Clathrocircus multiforis, Haeckel.
-Toxarium circospyris, Haeckel.
-Dorcadospyris dentata, Haeckel.
-Aegospyris æquispina, Haeckel.
-Botryopera cyrtoloba, Haeckel.
-Cannobotrys cortina, Haeckel.
-Acrobotrys disolenia, Haeckel.
-Lithomelissa bütschlii, Haeckel.
-Psilomelissa calvata, Haeckel.
-Lychnodictyum wyvillei, Haeckel.
-Sethophormis aurelia, Haeckel.
-Sethamphora costata, Haeckel.
-Anthocyrtis lauranthus, Haeckel.
-Anthocyrtium leptostylum, Haeckel.
-flosculus, Haeckel.
-Sethocyrtis oxycephalis, Haeckel.
-Sethocorys patrocli, Haeckel.
-Dictyocephalus amphora, Haeckel.
-Sethocapsa pyriformis, Haeckel.
-Cryptocapsa pila, Haeckel.
-Dictyoceras insectum, Haeckel.
-Pterocanium orcinum, Haeckel.
-Podocyrtis tripodiscus, Haeckel.
-costata, Haeckel.
-scaphopodia, Haeckel.
-Theopera fusiformis, Haeckel.
-Cycladophora gatheana, Haeckel.
-pantheon, Haeckel.
-Theocyrtis microtheca, Haeckel.
-Tricolocampe cylindrica, Haeckel.
-polyzona, Haeckel.
-arcta, Haeckel.
-Theocampe sphærothorax, Haeckel.
-Theocapsa darvinii, Haeckel.
-Lithomitra noclosaria, Haeckel.
-Eucyrtidium heragonatum, Haeckel.
-teuscheri, Haeckel.
-DIATOMACEÆ.—The following species were observed by Mr. Comber and Mr. Rattray.
-Navicula distans, Ralfs.
-prætexta, Ehrenberg.
-aspera, Ehrenberg
-pandura, Brebisson.
-lyra, Ehrenberg, var. abnormis, Schmidt (?).
-Nitzschia marina, Grunow.
-panduriformis, Gregory.
-Synedra doliolus, Wallich.
-ulna, Ehrenberg.
-vitrea, Kutzing, forma angustior tenuirostris,
-Grunow.
-Actinocyclus ellipticus, Grunow ( = Cestodiscus ovalis,
-Greville)
-denticulatus, Castracane.
-Actinocyclus elongatus, Grunow (= Coscinodiscus
-humilis, Rattray, Willemoesia,
-Castracane).
-oliveranus, O'Meara.
-ehrenbergii, Ralfs.
-sp. (?).
-Asterolampra marylan lica, Ehrenberg.
-Asteromphalus elegans, Greville.
-hiltonianus, Ralfs.
-brookei, Bailey.
-shandboltianus, Ralfs.
-humboldtii, Ehrenberg.
-Actinoptychus undulatus, Ehrenberg.
-Campylodiscus limbatus, Brebisson.
+Icosaspis cruciata, Haeckel.
+Dendrocircus arborescens, Haeckel.
+Protympanium primordiale, Haeckel.
+Anthospyris aculeata, Haeckel.
+Arachnocalpis sphæroides, Haeckel.
+Cornutella hexagona, Haeckel.
+Tripocyrtis tripodiscus, Haeckel.
+Eucecryphalus halicalyptra, Haeckel.
+Carpocanium irregulare, Haeckel.
+Sethoconus trochus, Haeckel.
+Sethoconus pileus, Haeckel.
+rayianus, Haeckel.
+setosus, Haeckel.
+Pterocorys campanula, Haeckel.
+Theopilium tricostatum, Haeckel.
+Cannobelos calymmata, Haeckel.
+Sagoscena debilis, Haeckel.
+Gazelletta robusta, Haeckel.
+Castanidium willemoesi, Haeckel.
+SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
+Cuneolaria incisa, Eysenhardt (?).
+MACRURA (Spence Bate, Zool. pt. 52).
+Mastigopus crassus (Suhm, MS.), n.sp.
+COPEPODA (Brady, Zool. pt. 23).
+Saphirina metallina, Dana.
+PTEROPODA (Pelseneer, Zool. pt. 65).
+Cavolinia longirostris (Lesueur).
+CIRRIPEDIA (Hoek, Zool. pt. 25).
+Lepas hilli (Leach). (From screw).
+Chthalamus challengeri, n.sp. (From
+screw).
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Chiroteuthis (?) sp. (From stomach
+of shark).
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Paraphronima cuivis, n.sp.
+FISHES (Günther, Zool. pt. 78).
+Diplophos pacificus, n.sp., (young).
+In addition, the following are recorded in the note-books :-Pyrocystis (two
+forms), Peridinium, Diatoms, Globigerina, Pullenia, Pulvinulina, Echinoderm larvæ,
+Sagitta, Annelid larvæ, Zoëæ, various Pteropods, Doliolum, Appendicularia, and fish
+eggs. Sharks and flying fishes were seen, and several sharks were caught, having fish
+remains, parts of a large cuttle-fish, pieces of pork, rope, &c., in their stomachs; one of
+them had several specimens of Echinorhynchus in the intestine. The screw was taken
+up, after having been down for a long time, and on it were found small Balanids, a few
+specimens of Lepas, Caprella, and small polyps.
+Station 270 (Sounding 412), Sandwich Islands to Tahiti (see Chart 38 and Station 270.
+Diagram 19).
+September 4, 1875 ; lat. 2° 34' N., long. 149° 9' W.
+Temperature of air at noon, 81°:5; mean for the day, 78°:7.
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+130

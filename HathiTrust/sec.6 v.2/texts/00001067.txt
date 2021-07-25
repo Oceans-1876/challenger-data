@@ -1,21 +1,20 @@
+OF THEN AT
 
-5 AT DEPTH OF 1500 FATHOMS
-35:3
-o
+DEPTH OF 2200 FATHOMS -
+35° 2
 40
 30
-20
+30
 10
-0
+o
+Oceanic Circulation Map 14
 10
 20
 30
-Oceanic Circulation.
 40
 50
-30
+60
 70
-Map 13.
 80
 90
 100
@@ -24,56 +23,61 @@ Map 13.
 130
 140
 150
-160
+180
 80
-29
-30
-Arctic Circle
 70
-36%
+Arctic Circle
 50
-3735
+18
+Tg
 40
-04
-10
-ao
-37°
-20
-356
-10
-38
-10
-35°
-20
-38°
-355
-355
+10.
+24.
 30
-Le
-360
+12
+10
+20
+10
+12
+04
+IO
+11.
+12
+no
+13.
+13.
+-13
+10
+.18
+20
+30
+26
+25 12
+10
+26.
+N
 40
-35
-35°
+9
+W
 50
 60
 EXPLANATION OF COLOURING
+Ecoo Feet
 Contours showing
-Height of Land
-6000 Feet
-70
+Height at Land
 3000
+70
 SEA LEVEL
-100 Farthoms
-800
-Contours showing
-Depth of Seå
-LOOO
+100 Fathoms
+300
+Contou's showing
+Depth of Sei
+1000
 1500
-0
+40
 30
 20
 10
-o
 10
 20
 30
@@ -82,14 +86,13 @@ o
 60
 70
 80
-20
+00
 100
-wn. thus
-110
+no
 120
 130
 140
-250
-160
-Isothermals below Average shown in Blue thus.
-Bartholomew, Edin!
+150
+180
+Eer shown thus
+Bartholomew, Edin?

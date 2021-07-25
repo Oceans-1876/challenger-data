@@ -1,88 +1,55 @@
-1006
+1008
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 263.
-ORGANISMS FROM
-THE DEPOSIT.
-RADIOLARIA (Haeckel, Zool. pt. 40).—The following species of Radiolaria were observed
-in the deposit from this Station :
-Thecosphæra dodecactis, Haeckel.
-Lychnocanium lanterna, Haeckel.
-Solenosphæra megalactis, Haeckel.
-Sethophormis aurelia, Haeckel.
-Xanthiosphæra capillacea, Haeckel.
-Sethopyramis spinosa, Haeckel.
-lappacea, Haeckel.
-Anthocyrtium adonis, Haeckel.
-Hexacromyum octahedrum, Haeckel.
-hispidum, Haeckel.
-Lithocyclia heteropora, Haeckel.
-Sethocyrtis oxycephalis, Haeckel.
-Amphiactura amphibrachia, Haeckel.
-Sethocorys patrocli, Haeckel.
-Archidiscus tetroniscus, Haeckel.
-Sethocapsa pyriformis, Haeckel.
-Tripodictya tribelonia, Haeckel.
-Dictyoceras insectum, Haeckel.
-Stylodictya centrospira, Haeckel.
-Pterocanium orcinum, Haeckel.
-Amphirrhopalum amphidicranum, Haeckel.
-Podocyrtis scaphopodia, Haeckel.
-Pentalastrum astropecten, Haeckel.
-Dictyopodium eurylophus, Ehrenberg.
-Larcidium octacanthum, Haeckel.
-Theopera fusiformis, Haeckel.
-Larnacal pis triaxonia, Haeckel.
-Rhopalocanium lasanum, Haeckel.
-Larnacantha hexacantha, Haeckel.
-Rhopalatractus fusiformis, Haeckel.
-prismatica, Haeckel.
-Alacorys dodecantha, Haeckel.
-Trizonium hexabelonium, Haeckel.
-Cycladophora pantheon, Haeckel.
-Zoniscus octacanthus, Haeckel.
-Clathrocyclas domina, Haeckel.
-Streblonia pulvinulina, Haeckel.
-Hexalatractus sexalatus, Haeckel.
-Zygocircus dodecanthus, Haeckel.
-Theocyrtis microtheca, Haeckel.
-Clathrocircus multiforis, Haeckel.
-Theosyringium tibia, Haeckel.
-Coronidium dyostephanus, Haeckel.
-Theocorys ovuta, Haeckel.
-Parastephanus circularis, Haeckel.
-Theocampe sphxrothorax, Haeckel.
-Dipospyris forcipata, Haeckel.
-Theocapsa darwinii, Haeckel.
-Tholospyris galeata, Haeckel.
-Artopilium longicorne, Haeckel.
-Nephrospyris cordata, Haeckel.
-Lithomitra nodosaria, Haeckel.
-Cannobotrys cortina, Haeckel.
-Orosphæra clavigera, Haeckel.
-Psilomelissa calvata, Haeckel.
+STATION 264.
+Depth, 3000 fathoms; deposit, Red Clay, containing only a trace of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+.
+At 4.10 A. M. shortened and furled sails. Got up steam. At 5 A.M. put trawl over,
+with two tow-nets attached and a tow-net at the weights, and veered 3000 fathoms.
+At 6.30 A.M. brought ship to wind, and at 7 A.M. sounded in 3000 fathoms. Veered
+trawl-rope to 3700 fathoms. Obtained serial temperatures down to 1500 fathoms.
+At 1 P.M. commenced heaving in trawl, which came up much torn at 4.30 P.M., but
+containing a few manganese nodules and specimens. At 6 P.m. made all plain sail. A
+few gannets were seen.
+Venus Point, Tahiti, distant at noon, 1920 miles. Made good 84 miles. Amount
+of current 33 miles, direction S. 58° W.
+ANIMALS FROM
+TRAWL.
+The following species is recorded from the trawl at this Station :-
+MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
+Cladorhiza longipinna, n.sp. One specimen ; obtained at no other locality.
+In addition, the Station-Book records a fragment of Euplectella and a large specimen
+of Stephanoscyphus attached to manganese nodule.
 ORGANISMS FROM
 SURFACE-NETS.
-Surface Organisms.—The following species are recorded from the surface at this
-Station :-
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Sethoconus pileus, Haeckel.
-Acanthosphæra capillaris, Haeckel. Theopilium tricostatum, Haeckel.
-Xiphatractus glyptodon, Haeckel.
-Theocampe cryptoprora, Haeckel.
-Trizonium constrictum, Haeckel.
-Cannobelos calymmata, Haeckel.
-Tetrapyle circularis, Haeckel.
-Sagoscena debilis, Haeckel.
-Belonostaurus bicuspis, Haeckel.
-Sagmidium tricorne, Haeckel.
+?
+Surface Organisms.—The following species are recorded from the surface in the
+vicinity of this Station :-
+RADIOLARIA (Haeckel, Zool. pt. 40). AMPHIPODA (Stebbing, Zool. pt. 67).
+Acanthosphæra capillaris, Haeckel. Paratyphis pacificus, n.sp.
+Diplosphæra triglochin, Haeckel.
 Icosaspis cruciata, Haeckel.
-Gazelletta robusta, Haeckel.
-Dorypelta tessaraspis, Haeckel.
-Gorgonetta bisenaria, Haeckel.
-Plagoniscus tripodiscus, Haeckel.
-Castanidium willemoesi, Haeckel.
+SchizoPODA (Sars, Zool. pt. 37).
+Eucoronis cervicornis, Haeckel.
+Thysanopoda tricuspidata, M.-
 Protympanium primordiale, Haeckel.
-Carpocanium irregulare, Haeckel. MACRURA (Spence Bate, Zool. pt. 52).
+Edwards, (young).
+Tripocyrtis plectaniscus, Haeckel.
+Carpocanium irregulare, Haeckel. PTEROPODA (Pelseneer, Zool. pt. 65).
 Sethoconus trochus, Haeckel.
-Sergestes oculatus, Krøyer.
-1
+Limacina inflata (d'Orbigny).
+pileus, Haeckel.
+lesueuri (d'Orbigny).
+Theopilium tricostatum, Haeckel.
+trochiformis (d'Orbigny).
+Theocampe cryptoprora, Haeckel.
+Peraclis reticulata (d'Orbigny).
+Cannobelos calymmata, Haeckel.
+Clio (Creseis) virgula (Rang).
+Sagoscena debilis, Haeckel.
+(Hyalocylix) striata (Rang).
+Sagmidium tricorne, Haeckel.
+Gazelletta robusta, Haeckel.
+TUNICATA (Herdman, Zool. pt. 76).
+Castanidium willemoesi, Haeckel.
+Salpa hexagona, Quoy and Gaimard.

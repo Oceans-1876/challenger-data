@@ -1,183 +1,181 @@
-1476
+1480
 THE VOYAGE OF H.M.S. CHALLENGER.
-Aulastrum,
-dendroceros, 950, 953, 958.
-dichoceros, 513.
-monoceros, 1250, 1254.
-polyceros, 1043.
-tetraceros, 1184.
-Aulatractus,
-diploconus,
-1266.
-ellipsoides, 1218.
-fusiformis, 1255, 1257.
-Auliscus, 303, 931.
-coelatus, 287, 443, 905, 931, 939.
-var. strigillata, 931.
-ovalis, 425.
-pruinosus, 303.
-punctatus, 303.
-sculptus, 939.
-Aulocalyx, 1450.
-irregularis, 236, 432, 451, 1291,
-1299, 1300, 1302, 1312, 1330,
-1446.
-Auloceros,
-arborescens, 1104.
-cervinus, 1206.
-dicranaster, 958, 960, 967, 972,
-976.
-furcosus, 894, 905, 916, 920, 922,
-939, 941, 944, 950, 953, 958,
-960, 967, 970, 973, 977, 980.
-trigeminus, 1265.
-Aulochone, 1327.
-cylindrica, 618, 839, 1315.
-lilium, 839, 1315.
-Aulocystis,
-zittelii, 744, 752, 1330, 1355.
-Aulodendron,
-antarcticum, 505, 516, 524.
-atlanticum, 1218.
-australe, 611, 1095.
-pacificum, 1104.
-Aulodictyum,
-hydrodictyum, 513.
-Aulographis,
-ancorata, 1184.
-asteriscis, 1184.
-bovicornis, 1201, 1207.
-candelabrum, 1132.
-cruciata, 1207, 1213, 1218.
-flammabunda, 1136.
-furcula, 894.
-gemmascens, 1250.
-hexancistra, 958, 960, 967, 972,
-976, 980.
-martagon, 1184.
-polyancistra, 1250.
-pulvinata, 1118.
-serrulata, 980.
-taumorpha, 894.
-tetrancistra, 1089.
-triæna, 1126.
-Aulographis-continued.
-triglochin, 1047, 1054, 1057, 1062.
-tripentas, 1126.
-verticillata, 1104.
-Aulonia,
-hexagonia, 1251, 1255, 1257.
-pentagonia, 1105, 1112, 1118,
-1126, 1132, 1136.
-Auloplegma,
-perplexum, 939.
-spongiosum, 894.
-Aulopus, 1440.
-japonicus, 929, 1416.
-Aulorchis, 1290.
-paradoxa, 1123, 1284.
-Auloscena,
-flammabunda, 977.
-gigantea, 1013, 1018, 1020, 1024.
-mirabilis, 1043, 1052, 1056, 1061.
-penicillus, 505, 516.
-pyramidalis, 1251, 1255, 1257.
-serrata, 1118.
-spectabilis, 500.
-tentorium, 894.
-verticillus, 1184.
-Aulospathis,
-bifurca, 1104.
-diodon, 894.
-furcata, 1012, 1017, 1024.
-hexodon, 875.
-tetrodon, 958, 960.
-trifurca, 1118, 1126, 1132.
-triodon, 972, 976, 980.
-variabilis, 1043, 1052, 1056, 1061.
-Aulosphæra, 886.
-bifurca, 943.
-bisternaria, 505, 512, 513.
-coronata, 1251.
-dendrophora, 1043.
-diodon, 1218.
-elegantissima, 495.
-polyodon, 1052.
-sceptrophora, 1017.
-spathillata, 1118.
-spathophora, 958.
-spinosa, 1043.
-trifurca, 944.
-triodon, 894.
-undulata, 977.
-Autolytus,
-maclearanus, 465, 1380.
-Autonoe,
-kergueleni, 469, 1340.
-philacantha, 539, 1385.
-.
-Avicula,
-macroptera, 705, 1394.
-(Meleagrina),
-muricata, 705, 1394.
-smaragding, 705, 1394.
-squamulosa, 202, 1394.
-Axellipsis,
-lobata, 882.
-perforata, 1015.
-Axinella,
-arborescens, 553, 1362.
-balfourensis, 460, 1362.
-echidnæa, 371, 1362.
-erecta, 391, 431, 451, 457, 1291
-1300, 1315, 1325, 1328, 1355
-1448.
-fibrosa, 1168, 1362.
-lunæcharta, 304, 1802.
-mariana, 431, 1362.
-monticularis, 304, 1362.
-paradoxa, 391, 1362.
-profunda, 946, 1080, 1283, 1288.
-reticulata, 372, 1362.
-tubulosa, 1188, 1315.
-Axocorys,
-macroceros, 881, 1042.
-Axodiscus,
-hexagonus, 1039.
-octogonus, 1060.
-spinosus, 1011, 1015, 1022, 1027,
-1031, 1039, 1051, 1055, 1060.
-staurophorus, 957.
-stylophorus, 1015.
-trigonus, 1112.
-Axohelia,
-dumetosa, 192, 1332.
-Axoniderma, 1290.
-mirabile, 1100, 1283.
-Axoprunum,
-stauraxonium, 1231.
-Azor (see Solecurtus).
-Azorica,
-crassiuscula, 1271, 1364.
-marginata, 743, 1329.
-pfeifferæ, 192, 236, 305, 373,
-761, 1302, 1312, 1313, 1329,
-1355, 1357, 1364, 1422.
-Azygoplon, 1429.
-rostratum, 531, 1372.
-Bacteriastrum, 790, 893.
-brevispinum, 734.
-spirillum, 734, 905, 1043.
-varians, 264, 287, 517, 734, 939,
-950.
-wallichii,
-var. hispida, 734.
-Bairdia, 132, 1152, 1319, 1339.
-abyssicola, 962, 1286.
-acanthigera, 308, 1306.
-amygdaloides, 538, 558, 682, 696,
-763, 852, 996, 1143, 1339, 1356,
-1358, 1382, 1424.
-angulata, 271, 682, 1143, 1339,
-1356.
-1
+Brisinga-continued.
+armillata, 934, 1292.
+cricophora, 172, 1334.
+discincta, 527, 1278.
+membranacea, 444, 452, 1292,
+1299, 1303.
+verticillata, 217, 1303.
+Brissopsis, 1171.
+luzonica, 601, 721, 739, 785, 899,
+1304, 1312, 1313, 1318, 1326,
+1327, 1336, 1358, 1378, 1423.
+lyrifera, 114, 408, 417, 420, 1336,
+1358, 1378, 1423, 1444, 1448.
+Brissus, 211.
+damesi, 270, 357, 1336, 1355.
+lyrifer, 85.
+Brunia,
+mirabilis, 516.
+Bucardium (see Cardium).
+Buccinanops (sce Bullia).
+Buccinosphera,
+invaginata, 838.
+tubaria, 850.
+Buccinulus (see Actæon).
+Buccinum, 257, 396, 571, 605, 1345,
+1399, 1451.
+albozonatum, 473, 1399.
+aquilarum, 283, 1308.
+Bugula,
+bicornis, 510, 1297.
+johnstoniæ, 978, 1279.
+leontodon, 141, 1297.
+longissima, 475, 491, 1411,
+1427.
+margaritifera, 1199, 1216, 1287,
+1289, 1297.
+mirabilis, 299, 1287.
+neritina, 203, 1411.
+reticulata, 454, 1125, 1138, 1153,
+1191, 1280, 1281, 1282, 1287,
+1288, 1289, 1290, 1297, 1300,
+1301, 1323, 1326, 1351, 1438.
+var. unicornis, 257, 324, 329,
+333, 1297.
+sinuosa, 440, 1351.
+versicolor, 164, 363, 1351, 1357.
+Bulla, 284, 379, 684, 1345.
+ampulla, 570, 1399.
+australis, 570, 656, 1399, 1426.
+incommoda, 580, 1345.
+pinguicula, 275, 1345.
+semilevis, 267, 275, 284, 1308,
+1311, 1313, 1345.
+Bullia,
+lævigata, 412, 1399.
+(Buccinanops),
+gradata, 1194, 1399.
+Bulimina, 631, 1104.
+aculeata, 134, 145, 166, 182, 215,
+354, 424, 427, 449, 492, 581,
+Bulimina aculeata-continued.
+604, 631, 641, 686, 857, 903,
+937.
+affinis, 134, 182, 215, 604, 641,
+979, 1201.
+buchiana, 166, 182, 261, 285,
+295, 354, 424, 427, 581, 604,
+610, 937,1067, 1089, 1131, 1136.
+contraria, 581, 663, 857, 903.
+convoluta, 134, 640, 686.
+elegans, 295, 354, 587, 1111.
+var. exilis, 196, 215, 903,
+1085, 1104.
+elegantissima, 182, 354, 581, 686,
+1180,
+var, seminuda, 354, 1131.
+elongata, 134, 1111, 1225.
+inflata, 115, 134, 166, 182, 190,
+196, 198, 215, 285, 295, 354,
+424, 581, 604, 686, 857, 903,
+937, 1037, 1071, 1131.
+marginata, 166, 215, 424, 449,
+686, 903, 1071, 1131, 1154.
+Avata, 196, 211, 215, 581, 604,
+641, 937, 1111, 1131, 1217.
+punctata, 424.
+pupoides, 134,215,581, 1131, 1162.
+pyrula, 115, 134, 182, 211, 215,
+295, 424, 581, 610, 686, 857,
+903, 937, 1071, 1131, 1154,
+1158, 1162, 1217, 1247.
+rostrata, 134, 429, 1225.
+subcylindrica, 354, 686.
+subornata, 903.
+subteres, 166, 182, 196, 200, 286,
+354, 449, 581, 663, 686, 937,
+1154.
+williamsoniana, 631, 686.
+Bunodes, 781.
+minuta, 451, 1292.
+Buskiella,
+abyssorum, 323, 325, 332, 1220,
+1278, 1280, 1281, 1285, 1289,
+1294.
+Bythocypris,
+compressa, 624, 1383.
+elongata, 1224, 1306.
+reniformis, 173, 350, 358, 436,
+538, 1319, 1326, 1327, 1339,
+1356, 1358, 1383.
+Bythocythere,
+683.
+exigua, 1169, 1383.
+orientalis, 683, 795.
+pumilio, 467, 1383.
+velifera, 683.
+Caberea-continued.
+darwinii, 397, 422, 439, 458, 475,
+1323, 1326, 1351, 1357.
+lata, 713, 730, 1411, 1427.
+minima, 1179, 1411.
+rostrata, 594, 1351.
+rudis, 534, 1411.
+Cabestana (sce Triton).
+Cacospongia,
+amorpha, 371, 1362.
+collectrix, 784, 905, 1362, 1422.
+compacta, 371, 1362.
+dendroides, 803, 1362.
+intermedia, 666, 1328.
+irregularis, 718, 1362.
+levis, 355, 1328.
+murrayi, 553, 1362.
+oligoceras, 803, 1362.
+spinifera, 666, 1328.
+tuberculata, 535, 1362.
+vesiculifera, 553, 1362.
+Cadulus,
+ampullaceus, 175, 1345.
+colubridens, 609, 1322.
+curtus, 175, 1345.
+var. congruens, 175, 1345.
+exiguus, 175, 1345.
+gracilis, 273, 283, 293, 1308, 1311,
+1313, 1345.
+obesus, 175, 1345.
+rastridens, 175, 1345.
+sauridens, 175, 1345.
+simillimus, 684, 705, 1345, 1359,
+1399.
+tumidosus, 283, 293, 1308, 1311.
+vulpidens, 175, 1345.
+Cæcum, 284, 628, 709, 821, 998, 1076,
+1308, 1399.
+angustum, 709, 1399.
+attenuatum, 709, 1399.
+chinense, 709, 1399.
+crystallinum, 998, 2399.
+eburneum, 709, 1399.
+elegantissimum, 128, 1399.
+exile, 628, 1399.
+lineicinctum, 179, 1345.
+microcyclus, 709, 1399.
+pollicare, 128, 1399.
+regulare, 363, 1345.
+sepimentum, 998, 1999, 1426.
+var. arcuata, 628, 1076,
+1399.
+subflavum, 709, 1399.
+succineum, 709, 1399.
+vitreum, 128, 1399.
+Cæsia (sce Nassa).
+Casio,
+tile, 629, 1416.
+Calamorhynchus,
+rigidus, 1213.
+arenacea,
+Caberea, 600, 1104.
+crassimarginata, 1191, 1323.

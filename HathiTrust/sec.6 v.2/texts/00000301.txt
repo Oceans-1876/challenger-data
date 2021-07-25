@@ -1,106 +1,110 @@
+1051
 SUMMARY OF RESULTS.
-1047
-STATION 271.
-d. Cyrtoidea.
-Tripterocalpis ogmoptera, Haeckel.
-Tripilidium costatum, Haeckel.
-Tripordiscium claratum, Haeckel.
-Tridictyopus vatillum, Haeckel.
+STATION 272.
+Astractura clavigera, Haeckel.
+Archiviscus polythalamus, Haeckel.
+Acodiscus spinosum, Haeckel.
+Porodiscus semispiralis, Haeckel.
+Xiphodictya heliospira, Haeckel.
+Staurodictya elegans, Haeckel.
+Stylolictya perispira, Haeckel.
+centrospira, Haeckel.
+Stylochlamydium asteriscus, Haeckel.
+Pentalastrum asteracanthio, Haeckel.
+Herinastrum geryonidum, Haeckel.
+Triolena primordialis, Haeckel.
+Triodiscus trigonus, Haeckel.
+Hesapyle triangula, Haeckel.
+Discopyle osculata, Haeckel.
+Spongotripus strepsiceros, Haeckel.
+Stylotrochus geddesië, Haeckel.
+Sponyolena cypselura, Haeckel.
+Dictyocoryne tetraliscus, Haeckel.
+Spongaster qua lratus, Haeckel.
+Corcolarcus lentellipsis, Haeckel.
+Trizonium tricinctum, llaeckel.
+Octopyle amphistyle, Haeckel.
+Amphitholus artiscus, Haeckel.
+Zonarium quadrigatum, Haeckel.
+Tholospira dendrophora, Haeckel.
+Phorticium deforme, Haeckel.
+Sorolarcus tetrapylifer, Haeckel.
+Triplecta triactis, Haeckel.
+Tetraplecta tetrahedra, Haeckel.
+Archicircus princeps, Haeckel.
+primordialis, Haeckel.
+Cortina dendroides, Haeckel.
+Stephanium tetrapus, Haeckel.
+Clathrocircus dictyospyris, Haeckel.
+multiforis, Haeckel.
+Cortiniscus tripodiscus, Haeckel.
+Stephaniscus tetrapodius, Haeckel.
+Coronilium cervicorne, Haeckel.
+Eucoronis angulata, Haeckel.
+Tocarium circospyris, Haeckel.
+Microcubus dodecasłoma, Haeckel.
+amphispyris, Haeckel.
+Ortotympanum cervicorne, Haeckel.
+Tympaniscus corona, Haeckel.
+Parastephanus asymmetricus, Haeckel.
+Pseudocubus herapylus, Haeckel.
+Triceraspyris tripodiscus, Haeckel.
+Tristylospyris clavipes, Haeckel.
+Cephalospyris cancellata, Haeckel.
+Dipospyris cubus, Haeckel.
+Dorcadospyris dentata, Haeckel.
+antilope, Haeckel.
+Tetraspyris stephanium, Haeckel.
+Clathrospyris pyramidalis, Haeckel,
+Aegospyris æquispina, Haeckel.
+Petalospyris anthemis, Haeckel.
+dinoceras, Haeckel.
+Anthospyris mammillata, Haeckel.
+Dictyospyris stalactites, Haeckel.
+spinulosa, Ehrenberg.
+quadriloba, llaeckel.
+Tholospyris triporliscus, Haeckel.
+Phormospuris tricostata, Haeckel.
+Desmospyris mammillata, Haeckel.
+Androspyris pithecus, Haeckel.
+Lamprospyris spenceri, Haeckel.
+Amphispyris tosarium, Haeckel.
+Perispyris lentellipsis, Haeckel.
+Nephrospyris renilla, Haeckel.
+Botryopera cyrtoloba, Haeckel.
+Cannobotrys cortina, Haeckel.
+Botryopyle dictyocephalus, Haeckel.
+Acrobotrys disolenia, Haeckel.
+acuminata, Haeckel.
+Botryocella quadricellaris, Haeckel.
+Phormobotrys pentathalamia, Ilaeckel.
+Tripotonium ovatum, Haeckel.
+Tripterocalpis conoptera, Haeckel.
+Archipilium orthopterum, Haeckel.
+Tripilidium cortina, Haeckel.
+Tripoliscium sphærocephalum, Haeckel.
 Euscenium quadratum, Haeckel.
-Pteroscenium arcarlophorum, Haeckel.
-pinnatum, Haeckel.
-Peridium spinipes, Haeckel.
-palmipes, Haeckel.
-Peripyramis spongiosa, Haeckel.
-Litharachnium araneosum, Haeckel,
-Cladarachnium ramosum, Haeckel.
-Arachnocal pis ellipsoides, Haeckel.
-Calpophæna enneaphylla, Haeckel.
-Carpocanistrum novenum, Haeckel.
-Phänocalpis petalospyris, Haeckel.
-Cornutella hexagona, Haeckel.
-sethoconus, Haeckel.
-mitra, Haeckel.
-annulata, Haeckel.
-Cornutanna orthoconus, Haeckel.
+Pteroscenium macropodium, Haeckel.
+Peridium alatum, Haeckel.
+Archipera pentacantha, Haeckel.
+Archibursa tripodiscus, Haeckel.
+Bathropyramis quadrata, Haeckel.
+Halicalyptra castanella, Haeckel.
+Carpocanistrum eracuatum, Haeckel.
+Phänoscenium cladopodium, Haeckel.
 Archicorys galea, Haeckel.
-Mitrocal pis palliata, Haeckel.
-Dictyophimus hertwigii, Haeckel.
-cienkowski, Haeckel.
-Tripocyrtis tripodiscus, Haeckel.
-Lithomelissa macroceras, Haeckel.
-Clathrocanium
-squarrosum, Haeckel.
-triomma, Haeckel.
-Eucecryphalus halicalyptra, Haeckel.
-Amphiplecta callistoma, Haeckel.
-Lithopera bacca, Ehrenberg.
-Lychnocanium tripodium, Haeckel.
-ovatum, Haeckel.
-Clathrolychnus periplectus, Haeckel.
-Sethophormis cruciata, Haeckel.
-eupilium, Haeckel.
-Sethamphora serrata, Haeckel.
-Acanthocorys macropodia, Haeckel.
-macroceras, Haeckel.
-Arachnocorys discoides, Haeckel.
-araneosa, Haeckel.
-polyptera, Haeckel.
-Carpocanium irregulare, Haeckel.
-dialema, Haeckel.
-Sethoconus trochus, Haeckel.
-pileus, Haeckel.
-rayianus, Haeckel.
-facetus, Haeckel.
-Sethoconus setosus, Haeckel.
-venosus, Haeckel.
-mitra, Haeckel.
-Periarachnium periplectum, Haeckel.
-Sethocyrtis diomedis, Haeckel.
-Pterocorys campanula, Haeckel.
-rhinoceros, Haeckel.
-carinata, Haeckel.
-Theopilium tricostatum, Haeckel.
-Corocalyptra ludorica, Haeckel.
-Dictyoceras virchorii, Haeckel.
-Pteropilium stratiotes, Haeckel.
-Pterocanium proserpina, Haeckel.
-Dictyocodon palladius, Haeckel.
-Podocyrtis favosa, Haeckel.
-lithoconus, Haeckel.
-Thyrsocyrtis trifida, Haeckel.
-Theophormis callipilium, Haeckel.
-Phormocyrtis carinata, Haeckel.
-Alacorys octacantha, Haeckel.
-Clathrocyclas semeles, Haeckel.
-coscinodiscus, Haeckel.
-Theoconus jovis, Haeckel.
-Lophoronus cornutella, Ilaeckel.
-Theoryrtis trachelins, Haeckel.
-Tricolocampe stenozona, Haeckel.
-Theocampe stenostoma, Haeckel.
-megalophora, Haeckel.
-Theocapsa galeni, Haeckel.
-Artopilium elegans, Haeckel.
-Pteropilium pyramis, Haeckel.
-Podocampe trictenota, Haeckel.
-Stichophormis railiala, Haeckel.
-Phormocampe eucalyptra, Haeckel.
-Lithostrobus macroceras, Haeckel.
-cornutus, Haeckel.
-Dictyomitra conica, Haeckel.
-curythorax, Haeckel.
-Eucyrtilium bütschlii, Haeckel. .
-galathex, Haeckel.
-Cyrtocapsa chrysalidium, Haeckel.
-9)
-IV. PHÆODARIA.
-Phæocolla primordialis, Haeckel.
-Cannobelos calymmata, Haeckel.
-Cannorrhaphis lappacea, Haeckel.
-Distephanus mesophthalrus, Haeckel.
-Aulacantha tubulosa, Haeckel.
-Aulographis triglochin, Haeckel.
-Sagena pertusa, Haeckel.
-3
+Cyrtocalpis sethopora, Haeckel.
+Halicapsa triglochin, Haeckel.
+Archicapsa nonaforis, Haeckel.
+Dictyophimus cortina, Haeckel.
+Lithomclissa bütschlii, Haeckel.
+Psilomelissa calvata, Haeckel.
+sphærocephala, Haeckel.
+Clathrocanium triomma, Haeckel.
+1
+1
+1
+1
+1
+1
 1

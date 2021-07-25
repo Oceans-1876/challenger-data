@@ -1,72 +1,41 @@
 SUMMARY OF RESULTS.
-1033
-STATION 270.
-Dorataspis typica, Haeckel.
-Ceriaspis scrobiculata, Haeckel.
-T'essaraspis irregularis, Haeckel.
-Lychnaspis rottenburgii, Haeckel.
-Icosaspis cruciata, Haeckel.
-Hexaconus ciliatus, Haeckel.
-Dendrocircus arborescens, Haeckel.
-Protympanium primordiale, Haeckel.
-Tetraspyris tetracorethra, Haeckel.
-Anthospyris aculeata, Haeckel.
-Arachnocalpis sphæroides, Haeckel.
-Cornutella hexagona, Haeckel.
-Cornutanna orthoconus, Haeckel.
-Dictyophimus hertwigii, Haeckel.
-Eucecryphalus halicalyptra, Haeckel.
-Arachnocorys araneosa, Haeckel.
-Carpocanium irregulare, Haeckel.
-Sethoconus trochus, Haeckel.
-pileus, Haeckel.
-Sethoconus rayianus, Haeckel.
-setosus, Haeckel.
-Pterocorys campanula, Haeckel.
-rhinoceros, Haeckel.
-Theopilium tricostatum, Haeckel.
-Corocalyptra agnesæ, Haeckel.
-Cannobelos calymmata, Haeckel.
-Distephanus mesophthalmus, Haeckel.
-Sagena pertusa, Haeckel.
-Sagoscena debilis, Haeckel.
-Aularia ternaria, Haeckel.
-Gazelletta macronema, Haeckel.
-orthonema, Haeckel.
-robusta, Haeckel.
-Castanella campbelli, Haeckel.
-Castanidium willemoesi, Haeckel.
-aldrichi, Haeckel.
-Conchidium terebratula, Haeckel.
-NUDIBRANCHIATA (Bergh, Zool. pt. 26).
-Glaucus atlanticus, Forster (infested by Distoma glauci).
-In addition, the following are recorded in the note-books :-Foraminifera very
-abundant, especially Pullenia obliquiloculata, while Globigerina, Sphæroidina, and
-Pulvinulina were also numerous ; Sagitta, Copepods, Hyperids, larvæ of Euphausia,
-Sergestes, Lucifer, Pteropods, and Appendicularia. Long banks of compound Radiolaria
-were passed through, and several large Salpæ were seen. There was a good deal of
-phosphorescence in the wake of the ship.
-The following species are recorded from the surface in the North Pacific and Central
-Pacific, the exact locality not being noted :-
-COPEPODA (Brady, Zool. pt. 23).
-SCHIZOPODA (Sars, Zool. pt. 37).
-Pontella securifer, n.sp.
-Nematoscelis rostrata, n.g., n.sp.
-Siriella thompsoni (M.-Edwards).
-gracilis, Dana.
-AMPHIPODA (Stebbing, Zool. pt. 67).
-MACRURA (Spence Bate, Zool. pt. 52).
-Synopia schéeleana, Bovallius.
-Phronimella elongata, Claus.
-Sergestes edwardsii, Krøyer.
-præcollus, n.sp.
-Brachyscelus acuticaudatus, n.sp.
-spiniventralis, n.sp.
-STOMATOPODA (Brooks, Zool. pt. 45).
-utrinquedens, n.sp.
-Sciacaris
-Alima gracilis, M.-Edwards ( = larva Lucifer typus, Thompson.
-of Squilla).
-Caricyphus gibberosus, n.g., n.sp.
-sp. (?).
-1
+1035
+The following species are recorded in the Zoological Reports from the trawl at this Station 271.
+ANIMALS FROM
+Station :
+TRAWL
+DEEP-SEA KERATOSA (Haeckel, Zool. pt. 82).
+Ammolynthus prototypus, n.g., n.sp. Obtained at no other locality.
+Cerelasma gyrosphæra, n.g., n.sp. Obtained at no other locality.
+Stannophyllum zonarium, n.g., n.sp. Obtained at no other locality.
+radiolarium, n.g., n.sp. Obtained at no other locality.
+pertusum, n.g., n.sp. Obtained at no other locality.
+venosum, n.g., n.sp. Obtained at no other locality.
+globigerinum, n.g., n.sp. Obtained at no other locality.
+The genus Stannophyllum was not obtained elsewhere, and was
+represented by over one hundred specimens.
+Stannoma dendroides, n.g., n.sp. Obtained also at Station 272, 2600 fathoms.
+coralloides, n.g., n.sp.
+Obtained also at Station 272, 2600 fathoms.
+The genus Stannoma was obtained only at these
+two Stations.
+HEXACTINELLIDA (Schulze, Zool. pt. 53).
+Holascus ridleyi, n.g., n.sp. One specimen; obtained at no other locality, .
+[Reported in error from Station 211].
+Hyalonema gracile, n.sp. One specimen ; obtained at no other locality. [Reported
+in error from Station 211].
+divergens, n.sp. One specimen ; obtained at no other locality.
+(Stylocalyx) depressum, n.sp. Three specimens ; obtained also at
+Station 246.
+( ) elegans, n.sp. One specimen ; obtained at no other locality.
+sp. (?). Several fragments.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Homolampas fulva, n.sp. Three specimens and fragments ; obtained at no other
+locality.
+HOLOTHURIOIDEA (Théel, Zool. pt. 13).
+Peniagone wyvilliä, n.g., n.sp. One specimen ; obtained at no other locality.
+Benthodytes papillifera, n.g., n.sp. Four specimens ; obtained also at Stations 184
+and 300.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Arca (Barbatia) corpulenta, n.sp. Obtained also at Stations 184, 194, 198, 216A,
+and 300.

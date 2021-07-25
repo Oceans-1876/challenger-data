@@ -1,69 +1,46 @@
 SUMMARY OF RESULTS.
-1245
-Surface Organisms.—The following species are recorded from the surface at this Station 345.
-ORGANISMS FROM
-Station :
-SURFACE-NETS.
-COPEPODA (Brady, Zool. pt. 23).
-Saphirina metallina, Dana.
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Cavolinia longirostris (Lesueur).
-The tow-nets yielded abundance of Foraminifera (Globigerina, Orbulina, Pullenia,
-Sphæroidina, and Pulvinulina menardii), including some very large specimens ;
-many were surrounded by sarcode in which were entangled small Acanthometræ,
-Diatoms, and Peridinium. There were besides one or two Rhabdospheres, very many
-Oscillatoriaceæ, Pyrocystis, Ethmodiscus and other Diatoms, a few Radiolaria, Medusæ,
-small Planarians, Copepods, Hyperids, Euphausia, many small Decapod larvæ, and
-Appendicularia.
-Station 346 (Sounding 496), Ascension Island to St. Vincent (see Chart 12 and Station 346.
-Diagram 7).
-April 6, 1876; lat. 2° 42' S., long. 14° 41' W.
-Temperature of air at noon, 82°:3; mean for the day, 80°:5.
+1249
 Temperature of water :-
+STATION 347.
 o
->
-9
 Surface,
-82.7
 10 fathoms,
-82.0
 20
-78:1
-25
-71.5
 30
-62.2
 40
-57.5
 50
-56.5
 60
-56.3
 70
-56:1
 80
-55.9
 90
-55.7
 100
-55:3
 110
-54:7
 120
-54:0
 130
-53:4
 140
-52.6
 150
-52.0
 160
-51:3
 170
-50.6
 180
-49.9
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+82.0
+81.2
+78:0
+74.0
+69.8
+65.2
+61.8
+60-5
+59.7
+58.8
+58.0
+57.2
+56:3
+55.5
+54:6
+53.8
+53.0
+52:1
+50.3
 190 fathoms,
 200
 225
@@ -83,25 +60,64 @@ Surface,
 1400
 1500
 Bottom,
-49.3
+49.5
 48.7
-474
-45.9
-44.5
-43.3
-40.8
+47.8
+46.0
+45.0
+44.0
+42.0
+41:4
+41.0
+40.6
+40:3
 40.0
 39.7
-39.5
-39.2
-38.9
+39.3
+39.0
 38.7
-38.5
-38.2
-37.9
-37.7
-37.5
-34.0
+38.3
+38.0
+36.2
 99
-3
-157
+.
+Density at 60° F. :-
+Surface,
+25 fathoms,
+50
+100
+300 fathoms,
+1500
+Bottom,
+1.02639
+1:02664
+1:02690
+1:02609
+1.02565
+1.02595
+1:02589
+•
+.
+Depth, 2250 fathoms; deposit, Globigerina Ooze, containing 84:48 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 3.20 P.m. stopped, and at 3.30 P.M. sounded in 2250 fathoms. Obtained serial
+temperatures down to 1500 fathoms. The carbonic acid was determined in water from
+300 fathoms, and amounted to 45.5 milligrammes per litre. At 6.40 P.M. completed
+observations and proceeded under steam and sail. One or two Thalassidromas were seen.
+Cape Verde distant at noon, 940 miles. Made good 125 miles. Amount of current
+24 miles, direction S. 57° W.
+RADIOLARIA (Haeckel, Zool. pt. 40). — The following species of Radiolaria were OrganisMS FROM
+observed in the deposit from this Station :-
+THE DEPOSIT.
+Cenosphæra bombus, Haeckel.
+Hymeniastrum pythagoræ, Ehrenberg.
+perforata, Haeckel.
+Pentophiastrum dicranastrum, Haeckel.
+Xiphosphæra macima, Haeckel.
+Octopyle staurostyle, Haeckel.
+Stylosphæra musa, Haeckel.
+Archicircus ovalis, Haeckel.
+Ellipsidium echinidium, Haeckel.
+Semantrum sphragisma, Haeckel.
+Lithomespilus flammabundus, Haeckel.
+Podocoronis tetrapodiscus, Haeckel.

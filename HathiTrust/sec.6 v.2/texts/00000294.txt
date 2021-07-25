@@ -1,99 +1,101 @@
-1040
-THE VOYAGE OF H.M.S. CHALLENGER,
+1044
+THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 271.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms.—The following species of Radiolaria are recorded from the
+surface at this Station :-
+9
 99
-Spongolonche amphistyla, Haeckel.
-Spongodiscus favus, Haeckel.
-spiralis, Haeckel.
-Stylotrochus geddesii, Haeckel.
-craticulatus, Haeckel.
-Spongotrochus parma, Haeckel.
-Dictyocoryne tetradiscus, Haeckel.
-Spongasteriscus ovatus, Haeckel.
-Spongaster tetras, Haeckel,
-quadratus, Haeckel.
-I. Larcoidea.
-Cenolarcus primordialis, Haeckel.
-Larnacilla typus, Haeckel.
-subglobosa, Haeckel.
-Larnacidium hecabelonium, Haeckel.
-Larnacantha drymacantha, Haeckel.
-Dizonium ellipticum, Haeckel.
-Amphipyle aceros, Haeckel.
-Tetrapyle nephropyle, Haeckel.
-dodecaceros, Haeckel.
-Pylonium hexazonium, Haeckel.
-Amphipylonium semilunare, Haeckel.
-Tetrapylonium octacanthum, Haeckel.
-Amphitholus artidium, Haeckel,
-Tholartus paniscus, Haeckel.
-Tholocubus tesseralis, Haeckel.
-Tholonium hexonium, Haeckel,
-Cubotholonium ellipsoides, Haeckel.
-Zonarium octangulum, Haeckel.
-Zoniscus tetracanthus, Haeckel.
-hexatholius, Haeckel.
-Lithelius spiralis, Haeckel.
-Larcospira sexangula, Haeckel.
-oliva, Haeckel.
-Tholospira cervicornis, Haeckel.
-Spironium arbustum, Haeckel,
-Streblonia rosalina, Haeckel.
-Streblacantha hastigerina, Haeckel.
-Spongophortis larnacilla, Haeckel.
-Soreuma acinosum, Haeckel.
-setosum, Haeckel.
-acervulina, Haeckel.
-Sorolarcus terminalis, Haeckel.
-b. Stephoidea.
-Archicircus princeps, Haeckel.
-primordialis, Haeckel.
-quadratus, Haeckel.
-hertwigii, Haeckel.
-sexangularis, Haeckel.
-Zygocircus rhombicus, Haeckel.
-Cortina dendroides, Haeckel.
-Semantis biforis, Haeckel.
-Semantidium hexastoma, Haeckel.
-Semantrum signarium, Haeckel.
-Clathrocircus stapedius, Haeckel.
-multiforis, Haeckel.
-decaporus, Haeckel.
-Cortiniscus tripodiscus, Haeckel.
-Stephaniscus tetrapodius, Haeckel.
-Semantiscus hexaspyris, Haeckel.
-Zygostephanus reniformis, Haeckel.
-dissocircus, Haeckel.
-Eucoronis nephrospyris, Haeckel.
-Tricyclidium semantrum, Haeckel.
-Tristephanium octopyle, Haeckel.
-Trissocircus octahedrus, Haeckel
-Protympanium amphipodium, Haeckel
-Torarium circospyris, Haeckel.
-bifurcum, Haeckel.
-furcatum, Haeckel.
-Microcubus dodecastoma, Haeckel.
-zonarius, Haeckel.
-Tympaniscus quadrupes, Haeckel.
-Octotympanum octonarium, Haeckel.
-Paratympanum decastylum, Haeckel.
-Prismatium tripodium, Haeckel.
-Pseudocubus octostylus, Haeckel.
-Lithocubus astragalus, Haeckel.
-octacanthus, Haeckel.
-Eutympanium musicantum, Haeckel.
-Circotympanum octogonium, Haeckel.
-c. Spyroidea.
-II. NASSELLARIA.
-Tripospyris cortina, Haeckel.
-furcata, Haeckel,
-capitata, Haeckel.
-Tristylospyris palmipes, Haeckel.
-Stephanospyris cordata, Haeckel.
-Triceraspyris tripodiscus, Haeckel.
-Cephalospyris ovata, Haeckel.
-Dorcadospyris dentata, Haeckel.
-antilope, Haeckel.
-a. Plectoidea.
-Triplagia primordialis, Haeckel.
-Plectaniscus clathrocorys, Haeckel.
+99
+RADIOLARIA (Haeckel, Zool. pt. 40).
+I. SPUMELLARIA.
+a. Colloidea.
+Actissa princeps, Haeckel.
+b. Beloidea.
+Thalasso.canthium cervicorne, Haeckel.
+Belonozoum bacillosum, Haeckel.
+Rhaphidozoum pacificum, Haeckel.
+c. Sphæroidea.
+Cenosphæra primordialis, Haeckel.
+anthophora, Haeckel.
+tenerrima, Haeckel.
+inermis, Haeckel.
+favosa, Haeckel.
+vesparia, Haeckel.
+bombus. Haeckel.
+setosa, Haeckel.
+proserpina, Haeckel.
+elysia, Haeckel.
+papillata, Haeckel.
+antiqua, Haeckel.
+Stigmosphæra actinocentra, Haeckel.
+Ethmosphæra stenosi phonia, Haeckel.
+conosiphonia, Haeckel.
+leptosiphonia, Haeckel.
+Carposphæra cerasus, Haeckel.
+capillacea, Haeckel.
+infundibulum, Haeckel.
+nobilis, Haeckel.
+nodosa, Haeckel.
+Liosphæra polypora, Haeckel.
+Thecosphæra triplodictyon, Haeckel.
+Cromyosphæra conifera, Haeckel.
+Styptosphæra spongiacea, Haeckel.
+Plegmosphæra maxima, Haeckel.
+e.codictyon, Haeckel.
+Collosphæra primordialis, Haeckel.
+pyriformis, Haeckel.
+polyedra, Haeckel.
+Tribonosphæra centripetalis, Haeckel.
+Siphonosphæra macrosiphonia, Haeckel.
+Caminosphæra furcata, Haeckel.
+Solenosphæra amalthea, Haeckel.
+Otosphæra polymorpha, Haeckel.
+auriculata, Haeckel.
+Coronosphæra convolvulus, Haeckel.
+Xiphosphæra planeta, Haeckel.
+gæa, Haeckel.
+venus, Haeckel.
+luna, Haeckel.
+Xiphostylus motacilla, Haeckel.
+Saturnalis annularis, Haeckel.
+Sphærostylus hippocampus, Haeckel.
+Amphisphæra neptunus, Haeckel.
+cronos, Haeckel.
+pluto, Haeckel.
+Cromyostylus gladius, Haeckel.
+Spongostylus hastatus, Haeckel.
+Staurosphæra thomæ, Haeckel.
+matthæi, Haeckel.
+Staurostylus latinus, Haeckel.
+Staurolonche spinoza, Haeckel.
+Staurolonchidium artioscelides, Haeckel.
+perspicuum, Haeckel.
+Stauracontium tetracanthum, Haeckel.
+Staurodoras spongosphæra, Haeckel.
+Hexastylus phænaxonius, Haeckel.
+biantis, Haeckel.
+Hexalonche amphisiphon, Haeckel.
+xenophanis, Haeckel.
+Herancistra mirabilis, Haeckel.
+Hexacontium acophænum, Haeckel.
+papillosum, Haeckel.
+lævigatum, Haeckel.
+floridum, Haeckel.
+Hexacromyum elegans, Haeckel.
+Acanthosphæra tenuis, Haeckel.
+macropora, Haeckel.
+insignis, Haeckel.
+capillaris, Haeckel.
+gibbosa, Haeckel.
+Heliosphæra polygonaria, Haeckel.
+Coscinomma amphisiphon, Haeckel.
+macrosiphon, Haeckel.
+Cladococcus penicillus, Haeckel.
+scoparius, Haeckel.
+pinetum, Haeckel.
+Haliomma favosum, Haeckel.
+datura, Haeckel.
+macrodoras, Haeckel.
+>

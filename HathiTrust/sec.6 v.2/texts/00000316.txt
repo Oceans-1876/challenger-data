@@ -1,89 +1,50 @@
-1062
+1066
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 274.
+STATION 276.
+Globigerinæ, Pulvinulina, a few Biloculinæ, small sharks' teeth, and a few Echini spines.
+Proceeded under steam.
+Point Venus, Tahiti, distant at noon, 241 miles. Made good 90 miles. Amount of
+current 3 miles, direction E.
+ANIMALS FROM
+TRAWL.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophiochytra epigrus, n.g., n.sp. One specimen ; obtained at no other locality.
+Only species of the genus.
+OSTRACODA (Brady, Zool. pt. 3).
+Cythere circumdentata, n.sp. Obtained also at Station 246.
 1
-Spongophortis spongiosa, Haeckel.
-Actinelius primordialis, Haeckel.
-Litholophus ligurinus, Haeckel.
-Acanthometron cylindricum, Haeckel.
-bulbiferum, Haeckel.
-Zygacantha costata, Haeckel.
-Acanthonia denticulata, Haeckel.
-diplopyramis, Haeckel.
-Zygostaurus frontalis, Haeckel.
-Amphilonche conica, Haeckel.
-acufera, Haeckel.
-Acantholonche amphipolaris, Haeckel.
-peripolaris, Haeckel.
-Pleuraspis amphithecta, Haeckel.
-Dorataspis typica, Haeckel.
-Orophaspis furcata, Haeckel.
-Ceriaspis favosa, Haeckel.
-Coscinaspis rhacopora, Haeckel (7).
-Lychnaspis maxima, Haeckel.
-Icosaspis cruciata, Haeckel.
-Dorypelta furcata, Haeckel.
-Thoracaspis bipennis, Haeckel.
-Dictyaspis compacta, Haeckel.
-Phatnaspis quadratura, Haeckel.
-Hexalaspis heliodiscus, Haeckel.
-Hecaconus vaginatus, Haeckel.
-Diplocolpus serratus, Haeckel.
-Plapiacantha doderantha, Haeckel.
-Polyplagia septenaria, Haeckel.
-Plectaniscus cladoscenium, Haeckel.
-Periplecta pteroscenium, Haeckel.
-monocyrtis, Haeckel.
-Dendrocircus arborescens, Haeckel.
-Protympanium primordiale, Haeckel.
-Petalospyris dictyocubus, Haeckel.
-Anthospyris aculeata, Haeckel.
-Litharachnium epeira, Haeckel.
-Arachnocalpis ellipsoides, Haeckel.
-Cornutella hexagona, Haeckel.
-Cornutanna orthoconus, Haeckel.
-Dictyophimus hertuigii, Haeckel.
-Eucecryphalus halicalyptra, Haeckel.
-Amphiplecta amphistoma, Haeckel.
-Clathrolychnus araneosus, Haeckel.
-Arachnocorys araneosa, Haeckel.
-Carpocanium irregulare, Haeckel.
-Sethoconus trochus, Haeckel.
-pileus, Haeckel.
-facetus, Haeckel.
-Sethocyrtis pleuracantha, Haeckel.
-Pterocorys campanula, Haeckel.
-rhinoceros, Haeckel.
-Theopilium tricostatum, Haeckel.
-Theophormis cruciata, Haeckel.
-Clathrocyclas joris, Haeckel.
-Cecryphalium sestrodiscus, Haeckel.
-Phæocolla primordialis, Haeckel.
-Cannobelos calymmata, Haeckel.
-Mesocena octogona, Ehrenberg.
-Aulacantha tubulosa, Haeckel.
-Aulographis triglochin, Haeckel.
-Sagena pertusa, Haeckel.
-Sagoscena prætorium, Haeckel,
-debilis, Haeckel.
-Aularia ternaria, Haeckel.
-Gazelletta macronema, Haeckel.
-orthonema, Haeckel.
-robusta, Haeckel.
-Castanella campbelli, Haeckel.
-Castanidium willemoesi, Haeckel.
-aldrichi, Haeckel.
+MACRURA (Spence Bate, Zool. pt. 52).
+Aristeus armatus, n.sp. One specimen ; obtained also at Stations 133, 184, 213,
+237, 246, and 323.
+Benthesicymus crenatus, n.g., n.sp. Two specimens ; obtained also at Station 272.
+FISHES (Günther, Zool. pt. 57).
+Malacosarcus macrostoma, n.g., n.sp. One specimen ; obtained also at Station 271.
+Only species of the genus.
+The Station-book records also Stephanoscyphus on the manganese nodules.
+Excluding Protozoa, about 10 specimens of invertebrates and fishes were obtained
+at this Station, belonging to 6 species, of which 5 are new to science, including
+representatives of 3 new genera; 1 new genus and new species was not obtained
+elsewhere.
+ORGANISMS FROM
+THE DEPOSIT.
 1
-1
-1
-SIPHONOPHORÆ (Haeckel, Zool. pt. 77). MACRURA (Spence Bate, Zool. pt. 52).
-Diplophysa köllikeri, n.sp. ( = eudoxia Sergestes oculatus, Krøyer.
-of Sphæronectes köllikeri,
-armatus, Krøyer.
-Huxley).
-In addition, the following are recorded in the note-books :-Pyrocystis, Peridinium
-tripos, Diatoms attached to Copepods and free or entangled in the sarcode of Pulvinulina,
-as well as Coccospheres, Coccoliths, and other minute organisms, Gregarine in the
-intestines of Sagittæ, Ameeba and zoospores, Globigerina, Orbulina, Pullenia,
-Sphæroidina, Pulvinulina (the last-mentioned being especially abundant, and most of the
-specimens had the sarcode expanded), Medusæ, Sagitta, Tomopteris, Alciopa, Cypridina,
+FORAMINIFERA (Brady, Zool. pt. 22).—
+The following species of Foraminifera were
+observed in the deposit from this Station; the pelagic species, which make up about
+88 per cent. of the carbonate of lime present in the deposit, are marked thus x:-
+Biloculina bulloides, d'Orbigny.
+depressa, d’Orbigny.
+var. murrhyna, Schwager.
+var. serrata, Brady.
+Miliolina oblonga (Montagu).
+seminulum (Linné).
+venusta (Karrer).
+Spiroloculina crenata, Karrer (?).
+Pelosina cylindrica, Brady (?).
+Technitella legumen, Norman.
+Hyperammina ramosa, Brady (?).
+Aschemonella catenata (Norman).
+Rhizammina algæformis, Brady.
+Reophax adunca, Brady.

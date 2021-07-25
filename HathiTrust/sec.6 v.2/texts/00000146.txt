@@ -1,36 +1,42 @@
-906
+908
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATIONS 233
 AND 233A.
-MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Myxilla rosacea (Lieberkühn), var. japonica, nov. Three specimens and fragments ;
-obtained at no other locality. The species recorded from
-Mediterranean.
-TETRACTINELLIDA (Sollas, Zool. pt. 63).
-Myriastra subtilis, n.g., n.sp. Two specimens; obtained at no other locality.
-ALCYONARIA (Wright and Studer, Zool. pts. 64 and 81).
-Echinogorgia modesta, n.sp. One specimen ; obtained at no other locality.
-Euplexaura pinnata, n.sp. Several specimens ; obtained at no other locality.
-parciclados, n.sp. One specimen ; obtained at no other locality.
-PENNATULIDA (Kölliker, Zool. pt. 2).
-Lituaria phalloides, Pallas (?). One specimen ; obtained at no other locality by
-the Challenger.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Astropecten polyacanthus, Müller and Troschel. For distribution see Port Jackson.
-japonicus, Müller and Troschel. Many specimens ; obtained also at
-Station 233B and Yokohama.
-Asterina penicillaris (Lamarck). Obtained at no other locality by the Challenger.
-Recorded from Indian and Pacific Oceans.
-Asterias versicolor, n.sp. Several specimens ; obtained at no other locality.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Amphiura impressa (Ljungman) (?). Obtained at no other locality by the
-Challenger. Recorded from East Indies.
-Ophionereis schayeri (Müller and Troschel) (?). Obtained also at Station 162.
-Ophiothrix ciliaris (Lamarck) (?). Obtained also at Station 209.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Temnopleurus hardwicki (Gray). Obtained also at Station 192, Arafura Sea, and
-Yokohama.
-Pleurechinus bothryoides, Agassiz. Obtained also at Station 186.
-Echinocardium australe, Gray. Obtained also at Port Jackson.
-Schizaster japonicus, n.sp. Obtained also at Stations 188, 233B, Yokohama, and
-Hong Kong
+Caprella scaura, Templeton. Six specimens (50 fathoms); obtained at no other
+locality by the Challenger. Recorded from Australia,
+Mauritius, and Rio Janeiro.
+ISOPODA
+Three specimens, genus and species undetermined.
+STOMATOPODA (Brooks, Zool. pt. 45).
+Squilla nepa, Latreille. One specimen ; obtained also at Station 233B, Yokoska,
+and Sandwich Islands, 5 to 25 fathoms.
+MACRURA (Spence Bate, Zool. pt. 52).
+Penæus velutinus, Dana. Twenty-one specimens ; obtained also at Stations 184,
+186, 187, 188, and 190.
+tenellus, n.sp. One specimen ; obtained at no other locality.
+Crangon affinis, De Haan. Twelve specimens ; obtained also at Station 233B,
+15 fathoms. Recorded from Japan.
+Alpheus longimanus, n.sp. Four specimens; obtained also at Yokoska,
+5 to 20 fathoms.
+Nauticaris futilirostris, n.g., n.sp. One specimen ; obtained at no other locality.
+Leptochela gracilis, Stimpson. Two specimens ; obtained at no other locality by
+the Challenger. Recorded from Japan.
+BRACHYURA (Miers, Zool. pt. 49).
+Achæus japonicus, De Haan. One specimen ; obtained at no other locality by the
+Challenger. Recorded from Japan.
+Scyra compressipes, Stimpson. One specimen ; obtained at no other locality by the
+Challenger. Recorded from Japan.
+Lophozozymus (Lophoxanthus) bellus, Stimpson, var. leucomanus, Lockington.
+Several specimens; obtained at no other locality by the
+Challenger. Recorded from California and Japan.
+Sphærozius nitidus, Stimpson. One specimen ; obtained at no other locality by the
+Challenger. Recorded from Hong Kong.
+- Pilumnus minutus, De Haan (?), var. hirsutus, Stimpson.
+Several specimens ;
+obtained at no other locality by the Challenger.
+Recorded
+from China, New Caledonia, and Australia.
+globosus, Dana. Two specimens ; obtained at no other locality by the
+Challenger. Recorded from Tahiti and Paumotu Islands.
+Neptunus (Amphitrite) hastatoides (Fabricius). One specimen ; obtained also at
+Stations 188, 233B, and Hong Kong.

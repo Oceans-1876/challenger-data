@@ -1,37 +1,16 @@
-1082
-THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 282.
-At 2 P.M.
-At 7 A.M. observed Tubuai Island lying nearly due east, at a distance of 30 miles.
-At 1.30 P.M. shortened and furled sails, and proceeded under steam to sound.
-sounded in 2450 fathoms. Obtained serial temperatures down to 1500 fathoms. At
-5 P.M. completed observations, and at 5.30 P.M. made sail.
-Valparaiso distant at noon, 4167 miles. Made good 81 miles. Amount of current
-7 miles, direction S.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms. - The following species are recorded from the surface in the
-neighbourhood of this Station :-
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Dicranastrum dichotomum, Haeckel.
-Sethoconus trochus, Haeckel.
-Stichopterium virgineum, Haeckel.
-PELAGIC HEMIPTERA (White, Zool. pt. 19).
-Halobates sericeus, Eschscholtz.
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Clio (Hyalocylix) striata (Rang).
-In addition, the following are recorded in the note-books :-Ceratium (Peridinium)
-tripos, Coccospheres, Rhabdospheres, Globigerina, Hastigerina, Infusoria, Siphonophoræ,
-Sagitta, Alciopa, Annelid larvæ, Cypridina, Corycæus, Copilia, Saphirina, and other
-Copepods, Stomatopod larvæ, small shells (Ianthina ?), Salpa, Appendicularia, and
+1086
+THE VOYAGE OF H.M.S, CHALLENGER,
+STATION 284.
+Phronimids, Stomatopod larvæ, Euphausia, many Pteropods, Salpa, Appendicularia,
+and
+many
 small fishes.
-STATION 283.
-Station 283 (Sounding 428), Tahiti to Valparaiso (see Chart 38 and Diagram 19).
-October 9, 1875; lat. 26° 9' S., long. 145° 17' W.
-Temperature of air at noon, 68°:3; mean for the day, 66°:0.
+STATION 285
+Station 285 (Sounding 430), Tahiti to Valparaiso (see Chart 38 and Diagram 19).
+October 14, 1875; lat. 32° 36' S., long. 137° 43' W.
+Temperature of air at noon, 62°:8; mean for the day, 62°-2.
 Temperature of water :-
-99
-.
+o
 Surface,
 25 fathoms,
 50
@@ -45,20 +24,19 @@ Surface,
 250
 275
 300
-3 2
-68.5
-68.2
-68.0
-66.5
-64.6
-62:8
-60:3
+65.0
+63.8
+63.4
+63.0
+61.8
+60.0
 57.5
-54:8
-52.0
-49.2
+55.0
+52:3
+49.8
 46.8
-45.4
+46.2
+45.2
 400 fathoms,
 500
 600
@@ -72,19 +50,51 @@ Surface,
 1400
 1500
 Bottom,
-42.2
-40.3
-39.0
-38.0
-37.3
-36:7
-36.3
-36.0
+42.8
+41:0
+39.5
+38.4
+37.7
+37.0
+36.6
+36:3
+36:1
+35.9
 35.8
-35-6
-35.4
-35.4
-35.4
-3
+35.7
+35.0
+>
+Density at 60° F.:-
+!
+.
+Surface,
+25 fathoms,
+50
+100
+200
+. 1.02621
+, 1:02600
+. 1.02609
+. 1.02600
+1.02581
+300 fathoms,
+400
+800
+Bottom,
+1.02550
+1:02556
+1:02553
+. 1.02575
 .
 1
+Depth, 2375 fathoms ; deposit, Red Clay, containing 26-25 per cent. of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.15 A.M. shortened and furled sails, and at 5 A.M. proceeded under steam. At
+5.30 A.M. sounded in 2375 fathoms.
+At 7 A.M. put trawl over and veered 2900 fathoms.
+Obtained serial temperatures down to 1500 fathoms. The carbonic acid was determined
+in bottom water, and amounted to 45.6 milligrammes per litre. . At 1 P.M. commenced
+heaving in trawl, which came up at 3.45 P. M. with several specimens, several quarts of dark
+chocolate-coloured clay, and large numbers of manganese nodules, sharks' teeth, earbones
+and fragments of other bones of Cetaceans, pumice-stones, and angular and rounded
+pebbles, apparently ice-borne. The specimen of the deposit procured in the sounding-tube

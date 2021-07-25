@@ -1,41 +1,41 @@
-10
+14
 THE VOYAGE OF H.M.S. CHALLENGER.
-formed later by the pressure of the shell upon the thinnest points of the pallial envelope ;
-it is solely on account of this pressure that the mantle has not completely closed and
-that the openings have therefore persisted. The development of the shell sac of other
-Cephalopods (Sepia, Loligo) takes place in an essentially similar manner, except that
-the edges join not only in one part but throughout their whole length.
-The terminal disk is remarkable for the organs which it carries : Fins and Aboral Fossa.
-a. Fins. The fins are relatively small, rounded, almost semicircular, longer in the
-“ dorso-ventral" direction than in the cephalo-caudal (Pl. I. fig. 1; Pl. II. fig. 2; Fig. J
-in the text). Their muscular mass is not attached to the cartilaginous supports, as
-in the other Decapods, the fibres being inserted directly on the shell sac. The fins of
-Spirula are characterised by their direction and situation.
-* Direction.—The fins are parallel to the median sagittal plane, inserted to the
-right and left of the terminal disk, and not arranged in the same right and left horizontal
-plane as is the case with other Dibranchiate Cephalopods; they are thus to the fins
-of other Dibranchiates much as the tails of fishes are to those of Cetaceans.
-** Situation at the posterior part of the body. In the Cephalopods which have been
-most generally studied (Sepia, Loligo, &c.), the fins extend in the direction just indicated
-along a rather considerable length of the sides of the mantle. Nevertheless the dis-
-position presented in Spirula cannot be considered as a state of reduction or of retro-
-grade development. In fact in Nautilus, where the shell is quite external, there are no
-fins. In the Egopsids, such as Ommatostrephes, the most archaic of living Dibranchiate
-Cephalopods, the two fins are at the posterior extremity, attached side by side on the
-median dorsal line (where they cannot be attached in Spirula, on account of the opening
-of the shell cavity), and do not extend so far forward as in the other Decapods, in which
-the line of attachment is by degrees removed from the median dorsal line (Loligo)
-towards the sides where the fins extend over a greater and greater length (Sepioteuthis,
-Sepia). On the other hand, in the development of Decapods with long fins (Loligo,
-Sepia), as well as in the others, these organs are found originally situated at the aboral
-extremity, as in the adult Spirula, and are there separated by a space of greater or less
-extent (Figs. G, H). Spirula thus presents the most primitive state of the fins of
-Cephalopods.
-B. Aboral Fossa.—Between the two fins in the middle of the terminal disk is found
-a rounded opening (Pl. I. fig. 4; Pl. II. fig. 3), which in Professor Giard's specimen
-appears rather elongated across (apparently by deformation, see Fig. I in the text).
-This opening leads into a cavity of greater diameter than that of the orifice (Pl. II.,
-fs.; Pl. VI. fig. 14). This cavity is occupied by a conical papilla, the summit of which
-in certain individuals projects a little to the outside (Pl. VI. fig. 14). This papilla
-presents a peculiar structure, but the state of preservation of the two specimens studied
-unfortunately prevents a very detailed description. The two figures relative to this
+not present siphonal necks, but each segment of the siphuncle is joined to the subsequent
+one (that which is formed after it) by a sort of “cogwheel,” more or less regular, which is
+found at the aboral extremity of the former, spreading a little over the concave surface of
+the septa (Pl. II. figs. 4 and 6), and thus preventing the penultimate chamber from com-
+municating with the siphonal cavity. The apical extremity of the siphuncle is a cæcum
+making a small prominence in the interior of the initial chamber (Pl. II. fig. 7, psph.);
+from this cæcum a sort of ligament, situated in the median sagittal plane, runs, while
+enlarging, to the wall of the initial chamber (prosiphonal ligament or "prosiphuncle,"
+Pl. II. fig. 7, c.). We can only make conjectures as to the nature and function
+of this “ligament.” But it evidently cannot have had the function of siphuncle in the
+embryo;the embryo with a single chamber cannot have had any kind of siphuncle,
+and from the formation of the second chamber the true siphuncle was constituted.
+The fact that in our Spirula reticulata the last chamber is so shallow renders it
+probable that the increase of the shell-siphon is intermittent, and that each segment of the
+siphuncle does not originate much before the septum which is topographically anterior to it.
+d. Pallial Cavity.— The pallial cavity is widely open, the margin of the mantle not being
+at any point united to the cephalopedal mass. But it is considerably less deep than in the
+other Dibranchiates; the presence of the shell prevents its extension on the median line (Pl.
+I. fig. 6; Pls. III. and IV.), and even on the sides it does not extend very much further
+(Pl. IV, figs. 1 and 3, a). In Nautilus likewise the pallial cavity does not extend so far
+backwards as in the other Cephalopods. Upon the “ visceral ” face of the pallial cavity,
+at the very posterior extremity, are found (in the female) the nidamental glands (Pl. I. fig.
+6, n.g., &c.). In front, and partially concealed by the anterior extremity of these glands,
+are glandular prominences (Pl. I. fig. 7, x ; Fig. C in the text, iii), apparently accessory
+nidamental glands (see further on, Reproductive System); the left one partly hides the
+extremity of the oviduct (Fig. C, ix). In Spirula peroniż and Spirula australis (Pl. I.
+fig. 7; Pl. II. fig. 1) the anus opens between these two prominences on the level of
+their anterior margins, whilst in Spirula reticulata it, as well as the two neighbouring
+sessile renal openings (Fig. R), is hidden on the median line behind these two prominences,
+which are almost in contact; between the two prominences there is seen, beneath the
+integuments, the ink bag (Figs. C and R, iii). The glandular extremity of the oviduct
+projects between the left gill and the glandular prominence, behind which it sinks and
+opens obliquely (Fig. R, vii).
+The gills are situated quite laterally (Pl. IV. fig. 3, br”), less ventrally than in other
+Cephalopods. They are relatively small, and present about twenty-five pairs of leaflets.
+1 The remarkable radiating structure of the siphuncle of certain palæozoic Cephalopods is perhaps
+comparable to it.
+2 Munier-Chalmas, Sur le développement du phragmostracum des Céphalopodes et sur les rapports
+zoologiques des Ammonites avec les Spirules (Comptes rendus, t. lxxvii., 1873, p. 1559).

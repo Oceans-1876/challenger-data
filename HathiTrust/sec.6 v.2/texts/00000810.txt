@@ -1,184 +1,183 @@
-1528
+1532
 THE VOYAGE OF H.M.S. CHALLENGER.
-Nassa-continued.
-(Alectryon),
-glans,
-var. suturalis, 567, 1403.
-psila, 684, 1347.
-monile, 627, 1403.
-(Arcularia),
-granifera, 651, 1403.
-(Cæsia),
-limata, 128, 1403.
-(Hebra),
-echinata, 651, 1403.
-muricata, 651, 1403.
-(Hima),
-capillaris, 345, 1403.
-paupera, 567, 1403.
-(Niotha),
-gemmulata, 728, 1403.
-pauperata, 533, 541, 567, 1403,
-1426.
-ravida, 765, 1403.
-siquijorensis, 909, 1403.
-sordida, 736, 1403.
-stigmaria, 627, 651, 1403, 1426.
-(Tritia),
-brychia, 133, 1322.
-ephamilla, 609, 1322.
-(Zeuxis),
-algida, 707, 806, 1403, 1426.
-canaliculata, 786, 1403.
-crenulata, 909, 913, 914, 1403,
-1426.
-levukensis, 651, 1403.
-Nassaria,
-amboynensis, 765, 1403.
-campyla, 579, 1347.
-sinensis, 708, 723, 1403, 1426.
-suturalis,
-var. bitubercularis,
-1403.
-Nasturtium, 4.
-Natica, 164, 177, 293, 351, 362, 532,
-560, 655, 709, 1309, 1312,
-1313, 1322, 1326, 1347, 1404.
-affinis, 226, 227, 1403.
-amphiala, 609, 1322.
-atypha, 728, 1403.
-effossa, 533, 569, 1403, 1426.
-euzona, 569, 1403.
-fartilis, 439, 474, 485, 1347, 1356,
-1359, 1403.
-grisea, 474, 1403.
-insularum, 748, 1347.
-leptalea, 164, 1347.
-philippinensis, 815, 1347.
-pseustes, 655, 1403.
-psila, 422, 1347.
-radiata, 194, 1270, 1309, 1313,
-1347.
-rufa, 728, 1403.
-Natica-continued.
-sagittata, 569, 1403.
-seychellium, 821, 1403.
-variabilis, 128, 274, 1347, 1359,
-1403.
-xantha, 485, 1347.
-(Amauropsis),
-apora, 609, 740, 1322, 1325.
-perscalpta, 474, 1403.
-suturalis, 474, 1403.
-(Lunatia),
-grönlandica, 490, 1403, 1449.
-prasina, 474, 1403.
-(Mamma),
-aurantia, 628, 1403.
-draparnaudi, 807, 1403.
-mamilla, 708, 1403.
-porcellana, 128, 312, 1403, 1426.
-(Neverita),
-albumen, 668, 1401.
-conica, 569, 1404.
-didyma, 569, 1404.
-Naucrates, 642.
-ductor, 143, 642.
-Nauphanta, 1314.
-challengeri, 1224, 1303.
-Nautactis, 676, 790.
-Nauticaris,
-futilirostris, 908, 1387.
-marionis, 437, 1177, 1341, 1359,
-1387, 1424.
-unirecedens, 795, 1387.
-Nautilograpsus, 155, 254, 617, 852,
-1064.
-minutus, 123, 167, 188, 189,
-254, 262, 993.
-Nautilus, 634.
-beccarii, 62.
-pompilius, 634, 1350.
-Navicula, 130, 774, 797, 812.
-æstiva, 286.
-angulosa, 130, 277, 286.
-apis, 197, 442.
-approximata, 286.
-renaria, 442, 733.
-aspera, 130, 135, 191, 277, 286,
-302, 514, 517, 733, 760, 812,
-904, 930, 938, 10:27.
-var. intermedia, 733.
-var, oblonga, 442.
-var. pygmæa, 733.
-var. rhombica, 442, 481.
-baileyana, 812.
-bomboides, 130, 135, 302, 904.
-bombus, 197, 277, 286, 733, 812,
-930.
-brasiliensis, 191, 277, 442, 812,
-904.
-bullata, 197, 277, 286, 302, 812,
-903.
-Navicula-continued.
-californica, 135, 277.
-campylodiscus, 135, 191, 197,
-277, 286, 930.
-carinifera, 130.
-cincta, 286, 302.
-clavata, 130, 135, 191, 197, 220,
-277, 286, 302, 812, 903.
-clepsydra, 733.
-cluthensis,
-var. minuta, 930.
-cælata, 286.
-coffeaformis, 130, 191, 930.
-consors, 130, 191, 197, 277, 286,
-442.
-constricta, 277, 442, 938.
-crabro, 904, 911, 937.
-crassa, 930.
-didyma, 130, 191, 197, 220, 277,
-286, 302.
-directa, 197, 302
-distans, 220, 277, 286, 442, 481,
-492, 733, 930, 1027.
-donkinii, 130, 135, 286.
-durandii, 812.
-egyptiaca, 904.
-entomon, 904.
-eugenia, 286.
-excemta, 197, 424.
-executa, 277.
-firma,
-var. tumescens, 481.
-forficula, 277, 286.
-formosa, 733.
-fusca, 130, 220, 277,
-302.
-gemmata, 904, 938.
-var. minuta, 442.
-graffii, 130, 191, 197.
-granulata, 197.
-gregoriana, 191, 197, 277, 286,
-424.
-hennedyii, 130, 135, 197, 277,
-286, 302, 903, 937.
-var, controversa 286.
-var. granulata, 286.
-impressa, 903.
-incurvata, 277, 302.
-indica, 812.
-interrupta, 302.
-irrorata,
-var. elliptica, 930.
-janischii, 191.
-jejuna, 481.
-lacrimans, 191, 197.
-latissima, 277, 286.
-legumen,
-var. decrescens, 937.
-liber, 904.
-lineata, 130, 135, 277, 286.
-286,
-807,
+Octopus-continued.
+duplex, 549, 1350.
+granulatus, 312, 414, 1410, 1427.
+januarii, 363, 935, 1297, 1301,
+1350.
+levis, 490, 1410.
+macropus, 926, 1410.
+inarmoratus, 1000, 1410.
+occidentalis, 1240, 1410.
+pictus,
+var. fasciata, 572, 1410.
+punctatus, 901, 1350.
+tehuelchus, 170, 1410.
+tonganus, 628, 1410.
+tuberculatus, 363, 1410.
+verrucosus, 397, 1410.
+vitiensis, 657, 1410.
+Octopyle,
+amphistyle, 1051.
+decastyle, 875, 879.
+euryzona, 1217.
+hexastyle, 147.
+octostyle, 1095.
+ovulina, 1061.
+quadrata, 957.
+sexangulata, 1032.
+staurostyle, 1249.
+stenozona, 1231.
+subglobosa, 1132.
+tetraptera, 1046.
+tetrastyle, 1268.
+transversaria, 875.
+Octotympanum,
+arborescens, 880, 1060.
+cervicorne, 1051.
+octonarium, 1040.
+octospinuni, 1056.
+Oculina,
+bermudensis, 240, 1371.
+coronalis, 240, 1371.
+diffusa, 168, 240, 1371, 1422.
+pallens, 240, 1371.
+prolifera, 399.
+ramea, 85.
+recta, 168, 1371.
+speciosa, 240, 1371.
+varicosa, 168, 240, 1371, 1422.
+Ocypoda, 561, 1392.
+arenaria, 244, 377, 1392, 1425.
+ceratophthalma, 618, 683, 736,
+831, 1392, 1425.
+cursor, 311, 1392.
+Odontocyathus,
+coronatus, 171, 1332.
+Odostomia, 413, 570, 655, 710, 729, 999,
+1243, 1348, 1404.
+convoluta, 709, 1404.
+corpulenta, 709, 1404.
+hyphala, 609, 1322.
+Kymatodes, 709, 999, 1404, 1426.
+Odostomia-continued.
+nitens, 274, 1347.
+oödes, 709, 1404.
+oxia, 709, 1404.
+pupa, 709, 1404.
+rissoïdes, 439, 1347, 1449.
+scopulorum, 729, 998, 1404, 1426.
+turrita, 129, 362, 1347, 1359,
+1404.
+unidentata, 362, 1347.
+(Obeliscus),
+nitidula, 177, 274, 1347, 1356.
+(Parthenia), 1076, 1404.
+casta, 542, 569, 1404, 1426.
+(Syrnola),
+aciculina, 710, 1404.
+(Turbonilla), 178, 362, 710, 1348,
+1404.
+amcebæa, 710, 1404.
+compressa, 267, 274, 1309, 1313,
+1348.
+consanguinea, 580, 1348.
+constricta, 580, 1348.
+densicostata, 177, 1348.
+dipsycha, 729, 1404, 1426.
+var. incerta, 710, 729, 1404.
+fischeri, 580, 1348.
+homeotata, 710, 1404.
+kymatoëssa, 178, 1348.
+paucistriata, 178, 1318.
+philomele, 396, 1348.
+phrikalea, 178, 1348.
+rhabdoïdes, 729, 1404.
+rhabdota, 178, 1348.
+scalpidens, 570, 1404.
+Ediceroides,
+cinderella, 1182, 1306.
+ornata, 538, 1386.
+rostrata, 468, 485, 1310, 1356.
+Ediceros,
+lynceus, 226, 1386.
+Estrelata,
+lessoni, 1099.
+Estrella,
+levinseni, 251, 1278.
+Ohola, 1429.
+pacifica, 729, 1410.
+Oikopleura, 142.
+Oithona, 1024.
+challengerii, 575, 773, 799, 1003,
+1185, 1226, 1235, 1237, 1255,
+1257, 1258, 1260, 1261, 1266.
+Oliva, 177, 600, 627, 707, 1348, 1404.
+rufula, 765, 1404.
+(Galeola),
+picta, 627, 736, 765, 1404, 1426.
+(Ispidula),
+australis, 707, 1404, 1427.
+(Olivella),
+amblia, 361, 1348.
+Oliva (Olivella)-continued.
+ephamilla, 361, 1348.
+fulgida, 345, 1404.
+leucozona, 567, 1404.
+nympha, 568, 1404.
+pulchella, 345, 1404.
+vitilia, 177, 1368.
+Olivella (see Oliva).
+Ommastrephes, 1263.
+oualaniensis, 672, 869,
+Ommatartus,
+amphicanna, 1031, 1039, 1050,
+1055, 1059.
+amphilonche, 1015.
+amphiobolus, 979.
+amphisiphon, 1045.
+Ommatocampe,
+erucæformis, 1265.
+nereis, 1039, 1050, 1055, 1059.
+polyarthra, 1022.
+Ommatocarcinus,
+macgillivrayi, 597, 1392.
+Ommatodiscus, 512.
+circularis, 1039, 1045.
+fragilis, 1011, 1265.
+lævigatus, 513.
+obscurus, 1039, 1045.
+ovatus, 1039, 1045.
+stöhrij, 513, 957.
+Omosudis, 1327.
+lowii, 842, 1324.
+Omphalius (sce Trochus).
+Oncæa,
+obtusa, 314, 545, 552, 575, 585,
+660, 675, 717, 773, 799, 835,
+852, 940, 986, 1003, 1024,
+1121, 1137, 1138, 1207, 1208,
+1210, 1237, 1255, 1257, 1258,
+1260.
+Onchidium,
+melanopneumon, 657, 1410.
+Onchopora,
+sinclairii, 476, 485, 491, 510, 1297,
+1301, 1352, 1360, 1413, 1427.
+Onchoporella,
+bombycina, 414, 1413.
+Oncinopus,
+aranea, 560, 724, 767, 1321, 1327,
+1392, 1425.
+Oneirophanta,
+mutabilis, 445, 508, 527, 947,
+955, 1080, 1124, 1205, 1278,
+1280, 1281, 1285, 1288, 1289,
+1294, 1299, 1305.
+Onesimoides, 1314.
+carinatus, 680, 1306.
+Oniscia,
+cithara, 748, 1348.
+Onoba (see Rissoa).
+Onuphis, 857, 922.
+1

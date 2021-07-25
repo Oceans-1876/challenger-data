@@ -1,7 +1,31 @@
-888
+890
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 229.
-Temperature of water :-
+Sergestes, crab, Zoëæ, Halobates, Ianthina, small shells, Glaucus, Atlanta, Cardiopoda,
+Carinaria, Pneumonoderma, Eurybia [ = Halopsyche], Hyalæa [ = Cavolinia), Styliola,
+Cleodora [= Clio] balantium, Appendicularia, Salpa, Pyrosoma, several fishes (large
+Stomiatidæ and Scopelids four inches in length). A shark was caught, a female
+Carcharias, six feet in length, with the tips of the fins white.
+Willemoes-Suhm writes : “The tow-net brought in some very fine things. Salpæ
+and Medusæ filled the water, along with very large Collosphæride. There were also
+Ctenophoræ, huge specimens of Alciopa with intense black spots, small Tomopteris,
+Crustacea in great abundance, especially Copepods, and Amphipods belonging to the
+genera Anchylomera and Hyperia, and also Dithyrus, the coxæ of the pereiopods of
+which are so singularly enlarged as to form a ventral cavity with the abdomen, and closes
+up the animal entirely. Phyllosoma was very common in all stages, and will furnish
+very valuable material for working out the development of the Pacific Loricata. The
+specimens of Halobates were constantly smaller than the Atlantic specimens. There
+were many small fishes, including Stomiatidæ with phosphorescent lateral spots, some
+over two inches in length. Velella, which has seldom been taken, made its appearance,
+along with its parasite Ianthina, and Porpita and Glaucus. Among the Pteropods I
+found several specimens of Cleodora balantium with the animals—a Mollusc we have
+never taken alive before, and is, I believe, considered to be very rare.”
+Station 230.
+Station 230 (Sounding 368), Admiralty Islands to Yokohama (see Chart 31 and
+Diagram 16).
+April 5, 1875; lat. 26° 29' N., long. 137° 57' E.
+Temperature of air at noon, 73°:3 ; mean for the day, 709:5
+Temperature of water:-
 O
 >
 Surface,
@@ -17,19 +41,19 @@ Surface,
 250
 275
 300
-78.5
-75.7
-73.3
-71.0
-69.0
-66.9
-64.8
-62.5
-60:4
-58.3
-56.2
-54:1
-52.0
+68.5
+67.0
+66:0
+65.0
+63.9
+62:8
+61.7
+60:7
+59.7
+58.2
+56.0
+53.3
+50.5
 400 fathoms,
 500
 600
@@ -43,59 +67,16 @@ Surface,
 1400
 1500
 Bottom,
-44-2
-40:3
-38.5
-37:7
+43.0
+39.7
+38.0
 37.2
 36.7
 36.3
-35.8
-35:3
-35.2
-35.2
-35.2
-35.2
-Density at 60° F. :-
-Surface,
-25 fathoms,
-50
-100
-200 fathoms,
-300
-400
-. 1.02613
-. 1.02590
-. 1:02594
-. 1.02580
-.
-. 1.20555
-1.02507
-1.02528
-Depth, 2500 fathoms; deposit, Red Clay, containing only a trace of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 3.15 A.M. shortened and furled sails, and got up steam. At 5.15 A.M. stopped,
-and at 6 A.M. sounded in 2500 fathoms. At 7 A.M. put over trawl. At 10 A.m. obtained
-serial temperatures down to 1500 fathoms. The carbonic acid was determined in water
-from 300 fathoms, and amounted to 34:0 milligrammes per litre. At 2 P.M. commenced
-heaving in trawl, but at 5.30 P.M. the weights only came up, the rope having parted just
-below the weights, and the trawl and 500 fathoms of rope were lost. Lord Campbell
-shot on the wing an albatross (Diomedea brachyura), and other albatrosses, petrels,
-prions, boatswain birds, and phaleropes were seen.
-Distance at noon from No Sima lighthouse, 772 miles. Made good
-Made good 44 miles. .
-Amount of current 4 miles, direction N. 45° W.
-DIATOMACEÆ.—The following species of Diatoms were observed by Mr. Rattray and
-Mr. Comber in the deposit from this Station :
-Navicula multicostata, Grunow.
-major, Kutzing (fresh water).
-radiosa, Kutzing (fresh water).
-Nitzschia marina, Grunow.
-scalaris, W. Smith,
-Triceratium seychellense, Grunow.
-Hemidiscus cuneiformis, Wallich.
-Cerataulus turgidus, Ehrenberg.
-Coscinodiscus leptopus, Janisch.
-anguste-lineatus, A. Schmidt.
-excentricus, Ehrenberg.
-denarius, A. Schmidt.
+35.9
+35.5
+35.5
+35.5
+35.5
+35.5
+35.5

@@ -1,84 +1,68 @@
-892
+894
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 230.
+STATION 231.
+.
+.
+Density at 60° F.:-
+Surface,
+25 fathoms,
+50
+100
+1:02541
+1.02566
+1:02562
+. 1.02650
+200 fathoms,
+300
+400
+Bottom,
+1.02546
+1.02544
+1.02549
+1.02579
+.
+Depth, 2250 fathoms ; deposit, Blue Mud, containing only a trace of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4 A.M. got up steam. At 5.30 A.M. shortened and furled sails. At 6 A.M.
+proceeded under steam, and at 6.15 A.M. sounded in 2250 fathoms. At 8 A.M. obtained
+serial temperatures down to 1500 fathoms. At 11.30 A.M. completed observations, and
+made all plain sail. Black and white albatrosses were seen.
+Distance at noon from Redfield Rocks, 189 miles. Made good 70 miles. Amount
+of current 7 miles, direction S.
 ORGANISMS FROM
 THE DEPOSIT.
-DIATOMACEÆ.—The following species of Diatoms were observed by Mr. Rattray in the
-deposit from this Station :-
-var.
-9
-Coscinodiscus rex, Wallich.
-curvatulus, Grunow, var. genuina,
-Grunow.
-radiatus, Ehrenberg, var. media,
-Grunow.
-excentricus, Ehrenberg.
-leptopus, Grunow.
-gazellæ, Janisch.
-centralis, Ehrenberg.
-marginatus, Ehrenberg.
-lineatus, Ehrenberg.
-africanus, Janisch.
-apiculatus, Ehrenberg, var. ambigua,
-Grunow.
-Coscinodiscus nodulifer, Janisch.
-gigas, Ehrenberg,
-diorama,
-Grunow.
-Stoschia admirabilis, Janisch.
-Asterolampra marylandica, Ehrenberg.
-Asteromphalus stellatus, Ralfs.
-roperianus, Ralfs.
-hiltonianus, Ralfs.
-Hemidiscus cuneiformis, Wallich.
-Navicula spectabilis, Gregory, var.
-Nitzschia scalaris, W. Smith, var.
-Alloioneis antillarum, Cleve and Grunow.
-Synedra affinis, Kutzing, var. approaching hybrida,
-Gomphonema geminatum, Agardh (fresh water).
+RADIOLARIA (Haeckel, Zool. pt. 40).— The following species of Radiolaria were
+observed in the deposit from this Station :-
+Distephanus corona, Haeckel.
+Aulographis tuumorpha, Haeckel.
+furcula, Haeckel.
+Aulospathis diodon, Haeckel.
+Challengeria sigmodon, Haeckel.
+Challengeria harstoni, Murray.
+murrayi, Haeckel.
+Challengeron channeri, Murray.
+ciliatum, Haeckel.
+Haeckeliana goetheana, Haeckel.
 ORGANISMS FROM
 SURFACE-NETS.
->
-Surface Organisms.—The following species are recorded from the surface in the
-neighbourhood of this Station :-
-COPEPODA (Brady, Zool. pt. 23).—Parasitic Clio (Styliola) . subula, Quoy and
-on shark.
-Gaimard.
-Pandarus cranchië (Leach), Steenstrup
-pyramidata, Linné.
-and Lütken.
-cuspidata (Bosc).
-Nogagus latreillië (Leach), Steenstrup
-Cuvierina columnella (Rang).
-and Lütken.
-Cavolinia trispinosa (Lesueur).
-curticaudis (Dana).
-longirostris (Lesueur).
-validus, Dana.
-gibbosa (Rang).
-inflexa (Lesueur).
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Orchomene musculosus, n.sp.
-CEPHALOPODA (Hoyle, Zool. pt. 44).
-Phronimella elongata, Claus.
-Teleoteuthis caribbæa (Lesueur),
-Phrosina pacifica, n.sp.
-Verrill (?).
-Anchylomera blossevillii, M.-Edwards.
-TUNICATA (Herdman, Zool. pt. 76).
-Eupronoë inscripta, n.sp.
-Pyrosoma elegans, Lesueur (?).
-Brachyscelus sp. (?).
-Salpa costata-tilesii, Quoy and
-Gaimard-Cuvier.
-Macrura (Spence Bate, Zool. pt. 52).
-cordiformis-zonaria, Quoy
-Elaphocaris crassus (Suhm, MS.), n.sp.
-and Gaimard-Pallas.
-PTEROPODA (Pelseneer, Zool. pt. 65).
-cylindrica, Cuvier (?).
-Clio (Creseis) virgula (Rang).
-FISHES (Günther, Zool. pt. 78).
-(Hyalocylix) striata (Rang).
-Carcharias glaucus, Linné.
-sp. (?).
+Surface Organisms.— The following species are recorded from the surface at this
+Station :
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Sagoplegma pyramidophora, Haeckel.
+Staurotholus polystylus, Haeckel.
+Aulosphæra triodon, Haeckel.
+Staurotholonium octodoratium, Haeckel.
+Auloscena tentorium, Haeckel.
+Sethoconus trochus, Haeckel.
+Auloplegma spongiosum, Haeckel.
+Theocampe cryptoprora, Haeckel. Medusetta quadrigata, Haeckel.
+Auloceros furcosus, Haeckel.
+Castanissa crosbiei, Haeckel.
+In addition, the following are recorded in the note-books (April 9, 10) :-Diatoms,
+Noctiluca, Pyrocystis (two varieties), Peridinium (two species) in catena, Acineta (on
+tails of Copepods), Globigerina, Orbulina, Hastigerina, Pulvinulina, Challengeridæ
+(from tow-net sent down to 1000 fathoms), Medusæ, Diphyids, Velella, Ctenophoræ,
+small Ophiurid (from net sent down to 1000 fathoms), Sagitta, Tomopteris-like Annelid,
+Annelid and Planarian larvæ, Cythere, Cypridina (several species), Saphirina and other
+Copepods, Rhabdosoma, Phronima, Phornimella, Anchylomera, Hyperids, Oxycephalus,
+1

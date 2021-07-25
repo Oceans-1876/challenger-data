@@ -1,128 +1,121 @@
 SUMMARY OF RESULTS.
-1381
-T
-> >
-S
-sp. (?). N
+1385
 S
 T
+N
+T
+S
+T
+S
+T
+N
+S
+S
+T
+S
+N
+S
 *
-*
-S
-sp. (?). T
 T
-T
-S
-N
-* Eunice mindanavensis, n.sp.
-T
-* Laonome haeckelii, n.sp.
-murrayi, n.sp.
-S
-* Leanira japonica, n.sp.
-N
-ærstedi, Stimpson. SN
-lævis, n.sp.
-pycnobranchiata, n.sp.
-S
-Lepidonotus cristatus, Grube. T
-torquata, Quatrefages. T
-gymnonotus, Marenzeller. N
-torresiensis, n.sp.
-T
-wahlbergi, Kinberg: S
-vittata, Delle Chiaje. SN
-* Loimia savignyi, n.sp.
-T
-* Lumbriconereis heteropoda, Marenzeller.
-* Eunoa capensis, n.sp.
-N
-mindanavensis, n.sp.
-pettigrewi, n.sp.
-S
-Eupholoë philippinensis, n.g., n.sp.
-T
-Marphysa goodsiri, n.sp.
-T
-* Euphrosyne borealis, Ersted. N
-* Nematonereis sp. (?).
-capensis, Kinberg. S
-* Eupompe australiensis, n.sp.
-Neottis antarctica, M'Intosh.
-S
-* Eurythoë pacifica, Kinberg TN Nephthys dibranchis, Grube.
-var. levukaensis, nov.
-trissophyllus, Grube.
-* Eusyllis tubifex, Gosse.
-verrilli, n.sp.
-S
-* Evarne kerguelensis, n.sp.
-S
-* Nereis antillensis, n.sp.
-T
-Exogone heterosetosa, n.sp.
-S
-atlantica, n.sp.
-T
-Glycera amboinensis, n.sp. T
-kerguelensis, Baird.
-lamelliformis, n.sp.
-S
-patagonica, n.sp. S
-sagittarix, n.sp.
-(Ceratonereis) brasiliensis, n.sp.
-Hermadion kerguelensis, n.sp.
-T
-* Hermione hystrix (Savigny). T
-(Lycoris ?) pelagica, Linné.
-* Hermodice carunculata (Pallas).
-Τ Ν
-(Perinereis) melanocephala, n.sp.
-* lesione pacifica, n.sp.
-(Fallacia) pantherina, Risso. T * (Platynercis) arafurensis, n.sp.
-T
-T
-Hyalinæcia tubicola, Müller. S TN
-(
-) dumerilii. Audouin
-var. papuensis, nov.
-and M.-Edwards.
-* Hydroides multispinosa, Marenzeller. N
-T
-Lætmonice producta, Grube. S T N
-(
-) eatoni, M'Intosh.
-var. assimilis, nov.
-ST
-wyvillei, nov.
-(
-) kobiensis, n.sp.
-Lagisca antarctica, n.sp.
 s
-(
-) tongatabuensis, n.sp.
-(?) hexactinellida, n.sp.
-T
-T
-peracuta, n.sp.
-* Nicomache capensis, n.sp.
-tenuisetis, n.sp.
-T
-Nothria conchylega, Sars. N
-yokohamiensis, n.sp.
-* Notocirrus capensis, n.sp
-(SUMMARY OF RESULTS CHALL. EXP.—1894.)
-S
-T
-S
 N
-T
+>
+* Balanus rostratus, n.sp.
 N
+* Autonoe philacantha, n.sp.
+socialis, n.sp.
+* Caprella danilevskii, Czerniavski.
+tintinnabulum (Linné), var.
+scaura, Templeton. N
+communis, Darwin.
+Cardenio paurodactylus, n.g., n.sp.
+tintinnabulum (Linné), var.
+* Cerapus flindersi, n.sp.
+spinosus, Gmelin
+* Chosroës incisus, n.g., n.sp.
+trigonus, Darwin. SN
+* Dexamine flindersi, n.sp.
+T
+sp. (?) T
+* Dryopoides westwoodi, n.g., n.sp.
+S
+* Chthamalus dentatus, Krauss.
+Elasmopus subcarinata (Haswell). S
+* Conchoderma virgatum (Spengler). T * Epimera loricata, Sars.
+* Coronula diadema (Linné). N
+* Eusiroides cæsaris, n.g., n.sp.
+* Lepas anatifera, Linné. N
+pompeii, n.g., n.sp.
+hillii (Leach).
+Eusirus longipes, Boeck.
+* Scalpellum stroemii, Sars.
+* Euthemisto thomsoni, n.n.
+trispinosum, n.sp.
+Gammaropsis exsertipes, n.sp.
+Sylon challengeri, n.sp.
+* Halimedon schneideri, n.sp.
+S
+* Tetraclita cærulescens (Spengler). T * Halirages fulvocinctus (Sars). N
+rosea (Krauss). S
+husleyanus (Spence Bate). S
+* Haplocheira plumosa, n.sp. S
+AMPHIPODA :
+Harpinia obtusifrons, n.sp. S
+* Acontiostoma kergueleni, n.g., n.sp.
+Harpinioides drepanocheir, n.g., n.sp. S
+magellanicum, n.g., n.sp. S * Hippomedon geelongi, n.sp.
+marionis, n.g., n.sp.
+kergueleni (Miers).
+S
+pepinii, n.g., n.sp. S
+miersi, n.sp.
+S
+* Amaryllis bathycephalus, n.sp. s
+trigonicus, n.sp.
+S
+macrophthalmus, Haswell. s * Hyperia gaudichaudi, M.-Edwards.
+* Ambasia integricauda, n.sp. S
+* Icilius dana, n.sp.
+S
+Ampelisca acinaces, n.sp.
+Iphimedia pulchridentata, n.sp.
+S
+Amphithoë flindersi, n.sp.
+* Leucothoë flindersi, n.sp.
+japonica, n.sp.
+* Liljeborgia æquabilis, n.sp.
+kergueleni, n.sp.
+consanguinea, p.sp.
+Anonyx cicadoides, n.sp. S
+haswelli, Stebbing. S
+* Aora kergueleni, n.sp.
+* Lysianax variegatus (Stimpson). S
+trichobostrichus, n.sp.
+Mæra rubromaculata (Stimpson). S
+Atyloides australis (Miers). S * Metopa compacta, n.sp.
+serraticauda, n.g., n.sp. S
+crenatipalmata, n.sp.
+* Atylopsis dentatus, n.g., n.sp. S
+magellanica, n.sp. S
+magellanicus, n.g., n.sp. S
+ovata, n.sp.
+* Atylus homochir, Haswell. s
+parallelocheir, n.sp. S
+S
 *
-(?). sp.
-N
+S
+S
+2
+S
+S
 T
-S
+T
 N
 S
-174
+S
+S
+S
+S
+S
+S
+S

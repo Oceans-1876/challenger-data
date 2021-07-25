@@ -1,43 +1,44 @@
-2:2
-THE VOYAGE OF H.M.S. CHALLENGER.
-1
-also is high. In the same ocean, between lat. 10° to 40° S., and a little to the west
-of long. 10° W., the Challenger took eight observations, with a mean of 1'0264,
-which is still a high mean, but less than the mean of 1.0268 found to westward as we
-near South America. But within or close to the region where temperature falls to
-53° the five specific gravities observed by the Challenger were 1•0261, 1:0262, 1:0260,
-1·0260, and 1.0261, giving a mean of 1.0261, thus corroborating the view that the
-low temperature of 53° found here is brought, by upwelling, from greater depths.
-Depth of 200 Fathoms (Map 4).—The mean temperature of the ocean at this
-depth is 50°:1, showing thus a fall of 10°6 from the mean at 100 fathoms. The part
-of the North Atlantic where temperature is above the mean, 50°1, embraces now a very
-much wider area than that of the South Atlantic; further, within the same area the
-temperature rises much higher in the North than in the South Atlantic, the highest
-isothermal in the former being 64° whereas in the latter it is only 55°. In the North
-Atlantic the mean specific gravity is 1.0270 over the warm area, but over the similar
-area in the South Atlantic it is only 1.0261. Thus in the North Atlantic the specific
-gravity conditions favour a more rapid descent of the warmer surface water, which, as
-shown by the temperature observations, is what actually occurs.
-In the South Pacific the warm regions embrace a much wider area than in the
-North Pacific, the temperature at 200 fathoms being still higher in that half of the
-ocean which receives the overflow of warm surface waters from the other half, precisely
-as obtains between the two divisions of the Atlantic. In the South Pacific the mean
-specific gravity is 1.0259, and of the North Pacific 1.0256, these, it is to be noted, being
-both very much less than the mean specific gravity of the North Atlantic, which is
-1:0270.
-In both the Atlantic and Pacific a local higher temperature is still found in the
-eastern equatorial regions of both oceans, but the increase from the lower temperature
-to the westward is now much less than it was at 100 fathoms, being only from 2° to 3°
-instead of 12° and 6°. With these reduced differences the specific gravity differences
-are also reduced.
-Depth of 300 Fathoms (Map 5). --The mean temperature of the ocean at 300
-fathoms is 44º7, or 5°:4 less than at 200 fathoms. The higher temperature of the
-North as compared with the South Atlantic is even more pronounced than at less depths,
-as seen from a comparison of the regions of the two oceans included within the
-isothermal of 45°. Further, while the highest isothermal in the South Atlantic is 48°,
-covering a very small area, the same isothermal in the North Atlantic covers about half
-the area of the whole ocean, and includes two areas within which the temperature rises
-to fully 60°; in the western of the two it rises to 63°, or 15° higher than the highest
-temperature anywhere found in the South Atlantic. It is also to be noted that these
-two areas of warm water are both well to the west of the ocean, in other words, they
-1
+26
+THE VOYAGE OF H.M.S. CHALLENGER,
+Oceans.
+Guinea five observations give a mean specific gravity of 1.0245.
+It is scarcely
+necessary to remark that these still point to the influence of the Mediterranean.
+The temperature relations of the South Atlantic and the Pacific are unchanged. In
+the North Pacific ten observations give a mean specific gravity of 1.0255, and in the
+South Pacific fifteen observations also give a mean of 1.0255, which very well accords
+with the equable distribution of temperature over this ocean. The region of the low
+temperature to the north-east of Australia is only half a degree lower than surrounding
+temperatures.
+Depth of 900 Fathoms (Map 11).—The mean temperature at this depth is 36°8,
+having fallen half a degree from 800 fathoms. The highest temperature, 42°, is still to
+westward of Gibraltar, from which the temperature steadily falls westwards in the same
+manner as at the depths of 500, 600, 700, and 800 fathoms, but only to the extent
+of 2 In the South Atlantic temperatures are relatively higher, and in the Pacific
+there is a tendency towards an equalised temperature more than in any of the other
+The high specific gravities of 1.0269 and 1.0264 were observed to the west
+and south-west of Gibraltar, which are not approached anywhere else, the highest of
+the thirteen observed between lat. 10° N. and 10° S. being 1.0259 and the mean 1.0256.
+It
+may be added that a specific gravity of 1.0271 has been recorded to the north-
+east of the Galapagos Islands in the region of the highest temperature of the Pacific at
+this depth.
+Depth of 1000 Fathoms (Map 12). —From 900 to 1000 fathoms the mean
+temperature has only dropped 0°:3, being now 36º5. The distribution of temperatures
+and specific gravities continues much the same over the oceans, the North Atlantic,
+looked at as a whole, showing the highest temperature, then follow in order the South
+Atlantic, the South Pacific, and finally the North Pacific.
+There is still a trace seen of the influence of the Mediterranean. With respect to
+the high temperatures, so marked a feature of this part of the ocean from 500 to
+1000 fathoms, it is to be remarked that they are not part and parcel of any great
+surface oceanic current, but simply an illustration of a slow vast movement of the waters
+of the ocean wholly due to differences of specific gravity of these waters.
+Depth of 1500 Fathoms (Map 13). — From 1000 to 1500 fathoms temperature has
+fallen 1°-2, the mean being 35°3, The highest temperatures are :-- In the North Atlantic,
+38° ; South Atlantic, 37°.5 ; North Pacific, 36°:5; and South Pacific, 36°; there being now
+only 2° between the highest and lowest of these. A noticeable feature is that the North
+and South Atlantic have now nearly the same temperature. The western half of
+the Atlantic, from lat. 10° N. southwards, has a temperature decidedly lower than the
+eastern half.
+But while the mean fall of the temperature of the whole ocean is only 1°•2, it is
+larger in the Atlantic. Thus averaging all the observations, the means of the North

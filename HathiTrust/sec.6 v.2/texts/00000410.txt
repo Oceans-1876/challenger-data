@@ -1,40 +1,53 @@
-1142
+1146
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATIONS 305 TO
-305B.
-Stations 305 to 305B (Soundings 450 to 452), Gulf of Peñas to Sandy Point
-through Magellan Strait (see Chart 41).
-January 1, 1876; lat. 47° 47' to 47° 48' 30" S., long. 74° 47' to 74° 46' W.
-Temperature of air at noon, 539:8; mean for the day, 53°:3.
-Temperature of water at surface, 559-5.
-Density at 60° F. at surface, 1.02251; bottom, 1.02519.
-Depth, 165, 125, and 160 fathoms; deposit, Blue Mud, containing about 4 per
-cent. of carbonate of lime (see Murray and Renard, Deep-Sea Deposits
-Chall. Exp.).
-At 4 A.M. got up steam. At 5 A.M. weighed anchor and proceeded out of Port
-Otway; shaped course for entrance of Messier Channel. At 1.30 P.M. shortened and
-furled sails. At 1.45 P.M. stopped and sounded in 165 fathoms (Station 305). Proceeded
-towards Penguin Island. At 3 P.M. stopped and sounded in 125 fathoms (Station 305A),
-and put trawl over. Sent surveying and exploring parties to Penguin Island. At
-3.30 P.M. the trawl came up with many specimens. Sounded in 160 fathoms
-(Station 305B). At 4.30 P.m. surveying and exploring parties returned on board.
-Proceeded through Messier Channel to Hale Cove, anchoring there in 17 fathoms at
-6.45 P.m. Exploring parties went on shore, and returned at 8 P.M.
-The following species are recorded in the Zoological Reports from the trawl, which
-was sent down in 125 fathoms and came up from 160 fathoms :-
-ANIMALS FROM
-TRAWL.
-ACTINIARIA (Hertwig, Zool. pt. 73).
-Liponema multiporum, n.g., n.sp. One specimen ; obtained also at Stations 147
-and 237. Only species of the genus.
-CORALS (Moseley, Zool. pt. 7).
-Flabellum patagonichum, n.sp. Very many specimens; obtained at no other locality.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha lymani, Ljungman.
-Station 304.
-Several specimens; for distribution see
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Schizaster moseleyi, n.sp. Several specimens ; for distribution see Station 146.
-OSTRACODA (Brady, Zool. pt. 3).
-Macrocypris similis, n.sp.
-Obtained also at Stations 120 and 344,
+STATION 306a.
+FISHES (Günther, Zool. pts. 6 and 57).
+Sebastes oculatus, C.V. Several specimens ; obtained also at Station 307,
+147 fathoms.
+Notothenia longipes, Steindachner. Obtained also at Stations 312 and 313, 10 to
+55 fathoms,
+Lotella marginata, n.sp. One specimen ; obtained also at Stations 305, 307, and 308.
+Catætyx messieri, n.g., n.sp. One specimen ; obtained at no other locality. Only
+species of the genus.
+In addition to the foregoing, the following are recorded in the Station-book :-Small
+Actinian attached to Corals, two small Urchins, Sipunculid, and a Lamellibranch.
+Excluding Protozoa, nearly 100 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 19 species, of which 11 are new to science, including
+representatives of 2 new genera ; 4 of the new species and 1 new genus were not
+obtained elsewhere.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms.— The tow-nets procured many Diatoms, Peridinium tripos,
+Annelid larvæ, Copepods, Cirriped larvæ, Amphipods, larval Lamellibranchs (young
+mussels), and Appendicularia, but on the whole the tow-nets yielded very few organisms.
+STATION 307.
+Station 307 (Sounding 455), Gulf of Peñas to Sandy Point through Magellan
+Strait (see Chart 41).
+January 4, 1876; lat. 49° 24' 30" S., long. 74° 23' 30" W.
+Temperature of air at noon, 61°:8; mean for the day, 56°:2.
+Temperature of water at surface, 53°:0.
+Density at 60° F. :-
+Surface,
+2! fathoms,
+5
+7
+10
+1:01508
+1.00926
+1.01870
+1:01928
+1.02266
+16 fathoms,
+25
+50
+100
+Bottom,
+1:02385
+1.02405
+1.02450
+1.02469
+1:02465
+Depth, 140 fathoms; deposit, Blue Mud, containing only a trace of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.20 A.M. the steam pinnace left the ship with exploring party. At 10.30 A.M.
+weighed anchor and proceeded out of Gray's Harbour for the English Narrows. At

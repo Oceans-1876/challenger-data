@@ -1,136 +1,125 @@
-1318
-THE VOYAGE OF H,M.S. CHALLENGER.
+1322
+THE VOYAGE OF H.M.S. CHALLENGER.
 S
-s
 T
-*
-T
-sp. (?).
 sp. (?). T
-S
 >
-s
-*
-S
-T
-T
-T
-T
-N
-S
-* Ophiacantha vepratica, n.sp.
-Aërope rostrata, n.g., n.sp.
-Τ Ν
-vivipara, Ljungman. Argopatagus vitreus, n.g., n.sp.
-Ophiactis cuspidata, n.sp.
-S
-Aspidodiadema tonsum, n.g., n.sp. S T
-flexuosa, n.sp.
-S
-Asthenosoma gracile, n.sp.
-S T
-nama, n.sp.
-S T
-Brissopsis luzonica (Gray). S TN
-pectorale, n.sp.
-T
-* Cionobrissus revinctus, n.g., n.sp.
-pod, n.sp.
-S
-Dorocidaris (Cidaris) papillata, Leske.
-S
-STN
-Echinus acutus, Lamarck. STN
-Ophioceramis (?) clausa, n.sp.
-norvegicus, Düben and Koren.
-(?) obstricta, n.sp.
-ST
-SN
-Ophiochiton fastigatus, n.g., n.sp.
-Τ Ν
-Hemiaster gibbosus, n.sp.
-Τ Ν
-lentus, n.g., n.sp.
-zonatus, n.sp.
-Τ Ν
-Ophiochondrus stelliger, n.sp.
-Maretia alta, Agassiz.
-Ophiocreas adipus, n.sp.
-Micropyga tuberculata, n.g., n.sp.
-Ophiogeron edentulus, n.g., n.sp.
-TN
-Phormosoma hoplacantha, n.sp. SN
-* Ophioglypha albata, n.sp.
-N
-luculentum, n.sp.
-confragosa, n.sp. SN
-rigidum, n.sp.
-inermis, n.sp.
-Porocidaris elegans, n.sp.
-ST
-jejuna, n.sp.
-Pourtalesia laguncula, n.sp.
-S TN
-lapidaria, n.sp.
-Prionechinus sagittiger, n.g., n.sp. S T
-lepida, n.sp.
-Τ Ν
-Salenia hastigera, n.sp.
-STN
-meridionalis, n.sp.
-* Trigonocidaris monolini, 1.sp.
-rugosa, n.sp.
-S
-Ophiomitra normani, n.sp.
-HOLOTHURIOIDEA :
-plicata, n.sp.
-S T
-* Ankyroderma marenzelleri, n.sp.
-Ophiomusium cancellatum, n.sp.
-Cucumaria serrata, n.SP.,
-lymani, Wyville Thomson.
-marionensis, nov.
-STN
-Holothuria lactea, n.sp.
-SN
-scalare, n.sp.
-S
-* Lætmogone spongiosa, n.g., n.sp.
-* Ophiomyces spathifer, n.sp. N
-Pælopatides (?) appendiculata, v.g.,
-* Ophiopholis japonica, n.sp.
-n.sp.
-N
-* Ophiophyllum petilum, n.g., n.sp. S T
-aspera, n.g., n.sp.
-* Ophiozona depressa, n.sp.
-Pannychia moseleyi, n.g., n.sp.
-stellata, n.sp.
-S
-Psolus antarcticus, Philippi. S
-* Pectinura heros, n.sp.
-murrayi, n.sp. S
-operculatus, Pourtalès. SN
-ECHINOIDEA :
-Trochostoma albicans, n.sp., var. glabra,
-Aceste bellidifera, n.g., n.sp.
-STN
-SN
-S
-N
-S
-S
-N
-72
-N
-var.
-S
-*
-N
-N
-*
-T
-T
-S
-T
 nov.
+sp (?). T
+T
+1
+S
+* Malletia arrouana, n.sp.
+T
+* Pleurotoma ischna, n.sp.
+S
+* Modiola watsoni, n.sp.
+T
+(Bela) ula, n.sp.
+Montacuta pura, n.sp.
+N
+(Genota) engonia, n.sp. S N
+* Neæra platensis, n.sp.
+(Spirotropis) brachytona,
+n.sp.
+T
+teres, Jeffreys. N
+bulbacea,
+Nucula pernambucensis, n.sp.
+( )
+n.sp.
+S
+* Pecten kermadecensis, n.sp. S
+(Surcula) bulbodes, n.sp. T
+vitreus (Chemnitz).
+S TN
+(
+) dissimilis, n.sp. T
+* Spondylus ostreoides, n.sp. S
+( ) goniodes, n.sp. S
+) gypsata, n.sp.
+(
+S
+SCAPHOPODA AND GASTEROPODA ;
+( ) hemimeres, n.sp.
+T
+Basilissa alta, n.g., p.sp., var. oxytoma,
+(Typhlomangelia) paupera,
+T
+T
+n.sp.
+Bembix æola, n.g., n.sp.
+N
+two species undetermined. T
+* Bittium enode, n.sp.
+T
+* Scalaria sp (?).
+mamillanum, n.sp.
+Scaphander mundus, n.sp. T
+* Cadulus colubridens, n.sp. S
+niveus, n.sp.
+T
+TN
+Cassis sp. (?), fry. TN
+Seguenzia carinata, Jeffreys.
+Cithna tenella, Jeffreys. Τ Ν
+monocingulata, Seguenza, var.
+Clionella lophoëssa, n.sp.
+T
+lineata, nov.
+TN
+Cyclostrema conicum, n.sp.
+trispinosa, n.sp.
+T
+sulcatum, n.sp.
+T
+Trochus (Margarita) clavatus, n.sp.
+T
+* Dentalium diarrhox, n.sp.
+s
+(
+) streptophorus, n.sp.
+entalis, Linné, var, agile, Sars.
+T
+S TN
+(
+) sp. (?).
+S
+T
+subterfissum, Jeffreys. TN
+two species undetermined.
+* Echinella (?) tectiformis, n.sp.
+N
+* Turbo transenna, n.sp.
+N
+* Gaza dædala, n.g., n.sp.
+T
+* Utriculus (Tornatina) pachys, n.sp.
+Ianthina exigua, Lamarck (surface). T N
+Marginella (Glabella) musica, Hinds. S N
+NUDIBRANCHIATA :
+Murex (Phyllonotus) zelandicus, Quoy
+* Euplocamus pacificus, n.sp.
+and Gaimard. ST
+* Nassa (Tritia) brychia, n.sp.
+N
+( ) ephamilla, n.sp. S
+CEPHALOPODA :
+* Natica amphiala, n.sp.
+S
+* Amphitetrus pelagicus, n.g., n.sp.
+S
+(Amauropsis) apora, n.sp.
+ST * Cirroteuthis meangensis, n.sp.
+ST
+sp. (?). TN
+* Eledone brevis, n.sp.
+S
+* Odostomia hyphala, n.sp.
+verrucosa, Verrill.
+S
+T
+S
+2
+S
+1

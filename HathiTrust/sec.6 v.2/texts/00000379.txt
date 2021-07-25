@@ -1,40 +1,62 @@
 SUMMARY OF RESULTS.
-1115
-In addition, the following are recorded in the note-books :-Globigerina, Hastigerina, Station 297.
-Siphonophoræ, Ctenophoræ (Beroë), Sagitta, Tomopteris, Cypridina, Copepods,
-Oxycephalus, Pteropods and larvæ, Fritillaria, Appendicularia, Doliolum, Salpa, &c.
-A tow-net sent down to 200 fathoms contained some Challengeride and other Radiolaria,
-and a tow-net at the trawl brought up some deep-sea Crustacea and Phæodaria.
-AT JUAN
-FERNANDEZ.
-The Challenger anchored off the Fort in Cumberland Bay, Juan Fernandez, at
-6.30 P.M. on November 13, and sailed at 6 P. M. on November 15 (for description of the
-island see Narr. Chall. Exp., vol. i. pp. 810-830). The following species are recorded
-as having been obtained during the visit to Juan Fernandez ::
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Orchestia selkirki, n.sp. Fifty-two specimens (shore); obtained at no other locality.
-ANIMALS FROM
-JUAN
-FERNANDEZ.
-FISHES (Günther, Zool. pt. 6).
-Acanthias blainvilli, Risso. Obtained at no other locality by the Challenger.
-Recorded from Mediterranean and southern hemisphere.
-Polyprion kneri, Steindachner. Obtained at no other locality by the Challenger.
-Scorpæna thomsoni, n.sp. Obtained at no other locality.
-Chilodactyla monodactylus, Carmichael. Obtained at no other locality by the
-Challenger.
-Caranx georgianus, C.V. Obtained at no other locality by the Challenger.
-Trigla picta, n.sp. Obtained at no other locality.
-Umbrina reedi, n.sp. Obtained at no other locality.
-Muræna porphyrea, Guichen. Obtained at no other locality by the Challenger.
-Surface Organisms.— The water in the bay was phosphorescent, and the tow-net ORGANISMS FROM
-SURFACE-N ETS.
-procured a great many specimens of Ceratium (Peridinium) tripos, along with many
-Radiolaria, a few Globigerinæ, Appendicularia, Salpa, &c. From the ship many large
-Crustaceans, belonging to the genus Palinurus, were taken by sinking a net with bait,
-and
-a great many fishes were taken both from the ship and off
-' Cod Point.
-Station 298 (Sounding 443), Tahiti to Valparaiso (see Chart 38 and Diagram 21). Station 298.
-November 17, 1875; lat. 34° 7' S., long. 73° 56' W.
-Temperature of air at noon, 61°:8; mean for the day, 59°:3.
+1119
+STATION 298.
+DIATOMACEÆ.—The following species were observed by Mr. Comber.
+Grammatophora macilenta, Smith.
+Coscinorliscus biangulatus, A. Schmidt.
+undulata, Ehrenberg.
+janischii, A. Schmidt.
+Coscinodiscus lineatus, Ehrenberg.
+var. arafurensis, Grunow.
+excentricus, Ehrenberg.
+apiculatus, Ehrenberg, var. woodwarılii.
+minor, Ehrenberg.
+concinnus, Smith.
+curvatulus, Grunow.
+sp. (?).
+subtilis, Ehrenberg.
+Paralia sulcata, Cleve.
+marginatus, Ehrenberg.
+Melosira mediterranea, Grunow, var. punctulata, Brun.
+radiatus, Ehrenberg.
+Actinoptychus areolatus, A. Schmidt.
+oculus-iridis, Ehrenberg.
+undulatus, Ehrenberg.
+obscurus, A. Schmidt.
+Hemidiscus cuneiformis, Wallich.
+>
+ORGANISMS FROM
+SURFACE-ETS.
+Surface Organisms.– The followiny species are recorded from the surface in the
+vicinity of this Station :-
+RADIOLARIA (Haeckel, Zool. pt. 40). SchizopODA (Sars, Zool. pt. 37).
+Acrosphæra echinoides, Haeckel.
+Euphausia mucronata, n.sp.
+Spongocore puella, Haeckel.
+Siriella thompsoni (M.-Edwards).
+Dicranastrum trifarium, Haeckel.
+Euchætomera tenuis, n.g., n.sp.
+Sphærocapsa pavimentata, Haeckel.
+Castanella thomsoni, Haeckel.
+TUNICATA (Herdman, Zool. pt. 76).
+COPEPODA (Brady, Zool. pt. 23).
+Salpa
+democratica - mucronata, ,
+Centropages brachiatus, Dana.
+Forskål.
+In addition, the following are recorded in the note-books from the tow-nets at the
+surface and down to 200 fathoms :-Peridinium (tri pos and other species), Globigerina
+and other small Foraminifera, Acanthometræ and Challengeridæ, Infusoria, Medusæ,
+Agalmopsis and other Siphonophoræ, Ctenophoræ, Sagitta, Alciopa, Tomopteris,
+Aphroditacean and other Annelid larvæ, Cypridina, Copepods, Mysis, Crustacean larvæ,
+Pteropods and larvæ, larval Polyzoa (Membrani pora), Appendicularia, small fishes and
+fish eggs. The tow-net at the weights contained Foraminifera, Challengeridæ and other
+Radiolaria, &c. The surface water was full of small Infusorial organisms (Tintinnida),
+and two or three bladder-like organisms were noticed, which were probably collapsed
+Noctilucæ. The deep-blue colour of the water observed for a long time past gave place
+to a green colour, and on the whole there was a great change in the general character
+of the surface fauna, pointing to the nearness of a great continent, similar to what
+was observed off Japan and elsewhere. On November 18, the water was very green in
+colour, and the ship occasionally passed through large red or brown patches, which
+the tow-net showed to be due to immense numbers of red Copepods, Hyperids, and other
+Crustacea.

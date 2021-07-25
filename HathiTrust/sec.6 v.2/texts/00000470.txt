@@ -1,39 +1,37 @@
-1196
+1198
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 322.
-Station 322 (Sounding 472), Rio de la Plata to Tristan da Cunha (see Chart 16).
-February 26, 1876 ; lat. 35° 20' S., long. 53° 42' W.
-Temperature of air at noon, 70°:8; mean for the day, 71°:3.
-Temperature of water at surface, 71° 5.
-Density at 60° F. at surface, 1.02288.
-Depth, 21 fathoms; deposit, Sand and Shells.
-At 9 A.M. stopped and sounded in 21 fathoms. Put over trawl, which came up at
-10 A.M. with a few 'specimens. Position of Station about 60 miles E.S.E. of Lobos
-Island, off the Rio de la Plata. Proceeded under steam. Shortly after, the wind shifting,
-proceeded under sail. Sea phosphorescent after sunset. Molly mauks and large black
-petrels were seen about the ship.
-Tristan da Cunha distant at noon, 2000 miles. Made good 135 miles from Monte
-Video. No current.
+STATION 323.
+heaving in trawl, which came up at 3 P.M. with many specimens. Made sail. Mutton
+birds and black night hawks (?) were seen.
+Tristan da Cunha distant at noon, 1870 miles. Made good 89 miles. Amount of
+current 4 miles, direction N. 43° E.
 ANIMALS FROM
 TRAWL.
-The following species are recorded in the Zoological Reports from the trawl at
-this Station :-
-ACTINIARIA (Hertwig, Zool. pt. 73).
-Epizoanthus elongatus, n.sp. Five specimens ; obtained at no other locality:
-ANNELIDA (M'Intosh, Zool. pt. 34).
-Terebella (Lanice) seticornis, n.sp. Tube only ; obtained at no other locality.
-1
-1
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Mytilus edulis, Linné. Obtained also at Station 315 and New Zealand.
-Plicatula ramosa, Lamarck. Obtained at no other locality by the Challenger.
-Recorded from West Indies.
-1
-FISHES (Günther, Zool. pt. 6).
-Percophis brasilianus, Quoy and Gaimard. Obtained at no other locality by
-the Challenger.
-Prionotus punctatus, Bl. Obtained at no other locality by the Challenger.
-The Station-book records also Hydroids, Serpula, and worm-tubes, on the shells.
-Excluding Protozoa, about 20 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 9 species, of which 2 are new to science, and were
-not obtained elsewhere.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :
+HEXACTINELLIDA (Schulze, Zool. pt. 53).
+Hyalonema tenue, n.sp. Two fragments; obtained at no other locality.
+ANTIPATHARIA (Brook, Zool. pt. 80).
+Schizopathes crassa, n.g., n.sp.
+One specimen ; obtained at no other locality.
+CORALS (Moseley, Zool. pt. 7).
+Leptopenus discus, n.g., n.sp. One specimen ; obtained also at Stations 147 and 157.
+The only other species of the genus (Leptopenus hypocælus)
+was taken at Station 299.
+SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
+Bathyphysa gigantea, n.sp. Obtained at no other locality.
+CRINOIDEA (Carpenter, Zool. pt. 32).
+Rhizocrinus lofotensis, Sars. Stem fragment; obtained also at Stations 24 and 122.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Pythonaster murrayi, n.g., n.sp.
+Obtained at no other locality. Only species of
+the genus.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophiomusium archaster, Wyville Thomson, MS., n.sp. Five specimens ; obtained
+at no other locality.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Aceste bellidifera, Wyville Thomson, n.g., n.sp. Obtained also at Stations VIII.
+and 272. Only species of the genus.
+GEPHYREA (Selenka, Zool. pt. 36).
+Phascolosoma catharina, Müller. One specimen ; obtained at no other locality by
+the Challenger. Recorded from Desterro (shore).

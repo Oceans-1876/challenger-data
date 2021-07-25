@@ -1,123 +1,80 @@
 SUMMARY OF RESULTS.
-1295
-1
-N
-N
-Scalpellum insigne, n.sp.
-vitreum, n.sp.
-Verruca obliqua, n.sp.
-N
-quadrangularis, n.sp.
-S
-N
-S
-S
-* Leæna antarctica, n.sp.
-S
-* Maldane malmgreni, n.sp. N
-Maldanella antarctica, n.g. n.sp.
-Melinnopsis atlantica, n.g., n.sp.
-* Nereis longisetis, n.sp.
-N
-Nothria abranchiata, n.sp.
-armandi, n.sp. s
-* Petta assimilis, n.sp.
-* Pista abyssicola, n.sp.
-Polynoë (Robertianella) synophthalma,
-n.sp.
-TN
-* Praxilla abyssorum, n.sp.
-* Trophonia wyvillei, n.sp.
-S
-AMPHI PODA:
-Andania gigantea, n.sp.
-S
-Cystisoma spinosum (Fabricius).
-Lanceola æstiva, n.sp.
-australis, n.sp.
-S
-S TN
-S
-T
-sp. (?). S
-S
-S
-MYZOSTOMIDA :
-* Stelechopus hyocrini, n.g., n.sp. (parasitic
-on Hyocrinus). S
-* Orchomene abyssorum, n.sp.
-S
-* Phronima nova zealandiæ, Powell. s
-* Pleustes abyssorum, n.sp.
-S
-Stenopleura atlantica, n.g., n.sp.
-(surface ?). ST
-* Valettia coheres, n.g., n.sp.
-S
-OSTRACODA :
-S
-S
-ISOPODA :
-Acanthocope spinicauda, n.g., n.sp.
-* Arcturus brunneus, n.sp.
-s
-furcatus, Studer.
-S
-glacialis, n.sp.
-s
-Eurycope fragilis, n.sp. SN
-S
-spinosa, n.sp.
-s
-sarsii, n.sp.
-Argillæcia eburned, n.sp.
-* Bairdin bosquetiana, Brady. S
-hirsuta, n.sp.
-s
-Cythere acanthoderma, n.sp. S TN
-dasyderma, n.sp.
-S TN
-dictyon, n.sp.
-STN
-normani, Brady. s
-squalidentata, n.sp.
-S
-Cytheropteron mucronalatum, n.sp.
-STN
-Krithe producta, n.sp.
-S TN
-tumida, n.sp.
-Macrocypris similis, n.sp.
-ST
-Pseudocythere caudata, Sars. S
-Xestoleberis expansa, n.sp.
-sp. (?). S
-S
-S
-* Iolanthe acanthonotus, n.g., n.sp.
-* Munnopsis australis, n.sp.
-Neotanais americanus, n.g., n.sp.
-Serolis antarctica, n.sp.
-ST
-bromleyana, n.sp.
-S
-SN
-S
->>
-S
-CIRRIPEDIA :
-SCHIZOPODA :
-Amblyops crozetii, n.sp.
-S
-Bentheuphausia amblyops, n.g., n.sp. S T
-Boreomysis scyphops, Sars. S
-* Chalaraspis alata, n.g., n.sp.
-S T
-Eucopia australis, Dana. STN
-Scalpellum antarcticum, n.sp.
-s
-brevicarinatum, n.sp.
-improvisum, n.sp., MS.
-*
-S
-s
+1299
+Salicornaria magnifica (3)
+Discina atlantica.
+Cyema atrum.
+Gonostoma microdon (3).
+Ipnops murrayi.
+Macrurus armatus (3).
+filicauila (3)
+Scopelus antarcticus.
+Sternoptyx diaphana.
+The majority of these were taken at two Stations, while 14 were taken at three
+Stations, 5 at four Stations, and 1 at five Stations.
+Of the 163 species taken in this zone between 1500 and 2000 fathoms, as well as in
+deeper or shallower zones (those without asterisks), 37 species (or 23 per cent.) were
+taken in the zone beyond 2500 fathoms, and 52 species (or 32 per cent.) in the zone
+between 2000 and 2500 fathoms ; lists of these have already been given (see pp. 1281
+and 1288–9).
+The following 85 species (or 52 per cent.) were taken in the zone between 1000 and
+1500 fathoms :-
+Aulocalye irregularis.
+Euplertella suberea.
+Holascus fibulatus.
+Pleurocorallium johnsoni.
+Protoptilum aberrans.
+Umbellula magniflora.
+Bathyactis symmetrica.
+Bathycrinus aldrichianus.
+Brisinga membranacea.
+Dytaster exilis.
+malreporifer.
+Freyella fragilissima.
+Hymenaster præcoquis.
+Phoxaster pumilus.
+Pontaster forcipatus.
+Ophiacantha cosmica.
+Ophiernus vallincola.
+Ophiocten amitinum.
+Ophioglypha bullata.
+loveni.
+minuta.
+Ophiomitra chelys.
+Ophiomusi um lymani.
+Cystechinus clypeatus.
+wyvillii.
+Phormosoma uranus.
+Salenia hastigera.
+varispina.
+Urechinus naresianus.
+Cucumaria abyssorum.
+Læ mogone wycille-thomsoni.
+Oneirophanta mutabilis.
+Pseudostichopus villosus.
+Hyalinuciu benthaliana.
+Lætmonire producta.
+Maldanella antarctica.
+Nothria abranchiata.
+Bairdia hirsuta.
+Cythere acanthoderma.
+dasyderma.
+dictyon.
+Cytheropteron mucronalatum.
+Krithe producta.
+Scalpellum brevicarinatum.
+Andania gigantea.
+Cystisoma spinosum.
+Eurycope fragilis.
+sarsii.
+Neotanais americanus.
+Serolis antarctica.
+bromleyana.
+Beutheuphausia amblyope.
+Eucopia australis.
+Gnathophausia zoëa.
+Aristeus armatus.
+Benthesicymus altus.
+brasiliensis.
+Gennadas parvus.
+Glyphocrangon rimapes.
+Haliporus lævis.

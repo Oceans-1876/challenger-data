@@ -1,41 +1,103 @@
-1128
+1132
 THE VOYAGE OF H.M.S. CHALLENGER.
+3
 STATION 300.
-At 4.20 A.M. observed the island of Juan Fernandez in the west. At 4.30 A.M.
-shortened and furled sails, and got up steam. At 5.15 A.M. put trawl over and veered
-2700 fathoms. At 6.30 A.m. brought ship to wind and sounded in 1375 fathoms.
-Obtained serial temperatures down to bottom. The carbonic acid was determined in
-water from 50 fathoms and the bottom, and amounted respectively to 50:4 and
-49:3 milligrammes per litre. At 1 P.M. commenced heaving in trawl, which came up at
-4.25 P.M. with numerous specimens and a considerable quantity of ooze, in which were
-several small basaltic pebbles with a slight coating of manganese, and flat pieces of
-hardened tufa of a red colour with a thick coating of manganese. At 4.30 P.M. proceeded
-under steam and sail. Juan Fernandez in sight the whole afternoon. Diomedea exulans,
-Diomedea melanophrys (?), Procellaria maxima, mutton birds, petrels, Prion turtur, and
-Thalassidroma were seen.
-Juan Fernandez (East Pt.) distant at noon, 23 miles. Made good 74 miles.
-Amount of current 16 miles, direction N. 45° W.
-ANIMALS FROM
-TRAWL.
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :
-HEXACTINELLIDA (Schulze, Zool. pt. 53).
-Hyalonema poculum, n.sp. One specimen ; obtained at no other locality.
-ACTINIARIA (Hertwig, Zool. pt. 15).
-Corallimorphus profundus, Moseley, n.g., n.sp. One specimen ; obtained also at
-Station 293.
-Paractis excavata, n.sp. One specimen ; obtained at no other locality.
-Ophiodiscus sulcatus, n.g., n.sp. One specimen; obtained at no other locality.
-The only other species of the genus (Ophiodiscus
-annulatus) was taken at Station 299.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Dytaster exilis, n.g., n.sp. Obtained also at Station 133 (var. gracilis).
-Hymenaster vicarius, n.sp. Two specimens ; obtained at no other locality.
-porosissimus, n.sp. Two specimens ; obtained at no other locality.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Phormosoma hoplacantha, Wyville Thomson, n.sp.
-Obtained also at Stations 1643
-and 235.
-Cystechinus wyvillii, n.g., n.sp. Three specimens; obtained also at Stations 146, 147,
-158, 296, and 299.
-1
+х
+>
+Х
+X
+x
+Х
+Х
+Uvigerina pygmaa, d’Orbigny.
+sp. (?).
+Sagrina virgula, Brady.
+x Globigerina æquilateralis, Brady.
+brulloides, d'Orbigny.
+var. triloba, Reuss.
+digitata, Brady.
+dubia, Egger.
+helicina, d'Orbiguy.
+inflata, d'Orbigny.
+x Orbulina universa, d'Orbigny.
+Pullenia quinqueloba, Reuss.
+sphæroides (d’Orbigny).
+Sphæroidina bulloides, d'Orbigny.
+dehiscens, Parker and Jones.
+x Canileina nitida, d'Orbigny.
+Spirillina limbata, Brady.
+Truncatulina lobatula (Walker and Jacob).
+Truncatulina tenera, Brady.
+ungeriana (d'Orbigny).
+vuellerstorfi (Schwager).
+Anomalina grosserugosa (Gümbel).
+Rupertia stabilis, Wallich.
+x Pulvinulina canariensis (d'Orbigny).
+crassa (d'Orbiguy).
+farus, Brady.
+menarilii (d'Orbigny).
+micheliniana (d'Orbigny).
+patagonica (d'Orbigny).
+pauperata, Parker and Jones.
+umbonata, Reuss.
+Rotalia orbicularis, d’Orbigny.
+soldanii, d'Orbigny.
+Nonionina scapha (Fichtel and Moll).
+umbilicatula (Montagu).
+>>
+Х
+x x x
+Х
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Hexastylus cleobuli, Haeckel.
+He.calonche aspera, Haeckel.
+.
+Hecacromyum arachnoules, Haeckel.
+Ellipsostylus ovicularis, Haeckel.
+Pipettaria fusaria, Haeckel.
+Trochodiscus solaris, Haeckel.
+Periphæna statoblastus, Haeckel.
+Phacostaurus quadrigatus, Haeckel.
+Archidiscus hecathalamus, Haeckel.
+Stauralastrum dilatatum, Haeckel.
+Spongotripus irregularis, Haeckel.
+Larcarium staurostylum, Haeckel.
+Octopyle subylobosa, Haeckel.
+Amphitholus acanthometra, Haeckel.
+Zoniscus hexatholius, Haeckel.
+Stauracantha johannis, Haeckel.
+Lithocircus quadricornis, Haeckel.
+Semantis sigillum, Haeckel.
+Zygostephanus bicornis, Haeckel.
+Tympanilium foliosum, Haeckel.
+Parastephanus dispar, Haeckel.
+Eutympanium dodecarium, Haeckel.
+Petalospyris furcata, Haeckel.
+Archipera quailricornis, Haeckel.
+Cystophormis tabulata, Haeckel.
+Cornutanna cyrtoconus, Haeckel.
+Dictyophimus longipes, Haeckel.
+Arachnocorys polyptera, Haeckel.
+Carpocani uin lanueolatum, Haeckel.
+Sethophæna tetraptera, Haeckel.
+Sethoconus lophophæna, Haeckel.
+bimarginatus, Haeckel.
+Podocyrtis favosa, Haeckel.
+Calocyclas hyaloyaster, Haeckel.
+Artopilium trigonopterum, Haeckel.
+Cyrtopera lagenella, Haeckel.
+Stichophormis railiata, Haeckel.
+Artophormis horrila, Haeckel.
+Artophæna hecalatractus, llaeckel.
+Stichophæna ritteriana, Haeckel.
+Aulographis canulelabrum, Haeckel.
+Aulospathis trifurca, Haeckel.
+Aulonia pentagonia, Haeckel.
+Challengeria hacergalli, Murray.
+Coelodrymus ancoratus, Haeckel.
+Celotholus octonus, Haeckel.
+2
+STATION 301.
+Station 301 (Sounding 446), Valparaiso to Gulf of Peňas (see Chart 40).
+December 22, 1875; lat. 37° 29' S., long. 84° 2' W.
+Temperature of air at noon, 60°:8; mean for the day, 56°:9.

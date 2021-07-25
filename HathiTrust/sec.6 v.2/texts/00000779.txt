@@ -1,181 +1,182 @@
 SUMMARY OF RESULTS.
-1497
-Cytherura-continued.
-Davila,
-cribrosa, 1143, 1339.
-umbonata, 438, 472, 1344, 1359,
-cryptifera, 538, 1384.
-1395.
-curvistriata, 558, 1384.
-Dehaanius,
-lilljeborgi, 467, 1384.
-dentatus, 411, 1390.
-mucronata, 410, 1384.
-Deidamia,
-obliqua, 467, 1384.
-leptodactyla, 387.
-rudis, 1169, 1384, 1448.
-Deima, 1290.
-Cyttus, 1440.
-fastosum, 847, 962, 1285.
-abbreviatus, 591, 1353.
-validum, 962, 1285.
-Delphinus, 1087.
-delphis, 325.
-Deltocyathus,
-Dacrydium,
-agassizii, 280.
-meridionalis, 438, 1343.
-italicus, 171, 237, 281, 350, 738,
-occidentale, 174, 1343.
-1088, 1284, 1289, 1290, 1303,
-vitreum, 114, 267, 283, 1308,
-1310, 1311, 1312, 1316, 1325,
-1311.
-1332, 1355.
-Dactyliosolen, 514.
-var. calcar, 240, 1332.
-antarcticus, 515, 517.
-magnificus, 745, 1332.
-Dactylocalyx,
-Dendrobrachia, 1361.
-patella, 113, 236, 1302, 1312,
-fallax, 1238, 1332.
-1330.
-Dendrocircus,
-Dactylopterus,
-arborescens, 1017, 1019, 1024,
-orientalis, 731, 1417.
-1029, 1033, 1046, 1053, 1057,
-volitans, 313, 1417.
-1062.
-Dairella,
-elegans, 1060.
-bovallii, 314.
-quadrangulus, 986.
-Dalhousia, 1301.
-stalactites, 880.
-atlantica, 141, 1294.
-Dendrophrya, 211, 964.
-Daphnella (see Clathurella).
-Dendrophyllia,
-Daphnia, 905, 916, 920, 932, 940, 942,
-axifuga, 692, 1368.
-943, 1003.
-conferta, 692, 1368.
-Daption,
-cornigera, 306, 719, 1332, 1358,
-capensis, 506.
-1367.
-Dascyllus,
-diaphana, 644, 1368.
-albisella, 1001, 1417.
-equiserialis, 825, 1368.
-Dasybranchus, 912, 1380.
-Dendropsis, 1429.
-Dasychone,
-bidentifera, 406, 1363.
-bairdi, 243, 1380.
-Dendrospyris,
-capensis, 420, 1337.
-arborescens, 1250.
-japonica, 907, 1380.
-furcata, 880, 1231.
-nigro-maculata, 169, 1380.
-polyrrhiza, 1218.
-orientalis, 794, 1380.
-ramosa, 1265.
-picta, 907, 1380.
-Dendrostoma,
-violacea, 409, 1380. -
-blandum, 924, 1380.
-wyvillei, 169, 1380.
-Dentalina (see Nodosaria).
-Dasygorgia,
-Dentalium, 85, 114, 118, 228, 333, 565,
-acanthella, 618, 1315.
-367, 479, 528, 750, 759, 1123,
-axillaris, 618, 779, 1315, 1325,
-1143, 1162, 1195, 1200, 1225,
-1331.
+1501
+Echeneis, 775, 920, 1005, 1013, 1020.
+albescens, 866, 1353.
+naucrates, 170, 660, 1417, 1428.
+remora, 167, 168, 794, 1004, 1020,
+1255.
+Echinactura,
+asteriscus, 1022.
+culcita, 1015.
+goniaster, 1011, 1045.
+Echinanthus,
+testudinarius, 531, 548, 1336,
+1358, 1378.
+Echinaspis,
+dichotoma, 980.
+echinoides, 1017.
+spectabilis, 1221.
+Echinaster,
+eridanella, 859, 1375.
+spinosus, 374, 1375.
+spinulifer, 462, 1375.
+Echinella,
+tectiformis, 919, 1322.
+Echinocardium, 1450.
+australe, 557, 906, 912, 915,
+1378, 1423, 1446.
+flavescens, 420, 1336, 1444, 1448.
+Echinoclathria,
+carteri, 536, 547, 553, 1328, 1357,
+1363, 1422.
+favus, 536, 1363.
+glabra, 536, 1363.
+Echinocrepis, 1301.
+cuneata, 452, 1293.
+Echinocyamus,
+pusillus, 165, 268, 357, 1336.
+Echinodictyum,
+asperum, 1072, 1363.
+rugosum, 719, 1363.
+Echinogorgia,
+modesta, 906, 1365.
+pseudosassapo, 690, 1366.
+ramulosa, 779, 1331.
+Echinolampas, 448.
+oviformis, 747, 1336.
+Echinometra,
+lucunter, 624, 647, 828, 995,
+1074, 1378, 1423.
+subangularis, 307, 1240, 1378,
+1423.
+Echinomma,
+aculeatum, 1217.
+cidaris, 1053.
+echipidium, 1108.
+sphærechinus, 1265.
+Echinomuricea,
+indomalaccensis, 784, 1366.
+Echinoplax, 1361.
+moseleyi, 815, 1343.
+Echinorhynchus, 1029.
+Echinospira, 882, 994,1260.
+Echinothrix,
+calamaris, 647, 828, 1074, 1378,
+1423.
+turcarum, 647, 995, 1378, 1423.
+Echinus, 17, 79, 319, 1148.
+acutus, 217, 614, 1239, 1304,
+1312, 1318, 1326, 1336.
+angulosus, 408, 1378.
+elegans, 217, 394, 864, 1304,
+1310, 1312, 1336.
+flemingii, 1243.
+horridus, 1151, 1336.
+magellanicus, 434, 452, 1140,
+1151, 1164, 1176, 1293, 1300,
+1301, 1336, 1355, 1358, 1378,
+1423.
+margaritaceus, 463, 484, 489,
+1151, 1160, 1336, 1355, 1358,
+1378.
+norvegicus, 217, 218, 899, 918,
+1151, 1304, 1310, 1312, 1318,
+1326, 1336, 1355, 1446.
+Echiurus, 179, 180, 733.
+unicinctus, 924, 1380.
+Echthrogaleus,
+affinis, 1271, 1384.
+Ecteinascidia,
+crassa, 749, 1353.
+fusca, 757, 1415.
+turbinata, 245, 1415.
+Ectinosoma,
+atlanticum, 1255.
+Edwardsia, 601, 1303.
+Egeria,
+arachnoides, 724, 819, 1390, 1425.
+Eglisia (see Turritella).
+Ehlersiella,
+atlantica, 251, 279, 1278, 1281,
+1319.
+Ehrenbergina, 196, 631.
+hystrix, 427, 581, 671, 1037,
+1067, 1078, 1085, 1092.
+Elaphrospyris,
+alcicornis, 1016, 1041, 1046.
+capricornis, 880, 1040, 1041.
+1060.
+cervicornis, 880, 1041.
+Elasmogorgia, 1429.
+filiformis, 719, 1366.
+Elasmonotus,
+armatus, 163, 173, 1342, 1356.
+asper, 1161, 1342.
+debilis, 633, 814, 1342, 1356.
+lævigatus, 865, 1342.
+latifrons, 856, 1307.
+marginatus, 603, 1307.
+miersii, 633, 1342.
+Elasmopus,
+delaplata, 1190, 1320.
+subcarinata, 532, 559, 602, 1306,
+1313, 1385, 1424.
+Elatomma,
+juniperinum, 1045.
+pinetum, 1017, 1019, 1024, 1028,
+1032, 1045, 1053.
+scoparium, 944.
+Electra,
+cylindracea, 440, 1351.
+Eledone,
+brevis, 1191, 1322.
+rotunda, 510, 1118, 1287, 1289,
 1297.
-cupressa, 744, 1331.
-acutissimum, 856, 963, 1287,
-expansa, 612, 1315.
-1289, 1308.
-flexilis, 1147, 1331.
-ægeum, 473, 1346.
-geniculata, 779, 897, 1331,
-amphialum, 1199, 1297.
-1355.
-capillosum, 174, 267, 283, 1309,
-japonica, 933, 1292.
-1311, 1313, 1346, 1356.
-melanotrichos, 1238, 1331.
-var. paucicostatum, 113, 1346.
-spiculosa, 356, 1331.
-circumcinctum, 113, 164, 237,
-squarrosa, 839, 1315.
-360, 1309, 1313, 1346, 1356.
-(SUMMARY OF RESULTS CHALL. EXP.-1894.)
-Dentalium-continued.
-compressum, 174, 1346.
-dentalis, 273,412, 1401, 1426,1447.
-diarrhox, 608, 1322.
-didymum, 175, 1346.
-ensiculus, 164, 1346.
-entalis, 1326, 1327, 1356, 1359.
-var. agile, 133, 1243, 1322,
-1346.
-var, orthrum, 113, 273, 438,
-1346.
-var. striolatum, 227, 1401.
-javanum, 705, 727, 1401, 1426.
-keras, 963, 1125, 1287, 1288, 1447.
-leptoskeles, 510, 528, 1279, 1281,
-1297.
-longitrorsum, 727, 1401.
-subterfissum, 283, 293, 351, 1309,
-1311, 1312, 1322.
-tornatum, 650, 1401.
-yokohamense, 925, 1401.
-Denticula,
-tenuis, 931.
-Desmacella,
-annexa, 171, 1328.
-Desmacidon,
-conulosa, 406, 1363.
-fruticosa, 547, 1328, 1448.
-ramosa, 419, 431, 1328, 1357,
-1363,
-reptans, 372, 1363.
-(Homcodictya),
-grandis, 406, 1363.
-kerguelenensis, 460, 1363.
-Desmalia,
-imbricata, 585.
-Desmartus,
-larvalis, 949.
-tubulatus, 986.
-Desmocampe,
-aphrodite, 1265.
-atractus, 949.
-catenula, 939.
-tänioides, 1022.
-Desmophyllum,
-cailleti, 171, 1332.
-eburneum, 1145, 1332.
-ingens, 1145, 1147, 1150, 1160,
-1332, 1355.
-Desmoscyphus,
-acanthocarpus, 373, 1372.
-gracilis, 202, 1372.
-obliquus, 373, 693, 1372, 1422.
-pectinatus, 373, 537, 1372, 1422.
-Desmospyris,
-carpocanium, 1118.
-cyrtocolpos, 880, 1041.
-mammillata, 880, 1051.
-Dexamine, 384.
-flindersi, 698, 1385.
-189
+verrucosa, 615, 1322, 1449.
+Eledonella,
+diaphana, 867, 1309.
+Eleginus,
+maclovinus, 1166, 1180, 1417.
+Elenchus (see Trochus).
+Eleotris,
+fusca, 659, 1001, 1076, 1417,
+1428.
+longipinnis, 659, 1417.
+macrolepidota, 659, 1417, 1428.
+sinensis, 796, 1417.
+Ellipsidium,
+artocarpus, 1021.
+datura, 879.
+echinidium, 1249.
+opuntia, 1039, 1045, 1085.
+Ellipsostylus,
+aquila, 1050,
+ciconia, 979.
+columba, 1218.
+gallinula, 980.
+hirundo, 1021.
+ornithoides, 949.
+ovicularis, 1132.
+psittacus, 1015.
+Ellipsoxiphus,
+atractus, 879, 1021,
+bipolaris, 879.
+claviger, 1050.
+pupa, 1154.
+serrata, 134, 427, 522, 581, 589,
+641, 671, 686, 949, 965, 1067,
+1085, 1111, 1131, 1247.
+Eiconaxius,
+acutifrons, 753, 1341.
+parvus, 614, 1320.
+kermadeci, 620, 1320.
+Eilhardia,
+schulzei, 547, 555, 1330, 1357,
+1365.
+Elaphocaris, 853, 869, 870, 1009.
+crassus, 892.
+Elaphococcus,
+elaphoceras, 1050.
+furcatus, 1254.
+umbellatus, 1126.
+umbellifer, 1206.

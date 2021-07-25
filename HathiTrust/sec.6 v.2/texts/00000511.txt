@@ -1,115 +1,45 @@
 SUMMARY OF RESULTS.
-1235
-Temperature of water :-
-STATION 341.
-O
-79.0
-Surface,
-10 fathoms,
-20
-30
-40
-50
-60
-70
-80
-90
-100
-110
-120
-130
-140
-150
-160
-79.0
-78.2
-76.7
-74.2
-71.4
-68.2
-64.8
-61.8
-59.2
-57.3
-55.4
-54:0
-52.7
-51.6
-50.8
-50.0
-170 fathoms,
-180
-190
-200
-225
-250
-275
-300
-400
-500
-600
-700
-800
-900
-1000
-Bottom,
-49.3
-48.5
-47.8
-47.0
-45.8
-44.7
-43.5
-42-6
-40:3
-393
-39.0
-38.9
-38.8
-38.7
-38.6
-38.2
->
-97
-Density at 60° F.:-
-Surface,
-25 fathoms,
-50
-100
-200
-1.02706
-. 1.02706
-. 1.02715
-1.02606
-. 1.02598
-300 fathoms,
-400
-800
-Bottom,
-. 1.02617
-. 1.02560
-1.02563
-1.02601
-9
-Depth, 1475 fathoms ; deposit, Pteropod Ooze.
-At 1.45 P.M. shortened and furled sails, and proceeded under steam to sound. At
-2.30 P.M. sounded in 1475 fathoms. The sounding-tube contained only a few Pteropod
-shells, Foraminifera, and small particles of peroxide of manganese. On the outside of
-the tube were several black streaks due to peroxide of manganese. Took serial
-temperatures down to 1000 fathoms. At 4.30 P.M. completed temperatures and made
-all plain sail.
-Ascension Island distant at noon, 275 miles. Made good 140 miles.
-140 miles. Amount of
-current 15 miles, direction S. 72º W.
-Surface Organisms. — The following species are recorded from the surface at this ORGANISMS FROM
+1239
+STATION 343.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Pararchaster spinosissimus, n.g., n.sp. Several specimens ; obtained at no other
+locality.
+Plutonaster marginatus, n.g., n.sp. Obtained at no other locality.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophioglypha lepida, n.sp. Several specimens ; obtained also at Stations 45, 46, 79,
+and Bermuda.
+Ophiocreas adipus, n.sp. Obtained also at Stations 214 and 344.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Echinus acutus, Lamarck. Many specimens ; obtained also at Stations 46 and 170.
+ANOMURA (Henderson, Zool. pt. 69).
+Munida microphthalma, M.-Edwards. One specimen ; obtained also at Stations 24
+and 171.
+In addition to the foregoing, the following are recorded in the Station-book :—Two
+specimens of Aphrocallistes, and two specimens of Spongodes.
+Excluding Protozoa, over 50 specimens of invertebrates were obtained at this
+Station, belonging to about 11 species, of which 7 are new to science, including
+representatives of 3 new genera; 5 of the new species and 1 new genus were not
+obtained elsewhere.
+Surface Organisms.—The following species are recorded from the surface at this ORGANISMS FROM
+Station :--
 SURFACE-NETS.
-Station :
-OSTRACODA (Brady, Zool. pt. 3).
-Oithona challengerii, n.sp.
-Halocypris atlantica, Lubbock.
-Corycæus varius, Dana.
-brevirostris, Dana.
-limbatus, n.sp.
-Lubbockia squillimana, Claus.
-COPEPODA (Brady, Zool. pt. 23).
-Euchæta prestandreæ, Philippi.
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Phractaspis complanata, Haeckel.
+Rhaphidozoum pandora, Haeckel.
+Stauraspis stauracantha, Haeckel.
+Siphonosphæra socialis, Haeckel.
+Lychnaspis giltschii, Haeckel.
+Solenosphæra ascensionis, Haeckel.
+undulata, Haeckel.
+Leptosphæra stellata, Haeckel.
+Icosaspis elegans, Haeckel.
+Amphipyle stenoptera, Haeckel.
+Conchidium argiope, Haeckel.
+Xiphacantha ciliata, Haeckel.
+SIPHONOPHORE (Haeckel, Zool. pt. 77).
+Amphilonche lanceolata, Haeckel.
+Eudoxella didyma, n.g., n.sp.
+The tow-nets near the surface gave abundance of organisms, principally Globigerina,
+Orbulina, and Pulvinulinæ, along with all the things noted at the previous Station.
+The Challenger remained at Ascension from 5 P.M. on March 27 till 5.30 A.M. on AT ASCENSION.
+April 3, 1876 (for description of the island see Narr. Chall. Exp., vol. i. pp. 926–929).

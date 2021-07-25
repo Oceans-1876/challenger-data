@@ -1,89 +1,100 @@
 SUMMARY OF RESULTS.
-1227
-Hastigerina, Pulvinulina menardii, Acanthometræ, Polycystinæ, and compound Station 335.
-Radiolaria, several forms of Siphonophoræ, Sagitta, Tomopteris, Alciopa, Planarian
-larvæ, Evadne, Copilia and other Copepods, Lucifer, Sergestes and other Decapod larvæ,
-Atlanta, several forms of Pteropods and larvæ, and small fishes. The tow-nets at the
-weights came up wound round the line, but contained a few Challengeridæ and some
-living and dead Foraminifera. Some of the Globigerinæ were surrounded with a circle
-of sarcode, in which were entangled a great many Coccospheres, Rhabdospheres,
-Peridinium, and minute Infusorians.
-STATION 336.
-.
-Station 336 (Sounding 486), Tristan da Cunha to Ascension Island (see Chart 16
-and Diagram 7).
-March 18, 1876 ; lat. 27° 54' S., long. 13° 13' W.
-Temperature of air at noon, 69°:8; mean for the day, 71°:6.
-Temperature of water :-
-Surface,
-76.0
-400 fathoms,
-41.7
-25 fathoms,
-69.8
-500
-39:1
-50
-65.0
-600
-38.2
-75
-62.0
-700
-38:1
-100
-59.7
-800
-37.9
-125
-57-5
-900
-37.8
-150
-55.5 1000
-37.7
-175
-54:8 1100
-37.5
-200
-51.9 1200
-37.4
-225
-50:3 1300
-37.2
-250
-48.7 1400
-37.1
-275
-47.3 1500
-37.0
-300
-46:1 Bottom,
-36.5
-Density at 60° F. :-
-.
-Surface,
-25 fathoms,
-50
-100
-200
-1:02693
-1.02670
-1.02653
-1.02632
-1:02596
-300 fathoms,
-400
-800
-Bottom,
-1.02589
-. 1.02561
-1.02585
-. 1.02590
-.
-Depth, 1890 fathoms; deposit, Globigerina Ooze, containing 79:02 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 5 A.m. shortened and furled sails, and proceeded under steam to sound. At 6 A.M.
-sounded in 1890 fathoms. Only a small quantity of deposit came up in the sounding-
-tube. Obtained serial temperatures down to 1500 fathoms. At 10.30 A.M. completed
-observations and made sail to a strong south-easter, the ship going 101 knots at noon.
+1231
+STATION 338.
+Х
+9
+Х
+Х
+Lagena lævis (Montagu).
+lagenoides (Williamson).
+var, tenuistriata, Brady.
+longispina, Brady.
+lucida (Williamson).
+plumigera, Brady.
+seminiformis, Schwager.
+squamosa (Montagu).
+stelligera, Brady.
+striata (d'Orbigny).
+Vodosaria calomorpha, Reuss.
+Cristellaria obtusata, Reuss.
+rotulata (Lamarck).
+Polymorphina angusta, Egger.
+lactea (Walker and Jacob).
+longicollis, Brady.
+Uvigerina asperula, Czjzek.
+Pygmæa, d'Orbigny.
+x Globigerina æquilateralis, Brady.
+bulloides, d'Orbigny.
+var. triloba, Reuss.
+conglobata, Brady.
+digitata, Brady.
+dubia, Egger.
+x Globigerina helicina, d'Orbigny.
+inflata, d'Orbigny.
+rubra, d'Orbigny.
+sacculifera, Brady.
+x Orinulina universa, d'Orbigny.
+* Hastigerina pelagica (d'Orbigny).
+x Pullenia oblipuiloculata, Parker and Jones.
+quinqueloba, Reuss.
+sphæroides (d'Orbigny).
+x Sphæroidina dehiscens, Parker and Jones.
+x Candeina nitida, d'Orbigny.
+Truncatulina haidingerii (d’Orbigny).
+uuellerstorfi (Schwager).
+x Pulvinulina canariensis (d'Orbigny).
+crassa (d’Orbigny).
+favus, Brady.
+menardii (d’Orbigny).
+micheliniana (d'Orbigny).
+patagonica (d'Orbigny).
+pauperata, Parker and Jones.
+tumida, Brady.
+Rotalia soldanii, d’Orbigny.
+Nonionina scapha (Fichtel and Moll).
+umbilicatula (Montagu).
+Х
+X X X
+х
+X
+х
+99
+Х
+Х
+97
+Х
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Haliomma rhoclococcus, Haeckel.
+A.coprunum stauraxonium, Haeckel.
+Cenolarcus triaxonius, Haeckel.
+Octopyle stenozona, Haeckel.
+Polyplecta decacantha, Haeckel.
+Zygocircus tetragonus, Haeckel.
+Dystympanium dictyocha, Haeckel.
+Dendrospyris furcata, Haeckel.
+Cantharospyris carabus, Haeckel.
+Dictyospyris polystoma, llaeckel.
+Tripodiscium furcatum, Haeckel.
+Cinclopyramis infundibulum, Haeckel
+Lychnodictyum challengeri, Haeckel
+Anthocyrtis ventricosa, Ehrenberg.
+Dictyocephalus hispidus, Ehrenberg.
+Thyrsocyrtis furcata, Haeckel.
+Theopera cortina, Haeckel.
+Theocyrtis aspera, Haeckel.
+Stichocapsa cylindrica, Haeckel.
+Oroplegma velatum, Haeckel.
+Conchoceras cornutum, Haeckel.
+Surface Organisms.—The following species are recorded from the surface at this ORGANISMS FROM
+Station :
+SURFACE-NETS.
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Octopelta cultella, Haeckel.
+Spongodictyon cavernosum, Haeckel.
+Dorypelta stauroptera, Haeckel.
+Siphonosphæra socialis, Haeckel.
+Plagoniscus cortinarius, Haeckel.
+Hystrichaspis foveolata, Haeckel. Bathropyramis medusa, Haeckel.
+Coscinaspis coscinopora, Haeckel. Arachnocorys enneaptera, Haeckel.
+Lychnaspis giltschii, Haeckel.
+Caloplegma tetradecastylum, Haeckel.

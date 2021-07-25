@@ -1,56 +1,39 @@
-1162
+1166
 THE VOYAGE OF H.M.S. CHALLENGER.
-Station 311.
-CEPHALODISCUS (MʻIntosh, Zool. pt. 62).
-Cephalodiscus dodecalophus, n.g., n.sp.
-Obtained at no other locality. Only species
-of the genus.
-TUNICATA (Herdman, Zool. pts. 17 and 38).
-Ascidia tenera, n.sp. Three specimens ; obtained also at Station 320, 600 fathoms.
-Colella ramulosa, n.g.,n.sp. About twelve specimens ; obtained at no other locality.
-Amaroucium recumbens, n.sp. One specimen ; obtained at no other locality.
-Leptoclinum tenue, n.sp. About twenty specimens ; obtained also at Stations 308
-and 320.
-propinquum, n.sp. Several specimens ; obtained at no other locality.
-FISHES (Günther, Zool. pt. 57).
-Centroscyllium granulatum, n.sp. One specimen ; obtained at no other locality.
-Macrurus fasciatus, n.sp. Five specimens; obtained also at Stations 305 and 309.
-In addition to the foregoing, the following are recorded in the Station-book :-
-Epizoanthus (?) on Gorgonoid stems, Euryale, Ophiomywa, two specimens of Ophiolepis,
-and several other Ophiurids of three species (only two species of Ophiuroidea noted
-above), very many specimens of Hemiaster of two species, Aphroditacean, Dentalium,
-several specimens of Patella (?), Idmonea, and Terebratula.
-1
+MAGELLAN
+STRAIT.
+Suberites spiralis, n.sp. One specimen (S. W. Patagonia); obtained at
+other locality.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Calvasterias stolidota, n.sp. (Messier Channel); obtained also at Station 315,
+5 to 10 fathoms.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Astrotoma agassizii, Lyman. (Magellan Strait, 135 fathoms); obtained also at
+Stations 148, 150, 307, 308, 309, and 313.
+Ophiactis n.sp., (young). (Magellan Strait).
+ENTOZOA (Linstow, Zool. pt. 71).
+Ascaris biloba, n.sp. Five specimens (Magellan Strait-host not recorded);
+obtained at no other locality.
+ISOPODA.
+One specimen, genus and species undetermined. (Magellan Strait).
+ANOMURA (Henderson, Zool. pt. 69).
+Munida subrugosa (White). Several specimens from stomach of fish (Gray's
+Harbour); for distribution see Station 304.
+Petrolisthes validus (Dana). One specimen (Messier Channel); obtained also at
+Valparaiso.
+BRACHYURA (Miers, Zool. pt. 49).
+Acanthocyclus gayi, M.- Edwards and Lucas. One specimen (Messier Channel, fresh
+water); obtained also at Valparaiso.
+FISHES (Günther, Zool. pts. 6 and 57).
+Scyllium chilense, Guichen. (Gray's Harbour); obtained at no other locality by
+the Challenger.
+Sebastes oculatus, C.V. (Puerto Bueno); obtained also at Stations 306 and 307.
+Aphritis gobio, Günther. (Puerto Bueno); obtained also at Stations 307, 308,
+and 312.
+Eleginus maclovinus, C.V. (Gray's Harbour); obtained also at Falklands.
+Merluccius gayi (Guichen.). (Gray's Harbour); obtained also at Valparaiso.
+Haplochiton zebra, Jen. (Stream at Gray's Harbour and lake at Puerto Bueno);
+obtained also at Falklands.
+Myxine australis, Jen. (Grapler Harbour and Port Churruca); obtained also at
+Station 232.
 .
-Excluding Protozoa, over 350 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 65 species, of which 42 are new to science, including
-representatives of 7 new genera; 16 of the new species and 1 new genus were not
-obtained elsewhere.
-ORGANISMS FROM
-THE DEPOSIT.
-FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera were
-observed during the examination of the deposit from this Station; the single pelagic
-species (Globigerina bulloides) makes up about 23 per cent. of the carbonate of lime
-present in the deposit :
-Biloculina depressa, d'Orbigny.
-elongata, d'Orbigny.
-ringens (Lamarck).
-sphæra, d'Orbigny.
-Miliolina auberiana (d'Orbigny).
-oblonga (Montagu).
-seminulum (Linné).
-Reophax scorpiurus, Montfort.
-Haplophragmium canariense (d’Orbigny).
-latidorsatum (Bornemann).
-Clavulina communis, d'Orbigny.
-Bulimina pupoides, d'Orbigny.
-pyrula, d’Orbigny.
-Cassidulina crassa, d’Orbigny.
-lævigata, d'Orbigny.
-Lagena distoma, Parker and Jones.
-hispida, Reuss.
-lævis (Montagu).
-striata (d'Orbigny).
-striatopunctata, Parker and Jones.
-Nodosaria (Glandulina) læviyata, d’Orbigny.
-(Dentalina) pauperata, d'Orbigny.

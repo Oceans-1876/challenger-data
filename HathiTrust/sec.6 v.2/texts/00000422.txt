@@ -1,73 +1,55 @@
-1154
+1158
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 308.
-99
-х
+STATION 310.
+POLYPLACOPHORA (Haddon, Zool. pt. 43).
+Lepidopleurus dallii, n.sp. Obtained at no other locality.
+FISHES (Günther, Zool. pt. 57).
+Scyllium canescens, n.sp. One specimen ; obtained at no other locality.
+Paraliparis membranaceus, n.sp. One specimen ; obtained at no other locality.
+Notacanthus bonapartii, Risso. One specimen ; obtained at no other locality by
+the Challenger. Recorded from Mediterranean.
+In addition to the foregoing, the following are recorded in the Station-book :-
+Many large masses of Lophohelia, and calcareous Polyzoon.
+Excluding Protozoa, over 150 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 30 species, of which 24 are new to science, including
+representatives of 7 new genera ; 16 of the new species were not obtained elsewhere.
+ORGANISMS FROM
+THE DEPOSIT.
+FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera, were
+observed in the deposit from this Station ; the only pelagic species is Globigerina
+bulloides :
+Biloculina ringens (Lamarck).
+sphæra, d'Orbigny.
+Miliolina seminulum (Linné).
+Reophaz difflugiformis, Brady.
+pilulifera, Brady.
+scorpiurus, Montfort.
+Haplophragmium canariense (d'Orbigny).
+scitulum, Brady.
+Hormosina globulifera, Brady.
+Ammodiscus gordialis (Jones and Parker).
+tenuis, Brady.
+Trochammina squamata, Jones and Parker.
 Cyclammina cancellata, Brady.
-Tectularia aspera, Brady.
-concava (Karrer).
-gramen, d’Orbigny.
 Clavulina communis, d’Orbigny.
-Bulimina marginata, d’Orbigny.
-pyrula, d’Orbigny.
-subteres, Brady.
-Bolivina punctata, d'Orbigny.
-Cassidulina bralyi, Norman,
-crassa, d'Orbigny.
-lævigata, d'Orbigny.
-parkeriana, Brady.
-Ehrenbergina pupa (d'Orbigny).
-Lagena distoma, Parker and Jones.
-gracilis, Williamson.
-hispida, Reuss.
-lævis (Montagu).
-marginata (Walker and Boys).
-semistriata, Williamson.
-striata (d'Orbigny).
-sulcata (Walker and Jacob).
-Noclosaria communis, d'Orbigny.
-(Glandulina) lævigata, d'Orbigny.
-Marginulina glabra, d'Orbigny.
-Cristellaria acutauricularis (Fichtel and Moll).
-cultrata (Montfort).
-reniformis, d'Orbigny.
-Urigerina angulosa, Williamson.
-canariensis, d'Orbigny.
-Pygmæa, d’Orbigny.
-tenuistriata, Reuss.
+Bulimina pyrula, d’Orbigny.
+Bolirina robusta, Brady.
+Cassidulina crassa, d'Orbigny.
+Lagena lævis (Montagu).
+Nodosaria communis, d'Orbigny.
+Cristellaria rotulata (Lamarck).
 Sagrina dimorpha, Parker and Jones.
-x Globigerina bulloides, d'Orbigny.
-inflata, d'Orbigny
-x Orbulina universa, d'Orbigny.
-Pullenia quinqueloba, Reuss.
-sphæroides (u’Orbigny).
-Discorbina ylobularis (d'Orbigny).
-Truncatulina haidinyerii (d'Orbigny).
-lobatula (Walker and Jacob).
-refulgens (Montfort).
-variabilis, d'Orbigny.
-Anomalina coronata, Parker and Jones.
-Pulcinulina umbonata, Reuss.
-Rotalia bercarii (Linne).
-clathrata, Brady.
-Nonionina scapha (Fichtel and Moll).
-umbilicatula (Montagu).
+x Gloingerina bulloiles, d'Orbigny.
+Spirillina tuberculata, Brady.
+Truncatulina tenera, Brady.
+Nonionina depressula (Walker and Jacob).
+scapha (Fichtel and Moll).
+I
 1
-9
-STATIONS 309
-AND 309A.
-Stations 309 and 309A (Soundings 457 and 458), Gulf of Peñas to Sandy Point
-through Magellan Strait (see Chart 41).
-January 8, 1876 ; lat. 50° 56' S., long. 74° 15' to 74° 14' W.
-Temperature of air at noon, 51°:5; mean for the day, 48°4.
-Temperature of water at surface, 50°-5; bottom (40 fathoms), 47°:0.
-Density at 60° F. at surface, 1.01896 ; 40 fathoms, 1.02417 ; bottom, 1.02446.
-Depth, 40 and 140 fathoms ; deposit, Blue Mud, containing only a trace of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4 A.M. got up steam, and at 4.45 A. M. weighed anchor and proceeded out of Tom
-Bay for Trinidad Channel. At 2.15 P. M. stopped and sounded in 40 fathoms (Station 309),
-and put trawl over. At 3 P.M. sounded in 140 fathoms (Station 309A). At 3.45 P.M. hove
-up trawl with many specimens, and proceeded. The carbonic acid was determined in
-surface water, and amounted to 39.5 milligrammes per litre.
-At 4.30 P.M. anchored in
-7 fathoms in Puerto Bueno. Exploring parties went on shore.
+1
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms.—The tow-nets procured : Diatoms, many specimens of
+Peridinium, many Infusoria, many small Medusæ, Annelid larvæ, Daphnids, Copepods,
+Amphipods, many larval Lamellibranchs (young mussels), Membranipora larvæ,
+Appendicularia.

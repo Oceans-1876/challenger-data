@@ -1,123 +1,102 @@
-1352
+1356
 THE VOYAGE OF H.M.S. CHALLENGER.
-S
-S
-S
-*
-S
-var.
-var.
-92
-N
-S
-s
->>
-S
-S
-S
-s
-Kinetoskias pocillum, n.sp.
-ST
-* Salicornaria bicornis, Busk.
-* Lichenopora fimbriata, Busk.
-.
-divaricata, n.sp.
-ST
-hispida (Fleming). S
-magnifica, n.sp.
-holdsworthii, Busk. * Schizoporella auriculata, Hassall, var.
-S
-Membranipora albida, Hincks.
-alba, nov.
-TN
-crassimarginata (Hincks
-elegans (d'Orbigny). S
-S
-var. incrustans, nov. S
-marsupifera, n.sp.
-S
-galeata,
-nivea, n.sp.
-Busk,
-furcata, nov. SN Scrupocellaria pilosa (Audouin). S
-S
-galeata, Busk,
-* Smittia graciosa, 1.sp.
-multifida, nov.
-jacobensis, n.sp.
-S T
-S
-spinosa, d'Orbigny. S
-marionensis, Busk
-Menipea aculeata (d’Orbigny).
-orotavensis, n.sp.
-benemunita, n.sp.
-S
-transversa, n.sp.
-S
-flagellifera, n.sp.
-* Supercytis digitata, d'Orbigny.
-marionensis, n.sp.
-Tessaradoma boreale (Busk). T
-Micropora coriacea (Esper). S N
-* Tubucellaria hirsuta (Lamouroux). S
-S
-Turritigera stellata, n.g., n.sp.
-uncifera, n.sp.
-* Microporella ciliata (Pallas). s
-Vincularia gothica, d'Orbigny. S
-malusii (Andouin). S
-RHABDOPLEURA :
-Mucronella castanea, n.sp.
-rostrigera, n.sp.
-Rhabdopleura normani, Allman (on
-Lophohelia). S
-tricuspis, Hincks. S
-ventricosa, var. multispinata, CEPHALODISCUS :
-Busk. S
-Cephalodiscus dodecalophus, 11.g., n.sp. S
-(Phylactella?) canalifera,
-n.sp.
-N
-BRACHIOPODA :
-Myriozoum marionense, n.sp. S
-* Crania sp. (?). N
-Onchoporu sinclairü, Busk. S
-Discina atlantica, King. S TN
-* Pasythea eburnea (Smitt). T
-* Kraussina pisum (Val.apud Lamarck). S
-* Porella lævis,
-subcompressa, Magasella incerta, n.sp.
-T
-Hincks.
-T
-* Megerlia willemöesi, n.sp.
-* Porina proboscidea, n.sp.
-* Platydia anomioides (Scacchi).
-s
-Pustulopora proboscidea, M.-Edwards. S
-Rhynchonella nigricans (Sowerby), var.
-Retepora atlantica, n.sp.
-pixydata, nov.
-imperati, Busk.
-Τ Ν
-Terebratella frielii, n.sp.
-Τ Ν
-margaritacea, n.sp.
-* Terebratula cubensis, Pourtalès. T
-tessellata, Hincks, var. pubens, *
-moseleyi, n.sp.
-s
-uva, Broderip.
-T
-S
-*
-var.
-s
-T
-*
-N
-S
-T
-s
-nov.
+Psolus squamatus (3).
+Stichopus moseleyi.
+Trochostoma antarcticum.
+Aphrodita echidna.
+intermedia.
+Eunice magellanica.
+Glycera capitatu.
+tesselata.
+Hemipodus magellanicus.
+Lagisca magellanica (4).
+Neottis antarctica.
+Polyeunoa lævis.
+Scolecolepis cirrata.
+Terebella (Lanice) flabellum.
+Myzostoma willemoesii.
+Bairdia amygdaloides.
+angulata (3).
+foveolata.
+victric (5)
+villosa (3)
+Bythocyprix reniformis (3).
+Cythere dasyderma (6).
+dictyon (7).
+scalaris.
+wyville-thomsoni (3).
+Cytherella lata (3).
+pulchra (3)
+punctata (3).
+Krithe producta (8).
+Macrocypris decora (3).
+similis.
+tenuicauda.
+Polycope orbicularis (3).
+Pseudocythere caudata.
+Xestoleberis setigera.
+Poecilasma carinatum.
+Scalpellum elongatum.
+Iphimcdia pacifica.
+Ediceroides rostrata.
+Acanthephyra brachytelsonis.
+Benthesicymus altus.
+Campylonotus capensis.
+semistriatus (7).
+Glyphocrangon reyalis.
+Hemipenæus tomentosus.
+Nematocarcinus undulatipes.
+Vephrops thomsoni.
+Pandalus magnoculus.
+Penæus philippinensis.
+Plesionika semilavis (3).
+Sergestes atlanticus.
+Stereomastis suhmi.
+Elasmonotus armatus.
+debilis.
+Munida microphthalma.
+militaris (5)
+tuberculata.
+Parapagurus dimorphus (4).
+Uroptychus australis.
+nitidus.
+Evalia tuberculosa (3).
+Lispognathus thomsoni.
+Lupocyclus (Parathranites) orientalis.
+O.cypleurodon stimpsoni.
+Pilumnoplax heterochir.
+Randallia granulata.
+Amussium cancellatum.
+squamigerum.
+Anomia ephippium.
+Kellia nuculina.
+Lima (Limatula) laminifera.
+(Mantellum) loscombii.
+Limopsis minuta (3).
+Malletia veneriformis.
+Modiolarca trapezina.
+Mytilus meridionalis.
+Neæra consociata.
+curta.
+Pecten vitreus (6).
+Sa.cicava arctica (7).
+Verticordia deshayesiana.
+woodii.
+Cithna tenella.
+Clathurella chariessa.
+circumvoluta.
+crispata.
+hormophora (3).
+Columbella (Anachis) haliæeti.
+(Pyrene) strix (3)
+Cylichna alba.
+cylindracea.
+kata (3).
+Dentalium capillosum.
+circumcinctum (3),
+entalis (4).
+Fissurella (Lucapina) cayenensis.
+Natica fartilis.
+Odostomia (Obeliscus) nitidula.
+Pleurotoma (Surcula) syngenes.
+Provocator pulcher.

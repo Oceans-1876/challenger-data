@@ -1,43 +1,39 @@
-1192
+1196
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 320.
-Smittia smittiana, n.sp. Obtained at no other locality.
-Myriozoum immersum, n.sp. Obtained at no other locality. [Waters calls it
-Schizoporella challengeria, n.n.].
-simplex, n.sp.
-Obtained at no other locality.
-Cellepora rudis, n.sp. Obtained at no other locality.
-Crisia acuminata, n.sp. Obtained at no other locality.
-Idmonea marionensis, Busk. Obtained also at Stations 145, 147, and 151.
-fissurata, n.sp.
-Obtained at no other locality.
-Hornera lichenoides (Linne). Obtained at no other locality by the Challenger.
-Recorded from North Atlantic and Arctic.
-BRACHIOPODA (Davidson, Zool. pt. 1).
-Terebratula uva, Broderip. Two specimens ; obtained also at Stations 150 and 163.
-TUNICATA (Herdman, Zool. pts. 17 and 38).
-Molgula pyriformis, n.sp. One specimen ; obtained at no other locality.
-Styela oblonga, n.sp. One specimen ; obtained at no other locality.
-flava, n.sp. One specimen ; obtained
-One specimen; obtained at no other locality.
-glans, n.sp.
-One specimen ; obtained at no other locality.
-Ascidia meridionalis, n.sp. Several specimens; obtained also at Station 313.
-tenera, n.sp. Two specimens ; obtained also at Station 311.
-Hypobythius moseleyi, n.g., n.sp. One specimen ; obtained at no other locality.
-The only other species of the genus (Hypobythius calycodes)
-was taken at Station 248.
-Polycarpa aspera, n.sp. One specimen ; obtained at no other locality.
-Polyclinum molle, n.sp. One specimen ; obtained at no other locality.
-Aplidium incrustans, n.sp. Several specimens; obtained at no other locality.
-Psammaplidium effrenatum, n.g., n.sp. Two specimens; obtained at no other locality.
-flavum, n.g., n.sp. One specimen ; obtained at no other locality.
-Leptoclinum tenue, n.sp. One specimen ; obtained also at Stations 308 and 311.
-Cælocormus huxleyi, n.g., n.sp. One specimen obtained at no other locality. Only
-species of the genus.
-FISHES (Günther, Zool. pt. 57).
-Haloporphyrus ensiferus, n.sp. Four specimens; obtained at no other locality.
-Antimora rostrata, n.g., n.sp. One specimen ; obtained also at Station 146.
-Macrurus holotrachys, n.sp. One specimen ; obtained at no other locality.
-In addition to the foregoing, the following are recorded in the Station-book :- Many
-specimens of Palythoa, Borlasia (cf.), and Maia.
+STATION 322.
+Station 322 (Sounding 472), Rio de la Plata to Tristan da Cunha (see Chart 16).
+February 26, 1876 ; lat. 35° 20' S., long. 53° 42' W.
+Temperature of air at noon, 70°:8; mean for the day, 71°:3.
+Temperature of water at surface, 71° 5.
+Density at 60° F. at surface, 1.02288.
+Depth, 21 fathoms; deposit, Sand and Shells.
+At 9 A.M. stopped and sounded in 21 fathoms. Put over trawl, which came up at
+10 A.M. with a few 'specimens. Position of Station about 60 miles E.S.E. of Lobos
+Island, off the Rio de la Plata. Proceeded under steam. Shortly after, the wind shifting,
+proceeded under sail. Sea phosphorescent after sunset. Molly mauks and large black
+petrels were seen about the ship.
+Tristan da Cunha distant at noon, 2000 miles. Made good 135 miles from Monte
+Video. No current.
+ANIMALS FROM
+TRAWL.
+The following species are recorded in the Zoological Reports from the trawl at
+this Station :-
+ACTINIARIA (Hertwig, Zool. pt. 73).
+Epizoanthus elongatus, n.sp. Five specimens ; obtained at no other locality:
+ANNELIDA (M'Intosh, Zool. pt. 34).
+Terebella (Lanice) seticornis, n.sp. Tube only ; obtained at no other locality.
+1
+1
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Mytilus edulis, Linné. Obtained also at Station 315 and New Zealand.
+Plicatula ramosa, Lamarck. Obtained at no other locality by the Challenger.
+Recorded from West Indies.
+1
+FISHES (Günther, Zool. pt. 6).
+Percophis brasilianus, Quoy and Gaimard. Obtained at no other locality by
+the Challenger.
+Prionotus punctatus, Bl. Obtained at no other locality by the Challenger.
+The Station-book records also Hydroids, Serpula, and worm-tubes, on the shells.
+Excluding Protozoa, about 20 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 9 species, of which 2 are new to science, and were
+not obtained elsewhere.

@@ -1,44 +1,90 @@
 SUMMARY OF RESULTS.
-1179
-FALKLAND
-ISLANDS.
-19
-POLYZOA (Busk, Zool. pts. 30 and 50 ; Waters, pt. 79).
-Menipea benemunita, n.sp. (Station 315, 5 to 12 fathoms); obtained also at
-Stations 149, 308, 313, and 314.
-aculeata (d'Orbigny). (Station 315, 5 to 12 fathoms); obtained also at
-Stations 308 and 314.
-Caberea minima, n.sp. (Station 315, 5 to 12 fathoms); obtained at
-other locality
-Carbasea ovoidea, Busk. (Station 315, 5 to 12 fathoms); obtained also at
-Stations 145, 149, 308, and 312.
-Diachoris magellanica, Busk. (Station 315, 5 to 12 fathoms); obtained also at
-Port Jackson.
-costata, Busk. (Station 315,5 to 12 fathoms); obtained at no other locality
-by the Challenger. Recorded from Australia and Kerguelen.
-Salicornaria malvinensis, Busk. (Station 315, 5 to 10 fathoms); obtained also at
-Stations 145, 149, 176, and 304.
-Cribrilina monoceros (Busk). (Station 315, 12 fathoms); for distribution see
-Station 145.
-Microporella malusië (Audouin). (Station 315, 5 to 12 fathoms); obtained also at
-Station 135.
-Lepralia margaritifera (Quoy and Gaimard). (Station 315, 12 fathoms); obtained
-at no other locality by the Challenger. Recorded from
-Tierra del Fuego, Falkland Islands, and Kerguelen.
-marsupium, Macgillivray. (Station 315, 12 fathoms); obtained at no other
-locality by the Challenger. Recorded from Australia.
-Chorizopora hyalina, var. bougainvillei, Busk. (Station 315, 12 fathoms); obtained
-also at Stations 135 and 149.
-Smittia stigmatophora, n.sp. (Station 315, 12 fathoms); obtained at no other
-locality. [Waters calls it Smittia smittiana, Busk].
-Mucronella tricuspis, Hincks. (Station 315, 5 to 12 fathoms); obtained also at
-Station 145 and the Cape.
-Cellepora eatonensis, n.sp. (Station 315, 5 to 12 fathoms) ; obtained also at
-Stations 149 and 308. [Waters calls it Celleporu
-pumicosa, var. eatonensis).
-Tubulipora flabellaris (Fabricius). (Station 315, 12 fathoms); obtained at no other
-locality by the Challenger. Recorded from European
-seas and Arctic.
-fimbria, Lamarck. (Station 315, 12 fathoms); obtained at no other
-locality by the Challenger. Recorded from Arctic, North
-Atlantic, and Australia.
+1183
+Station 318 (Sounding 468), Falkland Islands to Rio de la Plata (see Chart 42
+and Diagram 22).
+Station 318.
+February 11, 1876; lat. 42° 32' S., long. 56° 29' W.
+Temperature of air at noon, 56°:8; mean for the day, 56°:7.
+Temperature of water :-
+Surface,
+25 fathoms,
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+57-5
+56:7
+43.2
+39.6
+36.5
+35.9
+35.6
+35:4
+3504
+35.4
+35.4
+35.4
+300 fathoms,
+400
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+35.4
+35.4
+35:4
+35.4
+35.4
+35.4
+35.4
+35.4
+35.4
+35.4
+33.7
+Density at 60° F.:-
+.
+Surface,
+25 fathoms,
+50
+100
+200
+. 1.02524
+. 1.02526
+. 1:02514
+. 1.02511
+. 1.02509
+300 fathoms,
+400
+800
+Bottom,
+. 1.02508
+. 1:02519
+. 1:02568
+. 1.02584
+.
+Depth, 2040 fathoms; deposit, Globigerina Ooze, containing 32:69 per cent. of
+carbonate of lime (sce Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.45 A.M. got up steam. At 9 A.M. shortened and furled sails, and proceeded
+under steam to sound and trawl. At 10 A.M. sounded in 2040 fathoms. Put trawl over.
+Obtained serial temperatures down to 1500 fathoms. The carbonic acid was determined
+in surface water, and amounted to 38.5 milligrammes per litre. At 4 P.M. commenced
+heaving in trawl, which came up at 6 P.M., containing a few Crustaceans, &c., but,
+although the trawl must have been near, it showed no signs of having touched the
+bottom. At 7.10 P.M. made sail. Albatrosses, mutton birds, black night hawks, prions,
+and Thalassidromas were seen.
+Lobos Island distant at noon, 456 miles; Valdes Peninsula, east coast of South
+America, distant about 300 miles. Made good 176 miles. Amount of current 13 miles,
+direction N. 33° E.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :

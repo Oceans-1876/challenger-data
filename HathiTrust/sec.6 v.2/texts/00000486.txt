@@ -1,47 +1,62 @@
-1210
+1214
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 327.
+STATION 331.
+Density at 60° F. :-
+Surface,
+25 fathoms,
+50
+100
+200
+1:02620
+1.02606
+. 1.02618
+1:02616
+. 1.02589
+300 fathoms,
+400
+800
+Bottom,
+1.02545
+. 1.02540
+1.02566
+1.02588
+.
+Depth, 1715 fathoms ; deposit, Globigerina Ooze, containing 78:38 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 11.15 A. M. shortened and furled sails, and proceeded under steam to sound and
+trawl. At 12.30 P. M. sounded in 1715 fathoms. The sounding-tube had sunk a foot
+into the bottom, and brought up over a litre of the ooze; the lower layers were more
+compact than the upper. Put trawl over and veered 2200 fathoms. Obtained serial
+temperatures. The carbonic acid was determined in water from 400 fathoms, and
+amounted to 436 milligrammes per litre. At 4.15 P.M. commenced heaving in trawl,
+which came up at 5.45 P.M. bottom up, but with a shrimp entangled in the meshes of
+the net. It appears that the small lead at the end of the trawl had become hitched
+round the beam, the net being thus doubled up, and the shrimp was found in the fold thus
+formed. In one of the tow-nets at the trawl were a great many dead empty shells of
+Foraminifera which evidently came from the bottom. Made sail.
+Made sail. Birds as noted at
+Station 229 were seen.
+Tristan da Cunha distant at noon, 865 miles. Made good 135 miles. Amount of
+current 27 miles, direction S. 52º W.
+ANIMALS FROM
+TRAWL.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :
+DEEP-SEA KERATOSA (Haeckel, Zool. pt. 82).
+Psammina plakina, n.g., n.sp. Two specimens ; obtained at no other locality.
+MACRURA (Spence Bate, Zool. pt. 52).
+Glyphocrangon rimapes, n.sp. One specimen ; obtained also at Stations 237 and 300.
+The Station-book records also a tentacle of a Calenterate.
 ORGANISMS FROM
 SURFACE-NETS.
-Surface Organisms.—The following species are recorded from the surface at this
-Station :
-SCHIZOPODA (Sars, Zool. pt. 37).
-Thysanoëssa gregaria, n.sp.
-Siriella thompsoni (M.-Edwards).
-SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
-Porpema medusa, n.sp.
-Diphyopsis compressa, n.g., n.sp.
-COPEPODA (Brady, Zool. pt. 23).
-Calanus valgus, n.sp.
-Candace pachydactyla, Dana.
-Centropages violaceus (Claus).
-Pontellopsis villosa, n.g., n.sp.
-Oncæa obtusa (Dana).
+Surface Organisms.—The following species are recorded from the surface and deep
+tow-nets at this Station :
 AMPHIPODA (Stebbing, Zool. pt. 67).
-Phronimella sp. (?).
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Clio (Creseis) acicula (Rang).
-Cavolinia inflexa (Lesueur).
+Cyllopus hookeri, n.sp.
 TUNICATA (Herdman, Zool. pt. 76).
-Salpa democratica - mucronata,
-Forskål.
-In addition, the following are recorded in the note-books : Oscillatoriaceae
-(Trichodesmium), Globigerina, Orbulina, Hastigerina, Acanthometræ and compound
-Radiolaria, Medusæ, small Velellæ, Ctenophoræ, Sagitta, Alciopa, Mysids, small lanthinæ
-and other small shells, Pteropods and larvæ, including a naked form and larvæ of
-Cymbulia (?), Appendicularia, large Salpa with leathery tests having Coccospheres and
-Rhabdospheres in the stomachs, and many small fishes, including a Scopelid, an inch
-in length, with brilliant scales.
-STATION 328.
-Station 328 (Sounding 478), Rio de la Plata to Tristan da Cunha (see Chart 16
-and Diagram 6).
-March 6, 1876 ; lat. 37° 38' S., long. 39° 36' W.
-Temperature of air at noon, 65°:8; mean for the day, 62°:9.
-Temperature of water at surface, 68°:0; bottom, 32°:9.
-Density at 60° F. at surface, 1.02571.
-Depth, 2900 fathoms; deposit, Red Clay, containing no carbonate of lime (see
-Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 11.10 A.m. shortened and furled sails, and proceeded under steam to sound.
-At 1 P.M. sounded in 2900 fathoms. The sounding-tube brought up over a litre of the
-clay, of which the upper layers were slightly darker than the lower. On account of the
-heavy sea no temperature observations were attempted. At 2 P.M. completed sounding
+Salpa cordiformis-zonaria, Quoy
+and Gaimard-Pallas.
+runcinata fusiformis,
+Chamisso-Cuvier.
+SCHIZOPODA (Sars, Zool. pt. 37).
+Nematoscelis megalops, n.g., n.sp.

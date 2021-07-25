@@ -1,66 +1,79 @@
 SUMMARY OF RESULTS.
-1251
-STATION 347.
-Xiphacantha ciliata, Haeckel.
-Dorataspis polypora, Haeckel.
-Zonaspis æquatorialis, Haeckel.
-Tessaraspis arachnoides, Haeckel.
+1255
+Station 348.
+Rhizosphæra leptomita, Haeckel.
+Trizonium amphibelonium, Haeckel.
+Tetrapyle pluteus, Haeckel.
+Staurotholus dodecastylus, Haeckel.
+Lithelius spiralis, Haeckel.
+Acanthonia mülleri, Haeckel.
+multispina, Haeckel.
+X'iphacantha quadridentata, Haeckel.
+ciliata, Haeckel.
+Acanthostaurus purpurascens, Haeckel.
+Lithoptera tetraptera, Haeckel.
 Lychnaspis giltschii, Haeckel.
 Icosaspis elegans, Haeckel.
-Phractopelta aspirlomma, Haeckel.
-Belonaspis multiforis, Haeckel.
-Diploconus cotyliscus, Haeckel.
-Plagonium sphærozoum, Haeckel.
-Acanthodesmia mülleri, Haeckel.
-Prismatium tripoilinm, Haeckel.
-Litharachnium discoides, Haeckel.
-Carpocanistrum flosculum, Haeckel.
-Dictyophimus challengeri, Haeckel.
-Lithomelissa decacantha, Haeckel.
+Octopelta scutella, Haeckel.
+Phatnaspis ensiformis, Haeckel.
+Hexonaspis heliosestrum, llaeckel.
+Semantis distephanus, Haeckel.
+Lithomelissa bicornis, Ehrenberg.
 Lithopera ananassa, Haeckel.
-Arachnocorys circumtecta, Haeckel.
-Carpocanium hexagonale, Haeckel.
-Theopilium triraliatum, Haeckel.
-Corocalyptra elisabetha, Haeckel.
-Dictyocodon prometheus, Haeckel.
-Podocyrtis argus, Ehrenberg.
-Cannobelos thalassoplancta, Haeckel.
-Dictyocha staurodlon, Ehrenberg,
-Distephanus crux, Haeckel.
-Sagmarium plegmosphærium, Haeckel.
-Aulosphæra coronata, Haeckel.
+Arach nororys circumtecta, Haeckel.
 Auloscena pyramidalis, Haeckel.
+Aulatractus fusiformis, Haeckel.
 Aulonia hexagonia, Haeckel.
 Gorgonetta mirabilis, Haeckel.
 Castanella sloggetti, Haeckel.
-Castanillium buchanani, Haeckel.
+Castanidium buchanani, llaeckel.
 moseleyi, Haeckel.
-Castanissa challengeri, Haeckel.
 Castanopsis naresi, Haeckel.
 Conchidium argiope, Haeckel.
-Coelodenulrum spinosissimum, Haeckel.
+Cælodendrum spinosissimum, Haeckel.
+DEEP-SEA MEDUSA (Haeckel, Zool. pt. 12).
+Charybdea murrayana, n.sp.
+SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
+Rataria cristata, n.sp.
+Cucubalus pyramidalis, Haeckel.
+Amphiroa carina, n.si).
+Ersæd compressit, n.sp.
+Cymba crystallus, n.sp.
+Diphyopsis compressa, n.g., n.sp.
+Abyla carina, n.sp.
+Ætidius armatus, n.g., n.sp.
+Temora dubia (Lubbock).
+Oithona challengerii, n.sp.
+Ectinosoma atlanticum (Brady and
+Robertson).
+Setella gracilis, Dana.
+Corycæus varius, Dana.
+venustus, Dana.
+Oncæa obtusa (Dana).
+Saphirina metallina, Dana.
+OSTRACODA (Brady, Zool. pt. 3).
+Halocypris atlantica, Lubbock.
 AMPHIPODA (Stebbing, Zool. pt. 67).
+Phronimella elongata, Claus.
 Anchylomera sp. (?).
-Oxycephalus clausi, Bovallius.
-Rhabdosoma armatum (M.-Edwards).
-MACRURA (Spence Bate, Zool. pt. 52).
-Sergestes diapontius, n.sp.
-In addition, the following are recorded in the note-books :-Oscillatoriaceæ abundant,
-Peridinium, Pyrocystis, various Diatoms, some with Vorticella attached, Globigerina,
-Orbulina, Hastigerina, Pullenia, Sphæroidina, Pulvinulina, Medusa, Siphonophora,
-Sagitta, Aphroditacean larvæ, Copilia and other Copepods abundant, Cypris stages of
-Cirripeds, Decapod larvæ, larval Lamellibranchs (mussels ?), pelagic Gasteropod with
-spiral shell, Pteropods and larvæ, Doliolum, and Appendicularia.
-The following species are recorded from the surface of the South Atlantic and tropical
-Atlantic, the exact locality not being noted :-
-MACRURA (Spence Bate, Zool. pt. 52).
-Peteinura gubernata, n.g., n.sp.
-Sergestes longirostris, n.sp.
-Lucifer typus, Thompson.
-reynaudii, M.-Edwards.
-ISOPODA.
-Five specimens, genera and species
-undetermined.
->>
-TUNICATA (Herdman, Zool. pt. 76).
-Pyrosoma sp. (?).
+Platyscelus serratulus, n.n.
+SCHIZOPODA (Sars, Zool. pt. 37).
+Nematoscelis tenella, n.g., n.sp.
+rostrata, n.g., n.sp.
+Stylocheiron abbreviatum, n.g., n.sp.
+COPEPODA (Brady, Zool. pt. 23).
+Calanus valgus, n.sp.
+propinquus, n.sp.
+gracilis, Dana.
+Eucalanus attenuatus (Dana).
+Heterochæta spinifrons, Claus.
+Undina vulgaris, Dana.
+Scolecithrix dana (Lubbock).
+Euchæta prestandreæ, Philippi.
+Candace pectinata, Brady.
+pachydactyla, Dana.
+PTEROPODA (Pelseneer, Zool. pt. 65).
+Clio (Creseis) virgula (Rang).
+Fishes (Günther, Zool. pt. 78).
+Carcharias obscurus, Les.
+Echeneis remora, Linné (from shark).

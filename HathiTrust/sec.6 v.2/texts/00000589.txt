@@ -1,83 +1,124 @@
 SUMMARY OF RESULTS.
-1311
-Mald ınella antarctica.
-Cythere acanthoderma (3).
-darylerma (7).
-clictyon (7).
-irper (3).
-serratula.
-Cytheropteron mucronalatum.
-Krithe producta (5).
-Calanus princeps.
-Europa australis (3).
-Benthesicymus altus.
-brasiliensis.
-Dororlotes reflerus.
-Gennalus parrus.
-Hymenodora rostrata.
-Nematocarrinus productus.
-Torinatus (3).
-Pontophilus gracilis.
-Municopsis subsquamosa.
-Paypuroiles inarmatur.
-Parapagurus abyssorum (6).
-Colossenıleis gigas.
-leptorhynchus.
-Amussium lurilum.
-meridionule.
-Arra (Barbatia) corpulenta.
-Callocarilia atlantica.
-Dacrylium vitreum.
-Limopsis aurita.
-Malletia obtusa.
-Semele (Abra) profundorum.
-Actaon amabilis.
-Bulla semileris.
-Calulus gracilis.
-tumidosus.
-Cithna tenella.
-Clathurella chariessa (3).
-formosa (3)
-Cylichna orata.
-Dentalium capillosum.
-subterrissun.
-lanthina erigua.
-Pleurotoma (Mangelia) marra.
-Scaphandler gracilis.
-punctostriatus.
-Srpenzia carinata (3).
-Trochus (Margarita) infunlibulum.
-(
-) rhina.
-Discina atlantica.
-Terebratula vyvillii (3).
-Aranthonus armatus.
-Buthyonus compressus.
-Chlorophthalmus gracilis (3).
-Gonuostoma microrlon (3).
-Halosaurus macrochir.
-Melamphaës crassiceps.
-99
-The majority of these were taken at two Stations, while 18 were taken at three
-Stations, 1 at four Stations, 2 at five Stations, 1 at six Stations, and 2 at seven Stations.
-Of the 231 species taken in this zone between 1000 and 1500 fathoms, as well as in
-deeper or shallower zones (those without asterisks), 25 species (or 11 per cent.) were taken
-in the zone beyond 2500 fathoms, 42 species (or 18 per cent.) in the zone between 2000
-and 2500 fathoms, and 85 species (or 37 per cent.) in the zone between 1500 and 2000
-fathoms ; lists of these have already been given (see pp. 1281, 1289, 1299-1300).
-The following 74 species (or 32 per cent.) were taken in the zone betweer. 500 and
-1000 fathoms :
-Thenea schmidtii.
-Chonelasma lamella.
-Euplectella suberca.
-Bathyactis symmetrica.
-Caryophyllia communis.
-Deltocyathus italicus.
-Stephanotrochus dialema.
-Antedon alternata.
-basicurra.
-breviralia.
-inæqualis.
-Pentacrinus naresianus.
-Neomorphaster euztichus.
-Zoroaster fulgens.
+1315
+was taken south of the tropic of Capricorn (S), between the tropies of Capricorn and Cancer
+(T), or north of the tropic of Cancer (N).
+S
+2
+sp. (?). N
+T
+*
+S
+*
+S
+S
+S
+*
+sp. (?). S
+S
+S
+sp. (?). S
+S
+MONAXONIDA :
+TETRACTINELLIDA :
+* Pæcillastra tenuilaminaris, 1.sp. N
+* Amphilectus annectens, n.sp.
+* Tetilla leptodermu, n.sp.
+S
+Asinella erecta (Carter). S
+pedifera, n.sp.
+T
+(?) tubulosa, 1.sp.
+* Chondrocladia clavata, n.sp.
+Thenea schmidtii, n.n. Τ Ν
+Ciocalypta amorphosa, n.sp.
+hyaloderma, n.sp.
+S
+HEXACTINELLIDA :
+* Cladorhiza pentacrini, n.sp.
+Aulochone cylindrica, n.g., n.sp.
+S
+Esperella lapidiformis, n.sp.
+lilium, n.g., n.sp.
+T
+Esperiopsis challengeri, n.sp. T
+var. meangensis, nov.
+* Chonelasma hamatum, n.g., n.sp.
+S
+* Gellius calyx, n.sp.
+lamella, n.g., n.sp.
+SN
+carduus, n.sp.
+S
+Euplectella suberea, n.sp.
+flabelliformis, n.sp.
+TN
+læris, n.sp.
+* Euryplegma auriculare, n.g., n.sp. S
+Farrea occa (Bowerbank), Carter. ST
+* Ilalichondria latrunculioides, n.sp.
+* Hyalonema lusitanicum, Bocage. N
+* Poliopogon gigas, n.g., n.sp.
+S
+Rossella antarctica, Carter. s
+Iophon chelifer, n.sp. s
+Latrunculia apicalis, n.sp.
+Tægeria pulchra, n.g., n.sp).
+T
+S
+* Walteria flemmingii, n.g., n.sp.
+s
+brevis, n.sp.
+* Vyxilla compressa, n.sp.
+frondosa, n.sp.
+S
+ALCYOXARIA:
+hastata, n.sp.
+S
+* Acanthogorgia longiflora, n.sp. T
+nobilis, n.sp.
+S
+* Anthomastus steenstrupi, n.sp.
+spongiosa, n.sp.
+S
+Calyptrophora japonica, Gray.
+* Phelloderma radiatum, n.g., n.sp.
+wyrillei, n.sp.
+Polymastia corticata, n.sp. T
+Ceratoisis grandiflora, Studer.
+* Suberites axiatus, n.sp.
+S
+* Dasygorgia acanthella, p.sp.
+caminatus, n.sp.
+s
+axillaris, n.sp.
+ST
+S
+mollis, n.sp.
+expansa, n.sp.
+ramulosus, n.sp
+T
+squarrosa, n.sp
+s
+Tedania massa, n.sp.
+s
+* Primnoella magellanica, Studer.
+Vomerula esperioides, n.sp.
+murrayi, n.sp.
+Primnoisis rigida, n.g., n.sp.
+sp. (?).
+. S
+72 72
+*
+N
+*
+T
+S
+S
+***
+T
+S
+S
+T
+S
+s
+s

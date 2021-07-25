@@ -1,101 +1,84 @@
-1580
+1584
 THE VOYAGE OF H.M.S. CHALLENGER.
-ooze, 100.
-3
-Calanidæ, 215, 428, 495, 505, 618, 885, 916, 1048, Caterpillars, 328.
-1068, 1434.
-Cathay, 42, 43, 44.
-Calcarea, 201, 269, 305, 373, 392, 432, 461, 483, 536, Cattigara, 41.
-547, 554, 690, 809, 1330.
-Cavalcanti, 32.
-Calcareous Algæ, 203, 304.
-Cavalli, 309.
-conglomerate, 98.
-Cavendish, Charles, 73.
-Cayeux, L., 1457.
-Calcite, 89.
-Celebes, 44.
-Calicut, 44.
-Cephalopoda, 137, 138, 160, 170, 188, 206, 227, 230,
-Calver, Capt., 102.
-245, 312, 320, 333, 348, 363, 369, 397, 414,
-Calypso, 18.
-447, 454, 490, 499, 510, 521, 524, 525, 542,
-Campanularians, 189, 604, 609, 1100.
-549, 551, 572, 584, 586, 605, 615, 620, 628,
-Campbell, G. G., 888.
-634, 657, 661, 664, 674, 676, 681, 684, 729,
-Canary Islands, 32, 42, 43, 125, 131, 135.
-748, 754, 757, 759, 770, 782, 786, 802, 842,
-Canigou, Mount, 60.
-845, 818, 850, 853, 867, 869, 872, 889, 892,
-Cano, Sebastian del, 45.
-895, 901, 910, 914, 926, 935, 1000, 1009,
-Cape Aromata, 28.
-1029, 1036, 1068, 1096, 1101, 1108, 1109,
-Bojador, 42.
-1113, 1114, 1118, 1130, 1170, 1191, 1195,
-Corrientes, 32.
-1220, 1232, 1240, 1260, 1262, 1263, 1264,
-» Guardafui, 28, 33, 1459.
-1269, 1270, 1287, 1297, 1309, 1322, 1350,
-hens, 429.
-1410, 1434, 1447, 1449, 1451, 1452, 1458.
-Horn first seen, 46.
-beaks of, 501, 933, 1116, 1122.
-„ Mendocino, 47.
-eggs of, 96, 676.
-of Good Hope, 405.
-Cestode larva, 802.
-doubled, 43.
-Cestraciontes, 103.
-pigeons, 384, 444, 450, 457, 488, 496, 500, 501, Cetacea, 320, 415.
-584, 585, 588, 606, 611, 618, 1088, 1091, Cetacean bones, 383, 526, 1058, 1080, 1086, 1087,
-1093, 1099, 1103, 1134.
-1090, 1097, 1460.
-Verde Islands, 303, 304, 1262.
-Ceylon, 25, 33, 69.
-York, 688.
-Chaddock Bank, 236.
-Cappo, Pietro, 53.
-Chætocerotidæ, 514.
-Carbonate of lime in deposits (see under each Station). Chaillu, P. B. du, 31.
-Caridid shrimps, 187, 324, 521, 580, 595, 797, 813, Chaldeans, 11.
-913, 915, 936. .
-Chalk, 89, 92, 99, 102.
-Carpenter, P. H. (see Crinoidea).
-Challenger Bank, 199, 200, 201, 203.
-on the Crinoidea of the northern and
-Expedition, conception of, 103.
-southern hemispheres, 1444.
-departure and return of, vii.
-W. B., 76, 77, 84, 101, 102, 106B.
-Report, viii.
-Carrion gulls, 456.
-contents of the fifty volumes of, xxii.
-Carteret Reef, 847.
-number of authors contributing to, x.
-Carthaginians, 5, 6, 14, 17, 23.
-systematic list of memoirs in, xiii.
-Cartography, progress of, 52, 53, 72.
-Challengeridæ, 894, 965, 973, 982, 1048, 1063, 1115,
-Caspian Sea, 11, 17, 25, 29, 33, 40, 58.
-1119, 1127, 1202, 1207, 1215, 1219, 1221,
-Cassini, 60.
-1223, 1227, 1243, 1248, 1256, 1268.
-Cassiterides, 4.
-Chamisso, A. von, 70.
-Castracane degli Antelminelli, F., 514.
-Chancellor, Richard, 47.
-Casts, glauconitic, 90.
-Charlemagne, 31.
-of Foraminifera, 89, 91.
-Charles River, 31.
-Catalan chart, 40, 41.
-Charybdis, 6, 8.
-Catenicellidæ, 534.
-Chateaubriand, F. A. de, 4.
->
-99
-9
--
+seas, 101.
+Dreyer, F., xxxviii., 167, 512, 878, 1037.
+Eggs of Pteropoda, 1203, 1207.
+Drift ice, 494.
+Sagitta, 802.
+Driftwood, floating, 819, 850, 851.
+Eghinard, - 31.
+Du Chaillu, P. B., 31.
+Egypt, 9, 21, 22, 43.
+Dung of Cirriped Zoca, 971.
+Egyptians, 3, 11, 32.
+Echinoderms, 605, 771, 787, 844, 1116. Ehrenberg, C. G., 77, 80, 89, 90, 91.
+Holothurians, 605, 787, 857, 912.
+Ekelöf, J. A., 40.
+Duperrey, L. I., 70, 75.
+Elba Island, 63.
+Dureau de la Malle, 19.
+El Dimishki, 37.
+D'Urville, J. S. C. Dumont, 70, 73.
+Elephants, 16, 38.
+Dutch, 47, 48, 52, 53.
+Elizabeth Island, 1167.
+Dwina, River, 31.
+Ellis, Henry, 65.
+“ Dying dolphin,” 157.
+El Mar Pacifico, 49.
+Dyvah, 34.
+Elton, C. I., 4, 14.
+Endeavour, the, 69.
+Eannes, Gil, 43.
+Endochrome, 672.
+Earbones of Cetaceans, 383, 526, 1058, 1080, 1086, Entada, 851.
+1087, 1090, 1097.
+Enterprise, the, 105.
+Dyer, W. T. Thiselton, xii.
+Entozoa, 453, 464, 508, 596, 619, 695, 735, 954,
+Echinodermata, 82, 83, 99, 371, 478, 479, 514, 545,
+1166, 1294, 1319.
+902, 1272, 1458.
+Entrecasteaux, J. A. B. d', 70.
+larvæ of (see Larvæ).
+Eocene marls, 89.
+Echinoidea, 114, 121, 132, 135, 162, 169, 172, 217,
+218, 221, 225, 234, 242, 259, 266, 270, 282, Ephorus, 13.
+307, 332, 339, 313, 357, 367, 369, 375, 386, Equatorial current, 1034.
+389, 394, 408, 417, 420, 434, 445, 452, 463, Equinoctial Atlantic Ocean, 72.
+484, 489, 497, 503, 507, 519, 531, 537, 548, Eratosthenes, 17, 18, 19, 22, 24, 28, 29, 37.
+556, 578, 591, 601, 607, 614, 619, 624, 633, Erebus, the, 70, 78, 85.
+637, 647, 679, 695, 721, 738, 740, 746, 758,
+Mount, 80.
+762, 776, 780, 785, 788, 792,794, 801, 805, Ericsson's sounding machine, 87.
+810, 814, 819, 828, 840, 855, 859, 864, 899, Erikson, Leif, 31.
+906, 912, 915, 918, 923, 934, 955, 995, Erman, G. A., 70.
+1035, 1049, 1058, 1074, 1110, 1117, 1120, Erythea, 9.
+1124, 1128, 1134, 1140, 1142, 1148, 1151, Erythræan Sea, 3, 4, 8, 12, 16, 18, 21.
+1155, 1157, 1160, 1164, 1169, 1175, 1189, Eschke, R., 106A.
+1198, 1222, 1224, 1239, 1240, 1242, 1278, Eschscholz, J. F., 70, 233.
+1285, 1293, 1304, 1318, 1336, 1446, 1448, Esdras, 3, 38.
+1450.
+Esper, E. J. C., 68.
+spines of, 808, 966, 1066.
+Esperence, the, 70.
+Echiuridæ, 732.
+Esperidze, 1078, 1098, 1118.
+Editorial Notes, vii.
+Ethe, H., 34.
+Edrisi, —, 33.
+Ethiopia, 21.
+Edwards, Milne- (see Milne-Edwards).
+Southern, 28.
+Egeria, the, 106c.
+Ethiopian Sea, 25.
+Egg-masses, 504, 505, 600, 977, 981, 1100, 1148. Euclid, 18.
+Eggs of Euphausia, 895, 1007.
+Eudoxus of Cnidus, 15.
+Fishes, 552, 661, 688, 737, 799, 816, 975,
+Cyzicus, 21, 22.
+977, 981, 1029, 1063, 1109, 1113, 1119, Euler, L., 63.
+1197.
+Euphausidæ, 252, 521, 677, 778, 1442.
+Mollusca, 383, 851, 1089, 1111, 1202.
+Euphrates, River, 17, 35.

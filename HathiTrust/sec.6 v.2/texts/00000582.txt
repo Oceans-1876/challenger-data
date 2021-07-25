@@ -1,125 +1,112 @@
-1304
+1308
 THE VOYAGE OF H.M.S. CHALLENGER.
-S
-S
-19
 N
 T
+T
 S
+S
+sp. (?). N
+S
+N
 T
-var.
-99
 T
-T
-Hymenaster coccinatus, n.sp.
-graniferus, n.sp.
-membranaceus, n.sp.
-porosissimus, n.sp.
-pracoquis, n.sp. S
-pullatus, v.sp.
-vicarius, n.sp.
+N
+Ethusa (Ethusina) gracilipes, n.sp., * Neara obesa, Lovén.
+var. robusta, nov.
+wollastonii, n.sp.
+N
+* Nucula reticulata, Jeffreys. N
+* Pecten murray, n.sp.
+PYCNOGONIDA :
+* Ascorhynchus glaber, n.sp.
+pudicus, n.sp.
+S
+Colossendeis gigas, 1.sp.
 s
-Leptoptychaster arcticus (Sars),
-elongata, nov. N
-Neomorphaster eustichus, n.g., n.sp. N
-Pararchaster armatus, n.g., n.sp.
-N
-Pentagonaster lepidus, n.sp. N
-Phoxastar pumilus, n.g., n.sp.
-* Plutonaster abbreviatus, n.g., n.sp.
-bifrons (Wyville Thomson). N
-notatus, n.g., n.sp.
-N
-rigidus, n.g., n.sp., var.
-semiarmata, nov.
-Pontaster forcipatus, n.g., n.sp.
-SN
-trullipes, n.g., n.sp.
-* Porcellanaster cæruleus, n.g., n.sp.
-N
-Zoroaster fulgens, Wyville Thomson. TN
-tenuis, n.sp.
-* Ophiocten hastatum, 11.Sp. SN
-Ophiogeron edentulus, n.g., 1.sp.
-TN
-Ophioglypha æqualis, n.sp.
-bullatu, n.sp.
-SN
-jejuna, 1.sp.
+Semele (Abra) profundorum, n.sp. TN
+gracilis, n.si
 s
-lepida, Lyman. TN
-loveni, n.sp.
+* Teredo sp. (?). T
+leptorhynchus, n.sp.
+S Venus (Chamelæa) mesodesma, Quoy
+minuta, n.sp.
+N
+and Gaimard. S
 S
-meridionalis, n.sp. s
-minuta, 1.sp.
-S
-radiata, n.sp.
-variabilis, n.sp.
-* Ophiohelus pellucidus, n.g., n.sp.
+* Verticordia quadrata, n.sp.
+N
+* Nymphon compactum, n.sp.
+hamatum, n.sp.
+s
+longico.ca, n.sp.
+SCAPHOPODA AND GASTEROPODA :
+* Actæon amabilis, n.sp.
+N
+LAMELLIBRANCHIATA :
+globulinus (Forbes). N
+Amussium cancellatum, n.sp. Τ Ν
+(Acteonina) chariis, n.sp. N
+lucidum (Jeffreys). Τ Ν
+meridionale, n.sp.
+* Addisonia excentrica (Tiberi). N
+propinquum, n.sp.
+Aporrhais, n.sp. (?).
+watsoni, n.sp.
+* Basilissa munda, n.g., n.sp.
+Arca (Barbatia) corpulenta, n.sp. S T
+superba, n.g., n.sp.
 T
-Ophiomastus tegulitius, n.g., n.sp.
-ST
-Ophiomitra chelys, n.sp.
-plicata, n.sp.
-ST
-sarsii, n.sp.
-S
-Ophiomusium lymani, Wyville Thomson.
-S TN
-* Ophiomyces grandis, 11.sp. S
-* Ophiophyllum sp. (?).
-* Ophiothamnus sp. (?). S
-or Ophiacantha sp. (?). T
-Ophiotrochus panniculus, n.g., n.sp.
-Ophiozona stellata, n.sp.
-N
-N
-N
-N
+( ) pteroessa, n.sp.
+Τ Ν * Bellerophina sp. (?). N
+* Callocardia (?) atlantica, n.sp. N
+* Buccinum (?) aquilarum, n.sp.
+Cryptodon crouilinensis (Jeffreys). N
+Bulla semilevis, Seguenza. N
+luzonicus, n.sp.
 T
-S
-T
-T
+Cadulus gracilis, Jeffreys. N
+* Dacrydium vitreum (Möller). N
+tumidosus, Jeffreys.
+Ervilia castanea (Montagu). N * Cæcum sp. (?). N
+* Leda con finis, n.sp.
+N
+Cassis sp. (?).
+N
+jeffreysi, Hidalgo. Τ Ν
+three species, fry. N
+Lima multicostata, Sowerby. S TN Cithna tenella (Jeffreys). TN
+(Limatula) confusa, n.sp.
+Τ Ν
+* Clathurella cala, n.sp.
+s
+( ) subovata, Jeffreys. N
+chariessa, n.sp.
+Τ Ν
+( ) sp. (?).
+chyta, n.sp.
+N
+Limopsis aurita (Brocchi). Τ Ν
+formosa (Jeffreys). TN
+* Lucina (Codakia) tigerina (Linné). N
+streptophora, n.sp.
+* Malletia obtusa, Sars. N
+two species undetermined. N
+* Montacuta cylindracea, n.sp. N
+* Clionella quadruplex, n.sp. N
+* Myrina coppingeri, n.sp.
+* Columbella sp. (?). N
+* Neæra azorica, n.sp.
+Cylichna ovata, Jeffreys. TN
+circinata, Jeffreys. N
+Dentalium acutissimum, n.sp.
+Τ Ν
+N
+>
+N
+9
+2
 S
 N
-OPHIUROIDEA :
-Amphilepis norvegica, Ljungman.
-Amphiura concolor, n.sp. T
-duplicata, Lyman. N
-otteri, Ljungman. N
-Ophiacantha
-bidentata (Retzius),
-Ljungman. N
-cosmica, n.sp.
-ST
-placentigera, n.sp.
-segesta, p.sp.
-* Ophiactis canotia, n.sp.
-poa, n.sp.
-* Ophiambix aculeatus, n.g., n.sp. T
-Ophiernus vallincola, n.g., n.sp. SN
-Ophiocten amitinum, n.sp. S
-ECHINOIDEA :
-Asthenosoma gracile, n.sp.
-S T
-Brissopsis luzonica (Gray). S TN
-Cystechinus clypeatus, n.g., n.sp.
-ST
-wyvillä, n.g., n.sp.
-S
-Echinus acutus, Lamarck. STN
-elegans (Düben and Koren).
-STN
-norvegicus, Düben and Koren.
-SN
-Phormosoma bursarium, n.sp. Τ Ν
-hoplacantha, n.sp.
-SN
-luculentum, n.sp.
-T
-uranus, n.sp.
-N
+9
 T
 N
-N
-S

@@ -1,125 +1,105 @@
-1014
+1016
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 266.
-Temperature of water :-
-80:0
+Dipospyris irregularis, Haeckel.
+forcipata, Haeckel.
+Dorcadospyris lunulata, Haeckel.
+decussata, Haeckel.
+Stephanoskyris verticillata, Haeckel.
+Hexaspyris alterna, Haeckel.
+Liriospyris hexapoda, Haeckel.
+amphithectu, Haeckel.
+Aegosjyris æquispina, Haeckel.
+Pentuspyris pentacantha, Haeckel.
+Elaphospyris alcicornis, Haeckel.
+Petalospyris floscula, Haeckel.
+Anthospyris trapogon, Haeckel.
+Dictyospyris distoma, Haeckel.
+Tholospryris fenestrata, Haeckel.
+Lamprospyris lyellii, Haeckel.
+Amphispyris quadrigemina, Haeckel.
+Nephrospyris phuseolus, Haeckel.
+Botryopera cyrtoloba, Haeckel.
+Cannobotrys cortina, Haeckel.
+Acrobotrys disolenia, Haeckel.
+trisoleniu, Haeckel.
+Phormobotrys trithalamia, Haeckel.
+Archipilium sigmopterum, Haeckel.
+Eusrenium tricolpium, Haeckel.
+Clarloscenium fulcratum, Haeckel.
+Archiscenium clathrocorys, Haeckel.
+Pteroscenium tripocol pum, Haeckel.
+Peridium spinipes, Haeckel.
+cervinum, Haeckel.
+Cyrtophormis ærostatica, Haeckel.
+Archiphormis urceolata, Haeckel.
+Halicalyptra petalospyris, Haeckel.
+Archicorys ovata, Haeckel.
+Archicapsa quadriforis, Haeckel.
+Dictyophimus pyramis, Haeckel.
+Sethopilium orthopus, Haeckel.
+Lithomelissa bütschlii, Haeckel.
+Prilomelissa calvata, Haeckel.
+Lychnocanium lanterna, Haeckel.
+favosum, Haeckel.
+ventricosum, Ehrenberg.
+tripodium, Ehrenberg.
+Lychnodictyum wycillei, Haeckel.
+Micromelissa bombnis, Haeckel.
+Sethophormis pentalartis, Haeckel.
+arachnium, Haeckel.
+aurelia, Haeckel.
+Sethamp'ora hexapleura, Haeckel.
+costata, Haeckel.
+Sethopyramis enneactis, Haeckel.
+Plectopyramis trapezomma, Haeckel.
+Anthocyrtis lauranthus, Haeckel.
+Anthocyrtium adonis, Haeckel.
+leptostylum, Haeckel.
+flosculus, llaeckel.
+Clistophæna armata, Haeckel.
+Sethocyrtis oxycephalis, Haeckel.
+diomelis, Haeckel.
+Sethocorys patrocli, Haeckel.
+Lithophæna circumtexta, Haeckel.
+Dictyocephalus amphora, Haeckel.
+cavea, Haeckel.
+Sethorapsa pyriformis, Haeckel.
+Dictyoceras insectum, Haeckel.
+Pterocanium orrinum, Haeckel.
+Pyramis, Haeckel.
+Podocyrtis tripodiscus, Haeckel.
+centriscus, Ehrenberg.
+costata, Haeckel.
+perlicellaria, Haeckel.
+scaphopodia, Haeckel.
+sphærogaster, Haeckel.
+Thyrsocyrtis rhizopodium, Haeckel.
+Dictyopodium scaphopodium, Haeckel.
+Lithornithium trochilus, Haeckel.
+Theopera fusiformis, Haeckel.
+chytropus, Haeckel.
+Rhopalocanium lasanum, Haeckel.
+Rhopalatractus fenestratus, Haeckel.
+Lithochytris cortina, Haeckel.
+Pyramidalis, Ehrenberg.
+Phormocyrtis embolum, Haeckel.
+Alacorys heracantha, Haeckel.
+carcinus, Haeckel.
+Cyclalophora getheana, Haeckel.
+pantheon, Haeckel.
+Calocyclas pulica, Haeckel.
+Clathrocyclas domina, Haeckel.
+Hexalatractus fusiformis, Haeckel.
+Theoconus laterna, Haeckel.
+Theocyrtis cylindrica, Haeckel.
+microtheca, Haeckel.
+Theosyringium siphonium, Haeckel.
+Tricolocampe cylindrica, Haeckel.
+polyzona, Haeckel.
+arcta, Haeckel.
+Theocorys ovata, Haeckel.
+sphärophila, Haeckel.
+Lophocorys astrocephala, Haeckel.
 .
-99
-Surface,
-10 fathoms,
-20
-30
-40
-50
-60
-70
-80
-90
-100
-110
-120
-130
-140
-150
-160
-170
-79.5
-780
-75.3
-70.3
-64.9
-58.6
-56.2
-54.3
-53.0
-52.2
-51.6
-51.3
-51.0
-50.6
-50.2
-49.8
-49.4
-180 fathoms,
-190
-200
-300
-400
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-49.0
-48.6
-48.2
-44.6
-42.0
-40.2
-38.9
-37.9
-37.3
-36.9
-36.5
-36.2
-35.9
-35.6
-35:3
-35.1
-35:1
-9
-.
-Density at 60° F. :-
-.
-Surface,
-25 fathoms,
-50
-100
-200
-. 1.02582
-. 1:02575
-1.02550
-1.02577
-1:02577
-300 fathoms,
-400
-2275
-Bottom,
-1.02566
-. 1.02572
-. 102555
-. 1.02579
-Depth, 2750 fathoms ; deposit, Radiolarian Ooze, containing only a trace of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chal). Exp.).
-At 1.15 P. M. shortened and furled sails, and proceeded under steam.
-At 2 P.M. sounded
-in 2750 fathoms. Obtained serial temperatures down to 1500 fathoms. At 5.15 P.M.
-completed temperatures, and at 5.30 P.M. made all plain sail. Several petrels were seen.
-Distance at noon from Venus Point, Tahiti, 1730 miles. Made good 91 miles.
-Amount of current 19 miles, direction S. 62° W.
-ORGANISMS FROM
-THE DEPO$IT.
-RADIOLARIA (Haeckel, Zool. pt. 40).—The following species of Radiolaria were
-observed
-in the deposit from this Station :
-Cenosphæra hexcugowilis, Haeckel.
-elysia, Haeckel.
-Carposphæra melitomma, Haeckel.
-Liosphæra rhodococcus, Haeckel.
-Thecosphæra floribunda, Haeckel.
-Rhodosphæra hexagonia, Haeckel.
-Chonicosphæra flammabunda, Haeckel.
-Mazosphæra lagotis, Haeckel.
-Caminosphæra dendrophora, Haeckel.
-Solenosphæra pandora, Haeckel.
-megalactis, Haeckel.
-Xanthiosphæra lappacea, Haeckel.
-Xiphosphæra hebe, Haeekel.
-yesta, Haeckel.
+>>

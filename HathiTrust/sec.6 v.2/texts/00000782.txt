@@ -1,180 +1,183 @@
-1500
+1504
 THE VOYAGE OF H.M.S. CHALLENGER.
-Doliolum, 119, 137, 139, 327, 836, 848,
-853, 866, 868, 869, 872, 873,
-877, 882, 884, 885, 887, 893,
-895, 916, 920, 942, 945, 951,
-953, 960, 982, 987, 990, 994,
-1005, 1007, 1029, 1048, 1063,
-1068, 1092, 1096, 1099, 1102,
-1105, 1106, 1113, 1115, 1185,
-1202, 1209, 1232, 1236, 1251,
-1256, 1259, 1262, 1264, 1266,
-1268, 1269.
-affine, 889, 940, 1094, 1447.
-challengeri, 661, 940, 941, 943,
-952, 1262.
-denticulatum, 546, 575,661, 1258,
-1263.
-ehrenbergi, 586, 1185, 1263, 1269.
-krohni, 1126.
-Dolium,
-perdix, 861, 1401.
-Domoseris, 1073, 1429.
-porosa, 1073, 1368.
-regularis, 1073, 1368.
-solida, 1073, 1368.
-Donax,
-nitidus, 563, 703, 1395, 1426.
-Doracantha,
-dorataspis, 1046.
-Dorataspis,
-fusigera, 1046.
-macrocantha, 1095.
-micropora, 957.
-polypora, 1251.
-typica, 1033, 1046,1053, 1057,1062.
-Dorcadospyris,
-antilope, 880, 1031, 1040, 1051,
-1056, 1060.
-decussata, 1011, 1016, 1022,
-dentata, 1022, 1027, 1031, 1040,
-1051, 1056, 1060.
-dinoceras, 1022.
-lunulata, 1015.
-Doriopsis,
-nebulosa, 999, 1410.
-Dorippe, 802.
-facchino, 795, 1390.
-japonica, 909, 1390.
-Doris, 1148, 1180.
-Dorocidaris,
-(Cidaris),
-bracteata, 762, 1336, 1358, 1378.
-papillata, 135, 172, 339, 788, 814,
-1189, 1318, 1326, 1327, 1336,
-1355, 1358, 1378, 1423.
-Dorocidaris (see Cidaris).
-Dorodotes,
-levicarina, 723, 1387.
-reflexus, 759, 792, 1307, 1311.
-Doryichthys,
-brachyurus, 660, 1417.
-Doryichthys—continued.
-pleurotænia, 1001, 1417.
-Dorynchus,
-thomsoni, 114.
-Dorypelta,
-dodecaspis, 919.
-furcata, 1062.
-gladiata, 1017.
-lithoptera, 943.
-ramosa, 1137.
-stauroptera, 1231.
-tessa raspis, 1006.
-tetrodon, 1085.
-Dorypleres, 1360.
-dendyi, 743, 1329.
-Dosinia,
-circinaria, 563, 1395.
-deshayesii, 703, 1395.
-histrio, 703, 726, 1395, 1426.
-lambata, 598, 1395.
-mira, 726, 1395.
-sculpta, 703, 1395.
-Drepane,
-punctata, 796, 1417.
-Drepanophorus,
-lankesteri, 225, 1380.
-rubrostriatus, 307, 1380.
-serraticollis, 464,537, 1380, 1424,
-1448.
-Drepanopus,
-furcatus, 551, 1021, 1126, 1257.
-pectinatus, 482.
-Drillia (see Pleurotoma).
-Dromia,
-ciliata, 539, 1388.
-Dromidia,
-antillensis, 375, 1388.
-bicornis, 421, 1342.
-spongiosa, 410, 1388.
-Druppatractus,
-belone, 1039, 1045.
-coronatus, 1010, 1015, 1022.
-diodon, 1061.
-hippocampus, 1032, 1045, 1053.
-ichthydium, 1045.
-ostracion, 1010.
-pisciculus, 1217.
-testudo, 957, 1015.
-xiphias, 1022.
-Druppocarpus,
-ananassa, 1039, 1098.
-borassus, 1021.
-castanea, 1039.
-Druppula,
-caryota, 1015, 1021.
-cocos, 167, 871.
-drupa, 879.
-pandanus, 1021.
-Drymonema,
-victoria, 118, 1316.
-Drymosphæra,
-cladophora, 1068.
-dendrophora, 1045.
-hexagonalis, 1061.
-polygonalis, 922.
-Dryopoides, 1429.
-westwoodi, 532, 1385.
-Dules,
-marginatus, 658, 1000, 1076,
-1417, 1428.
-rupestris, 658, 1417.
-Dunkeria,
-falcifera, 238, 1309.
-Durvillea, 428, 525.
-Duymæria,
-flagellifera, 834, 1417.
-Dysactis,
-crassicornis, 1163, 1188, 1867,
-1422.
-rhodora, 1168, 1367.
-Dysporus,
-sula, 718.
-Dystympanium,
-dictyocha, 1046, 1231.
-medusa, 1218.
-Dytaster,
-æquivocus, 738, 1317.
-biserialis, 288, 1284.
-exilis, 210, 1299, 1303, 1446.
-var. carinata, 210, 1293.
-var. gracilis, 210, 386, 1128,
-1293.
-inermis, 771, 1284.
-madreporifer, 210, 213, 1293,
-1299, 1303.
-nobilis, 1205, 1278.
-spinosus, 962, 1284.
-Eatoniella,
-caliginosa, 474, 1401.
-subrufescens, 474, 1401.
-Ebalia,
-lævis, 594, 597, 1343, 1359,
-1390.
-lambriformis, 725, 1390.
-tuberculosa, 421, 540, 549, 561,
-594, 1343, 1356, 1359, 1390,
-1425.
-(Phlyxia),
-crassipes, 540, 561, 1390, 1425.
-dentifrons, 562, 1390.
-intermedia, 533, 1390.
-quadridentata,
-var. spinifera, 562, 1390.
-undecimspinosa,
-var. orbicularis, 561, 1390.
-Eburna, 539.
-(Zemira),
-australis, 541, 567, 1401, 1426.
+Eupagurus-continued.
+pubescens,
+var. kroyeri, 226, 1388.
+rubricatus, 608, 1321.
+spinulentus, 789, 1342.
+tristanensis, 395, 1342.
+Eupatagus,
+valenciennesii, 557, 721, 1378,
+1423.
+Euphausia, 233, 260, 380, 387, 389, 428,
+430, 443, 487, 505, 521, 525,
+530, 546, 552, 586, 587, 799,
+845, 848, 853, 871, 873, 877,
+882, 884, 885, 887, 893, 916,
+920, 940, 942, 943, 944, 951,
+952, 953, 959, 960, 965, 968,
+70, 971, 973, 975, 977, 980,
+982, 987, 988, 990, 991, 994,
+1007, 1009, 1018, 1025, 1033,
+1048, 1063, 1068, 1079, 1083,
+1086, 1096, 1099, 1105, 1109,
+1113, 1127, 1138, 1174, 1182,
+1185, 1186, 1193, 1203, 1212,
+1213, 1215, 1219, 1221, 1232,
+1234, 1236, 1245, 1263, 1264,
+1266, 1268, 1269.
+antarctica, 495, 498, 505.
+gibba, 661.
+gracilis, 322, 675, 835.
+latifrons, 552, 575, 734, 778.
+mucronata, 1119.
+murrayi, 471, 500, 1387.
+pellucida, 252, 322,383, 428, 592,
+661, 675, 835, 852, 869, 889,
+895, 951, 1096, 1262, 1263.
+similis, 1190, 1320.
+splendens, 418, 425,
+425, 1096,
+1174.
+superba, 500.
+Euphione, 1261.
+elisabethæ, 420, 1337.
+Eupholoë, 1429.
+philippinensis, 780, 1381.
+Euphronides, 1314, 1450.
+depressa, 120, 1129, 1305, 1310,
+1446.
+Euphrosyne,
+borealis, 225, 1381.
+capensis, 408, 1381.
+Euphyllia,
+glabrescens, 692, 755, 1368, 1422.
+rugosa, 761, 1368.
+striata, 692, 1368.
+turgida, 692, 1368.
+Euphyllodium, 904.
+spathulatum, 191, 197.
+Euphysetta,
+amphicodon, 1218.
+hybocodon, 1250.
+staurocodon, 1254.
+Eupista, 1450.
+darwini, 251, 1118, 1278, 1280,
+1285, 1446.
+grubei, 1118, 1205, 1278.
+Euplas,
+(Chænostoma),
+boscii, 649, 1390.
+Euplectella, 122, 294, 448, 808, 810, 811,
+1008, 1036, 1253, 1432.
+aspergillum, 809, 1365.
+crassistellata, 1058, 1277.
+nodosa, 236, 239, 1302, 1365.
+suberea, 117, 118, 120, 367,
+1291, 1299, 1300, 1302, 1311,
+1315.
+Eupleura (see Ranella).
+Euplexaura,
+parciclados, 906, 1366.
+pinnata, 906, 1366.
+Euplocamus, 1452.
+pacificus, 615, 1322.
+Eupodiscus,
+radiatus, 220, 303.
+sparsus, 220, 278.
+Eupolia,
+australis, 607, 1319.
+delineata, 307, 1380.
+giardii, 607, 1319.
+nipponensis, 899, 1337.
+Eupolynoë,
+mollis, 464, 1337.
+Eupompe,
+australiensis, 696, 1381.
+Eupronoë, 889, 992.
+atlantica, 1263.
+inscripta, 383, 892.
+intermedia, 334.
+minuta, 1095.
+pacifica, 975.
+Eupsammia, 787.
+Eurete,
+carteri, 744, 1330.
+farreopsis, 744, 1330.
+marshalli, 744, 1330.
+schmidtii, 779, 1330.
+semperi, 744, 1330.
+Euryale, 228, 230, 1162.
+aspera, 695, 785, 1376, 1423.
+Eurybia, 890.
+Eurycope, 454, 1295.
+abyssicola, 257, 1286.
+atlantica, 280, 454, 1320, 1447.
+fragilis, 454, 494, 520, 934, 1295,
+1298, 1299, 1306, 1447.
+intermedia, 976, 1279.
+novæ-zelandie, 602, 1306.
+pellucida, 855, 1306.
+sarsii, 446, 453, 1295, 1299,
+1307.
+spinosa, 509, 1295.
+Eurylepta, 848, 853.
+Euryplegma, 1327.
+auriculare, 612, 1315.
+Eurypodius,
+latreillei, 1140, 1164, 1170, 1173,
+1177, 1390, 1425.
+longirostris, 1152, 1343.
+Eurythoë,
+pacifica, 242, 1381, 1424.
+var. levukaensis, 647, 1381.
+Eurytium,
+limosum, 244, 1390.
+Eusamytha, 1290.
+pacifica, 947, 956, 1279, 1285.
+Euscenium,
+archicyrtis, 880.
+furcatum, 1254.
+hemisphæricum, 957.
+plectaniscus, 1060.
+quadratum, 1041, 1047, 1051.
+ramosum, 1041.
+tricolpium, 1016.
+tripospyris, 1118.
+Eusiroides,
+cæsaris, 532, 1385.
+crassi, 1190, 1320.
+pompeii, 490, 1385.
+Eusirus,
+cuspidatus, 141.
+longipes, 469, 485, 1340, 1359,
+1385, 1448.
+Euspongia,
+officinalis,
+var. lobosa, 371, 1362.
+Eusyllis, 1450.
+kerguelensis, 465, 1337.
+tubifex, 221, 1381.
+Eusyringium,
+cannostoma, 1013.
+conosiphon, 1024, 1043.
+leptosiphon, 1250.
+macrosiphon, 1017.
+pachysiphon, 882.
+siphonostoma, 1052.
+Euthelepus, 1450.
+chilensis, 112, 1124, 1285.
+setubalensis, 112, 1337.
+Euthemisto, 1451.
+australis, 545.
+bispinosa, 218.
+gaudichaudii, 482, 1137, 1174.
+thomsoni, 450, 469, 487, 522,
+1385.
+Euthria (see Fusus).
+Eutympanium,
+coronarium, 1218.
+dotecarium, 1132.
+militare, 880.
+musicantum, 1015, 1040, 1046.
+octonarium, 1022.

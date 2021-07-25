@@ -1,37 +1,54 @@
 REPORT ON SPIRULA.
-11
-structure (Pl. VI. figs. 14 and 15) are made from the Challenger specimen ; Professor
-Giard's specimen showed the same conformation except that the papilla in it was less
-voluminous.
-The base of the conical papilla is formed by a lenticular body of fibrous tissue (Pl. VI.
-fig. 14, 2) presenting nuclei among the fibres (Pl. VI. fig. 16). A layer of bright glassy-
-looking substance (Pl. VI. figs. 14 and 15, m), resembling the elastic tissue of Vertebrates,
-covers the aboral surface of the lenticular body, and extends over the whole central mass
-of the papilla, which it thus bounds ; this layer appears to become thin near the
-summit of the papilla, but it must be remembered that in the two individuals studied
-this summit was very much damaged.
-Finally, a layer of fibres, very probably muscular, radiates, in front of the lenticular
-body, from the centre to the periphery (Pl. VI. figs. 14 and 15, r).
+15
+3322
+Their axis rises between the nidamental glands, properly so-called, and the accessory
+glands. These organs are retained at the internal face of the mantle at the dorsal side
+of their axis, by a support (“pallio-branchial ligament,” Pl. I. fig. 6, pb.), upon which
+no “spleen ” or blood-gland is to be observed. In front of the branchial support, and
+more ventrally, the internal face of the mantle shows a lateral cartilaginous prominence
+(" button” of the resistance apparatus); an elongated prominence of the same appear-
+ance exists (at least in Spirula reticulata) on the dorsal side of the internal face of the
+mantle, on the median line, anteriorly, opposite to the middle of the infundibular collar.
+e
+cruze
+1
+II. NERVOUS SYSTEM.
+As in all Cephalopods (including Nautilus) the central nervous system is situated
+around the wesophagus behind the buccal bulb (Pl. III.), and, as in the Dibranchiates,
+this nervous system is contained in a cartilaginous capsule (Pl. V. figs. 1, 3), which was
+treated of above. 1
+Setting aside the enormous optic ganglia (Pl. V. fig. 2, 0.g.), which occupy the
+right and left sides of the central nervous mass, we recognise in this last the following
+ganglia :-(A) One pair of supra-oesophageal: cerebral ganglia (Pl. V. figs. 1, 2, 3, 9.c.), and
+(B) three pairs infra-esophageal : (a) anterior: brachial ganglia (g.p.); (6) median: pedal
+ganglia (9.p.); (c) posterior; pleuro-visceral or “ chlamydo-splanchnic” ganglia (g.ch.s.).
+Besides, it is necessary to distinguish still another little pair, anterior supra-csopha-
+geal, called “superior buccal” (s.b.g.), far removed
+from the cerebral centres, as in the Egopsids (Fig.
+L, ix), although in the Sepiidæ they are very much
+nearer, and in the Octopods they are fused with
+them, forming the anterior part.”
+These “superior buccal” ganglia are united
+to the cerebral ganglia by long connective cords ;
+in the Challenger specimen the left connective cord
+Fig. L.--Central nervous system of Ommatostrephes
+shows the peculiarity of being double (Pl. V. fig. 2). pteropus, left hand side view; magnified. i,
+buccal mass; ii, brachial ganglion ; iii, pedal
+The connective cords uniting the superior buccal ganglion; iv, pleuro-visceral ganglion;v, posterior
+salivary glands; v', esophagus; vi, section of
+ganglia to the brachial centres have not been seen the optical nerve ; vii, cerebral ganglion ; viii,
+stomato-gastric ganglion; ix, “superior buccal'
+and have probably escaped notice; but the cerebro-
+ganglion ; x, anterior salivary gland, uncovered.
+brachial cords have been observed and are rather long (Pl. V. fig. 4, x).
+X
+Pilet
 VI
-FIG. G. --Embryo of Loligo, dorsal
-view ; magnified. in arms; ii,
-mantle ; ii, fins; iv, eye.
-Fig. H.--Embryo of Sepia, dorsal view;
-magnified. i, arms; ii, mouth ; iii,
-eye ; iv, fin.
-Fig. I.--Aboral view of Spirula reti-
-culata ; x 2. i, left fin ; ii, aboral
-fossa ; iii, ventral external part of
-the shell ; iv, terminal disk; v,
-mantle ; vi, dorsal external part
-of the shell.
-Function of the Fossa.—The conformation of this organ has remained unknown up
-to this time, though various authors have expressed the opinion that it is an adhesive
-apparatus, founded on a supposed observation of Rumphius, according to whom “Spirula
-attaches itself to rocks by its terminal disk.” Now Rumphius makes no mention of the
-terminal disk nor of the fossa (op. cit., p. 68), nor indeed of any other external part of
-Spirula. It is certain, as I have already pointed out, that if he saw any parts they were
-only very unimportant fragments. According to his obscure text one must conclude that
-he believed that Spirula fixed itself to rocks by the mouth; he knew the siphuncle and
-the immediately adjacent parts, contained in the last chamber of the shell, and he supposed
-that the siphuncle traversed the whole animal, which fixed itself by the oral extremity
+ceri
+bo
+1 Ventrally and laterally the central nervous system is surrounded and separated from the cartilage by
+a glandular looking substance (Pl. III., ad., and Pl. V. fig. 1), as in other Dibranchiates (where it is called
+“white body "), the microscopic examination of which suggests that it is a blood gland.
+2 The facts that this segmentation of cerebral centres exists in a form so archaic as Spirula, and that the
+superior buccal ganglia resulting therefrom are very far removed from the cerebral ganglia properly so-called,
+prove that the disposition presented by the Octopods is not the primitive one.

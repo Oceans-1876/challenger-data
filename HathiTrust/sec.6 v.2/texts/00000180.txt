@@ -1,110 +1,98 @@
-938
+940
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 237.
-1
-Actinocyclus japonicus, Castracane.
-punctulatus, Castracane.
-rotula, Castracane.
-Actinoptychus subangulatus, A. Schmidt.
-undulatus, Ehrenberg.
-areolatus, A. Schmidt.
-vulgaris, Schumann.
-splendens, Ralfs.
-Asteromphalus brookei, Bailey.
-humboldtii, Ehrenberg,
-roperianus, Ralfs.
-hookerii, Ehrenberg.
-hiltonianus, Ralfs.
-arachne, Ralfs.
-Coscinodiscus lineatus, Ehrenberg.
-anguste-lineatus, A. Schmidt.
-leptopus, Janisch.
-eccentricus, Ehrenberg.
-var. punctifera, Grunow.
-curratulus, Grunow.
-var. recta, Rattray.
-marginatus, Ehrenberg.
-fimbriato-limbatus, Ehrenberg.
-subtilis, Ehrenberg.
-concinnus, Smith, var. jonesiana,
-3
-Navicula spectabilis, Gregory.
-smithii, Brebisson.
-nitescens, Ralfs.
-prætexta, Ehrenberg.
-constricta, Grunow.
-gemmata, Greville.
-multicostata, Grunow.
-splendida, Gregory.
-notabilis, Greville.
-aspera, Ehrenberg,
-Alloioneis antillarum, Cleve and Grunow.
-debyii, forma osculifera (= Trachyneis,
-Cleve).
-peragalli, Brun.
-monodon, Brun
-Pleurosigma affine, Grunow, var. normanni, Ralfs.
-Cocconeis pellucida, Hantzsch.
-Orthoneis splendida, Grunow.
-Campyloneis grevillei, Grunow.
-Nitzschia jelinekii, Grunow.
-marina, Grunow.
-Surirella recedens, A. Schmidt.
-lata, W. Smith.
-fastuosa, Ehrenberg.
-var. suborbicularis, A. Schmidt.
-slesvicensis, Grunow (fresh water).
-ocellata, Castracane.
-Campylodiscus echeneis, Ehrenberg.
-hypoilromus, Tempère and Brun.
-horologium, Williamson, var.
-dentatus, Deby.
-undulatus, Greville ( = C.brightwellii,
-Grunow).
-toniatus, A. Schmidt.
-Rhaphoneis surirella, Ehrenberg, var, australis, Petit.
-Synedra superba, Kutzing.
-gaillionii, Ehrenberg.
-doliolus, Wallich.
-Grammatophora undulata, Ehrenberg, var. japonica,
-Grunow.
-stricta, Ehrenberg.
-ovalauensis, Grunow.
-marina, Kutzing, var. tropica,
-Grunow.
-Glyphodesmis williamsonii, Grunow.
-Rhabdonema adriaticum, Kutzing.
-arcuatum, Kutzing.
-Gephyria media, Arnott.
-Roperia tesellata, Grunow.
-Actinocyclus complanatus, Castracane.
-Rattray.
-99
-9)
-radiatus, Ehrenberg.
-var. media, Grunow.
-obscurus, A. Schmidt.
-var. floralis, Brun.
-oculus-iridis, Ehrenberg.
-var. lorulifera, Rattray.
-argus, Ehrenberg
-borealis, Bailey.
-asteromphalux, Ehrenberg, var.
-rex, Wallich.
-gazellæ, Janisch.
-nitidus, Gregory.
-ralliosus, Grunow.
-nodulifer, Janisch.
-obovatus, Castracane.
-robustus, Greville.
-decrescens, Grunow.
-convexus, A. Schmidt.
-africanus, Janisch.
-apiculatus, Ehrenberg.
-gigas, Ehrenberg, var. diorama, Grunow.
-janischii, A. Schmidt.
+Medusetta quadrigata, Haeckel.
+Gazelletta trispathilla, Haeckel.
+Castanidium bethelli, Haeckel.
+Coelodendrum flabellatum, Haeckel.
+PTEROPODA (Pelseneer, Zool. pt. 65).
+Clio (Creseis) acicula (Rang).
 2
->
-99
-sp. (?).
-Ethmodiscus sp. (?).
+TUNICATA (Herdman, Zool. pt. 76).
+Doliolum affine, n.sp.
+challengeri, n.sp.
+COPEPODA (Brady, Zool. pt. 23).
+Eucalanus setiger, n.sp.
+Scolecithrix danæ (Lubbock).
+Euchæta prestandreæ, Philippi.
+Candace pectinata, Brady.
+Oncæa obtusa (Dana).
+Fishes (Günther, Zool. pt. 78).
+Thyrsites prometheus, C.V.
+In addition, the following are recorded in the note-books :-Noctiluca, Pyrocystis,
+Peridinium (Ceratium), Globigerina, Orbulina, Hastigerina, Pulvinulina, Medusæ,
+Siphonophoræ, Ctenophoræ, Sagitta, Alciopa, tubicolous and other Annelids and
+larvæ, Daphnia, Cypridina, Saphirina, Cirriped larvæ, Euphausia, Lucifer, small
+Lamellibranchs and Gasteropods, Atlanta, many Pteropods and larvæ, small cuttle-fish,
+Appendicularia, and several small fishes.
+STATION 238.
+Station 238 (Sounding 380), Yokohama to Sandwich Islands (see Chart 36 and
+Diagram 17).
+June 18, 1875; lat. 35° 18' N., long. 144° 8' E.
+Temperature of air at noon, 72°:8; mean for the day, 72°:7.
+Temperature of water :-
+o
+Surface,
+10 fathoms,
+20
+30
+40
+50
+60
+70
+80
+90
+100
+125
+150
+175
+200
+225
+70-5
+69.6
+68.7
+67.8
+66.9
+66.0
+65.1
+64.2
+63:3
+62.4
+61.5
+59.3
+57.0
+54.9
+52:7
+50.7
+250 fathoms,
+275
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+48.8
+47.1
+45.9
+42.2
+39.7
+38.3
+37.5
+37.0
+36.6
+36:4
+36.2
+36.0
+35.7
+35.5
+35:3
+35.0

@@ -1,105 +1,87 @@
-1424
+1428
 THE VOYAGE OF H.M.S. CHALLENGER.
->
-9
-Cucumaria mirabilis.
-serrata.
-Holothuria atra.
-impatiens.
-martensii.
-monacaria.
-vagabunda (3)
-Psolus ephippifer (3).
-incertus.
-Stichopus chloronotus.
-Synapta beselii (3).
-distincta.
-Cerebratulus corrugatus.
-truncatus (3)
-Drepanophorus serraticollis.
-Chloeia flava.
-Eunice aphroditois.
-erstedi.
-vittata.
-Eurythoë pacifica
-Hermadion kerguelensis.
-Hermodice carunculata (3).
-Hyalinacia tubicola.
-Lætmonice producta (4).
-Lumbriconereis heteropoda.
-Neottis antarctica (4).
-Nephthys trissophyllus.
-Nereis (Platynereis) eatoni (4).
-Serpula narconensis (3).
-Thalenessa oculata.
-Myzostoma gigas.
-horologium.
-Bairdia amygdaloides (5).
-crossheiana (3)
-foveolata (5).
-Cythere audei.
-canaliculata.
-cancellata.
-convoluta.
-crispata (3).
-cymba.
-darwini.
-fungoides.
-goujoni (3).
-kerguelenensis (5)
-obtusalata.
-quadriaculeata.
-rastromarginata.
-reussi (3).
-scabrocuneata (3).
-Cythere scutigera.
-tricristata.
-Cytherella cavernosa.
-polita.
-semitalis (4).
-Loxoconcha australis.
-avellana.
-pumicosa.
-sinensis.
-Macrocypris maculata (5).
-orientalis.
-tumida.
-Paracypris polita.
-Phlyctenophora zealandica (3).
-Pontocypris attenuata.
-faba.
-subreniformis.
-Sclerochilus contortus (3).
-Xestoleberis curta (4).
-granulosa.
-Balanus amaryllis (3).
-trigonus.
-Chosroës incisus.
-Elasmopus subcarinata,
-Liljeborgia consanguinea.
-Arcturus furcatus.
-Ceratocephalus grayanus.
-Serolis pallida.
-schythei (5).
-septemcarinata.
-tuberculata.
-Gonodactylus chiragra (3).
-Pseudosquilla ciliata.
-Squilla nepa (4).
-Alpheus avarus (4).
-crinitus.
-longimanus.
-minus,
-Arctus immaturus.
-Artemesia longinaris.
-Bithynis lar (4).
-Crangon affinis.
-Leptochela robusta.
-Nauticaris marionis.
-Codeopus duplex.
-Paralpheus diversimanus.
-Penæus anchoralis (4).
-canaliculatus (3)
-fissurus.
-gracilis.
-2
+Boltenia legumen (3).
+Colella pedunculata (5).
+Corella japonica (3).
+Cynthia pallida.
+Goodsiria coccinea (3).
+Leptoclinum albidum (3).
+Synstyela incrustans.
+Acanthurus blochi (3).
+Anguilla mauritiana (3).
+Apogon lineatus.
+Balistes buniva.
+Baellostoma cirrhatum.
+Belone annulata.
+Brachypleura nova-zealandia.
+Callionymus curvicornis.
+lunatus.
+Caranx ascensionis.
+crumenophthalmus (3).
+speciosus.
+Carcharias obscurus.
+Conger marginatus.
+Cyprinus auratus.
+Dules marginatus (3).
+Echeneis naucrates.
+Eleotris fusca (3).
+macrolepidota.
+Equula fasciata.
+Gerres oyena.
+Glyphidodon saxatilis.
+Gobius albopunctatus.
+Haplochiton zebra (3).
+Hemirhamphus commersoni.
+Holocentrum longipinne.
+Lethrinus nebulosus.
+Lichia glauca.
+Lophonectes gallus.
+Megalops cyprinoides.
+Merluccius gayi.
+Mesoprion fulviflamma.
+Monacanthus setifer.
+Muræna nebulosa.
+richardsoni.
+Myxine australis.
+Notothenia longipes.
+Ostracion cornutus,
+Platax orbicularis.
+Platycephalus insidiator (4).
+sp. (?).
+Pseulorhombus russelli.
+Pseudoscarus nuchipunctatus.
+Pterois lunulata.
+Raja brachyura.
+Rhomboidichthys spilurus.
+Salilota australis (3).
+Sebastes percoides.
+Serranus diacanthus (3)
+Solea ovata.
+Sphærodon grandoculis.
+Tetraroge longispinis.
+Tetrodon immaculatus.
+Therapon servus.
+Trachurus trachurus.
+Trygon pastinaca.
+Trypauchen vagina (3).
+Zygana malleus.
+Mesoplodon layardi.
+The majority of these were taken at two Stations, while 127 species were taken at
+three Stations, 34 species at four Stations, 19 species at five Stations, 4 species at six
+Stations, 1 species at seven Stations, and 1 species at nine Stations.
+Of the 350 species taken in this zone less than 100 fathoms, as well as in deeper
+zones (those without asterisks),
+285 species (or 81 per cent.) were taken in the zone between 100 and 500 fathoms.
+49 (or 14 per cent.)
+500 and 1000
+32
+(or 9 per cent.)
+1000 and 1500
+14 (or 4 per cent.)
+1500 and 2000
+7 (or 2 per cent.)
+2000 and 2500
+(or 1 per cent.)
+beyond 2500 fathoms.
+5
+.

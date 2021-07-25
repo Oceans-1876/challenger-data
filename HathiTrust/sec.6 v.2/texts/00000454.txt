@@ -1,44 +1,87 @@
-1182
+ak
+77
+1186
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 317.
-along with slaty pebbles, phosphatic and glauconitic concretions, and broken shells.
-This Station is situated about 200 miles N.N.E. of Stanley Harbour. At 4 P.M. made
-sail. Diomedea exulans, molly mauks, stinkers, black night hawks, mutton birds,
-Prion turtur, Thalassidroma, and large petrels were seen.
-Lobos Island distant at noon, 816 miles. Made good 130 miles.
-Made good 130 miles. Amount of current
-15 miles, direction N. 31° E.
-ANIMALS FROM
-Tow-NET AT
-WEIGHTS.
-The following species are recorded in the Zoological Reports from the tow-net at
-the weights at this Station :-
-MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Phakellia ventilabrum (Johnston), var. connexiva, nov.
-also at Station 122.
-One specimen ; obtained
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha meridionalis, n.sp. Obtained also at Station 320, 600 fathoms.
-Ophiophyllum sp. (?). One damaged specimen.
+STATION 319.
 1
-OSTRACODA (Brady, Zool. pt. 3).
-Cythere dasyderma, n.sp. For distribution see Station 5.
-CIRRIPEDIA (Hoek, Zool. pt. 25).
-Verruca gibbosa, n.sp. Four specimens ; obtained at no other locality.
-1
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Ediceroides cinderella, n.g., n.sp. Two specimens; obtained at no other locality.
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Lima (Limatula) sp. (?). One specimen.
-BRACHIOPODA (Davidson, Zool. pt. 1).
-Terebratula wyvillii, n.sp. One small specimen ; obtained also at Stations 160,
-184, 244, 299, and 302.
-The Station-book records also a piece of a Hydroid, and small Sipunculid.
-Excluding Protozoa, about 15 specimens of invertebrates were obtained at this
-Station, belonging to about 10 species, of which 6 are new to science, including
-representative of 1 new genus ; 2 of the new species were not obtained elsewhere.
+down to 1500 fathoms. At 11.15 A.M. made sail. The same birds as noted at the
+previous Station were seen, along with a very small species of Thalassidroma.
+Lobos Island distant at noon, 410 miles. Made good 86 miles. Amount of current
+21 miles, direction S. 48° E.
 ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.—The tow-nets at the surface yielded Diatoms, Globigerina,
-Sagitta, Copepods, Euphausia and larvæ, and Pteropods, while the tow-net at the
-weights brought up also some of the deep-sea Radiolaria and deep-sea Amphipods.
+SURFACE NETS.
+gemma, Dana.
+Surface Organisms.— The following species are recorded from the surface at this
+Station :-
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Saphirina opaca, Lubbock.
+Cypassis eucolpos, Haeckel.
+Amphibrachium dilatatum, Haeckel.
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Larnacospongus larnacillifer, Haeckel.
+Primno sp. (?).
+Challengeria thomsoni, Murray.
+TUNICATA (Herdman, Zool. pt. 76).
+COPEPODA (Brady, Zool. pt. 23).
+Salpa runcinata - fusiformis,
+Saphirina ovalis, Dana.
+Chamisso—Cuvier.
+inæqualis, Dana.
+democratica - mucronata,
+reticulata, n.sp.
+Forskål.
+In addition, the following are recorded in the note-books :-Peridinium tripos,
+Globigerina, Acanthometra and compound Radiolaria, Medusæ, Ctenophoræ, Echinoderm
+larvæ, Hyperids, Phronima, larvæ of Euphausia. The stomachs of the Salpæ contained
+Coccospheres, Diatoms, and Peridinium. It was curious to note the absence of the small
+red Copepods so abundant on the previous day, their place being taken by several species
+of Saphirina and a few blue Copepods. Sharks and flying fishes were seen.
+STATION 320.
+a
+o
+.
+Station 320 (Sounding 407), Falkland Islands to Rio de la Plata (see Chart 42
+and Diagram 22).
+February 14, 1876 ; lat. 37° 17' S., long. 53° 52' W.
+Temperature of air at noon, 66°:8; mean for the day, 62°:5.
+Temperature of water :-
+Surface,
+67.5
+250 fathoms,
+39.5
+25 fathoms,
+60.0
+275
+39.3
+50
+46.0
+300
+39.1
+75
+44:0
+350
+38.8
+100
+43.0
+400
+38.4
+125
+42-0
+450
+38.2
+150
+41.0
+500
+37.9
+175
+40:3
+550
+37.6
+200
+40.0
+Bottom,
+37.2
+225
+39.8
+>
+le

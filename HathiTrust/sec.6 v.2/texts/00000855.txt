@@ -1,184 +1,107 @@
 SUMMARY OF RESULTS.
----
-1573
-01.
-9. 511.
-Watsonia, 1429.
-elegans, 709, 1409.
-Webbina,
-clavata, 115, 133, 145, 166, 181,
-261, 294, 319, 354, 427, 429,
-449, 498, 511, 522, 581, 604, 1
-610, 631, 640, 857, 937, 1131,
-1136, 1201, 1253.
-hemisphærica, 511, 610, 1201.
-Willemæsia, 617, 1027, 1043.
-euthrix, 615, 633, 634, 639,
-843.
-leptodactyla, 151, 386, 387, 617,
-1118, 1129, 1286, 1289, 1296,
-1298, 1300, 1307.
-1332
-Virgulina--continued.
-schreibersiana, 145, 211, 215,
-261, 286, 342, 429, 492, 529,
-587, 686, 965, 979, 1037, 1067,
-1071, 1085, 1092, 1111, 1131,
-1136, 1217, 1225, 1230, 1247.
-squamosa, 182, 319, 529, 903,
-979, 1071.
-subdepressa, 200, 529, 588, 965,
-1104, 1111, 1131, 1217, 1247.
-subsquamosa, 152, 196, 261, 286,
-581, 589, 876, 903, 937, 1026,
-1071, 1104, 1111, 1131, 1230.
-texturata, 261, 1104, 1111, 1131,
-1247.
-Vitrularia,
-crenifera, 860, 1409.
-Vogtia,
-köllikeri, 1208.
-Voluta, 539, 707, 1409.
-gamberti, 99.
-junonia, 99.
-mirabilis, 99.
-vespertilio, 600.
-(Alcithoe),
-gracilis, 599, 1409.
-(Cymbiola),
-ancilla, 1178, 1409.
-lutea, 591, 1350.
-(Scaphella),
-turneri, 728, 1409.
-undulata, 541, 1409.
-(Vespertilio),
-sophia, 707, 1409.
-Vespertilio,
-var. pellis serpentis, 832,
-1409.
-(Volutilithes),
-abyssicola, 418, 422, 1350, 1359,
-1409.
-(Zidona),
-angulata, 1195, 1409.
-Volutilithes (see Voluta).
-Volutomitra,
-fragillima, 473, 1409.
-Volvula (sce Cylichna).
-Vomerula,
-esperioides, 419, 1187, 1315,
-1325, 1329.
-Vorticella, 334, 734, 737, 773, 787, 790,
-863, 893, 916, 920, 941, 1251.
-Xanthiosphæra,
-capillacea, 1006.
-erinacea, 1031, 1038, 1050.
-lappacea, 1006, 1010, 1014, 1021,
-1027, 1031, 1038, 1050, 1055,
-1059.
-Xantho,
-bidentatus, 830, 1393.
-Xanthodes,
-melanodactylus, 135, 271, 310,
-1393, 1425.
-Xenia,
-elongata, 761, 1367.
-Xenodermichthys, 1361.
-nodulosus, 901, 1354.
-Xenophora, 634, 1350.
-caribæa, 362, 1350.
-corrugata, 345, 1409.
-helvacea, 729, 1409.
-pallidula, 789, 1350.
-solarioïdes, 709, 807, 821, 1409,
-1427.
-Xestoleberis, 1443.
-africana, 410, 1384.
-curta, 193, 467, 558, 697, 996,
-1129, 1306, 1313, 1339, 1359,
-1384, 1424.
-depressa, 467, 485, 1339, 1359,
-1384, 1443, 1448.
-expansa, 253, 1199, 1279, 1281,
-1295.
-foveolata, 697, 1384.
-granulosa, 538,
-558,
-1384,
-1424.
-intermedia, 683.
-margaritea, 697, 1384.
-nana, 625, 1384.
-polita, 1176, 1384.
-setigera, 436, 467, 489, 1339,
-1356, 1359, 1384.
-tumefacta, 860, 1384.
-variegata, 308, 625, 1306, 1313,
-1384.
-Xiphacantha,
-ciliata, 1237, 1239, 1255, 1257,
-1261.
-crucifera, 1017.
-emarginata, 1101.
-falcata, 1032.
-macroptera, 980, 982, 986.
-platyptera, 943, 980, 1053, 1095.
-quadridentata, 1255, 1257, 1261,
-1266, 1268.
-stauroptera, 1218.
-trigonoptera, 1053.
-Xiphatractus,
-armadillo, 1050.
-dasypus, 871.
-euphractus, 1217.
-glyptodon, 1006.
-Xiphias,
-gladius, 160.
-Xiphichilns,
-arcuatus, 638, 1320.
-complanatus, 467, 1339.
-quadrimaculatus, 731, 1421.
-Xiphodictya,
-amphibelonia, 957.
-heliospira, 879, 1051.
-Xiphodictyon,
-amphirrhopalia, 1011.
-Xiphonectes,
-longispinosus, 626, 1393.
-Xiphoptera,
-dodecactena, 1053.
-icosactena, 1095.
-tessaractena, 941.
-Xiphosphæra,
-ceres, 1265.
-clavigera, 1059.
-euphrosyne, 1201.
-gica, 1038, 1044, 1059.
-hebe, 1010, 1014, 1021.
-juno, 878.
-luna, 1044.
-maxima, 1249.
-pallas, 878.
-planeta, 1038, 1044, 1050, 1055,
-1059.
-venus, 1038, 1044, 1050.
-vesta, 1014, 1038.
-Xiphostylus,
-alanda, 1050.
-alcedo, 878.
-ardea, 254.
-cuculus, 1226.
-edolins, 878, 1056.
-emberiza, 1218.
-falco, 1136.
-gallus, 1021.
-motacilla, 1044.
-phasianus, 545, 1038.
-picus, 1010.
-Waldheimia, 1452.
-flavescens, 573, 1414.
-kergnelenensis, 441, 476, 486,
-1353, 1357, 1360, 1414.
-wyvillii, 1125, 1287.
-Walteria, 1327.
-flemmingii, 612, 1315.
+1577
+be
+tu
+326
+bat
+Anomura-continued.
+Argonauts, 7.
+776, 781, 789, 792, 795, 801, 805, 811, 814, Aristotle, 10, 15, 16, 17, 18, 27, 37, 38, 46, 65.
+819, 830, 841, 856, 860, 865, 885, 924, 935, Aristotle's Lantern, 17.
+1075, 1088, 1120, 1129, 1135, 1140, 1143,
+researches on marine animals, 17.
+1152, 1157, 1161, 1164, 1166, 1177, 1190, Aromata, Cape, 28.
+1225, 1239, 1271, 1286, 1296, 1307, 1321, Arrian (Flavius Arrianus), 17, 27.
+1342, 1447, 1448, 1451, 1452.
+Arrou Islands, 735.
+Antarctic continent, supposed extension of in recent Artemidorus, 21.
+geological times, 1459.
+Ascarides, 621.
+Diatoms, 80.
+Ascension, 1237, 1239, 1241.
+Expedition, 73, 78, 79, 80.
+Ascidians, 478, 479, 497, 545, 600, 802, 808, 822,
+Sea, 71.
+978, 1148 (see also Tunicata).
+Antichthones, 25.
+Astacidæ, 152, 592, 629, 740.
+Antilles, exploration of, by Columbus, 43.
+Asteriadæ, 85.
+Antipatharia, 195, 291, 338, 432, 526, 528, 667, 674, Asteroidea, 109, 114, 120, 141, 172, 202, 210, 213,
+745, 758, 848, 855, 955, 962, 1150, 1157,
+216, 218, 221, 224, 229, 241, 266, 270, 279,
+1198, 123, 1242, 1277, 1284, 1292, 1303,
+281, 288, 299, 306, 332, 343, 350, 357, 369,
+1331.
+374, 386, 393, 402, 407, 419, 426, 433, 444,
+Antipodes, doctrine of, 43, 46.
+452, 458, 462, 484, 488, 497, 502, 507, 519,
+Anville, J. B. Bourguignon d', 54.
+527, 531, 537, 556, 577, 591, 593, 595, 613,
+Aphroditaceans, 122, 261, 478, 497, 498, 528, 545,
+619, 623, 645, 674, 679, 694, 720, 738, 746,
+716, 754, 811, 843, 866, 873, 948, 970, 971,
+762, 771, 776, 785, 788, 792, 794, 804, 810,
+1068, 1130, 1162.
+819, 827, 847, 855, 859, 864, 875, 883, 898,
+larvæ of (see Larvæ).
+906, 912, 917, 919, 923, 933, 955, 962, 964,
+Api Island, 665.
+976, 1058, 1091, 1097, 1108, 1116, 1120,
+Arabian Gulf, 16, 21, 25, 34.
+1123, 1128, 1138, 1140, 1145, 1147, 1150,
+Arabs, 31, 32, 33, 34, 35, 36, 37, 38, 40, 41, 43, 63.
+1155, 1160, 1166, 1168, 1175, 1189, 1198,
+Arabs' views on action of water, 34.
+1205, 1224, 1239, 1246, 1278, 1284, 1292,
+bathymetry, 34.
+1303, 1317, 1334, 1446, 1450, 1452.
+coral islands, 34.
+Astrolabe, 54.
+evaporation, 36.
+the, 70.
+orography, 34.
+Astrorhizidæ, 511.
+saltness of the sea, 36.
+Atlantic Ocean, 49, 50, 51, 71, 72.
+tides, 37.
+Sea, 12.
+Arachnactis, 1458.
+Sea of the Ocean, 51.
+Arafura Sea, 717.
+crossed, 43.
+Arago, D. F. J., 74.
+word first used, 12.
+Archaic characters of deep-sea animals, 1439.
+Atlantis, 9, 12, 22.
+shallow water animals, 1439. Atlas, the first, 53.
+Archangel reached by Chancellor, 47.
+Attached Foraminifera, 1202.
+Archiac, E. J. A. d', 62, 63, 83.
+Audouin, J. V., 77, 82.
+Archimedes, 66.
+Augite-andesite, 1107.
+Archipelago of India, 51.
+Augustus, 23.
+Archizoeæ, 951, 959, 960, 966.
+Aulosphäridæ, 973.
+Arctic, the, 90.
+Aurora, 502.
+Sea, 71.
+australis, 501, 506.
+Arduino, G., 61, 62.
+Austral continent, 47, 48, 50, 69.
+Arezzo, Ristoro d', 38.
+Ocean, 49.
+Argillite, 100.
+Austrian expeditions, 106c.
+Argo, 7.
+Avienus, R. Festus, 5, 6.
+(SUMMARY OF RESULTS CHALL. EXP.-1894.)
+199
+>
+SI!
+901
+11
+51
+9

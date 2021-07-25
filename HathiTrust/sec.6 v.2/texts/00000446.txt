@@ -1,52 +1,43 @@
-1174
+1178
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 314.
-Fishes (Günther, Zool. pts. 6 and 57).
-Raja brachyura, n.sp.
-Obtained also at Station 313.
-Salilota australis, n.g., n.sp. One specimen ; obtained also at Station 313 and
-Puerto Bueno. Only species of the genus.
-In addition to the foregoing, the following are recorded in the Station-book :--
-Actinian (tentacles only), three specimens of Astrogonium, two specimens of Ctenodiscus
-australis, many specimens of Chirodota, Hirudinean on Raja, and Idothea (?).
-Excluding Protozoa, over 100 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 30 species, of which 13 are new to science, including
-representatives of 3 new genera ; 3 of the new species were not obtained elsewhere.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.—The following species are recorded from the surface at this
-Station :
-AMPHÌPODA (Stebbing, Zool. pt. 67). PTEROPODA (Pelseneer, Zool. pt. 58).
-Euthemisto gaudichaudii (Guérin). Spongiobranchæa australis, d'Orbigny.
-SCHIZOPODA (Sars, Zool. pt. 37).
-TUNICATA (IIerdman, Zool. pt. 76).
-Euphausia splendens, Dana.
-Thysanoëssa gregaria, n.sp.
-Salpa echinata, n.sp.
-The tow-net yielded compound Radiolaria, many small Copepods, Hyperids, and
-Euphausia
-STATION 314A.
-Station 314A (Sounding 464), Sandy Point to Falkland Islands (see Chart 42).
-January 22, 1876 ; lat. 51° 24' S., long. 61° 46' W.
-Temperature of air at noon, 50°:3 ; mean for the day, 48°:6.
-Temperature of water :-
-49.0
-.
-Surface,
-25 fathoms,
-50 fathoms,
-Bottom,
-45.8
-41.8
-47:4
-Density at 60° F.:-
-Surface,
-1.02486
-50 fathoms,
-25 fathoms,
-. 1.02483 Bottom,
-Depth, 110 fathoms ; deposit, Hard Ground.
-. 1.02482
-. 1:02504
-.
-At 8.40 A.M. stopped and sounded in 110 fathoms. No deposit came up in the
+FALKLAND
+ISLANDS.
+Mytilus edulis, Linné. (Station 315, 12 fathoms); obtained also at Station 322,
+21 fathoms. A widely-distributed species.
+magellanicus, Chemnitz. (Station 315, 12 fathoms); obtained also at
+Station 149 and Fiji.
+Modiolarca trapezina (Lamarck). (Station 315, 12 fathoms); obtained also at
+Stations 145, 149, and 311.
+Pecten patagonicus, King (Station 315, 12 fathoms); obtained also at Station 312.
+GASTEROPODA (Watson, Zool. pt. 42).
+Fissurella picta (Gmelin). (Station 315, 12 fathoms); obtained at no other locality
+by the Challenger. Recorded from Magellan Strait,
+Falkland Islands, and Chili.
+Trochus (Photinula) cærulescens (King). (Station 315, 5 to 12 fathoms); obtained
+at no other locality by the Challenger. Recorded from
+Magellan Strait and Falkland Islands.
+( ) expansus (Sowerby). (Station 315, 5 to 12 fathoms, and Port
+Louis—from crop of duck); obtained also at Stations 145
+and 149.
+( ) tæniatus (Sowerby). (Stations 315 and 316, 2 to 12 fathoms);
+obtained at no other locality by the Challenger. Recorded
+from Magellan Strait, Falkland Islands, and western
+North America.
+Trophon geversianus (Pallas). (Station 315, 12 fathoms); obtained also at
+Station 151.
+liratus, Couthouy, MS. (Station 315, 12 fathoms); obtained also at
+Station 308.
+Fusus (Euthria) fuscatus (Bruguière). (Stations 315 and 316, 4 to 12 fathoms);
+obtained also at Station 149,
+Voluta (Cymbiola) ancilla, Solander. (Station 315, 12 fathoms); obtained at no
+other locality by the Challenger. Recorded from
+Patagonia and Magellan Strait.
+Crepidula dilatata, Lamarck. (Station 315, 5 to 12 fathoms); obtained at no
+other locality by the Challenger. Recorded from South
+America, Magellan Strait, and Falkland Islands.
+Calyptræa pileus (Lamarck). (Station 315, 5 to 12 fathoms); obtained at no
+other locality by the Challenger. Recorded from
+Falkland Islands and Peru.
+sp. (?). (Station 315, 5 to 12 fathoms).
+Lamellaria, two species undetermined. (Station 315, 5 to 12 fathoms).
+19

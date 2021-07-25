@@ -1,85 +1,52 @@
-1104
+1108
 THE VOYAGE OF H.M.S. CHALLENGER.
-Station 293.
-In addition to the foregoing, the following are recorded in the Station-book :-
-Fragment of Farrea (?), Stephanoscyphus on manganese nodules, Gorgonoid-small base
-of stem of Mopsea (?) attached to manganese nodule, Catenicella, Caberea (?), and
-another Polyzoon.
+STATION 295.
+Juan Fernandez distant at noon, 792 miles. Made good 115 miles. Amount of
+current 15 miles, direction N. 79° E.
+The following species is recorded from the trawl at this Station :-
+ANIMAL FROM
+TRAWL.
+FISHES (Günther, Zool. pt. 57).
+Cyema atrum, n.g., n.sp. One specimen ; obtained also at Station 158. Only
+species of the genus.
+The following species are recorded in error from this Station, having evidently come
+from Station 298 (see Station 298) :-
 ORGANISMS FROM
-THE DEPOSIT.
-The following species of Foraminifera and Radiolaria were observed in the deposit
-from this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.). :-
-FORAMINIFERA (Brady, Zool. pt. 22).—The pelagic species, which make up about
-78 per cent. of the carbonate of lime present in the deposit, are marked thus x.
-Biloculina depressa, d'Orbigny.
-var. murrhyna, Schwager.
-elongata, d’Orbigny.
-Spiroloculina tenuis (Czjzek).
-Miliolina venusta (Karrer).
-Planispirina sigmoidea, Brady.
-Hyperammina vagans, Brady.
-Haplophragmium latidorsatum (Bornemann).
-Verneuilina pygmæa (Egger).
-Gaudryina pupoides, d’Orbigny.
-var. chilostoma, Reuss.
-Bulimina elegans, d'Orbigny, var. exilis, Brady.
-Lagena stelligera, Brady.'
-torquata, Brady.
-truncata, Brady.
-sp. (?).
-Nodosaria communis, d'Orbigny.
-mucronata (Neugeboren).
-sp. (?).
-X
-sp. ().
-Х
-Х
-Vaginulina legumen (Linné).
-sp. (?).
-Uvigerina asperula, Czjzek.
-x Globigerina bulloiles, d'Orbigny.
-conglobata, Brady.
-dubia, Egger.
-inflata, d’Orbigny.
-x Orbulina universa, d'Orbigny.
-Pullenia obliquiloculata, Parker and Jones.
-sphæroides (d'Orbigny).
-Truncatulina pygmæa, Hantken.
-tenera, Brady.
-ungeriana (d'Orbigny).
-wuellerstorfi (Schwager).
-Virgulina pauciloculata, Brady ().
-subdepressa, Brady.
-subsquamosa, Egger.
-texturata, Brady.
-Cassidulina crassa, d'Orbigny.
-subglobosa, Brady.
-Chilostomella ovoidea, Reuss.
-Lagena alveolata, Brady, var. caudigera, Brady.
-desmophora, Rymer Jones.
-fimbriata, Brady.
-formosa, Schwager.
-globosa (Montagu).
-hexagona (Williamson).
-lævis (Montagu).
-marginata (Walker and Boys).
-var. semimarginata, Reuss.
-orbignyana (Seguenza).
-sp. (?).
-X X X
-x Pulvinulina crassa (d’Orbigny).
-exigua, Brady.
-menardii (d'Orbigny).
-micheliniana (d'Orbigny).
-patagonica (d'Orbigny).
-pauperata, Parker and Jones.
-Nonionina umbilicatula (Montagu).
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Distephanus diadema, Haeckel.
-Aulactinium actinelium, Haeckel.
-Aulographis verticillata, Haeckel.
-Auloceros arborescens, Haeckel.
-Aulospathis bifurca, Haeckel.
-Aulodendron pacificum, Haeckel.
-Sagosphæra furcilla, Haeckel.
-Sagmidium quadricorne, Haeckel.
+SURFACE-NETS.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Hymenaster carnosus, n.sp.
+HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
+Benthodytes sanguinolenta, n.g., n.sp.
+mamillifera, n.g., n.sp.
+Cucumaria abyssorum, n.sp., var. grandis, nov.
+Surface Organisms.—The following species are recorded from the surface and
+deep tow-nets in the vicinity of this Station :-
+RADIOLARIA (Haeckel, Zool. pt. 40). COPEPODA (Brady, Zool. pt. 23).
+Sphærozoum triactinium, Haeckel.
+Calanus valgus, n.sp.
+Rhaphidozoum polymorphum, Haeckel.
+Euchæta hessei, n.sp.
+Siphonosphæra chonophora, Haeckel.
+Echinomma echinidium, Haeckel. AMPHIPODA (Stebbing, Zool. pt. 67).
+Spongiomma spathillatum, Haeckel.
+Cyphocaris micronyx, n.sp.
+Centrocubus polystylus, Haeckel.
+Synopioides macronyx, n.g., n.sp.
+Spongocore puella, Haeckel.
+Monozonium staurostylum, Haeckel.
+MACRURA (Spence Bate, Zool. pt. 52).
+Tholartus tripanis, Haeckel.
+Amphitholoniumacanthonium, Haeckel. Sergestes longicollus, n.sp.
+Zygostaurus longicornis, Haeckel.
+Orophaspis diporaspis, Haeckel. PTEROPODA (Pelseneer, Zool. pt. 65).
+Icosaspis ornata, Haeckel.
+Cavolinia inflexa (Lesueur).
+Hylaspis barbata, Haeckel.
+Phractopelta haliomma, Haeckel.
+Belonaspis pandanus, Haeckel.
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Sagoscena castra, Haeckel.
+Cirroteuthis sp. (?).
+Castanella thomsoni, Haeckel.
+Tracheloteuthis (?) sp.
+1

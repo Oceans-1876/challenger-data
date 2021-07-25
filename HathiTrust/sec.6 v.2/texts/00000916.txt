@@ -1,41 +1,45 @@
-14
+18
 THE VOYAGE OF H.M.S. CHALLENGER.
-not present siphonal necks, but each segment of the siphuncle is joined to the subsequent
-one (that which is formed after it) by a sort of “cogwheel,” more or less regular, which is
-found at the aboral extremity of the former, spreading a little over the concave surface of
-the septa (Pl. II. figs. 4 and 6), and thus preventing the penultimate chamber from com-
-municating with the siphonal cavity. The apical extremity of the siphuncle is a cæcum
-making a small prominence in the interior of the initial chamber (Pl. II. fig. 7, psph.);
-from this cæcum a sort of ligament, situated in the median sagittal plane, runs, while
-enlarging, to the wall of the initial chamber (prosiphonal ligament or "prosiphuncle,"
-Pl. II. fig. 7, c.). We can only make conjectures as to the nature and function
-of this “ligament.” But it evidently cannot have had the function of siphuncle in the
-embryo;the embryo with a single chamber cannot have had any kind of siphuncle,
-and from the formation of the second chamber the true siphuncle was constituted.
-The fact that in our Spirula reticulata the last chamber is so shallow renders it
-probable that the increase of the shell-siphon is intermittent, and that each segment of the
-siphuncle does not originate much before the septum which is topographically anterior to it.
-d. Pallial Cavity.— The pallial cavity is widely open, the margin of the mantle not being
-at any point united to the cephalopedal mass. But it is considerably less deep than in the
-other Dibranchiates; the presence of the shell prevents its extension on the median line (Pl.
-I. fig. 6; Pls. III. and IV.), and even on the sides it does not extend very much further
-(Pl. IV, figs. 1 and 3, a). In Nautilus likewise the pallial cavity does not extend so far
-backwards as in the other Cephalopods. Upon the “ visceral ” face of the pallial cavity,
-at the very posterior extremity, are found (in the female) the nidamental glands (Pl. I. fig.
-6, n.g., &c.). In front, and partially concealed by the anterior extremity of these glands,
-are glandular prominences (Pl. I. fig. 7, x ; Fig. C in the text, iii), apparently accessory
-nidamental glands (see further on, Reproductive System); the left one partly hides the
-extremity of the oviduct (Fig. C, ix). In Spirula peroniż and Spirula australis (Pl. I.
-fig. 7; Pl. II. fig. 1) the anus opens between these two prominences on the level of
-their anterior margins, whilst in Spirula reticulata it, as well as the two neighbouring
-sessile renal openings (Fig. R), is hidden on the median line behind these two prominences,
-which are almost in contact; between the two prominences there is seen, beneath the
-integuments, the ink bag (Figs. C and R, iii). The glandular extremity of the oviduct
-projects between the left gill and the glandular prominence, behind which it sinks and
-opens obliquely (Fig. R, vii).
-The gills are situated quite laterally (Pl. IV. fig. 3, br”), less ventrally than in other
-Cephalopods. They are relatively small, and present about twenty-five pairs of leaflets.
-1 The remarkable radiating structure of the siphuncle of certain palæozoic Cephalopods is perhaps
-comparable to it.
-2 Munier-Chalmas, Sur le développement du phragmostracum des Céphalopodes et sur les rapports
-zoologiques des Ammonites avec les Spirules (Comptes rendus, t. lxxvii., 1873, p. 1559).
+1
+mantle which have overrun the shell. This union of the two primitive pallial nerves
+explains the origin of the “commissure” of the stellate ganglia, so well developed in all
+the Egopsids, already reduced in Loligo," and still more so in the adult Sepiola
+(better marked in the embryosº), and finally disappearing in the Sepiidæ and Octopods ;
+by the disappearance of the pallial siphon and the primitive mantle, the median nerve
+has been lost, the “commissure” not being then any longer carried forward by this nerve
+has not preserved its curvature, has become more posterior, and has passed into the
+mantle where it joins the two ganglia in a straight line.*
+Behind the stellate ganglia, the pallial nerves, preserving sensibly their diameter (Pl.
+V. figs. 1, 2, 6, f.n; Fig. N, iii), are directed posteriorly in running along the wall of
+the shell-sac, but, immediately on leaving the ganglia, they give rise to a thinner
+latero-ventral trunk (Pl. V. fig. 6), innervating the mantle, and to another much larger
+one, which arrives at the fins, where it expands by dividing to an extraordinary extent,
+without, however, presenting ganglionic swellings (Pl. V. fig. 6).
+Stomato-Gastric System.-In the Challenger specimen (the only one examined which
+was provided with a head), the “inferior buccal" ganglia, or stomato-gastric ganglia, have
+not been seen; they were apparently situated under the superficial muscular layer of the
+buccal bulb (as they are in some degree in certain Ommatostrephidæ). There can be
+no doubt of their existence; two parallel stomato-gastric nerves run along the ventral
+face of the csophagus and end in the large gastric ganglion (Pl. VI. figs. 2, 3, gł.).
+Sense Organs.—The olfactory pits, the otocysts, and the eyes are well developed.
+A. The olfactory pit is situated quite at the back of the ocular prominence, at
+the junction of the lateral and ventral faces of the head (Pl. I. fig. 6, ol. ; Pl. II, fig. 1,
+ol.). It is limited by a slightly elevated margin in the interior of which the bottom
+projects in the form of a papilla, the whole having thus the aspect of a “circumvallate
+papilla” of the tongue of mammals (Pl. VI. fig. 11)."
+B. The otocyst is situated between the wings of the “cranial" cartilage and the
+i For example, in Ommatostrephes (Hancock, op. cit.).
+2 Von Jhering, Vergleichende Anatomie des Nervensystemes und Phylogenie der Mollusken, p. 257, 1877.
+3 Joubin, Recherches sur la coloration du tégument chez les Céphalopodes (Arch. de Zool. Expér., sér.
+2, t. x. p. 306, 1894).
+4 The pallial nerves may then be joined to one another on the dorsal side of the digestive tube, as they are
+likewise in the Lamellibranchs, behind and at the back of the rectum ; this enables us to understand the supra-
+rectal commissure of the Amphineura (Chiton, &c.), in the identification of which were found certain difficulties
+(see especially Lang, Lehrbuch der Vergleichenden Anatomie, p. 711, 1892; Bouvier and Fischer, Recherches et
+considérations sur l'Asymétrie des Mollusques univalves (Journ. de Conchyl., t. xxxii. pp. 200, 201, 1892];
+Grobben, Zur Kenntniss der Morphologie, der Verwandtschaftsverhältnisse und des Systems der Mollusken
+[Sitzungsber. Akad. Wiss. Wien, Math. Naturw. Cl., Bd. ciii. p. 85, 1894]). It is only a junction like that of
+the pallial nerves and in no way homologous to the visceral commissure ; the Amphineura thus re-enter into
+the common plan of organisation of the Molluscs.
+6 The central prominence is probably the point of departure of the rhinophore in form of papilla of certain
+Egopsids (Chiroteuthis, Doratopsis).

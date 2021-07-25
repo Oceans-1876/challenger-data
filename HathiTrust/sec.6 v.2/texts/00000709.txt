@@ -1,104 +1,41 @@
-SUMMARY OF RESULTS.
-1127
-Oliva (Ispidula) australis.
-Patella kerguelensis.
-Philine aperta.
-Phos roseatus (3).
-Pleurotoma marmorata (3).
-(Surcula) tuberculata.
-(Typhlomangelia) fluctuosa.
-Puncturella noachina (3).
-sp. (?) (4).
-Purpura (Cronia) amygdala.
-Ranella margaritula.
-rana (5).
-„(Argobuccinum) pusilla (3).
-Ringicula pusilla (3).
-Rissoa (Alvania) trajectûs (5).
-Rissoina reticulata.
-triangularis (3).
-Scaliola arenosa (4).
-bella (5).
-caledonica (5).
-Stomatella (Gena) nigra.
-Strombus (Canarium) gibberulus.
-(Gallinula) campbellii (3).
-( ) columba.
-(
-) vittatus.
-Struthiolaria mirabilis.
-Terebellum punctatum.
-Terebra (Myurella) unlulata.
-Triton (Lagena) magellanicus.
-Trochus (Chrysostoma) paradoxus.
-(Euchelus) atratus (3).
-(Monodonta) labio.
-(Photinula) expansus.
-(Solariella) vitiligineus.
-Turbo smaragdus.
-(Senectus) chrysostomus (3).
-Turritella austrina.
-carlotta.
-cingulifera (4).
-fascialis.
-fastigiata.
-Utriculus amphizostus (3).
-planospira.
-simillimus (3)
-Vermetus cyclicus.
-Xenophora solarioides (3).
-Acanthopleura incuna.
-Platydoris eurychlamys.
-Loligo indica.
-kobiensis.
-Octopus granulatus.
-Sepia elliptica.
-Ætea anguina (5).
-Amathia spiralis.
-Bugula longissima.
-Caberea lata.
-Carbasea cribriformis (3).
-dissimilis.
-elegans.
-ovoidea.
-Catenicella hastata.
-Cellepora bicornis (3).
-bidenticulata.
-Cellularia quadrata.
-Chorizopora hyalina (3).
-Cribrilina monoceros (4).
-philomela.
-Crisia denticulata (5).
-Diachoris magellanica (3).
-Eschara gracilis.
-Escharoides occlusa.
-Flustra membraniporides.
-Haswellia australiensis.
-Hornera foliacea.
-Idmonea atlantica (3).
-australis.
-radians.
-Memoranipora crassimarginata.
-galeata (3)
-Menipea aculeata.
-benemunita (3)
-flagellifera (3)
-Mucronella pyriformis.
-tricuspis (3)
-Nellia oculata (5).
-Onchopora sinclairii.
-Retepora crassa.
-producta.
-simplex.
-victoriensis (3).
-Salicornaria clavata (6).
-malvinensis (6)
-variabilis (3)
-Schizoporella tenuis.
-trian pula.
-Smittia marsupialis.
-Magasella flexuosa.
-Terebratulina caput-serpentis.
-Aplidium fumigatum.
-Atopogaster elongata.
-)
+GENERAL OBSERVATIONS ON THE DISTRIBUTION OF MARINE
+ORGANISMS.
+********
+*20.00
+The Challenger observations seem to prove conclusively that life is distributed all over
+the floor of the ocean. At the very greatest depths no dredgings or trawlings have as yet
+been taken, but in the muds or clays brought up in the sounding tubes from these great
+deeps there were remains of Foraminifera and Sponges which apparently lived at these
+depths. It may be interesting here to recall a few of the results obtained in single
+hauls of the trawl or dredge at some of the deep-water stations, where the operations were
+regarded as successful. Without taking into consideration the Protozoa, we find that :-
+In 3125 fathoms (Station 253), on Red Clay with dredge, 20 specimens belonging to DistriBUTION OF
+LIFE ALL OVER
+10 species were obtained.
+THE FLOOR OF
+In 2900 fathoms (Station 244), on Red Clay with trawl, 70 specimens belonging to THE OCEAN.
+32 species were obtained.
+In 2600 fathoms (Station 160), on Red Clay with trawl, 50 specimens belonging to
+30 species were obtained.
+In 2300 fathoms (Station 241), on Red Clay with trawl, 100 specimens belonging to
+35 species were obtained.
+In 1950 fathoms (Station 157), on Diatom Ooze with trawl, 150 specimens belonging
+to 79 species were obtained.
+In 1850 fathoms (Station 106), on Globigerina Ooze with trawl, 100 specimens
+belonging to 38 species were obtained.
+In 1600 fathoms (Station 147), on Diatom Ooze with trawl, 200 specimens belonging
+to 89 species were obtained.
+In 1375 fathoms (Station 300), on Globigerina Ooze with trawl, 200 specimens
+belonging to 52 species were obtained.
+In 1100 fathoms (Station 168), on Blue Mud with trawl, 150 specimens belonging to
+44 species were obtained.
+In 700 fathoms (Station 169), on Blue Mud with trawl, 120 specimens belonging to
+70 species were obtained.
+In 600 fathoms (Station 320), on Blue Mud with trawl, 500 specimens belonging to
+127 species were obtained.
+In this enumeration a few of the Molluscs may have been described from their dead
+shells, but otherwise all the organisms referred to were alive on or near the floor of the
+ocean at the time of capture. These results clearly indicate a great abundance of life
+at all depths and on all the different varieties of deep-sea deposits.
+I.
+1

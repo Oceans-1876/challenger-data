@@ -1,180 +1,185 @@
-1514
+1518
 THE VOYAGE OF H.M.S. CHALLENGER.
-Hyphalaster,
-diadematus, 1123, 1285.
-hyalinus, 1058, 1278.
-inermis, 934, 1293.
-planus, 507, 1293.
-Hypobythius, 1451.
-calycodes, 969, 1192, 1280.
-moseleyi, 969, 1192, 1323.
-Hypoconcha,
-panamensis, 376, 1389.
-sabulosa, 170, 1389.
-Hypopeltarium, 1441.
-spinosulum, 1141, 1177, 1391,
+Lepidotrigla-continued.
+phalæna, 544, 1418.
+spiloptera, 731, 749, 1354, 1360,
+1418.
+Lepralia, 616, 617.
+castanea, 363, 378.
+celleporoides, 714, 1412.
+dorsiporosa, 714, 1412.
+feegeensis, 807, 1412.
+incisa, 398, !412.
+japonica, 910, 1412.
+lonchea, 861, 1412.
+margaritifera, 1179, 1412.
+marsupium, 1179, 1412.
+mucronata, 714.
+occlusa, 459, 714.
+tuberosa, 572, 1412.
+Leptasterias (see Asterias).
+Leptastræa,
+ehrenbergana, 1073, 1369.
+roissyana, 1073, 1369.
+solida, 1073, 1369.
+transversa, 1073, 1369.
+Leptocephalus, 157, 189, 770, 836, 895,
+1262, 1264, 1458.
+brevirostris, 1262.
+morrisii, 322.
+pellucidus, 153, 1262.
+tänia, 871.
+Leptochela,
+gracilis, 908, 1387.
+robusta, 539, 575, 1387, 1424.
+serratorbita, 169, 1387.
+Leptochiton,
+belknapi, 793, 1309.
+benthus, 948, 1287.
+kerguelensis, 475, 1409.
+Leptoclinum,
+albidum, 313, 415, 1415, 1428.
+grande, 313, 811,
+1415.
+annectens, 379, 1415.
+edwardsi, 4:23, 1353.
+jacksoni, 574, 1415.
+japonicum, 910, 1415.
+moseleyi, 833, 1415.
+neglectum, 1271, 1415.
+propinquum, 1162, 1353.
+rubicundum, 477, 1415.
+speciosum, 378, 1360, 1415.
+asperum, 379, 423,
+1353, 1415.
+subflavum, 477, 1415.
+tenue, 1153, 1162, 1192, 1323,
+1326, 1353, 1357, 1449.
+tonga, 629, 1415.
+Leptoconus (see Conus).
+Leptocotis,
+ambobus, 1093.
+inindanaonis, 835.
+var.
+Leucon, 1442, 1451.
+assimilis, 471, 1340.
+tenuirostris, 963, 1286.
+Leuconia,
+crucifera, 269, 1330
+dura, 201, 690, 1365, 1422.
+fruticosa,461,483,1330, 1357,1365.
+levis, 432, 1330.
+loricata, 554, 1365.
+multiformis, 809, 1422.
+var, amorpha, 201, 1365.
+var, capillata, 201, 1365.
+var. goliath, 201, 1365.
+ovata, 461, 1365.
+rudifera, 201, 1365.
+typica,
+var. massa, 201, 1365.
+var. tuba, 201, 1365.
+Leucorhynchia, 713, 1402.
+Leucosia,
+australiensis, 562, 1391.
+craniolaris, 725, 795, 909, 1391,
 1425.
-Hypopyxis, 1361.
-labrosa, 548, 1333.
-Hystrichaspis,
-cristata, 944.
-divaricata, 1017.
-dorsata, 1046.
-foveolata, 1231.
-fruticata, 1064.
-furcata, 1068.
-pectinata, 1261.
-serrata, 941.
-sulcata, 1207.
-Icosaspis-continued.
-icosastaura, 1024.
-ornata, 1108.
-spectabilis, 1221.
-tabulata, 958.
-Icotopus,
-arcurostris, 552.
-Idas,
-dalli, 174, 1344.
-Idia,
-pristis, 373, 784, 1373, 1422.
-Idiacanthus,
-ferox, 251, 1280.
-Idmonea, 1162.
-atlantica, 227, 398, 415, 476,
-1351, 1360, 1412, 1427, 1447.
-australis, 441, 573, 1412, 1427.
-eboracensis, 714, 1412.
-fissurata, 1192, 1323.
-irregularis, 276, 1351, 1449.
-marionensis, 441, 454, 491, 1192,
-1297, 1300, 1301, 1323, 1326,
-1327, 1351, 1360, 1412, 1449.
-milneana, 276, 441, 491, 1351,
-1357, 1360, 1412, 1447.
-radians, 628, 1000, 1412, 1427.
-Idothea, 137, 143, 403, 198, 851, 1174.
-baffini, 78.
-Iliacantha,
-intermedia, 377, 1391.
-Ilyanthopsis, 1429.
-longifilis, 240, 1367.
-Ilyarachna,
-quadrispinosa, 470, 1340.
-Ilyodæmon,
-maculatus, 747, 810, 864, 1337,
-1355, 1358, 1379.
-Inachus,
-leptochirus, 271, 1391.
-Inioteuthis,
-morsei, 910, 1410.
-Iolanthe, 1301.
-acanthonotus, 497, 1295.
-Iophon, 1451.
-abnormalis, 431, 1363.
-chelifer, 419, 431, 457, 1315,
-1325, 1329, 1355.
-cylindricus, 547, 1329.
-laminalis, 431, 1329.
-omnivorus, 547, 1329.
-pattersoni, 391, 1149, 1159, 1329,
-1355, 1448.
-Iphimedia,
-pacifica, 468, 485, 1340, 1356.
-pulchridentata, 490, 1385.
-Iphionella,
-cimex, 840, 843, 1319.
-Iphiteon, 122.
-Iphitus,
-tuberculatus, 178, 1347.
-Ipnops,
-murrayi, 367, 387, 772, 1287,
-1289, 1298, 1299.
-Ipomoea,
-pes capræ,
-851.
-Ischnochiton,
-boogii, 346, 1409.
-fruticosus, 571, 1409.
-longicymba, 571, 1409.
-viridulus, 413, 1409.
-Ischnosoma, 1451.
-bacilloides, 1135, 1307.
-bacillus, 520.
-spinosum, 282, 1307.
-thomsoni, 963, 1286.
-Isis, 807, 922.
-Isophyllia,
-aspera, 168, 1369.
-australis, 240, 1369.
-cylindrica, 241, 1369.
-dipsacea, 240, 1369.
-fragilis, 240, 1369.
-knoxi, 241, 1369.
-marginata, 241, 1369.
-strigosa, 210, 1369.
-Isops,
-pachydermata, 236, 1302.
-Ispidula (see Oliva).
-Isthmia,
-enervis, 481, 492, 760, 905.
-nervosa, 905, 939.
-Ixa,
-cylindrus,
-var, megaspis, 831, 1391.
-Ianthella,
-flabelliformis, 718, 1362.
-Ianthina, 117, 119, 142, 234, 254, 387,
-775, 871, 890, 980, 984, 987,
-1009, 1018, 1068, 1082, 1109,
-1202, 1203, 1232, 1264.
-exigua, 260, 267, 273, 283, 351,
-1297, 1300, 1301, 1309, 1311,
-1312, 1313, 1322, 1326, 1347.
-rotundata, 254, 267, 387, 1297,
-1300, 1301, 1309, 1314, 1447.
-Ibaccus, 811.
-alticrenatus, 594, 1341.
-brevipes, 747, 1341.
-verdi, 309,776, 1341, 1359, 1387.
-Ichthyaria,
-oculata, 1173, 1191, 1323, 1327,
-1412.
-Iciligorgia,
-orientalis, 691, 1366.
-Icilius,
-danæ, 532, 1385.
-Iconaster,
-longimanus, 118, 165.;
-Icosaspis,
-cruciata, 986, 988, 992, 1004,
-1006, 1008, 1013, 1017, 1019,
-1024, 1029, 1033, 1046, 1053,
-1057, 1062.
-elegans, 1237, 1239, 1251, 1255,
-1257, 1261, 1266, 1268.
-icosahedra, 950.
-Jaculella,
-acuta, 604, 956.
-obtusa, 165, 529,
-936.
-Jæra,
-pubescens, 470, 1386.
-Jæropsis,
-marionis, 437, 1340.
-Janira,
-abyssicola, 663, 1307.
-tristani, 394, 1340.
-Janira (see Pecten).
-Janolus, 1429.
-australis, 729, 1410.
-Japetella, 1327.
-prismatica, 369, 1323.
-Jeffreysia, 571, 1402, 1452.
-edwardiensis, 439, 1347.
-Julia,
-exquisita, 998, 1395.
-Julis,
-ascensionis, 1240, 1418.
-dorsalis, 659, 1418.
-obscura, 1001, 1418.
-.
+haswelli, 725, 820, 1391, 1425.
+ocellata, 725, 1391.
+whitei, 725, 1391.
+Leucosolenia,
+blanca,
+var. bathy bia, 269,
+challengeri, 690, 1365.
+lamarckii, 554, 1365.
+poterium, 547,554,1330,1357,1365.
+Leucothoë,
+findersi, 698, 1385.
+miersi, 421, 1340.
+tridens, 602, 1306.
+Leukoma (see Venus).
+Libinia,
+gracilipes, 1140, 1391.
+smithii, 1161, 1343.
+Lichenopora,
+fimbriata, 399, 1352.
+hispida,399, 1310,1323, 1352,1449.
+holdsworthii, 422, 1352.
+Lepto ius,
+exaratus,
+var. sanguineus, 831, 1391.
+punctatus, 310, 1391.
+Leptognathia,
+australis, 471, 1340.
+Leptogonaster, 1361.
+cristatus, 788, 1334.
+Leptogorgia,
+arbuscula, 1150, 1331.
+purpurea, 373, 1156, 1331, 1358,
+1366.
+torresia, 690, 1366.
+Leptograpsus,
+variegatus, 1120, 1391.
+Leptopenus,
+discus, 452, 507, 1123, 1198,
+1292, 1298.
+hypocælus, 1123, 1198, 1284.
+Leptopodia,
+sagittaria, 310, 359, 376, 1391,
+1425.
+Leptoptilum, 1327.
+gracile, 606, 1316.
+Leptoptychaster, 1450.
+antarcticus, 458, 1334.
+arcticus, 1313.
+elongata, 217, 224,
+1304, 1375.
+kerguelenensis, 433, 462, 1375,
+1423.
+Leptosphæra,
+ciliata, 1206.
+polygonalis, 986.
+reticulum, 1101.
+serrata, 1045.
+stellata, 1239.
+Lernæa,
+abyssicola, 299, 1286.
+hemiramphi, 309, 1384.
+Lernæonema, 842, 843.
+Lethrinus,
+hæmatopterus, 658, 1418.
+moensi, 658, 1418.
+nebulosus, 658, 715, 1418, 1428.
+ramak, 658, 1418.
+Leucetta,
+hæckeliana, 555, 1365.
+imperfecta, 554, 1365.
+vera, 461, 1365.
+Leucilla,
+connexiva, 809, 1365.
+uter, 201, 809, 1365, 1422.
+Leuciscus,
+hakuensis, 929, 1418.
+Leuckartia,
+flavicornis, 524, 575, 660, 852,
+1095, 1207, 1258, 1259, 1261,
+1266.
+scopularis, 992.
+var.
+Lichia,
+var.
+glauca, 313, 1240, 1262, 1418, 1428.
+Licmophora,
+australis, 442.
+californica, 442.
+jurgensii, 442.
+Lictorella,
+cyathifera, 667, 1333.
+halecioides, 693, 1373.
+Liljeborgia,
+æquabilis, 539, 1385.
+consanguinea, 469, 490, 1385, 1424
+haswelli, 539, 1385.
+Lima, 96, 509, 551, 1296.
+angulata, 565, 1396.
+australis, 579, 1344.

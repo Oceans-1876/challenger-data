@@ -1,59 +1,39 @@
-916
+918
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 234.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.-
-The following species are recorded from the surface at this
-Station
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Auloceros furcosus, Haeckel.
-Heliosphæra castanella, Haeckel.
-Sagoplegma pyramidophora, Haeckel.
-Sethoconus trochus, Haeckel.
-Medusetta quadrigata, Haeckel.
-Castanissa crosbiei, Haeckel.
-Theocampe cryptoprora, Haeckel.
-In addition, the following are recorded in the note-books from the surface and down
-to a depth of 60 fathoms :- Very many Noctiluca at the surface, nearly all with prey inside
-and more or less collapsed, unlike in this respect the quite spherical specimens taken
-while at anchor at Oosima ; Noctiluca was less abundant in the deep haul; Pyrocystis,
-very few at the surface, more abundant in deep haul; Peridinium tripos (in catena) and
-another species ; Diatoms (Coscinodiscus, &c.); Globigerina, Orbulina, Hastigerina ;
-Vorticella (on Diatoms) and other Infusoria ; Medusæ, Siphonophoræ, Ophiurid larvæ,
-Sagitta, Annelid larvæ, Planarian larvæ, Daphnia, Cypridina, Setella, Calanids, and
-other Copepods, Phronimids, Euphausia, Incifer, Crustacean and other eggs, Zoëæ, small
-Gasteropods and Lamellibranchs, Atlanta, Pteropods and larvæ, Appendicularia,
-Doliolum. The hauls from the surface appeared to indicate a mixture of shallow-water
-(neritic) and pelagic organisms, and the presence probably of brackish water, while the
-deeper haul was much more oceanic in character.
 STATION 235.
-Station 235 (Sounding 376), off Japan (see Chart 35).
-June 4, 1875; lat. 34° 7' N., long. 138° 0' E.
-Temperature of air at noon, 69°8; mean for the day, 69°:4.
-Temperature of water :-
-577
-Surface,
-25 fathoms,
-50
-75
-100
-73.0
-71.2
-66.4
-63.5
-60.5
-125 fathoms,
-150
-175
-200
-Bottom,
-54.7
-51.5
-480
-38.1
-Density at 60° F. at surface, 1.02557 ; bottom, 1.02560.
-Depth, 565 fathoms ; deposit, Green Mud, containing about 5 per cent. of carbonate
-of lime (sce Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 8.30 A. M. observed land about Cape Sima on the port quarter. At 4 P.M. stopped
-and sounded in 565 fathoms. Put over trawl, which came up at 7.30 P.M. with many
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophioglypha lapidaria, n.sp. Obtained at no other locality.
+Ophiomusium lymani, Wyville Thomson. For distribution see Station 45.
+Ophiopholis japonica. n.sp. Obtained also at Station 236, 420 to 775 fathoms.
+Amphiura acacia, n.sp. Obtained at no other locality.
+Ophiacantha scolopendrica, n.sp. [See Bull. Mus. Comp. Zoöl., vol. x. p. 259, 1883].
+Ophiomitra normani, n.sp. Obtained also at Stations 232 and 236. .
+Ophiomyces spathifer, n.sp. Obtained at no other locality.
+Astroceras pergamena, n.g., n.sp. Obtained at no other locality. Only species of
+the genus.
+1
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Phormosoma hoplacantha, Wyville Thomson, n.sp. Two specimens ; obtained also
+at Stations 1643 and 300.
+Echinus norvegicus, Düben and Koren. Obtained also at Stations 46, 47, 232, and
+308.
+HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
+Lætmogone spongiosa, n.g., n.sp. One specimen ; obtained at no other locality.
+Pælopatides (?) appendiculata, n.g., n.sp. Three specimens ; obtained at no
+other locality
+ANNELIDA (MʻIntosh, Zool. pt. 34).
+Lætmonice aphroditoides, n.sp. One specimen ; obtained at no other locality.
+Polynoëlla levisetosa, n.g., n.sp. One specimen ; obtained at no other locality.
+Only species of the genus.
+Hyalinecia tubicola, Müller. One specimen ; for distribution see Station VIII.
+CIRRIPEDIA (Hoek, Zool. pt. 25).
+Scalpellum japonicum, n. sp.
+One specimen ; obtained at no other locality.
+ISOPODA.
+One specimen, genus and species undetermined.
+MACRURA (Spence Bate, Zool. pt. 52).
+Benthesicymus altus, n.g., n.sp. Four specimens; for distribution see Station 133.
+Gennadas parvus, n.g., n.sp. One specimen ; for distribution see Station 45.
+Acanthephyra sica, n.sp. Two specimens ; for distribution see Station 40.
+Nematocarcinus tenuipes, n.sp. Six specimens ; obtained also at Stations 218 and 232.
+Notostomus japonicus, n.sp. One specimen ; obtained at no other locality.

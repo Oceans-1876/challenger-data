@@ -1,103 +1,112 @@
-1400
+1404
 THE VOYAGE OF H.M.S. CHALLENGER.
 *
-: 2
-lessium, n.sp.
-19
-var.
->>
-*
+T
+T
 T
 S
->
-92
-* Cerithiopsis, three species undetermined. * Columbella (Mitrella) albina, Kiener. T
-N
-( ) albomaculata,
-* Cerithium balteatum, Philippi. T
-Angas. S
-carbonarium, Philippi. N
-( ) australis, Gaskoin.
-columna, Sowerby. T
+T
+oödes, n.sp.
+oxia, n.sp.
+T
+T
+.)
+T
 S
-dubium, Sowerby. T
-(Pusiostoma) mendicaria
-T
-Linné. T
-novæhollandia, Adams. T
-(Zafra) troglodytes, Souver-
-phoxum, n.sp.
-T
-bie. T
-salebrosum, Sowerby. T
-five species undetermined. T
-tuberculatum, Linné,
-three species undetermined. S
-variegatum, Quoy. T * Cominella porcata (Gmelin). S
-vulgatum, Bruguière. S
-(Adamsia) typica, Dunker. S
-(Lampania) australe, Quoy * Conus (Cylinder) textile, Linné. T
-and Gaimard. S
-(Cylindrella) sulcatus, Hwass. T
-(Vertagus) articulatum,
-(Hermes) croceus, Smith.
-Adams and Reeve. T
-(Leptoconus) anemone, Lamarck. S
-) asperum (Linne).
-(
-) jukesië, Reeve.
-T
-) lizardensis, Crosse.
-( ) kochi, Philippi. T
-T
-( ) martinianum,
-(
-) nisus, Chemnitz. T
-Pfeiffer. T
-(
-) trigonus, Reeve. T
-( ) turritum, Sowerby.
-) vittatus, Hwass. T
-T
-(Lithoconus) eburneus, Hwass. T
-, ) n.sp. (?). T
-) quercinus, Hwass. T
+* Natica (Neverita) albumen (Linné). T * Oliva (Ispidula) australis, Duclos. T
+( ) conica, Lamarck. S (Olivella) fulgida, Reeve. T
+( ) didyma, Bolten. S
+( ) leucozona, Adams and
 three species undetermined. T
-(Puncticulis) arenatus, Hwass. T
-(
-) pulicarius, Hwass.
-* Cithara (?) sp.
-S
-* Cithna (?) sp.
-* Coralliophila wahlbergi (Krauss). S
-* Clathurella (Daphnella) aulacoëssa, * Crepidula aculeata (Gmelin). S N
-n.sp.
-T
-dilatata, Lamarck.
-* Cocculina angulata, n.sp. T
-fornicata (Linné). T
-* Columbella mercatoria (Linné). S T
-immersa (Angas). S
-rustica (Linné).
-TN
-onyx, Sowerby. S
-versicolor, Sowerby. N
-* Crossea striata, n.sp.
-T
-(Atilia) filosa, Angas. S * Cyclostrema, fourteen species undeter-
-) puella, Sowerby. S
-mined. T
-(Conidea) flava (Bruguière).
+Angas. S
+* Neobuccinum eatoni, Smith. S
+il ) nympha, Adams and
+vestitum (Martens). S
+Angas. s
+Nerita albicilla, Linné. T
+( ) pulchella, Duclos.
+ascensionis, Gmelin. T
 three species undetermined.
+chamæleon, Linne. T
+Parastrophia challengeri, n.sp.
+punctata, Quoy and Gaimard. S
+* Patella alticostata, Angas. s
+* Neritina sp. (?). T
+fuegiensis, Reeve. s
+* Odostomia convoluta, n.sp.
 T
-s
->
+granatina, Linné.
+corpulenta, n.sp.
+T
+kerguelensis, Smith. S
+kymatodes, n.sp.
+tramoserica, Martyn. S
+T
+* Phasianella pulla (Linné). N
+seven species undetermined.
+pupa, n.sp.
+T
+scopulorum, n.sp.
+* Philine angasi (Crosse).
+turrita, Hanley. TN
+aperta (Linné). TN
+(Parthenia) casta (Adams). S
+orientalis, Adams.
+) sp. (?) T
+quadrata (Wood). N
+(Syrnola) aciculina, Souver-
+three species undetermined.
+bie.
+two species undetermined.
+(Turbonilla?)amabæa, n.sp. T * Phos nodicostatus, Adams.
+(
+)dipsycha, n.sp. T
+roseatus, Hinds. T
+(
+)
+scalarioïdes, Adams. T
+incerta, nov.
+senticosus (Linné).
+) homæotata, n.sp.
+(Strongylocera) angulatus, Sower-
+T
+by. T
+(
+) rhabdoïdes, n.sp.
+(
+) sculptilis, Adams.
+T
+) scalpidens, n.sp. * Pisania (Cantharus) lineata (Gmelin). T
+S
+(
+) undosa (Linné). T
+(
+) seven species * Planaxis sulcata (Born).
+undetermined. * Pleurobranchus, two species undetermined.
+about twenty species unde-
+S
+termined.
+* Pleurotoma marmorata, Lamarck.
+* Oliva rufula, Duclos.
+monilifera (Pease). T
+(Galeola) picta, Reeve.
+speciosa, Reeve.
 *
-sp. (?). S
 T
+N
 T
 S
+T
+var.
+T
+99
+"
+T
+T
+T
+T
+T
+T
+T
 *
-*
-*
-(
+T

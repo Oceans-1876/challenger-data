@@ -1,38 +1,67 @@
-934
+936
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 237.
-Hyphalaster inermis, n.g., n.sp. Obtained at no other locality.
-Psilaster gracilis, n.g., n.sp. Obtained at no other locality.
-Brisinga armillata, n.sp. Obtained at no other locality.
-Freyella pennata, n.sp. Obtained at no other locality.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha orbiculata, n.sp. Obtained at no other locality.
-sculptilis, n.sp. Obtained at no other locality.
-Ophiomusium granosum, n.sp. Obtained at no other locality.
-Amphilepis tenuis, n.sp. Obtained at no other locality.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Phormosoma tenue, n.sp. Ten specimens ; obtained also at Stations 272 and 274,
-2600 and 2750 fathoms.
-HOLOTHURIOIDEA (Théel, Zool. pt. 39).
-Holothuria thomsoni, n.sp. Obtained also at Stations 158 (var.) and 244.
-CIRRIPEDIA (Hoek, Zool. pt. 25).
-Scalpellum vitreum, n.sp. One specimen ; obtained at no other locality.
-ISOPODA (Beddard, Zool. pt. 48).
-Eurycope fragilis, n.sp. Four specimens; obtained also at Stations 147, 152,
-and 158.
-SCHIZOPODA (Sars, Zool. pt. 37).
-Eucopia australis, Dana. Three specimens ; for distribution see Station 50.
-MACRURA (Spence Bate, Zool. pt. 52).
-Aristeus armatus, n.sp. One specimen ; obtained also at Stations 133, 184, 213,
-246, 276, and 323.
-Hepomadus glacialis, n.g., n.sp. One specimen ; obtained at no other locality.
-The only other species of the genus (Hepomadus inermis)
-was taken at Station 289.
-Gennadas
-parvus, n.g., n.sp. One specimen; for distribution see Station 45.
-Glyphocrangon rimapes, n.sp. One specimen; obtained also at Stations 300
-and 331.
-Nematocarcinus longirostris, n.sp. Ten specimens ; obtained at no other locality.
-proximatus, n.sp.
-One specimen ; obtained also at Stations 146,
-188, 300, and 302.
+Gonostoma microdon, n.sp. Eight specimens ; for distribution see Station 23.
+Bathysaurus mollis, n.g., n.sp. One specimen ; obtained also at Station 281,
+2385 fathoms.
+Notacanthus rissoanus, Filippi and Vérany. One specimen ; obtained at no
+other locality by the Challenger. Recorded from
+Mediterranean.
+Synaphobranchus bathybius, n.sp. Nine specimens ; obtained also at Stations 146
+and 246.
+In addition to the foregoing, the following are recorded in the Station-book :-
+Palythoa on shells with Pagurus, two species of Holothuria (only one given above),
+two Annelids, two Lernæans on Synaphobranchus, Cryptoniscus on Caridid shrimp,
+three cuttlefishes (only two given above).
+Excluding Protozoa, over 150 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 57 species, of which 45 are new to science,
+including representatives of 11 new genera ; 25 of the new species and 1 new genus
+were not obtained elsewhere.
+ORGANISMS FROM
+THE DEPOSIT.
+The following species of Foraminifera and Diatoms were observed in the deposit from
+this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.):-
+FORAMINIFERA (Brady, Zool. pt. 22). — The pelagic species, which make up about
+33 per cent. of carbonate of lime present in the deposit, are marked thus x.
+>
+)
+Biloculina depressa, d’Orbigny.
+var. murrhyna, Schwager.
+var. serrata, Brady.
+Spiroloculina tenuis (Czjzek).
+Miliolina insignis, Brady.
+tricarinata (d'Orbigny).
+trigonula (Lamarck).
+Ophthalmidium inconstans, Brady.
+Planispirina celata (Costa).
+sigmoilea, Brady.
+Cornuspira involvens, Reuss.
+Pelosina cylindrica, Brady.
+Storthosphæra (?) sp.
+Technitella legumen, Norman.
+melo, Norman.
+Bathysiphon filiformis, Sars.
+Psammosphæra fusca, Schulze.
+Jaculella obtusa, Brady.
+Hyperammina ramosa, Brady.
+subnodosa, Brady (3).
+Marsipella cylindrica, Brady.
+Rhabılammina abyssorum, Sars.
+linearis, Brady.
+Asche monella catenata (Norman).
+Rhizammina algæformis, Brady.
+Reophax allunca, Brady.
+cylindrica, Brady (?).
+dentuliniformis, Brady.
+difflugiformis, Brady.
+distans, Brady.
+guttifera, Brady.
+membranacea, Brady (?).
+nodulosa, Brady.
+pilulifera, Brady.
+scorpiurus, Montfort.
+spiculifera, Brady (?).
+Haplophragmium anceps, Brady.
+canariense (d'Orbigny).
+globigeriniforme (Parker and Jones).
+glomeratum, Brady.

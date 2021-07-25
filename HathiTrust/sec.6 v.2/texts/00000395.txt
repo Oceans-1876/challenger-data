@@ -1,106 +1,37 @@
 SUMMARY OF RESULTS.
-1131
-Planispirina contraria (d'Orbigny).
-Cornuspira involvens, Reuss.
-STATION 300.
-sp. (?).
-Pelosina sp. (?).
-Saccammina sphærica, Sars (?).
-Hyperammina elongata, Brady.
-ramosa, Brady.
-subnodosa, Brady.
-Marsipella cylindrica, Brady.
-Rhabdammina discreta, Brady.
-Aschemonella catenata (Norman) (?).
-Rhizammina algaformis, Brady.
-Reophax adunca, Brady.
-dentaliniformis, Brady.
-difflugiformis, Brady.
-distans, Brady.
-Haplophragmium agglutinans (d'Orbigny).
-fontinense, Terquem.
-globigerini forme (Parker and
-Jones).
-latidorsatum (Bornemann).
-rotulatum, Brady.
-Thurammina papillata, Drady.
-Hormosina carpenteri, Brady.
-globulifera, Brady.
-normani, Brady.
-Trochammina pauciloculata, Brady.
-Webbina clavata, Jones and Parker.
-Testularia agglutinans, d’Orbigny.
-concava (Karrer).
-quailrilatera, Schwager.
-Virgulina texturata, Brady.
-Bolivina decussata, Brady.
-punctata, d'Orbigny.
-tectilarioides, Reuss (?).
-Cassidulina crassa, d’Orbigny.
-subylobosa, Brady
-Ehrenbergina serrata, Reuss.
-Layena aspera, Reuss.
-desmophora, Rymer Jones.
-formosa, Schwager.
-globosa (Montagu).
-gracilis, Williamson.
-hispida, Reuss.
-lævis (Montagu).
-lineata (Williamson).
-longispina, Brady
-marginata (Walker and Boys).
-orbigyana (Seguenza).
-seminiformis, Schwager.
-seminuda, Brady.
-striata (d'Orbigny).
-sulcata (Walker and Jacob).
-torquata, Brady.
-trigono-marginata, Parker and Jones.
-truncata, Brady.
-sp. (?).
-sp (?).
-Verneuilina pygmæa (Egger).
-Bigenerina capreolus (d'Orbigny).
-robusta, Brady.
-Gaudryina pupoides, d'Orbigny.
-var, chilostoma, Reuss.
-Valvulina conica, Parker and Jones.
-Clavulina communis, d'Orbigny.
-Bulimina buchiana, d'Orbigny.
-elegantissima, d’Orbigny, var. seminua,
-Terquem.
-inflata, Seguenza.
-marginata, d'Orbigny.
-ovata, d’Orbigny.
-pupoides, d'Orbigny.
-pyrula, d'Orbigny.
-Virgulina schreibersiana, Czjzek.
-subdepressa, Brady.
-subsquamosa, Egger.
-Nodosaria communis, d'Orbigny.
-consobrina, d'Orbigny.
-farcimen (Soldani).
-hispida, d'Orbigny, var. sublineata, Brady.
-inflexa, Reuss.
-(Glanolulina) lævigata, d'Orbigny.
-mucronata, Neugeboren.
-plebeia (Reuss).
-raphanus (Linné).
-verruculosa, Neugeboren.
-sp. (1).
-Marginulina glabra, d'Orbigny.
-Cristellaria convergens, Bornemann.
-crepidula (Fichtel and Moll).
-Polymorphina anguta, Egger.
-longicollis, Brady.
-Uvigerina aculeata, d’Orbigny.
-angulosa, Williamson.
-var. spinipes, Brady.
-asperula, Czjzek.
-var. ampullacea, Brady.
-brunnensis, Karrer ().
-canariensis, d'Orbigny.
-interrupta, Brady.
-9
-9)
-99
+1135
+STATION 302.
+OSTRACODA (Brady, Zool. pt. 3).
+Cythere dictyon, n.sp. For distribution see Station 24.
+acanthoderma, n.sp.
+For distribution see Station 64.
+dasyderma, n.sp.
+For distribution see Station 5.
+Krithe producta, n.sp.
+For distribution see Station 70
+Cytheropteron mucronalatum, n.sp. For distribution see Station 70.
+CIRRIPEDIA (Hoek, Zool. pt. 25).
+Scalpellum minutum, n.sp. Three specimens attached to a manganese nodule ;
+obtained at no other locality.
+ISOPODA (Beddard, Zool. pt. 48).
+Ischnosoma bacilloides, n.sp. One specimen ; obtained at no other locality.
+Acanthocope acutispina, n.g., n.sp. One specimen ; obtained at no other locality.
+MACRURA (Spence Bate, Zool. pt. 52).
+Nematocarcinus proscimatus, n.sp. Three specimens ; obtained also at Stations 146,
+188, 237, and 300.
+ANOMURA (Henderson, Zool. pt. 69).
+Munidopsis subsquamosa, n.sp., var. aculeata, nov. One specimen ; the species
+obtained also at Stations 146 and 237.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Amussium meridionale, n.sp. Three specimens and single valves ; obtained also at
+Stations 146 and 158.
+BRACHIOPODA (Davidson, Zool. pt. 1).
+Terebratula wyvillii, n.sp. Obtained also at Stations 160, 184, 244, 299, and 317.
+In addition to the foregoing, the following are recorded in the Station-book :-Many
+specimens of Stephanoscyphus on manganese nodules, small Actinian attached to a
+manganese nodule and covered with Foraminifera, fragments of Pourtalesia (?), small
+fragments of Nemertine, several Serpula attached to manganese nodules, blind Amphipod
+with long slender body and limbs, and an empty Gasteropod shell.
+Excluding Protozoa, nearly 100 specimens of invertebrates were obtained at this
+Station, belonging to about 25 species, of which 16 are new to science, including repre-
+sentatives of 4 new genera ; 5 of the new species were not obtained elsewhere.

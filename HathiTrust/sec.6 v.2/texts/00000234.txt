@@ -1,47 +1,107 @@
-988
-THE VOYAGE OF H.M.S. CHALLENGER,
-STATION 257.
-At 11 A.M. got up steam.
-At 11.30 A.M. shortened and furled sails. At noon
-proceeded under steam. At 1 P.M. sounded in 2875 fathoms. The valves of the
-sounding-tube had become jammed, and consequently did not open on reaching the
-bottom, but the tube had sunk two feet into the deposit and was streaked with clay,
-and sufficient was scraped off to indicate the nature of the deposit. Obtained serial
-temperatures down to 1500 fathoms. At 4 P.M. completed temperatures, and at
-4.15 P.M. made all plain sail. Albatrosses became less numerous; one was caught.
-Several boatswain birds were seen flying high.
-East point of Oahu Island, Sandwich Islands, distant at noon, 402 miles. Made
-good 89 miles. Amount of current 15 miles, direction S. 45° W.
->
-.
-.
-.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms. The following species are recorded from the surface at this
-Station :
-MACRURA (Spence Bate, Zool. pt. 52).
-Sergestes oculatus, Krøyer.
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Coscinaspis stigmopora, Haeckel.
-Icosaspis cruciata, Haeckel.
-Sethoconus trochus, Haeckel.
-Theocampe cryptoprora, Haeckel.
-Fishes (Günther, Zool. pt. 78).
-Thyrsites prometheus, C.V.
-COPEPODA (Brady, Zool. pt. 23).
-Hemicalanus aculeatus, n.sp.
-3
-Most of the organisms noted at the previous Station were taken at the surface ;
-Hastigerina was not, however, noticed. A haul of the tow-net from 500 fathoms
-brought up Globigerina, Orbulina, Fulvinulina, Phæodaria and other Radiolaria not
-usually observed at the surface, many specimens of Cypridina, Euphausia, and Sergestes,
-as well as masses of Diatoms apparently different from those previously seen on the high
-seas, Pyrocystis, Peridinium, and small Infusoria. Many of the specimens of Pyrocystis
-were in a state of division, an outer sphere frequently containing two perfectly-separated
-individuals.
+990
+THE VOYAGE OF H.M.S. CHALLENGER.
+1
 STATION 258.
-Station 258 (Sounding 400), Yokohama to Sandwich Islands (see Chart 36 and
+larvæ of Chirodota, Sagitta, Aphroditacean and other Annelid larvæ, Cypridina, Setella,
+Euphausia, Sergestes, small Lamellibranchs and other Molluscs, Atlanta, Pteropods,
+Appendicularia, and Doliolum. One specimen of Pulvinulina menardii was observed
+with a large floating apparatus extended and with much yellow sarcodic matter outside
+the shell. A good many larvæ of Chirodota, Aphroditacean and other Annelid larvæ,
+and small Lamellibranchs and other larval shells were observed, all of which had not
+been noticed at the surface for some weeks.
+STATION 259.
+Station 259 (Sounding 401), Yokohama to Sandwich Islands (see Chart 36 and
 Diagram 19).
-July 24, 1875 ; lat. 26° 11' N., long. 155° 12' W.
-Temperature of air at noon, 77°•5 ; mean for the day, 75°•3.
+July 26, 1875; lat. 23° 3' N., long. 156° 6' W.
+Temperature of air at noon, 80°:0; mean for the day, 76°:4.
+Temperature of water :-
+40.5
+>
+Surface,
+25 fathoms,
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+300
+77.0
+75.6
+72.7
+695
+64.5
+59.2
+55.0
+51.5
+48.8
+46.5
+45.0
+43.8
+42.9
+400 fathoms,
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+39:3
+38.6
+37.9
+37.4
+36.9
+36.5
+36-2
+35.9
+35.6
+35:3
+35.0
+34.9
+99
+Density at 60° F. :-
+Surface,
+25 fathoms,
+50
+100
+200
+.
+1.02574
+1.02550
+1.02571
+. 1.02572
+. 1.02527
+300 fathoms,
+400
+800
+2150
+Bottom,
+. 1.02529
+. 1.02529
+. 1.02523
+1:02550
+1.02577
+1
+.
+.
+9
+.
+99
+.
+Depth, 2225 fathoms; deposit, Red Clay, containing only a trace of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+.
+At 4.30 A.M. furled sails and proceeded under steam to sound. At 5 A.M. sounded
+in 2225 fathoms. Obtained serial temperatures down to 1500 fathoms. At 1 P.M.
+completed temperatures and proceeded. Boatswain birds, turnstones, other small birds
+like turnstones, and a large petrel-like bird were seen about the ship.

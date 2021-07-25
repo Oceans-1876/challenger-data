@@ -1,112 +1,97 @@
-1308
+1312
 THE VOYAGE OF H.M.S. CHALLENGER.
-N
-T
-T
-S
-S
-sp. (?). N
-S
-N
-T
-T
-N
-Ethusa (Ethusina) gracilipes, n.sp., * Neara obesa, Lovén.
-var. robusta, nov.
-wollastonii, n.sp.
-N
-* Nucula reticulata, Jeffreys. N
-* Pecten murray, n.sp.
-PYCNOGONIDA :
-* Ascorhynchus glaber, n.sp.
-pudicus, n.sp.
-S
-Colossendeis gigas, 1.sp.
-s
-Semele (Abra) profundorum, n.sp. TN
-gracilis, n.si
-s
-* Teredo sp. (?). T
-leptorhynchus, n.sp.
-S Venus (Chamelæa) mesodesma, Quoy
-minuta, n.sp.
-N
-and Gaimard. S
-S
-* Verticordia quadrata, n.sp.
-N
-* Nymphon compactum, n.sp.
-hamatum, n.sp.
-s
-longico.ca, n.sp.
-SCAPHOPODA AND GASTEROPODA :
-* Actæon amabilis, n.sp.
-N
-LAMELLIBRANCHIATA :
-globulinus (Forbes). N
-Amussium cancellatum, n.sp. Τ Ν
-(Acteonina) chariis, n.sp. N
-lucidum (Jeffreys). Τ Ν
-meridionale, n.sp.
-* Addisonia excentrica (Tiberi). N
-propinquum, n.sp.
-Aporrhais, n.sp. (?).
-watsoni, n.sp.
-* Basilissa munda, n.g., n.sp.
-Arca (Barbatia) corpulenta, n.sp. S T
-superba, n.g., n.sp.
-T
-( ) pteroessa, n.sp.
-Τ Ν * Bellerophina sp. (?). N
-* Callocardia (?) atlantica, n.sp. N
-* Buccinum (?) aquilarum, n.sp.
-Cryptodon crouilinensis (Jeffreys). N
-Bulla semilevis, Seguenza. N
-luzonicus, n.sp.
-T
-Cadulus gracilis, Jeffreys. N
-* Dacrydium vitreum (Möller). N
-tumidosus, Jeffreys.
-Ervilia castanea (Montagu). N * Cæcum sp. (?). N
-* Leda con finis, n.sp.
-N
+Amphiura roncolor.
+otteri.
+Ophiarantha cosmica.
+Ophiactis poa.
+Ophiogeron elentulus.
+Ophioglypha jejuna.
+lepida.
+merilionalis.
+Ophiomitra plicata.
+Ophiomusium lymani.
+Ophiozona stellata.
+Asthenosoma gracile.
+Brissopsis luzonica.
+Echinus acutus.
+norvegicus.
+Phormosoma hoplacantha.
+luculentum.
+Pourtalesia layuncula.
+Prionechinus sagittiger.
+Salenia hastigeru.
+Holothuria lactea.
+Trochostoma albicans.
+Aricia norvegica.
+Lætmonice prodlucta.
+Leanira hystricis.
+Bairdia victiix.
+Cythere acanthoilerma.
+dasyderma.
+dictyon.
+Krithe producta.
+Scalpellum acutum.
+velutinum.
+Cystisoma spinosum.
+Acanthomunna proteus.
+Serolis bromleyana.
+Gnathophausia zoëa.
+Acanthephyra sica.
+Benthesicymus altus.
+Gennalas parvus.
+Nematocarcinus tenuipes.
+Oplophorus typus.
+Pentacheles lævis.
+Polycheles helleri.
+Munidopsis brevimana.
+Ethusa (Ethusina) gracilipes.
+Amussium lucidum.
+Cryptolon croulinensis.
+Lima (Limatula) confusa.
 Cassis sp. (?).
-N
-jeffreysi, Hidalgo. Τ Ν
-three species, fry. N
-Lima multicostata, Sowerby. S TN Cithna tenella (Jeffreys). TN
-(Limatula) confusa, n.sp.
-Τ Ν
-* Clathurella cala, n.sp.
-s
-( ) subovata, Jeffreys. N
-chariessa, n.sp.
-Τ Ν
-( ) sp. (?).
-chyta, n.sp.
-N
-Limopsis aurita (Brocchi). Τ Ν
-formosa (Jeffreys). TN
-* Lucina (Codakia) tigerina (Linné). N
-streptophora, n.sp.
-* Malletia obtusa, Sars. N
-two species undetermined. N
-* Montacuta cylindracea, n.sp. N
-* Clionella quadruplex, n.sp. N
-* Myrina coppingeri, n.sp.
-* Columbella sp. (?). N
-* Neæra azorica, n.sp.
-Cylichna ovata, Jeffreys. TN
-circinata, Jeffreys. N
-Dentalium acutissimum, n.sp.
-Τ Ν
-N
->
-N
-9
-2
-S
-N
-9
-T
-N
+Cithna tenella.
+Dentalium subterfissum.
+Lunthina eriyua.
+Natica sp. (?).
+Seguenzia carinata.
+monocingulata
+Farciminaria hexagona.
+Antimora rostrata.
+Gonostoma microdon.
+Melamphaës crassicep8.
+Sternoptyu diaphana.
+The following 102 species (or 45 per cent.) were taken in the zone between 100 and
+500 fathoms :-
+Phahellia ventilabrum.
+Azorica pfeifferæ.
+Thenea schmidtii.
+Aphrocallistes bocayei.
+Aulocalyją irregularis.
+Dactylocalyx patella.
+Lefroyella decora.
+Bathyactis symmetrica.
+Caryophyllia communis.
+Deltocyathus italicus.
+Solenosmilia variabilis.
+Pentacrinus naresianus.
+Pararchaster armatus.
+Amphilepis norvegica.
+Ophiacantha cosmica.
+Ophiocten amitinum.
+Ophioglypha jejuna.
+lepida.
+variabilis.
+Ophiomastus tegulitius.
+Ophiomitra chelys.
+Asthenosoma gracile.
+Brissopsis luzonica.
+Echinus acutus.
+elegans.
+norvegicus.
+Phormosoma bursarium.
+hoplacantha.
+luculentum.
+Pourtalesia laguncula.
+Prionechinus sagittiyer.
+Salenia hastigera.
+7

@@ -1,87 +1,67 @@
 SUMMARY OF RESULTS.
-1259
-STATION 350.
-Doliolum sp., (blastozooid).
-FISHES (Günther, Zool. pt. 78).
-Salpa democratica - mucronata, Trigla macrodactylus, n.sp.
-Forskål.
-Young Pleuronectids.
-The tow-net procured the same things as at the last two Stations, Foraminifera being
-very abundant.
-Station 351 (Sounding 501), Ascension Island to St. Vincent (see Chart 12).
-STATION 351,
-April 12, 1876 ; lat. 9° 9' N., long. 16° 41' W.
-Temperature of air at noon, 82°:5; mean for the day, 80°:8.
-Temperature of water :-
-550
-99
-Surface, .
-10 fathoms,
-20
-30
-40
-50
-60
-70
-80
-90
-100
-81.8
-79.8
-66.0
-62:1
-60-7
-59.8
-59:1
-58.2
-57.4
-56.5
-55.8
-110 fathoms,
-120
-130
-140
-150
-160
-170
-180
-190
-200
-54.2
-53:4
-52.6
-51.8
-51:0
-50.2
-49.4
-48.7
-48.0
-9
-Density at 60° F. :-
-Surface, .
-25 fathoms,
-50
-. 1.02653
-1.02637
-1:02643
-100 fathoms,
-200
-300
-1:02620
-. 1.02606
-· 1:02582
-At 1.40 P.M. stopped and took a series of temperatures down to 200 fathoms, about
-30 miles from the 100-fathom line. At 2.30 P.M. proceeded.
-Cape Verde distant at noon, 348 miles ; Porto Praya, St. Iago, 538 miles. Made
-good 127 miles. Amount of current 5 miles, direction N.
-Surface Organisms.—The following species are recorded from the surface at this ORGANISMS FROM
-SURFACE-NETS.
-Station :-
+1263
+The following species are recorded from the surface between the Cape Verdes and April 26 to 29,
+1876.
+Station 353 (April 26 to 29) :
 COPEPODA (Brady, Zool. pt. 23).
-Scolecithriz dana (Lubbock).
-Calanus gracilis, Dana.
-Euchæta prestandreæ, Philippi.
-Eucalanus attenuatus (Dana).
-Leuckartia flavicornis, Claus.
+PELAGIC HEMIPTERA (White, Zool. pt. 19).
+Calanus valgus, n.sp.
+Halobates wüllerstorfi, Frauenfeld.
 Undina vulgaris, Dana.
-Temora dubia (Lubbock).
+Scolecithrix danæ (Lubbock).
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Euchæta prestandreæ, Philippi.
+Tremoctopus quotJanus (d'Orbigny),
+Candace pachydactyla, Dana.
+Steenstrup:
+Pontella acutifrons (Dana).
+Spirula peronii, Lamarck, (dead
+strenua (Dana).
+shells).
+Saphirina ovalis, Dana.
+Ommastrephes sp. (?).
+gemma, Dana.
+Saphirinella stylifera (Lubbock).
+CIRRIPEDIA (Hoek, Zool. pt. 25).
+Lepas pectinata, Spengler.
+TUNICATA (Herdman, Zool. pt. 76).
+Doliolum denticulatum, Quoy and
+Gaimard.
+ehrenbergi, Krohn.
+Salpa cordiformis-zonaria, Quoy
+and Gaimard - Pallas.
+cylindrica, Cuvier.
+runcinata fusiformis,
+Chamisso-Cuvier.
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Phrosina semilunata, Risso.
+Platyscelus armatus (Claus).
+serratulus, n.n.
+Hemityphis tenuimanus, Claus.
+Tetrathyrus forcipatus, Claus.
+Thyropus sphæroma (Claus).
+Eupronoë atlantica, n.sp.
+Tryphana boecki, n.sp.
+SCHIZOPODA (Sars, Zool. pt. 37).
+Euphausia pellucida, Dana.
+Nematoscelis microps, n.g., n.sp.
+Stylocheiron abbreviatum, n.g., n.sp.
+Siriella thompsoni (M.-Edwards).
+FISHES (Günther, Zool. pts. 57 and 78).
+Astronesthes niger, Rich.
+Coryphæna hippurus, (young).
+equisetis, (young).
+Scopelus caninianus (C.V.).
+coccoi (Cocco).
+Scombresox saurus, (young).
+Exocoetus obtusirostris, Günther.
+ecolans, Linné.
+rondeletii, C.V.
+!
+The tow-nets procured the following :-Peridinium, Pyrocystis, Ethmodiscus,
+Coscinodiscus, and other Diatoms, Globigerina, Orbulina, Pullenia, Sphæroidina,
+Pulvinulina, Acanthometræ, compound and other Radiolaria, Medusæ, Diphyes,
+Agalmopsis, Velella, and other Siphonophoræ, Echinoderm larvæ, Sagitta (some with
+Distomum), Annelid larvæ, Sipunculid larvæ, Evadne, Copilia, Saphirina, and other
+Copepods, Cypris stage of Lepas, Hyperids, Isopods, young Euphausiæ, Lucifer,
+Phyllosoma, Sergestes and larvæ, Zoëæ, Megalopæ, Halobates, larval Lamellibranchs,

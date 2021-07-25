@@ -1,44 +1,41 @@
-26
-THE VOYAGE OF H.M.S. CHALLENGER,
-Oceans.
-Guinea five observations give a mean specific gravity of 1.0245.
-It is scarcely
-necessary to remark that these still point to the influence of the Mediterranean.
-The temperature relations of the South Atlantic and the Pacific are unchanged. In
-the North Pacific ten observations give a mean specific gravity of 1.0255, and in the
-South Pacific fifteen observations also give a mean of 1.0255, which very well accords
-with the equable distribution of temperature over this ocean. The region of the low
-temperature to the north-east of Australia is only half a degree lower than surrounding
-temperatures.
-Depth of 900 Fathoms (Map 11).—The mean temperature at this depth is 36°8,
-having fallen half a degree from 800 fathoms. The highest temperature, 42°, is still to
-westward of Gibraltar, from which the temperature steadily falls westwards in the same
-manner as at the depths of 500, 600, 700, and 800 fathoms, but only to the extent
-of 2 In the South Atlantic temperatures are relatively higher, and in the Pacific
-there is a tendency towards an equalised temperature more than in any of the other
-The high specific gravities of 1.0269 and 1.0264 were observed to the west
-and south-west of Gibraltar, which are not approached anywhere else, the highest of
-the thirteen observed between lat. 10° N. and 10° S. being 1.0259 and the mean 1.0256.
-It
-may be added that a specific gravity of 1.0271 has been recorded to the north-
-east of the Galapagos Islands in the region of the highest temperature of the Pacific at
-this depth.
-Depth of 1000 Fathoms (Map 12). —From 900 to 1000 fathoms the mean
-temperature has only dropped 0°:3, being now 36º5. The distribution of temperatures
-and specific gravities continues much the same over the oceans, the North Atlantic,
-looked at as a whole, showing the highest temperature, then follow in order the South
-Atlantic, the South Pacific, and finally the North Pacific.
-There is still a trace seen of the influence of the Mediterranean. With respect to
-the high temperatures, so marked a feature of this part of the ocean from 500 to
-1000 fathoms, it is to be remarked that they are not part and parcel of any great
-surface oceanic current, but simply an illustration of a slow vast movement of the waters
-of the ocean wholly due to differences of specific gravity of these waters.
-Depth of 1500 Fathoms (Map 13). — From 1000 to 1500 fathoms temperature has
-fallen 1°-2, the mean being 35°3, The highest temperatures are :-- In the North Atlantic,
-38° ; South Atlantic, 37°.5 ; North Pacific, 36°:5; and South Pacific, 36°; there being now
-only 2° between the highest and lowest of these. A noticeable feature is that the North
-and South Atlantic have now nearly the same temperature. The western half of
-the Atlantic, from lat. 10° N. southwards, has a temperature decidedly lower than the
-eastern half.
-But while the mean fall of the temperature of the whole ocean is only 1°•2, it is
-larger in the Atlantic. Thus averaging all the observations, the means of the North
+30
+THE VOYAGE OF H.M.S. CHALLENGER.
+throws into the Atlantic a body of water much salter, and therefore, even after allowing
+for temperature, much denser, than the water of that ocean,
+At 200 fathoms to the east of the Strait the temperature is 55°, from which, on
+proceeding eastwards, it gradually rises to 57° about long. 20° E. and to 58° in the
+Levant.
+To the east of the Strait the specific gravity is now 1.0287, while a little to
+the west in the Atlantic it is 1.0268 ; in the Levant the specific gravity is 1·0290. At
+300 fathoms, and down to the bottom of the sea, the temperature of the western basin
+is 55°-5 and of the eastern basin 56°5; the mean specific gravity is 1•0290, calculated
+from the numerous observations made in the eastern basin by the “Pola” Expeditions in
+1890-92. From the few deep-sea observations made of specific gravities in the western
+basin, it is probable that the mean there is about 1.0286. The greatest depth observed
+by the “Pola” was 4400 metres, or 2406 fathoms, in lat. 35° 45' N. and long. 21° 46' E.,
+the temperature at that depth being 56°:3 and the specific gravity 1.0295. The above
+temperature is fully 20° higher than in the open ocean at that depth, and is closely
+approximate to the temperature of the Atlantic adjoining the Strait of Gibraltar at the
+depth of the ridge separating the two seas, or nearly 200 fathoms.
+Owing to the great specific gravity of this warm undercurrent from the Mediterranean,
+it gradually sinks on entering the Atlantic, but its effect in heating the waters of
+this ocean over any considerable extent only becomes clearly apparent at the depth
+of 500 fathoms. Beyond this depth, its great influence is felt over nearly the whole
+breadth of the Atlantic to at least about 1000 fathoms. Periodical surveys of the
+Mediterranean would serve many important objects; thus, if made every five
+years,
+it
+would soon be shown whether the outflow of the Gibraltar undercurrent of such high
+specific gravity is attended with any diminution of the salinity of this sea. It is
+therefore not winds and currents, but different specific gravities and different levels,
+which rule the interchanges of the waters of this sea.
+The Red Sea.
+The mean annual temperature of the surface waters near the head of the sea is 77º;
+it rises to 80° about lat. 22° N., to 84° in lat. 16° N., and then drops down to 82° at the
+Straits. The isothermal of 80° is in long. 50° E.
+At the Strait of Bab-el-Mandeb the specific gravity is 1.0275, which quickly increases
+on advancing northward to 1.0280, 1.0285, 1.0290, 1.0295, 1.0300, 1.0305, and near
+Suez to 1.031. These specific gravities are caused by the rapid evaporation which takes
+place on account of the great heat, dryness, and rainless character of the climate of this
+arm of the sea.
+At 100 fathoms the temperature near the north end of the sea is 65°, from which

@@ -1,79 +1,101 @@
-866
+868
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 219.
-Nematops microstoma, n.g., n.sp. Obtained at no other locality. Only species
-of the genus.
-Echeneis albescens, Schleg. Obtained at no other locality by the Challenger.
-The Station-book records also an Aphroditacean.
-Excluding Protozoa, over 100 specimens of invertebrates and fishes were obtained
-at this Station, belonging to 57 species, of which 35 are new to science, including
-representatives of 10 new genera; 26 of the new species and 5 new genera were not
-obtained elsewhere.
+STATION 220.
 ORGANISMS FROM
 THE DEPOSIT.
-PTEROPODA (Pelseneer, Zool. pt. 65).—The following species of Pteropoda were
-observed in the deposit from this Station :
-Limacina inflata (d'Orbigny).
-trochiformis (d'Orbigny).
-bulimoides (d'Orbigny).
-Clio (Creseis) virgula (Rang).
-( ) conica (Eschscholtz).
-( ) acicula (Rang).
-(Hyalocylix) striata (Rang).
-(Styliola) subula, (Quoy and Gaimard).
-Clio pyramidata, Linné.
-Cavolinia quadridentata (Lesueur).
-trispinosa (Lesueur), young (= Cleodora
-compressa, Souleyet).
-longirostris (Lesueur), young (= Hyalæa
-lævigata, d'Orbigny).
-inflexa (Lesueur), young (= Hyalæa
-depressa, d'Orbigny).
->
-92
+RADIOLARIA (Haeckel, Zool. pt. 40).—The following species of Radiolaria were observed
+in the deposit from this Station (see also Murray and Renard, Deep-Sea Deposits
+Chall. Exp.) :-
+Cladococcus stalactites, Haeckel.
+Alacorys bismarckii, Haeckel.
+Coccodiscus lamarckii, Haeckel.
+Eucyrtidium ehrenbergii, Haeckel.
+Sethamphora microstoma, Haeckel.
+Siphocampe qualrantalis, Haeckel.
+Podocyrtis divergens, Haeckel.
 ORGANISMS FROM
 SURFACE-NETS.
-Surface Organisms.—The following are recorded in the note-books from the
-surface :-Pyrocystis, Globigerina, Radiolaria, Medusa, Siphonophoræ, Sagitta,
-Cypridina, Copilia and other Copepods, larval Cirripeds, Mysids, Zoëæ, Pteropods,
-Appendicularia, Doliolum, Ascidian larvæ, and fish eggs.
-Station 220.
-Station 220 (Sounding 358), Admiralty Islands to Yokohama (see Chart 31 and
+Surface Organisms.-The following are recorded in the note-books from the surface
+at this Station :
+Pyrocystis, Diatoms, Globigerina, Orbulina, Medusæ, Diphyes and other Siphonophora,
+Echinoderm larvæ, Sagitta, Alciopa, Aphroditacean and tubicolous Annelid larvæ, Copilia,
+Saphirina, and other Copepods, Hyperia, Oxycephalus, Caprella (probably from the
+ship's side), Schizopods, Lucifer, Zoëæ, Atlanta, Firoloida, Pterotrachea, Pteropods,
+Appendicularia, Salpa, Doliolum, young of sword-fish and other small fishes.
+STATION 221.
+Station 221 (Sounding 359), Admiralty Islands to Yokohama (see Chart 31 and
 Diagram 16).
-March 11, 1875 ; lat. 0°42' S., long. 147° 0' E.
-Temperature of air at noon, 80°:3 ; mean for the day, 80°.1.
+March 13, 1875; lat. 0° 48' N., long. 148° 41' E.
+Temperature of air at noon, 839:0; mean for the day, 81°:9.
 Temperature of water:-
-O
-o
 Surface,
-50 fathoms,
+10 fathoms,
+20
+30
+40
+50
+60
+70
+80
+90
 100
+110
+120
+130
+140
 150
+160
+170
+83:8
+83.0
+82:8
+82:4
+82.0
+81.5
+81.0
+80.4
+78.5
+75.0
+71.2
+67.2
+63.2
+59.4
+55.6
+53:1
+51.8
+51.2
+180 fathoms,
+190
 200
-250
 300
-350
-83.8
-81.6
-77.1
-64.0
-52:0
-48.5
-46.2
-44:6
-400 fathoms,
+400
 500
 600
 700
 800
 900
 1000
+1125
+1225
+1325
+1425
+1525
 Bottom,
-43:1
-41:0
-39.7
-39.0
-38.2
-37.5
-36.8
-36.2
+50.6
+50.2
+49.9
+48.3
+44.2
+41:3
+39.8
+38.6
+37.8
+37.1
+36:7
+36:3
+36.0
+35.7
+35.4
+35.4
+35:4
+9)

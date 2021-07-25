@@ -1,57 +1,71 @@
-978
+980
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 253.
-Density at 60° F. :-
-.
-Surface,
-25 fathoms,
-50
-100
-200
-1.02536
-. 1.02504
-. 1.02502
-1.02534
-. 1.02517
-300 fathoms,
-400
-800
-3000
-Bottom,
-1.02517
-. 1.02537
-. 1.02524
-102578
-. 1.02569
-Depth, 3125 fathoms ; deposit, Red Clay, containing only a trace of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-.
-At 4.35 A.M. stopped and sounded in 3125 fathoms. At 6 A.M. put over small dredge
-with swabs and tow-nets at the dredge and weights. At 9 A.M. obtained serial
-temperatures down to 1500 fathoms. The carbonic acid was determined in water from
-400, 800, 2990, and 3090 fathoms, and amounted respectively to 39.7, 23.8, 25:5,
-30:1 milligrammes per litre. At 1 P.m. commenced heaving in dredge, which came up
-at 4.40 P.M. with some manganese nodules and a few specimens, and the tow-nets also
-contained some deposit and manganese nodules. One of the nodules measured
-12 x 8 x 2 inches, and had on its upper surface attached Foraminifera, Serpula-tubes,
-four specimens of Stephanoscyphus, Polyzoa, Ascidians, while to the under surface some
-Annelids were attached. At 5 P.M. proceeded under steam. Albatrosses continued to
-follow the ship.
-Distance at noon from Honolulu, 1015 miles. Made good 93 miles. Amount of
-current 11 miles, direction N.
-ANIMALS FROM
-DREDGE.
-The following species are recorded in the Zoological Reports from the dredge at this
+Microcubus quadrupes, Haeckel.
+Dictyospyris biloba, Haeckel.
+Botryopera quinqueloba, Haeckel.
+Cannobotrys tetracanna, Haeckel.
+Peridium lasanum, Haeckel.
+Archipera tricornis, Haeckel.
+Lychnocanium nodosum, Haeckel.
+Sethophormis enneastrum, Haeckel.
+Sethophæna polyptera, Haeckel.
+Lophophæna echinocephala, Haeckel.
+Podocyrtis ehrenbergi, Haeckel.
+Phormocyrtis quadrata, Haeckel.
+Calocyclas amicæ, Haeckel.
+Diplocyclas bicincta, Haeckel.
+Theocyrtis proserpina, Haecke).
+Theocapsa galeni, Haeckel.
+Artopilium cyrtopterum, Haeckel.
+Stichophormis cornutella, Haeckel.
+Lithostrobus leptoceras, Haeckel.
+Stichocorys rathkei, Haeckel.
+Eucyrtidium profundissimum, Ehrenberg.
+Aulographis hexancistra, Haeckel.
+serrulata, Haeckel.
+Aulospathis triodon, Haeckel.
+Orosphæra fusigera, Haeckel.
+Aularia trigonaria, Haeckel.
+Challengeron triangulum, Haeckel.
+Tuscarora medusa, Haeckel.
+Conchellium tridacna, Haeckel.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms.— The following species are recorded from the surface at this
 Station :
-ANNELIDA (M'Intosh, Zool. pt. 34).
-Leæna abyssorum, n.sp. One specimen ; obtained at no other locality.
-Placostegus ornatus, Sowerby. One specimen ; obtained also at Stations 244
-and 285.
-benthalianus, n.sp. One specimen ; obtained at no other locality.
-Polyzoa (Busk, Zool. pt. 30).
-Bugula johnstonia, Gray. Fragmentary specimens.
-Bifaxaria abyssicola, n.g., n.sp. Obtained at no other locality.
-Cribrilina monoceros (Busk). For distribution see Station 145.
-Phylactella sp. (?). Fragmentary specimens.
-TUNICATA (Herdman, Zool. pt. 38).
-Bathyoncus minutus, n.g., n.sp. One specimen ; obtained at no other locality.
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Phractopelta tetradopora, Haeckel.
+Thecosphæra phænaxonia, Haeckel. Thoracaspis ellipsoides, Haeckel.
+Plegmosphæra leptoplegma, Haeckel. Coleaspis vaginata, Haeckel.
+Siphonosphæra pipetta, Haeckel.
+Hexaconus coronatus, Haeckel.
+Stylosphæra nana, Haeckel.
+Sethoconus trochus, Haeckel.
+Hexacontium axotrias, Haeckel.
+Theocorys diana, Haeckel.
+Acanthosphæra longispina, Haeckel. Theocampe cryptoprora, Haeckel.
+Coscinomma ectosiphon, Haeckel.
+Aulacantha spinosa, Haeckel.
+Ellipsostylus gallinula, Haeckel.
+lævissima, Haeckel.
+Spongellipsis aspera, Haeckel.
+Auloceros furcosus, Haeckel.
+Euchitonia triangulum, Haeckel.
+Sagoplegma scenophora, Haeckel.
+Myelastrum lobatum, Haeckel.
+Challengeria bromleyi, Haeckel.
+Spongolarcus triaxonius, Haeckel. Castanella wyvillei, Haeckel.
+Acanthonia quadrifolia, Haeckel.
+Castanura swirei, Haeckel.
+Xiphacantha macroptera, Haeckel. Conchidium rhynchonella, Haeckel.
+platyptera, Haeckel. Calodendrum bifurcum, Haeckel.
+Lonchostaurus rhombicus, Haeckel.
+Porocapsa tetrodon, Haeckel.
+SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
+Echinaspis dichotoma, Haeckel.
+Porpita fungia, n.sp.
+In addition, the following are recorded in the note-books :-Globigerina, Orbulina,
+Medusæ, Diphyes, Velella, Alciopa, Distomum, Cypridina, Copepods, Lepas fascicularis
+with its Nauplius and Cypris stages, Hyperids, Bopyrus on Euphausia, Sergestes and
+Zoëa, Ianthina with float and with Lepas attached, larval shells, Atlanta, Pteropods,

@@ -1,38 +1,34 @@
-1240
+1242
 THE VOYAGE OF H.M.S. CHALLENGER.
-ASCENSION.
-The deposit in 7 fathoms at the anchorage was a Coral Sand, containing 96.56 per cent.
-of carbonate of lime. The following species are recorded in the Zoological Reports as
-having been obtained in shallow water and on shore during the stay at Ascension :
-ANIMALS FROM
-ASCENSION.
+STATION 344.
+ANTIPATHARIA (Brook, Zool. pt. 80).
+Taxipathes recta, 1.9., n.sp. Many specimens ; obtained at no other locality.
+Only species of the genus.
+CORALS (Moseley, Zool. pt. 7).
+Solenosmilia variabilis, Duncan. Numerous specimens ; obtained also
+Stations 135 and 145.
+HYDROIDA (Allman, Zool. pt. 70).
+Cryptolaria crassicaulis, n.sp. Obtained at no other locality.
+CRINOIDEA (Carpenter, Zool. pt. 60).
+Antedon multispina, n.sp.
+Four specimens and three Pentacrinoid larvæ ; obtained
+also at Station 135.
+porrecta, n.sp. Four specimens ; obtained at no other locality.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophiacantha cuspidata, n.sp. Several specimens ; obtained at no other locality.
+Ophiocreas ædipus, n.sp. Several specimens ; obtained also at Stations 214 and 343.
+Genus nov. (?), (young).
 ECHINOIDEA (Agassiz, Zool. pt. 9).
-Echinometra subangularis, Leske. (Shore); obtained also at Cape Verdes.
+Salenia varispina, Agassiz. For distribution see Station 23.
+ANNELIDA (M'Intosh, Zool. pt. 34).
+Eunice prognatha, n.sp. Two specimens ; obtained at no other locality.
+1
 OSTRACODA (Brady, Zool. pt. 3).
-Pontocypris simplex, n.sp. (7 fathoms) ; obtained at no other locality.
-Cythere audei, Brady: (7 fathoms); obtained also at Station 149.
-BRACHYURA (Miers, Zool. pt. 49).
-Pseudozius bouvieri (M.-Edwards), var. mellissü, nov. Obtained at no other locality
-by the Challenger. Recorded from St. Helena and Cape Verdes.
-Geocarcinus lagostoma, M.-Edwards (?). Obtained also at Bermuda.
-Grapsus maculatus (Catesby). (Shore); obtained also at Bermuda, St. Paul's
-Rocks, Fernando Noronha, and Cape Verdes.
-GASTEROPODA (Watson, Zool. pt. 42).
-Purpura (Stramonita) fasciata, Reeve. (Shore); obtained at no other locality by
-the Challenger. Recorded from Antilles.
-CEPHALOPODA (Hoyle, Zool. pt. 44).
-Octopus occidentalis, Steenstrup, MS. Obtained at no other locality by the
-Challenger. Recorded from Cuba.
-FISHES (Günther, Zool. pt. 6).
-Carcharias obscurus, Les. Obtained also at Station 348.
-Serranus impetiginosus, M. and T. Obtained at no other locality by the Challenger.
-Sargus argenteus, C.V. Obtained at no other locality by the Challenger.
-Holocentrum longipinne, C.V. Obtained also at St. Thomas.
-Lichia glauca, L. Obtained also at Cape Verdes.
-Caranx ascensionis, Forst. Obtained also at St. Paul's Rocks.
-Blennophis webbi, Val. Obtained at no other locality by the Challenger.
-Antennarius multiocellatus, C.V. Obtained at no other locality by the Challenger.
-Glyphidodon saxatilis, L. Obtained also at St. Paul's Rocks.
-Julis ascensionis, Q. and G. Obtained at no other locality by the Challenger.
-Belone trachura, C.V. Obtained at no other locality by the Challenger.
-Muræna moringua, Cuvier. Obtained at no other locality by the Challenger.
+Macrocypris similis, n.sp. Obtained also at Stations 120 and 305.
+Cythere speyeri, Brady. Obtained also at Station 93.
+Cytherella pulchra, Brady (?). Obtained also at Stations 33, 167, and Port Jackson.
+CIRRIPEDIA (Hoek, Zool. pt. 25).
+Pæcilasma carinatum, n.sp. Five specimens ; obtained also at Station 24.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Cryptodon sp. (?). Single valve.
+Leda jeffreysi, Hidalgo. Several specimens ; obtained also at Station 78.

@@ -1,85 +1,61 @@
-1136
+1138
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 302.
-ORGANISMS FROM
-THE DEPOSIT.
-The following species of Foraminifera and Radiolaria were observed in the deposit from
-this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
-FORAMINIFERA (Brady, Zool. pt. 22).—The pelagic species, which make up about
-85 per cent. of the carbonate of lime present in the deposit, are marked thus .
-Х
-1
-Biloculina depressa, d'Orbigny.
-Spiroloculina tenuis (Czjzek).
-Miliolina seminulum (Linné).
-venusta (Karrer).
-Haplophragmium latidorsatum (Bornemann).
-Webbina clavata, Jones and Parker.
-Gaulryina pupoides, d’Orbigny.
-Bulimina buchiana, d'Orbigny.
-Virgulina schreibersiana, Czjzek.
-Bolivina decussata, Brady.
-Cassidulina bradyi, Norman.
-crassa, d’Orbigny.
-subglobosa, Brady.
-Lagena auriculata, Brady.
-botelliformis, Brady.
-globosa (Montagu).
-lævigata (Reuss).
-marginata (Walker and Boys).
-orbignyana (Seguenza).
-seminiformis, Schwager.
-seminula, Brady.
-staphyllearia (Schwager).
-Lagena sulcata (Walker and Jacob).
-Nodosaria mucronata, Neugeboren.
-Polymorphina suroria, Reuss.
-Uvigerina asperula, Czjzek.
-pygmæa, d'Orbigny.
-x Globigerina bulloides, d'Orbigny.
-dubia, Egger.
-inflata, d'Orbigny.
-x Orbulina unirersa, d'Orbigny.
-Truncatulina pygmæd, Hantken.
-ungeriana (d'Orbigny).
-wuellerstor fi (Schwager).
-x Pulrinulina canariensis (d'Orbigny).
-exigua, Brady.
-favus, Brady.
-menardii (d'Orbigny).
-micheliniana (d'Orbiguy).
-partschiana (d'Orbigny).
-patagonica (d'Orbigny).
-pauperata, Parker and Jones.
-Rotalia soldanii, d'Orbigny.
-Nonionina umbilicatula (Montagu).
-x x
-x
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Xiphostylus falco, Haeckel.
-Stylosphæra euterpe, Haeckel.
-thalia, Haeckel.
-Lithatractus rosetta, Haeckel.
-Stomatodiscus amphistomus, Haeckel.
-Amphitholonium tricolonium, Haeckel.
-Lonchostaurus rhomboides, Haeckel.
-Anthocyrtium campanula, Haeckel.
-Eucyrtilium chrysaliilium, Haeckel.
-Aulographis flammabunda, Haeckel.
-Aulonia pentagonia, Haeckel.
+STATION 303.
+Density at 60° F. :-
+.
+.
+Surface,
+25 fathoins,
+50
+100
+1.02504
+1.02509
+1.02513
+1.02517
+300 fathonis,
+400
+850
+Bottom,
+1:02535
+1.02533
+1.02557
+1.02563
+.
+.
+Depth, 1325 fathoms; deposit, Blue Mud, containing 25.79 per cent of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 2.20 P.M. shortened and furled sails, and proceeded under steam. At 3.15 P.M.
+sounded in 1325 fathoms. Took serial temperatures down to the bottom. The carbonic
+acid was determined in water from the surface and 100 fathoms, and amounted
+respectively to 48:9 and 50:4 milligrammes per litre. At 5.40 P.M. completed observations
+and made all plain sail. Diomedea exulans and stormy petrels were seen.
+Cape Gallegos distant at noon, 146 miles ; Cape Tres Montes, 167 miles. Made good
+135 miles, Amount of current 4 miles, direction N. 19° E.
+The following species are recorded in error from this Station ; they probably came
+from Station 308 (see Station 308).
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Ctenodiscus procurator, n.sp.
+Mimaster cognatus, n.sp.
+Lophaster stellans, n.sp.
+Menipea aculeata (a’Orbigny).
+Bugula reticulata, n.sp.
+Carbasea ovoidea, Busk.
+Cribrilina monoceros (Busk).
+Cellepora eatonensis, n.sp.
+PolyzoA (Busk, Zool. pt. 30).
+Menipea benemunita, n.sp.
 ORGANISMS FROM
 SURFACE-NETS.
-Surface Organisms. —The following species are recorded from the surface at this
+Surface Organisms.— The following species are recorded from the surface at this
 Station :
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Thalassoxanthium triradiatum,
-Haeckel.
-Rhaphidozoum patagonicum, Haeckel.
-Haliomma patagonicum, Haeckel.
-Astrosphæra hexagonalis, Haeckel.
-Spongocore diplocylindrica, Haeckel.
-puella, Haeckel.
-Tholoma quadrigeminum, Haeckel.
-Actinastrum pentazonium, Haeckel.
-.
-1
+OSTRACODA (Brady, Zool. pt. 3).
+Halocypris atlantica, Lubbock.
+brevirostris, Dana.
+COPEPODA (Brady, Zool. pt. 23).
+Eucalanus attenuatus (Dana).
+Oncæa obtusa (Dana).
+In addition, the following are recorded in the note-books from the tow-nets at the
+surface and down to 30 fathoms :-Peridinium tripos, Globigerina, Orbulina,
+Acanthometræ and other Radiolaria, Siphonophoræ, Sagitta, Tomopteris, Hyperids and
+other Amphipods, Euphausia, Zoëæ, small Lamellibranchs, Heteropods, and Pteropods.
+A few porpoises were seen.

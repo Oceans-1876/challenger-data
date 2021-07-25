@@ -1,86 +1,136 @@
 SUMMARY OF RESULTS.
-1361
-Keroeides.
-Muriceides.
-Primnoiles.
-Scirpearella (4)
-Stachyptilum.
-Trichoptilum.
-Clalopathes.
-Dendrobrachia.
-Taxipathes. .
-Scytophorus.
-Pleurocyathus.
-Hypopyris.
-Staurotheca.
-Streptocaulus.
-Stephonalia.
-Calyptraster.
-Leptogonaster.
-Pholidaster (2)
-Tarsaster.
-Astroclon.
-Ophiocopa.
-Ophiopyren (2).
-Ophiopyrgus.
-:):inin a.
-Linopneustes.
-Moiropsis.
-Orphnurjus.
-Allmaniella.
-Eunotomastus.
-Euphione.
-Leaniricola.
-Mariluffia.
-Polyeunoa.
-.
-Scalisetosus.
-Megalasma.
-Acanthechinus.
-Caprellinoides.
-Cheirimedon.
-Dodecas.
-Kerguelenia.
-Astrurus.
-Typhla seules.
-Paralamprops.
-Amphiplectus.
-Campylonotus (3)
-Cheiroplatea.
-Chorismus.
-Eudromia.
-Notopoides.
-Paguropeis.
-Echinoplar.
-Ocypleurodon.
-Paracyclois.
-Platymaia.
-Provocator.
-Calymmophora.
-Gephyrophora.
-Céphalodiscus.
-Ascopera (2)
-Acanthaphritis.
-Anticitharus.
-Bathyanthias.
-Bathythrissa.
-Catætys.
-Diplacanthopoma.
-Lepillopsetta.
-Lioscorpius.
-Nematops.
-Pacilopsetta.
-Propoma. .
-Xenodermichthys.
-The majority of these genera are represented by a single species, but there are three
-genera with two species, three genera with three species, and one genus with four
-species, found only in this zone.
-Notes on the Geographical Distribution.—An examination of the foregoing list
-shows that of the 1893 species taken in this zone between 100 and 500 fathoms,
-825 species (or 43 per cent.) were taken south of the southern tropic, 953 species
-(or 50 per cent.) were taken within the tropics, and 360 species (or 19 per cent.)
-were taken north of the northern tropic; while 40 species (or 2 per cent.) were found
-to be common to all those three areas, 33 species (or 2 per cent.) were common
-to the southern and northern areas, 77 species (or 4 per cent.) were common to the
-southern and tropical areas, and 75 species (or 4 per cent.) were common to the
-tropical and northern areas.
+1365
+SN
+var.
+T
+N
+S
+* Leucilla uter, n.sp.
+TN
+* Leuconia dura, n.sp.
+TN
+fruticosa (Haeckel).
+s
+loricata, n.sp.
+S
+multiformis, n.sp., var. amorpha,
+nov. TN
+capillata,
+T
+T
+S
+T
+* Pilochrota purpurea (Ridley),
+longancora, nov.
+tenuispicula, n.g., n.sp.
+* Psammastra murrayi, n.g., n.sp.
+Samus anonymus, Gray.
+Scolopes moseleyi, n.g., n.sp.
+* Stryphnus niger, n.g., n.sp.
+Synops neptuni, n.sp.
+nitida, n.sp.
+S
+Tethya ingalli, Bowerbank. S
+japonica, n.sp.
+seychellensis (Wright). T
+Tetilla grandis, n.sp.
+merguiensis (Carter). T
+* Thenea wyvillii, n.sp.
+* Theonella swinhoei, Gray.
+* Tribrachium schmidtii, Weltner.
+nov.
+goliath,
+nov.
+5
+T
+»
+S
+*
+mi
+T
+nov.
+T
+T
+ovata, n.sp.
+S
+rudifera, n.sp.
+N
+typica, n.sp., var. massa, nov.
+N
+tuba.
+* Leucosolenia challengeri, n.sp.
+T
+lamarckii (Haeckel).
+S
+poterium (Haeckel).
+* Pericharax carteri, n.g., n.sp.
+Sycon arboreum (Haeckel). S
+arcticum (Haeckel), var. maximum,
+Haeckel. TN
+raphanus, Schmidt. S T
+tergestinum,
+Haeckel.
+S
+S
+HEXACTINELLIDA :
+S
+*
+T
+1
+T
+Crateromorpha meyeri, Gray.
+* Euplectella aspergillum, Owen.
+(?) nodosa, n.sp.
+Polylophus philippinensis (Gray).
+Rossella antarctica, Carter.
+S
+Semperella schultzei, Semper. T
+N
+T
+var.
+CALCAREA :
+T
+S
+S
+ALCYONARIA :
+Acamptogorgia alternans, n.g., n.sp.
+T
+Acanthoisis flabellum, n.g., n.sp.
+Alcyonium antarcticum, n.sp.
+S
+* Bebryce philippii, n.sp.
+Calypterinus allmani, n.g., n.sp. (deep-
+water form ?). T
+* Ceratoisis nuda, n.sp. (deep water form ?).
+sollasi, n.sp.
+2
+Amphoriscus flamma, n.sp.
+poculum, n.sp.
+S
+* Anamixilla torresi, n.g., n.sp.
+T
+Eilhardia schulzei, n.g., p.sp.
+* Grantia tuberosa, n.sp.
+T
+* Heteropegma nodus gordii, n.g., n.sp.
+Τ Ν
+* Leucetta hæckeliana, n.sp.
+*
+S
+imperfecta, n.sp.
+vera, n.sp.
+S
+* Leucilla connexiva, n.sp.
+T
+(SUMMARY OF RESULTS CHALL. EXP.—1894.)
+T
+T
+S
+*
+T
+philippinensis, n.sp.
+Corallium rubrum, Lamarck.
+* Echinogorgia modesta, n.sp.
+T
+N
+172

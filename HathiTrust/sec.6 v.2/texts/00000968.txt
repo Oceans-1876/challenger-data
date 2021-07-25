@@ -1,45 +1,43 @@
-2
+6
 THE VOYAGE OF H.M.S. CHALLENGER.
-1
-phenomena the most important is an approximately correct representation of the
-circulation of the atmosphere over the surface of the globe in all seasons of the year.
-The only way by which this knowledge can be obtained is by the geographical
-distribution of the mass of the earth's atmosphere, as shown by mean isobaric lines,
-which, as is recognised, ultimately depend on the geographical distribution of the
-temperature and humidity of the air. Observation abundantly shows that it is the
-isobaric lines which absolutely rule the direction of the prevailing winds.
-A discussion, therefore, of all available information relative to the different
-atmospheric phenomena, with more special reference to the work of the Challenger,
-was undertaken in 1882, and the results were published in the beginning of 1890.1
-That Report gives, in addition to the results of the Challenger observations, the mean
-diurnal variations of atmospheric pressure at 147 places in all parts of the globe; the
-mean monthly and annual pressure at 1366 places ; a similar table of mean temperatures
-at 1620 places; and the mean monthly and annual direction of the wind at 746 places.
-Owing to the all-importance of the wind ou oceanic circulation, other data were
-obtained and utilised in constructing the maps, which had been published by the
-marine and meteorological departments of the United States, England, France, Holland,
-Germany, Norway, Denmark, Italy, Mauritius, and India. A first attempt was also
-made to investigate and describe the meteorology of the ocean.
-Among the more important factors of ocean meteorology that bear more directly
-on this discussion are the large permanent anticyclonic areas over the oceans, out of
-which the winds blow in all directions towards and over all surrounding regions where
-atmospheric pressure is lower. These are the regions of the oceans where calms and
-light winds are of most frequent occurrence. Since this state of things necessarily
-implies vast accessions of air setting towards these anticyclonic regions as upper aerial
-currents, and thence slowly descending to the surface of the sea, it follows that in these
-regions the air is relatively very dry; and this being so, evaporation is very great,
-and the specific gravity of the surface water of the sea consequently also large in
-anticyclonic regions.
-An examination of the anticyclones and their relative prevailing winds on the isobaric
-maps accompanying the Report on Atmospheric Circulation, already cited, indicate that
-these regions may be regarded, in a very large degree, as the ORIGINS OF THE WINDS
-and surface currents on the sea. It is of the greatest importance to note, in con-
-nection with the specific gravity of the surface water, that the less space the winds
-have traversed the ocean from their origins in the anticyclonic regions, the less is the
-rainfall. And on the other hand, the greater the distance the winds have traversed the
-ocean, the more copious is the rainfall.
-To take examples : The isobaric lines and
-winds for July show that the regions of the globe where at this time of the year the
-Report on Atmospheric Circulation, based on the Observations made on board H.M.S. Challenger, and other
-Meteorological Observations, by Alex. Buchan, M.A., LL.D. (Phys. Chem. Chall. Exp., pt. v., 1889).
-1
+on
+A summary of the results is given in that paper at page 42, where it is shown
+that at a depth of 2500 fathoms, or nearly 3 miles, the mean correction of all the
+thermometers examined is only 0°:27 Fahr., the largest correction of any one of these
+thermometers being 0°:41 Fahr.
+The observations of deep-sea temperatures strictly as observed, no correction being
+thus shown to be needed, are published in the Challenger Reports, together with
+the same temperatures represented by curves 258 plates.
+The curves
+are drawn, libera manu, through the observations, which are fully detailed at
+the top of each plate, allowance being thus made for such errors of observation as
+10°, 5°, 1°, &c. The figures adopted in constructing the accompanying maps of deep-sea
+temperature are taken directly from the curves. In dealing with the other observations
+employed in this discussion, the observations as read are alone employed, any correction
+for pressure on the bulbs of the thermometers being in no case allowed for. As regards
+the important series of observations made by Commander Belknap, U.S.S. “Tuscarora,”
+it is stated in his Report, p. 18, what corrections were applied to the thermometers for
+depths of 100, 300, 500, and 700 fathoms, but no further explanation is given. An
+examination, however, of the observations themselves at all depths as printed makes it
+sufficiently plain that Captain Davis' correction of half a degree Fahr. for each mile
+of depth had been applied throughout. Before, therefore, entering the temperature
+observations of the “ Tuscarora” on the maps, they were increased by the amount by
+which they had manifestly been diminished, before publication, by the application of
+Captain Davis' rule. It was interesting to note that when the “ Tuscarora's ” course
+was in the vicinity of the course of the Challenger, “ Egeria,” &c., the additions made to
+the published readings brought them into accordance with the readings of these other ships.
+As this discussion deals only with depths at which the temperature is virtually
+uninfluenced by season, no depths less than 100 fathoms are examined. The
+temperature maps which accompany this Report are for depths of 100 fathoms, and
+then, in succession, for each additional 100 fathoms down to 1000, then for 1500, for
+2200 fathoms and another for bottom temperatures. It is plain that in this discussion
+no temperatures of the surface of the sea are admissible except good mean annual
+temperatures of the surface, it being these and these alone that rule deep-sea
+temperatures. Hence it is impossible to overestimate the value of Lieut. Baillie's map
+showing the mean annual distribution of the temperature of the surface.
+In order to arrive at a correct knowledge of the mean temperature of the ocean
+considered as a whole at each of the depths selected, all the temperatures at each depth
+were averaged, excluding the temperatures which are from so-called “closed areas.”
+The mean temperature thus arrived at is entered on each map, and in drawing the
+isothermal lines, all temperatures above this mean are represented by red lines, and
+See Ante, No. 1, footnote, p. 3.

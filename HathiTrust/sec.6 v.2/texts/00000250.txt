@@ -1,44 +1,41 @@
-998
+1000
 THE VOYAGE OF H.M.S. CHALLENGER.
 SANDWICH
-ISLANDS
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Ervilia bisculpta, Gould. (Honolulu reefs); obtained also at Port Jackson.
-sandwichensis, n.sp. Single valve (Honolulu, 40 fathoms); obtained at no
+ISLANDS.
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Octopus marmoratus, n.sp. Three specimens (Honolulu reefs); obtained at no
 other locality.
-Circe jucunda, n.sp. Three valves (Honolulu, 40 fathoms); obtained also at
-Station 188.
-Lucina (Codukia) hawaiiensis, n.sp. One specimen and odd valve (Honolulu,
-40 fathoms); obtained at no other locality.
-Julia exquisita, Gould. Two valves (Honolulu, 40 fathoms); obtained at no other
-locality by the Challenger. Recorded from Sandwich and
-Bourbon Islands.
-Perna samoensis, Baird. (Honolulu reefs); obtained also at Philippines.
-vitrea, Reeve. (Hilo) ; obtained at no other locality by the Challenger.
-Recorded from Sandwich Islands.
-SCAPHOPODA and GASTEROPODA (Watson, Zool. pt. 42).
-Siphodentalium honoluluense, n.sp. (Honolulu, 40 fathoms); obtained at no
+POLYZOA (Busk, Zool. pts. 30 and 50; Waters, pt. 79).
+Scrupocellaria ornithorhynchus (Wyville Thomson). (Honolulu, 20 to 40 fathoms);
+obtained at no other locality by the Challenger.
+Steganoporella magnilabris (Busk). (Honolulu, 20 to 40 fathoms); obtained at no
+other locality by the Challenger. Recorded from Australia,
+Tongatabu, and Gulf of Florida. Fossil— Australia.
+Retepora denticulata, n.sp. (Honolulu, 20 to 40 fathoms); obtained at no other
+locality.
+contortuplicata, n.sp. (Honolulu, 20 to 40 fathoms); obtained at no
 other locality.
-Trochus sp. (?). (Honolulu, 40 fathoms).
-Cyclostrema sp. (?). (Honolulu, 40 fathoms).
-Phasianella sp. (?). (Honolulu, 40 fathoms).
-Columbella (Zafra) troglodytes, Souverbie. (Honolulu, 40 fathoms); obtained also
-at Station 186 and Fiji.
-Marginella, two species undetermined. (Honolulu, 40 fathoms).
-Conus (Puncticulis) pulicarius, Hwass. (Honolulu reefs); obtained at no other
-locality by the Challenger. Recorded from Indian
-and Pacific Oceans.
-Cypræa (Trivia) pellucidula, Gaskoin. (Honolulu, 40 fathoms); obtained at no
-other locality by the Challenger. Recorded from
-South Pacific and Torres Strait.
-Strebloceras subannulatum, De Folin, n.sp. Three specimens (Honolulu, 40 fathoms);
-obtained at no other locality.
-Cæcum sepimentum, De Folin. Many specimens (Honolulu, 40 fathoms); obtained
-also at Tongatabu and Tahiti (var.).
-n.sp. (?). One broken specimen (Honolulu, 40 fathoms).
-crystallinum, De Folin, n.sp. One specimen (Honolulu, 40 fathoms); obtained
-at no other locality.
-Odostomia scopulorum, n.sp. Several specimens (Honolulu, 40 fathoms); obtained
-also at Station 188 (?).
-3
-9
+Chorizopora honolulensis, n.sp. (Honolulu, 20 to 40 fathoms); obtained at no
+other locality.
+Smittia marsupialis, n.sp. (Honolulu, 20 to 40 fathoms); obtained also at
+Station 313, 55 fathoms.
+Mucronella delicatula, 2.sp. (Honolulu, 20 to 40 fathoms) ; obtained at no other
+locality. [Waters calls it Smittia delicatula (Busk)].
+magnifica, n.sp. (Honolulu, 20 to 40 fathoms); obtained at no other
+locality.
+Schizoporella furcata, n.sp. (Honolulu, 20 to 40 fathoms); obtained at no other
+locality.
+tenuis, n.sp. (Honolulu, 20 to 40 fathoms); obtained also at the Cape.
+Myriozoum honolulense, n.sp. (Honolulu, 20 to 40 fathoms); obtained at no other
+locality.
+Cellepora honolulensis, n.sp. (Honolulu, 20 to 40 fathoms); obtained at no other
+locality.
+polymorpha, n.sp. (Honolulu, 20 to 40 fathoms); obtained at no other
+locality.
+vagans, n.sp. (Honolulu, 20 to 40 fathoms); obtained also at Station 148.
+Idmonea radians (Lamarck). (Honolulu, 20 to 40 fathoms) ; obtained also at
+Station 172.
+FISHES (Günther, Zool. pts. 6 and 78).
+Zygæna malleus, Risso. (Honolulu reefs); obtained also at Tongatabu.
+Dules marginatus, C.V. (Honolulu reefs and Hilo); obtained also at Fiji and
+Tahiti.

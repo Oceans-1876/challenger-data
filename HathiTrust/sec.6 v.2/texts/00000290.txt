@@ -1,47 +1,99 @@
-1036
-THE VOYAGE OF H.M.S. CHALLENGER.
+1040
+THE VOYAGE OF H.M.S. CHALLENGER,
 STATION 271.
-NUDIBRANCAIATA (Bergh, Zool. pt. 26).
-Bathydoris abyssorum, n.g., n.sp. One specimen ; obtained at no other locality.
-Only species of the genus. The body of this specimen was
-gelatinous and transparent, the tentacles brown, the gills
-and protruding external generative organs orange, the foot
-dark purple.
-CEPHALOPODA (Hoyle, Zool. pt. 44).
-Enoploteuthis margaritifera, Rüppell. One specimen ; obtained also at Station 195.
-BRACHIOPODA (Davidson, Zool. pt. 1).
-Discina atlantica, King. One specimen ; for distribution see Station 106.
-TUNICATA (Herdman, Zool. pt. 17).
-Culeolus moseleyi, n.g., n.sp. One specimen ; obtained at no other locality.
-FISHES (Günther, Zool. pts. 57 and 78).
-Malacosarcus macrostoma, n.g., n.sp. One specimen ; obtained also at Station 276,
-2350 fathoms. Only species of the genus.
-Macrurus armatus, Hector. One specimen; for distribution see Station 146.
-Lepidopus tenuis, n.sp. One specimen (probably from near the surface); obtained
-also at Station 232.
-In addition to the foregoing, the following are recorded in the Station-book :-
-Fragment of Euplectella, three specimens of Stephanoscyphus and Polyzoon.
-Excluding Protozoa, about 140 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 29 species, of which 22 are new to science, including
-representatives of 10 new genera; 15 of the new species and 2 new genera were not
-obtained elsewhere.
-The large number of specimens noted at this Station is due to the fact that more
-than a hundred examples of Deep-Sea Keratosa are included.
-The following species of Foraminifera, Radiolaria, and Diatoms were observed in the
-deposit from this Station (see also Murray and Renard, Deep-Sea Deposits Chall
-. Exp.):-
-FORAMINIFERA (Brady, Zool. pt. 22).—The pelagic species, which make up
-about
-86 per cent. of the carbonate of lime present in the deposit, are marked thus X.
-Biloculina depressa, d’Orbigny.
-Storthosphæra () sp.
-var. murrhyna, Schwager. Psammosphæra fusca, Schulze.
-Miliolina oblonga (Montagu).
-Hyperammina elongata, Brady.
-venusta (Karrer).
-vagans, Brady.
-Pelosina cylindrica, Brady.
-Rhizammina algaformis, Brady.
-ORGANISMS FROM
-THE DEPOSIT,
-6
+99
+Spongolonche amphistyla, Haeckel.
+Spongodiscus favus, Haeckel.
+spiralis, Haeckel.
+Stylotrochus geddesii, Haeckel.
+craticulatus, Haeckel.
+Spongotrochus parma, Haeckel.
+Dictyocoryne tetradiscus, Haeckel.
+Spongasteriscus ovatus, Haeckel.
+Spongaster tetras, Haeckel,
+quadratus, Haeckel.
+I. Larcoidea.
+Cenolarcus primordialis, Haeckel.
+Larnacilla typus, Haeckel.
+subglobosa, Haeckel.
+Larnacidium hecabelonium, Haeckel.
+Larnacantha drymacantha, Haeckel.
+Dizonium ellipticum, Haeckel.
+Amphipyle aceros, Haeckel.
+Tetrapyle nephropyle, Haeckel.
+dodecaceros, Haeckel.
+Pylonium hexazonium, Haeckel.
+Amphipylonium semilunare, Haeckel.
+Tetrapylonium octacanthum, Haeckel.
+Amphitholus artidium, Haeckel,
+Tholartus paniscus, Haeckel.
+Tholocubus tesseralis, Haeckel.
+Tholonium hexonium, Haeckel,
+Cubotholonium ellipsoides, Haeckel.
+Zonarium octangulum, Haeckel.
+Zoniscus tetracanthus, Haeckel.
+hexatholius, Haeckel.
+Lithelius spiralis, Haeckel.
+Larcospira sexangula, Haeckel.
+oliva, Haeckel.
+Tholospira cervicornis, Haeckel.
+Spironium arbustum, Haeckel,
+Streblonia rosalina, Haeckel.
+Streblacantha hastigerina, Haeckel.
+Spongophortis larnacilla, Haeckel.
+Soreuma acinosum, Haeckel.
+setosum, Haeckel.
+acervulina, Haeckel.
+Sorolarcus terminalis, Haeckel.
+b. Stephoidea.
+Archicircus princeps, Haeckel.
+primordialis, Haeckel.
+quadratus, Haeckel.
+hertwigii, Haeckel.
+sexangularis, Haeckel.
+Zygocircus rhombicus, Haeckel.
+Cortina dendroides, Haeckel.
+Semantis biforis, Haeckel.
+Semantidium hexastoma, Haeckel.
+Semantrum signarium, Haeckel.
+Clathrocircus stapedius, Haeckel.
+multiforis, Haeckel.
+decaporus, Haeckel.
+Cortiniscus tripodiscus, Haeckel.
+Stephaniscus tetrapodius, Haeckel.
+Semantiscus hexaspyris, Haeckel.
+Zygostephanus reniformis, Haeckel.
+dissocircus, Haeckel.
+Eucoronis nephrospyris, Haeckel.
+Tricyclidium semantrum, Haeckel.
+Tristephanium octopyle, Haeckel.
+Trissocircus octahedrus, Haeckel
+Protympanium amphipodium, Haeckel
+Torarium circospyris, Haeckel.
+bifurcum, Haeckel.
+furcatum, Haeckel.
+Microcubus dodecastoma, Haeckel.
+zonarius, Haeckel.
+Tympaniscus quadrupes, Haeckel.
+Octotympanum octonarium, Haeckel.
+Paratympanum decastylum, Haeckel.
+Prismatium tripodium, Haeckel.
+Pseudocubus octostylus, Haeckel.
+Lithocubus astragalus, Haeckel.
+octacanthus, Haeckel.
+Eutympanium musicantum, Haeckel.
+Circotympanum octogonium, Haeckel.
+c. Spyroidea.
+II. NASSELLARIA.
+Tripospyris cortina, Haeckel.
+furcata, Haeckel,
+capitata, Haeckel.
+Tristylospyris palmipes, Haeckel.
+Stephanospyris cordata, Haeckel.
+Triceraspyris tripodiscus, Haeckel.
+Cephalospyris ovata, Haeckel.
+Dorcadospyris dentata, Haeckel.
+antilope, Haeckel.
+a. Plectoidea.
+Triplagia primordialis, Haeckel.
+Plectaniscus clathrocorys, Haeckel.

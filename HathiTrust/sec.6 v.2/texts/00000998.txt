@@ -1,44 +1,38 @@
-32
+36
 THE VOYAGE OF H.M.S. CHALLENGER.
-except that it is rather lower over the eastern parts off the coast of Australia than
-over the western parts off the coast of South Africa.
-The specific gravities of the Arabian Sea and of the Bay of Bengal are strikingly
-different. Owing to the very salt currents from the Red Sea and Persian Gulf, and
-to the extreme dryness of the climate, the specific gravity of the Arabian Sea is large.
-On the other hand, owing to the heavy rainfall during the summer monsoon, and to
-the northerly winds during the winter months inducing upwelling, the specific gravity of
-the Bay of Bengal is low. For the same reasons the east coasts of Asia and the
-Eastern Archipelago are marked by a specific gravity much lower than anywhere else
-over the ocean in the same latitudes. The track of least specific gravity in the central
-part of this ocean is a little south of the equator from east to west.
-At 100 fathoms a large extent of this ocean has a temperature above the mean
-(Map 3), this region being virtually defined by the isothermal of 60°.
-The highest
-temperature, 70°, is near the centre of the ocean, about long. 80° E. The same high
-temperature is found a little to the east of the Strait of Bab-el-Mandeb, from which
-point eastwards it gradually falls to 60°. The lowest temperature, 56', overspreads a
-considerable area lying east and west to the south of Ceylon. This area lies in the
-region of the meeting of the N.E. and S. E. trades, and its position is analogous to the
-low-temperature regions of the Atlantic and Pacific at this depth with respect to the
-N.E. and S. E. trades of those oceans.
-Unfortunately, at no depths north of lat. 40° S. are there any specific gravities
-available, except in the Arabian Sea and Bay of Bengal, and there only down
-to 400 fathoms. Outside the Strait of Bab-el-Mandeb the specific gravity is about
-1:0280, but in the east of the Bay of Bengal it is 1.0259, or even lower, the tempera-
-tures being respectively 70° and 56º. The low specific gravities in the Bay of Bengal
-seriously prevent the diffusion downwards of the higher temperatures of the surface.
-In this region there is no doubt that upwelling takes place during the winter months
-when winds are northerly.
-The distribution of temperature is totally changed at 200 fathoms, nearly the whole
-of the ocean north of lat. 40° S., being above 50°1, the mean temperature of the
-The region of highest temperature, 61°, remains at the same place as at 100
-fathoms, and the lowest temperature, 50°, is situated to the north-west of Australia,
-where also occurs at 100 fathoms a secondary minimum. The temperature is also
-high in the west of the Arabian Sea, and there the specific gravity is 1.0267 off Aden
-to the east of the Strait of Bab-el-Mandeb, gradually falling to 1·0261 near Ceylon.
-At 300 fathoms the whole ocean is above the average temperature to the north of
-lat. 40° S., the absolute highest, 55°, being near Cape Guardafui. But the highest
-temperature in the ocean proper is 53°, the position of which is now fully ten
-degrees of longitude to the westwards of its position at 100 and 200 fathoms. This
-oceans.
-.
+bergen falls to 29. The deepest sounding made was 2005 fathoms in lat. 68° 21' N.
+and long. 2° 5' W., where the temperature observed was 29º.5. There are five positions,
+at depths exceeding 1500 fathoms, at which Mohn observed the temperature and specific
+gravity. They range from 1547 to 1861 fathoms, with a mean of 1688 fathoms; their
+mean position was lat. 69° 20' N. and long. 3° 27' E., and the mean temperature was
+29°:8, and mean specific gravity 1.0259. This temperature found in the deepest parts
+of the Arctic Ocean is only from 2° to 3° higher than the freezing-point of sea-water
+of the above specific gravity. All the five positions underlie the region of the warm
+area, and it will be seen that the specific gravity there observed is closely approximate
+to that of the surface.
+The area enclosed by the surface isothermal of 30° has virtually the same tempera-
+ture down to the bottom, except that at the greater depths it falls to 29°, and the same
+area appears to have a lower specific gravity than the rest of this ocean, judging from
+the small number of observations of specific gravity taken. The important inference
+follows that the great volume of the warm dense current from the Atlantic does not
+contribute the water forming the north-easterly current that fills the cold area, but
+that it overspreads the region around where it terminates and thereafter descends
+downwards to greater depths, cooling as it descends till at about 1000 fathoms it
+becomes nearly as cold as the rest of the Arctic Ocean. The different specific gravities
+no doubt play an important part in delaying the mixture of these two great bodies of
+water placed side by side in the region enclosed between Norway, Iceland, Greenland,
+and Spitzbergen. The high specific gravities observed at the bottom doubtless play an
+important part in maintaining the fluidity of the bottom water of the Arctic Ocean.
+The Southern Ocean.
+Under this head all portions of the ocean to the south of lat. 40° S. are included.
+Everywhere in this extensive region the temperature of the surface falls below 60°.
+The lowest isothermal is 40°, which may be taken as the annual mean about lat. 55° S.
+all round the globe. To the south of lat. 55° S. no observations have been taken for any
+two or four months of the year, such as January and July, or February, May, August,
+and November, &c., from which a fairly good annual mean could be calculated. It is
+probable, however, that, reasoning from the positions of the isothermals of the air and
+the temperatures at 100 fathoms, an annual mean of about 30° encircles the globe
+near lat. 63º S. The specific gravity is under 1.0260 all round, falling to 1.0241
+about lat. 65° S., this being the lowest specific gravity observed by the Challenger.
+As regards the atmospheric pressure and the prevailing winds which necessarily
+result from the manner of its distribution, this ocean differs essentially from all other

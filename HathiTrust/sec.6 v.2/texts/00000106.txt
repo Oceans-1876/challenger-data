@@ -1,27 +1,21 @@
-870
+872
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 221.
-specimens of Coryphæna were seen, as well as some fishes jumping about the surface of
-the water. The screw was taken up and found to be covered by a small Tubularia,
-along with Lepas, Balanus, Caprella, and a small crab.
-Willemoes-Suhm writes : “ Lucifer was plentiful and I found its larva in abundance,
-and also some Zoëæ which, I think, belonged to it. They were much smaller than the
-corresponding stages of Sergestes, but I afterwards found that the full-grown Zoëa of
-Lucifer was about the same length as the spiny Elaphocaris (Zoëa of Sergestes), and
-differed only in the absence of spines.”
-Moseley writes : “On the 15th the tow-net was filled with a Corycæus, the same
-species as that figured by Suhm from the Atlantic, with the prominences of the body for
-the reception of the nervous parts of the enormously-enlarged eyes.”
 STATION 222.
-Station 222 (Sounding 360), Admiralty Islands to Yokohama (see Chart 31 and
+small Cephalopods, Appendicularia, Doliolum, Balistes and other small fishes. On the
+18th a female shark (Carcharias lamia), about 7 feet long, was caught. The specimens of
+Halobates, Balistes, &c., were picked up by Mr. Murray when away in the dingey on
+the 18th. Collosphæra was observed in patches in considerable abundance, but on the
+whole the water was exceedingly pure, and the white bag of the tow-net could be seen at
+a great depth.
+STATION 223.
+Station 223 (Sounding 361), Admiralty Islands to Yokohama (see Chart 31 and
 Diagram 16).
-March 16, 1875 ; lat. 2° 15' N., long. 146° 16' E.
-Temperature of air at noon, 820-8; mean for the day, 81°:9.
+March 19, 1875 ; lat. 5° 31' N., long. 145° 13' E.
+Temperature of air at noon, 83°.5 ; mean for the day, 81°:1.
 Temperature of water :-
-.
-.
-99
-9
+O
+93
+>
 Surface,
 10 fathoms,
 20
@@ -40,24 +34,24 @@ Surface,
 150
 160
 170
-82.8
-82.8
-82.6
-82:4
-82.2
 82.0
-81.8
+817
+81:7
 81.7
-81.2
-80.3
-78.9
-760
-63.2
-55.6
-52:7
-51:0
-50.2
-49.7
+81.7
+81.7
+81:7
+81.7
+81.7
+79.0
+70.9
+63.5
+59.5
+56:3
+53.8
+51.6
+50.0
+49.3
 180 fathoms,
 190
 200
@@ -75,40 +69,47 @@ Surface,
 1400
 1500
 Bottom,
-49.3
-48.9
-48.5
-45.5
-43.2
-41:1
-39.3
-38.0
-37.1
-36.5
+48.8
+48.2
+47.7
+45.8
+44:3
+42.8
+41:3
+40.0
+38.8
+37.7
+36.8
 36:1
-35.9
 35.7
 35.5
-35.2
-35.2
-35.2
->
+35.5
+35.5
+35.5
+Density at 60° F. :-
 .
-9
-Density at 60 F. :-
+.
+.
 Surface,
-50 fathoms,
-70
+10 fathoms,
+20
+50
 100
-: 1:02634
-. 1.02628
-1:02603
-1.02605
+. 1.02595
+1.02587
+1.02575
+. 1.02589
+. 1.02569
 200 fathoms,
 300
-380
+400
 Bottom,
-. 1.02583
-1.02560
-1.02561
-. 1.02560
+1.02566
+1:02556
+1.02567
+. 1.02578
+.
+.
+.
+Depth, 2325 fathoms ; deposit, Globigerina Ooze, containing 52:47 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).

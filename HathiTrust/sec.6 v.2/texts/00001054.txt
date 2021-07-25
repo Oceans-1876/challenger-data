@@ -1,79 +1,79 @@
 
-MEAN TEMPERATURE OF THE OCEF
-80
+MEAN TEMPERATURE OF THE OCEAN
+90
 70
 60
 90
-100
-130
 120
+100
+180
 110
-140
+1410
 150
-160
-The Voyage of H.M.S "Challenger"
+180
 170
 180
 170
+The Voyage of HMS "Challenger”
+100
 160
 150
 140
 130
-120
-100
 no
+120
 80
 70
 60
-36°
 50
+360
 40
-37
-30
-Tropic of Cancer
-20
-Equator
-38°
-10
-Tropie of Capricorn
-20
-30
-(
-389
-38°
-40
-37
-37
 36
-50
+30
+40
+Tropic. of Cancer
+37
+20
+38 Equator
+10
+Tropic of Capricorn.
+20
+30
+38
+37°
+37
+40
+36°
+80
 60
 Antarctic Circle
 70
 ISOTHERMAL LINES
-SHOWING THE MEAN TEMPERATURE (FAHR)
+SHOWING THE MEAN TEMPERATURE FAHR)
 OF THE OCEAN AT
-DEPTH OF 800 FATHOMS
+DEPTH OF 900 FATHOMS
 70
-80
+BO
 90
 100
 10
-180
 120
 140
+130
 Track
-150
 160
+150
+170
+170
 180
-170
-170
 160
-140
 150
-120
+140
 130
 100
-no
-Isothermals above Average shown in Red thus
+120
+110
+Isothermals above Average shown in Red, thus
 A.Buchan Delt.
-It. 119
+B&A
+У Вgy

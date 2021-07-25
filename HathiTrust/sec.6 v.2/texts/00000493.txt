@@ -1,103 +1,91 @@
 SUMMARY OF RESULTS.
-1217
-STATION 332.
-Х
-Verneuilina pygmæa (Egger).
-Clavulina communis, d'Orbigny.
-Bulimina ovata, d’Orbigny.
-pyrula, d'Orbigny.
-Virgulina schreibersiana, Czjzek.
-subilepressa, Brady.
-Bolivina punctata, d'Orbigny.
-Pleurostomella subno.losa, Reuss.
-Lagena acuta (Reuss).
-auriculata, Brady.
-fieldeniana, Brady.
-globosa (Montagu).
-gracillima (Seguenza).
-lærigata (Reuss).
-lævis (Montagu).
-lagenoides (Williamson).
-longispina, Brady.
-marginata (Walker and Boys).
-orbiyyana (Seguenza).
-quadralata, Brady.
-semimarginata, Reuss.
-seminuda, Brady.
-striatopunctata, Parker and Jones.
-sulcata (Walker and Jacob).
-truncata, Brady.
-unguiculata, Brady.
-Nodosaria calamorpha, Reuss.
-communis, d'Orbigny.
-mucronata, Neugeboren.
-Cristellaria rotulata (Lamarck).
-Polymorphina angusta, Egger.
-Uvigerina asperula, Czjzek.
-pygmæa, d'Orbigny.
-x Globnigerina bulloides, d'Orbigay.
-inflata, d'Orbigny.
-x Orbulina universa, d'Orbigny.
-Pullenia quinqueloba, Reuss.
-#phæroides (d'Orbigny).
-Sphæroidina bulloides, d'Orbigny.
-Truncatulina lobatula (Walker and Jacob).
-ungeriana (d'Orbigny).
-wuellerstorfi (Schwager).
-Anomalina ariminensis (d'Orbigny).
-x Pulvinulina canariensis (d'Orbigny).
-exigua, Brady.
-menardii (d'Orbigny).
-micheliniana (d'Orbigny).
-Rotalia orbicularis, d'Orbigny.
-soldanii, d’Orbigny.
-Nonionina depressula (Walker and Jacob).
-pompilioides (Fichtel and Moll).
-umbilicatula (Montagu).
-х
-Х
+1221
+Excluding Protozoa, about a dozen specimens of invertebrates were obtained at Station 333.
+this Station, belonging to 9 species, of which 3 are new to science, representatives of 3
+new genera ; 2 of the new genera and new species were not obtained elsewhere.
+Surface Organisms.—The following species are recorded from the surface at this OrganiSMS FROM
+Station :
+SURFACE-NETS.
 RADIOLARIA (Haeckel, Zool. pt. 40).
-Cenosphæra antiqua, Haeckel.
-Siphonosphæra infundibulum, Haeckel.
-Saturnalis circularis, Haeckel.
-Amphisphæra jupiter, Haeckel.
-Staurosphæra thoma, Haeckel.
-Hexalonche serrata, Haeckel.
-Hexaloncharium octahedrum, Haeckel.
-Hexacontium lævigatum, Haeckel.
-clavigerum, Haeckel.
-Acanthosphæra angulata, Haeckel.
-Haliomma regulare, Haeckel.
-Echinomma aculeatum, Haeckel.
-Cenellipsis infunlibulum, Haeckel.
-Prunulum cerasum, Haeckel.
-Druppatractus pisciculus, Haeckel.
-Xiphatractus euphractus, Haeckel.
-Artiscus elegans, Haeckel.
-Cannartus bitubulus, Haeckel.
-Cannartidium bicinctum, Haeckel.
-Trochodiscus odontotrochus, Haeckel.
-Phacodiscus echiniscus, Haeckel.
-Sethostylus serratus, Haeckel.
-Astrosestrum acraspedum, Haeckel.
-Coccodiscus goethei, Haeckel.
-Amphicyclia pachydiscus, Haeckel.
-Astrocyclia rotula, Haeckel.
-Trigonactura lanceolata, Haeckel.
-Hymenactura trigona, Haeckel.
-Porodiscus radiatus, Haeckel.
-Stylodictya solmaris, Haeckel.
-Euchitonia carcinus, Haeckel.
-Pentophiastrum forcipatum, Haeckel.
-Tropyle spagera, Haeckel.
-Larnacoma hexagonium, Haeckel.
-Dizonium stauracanthum, Haeckel.
-Octopyle euryzona, Haeckel.
-Tetrapylonium quadrangulare, Haeckel.
-Amphitholus octacanthus, Haeckel.
-polyacanthus, Haeckel.
-Tholocubrus tessellatus, Haeckel.
-Spironium octonium, Haeckel.
-Streblonia urigerina, Haeckel.
-Spongophortis raliosa, Haeckel.
-Sphærocapsa dentata, Haeckel.
+Tessarastrum spinozæ, Haeckel.
+Heliosoma duodecilla, Haeckel.
+Cannocapsa stethoscopium, Haeckel.
+Actinomma castanomma, Haeckel.
+Echinaspis diadema, Haeckel.
+Spongoprunum amphicylindrus,
+Icosaspis spectabilis, Haeckel.
+Haeckel.
+Sagmarium spongodictyum, Haeckel.
+Sethostaurus conostaurus, Haeckel.
+Pharyngella gastræa, Haeckel.
+Amphibrachium clavula, Haeckel.
+Amphicraspedum wyvilleanum,
+SCHIZOPODA (Sars, Zool. pt. 37).
+Haeckel.
+Thysanoëssa gregaria, n.sp.
+Histiastrum pentadiscus, Haeckel.
+Nematoscelis megalops, n.g., n.sp.
+The tow-nets at the surface and down to 200 fathoms yielded :—Globigerina,
+Pulvinulina, Acanthometræ, Challengeridæ, and compound Radiolaria, Siphonophoræ,
+Ctenophoræ, Sagitta, Cypridina, Saphirina and other Copepods, Amphipods, Euphausia,
+Decapod larvæ, Atlanta aud larvæ, Pleuropus [= Cavolinia] and other Pteropods, and
+many larval fishes.
+Station 334 (Sounding 484), Rio de la Plata to Tristan da Cunha (see Chart 16 Station 334.
+and Diagram 6).
+March 14, 1876 ; lat. 35° 45' S., long. 18° 31' W.
+Temperature of air at noon, 69°:8 ; mean for the day, 69°:6.
+Temperature of water :-
+40:4
+Surface,
+68.5
+25 fathoms,
+64.5
+50
+60.3
+75
+57.8
+100
+56.0
+125
+54.0
+150
+52:3
+175
+50.6
+200
+49.3
+225
+48.0
+250
+46.6
+275
+45.4
+300
+44.2
+(SUMMARY OF RESULTS CHALL. EXP.--1893.)
+400 fathoms,
+500
+600
+700
+800
+900
+1000
+1130
+1330
+1530
+1730
+Bottom,
+38.3
+37.7
+37.4
+37.2
+37.1
+37:0
+36.8
+36.6
+36.3
+36:1
+35.8
+>
+>
+154

@@ -1,86 +1,77 @@
-1208
+1212
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 326.
-.
-Station 326 (Sounding 476), Rio de la Plata to Tristan da Cunha (see Chart 16
-and Diagram 6).
-March 3, 1876 ; lat. 37° 3' S., long. 44° 17' W.
-Temperature of air at noon, 67°:8 ; mean for the day, 68°:0.
+STATION 329.
+stinkers (Procellaria gigantea), black night hawks (Procellaria æquinoctialis), mutton
+birds, prions (Prion turtur), and Thalassidromas were seen.
+Tristan da Cunha distant at noon, 1142 miles. Made good 165 miles. Amount of
+current 9 miles, direction N. 15° W.
+ORGANISMS FROM
+SURFACE-N ETS.
+Surface Organisms.— The following species are recorded from the surface at this
+Station :
+COPEPODA (Brady, Zool. pt. 23).
+FISHES (Günther, Zool. pt. 78).
+Centropages violaceus (Claus).
+Scopelus coccoi (Cocco).
+Scombresox saurus, (young).
+In addition, the note-books record :-Sagitta, Hyperids, and Euphausia.
+STATION 330.
+Station 330 (Sounding 480), Rio de la Plata to Tristan da Cunha (see Chart 16 and
+Diagram 6).
+March 8, 1876 ; lat. 37° 45' S., long. 33° 0' W.
+Temperature of air at noon, 67°:3; mean for the day, 65°:7.
 Temperature of water :-
 Surface,
-67-8
-300 fathoms,
-39-1
+64:2 400 fathoms,
+40-7
 25 fathoms,
-63:7
-400
-37.8
+63.0
+500
+38.7
 50
 59.0
-500
-37.1
-75
-55.8
 600
-37.0
-100
-53:3
+37.8
+75
+57.0
 700
-37.0
-125
-50:4
+37.5
+100
+56.2
 800
-37.0
-150
-46:1
+37-5
+125
+55.6
 900
-37.0
+37.5
+150
+55:4 1000
+37.5
 175
-43.5 1000
-37.0
+55.2
+1580
+37.5
 200
-42:0 2125
-37.0
+53.0 1780
+36.5
 225
-41.2 2325
-36.2
+50:5 1980
+35:3
 250
-40.2 2525
-33.0
+48.0 2180
+34.2
 275
-39.7 Bottom,
-32-6
-Density at 60° F. at surface, 1•02491 ; bottom, 1.02581.
-Depth, 2775 fathoms ; deposit, Blue Mud, containing 3:11 per cent. of carbonate of
+46:0 Bottom,
+32:7
+300
+44:7
+Density at 60° F. at surface, 1.02620 ; bottom, 1.02608.
+Depth, 2440 fathoms; deposit, Red Clay, containing 10:36 per cent. of carbonate of
 lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
->
-ORGANISMS FROM
-SURFACE E-NETS.
-At 4 P.M.
-At 3 P.M. shortened and furled sails, and proceeded under steam to sound.
-sounded in 2775 fathoms. Obtained serial temperatures. The carbonic acid was
-At 7 P.M.
-determined in the surface water, and amounted to 34:0 milligrammes per litre.
-completed observations and made sail. Diomedea exulans and two kinds of petrels
-were seen from the ship.
-Tristan da Cunha distant at noon, 1551 miles. Made good 78 miles.
-Surface Organisms.—The following species are recorded from the surface at this
-Station :-
-SIPHONOPHORÆ (Haeckel, Zool. pt. 77). AMPHIPODA (Stebbing, Zool. pt. 67).
-Vogtia köllikeri, n.sp.
-Phronimella sp. (?).
-COPEPODA (Brady, Zool. pt. 23).
-Calanus valgus, n.sp.
-SCHIZOPODA (Sars, Zool. pt. 37).
-Candace pachydactyla, Dana.
-Thysanoëssa gregaria, n.sp.
-Temora dubia (Lubbock).
-Nematoscelis rostrata, n.g., n.sp.
-Centropages violaceus (Claus).
-Siriella thompsoni (M.-Edwards).
-Pontellopsis villosa, n.g., n.sp.
-Corycæus varius, Dana.
-Oncæa obtusa (Dana).
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Saphirina inæqualis, Dana.
-Clio (Creseis) acicula (Rang).
+At 12.30 P.M. got up steam. At 1.15 P.M. shortened and furled sails, and proceeded
+under steam. At 2 P.M. sounded in 2440 fathoms. The sounding-tube had sunk about
+fifteen inches into the bottom, and brought up over two litres of clay, of which the lower
+layers had a blue rather than a red tinge and contained very little, if any, carbonate of
+lime. A worm-tube had a deposit of manganese in the inside. Took serial temperatures.
+At 4.15 P.M. completed' observations and made sail. Birds as noted at the previous
+Station were seen.

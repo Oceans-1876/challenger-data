@@ -1,99 +1,66 @@
 SUMMARY OF RESULTS.
-1247
-Excluding Protozoa, over a dozen specimens of invertebrates were obtained at this Station 346.
-Station, belonging to 6 species, of which 5 (all those reported) are new to science,
-including representative of 1 new genus ; 2 of the new species were not obtained
-elsewhere.
->
-FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera were ORGANISMS FROM
-observed in the deposit from this Station ; the pelagic species, which make up about the DEPOSIT.
-88 per cent. of the carbonate of lime present in the deposit, are marked thus x:-
-Biloculina depressa, d'Orbigny.
-Lagena multicosta (Karrer).
-sphæra, d’Orbigny.
-orbignyana (Seguenza).
-Miliolina insignis, Brady.
-semimarginata, Reuss.
-seminulum (Linné).
-seminiformis, Schwager.
-venusta (Karrer).
-seminuda, Brady.
-Reophax nodulosa, Brady.
-siliqua, Rymer Jones.
-pilulifera, Brady.
-staphyllearia (Schwager).
-Haplophragmium globigeriniforme (Parker and
-stelligera, Brady.
-Jones).
-striata (d'Orbigny).
-glomeratum, Brady.
-sulcata (Walker and Jacob).
-nanum, Brady.
-Nodosaria communis, d’Orbigny.
-turliinatum, Brady.
-mucronata, Neugeboren.
-Thurammina papillata, Brady.
-radicula (Linné).
-Hormosina globulifera, Brady.
-Marginulina costata (Batsch).
-Ammodiscus charoides (Jones and Parker).
-glabra, d'Orbigny.
-incertus (d'Orbigny).
-Vaginulina legumen (Linné).
-Trochammina galeata, Brady.
-Cristellaria convergens, Bornemann.
-ringens, Brady.
-crepidula (Fichtel and Moll).
-trullissata, Brady.
-tenuis, Bornemann.
-Textularia agglutinans, d'Orbigny, var. porrecta, Polymorphina angusta, Egger.
-Brady.
-lanceolata, Reuss.
-Verneuilina pygmæa (Egger).
-Uvigerina asperula, Czjzek.
-Gaudryina pupoides, d'Orbigny.
-x Globigerina bulloides, d'Orbigny.
-siphonella, Reuss.
-conglobata, Brady.
-Bulimina pyrula, d'Orbigny.
-cretacea, d'Orbigny ().
-Virgulina schreibersiana, Czjzek.
-inflata, d'Orbigny
-subdepressa, Brady.
-rubra, d'Orbigny.
-texturata, Brady.
-sacculifera, Brady.
-Pleurostomella subnodosa, Reuss.
-x Orbulina universa, d'Orbigny.
-Cassidulina crassa, d’Orbigny.
-~ Pullenia obliquiloculata, Parker and Jones.
-Ehrenbergina serrata, Reuss.
-quinqueloba, Reuss.
-Chilostomella ovoidea, Reuss.
-sphäroides (d'Orbigny).
-Lagena acuta (Reuss).
-Sphæroidina bulloides, d’Orbigny.
-auriculata, Brady.
-dehiscens, Parker and Jones.
-desmophora, Rymer Jones.
-Truncatulina wuellerstorfi (Schwager).
-globosa (Montagu).
-x Pulvinulina canariensis (d'Orbigny).
-gracilis, Williamson.
-crassa (L'Orbigny).
-lævigata (Reuss).
-menardii (d'Orbigny).
-lavis (Montagu).
-var. fimbriata, Brady.
-marginata (Walker and Boys).
-micheliniana (d'Orbigny).
-Х
-x
-Х
-X
-х
-Х
-Х
-Х
-Х
-Х
+1251
+STATION 347.
+Xiphacantha ciliata, Haeckel.
+Dorataspis polypora, Haeckel.
+Zonaspis æquatorialis, Haeckel.
+Tessaraspis arachnoides, Haeckel.
+Lychnaspis giltschii, Haeckel.
+Icosaspis elegans, Haeckel.
+Phractopelta aspirlomma, Haeckel.
+Belonaspis multiforis, Haeckel.
+Diploconus cotyliscus, Haeckel.
+Plagonium sphærozoum, Haeckel.
+Acanthodesmia mülleri, Haeckel.
+Prismatium tripoilinm, Haeckel.
+Litharachnium discoides, Haeckel.
+Carpocanistrum flosculum, Haeckel.
+Dictyophimus challengeri, Haeckel.
+Lithomelissa decacantha, Haeckel.
+Lithopera ananassa, Haeckel.
+Arachnocorys circumtecta, Haeckel.
+Carpocanium hexagonale, Haeckel.
+Theopilium triraliatum, Haeckel.
+Corocalyptra elisabetha, Haeckel.
+Dictyocodon prometheus, Haeckel.
+Podocyrtis argus, Ehrenberg.
+Cannobelos thalassoplancta, Haeckel.
+Dictyocha staurodlon, Ehrenberg,
+Distephanus crux, Haeckel.
+Sagmarium plegmosphærium, Haeckel.
+Aulosphæra coronata, Haeckel.
+Auloscena pyramidalis, Haeckel.
+Aulonia hexagonia, Haeckel.
+Gorgonetta mirabilis, Haeckel.
+Castanella sloggetti, Haeckel.
+Castanillium buchanani, Haeckel.
+moseleyi, Haeckel.
+Castanissa challengeri, Haeckel.
+Castanopsis naresi, Haeckel.
+Conchidium argiope, Haeckel.
+Coelodenulrum spinosissimum, Haeckel.
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Anchylomera sp. (?).
+Oxycephalus clausi, Bovallius.
+Rhabdosoma armatum (M.-Edwards).
+MACRURA (Spence Bate, Zool. pt. 52).
+Sergestes diapontius, n.sp.
+In addition, the following are recorded in the note-books :-Oscillatoriaceæ abundant,
+Peridinium, Pyrocystis, various Diatoms, some with Vorticella attached, Globigerina,
+Orbulina, Hastigerina, Pullenia, Sphæroidina, Pulvinulina, Medusa, Siphonophora,
+Sagitta, Aphroditacean larvæ, Copilia and other Copepods abundant, Cypris stages of
+Cirripeds, Decapod larvæ, larval Lamellibranchs (mussels ?), pelagic Gasteropod with
+spiral shell, Pteropods and larvæ, Doliolum, and Appendicularia.
+The following species are recorded from the surface of the South Atlantic and tropical
+Atlantic, the exact locality not being noted :-
+MACRURA (Spence Bate, Zool. pt. 52).
+Peteinura gubernata, n.g., n.sp.
+Sergestes longirostris, n.sp.
+Lucifer typus, Thompson.
+reynaudii, M.-Edwards.
+ISOPODA.
+Five specimens, genera and species
+undetermined.
+>>
+TUNICATA (Herdman, Zool. pt. 76).
+Pyrosoma sp. (?).

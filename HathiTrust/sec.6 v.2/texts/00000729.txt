@@ -1,74 +1,88 @@
 SUMMARY OF RESULTS.
-1447
-In the
-name
-OSTRACODA :
-Bairdia minima, n.sp.
-Cythere irpex, n.sp.
-scabrocuneata, n.sp.
-suhmi, n.sp.
-Ianthina rotundata, Leach.
-Marginella (Glabella) musica, Hinds.
-Pleurotoma (Genota) engonia, n.sp.
-Trochus (Margarita) infundibulum,
-n.sp.
-POLYPLACOPHORA :
-acing
-CIRRIPEDIA :
-* Balanus trigonus, Darwin.
-Scalpellum acutum, n.sp.
-velutinum, n.sp.
-Acanthopleura incana (Gould).
-CEPHALOPODA :
-Taonius suhmi, n.sp.
-ISOPODA :
-Bathytanais bathybrotes, n.g., v.sp.
-Eurycope atlantica, n.sp.
-fragilis, n.sp.
-Neotanais americanus, n.g., n.sp.
-Typhlotanais kerguelenensis, n.sp.
-SCHIZOPODA:
-Gnathophausia gigas, n.g., n.sp.
-Nematoscelis megalops, n.g., n.sp.
+1451
+Placostegas.
+Staurocephalus.
+Terebella.
 MACRURA:
-Glyphocrangon rimapes, n.sp.
-Pasiphæa acutifrons, n.sp.
-ANOMURA :
-Anapagurus pusillus, n.sp.
-Munidopsis subsquamosa, n.sp.
-BRACHYURA :
-* Calappa flammea (Herbst).
+Brachycarpus, n.g.
+Hepomadus, n.g.
+Pandalus.
+CEPHALOPODA :
+Rossia.
+Taonius
+OSTRACODA :
+Paradoxostoma.
+ANOMURA:
+Anapagurus.
+*Cryptodromia.
+Lithodes.
+AMPHIPODA :
+Amaryllis.
+Anonyx.
+Euthemisto.
+Halirages.
+Pardalisca.
+Pleustes.
+Rhachotropis.
+PolyzOA :
+Ætea.
+*Canda.
+Cribrilina.
+Flustramorpha
+*Hippothoa.
+Menipea. .
+Micropora.
+BRACHYURA:
+* Achæus.
+PYCNOGONIDA :
+* Colossendeis.
+ISOPODA :
 LAMELLIBRANCHIATA :
-Cardita calyculata (Linné).
-Lima goliath, Sowerby.
-(Mantellum) loscombii, Sowerby.
-* Saxicava arctica, Linné.
-POLYZOA :
-Ætea anguina (Linné).
-Bifaxaria abyssicola, n.g., n.sp.
-Cribrilina monoceros (Busk).
-* Hippothoa divaricata, Lamouroux.
-Idmonea atlantica, Forbes.
-milneana, d'Orbigny.
-Kinetoskias cyathus, n.sp.
-Membranipora galeata, Busk.
-Micropora coriacea (Esper).
-Retepora victoriensis, n.sp.
-.
-BRACHIOPODA :
-* Terebratulina caput-serpentis, Linné.
+Bathytanais, n.g.
+Ischnosoma.
+Neotanais.
+Typhlotanais.
+Astarte.
+Modiolaria.
+Sacicava.
+Yoldia.
 TUNICATA :
-* Ascidia nigra (Savigny).
-Doliolum affine, n.sp.
-Pyrosoma spinosum, n.sp.
+* Ascidia.
+Bathyoncus, n.g.
+Boltenia.
+Clavelina.
+Didemnum.
+Hypobythius, n.g.
+Styela.
 FISHES :
-SCAPHOPODA AND GASTEROPODA :
-* Crepidula aculeata (Gmelin).
-Dentalium dentalis, Linné.
-Callionymus lunatus, Schleg.
-Halosaurus macrochir, n.sp.
-Macrurus parallelus, n.sp.
-Myxine australis, Jen.
-Synaphobranchus bathybius, n.sp.
-Trachurus trachurus, Linné.
-keras, n.sp.
+Engraulis.
+Haloporphyrus.
+Latilus.
+Myxine.
+Notacanthus.
+Raja.
+Syngnathus.
+Trachurus.
+CUMACEA:
+Diastylis.
+Leucon.
+GASTEROPODA :
+Buccinum.
+SCHIZOPODA:
+POLYPLACOPHORA :
+Boreomysis.
+Chitom.
+The following 34 genera, represented in the Challenger collections by species taken
+to the south of the tropics, are recorded from other sources to the north of the tropics,
+and, as far as can be gathered from the Challenger Zoological Reports, are not known
+from the intervening tropical zone :-
+MONAXONIDA :
+Iophon.
+TETRACTINELLIDA :
+Astrella.
+Stelletta.
+Stryphnus.
+HEXACTINELLIDA :
+Acanthascus.
+Rhabdocalyptus.
+Rossella.

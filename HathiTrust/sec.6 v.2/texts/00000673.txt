@@ -1,98 +1,103 @@
 SUMMARY OF RESULTS.
-1393
-var.
-T
-T
-99
-N
-*
-*
-2
-* Pilumnus labyrinthicus, Miers. T
-* Thalamita crenata (Rüppell). T
-longicornis, Hilgendorf. T
-integra, Dana. T
-minutus, De Haan,
-intermedia, n.sp.
-T
-hirsutus, Stimpson. N
-Prymna (Herbst).
-pulcher, Miers.
-seclobata, n.sp.
-T
-rufoproctatus, Stimpson. s
-sima, M.-Edwards. ST
-scabriusculus, Adams and
-var. granulata, nov.
-White. T
-stimpsoni, M.-Edwards. T
-seminudus, Miers. T
-* Thalamonyx dana, var. gracilipes, M.-
-spinifer, M.-Edwards. N
-Edwards. T
-tomentosus, Latreille. s
-Thelphusa sinuatifrons, M.- Edwards. T
-vestitus, Haswell. s
-(Geothelphusa) dehaanii,
-* Pinnotheres villosulus, Guérin-Ménéville.
-White.
-T
-(Potamonautes) perlata, M.-
-* Pisa (Arctopsis) tribulus (Linné). N
-Edwards. s
-Plagusia chabrus (Linné). S
-Trapezia areolata, Dana, var. inermis,
-depressa (Fabricius). T
-M.-Edwards. T
-Platygrapsus depressus (De Haan). N
-cymodloce (Herbst). T
-* Platyonychus bipustulatus, M.-Edwards.
-guttata, Rüppell. T
+1397
 S
-rufopunctata (Herbst). T
-* Podochela risei (Stimpson). TN
-var. intermedia,
-Podophthalmus vigil (Fabricius).
-* Portunus corrugatus (Pennant). STN * Varuna litterata (Fabricius). T
-Pseudograpsus albus, Stimpson. T * Xantho bidentatus, M.-Edwards.
-Pseudomicippa (?) varians, Miers. * Xanthodes melanodactylus, M.-Edwards.
-* Pseudozius bouvieri (M.-Edwards), var.
-Τ Ν
-mellissii, nov.
+*
+* Psammobia costulata, Turton. N
+intermedia, Deshayes. T
+lineolata, Gray. S
+modesta, Deshayes. S
+pallida, Deshayes. T
+pulcherrima, Deshayes. T
+zonalis (Lamarck). S
+*
+sp. (?). T
+>
+*
+*
 T
-Xiphonectes longispinosus (Dana).
-* Pugettia incisa (De Haan).
-* Zozymus æneus (Linné). T
-Schizophrys aspera (M.-Edwards). T
-Scylla serrata (Forskål). T
-PYCNOGONIDA :
-Scyra compressipes, Stimpson. N
-* Sesarma mülleri, M.-Edwards. T
-Ascorhynchus minutus, n.sp.
+* Nucula nitidula, Adams. S
+obliqua, Lamarck. T
+uruguayensis, Smith. S
+(Acila) mirabilis, Adams and
+Reeve. N
+* Nuculina ovalis (Wood). S
+* Ostrea imbricata, Lamarck. T
+* Pecten amicus, n.sp.
+T
+asperrimus, Lamarck. S
+corallinoides, d’Orbigny.
+TN
+lemniscatus, Reeve. T
+leopardus, Reeve, var. solaris,
+Sowerby. T
+limatula, Reeve. s
+noronhensis, n.sp.
+T
+patagonicus, King S
+pusio (Linné). N
+senatorius (Gmelin). T
+undulatus, Sowerby. S
+vitreus (Chemnitz).
+STN
+(Janira) fumatus, Reeve. S
+( ) laqueatus, Sowerby. N
+* Pectunculus beddomei, n.sp. S
+formosus, Reeve. T
+holosericus, Reeve. S
+pectinatus (Gmelin). T
+stellatus (Bruguière). N
+striatularis,
+n.sp. ()
+(Lamarck ?), Reeve. S T
+vitreus, Lamarck. T
+Periploma compressa, d'Orbigny. S
+* Perna samoensis, Baird. T
+vitrea, Reeve. T
+* Petricola lapicida (Chemnitz). T
+* Pinna tasmanica, Woods. s
+* Plicatula ramosa, Lamarck.
+* Raeta pulchella (Adams and Reeve). N
+Saxicava arctica, Linné. SN
+* Semele amabilis, Adams. T
+infans, n.sp.
+T
+(Theora) iridescens (Hinds). T
+Septifer bilocularis (Linne). T
+* Solecurtus (Azor) coarctatus (Gmelin). T
+* Solen sloanii, Gray. S
+* Spondylus victoria, Sowerby. T
+zonalis, Lamarck.
+Tapes obscurata, Deshayes. T
+(Amygdala) exalbida (Chemnitz).
 s
-schüttei, Hess. S
-Colossendeis megalonyx, n.sp.
-(IIolometopus) aubryi, M.-
-* Discoarachne brevipes, n.g., n.sp.
-Edwards. T
-* Hannonia typica, n.g., n.sp.
-* Sphærozius nitidus, Stimpson. N * Nymphon brachyrhynchus, n.sp. s
-* Stenorhynchus falcifer, Stimpson. S
-brevicaulatum, Miers. s
-spinifer, n.sp.
-brevicollum, n.sp.
-N
-* Thalamita admete (Herbst). T
-fuscum, n.sp.
+(
+) fabagella Deshayes.
+s
+( ) intermedia (Quoy
+and Gaimard). S
+(Paratapes) semirugata (Philippi).
+T
+( ) tectrix (Chemnitz). S
+) undulata, Born. TN
+* Tellina compacta, n.sp.
+T
+(Angulus) lux, Hanley. T
+( ) natalensis, Krauss. S
+( ?) rhomboides, Quoy and
+Gaimard. T
+( ) valtonis, Hanley.
+T
+( ) vernalis, Hanley. T
+(Arcopagia) elegantissima, n.sp.
+***
+>>
 S
+sp. (?). T
+>>
 T
-nov.
-T
-T
-T
-N
-*
-S
-S
-S
-T
+* Psammobia anomala, Deshayes. T
+castrensis (Spengler). T
+(SUMMARY OF RESULTS CHALL. EXP.—1894.)
+(
+) pretiosa, Deshayes. T
+176

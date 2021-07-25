@@ -1,42 +1,51 @@
-1168
+1172
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 313.
+FORAMINIFERA (Brady, Zool. pt. 22). — The following species of Foraminifera were
+ORGANISMS FROM observed in the deposit from this Station ; the only pelagic species is Globigerina
+bulloides :-
+THE DEPOSIT.
+Biloculina ringens (Lamarck).
+Miliolina oblonga (Montagu).
+seminulum (Linné).
+subrotunda (Montagu).
+Haplophragmium canariense (d'Orbigny).
+Cassidulina subglobosa, Brady.
+Lagena lævigata (Reuss).
+Lagena læris (Montagu).
+sulcata (Walker and Jacob).
+x Globigerina bulloides, d'Orbigny.
+Discorbina globularis (d'Orbigny).
+Truncatulina lobatula (Walker and Jacob).
+Polystomella crispa (Linné).
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms.-- The tow-net yielded compound Radiolaria, small Copepods,
+many Zoëæ of Crabs, Megalopæ, and larval Lamellibranchs.
+STATION 314.
+Station 314 (Sounding 463), Sandy Point to Falkland Islands (see Chart 42).
+January 21, 1876; lat. 51° 35' S., long. 65° 39' W.
+Temperature of air at noon, 49°:8; mean for the day, 48°:9.
+Temperature of water at surface, 48°:0; bottom, 46°:0.
+Density at 60° F. at surface, 1.02468; bottom, 1.02476.
+Depth, 70 fathoms ; deposit, Coarse Sand.
+At 9.10 A. M. shortened and furled sails. Sounded in 70 fathoms. Put over trawl,
+which came up at 10.40 A. M. with numerous specimens. The carbonic acid was determined
+in bottom water, and amounted to 42.4 milligrammes per litre. Proceed .
+Jason West Cay, Falkland Islands, distant at noon, 159 miles. Made good
+122 miles. Amount of current 11 miles, direction N. 15° E.
+1
 ANIMALS FROM
 TRAWL.
-The following species are recorded in the Zoological Reports from the trawl at this
-Station :-
+The following species are recorded in the Zoological Reports from the trawl
+at this Station :
 MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Tedania massa, n.sp. Several specimens ; obtained also at Stations 163 and 320.
-Esperella magellanica (Ridley). One specimen ; obtained at no other locality by the
-Challenger. Recorded from Patagonia and Magellan Strait.
-Esperiopsis edwardii (Bowerbank), var. americana, nov. One specimen; obtained
-at no other locality. The species recorded from British seas.
-Hymeniacidon sp. (?). One specimen indeterminable.
-Axinella fibrosa, n.sp. One specimen ; obtained at no other locality.
-ALCYONARIA (Wright and Studer, Zool. pt. 64).
-Alcyonium sollasi, n.sp. Several specimens ; obtained at no other locality.
-ACTINIARIA (Hertwig, Zool. pts. 15 and 73).
-Dysactis crassicornis, n.sp. Six specimens ; obtained also at Station 312.
-rhodora (Couthouy). Two specimens ; obtained at no other locality by
-the Challenger.
-Antholoba reticulata (Couthouy). Three specimens ; obtained at no other locality
-by the Challenger.
-1
-1
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Ctenodiscus australis (Lovén, MS.), Lütken. Obtained also at Station 320,
-600 fathoms. Recorded from eastern South America.
-Pentagonaster patagonicus, n.sp. Several specimens; obtained also at Station 311.
-Gnathaster pilulatus, n.g., n.sp. Several specimens ; obtained at no other locality.
-Cycethra nitida, n.sp. Several specimens ; obtained at no other locality.
-pinguis, n.sp. Obtained at no other locality.
-Ganeria falklandica, Gray. Several specimens ; obtained at no other locality by
-the Challenger. Recorded from Falklands.
-Retaster verrucosus, n.sp. Several specimens ; obtained at no other locality.
-Asterias glomerata, n.sp. Obtained also at Station 315, 12 fathoms.
-cunninghami, Perrier. Obtained also at Station 315, 12 fathoms.
-Recorded from Falklands, Magellan Strait, and Patagonia.
-Labidiaster radiosus (Lovén, MS.), Lütken. Obtained at no other locality by the
-Challenger. Recorded from Patagonia, Magellan Strait,
-and Rio de la Plata.
-3
+Petrosia similis, n.sp., var. massa, nov. Several specimens; the species obtained
+also at Stations 142, 150, and 208 (var. compacta).
+Tedania tenuicapitata, Ridley. One specimen ; obtained also at Stations 308
+and 311.
+HYDROIDA (Allman, Zool. pt. 70).
+Grammaria magellanica, n.sp. Several specimens ; obtained at no other locality.
+Sertularia implexa, n.sp. Obtained at no other locality.
+Thuiaria quadridens, n.sp.
+Obtained at no other locality.

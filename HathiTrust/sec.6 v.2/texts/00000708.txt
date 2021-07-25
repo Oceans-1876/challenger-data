@@ -1,109 +1,332 @@
-1426
+1430
 THE VOYAGE OF H.M.S. CHALLENGER.
->
->
-Circe jucunda.
-scripta.
-sulcata.
-Corbula modesta.
-monilis (3)
-Crassatella rhomboides.
-Cytherea (Caryatis) regularis.
-(Dione) philippinarum (3).
-Diplodonta conspicua (4).
-corpulenta.
-subglobosa.
-Donax nitidus.
-Dosinia histrio (3).
-Ervilia bisculpta.
-Gastrochæna dubia.
-Kellia rotunda.
-Lima multicostata.
-squamosa.
-(Limatula) bullata.
-Limopsis cancellata.
-Modiolarca trapezina (3).
-Myochama anomioides.
-Mytilus edulis (3).
-magellanicus (3)
-Nucula obliqua.
-Pecten corallinoides.
-patagonicus.
-senatorius.
-Pectunculus striatularis.
-Perna samoensis.
-Petricola lapicida.
-Plicatula ramosa.
-Saxicara arctica (3).
-Tapes (Paratapes) undulata.
-Tellina (Angulus) lux.
-( ) rhomboides.
-( —?) semen (3)
-Trigonia uniophora (3).
-Venus (Chione) calophylla (3).
-( foliacea (3)
-( ) infans.
-( , ) striatissima.
-(Ventricola) casina.
-Actæon flammeus (3).
-Alaba (Styliferina) fulva.
-( ) goniochila (4).
-(
-) striata.
-Atys hyalina (3)
-, (Dinia) dentifera.
-Barleeia imbricata (3).
-Bittium perparvulum (4).
-Bulla australis.
-Cæcum sepimentum (3).
-Calyptræa calyptræformis.
-Cancellaria (Admete) specularis.
-Capulus (Amathina) tricarinatus (3).
-Cassis (Semicassis) pila (3).
-Cerithium balteatum.
-dubium (3).
-(Vertagus) articulatum.
-( ) asperum.
-( ) kochi.
-Columbella mercatoria.
-rustica.
-(Zafra) troglodytes (3).
-Conus (Leptoconus) lizardensis.
-(Lithoconus) eburneus.
-Crepidula aculeata.
-Cylichna cuticulifera.
-reticulata.
-(Volvula) sulcata.
-Cypræa spurca.
-(Trivia) candidula.
-Dentalium dentalis.
-javanum (3).
-Eburna (Zemira) australis.
-Eulima martinii.
-Fusus (Euthria) fuscatus (3).
-Marginella (Persicula) ovulum.
-Mitra (Cancilla) interlirata (3).
-(Costellaria) amanda.
-(
-) sculptilis.
-Mucronalia xanthias (3).
-Murex (Chicoreus) cervicornis (3)
-(Phyllonotus) endivia.
-(
-) zelandicus.
-Nassa (Niotha) pauperata (3).
-( ) stigmaria.
-(Zeuxis) algida.
-( ) crenulata (3).
-Nassaria sinensis.
-Natica effossa.
-(Mamma) porcellana.
-Neobuccinum eatoni.
-vestitum.
-Odostomia kymatodes.
-scopulorum.
-(Parthenia) casta.
-(Turbonilla) dipsycha.
-Oliva (Galeola) picta (3).
->>
-1
+TABLE I.
+Showing the Bathymetrical Distribution of the Bottom-living Species (Benthos) taken by the
+Trawl and Dredge on board H.M.S. Challenger.
+Zone.
+Number of Stations.
+Number of Specimens.
+Number of Species.
+Number of Genera.
+Number of Species
+believed to have come
+from the Bottom.
+Number of Genera
+believed to have come
+from the Bottom.
+Number of New Species
+from the Bottom.
+Number of New Genera
+from the Bottom.
+Number of Species
+taken only in the
+Zone referred to.
+Number of New Species
+taken only in the Zone
+referred to.
+Number of Species taken
+also in other Zones.
+Number of Species taken
+also in the Zone of over
+2500 fathoms.
+Number of Species taken
+also in the Zone between
+2000 and 2500 fathoms.
+Number of Species taken
+also in the Zone between
+1500 and 2000 fathoms.
+Number of Species taken
+also in the Zone between
+1000 and 1500 fathonis.
+Number of Species taken
+also in the Zone between
+500 and 1000 fathoms.
+Number of Species taken
+also in the Zone between
+100 and 500 fathoms.
+Number of Species taken
+also in the Zone under
+100 fathonis.
+25 600 235 200
+153
+119
+137
+49
+95
+84
+58
+...
+26
+33
+21
+13
+10
+5
+32 820 340 250
+247
+172
+229
+76
+161
+150
+86
+26
+46
+...
+38
+14
+20
+7
+32 1250 500 345
+394
+256
+335
+96
+242
+206
+152
+33
+46
+78
+24
+48
+...
+14
+Over
+2500
+fathoms
+2000 to
+2500
+fathoms
+1500 to
+2000
+fathoms
+1000 to
+1500
+fathoms
+500 to
+1000
+fathoms
+100 to
+500
+fathoms /
+Under
+100
+fatboins
+25 2000 600 400
+493
+313
+358
+79
+270
+201
+223
+21
+38
+78
+69
+...
+99
+32
+23 2000 710 425
+616
+352
+493
+92
+400
+348
+216
+13
+14
+24
+69
+143
+49
+40 6000 2050 865 1887
+771
+1293
+166
+1407
+1024
+480
+10
+20
+48
+99
+143
+285
+70
+4400 1500 4248
+1438
+1525
+130
+3898
+1382
+350
+5
+7
+14
+32
+49
+285
+...
+TABLE II.
+Showing the Geographical Distribution of the Bottom-living Species (Benthos) taken by the
+Trawl and Dredge on board B.M.S. Challenger.
+Zone.
+Total Number
+of Bottom-
+living Species.
+Number of
+Species
+taken
+S.
+Number of
+Species
+taken
+T.
+Number of
+Species
+taken
+N.
+Number of
+Species
+common
+STN.
+Number of
+Species
+common
+SN.
+Number of
+Species
+common
+ST.
+Number of
+Species
+common
+TN.
+Over 2500 l
+fathoms S
+153
+72
+14
+8
+85
+56%
+55
+36%
+47%
+9%
+6
+4%
+5
+3%
+5%
+2000 to 2500
+fathoms
+247
+129
+120
+98
+19
+13
+5%
+52%
+49%
+20
+8%
+9
+4%
+40%
+9%
+1500 to 2000
+fathoms S
+394
+269
+15
+10
+19
+68 %
+99
+25%
+137
+37%
+26
+7%
+4%
+3%
+5%
+1000 to 1500
+fathoms
+493
+194
+263
+26
+48
+227
+46%
+34
+7%
+28
+6%
+39%
+53%
+5%
+10%
+50 }
+616
+281
+22
+57
+fathoms
+353
+57%
+161
+26 %
+25
+4%.
+30
+5%
+45%
+4%
+9%
+100 to 500
+fathoms
+1887
+824
+359
+76
+73
+952
+50%
+43 %
+37
+2%
+19%
+33
+2%
+4%
+4%
+Under 100
+fathoms
+4248
+94
+1472
+35%
+2390
+56%
+571
+13%
+26
+0*6%
+31
+097%
+88
+2%
+2%
+The following species have been inadvertently omitted from the foregoing bathymetrical lists, and are therefore not
+included in the figures in these tables :-Holopsamma argillaceum, Hyalonema (Stylocalyz) elegans, Siphonogorgia godeffroyi,
+Preyella remex, Peniagone challengeri, Peniagone naresi, Scotoplanes insignis, Stichopus challengeri, Bythocythere arenaceo,
+Bythocythere orientalis, Bythocythere velifera, Cythere fortificata, Cythere lactea, Cytherella cingulata, Locenconcha africana,
+Polycope favus, Xestoleberis intermedia, Ischnosoma bacillus, Actæon (Buccinulus) cinereus, Pustulopora deflexa, Bathydraco
+antarcticus, Fistularia depressa, Ostracion cornutus, Polyipnus spinosus, Scopelus engraulis.

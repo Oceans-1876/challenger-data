@@ -1,100 +1,86 @@
-1017
+1019
 SUMMARY OF RESULTS.
-Station 266.
+Density at 60° F.:-
+STATION 267.
+Surface,
+25 fathoms,
+50
+1.02490
+. 1.02552
+1.02552
+1.02578
+1.02567
+300 fathoms,
+400
+800
+2275
+Bottom,
+1.02562
+. 1.02560
+. 1.02570
+. 1.02564
+. 1.02572
+.
+100
+200
+Depth, 2700 fathoms; deposit, Radiolarian Ooze, containing only a trace of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 5,20 A.M. stopped and sounded in 2700 fathoms; only a small quantity of deposit
+came up in the sounding-tube. Obtained serial temperatures down to 1500 fathoms,
+and also specimens of water. The carbonic acid was determined in bottom water, and
+amounted to 40.5 milligrammes per litre. At 1 P.m. lowered four tow-nets attached a
+short distance from each other to the dredging-rope, and veered 2000 fathoms. Sent
+dingey away for surface collecting and to test the transparency of the water. At 2 P.M.
+commenced heaving in tow-nets which came up all foul at 3.30 P.M.
+At 4 P.M.
+proceeded under steam and sail. Several boobies and gannets were seen.
+Venus Point, Tahiti, distant at noon, 1620 miles. Made good 97 miles. Amount
+of current 19 miles, direction S. 34° E.
 1
-Theocampe sphärothorax, Haeckel.
-Theocapsa plinii, Haeckel.
-malpighii, Haeckel.
-darwinii, Haeckel.
-Stichopera ovata, Haeckel.
-Cyrtopera thoracoptera, Haeckel.
-Cystophormis armata, Haeckel.
-Stichophæna geetheana, Haeckel.
-Lithostrobus cornutus, Haeckel.
-Dictyomitra eurythorax, Haeckel.
-Lithomitra nodosaria, Haeckel.
-eruca, Haeckel.
-chrysalis, Haeckel.
-Eucyrtidium hexagonatum, Haeckel.
-Eucyrtidium teuscheri, Haeckel.
-ovatum, Haeckel.
-Eusyringium macrosiphon, Haeckel.
-Lithocampe multiseriata, Haeckel.
-heptacola, Haeckel.
-Stichocapsa hexacola, Haeckel.
-Artocapsa spinosa, Haeckel.
-Cannopilus cyrtoides, Haeckel.
-Aulospathis furcata, Haeckel.
-Sagenoscena cruciata, Haeckel.
-Aulosphæra sceptrophora, Haeckel.
-Challengeria quadridens, Haeckel.
-Culoiloras heragrapher, Haeckel.
-91
+Surface Organisms.— The following species are recorded from the tow-nets at the ORGANISMS FROM
+surface and down to a depth of 2000 fathoms :-
+SURFACE-VETS.
+i
+1
 !
-Surface Organisms.—The following species are recorded from the surface at this ORGANISMS FROM
-SURFACE-NETS.
-Station :-
+:
+!
 RADIOLARIA (Haeckel, Zool. pt. 40).
-Actissa larcoides, Haeckel.
-Stylotrochus craticulatus, Haeckel.
-Thalassocanthium triactinium, Haeckel.
-Larcidium hexacanthum, Haeckel.
-Cenosphæra primordialis, Haeckel.
-Lithelius solaris, Haeckel.
-Plegmosphæra leptodictyon, Haeckel.
-Actinelius primordialis, Haeckel.
-Collosphæra pyriformis, Haeckel ().
-Litholophus pyramidalis, Haeckel.
-polyedra, Haeckel.
-Acanthochiasma spirale, Haeckel.
+Rhaphi lozoum pelagicum, Haeckel.
+Collosphæra pyriformis, Haeckel (?).
+polyelra, Haeckel.
 Siphonosphæra macrosiphonia, Haeckel.
-Aranthometron cylintricum, Haeckel.
-Herastylidium spirale, Haeckel.
-bulliferum, Haeckel.
-Hesalonche senophanis, Haeckel.
-Zygacantha costata, Haeckel.
-Hecacontium axophænum, Haeckel.
-Acanthonia denticulata, Haeckel.
+Heralonche xenophanis, Haeckel.
+Heracontium acophænum, Haeckel.
 papillosum, Haeckel.
-diplopyramis, Haeckel.
 Acanthosphæra capillaris, Haeckel.
-Lithophyllium condylatum, Haeckel.
 Heliosphæra polygonaria, Haeckel.
-Phractacantha lipennis, Haeckel.
-Clarococcus pinetum, Haeckel.
-Xiphacantha crucifera, Haeckel.
-Haliomma arachnium, Haeckel.
-Stauracantha bifurca, Haeckel.
-spinulosum, Müller.
-Quadrilonche tetrastaura, Haeckel.
-wycillei, Haeckel.
-Amphilonche conica, Haeckel.
+Cladococcus pinetum, Haeckel.
+Haliomma wyvillei, Haeckel.
 Heliosoma radians, Haeckel.
-acufera, Haeckel.
-Elatomma pinetum, Haeckel,
-Acantholonche amphipolaris, Haeckel.
+Elatomma pinetum, Haeckel.
 Diplosphæra hexagonalis, Haeckel.
-Hystrichaspis divaricata, Haeckel.
-Astrosphæra sideræa, Haeckel.
-Stauraspis furcata, Haeckel.
 Actinomma capillaceum, Haeckel.
-Echinaspis echinoides, Haeckel.
-arcadophorum, Haeckel.
-Lychnarpis wagenschieberi, Haeckel.
-Arachnopila polygonella, Haeckel.
-Icosaspis cruciata, Haeckel.
-Arachnopegma verticillatum, Haeckel.
 Arachnosphæra dolichacantha, Haeckel.
-Phractopelta tessaromma, Haeckel.
-Octodendron cubocentron, Haeckel.
-Dorypelta glaviata, Haeckel.
-Cenellipsis ovulum, Haeckel.
-Coleaspis coronata, Haeckel.
-Spongodruppa lentisca, Haeckel,
-Diploconus hexaphyllus, Haeckel.
 Cypassis puella, Haeckel.
-Tetraplagia geometrica, Haeckel.
-Plectanium sphærozoum, Haeckel.
-Dentrocircus arborescens, Haeckel.
-1
-Heliosestrum medusinum, Haeckel.
+Stylotrochus craticulatus, Haeckel.
+Larcarium octostylum, Haeckel.
+Lithelius solaris, Haeckel.
+Actinelius primordialis, Haeckel.
+Acanthometron cylinílricum, Haeckel.
+brilliferum, Haeckel.
+Zygacantha costata, Haeckel.
+Acanthonia denticulata, Haeckel.
+diplopyramis, Haeckel.
+Amphilonche conica, Haeckel.
+acufera, Haeckel.
+Acantholonche amphipolaris, Haeckel.
+Icosaspis cruciata, Haeckel.
+Belonaspis conifera, Haeckel.
+Plectophora pyramidalis, Haeckel.
+Dendrocircus arborescens, Haeckel.
+Protympanium primordiale, Haeckel.
+Anthospyris aculeata, Haeckel.
+Arachnocalpis sphæroiles, Haeckel.
+Cornutella hexagona, Haeckel.
+Eucecryphalus halicalyptra, Haeckel,

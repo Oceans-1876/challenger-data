@@ -1,120 +1,126 @@
-1402
+1406
 THE VOYAGE OF H.M.S. CHALLENGER.
-*
-sp. (?). T
-S
-99
-* Lachesis (?) sp.
-T
-T
-T
-sp. (?). T
->>
-T
-*
-T
-*
-9
-2
-* Fusus (Neptunea) regulus, n.sp.
-S * Marginella, ten species undetermined. T
-(Sipho) pyrrhostoma, n.sp. s
-five species undetermined. S
-* Mathilda (Cingulina) spina (Crosse and
-* Haliotis nævosa, Martyn.
-Fischer). s
-varia, Linné. T
-three species undetermined. T
-* Harpa nobilis, Lamarck. T
-* Mitra (Callithea) granosa (Chemnitz). T
-* Hydrobia caliginosa (Gould). S
-( ) obeliscus, Reeve. T
-* Jeffreysia sp. (?). s
-(Cancilla) cyri, Dohrn. T
-T
-( ) filaris (Linné). T
-* Lamellaria, four species undetermined.
-( ) interlirata, Reeve.
-S
-( ) reticulata, Adams.
-( ) rufescens, Adams.
-* Latirus, two species undetermined.
-( ) verrucosa, Reeve. T
-* Leucorhynchia (?) sp.
-(Costellaria) amanda, Reeve. T
-* Litorina cincta, Quoy and Gaimard. s
-(
-) exasperata
-mauritiana (Lamarck).
-(Chemnitz). T
-peruviana (Lamarck). S
-(
-) fusiformis, Kiener. T
-pintado (Wood). T
-(
-) nodilirata, Adams.
-punctata, Gmelin.
-setosa, Smith. s
-(
-radius, Reeve.
-striata, King. N
-(
-) sculptilis, Reeve.
-(IIamus) granularis, Gray. N (
-) two species undeter-
-( ) montrouzieri(Fischer).
-mined. T
-T
-(Nebularia) glabra, Swainson.
-( ) nodulosa, d'Orbigny.
-(
-) rhodia, Reeve.
-T
-(Pusia) cineracea, Reeve. ST
-Marginella fulminata, Kiener. T
-( 1 ) nodulifera, Adams. T
-(Gibberula)
-guancha, * (Scabricola) crenifera, Lamarck.
-d'Orbigny. N
-T
-( ) miliaria (Linné). (
-) sphærulata, Martyn.
-N
-T
-(Glabella) agapeta, n.sp.
 S
 T
-(
-) chrysea, n.sp.
-( ) turbinata, Sower Mitrularia uncinata (Reeve). TN
-by. S
-* Mucronalia xanthias, n.sp.
-T
-(Persicula) ovulum, Sowerby. * Murex (Chicoreus) cervicornis, Lamarck.
-T
-T
-T
-22
+*
 >
-т
-22
-S
-S
 *
-*
-> >
+T
+>
+* Ringicula doliaris, Gould. s
+pusilla, n.sp.
+T
 sp. (?).
+* Rissoa costulata, Alder. N
+similis, Scacchi.
+N
+(Alvania) canariensis, d’Orbigny.
+N
+( ) costata (Adams). N
+( ) leacocki, Watson. N
+( ) trajectus, n.sp.
+T
+(Cingula) glabrata (Mühlfeldt).
+N
+( ) scopulorum, n.sp.
+(Onoba) fenestrata, Krauss.
+) mercurialis, n.sp.
+T
+( ) striata (Adams). N
+( ) watsoni, Schwartz. N
+(Scrobs) badia, n.sp.
+) scrobiculator, n.sp.
+S
+(Setia) albugo, Watson.
+) australis, n.sp.
+callosa, Manzoni.
+) principis, n.sp.
+) sinapi, n.sp.
+S
+fourteen species undetermined.
+T
+three
+undetermined.
+TS
+S
 sp. (?). S
-s
->>
-s
+Rotella (?) sp.
+N
+* Scalaria aculeata, Sowerby.
+jukesiana, Forbes. s
+(Acirsa) subdecussata, Cantraine.
+N
+(Cirsostrema) dentiscalpium,
+n.sp.
 T
->
 (
->>
-) sagittata, Hinds.
+) hellenica, Forbes.
 T
+two species undetermined.
+Scaliola arenosa, Adams. T
+bella, Adams. T
+caledonica, Crosse. T
+Schismope carinata, n.sp. ST
+Scissurella alta, n.sp.
+NT
+coronata, n.sp.
+T
+obliqua, n.sp.
+s
+two species undetermined. T
+S
+Separatista chemnitzii, Adams.
+Siphodentalium dichelum, n.sp.
+eboracense, n.sp.
+T
+honoluluense, n.sp.
+T
+tetraschistum, n.sp.
+T
+* Siphonaria cancer, Reeve. s
+(Liriola) tristensis, Leach. S
+Skenea subcanaliculata, Smith. S
+(?), four species undetermined. T
+S
+* Solarium (Architectonica) perspectivum
+(Linné). T
 (
-(
-) maurus, Broderip. T
-) monodon, Sowerby. T
+) reevei, Hanley
+S
+(Torinia) rosulentum, n.sp.
+T
+* Stomatella imbricata, Lamarck. s
+(Gena) nigra, Quoy and
+Gaimard. ST
+* Strebloceras subannulatum, n.sp. T
+T
+N
+S
+T
+N
+s
+*
+species
+S
+sp. (?). S
+T
+99
+* Rissoina cincta, Angas. S
+ephamilla [scalariformis), n.sp.
+T
+honoluluensis, n.sp.
+T
+mercurialis, n.sp.
+miranda (Adams). T
+reticulata (Sowerby). T
+transenna, n.sp.
+T
+triangularis, n.sp.
+triticea, Pease. T
+S
+sp. (?).
+*
+.
+T
+.
+sp. (?). T

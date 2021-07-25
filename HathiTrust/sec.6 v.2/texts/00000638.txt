@@ -1,104 +1,99 @@
-1358
+1362
 THE VOYAGE OF H.M.S. CHALLENGER.
-Corallium rubrum.
-Leptogorgia purpurea.
-Primnoella australasiæ.
-Astræa abyssorum.
-Bathyactis symmetrica.
-Cladocora arbuscula.
-Dendrophyllia cornigera.
-Stephanophyllia formosissima.
-Actinometra pulchella.
-Antedon compressa.
-Archaster typicus.
-Bathybiaster loripes.
-Chætaster longipes.
-Cribrella obesa.
-simplex.
-Gnathaster elongatus.
-meridionalis.
-Labiiliaster annulatus.
-Luidia aspera.
-Nymphaster symbolicus.
-Pentagonaster patagonicus.
-Porania spiculata.
-Psilaster acuminatus.
-tichaster felipes.
-Amphiura squamata.
-studeri.
-Astronyæ loveni.
-Astrotoma agassizii.
-Gorgonocephalus pourtalesii.
-Ophiacantha imago.
-vivipara.
-.
-Ophiactis asperula.
-mülleri.
-Ophiocamas vitrea.
-Ophioglypha costata.
-deshayesi.
-lymani. .
-Ophiomy a australis.
-vivipara.
-Ophionereis dubia.
-Ophiothrix aristulata.
-berberis.
-capillaris.
-Arbacia dufresnii.
-Asthenosoma coriaceum.
-pellucidum.
-Brissopsis luzonica.
-lyrifera.
-Dorocidaris (Cidaris) bracteata.
-( 9 ) papillata.
-Echinanthus testudinarius.
-Echinus magellanicus.
-margaritaceus.
-Fibularia australis.
-Goniocidaris canaliculata.
-Hemiaster cavernosus.
-Micropyga tuberculata.
-Peronella decagonalis.
-Salenia hastigera.
-Salmacis dussumieri.
-Schizaster fragilis.
-Spatangus raschi.
-Temnopleurus hardwicki.
-Cucumaria capensis.
-serrata.
-Holothuria atra.
-Ilyodoemon maculatus.
-Pseudostichopus mollis.
-Psolus ephippifer.
-incertus.
-Synapta beselii.
-Trochostoma violaceum.
-Amphiporus marioni.
-Ditrypa arietina.
-Eunice magellanica.
-Pycnobranchiata.
-Hyalinecia tubicola.
-Læt monice producta.
-Lagisca antarctica.
-Neottis antarctica.
-Polynoë platycirrus.
-Serpula narconensis.
-Syllis ramosa.
-Terebella (Lanice) flabellum.
-Argillæcia eburnea.
-Bairdlia amygdaloiles.
-attenuata.
-foveolata.
-data.
-victrix.
-villosa.
-Bythocypris reniformis.
-Cythere dictyon.
-foveolata.
-fungoides.
-impluta.
-lepralioides.
-rastromarginata.
-scutigera.
-subrufa.
->
+7. ANIMALS OBTAINED IN THE DREDGINGS AND TRAWLINGS IN DEPTHS
+UNDER 100 FATHOMS.
+genera.
+The Challenger dredged or trawled in shallow water less than 100 fathoms at about
+seventy stations or localities. It is impossible to estimate the number of individual
+specimens procured, but they represent about 4400 species, belonging to about 1500
+The total number of species and genera actually described and recorded in the
+Zoological Reports amounts to about 4250 species, and about 1440 genera, of which
+1527 species (or 36 per cent.) and 132 genera (or 9 per cent.) are new to science, as
+shown in the following list. Those species taken by the Challenger in this zone
+only (numbering 3900 species, or 92 per cent.) are indicated by an asterisk, thus *
+The geographical distribution of the species is indicated by the heavy letters S, T,
+and N, used to denote that the species was taken south of the tropic of Capricorn (S),
+between the tropics of Capricorn and Cancer (T), or north of the tropic of Cancer (N).
+T
+T
+T
+N
+20
+S
+T
+T
+T
+KERATOSA :
+Psammopemma porosum, n.sp.
+T
+* Cacospongia amorpha, n.sp.
+* Spongelia horrida, Selenka.
+collectrix (Schulze).
+TN
+pallescens, Schmidt.
+compacta, n.sp.
+T
+spinifera, Schulze. S
+dendroides, n.sp.
+T * Verongia hirsuta, Ilyatt.
+irregularis, n.sp.
+T
+murrayi, n.sp.
+MONAXONIDA :
+oligoceras, n.sp.
+* Acanthella pulcherrima, n.sp.
+T
+tuberculata, n.sp.
+S
+(?) stipitata, Carter. T
+vesiculifera, n.sp.
+s
+Acarnus ternatus, Ridley. T
+* Carteriospongia otahitica (Esper). Agelas mauritianus (Carter). s
+radiata, Hyatt.
+Amphilectus apollinis, n.sp.
+* Coscinoderma altum, n.sp.
+S
+ceratosus, n.sp.
+denticulatum, n.sp.
+pilosus, n.sp.
+S
+Euspongia officinalis (Linné), var. lobosa, * Artemisina suberitoides, Vosmaer.
+T
+* Axinella arborescens, n.sp.
+* Hippospongia anomala, n.sp. T
+bulfourensis, n.sp.
+s
+mauritiana (Hyatt). T
+echidnæa, Ridley.
+* Ianthella flabelliformis (Pallas).
+fibrosa, n.sp.
+s
+* Luffaria variabilis, n.sp.
+(?) lunacharta, n.sp.
+* Psammoclema foliaceum, n.sp.
+mariana, n.sp.
+ramosum, Marshall.
+monticularis, n.sp.
+vosmaeri, n.sp.
+T
+(?) paradoxa, n.sp.
+* Psammopemma densum, Marshall. SN
+reticulata, n.sp.
+s
+S
+T
+N
+nov.
+S
+T
+T
+T
+T
+S
+s
+2
+T
+S
+09
+T

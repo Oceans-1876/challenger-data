@@ -1,107 +1,108 @@
 SUMMARY OF RESULTS.
-1421
-* Therapon candovittatus, Rich. T
-oxyrhynchus, Schleg. T
-servus, Linné.
-T
-theraps, C.V. T
-Thyrsites atum, Euphrasen. S
-* Thysanopsetta naresi, n.g., n.sp.
-S
-* Trachurus trachurus, Linné. SN
-* Trachynotus ovatus, Linné. T
-* Trigla picta, n.sp.
-S
-Tripterygium sp. (?).
-* Trygon kuhli, M. and H. T
-pastinaca, Linné. Τ Ν
-* Trypauchen chinensis, Steindachner.
-vagina, Bl. TN
-* Umbrina reedi, n.sp.
-S
-Upeneoides bensasi, Schleg. N
-vittatus, Forsk. T
-T
-S
-*
-N
-T
-T
-*
-sp. (?). T
-* Sebastes ventricosus, Schleg. N
-* Serranus
-apua,
-BI. T
-diacanthus, C.V. T
-dispar, Playfair. T
-hexagonatus, Forst. T
-impetiginosus, M. and T. T
-octocinctus, Schleg. N
-Sicydium nigrescens, n.sp. T
-sp. (?). T
-* Sillago ciliata, C.V.
-japonica, Schleg. N
-sihama, Forsk. T
-* Silurus asotus, Linné.
-* Solea heterorhina, Bleeker. T
-ovata, Rich. T
-Sphærodon grandoculis, Forsk. T
-Sphyræna vulgaris, C.V.
-Spirobranchus capensis, C.V.
-, S
-* Stromateus argenteus, Bl. T
-Synanceia verrucosa, Bl.
-* Synaptura arafurensis, n.sp. T
-zebra, Bl. T
-* Syngnathus superciliaris, n.sp. S
-* Tetrabrachium ocellatum, n.g., n.sp.
-T
-* Tetraroge longispinis, C.V. Τ Ν
-var. nuda, nov.
-* Tetrodon honckeni, Bl.
-immaculatus, Bl. T
-nigropunctatus, Bl. T
-oblongus, Bi. N
-pardalis, Schleg. N
-T
-rubripes, Schleg. N
-* Teuthis concatenata, C.V. T
-hexagonata, Bleeker.
-margaritifera, C.V. T
-marmorata, Q. and G. T
-vermiculata, C.V. T
-(SUMMARY OF RESULTS CHALL. EXP.—1894.)
-T
-T
-*
-Upeneus barberinus, C.V. T
-indicus, Shaw.
-trifasciatus, Lac. T
-* Uranoscopus asper, Schleg. N
-fuscomaculatus, Steindach-
-T
->>
-ner.
-kaianus, n.sp.
-T
-S
-s
-T
-Urocampus cælorhynchus, Günther.
-Xiphochilus quadrimaculatus, n.sp.
-* Zanclorhynchus spinifer, n.g., n.sp.
-* Zeus japonicus, C.V.
-* Zygæna malleus, Risso.
-S
-N
-T
-patoca, H.B.
-CETACEA:
-* Mesoplodon layardi, Gray.
-s
-T
-GREEN TURTLE:
-* Chelone viridis, Schneider.
-T
-179
+1423
+)
+9
+99
+>)
+Acanthaster echinités.
+Archaster typicus.
+Asterias cunninghami.
+glomerata.
+meridionalis.
+(Smilasterias) scalprifera.
+(Stolasterias) calamaria.
+Asterina exigua (3).
+Astropecten brasiliensis.
+japonicus (3)
+pectinatus (3)
+polyacanthus (4).
+velitaris.
+Calvasterias stolidota.
+Choriaster granulatus.
+Craspidaster hesperus.
+Cribrella oculata.
+simplex.
+Culcita nova-guineæ.
+Gnathaster elongatus.
+meridionalis.
+Leptoptychaster kerguelenensis.
+Linckia miliaris.
+pacifica, var. diplax.
+Luidia forficifer.
+Pentaceros productus.
+turritus (3).
+Perknaster fuscus.
+Retaster insignis.
+Stellaster incei (4).
+Amphiura depressa.
+studeri.
+Astrophyton exiguum.
+Euryale aspera.
+Gorgonocephalus pourtalesii.
+Ophiacantha imago.
+vivipara (5).
+Ophiactis asperula.
+savignyi.
+Ophiocamax vitrea.
+Ophiocnida pilosa.
+Ophiocoma erinaceus.
+scolopendrina (4).
+Ophioglypha deshayesi.
+hexactis.
+kinbergi (4)
+lymani.
+sinensis,
+Ophiolepis annulosa.
+cincta.
+Ophiomastix caryophyllata.
+Ophiomaza cacaotica.
+Ophiomyza australis (4).
+flaccida.
+vivipara.
+Ophionereis dubia (3).
+reticulata.
+Ophiothrix angulata (3).
+exigua.
+longipeda (6).
+propinqua (3).
+purpurea.
+.
+stelligera (4).
+Ophiura cinerea.
+Astropyga pulvinata (3).
+Brissopsis luzonica.
+lyrifera.
+Cidaris tribuloides (3).
+Clypeaster humilis.
+Diadema setosum (4).
+Dorocidaris papillata.
+Echinocardium australe.
+Echinometra lucunter (5).
+subangularis.
+Echinothrix calamaris (3).
+turcarum.
+Echinus magellanicus (4).
+Eupatagus valenciennesi.
+Goniocidaris canaliculata (4).
+tubaria.
+Hipponoë variegata (3).
+Laganum depressum.
+Lovenia elongata (3).
+Maretia planulata (3).
+Microcyphus zigzag.
+Peronella decagonalis (9).
+peroni.
+Phyllacanthus annulifera (3).
+baculosa.
+Pleurechinus bothyroides.
+Salmacis rarispina (3).
+Schizaster japonicus (3).
+Spatangus purpureus.
+Sphærechinus granularis.
+Strongylocentrotus dröbachiensis.
+Temnopleurus hardwicki.
+Toscopneustes pileolus.
+Chirodota contorta (4).
+Cucumaria crocea (4).
+lævigata.
+9)

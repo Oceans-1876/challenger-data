@@ -1,38 +1,48 @@
-1152
+1156
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 308.
-OSTRACODA (Brady, Zool. pt. 3).
-Bairdia sp. (?).
-Cythere patagoniensis, n.sp. Obtained at no other locality.
-dictyon, n.sp.
-For distribution see Station 24.
-Krithe producta, n.sp. For distribution see Station 70.
-Cytherella sp. (?).
-MACRURA (Spence Bate, Zool. pt. 52).
-Campylonotus semistriatus, n.g., n.sp. Nine specimens; for distribution see
-Station 305.
-vagans, n.g., n.sp. One specimen ; obtained at no other locality.
-ANOMURA (Henderson, Zool. pt. 69).
-Eupagurus comptus (White), var. jugosa, nov. Many specimens ; obtained also
-at Station 315, 5 to 12 fathoms. The species recorded
-from Patagonia.
-BRACHYURA (Miers, Zool. pt. 49).
-Euripodius longirostris, n.sp. Two specimens ; obtained at no other locality.
-PYCNOGONIDA (Hoek, Zool. pt. 10).
-Phoxichilidium patagonicum, n.sp. One specimen ; obtained also at Stations 304,
-313, and 320 (var. elegans).
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Pecten vitreus (Chemnitz). For distribution see Station 204.
-GASTEROPODA (Watson, Zool. pt. 42).
-Trophon liratus, Couthouy, MS. Obtained also at Station 315, 12 fathoms.
-Recorded from Falkland Islands and Oregon.
-acanthodes, n.sp. Obtained also at Station 311, 245 fathoms.
-NUDIBRANCHIATA (Bergh, Zool. pt. 26).
-Tritonia challengeriana, 1.sp. Two specimens ; obtained at no other locality.
-Polyzoa (Busk, Zool. pt. 30 ; Waters, pt. 79).
-Menipea benemunita, n.sp. Obtained also at Stations 149, 313, 314, and 315.
-[Recorded in error from Station 303].
-aculeata (d’Orbigny). Obtained also at Stations 314 and 315,
-70 fathoms. Recorded from Patagonia and Kerguelen.
-[Recorded in error from Station 303].
-to
+STATIONS 309
+AND 309a.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms.—The tow-nets on this date procured more pelagic forms than in
+Messier Channel, and in Puerto Bueno on January 9 there were many specimens of
+Peridinium, Infusoria, Medusæ, Copepods, many young mussels (?), Membranipora
+larvæ, Appendicularia.
+Station 310.
+Station 310 (Sounding 459), Gulf of Peñas to Sandy Point through Magellan
+Strait (see Chart 41).
+January 10, 1876 ; lat. 51° 27' 30" S., long. 74° 3' W.
+Temperature of air at noon, 48°:8; mean for the day, 48°.5.
+Temperature of water at surface, 50°:5; bottom, 46°:5.
+Density at 60° F. :-
+.
+Surface,
+25 fathoms,
+1:01910
+. 1:02315
+.
+200 fathoms,
+Bottom,
+. 1.02458
+. 1.02451
+Depth, 400 fathoms ; deposit, Blue Mud, containing only a trace of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 3.30 A.M. got up steam. At 4.50 A.M. weighed anchor and proceeded out of
+Puerto Bueno, steaming through the Sarmiento Channel. At 8.30 A.M. stopped and
+sounded in 400 fathoms. Put over trawl, which came up at 10.45 A.M. containing many
+specimens. The carbonic acid was determined in water from 200 fathoms, and amounted
+to 70.8 milligrammes per
+litre. At 4.40 P. M. anchored in Innocentes Bay in 25 fathoms.
+Exploring parties went on shore.
+ANIMALS FROM
+TRAWL.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :--
+HEXACTINELLIDA (Schulze, Zool. pt. 53).
+Acanthascus dubius, n.g., n.sp. One specimen; obtained at no other locality.
+Rhabdocalyptus ræperi, n.g., n.sp. Two specimens ; obtained at no other locality.
+ALCYONARIA (Wright and Studer, Zool. pt. 64).
+Thouarella köllikeri, n.sp. One specimen ; obtained also at Station 308.
+Paramuricea laxa, n.sp. Many specimens; obtained at no other locality.
+Clematissa robusta, n.g., n.sp. Many specimens ; obtained at no other locality.
+Leptogorgia purpurea (Pallas). One specimen ; obtained also at Bahia.

@@ -1,59 +1,136 @@
-1314
-THE VOYAGE OF H.M.S. CHALLENGER.
-Hymenoclora rostrata (deep tow-net).
-Neonatocarcinous proximatng.
-Penæus velutinus.
-Parapagurus alyssorum.
-Amussium cancellatum.
-Ervilia castanea.
-Lima multicostata.
-Venns (Chamelæa) mesodesia.
-Ianthina rotunlata (surface).
-Mitrularia uncinata.
-Philine quarlrata.
-Catenicella elegans.
-Scrupocellaria macanlrei.
-Mayarella flexuosu.
-Sternoptyx diaphana (surface).
-Of the 277 species taken only in this zone between 1000 and 1500 fathoms, 204
-species (or 74 per cent.) are new to science, and the following 19 new genera (each
-represented by a single species), were taken only in this zone of depth :-
-1
-Nauphanta.
-Pectis.
-Aphroditaster.
-Ophiambix.
-Ophiotrochus.
-Enypriastes.
-Euphronides.
-Carinina.
-Crossophorus
-Camacho.
-Onesimoides.
-Platamon.
-Anuropus.
-Leiopus.
-Orphania. .
-Pararius.
-Stochasmus.
-Acanthonus.
-Aphyonus.
-Notes on the Geographical Distribution.—An examination of the foregoing list shows
-that of the 508 species taken in this zone between 1000 and 1500 fathoms, 231 species
-(or 44 per cent.) were taken south of the southern tropic, 194 species (or 38 per cent.)
-were taken within the tropics, and 267 species (or 53 per cent.) were taken north of the
-northern tropic; while 38 species (or 8 per cent.) were found to be common to all those
-three areas, 29 species (or 6 per cent.) were common to the southern and northern areas,
-27 species (or 5 per cent.) were common to the southern and tropical areas, and 49
-species (or 10 per cent.) were common to the tropical and northern areas.
-5. ANIMALS OBTAINED IN THE DREDGINGS AND TRAWLINGS IN DEPTHS BETWEEN 500
-AND 1000 FATHOMS.
-The Challenger dredged or trawled at 23 Stations where the depth was between 500
-and 1000 fathoms, about 2000 specimens of invertebrates and fishes being procured,
-belonging to about 710 species and about 425 genera. The total number of species and
-genera actually described and recorded in the Zoological Reports from the zone between
-these depths amounts to 631 species and 363 genera, of which 501 species (or about 80
-per cent.) and 95 genera (or 26 per cent.) are new to science, as shown in the following
-list. Those species taken by the Challenger in this zone only (numbering 406 species or
-64 per cent.) are indicated by an asterisk thus.* The geographical distribution of the
-species is indicated by the heavy letters, S, T, and N, used to denote that the species
+1318
+THE VOYAGE OF H,M.S. CHALLENGER.
+S
+s
+T
+*
+T
+sp. (?).
+sp. (?). T
+S
+>
+s
+*
+S
+T
+T
+T
+T
+N
+S
+* Ophiacantha vepratica, n.sp.
+Aërope rostrata, n.g., n.sp.
+Τ Ν
+vivipara, Ljungman. Argopatagus vitreus, n.g., n.sp.
+Ophiactis cuspidata, n.sp.
+S
+Aspidodiadema tonsum, n.g., n.sp. S T
+flexuosa, n.sp.
+S
+Asthenosoma gracile, n.sp.
+S T
+nama, n.sp.
+S T
+Brissopsis luzonica (Gray). S TN
+pectorale, n.sp.
+T
+* Cionobrissus revinctus, n.g., n.sp.
+pod, n.sp.
+S
+Dorocidaris (Cidaris) papillata, Leske.
+S
+STN
+Echinus acutus, Lamarck. STN
+Ophioceramis (?) clausa, n.sp.
+norvegicus, Düben and Koren.
+(?) obstricta, n.sp.
+ST
+SN
+Ophiochiton fastigatus, n.g., n.sp.
+Τ Ν
+Hemiaster gibbosus, n.sp.
+Τ Ν
+lentus, n.g., n.sp.
+zonatus, n.sp.
+Τ Ν
+Ophiochondrus stelliger, n.sp.
+Maretia alta, Agassiz.
+Ophiocreas adipus, n.sp.
+Micropyga tuberculata, n.g., n.sp.
+Ophiogeron edentulus, n.g., n.sp.
+TN
+Phormosoma hoplacantha, n.sp. SN
+* Ophioglypha albata, n.sp.
+N
+luculentum, n.sp.
+confragosa, n.sp. SN
+rigidum, n.sp.
+inermis, n.sp.
+Porocidaris elegans, n.sp.
+ST
+jejuna, n.sp.
+Pourtalesia laguncula, n.sp.
+S TN
+lapidaria, n.sp.
+Prionechinus sagittiger, n.g., n.sp. S T
+lepida, n.sp.
+Τ Ν
+Salenia hastigera, n.sp.
+STN
+meridionalis, n.sp.
+* Trigonocidaris monolini, 1.sp.
+rugosa, n.sp.
+S
+Ophiomitra normani, n.sp.
+HOLOTHURIOIDEA :
+plicata, n.sp.
+S T
+* Ankyroderma marenzelleri, n.sp.
+Ophiomusium cancellatum, n.sp.
+Cucumaria serrata, n.SP.,
+lymani, Wyville Thomson.
+marionensis, nov.
+STN
+Holothuria lactea, n.sp.
+SN
+scalare, n.sp.
+S
+* Lætmogone spongiosa, n.g., n.sp.
+* Ophiomyces spathifer, n.sp. N
+Pælopatides (?) appendiculata, v.g.,
+* Ophiopholis japonica, n.sp.
+n.sp.
+N
+* Ophiophyllum petilum, n.g., n.sp. S T
+aspera, n.g., n.sp.
+* Ophiozona depressa, n.sp.
+Pannychia moseleyi, n.g., n.sp.
+stellata, n.sp.
+S
+Psolus antarcticus, Philippi. S
+* Pectinura heros, n.sp.
+murrayi, n.sp. S
+operculatus, Pourtalès. SN
+ECHINOIDEA :
+Trochostoma albicans, n.sp., var. glabra,
+Aceste bellidifera, n.g., n.sp.
+STN
+SN
+S
+N
+S
+S
+N
+72
+N
+var.
+S
+*
+N
+N
+*
+T
+T
+S
+T
+nov.

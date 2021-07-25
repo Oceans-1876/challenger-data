@@ -1,130 +1,121 @@
-1382
+1386
 THE VOYAGE OF H.M.S. CHALLENGER.
-T
-T
-N
-S
-N
 S
 S
-sp. (?). T
+*
 S
-T
-T
-Notomastus agassizii, n.sp. TN
 S
-* Syllis gigantea, n.sp.
-* Notopygos labiatus, n.sp.
-ramosa, n.sp.
-megalops, n.sp.
-N
-* Terebella crassicohms, Schmarda.
+Astacilla marionensis, n.sp. S
+Bathytanais bathybrotes, n.g., n.sp. S N
+* Ceratocephalus grayanus, White, MS. S
+* Jæra pubescens, Dana. s
+* Munna maculata, n.sp.
+pallida, n.sp.
+* Serolis australiensis, n.sp. S
+convexa, Cunningham. S
+cornuta, Studer.
 S
-* Palmyra aurifera, Savigny. N
-(Lanice) flabellum, Baird.
-* Palolo viridis, Gray. T
-(„ ) seticornis, n.sp.
-* Thalenessa digitata, n.sp.
-T
-* Phyllochætopterus claparedii, n.sp.
-* Phyllocomus crocea, Grube. s
-fimbriata, n.sp.
-oculata, n.sp.
-ST
-* Phyllodoce (Anaitis ?) sancti-vincentis,
-n.sp.
-T * Thelepus cincinnatus (Fabricius), var.
-canadensis, nov.
-N
-* Piste fasciata (Grube). N
-* Polynoë attenuata, n.sp.
+elongata, n.sp.
+s
+latifrons, White.
+s
+longicaudata, n.sp.
+S
+minuta, n.sp.
+pallida, n.sp.
+S
+paradoxa (Fabricius).
+schythei, Lütken. S
+septemcarinata, Miers.
+tuberculata, Grube.
+* Tanais willemoesii, Studer.
+Thirty-two species of Isopods undeter-
+mined.
+02
+S
+* diceroides ornata, n.g., n.sp.
+* Ediceros linceus, Sars. N
+* Orchestia selkirki, n.sp. S
+* Orchomene cavimanus, n.sp. S
+* Pardalisca abyssi, Boeck. N
+Parelasmopus suluensis (Dana). T
+* Photis brevicaudata, n.sp.
+S
+macrocarpus, n.sp.
+S
+Phoxocephalus kergueleni, n.sp.
+* Phtisica (Proto) novæ-hollandiæ, Has-
+well. S
+Platophium inconspicuum, n.sp. S
+* Platyischnopus mirabilis, n.g., n.sp.
+* Pleustes panopla (Krøyer). N
+* Podocerus falcatus (Montagu).
+* Protella gracilis, Dana. T
+* Protellopsis kergueleni, n.g., n.sp.
+S
+* Rhachotropis aculeatus (Lepechin). N
+kergueleni, n.sp. S
+* Seba saundersii, Stebbing. s
+* Socarnoides kergueleni, n.g., n.sp.
+Sophrosyne murrayi, n.g., n.sp.
+Stegocephalus inflatus, Krøyer. N
+Syrrhoë semiserrata, n.sp.
+* Tritata kergueleni, n.sp.
+S
+* Tryphosa barbatipes, n.sp.
+* Unciola irrorata, Say. N
+* Vibilia viator, n.sp. T
+S
+S
+S
+S
 S
 s
-capensis, n.sp.
 S
-* Travisia kerguelensis, n.sp.
-ocellata, n.sp.
 s
+s
+PHYLLOCARIDA :
+*
+s
+* Paranebalia longipes, n.g., n.sp.
 N
-* Trophonia capensis, n.sp.
-platycirrus, n.sp.
-MYZOSTOMIDA :
-pustulata, n.sp. N
-T
-(Langerhansia) euplectellæ, n.sp. Myzostoma dentatum, n.sp.
-T
-filiferum, n.sp.
-N
-(Lepidonotus) iphionoides, n.sp.
-fimbriatum, n.sp.
-gigas, Lütken. Τ Ν
-T
-* Potamilla torelli, Malmgren. N
-horologium, n.sp.
-* Praxilla capensis, n.sp.
 s
-intermedium, n.sp.
-T
-Prionospio capensis, n.sp.
-longicirrum, n.sp.
-* Protula americana, n.sp.
-N
-membranaceum, n.sp.
-arafurensis, n.sp.
-T
-T
-platypus, n.sp.
-* Psammolyce fijiensis, n.sp.
-quadricaudatum, n.sp.
-* Ranzaniu (?) capensis, n.sp.
-quadrifilum, n.sp.
-* Sabella bipunctata, Baird.
-OSTRACODA :
-fusca, Grube.
 s
-zebuensis, n.sp.
-* Aglaia clavata, n.sp.
+CUMACEA :
+* Cyclaspis australis, n.sp.
+exsculpta, n.sp.
+pusilla, n.sp.
+T
+T
+STOMATOPODA :
+02
 s
-* Sabellaria (Pallasia)capensis(Schmarda).
-(?) meridionalis, n.sp.
-(?) obtusata, n.sp.
-S
-(
-) giardi, n.sp.
-(?) pusilla, n.sp.
-S
-) johnstoni, n.sp.
-T Argillæcia badia, n.sp.
-* Salvatoria kerguelensis, n.g., n.sp.
-eburnea, n.sp.
-Scalibregma inflatum, Rathke. S
-ST
-Bairdia amygdaloides, Brady.
-* Schmardanella pterochæta (Schmarda). S
-attenuata, n.sp.
-Serpula narconensis, Baird.
-crosskeiana, Brady. T
-* Staurocephalus australiensis, n.sp. s
-expansa, n.sp.
+ISOPODA :
+* Anceus latidens, n.sp.
 T
-Syllis capensis, n.sp. S
-fortificata, n.sp.
-T
+tuberculosus, n.sp.
+* Apseudes spectabilis, Studer.
+* Arcturus americanus, n.sp.
+S
+furcatus, Studer.
+S
+oculatus, n.sp.
 s
-T
-T
-T
-T
+stebbingi, n.sp.
 S
-T
-S
-T
-S
-W2
+studeri, n.sp.
 S
 S
-S
+>
+* Gonodactylus chiragra, Latreille. Τ Ν
+var. minutus, nov.
+glabrous, n.sp.
 T
-s
+graphurus, Miers.
+Lysiosquilla maculata (Fabricius). T
+* Protosquilla cerebralis, n.g., n.sp.
+elongata, n.g., n.sp.
 T
-99
+T
+sp. (?).
+T

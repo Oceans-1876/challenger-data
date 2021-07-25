@@ -1,114 +1,117 @@
-1384
+1388
 THE VOYAGE OF H.M.S. CHALLENGER.
 T
 T
-s
-s
-S
-s
-S
-T
-s
-V2
-s
-S
-s
-* Philomedes wyville-thomsoni, n.sp.
-Cytherella semitalis, Brady.
-venusta, n.sp.
-T
-Phlyctenophora zealandica, n.g., n.sp.
-S T
-Cytheridea spinulosa, Brady.
-* Cytherideis lavata, n.sp.
-* Polycope cingulata, n.sp. (locality and
-Cytheropteron (?) angustatum, n.sp. S T
-depth unknown).
-assimile, n.sp.
-orbicularis, Sars. STN
-intermedium, Brady. * Pontocypris attenuata, Brady. T
+* Oodeopus duplex, n.g., n.sp.
+* Palæmon affinis, M-Edwards. s
+* Pandalus falcipes, n.sp.
 N
-faba (Reuss). S T
-scaphoides, n.sp.
-simplex, n.sp.
+* Panulirus penicillatus (Olivier). T
+* Paralphcus diversi manus (Olivier). T
+* Parathanas decorticus, n.g., n.sp.
 T
-wellingtoniense, n.sp. S *
-(?) subreniformis, n.sp. S
-Cytherura clausi, n.sp.
-* Sclerochilus contortus (Norman). S
-clavata, n.sp.
-Sestoleberis africana, n.sp.
-S
-costellata, n.sp.
-S
-curta, Brady STN
-S
-cryptifera, n.sp. s
-depressa, Sars.
-curvistriata, n.sp.
-foveolata, n.sp.
-lilljeborgi, n.sp.
-granulosa, n.sp.
-S
-mucronata, n.sp.
-s
-margaritea, Brady. T
-obliqua, n.sp.
-nana, n.sp.
+* Penæus anchoralis, n.sp.
+TN
+canaliculatus, Olivier. STN
+var. australiensis,
+Anapagurus australiensis, n.sp. S
+pusillus, n.sp.
+SN
+Birgus latro (Linné).
+* Calcinus tibicen (Herbst). T
+* Catapagurus australis, n.sp. T
+* Clibanarius strigimanus (White). S
+* Cænobita clypeata (Herbst). T
+perlata, M.-Edwards. T
+rugosa, M.-Edwards.
 T
-rudis, Brady.
-polita, Brady. S
-* Krithe hyalina, n.sp.
-N
-setigera, n.sp.
-S
-* Loxoconcha alata, Brady.
-tumefacta, n.sp.
-variegata, n.sp.
-australis, n.sp.
-S T
-avellana, Brady. S T
-COPEPODA :
-guttata (Gorman). N * Alebion charcharia, Krøyer. T
-honoluliensis, n.sp.
-* Echthrogaleus affinis, M.-Edwards. .
-pumicosa, n.sp.
-(locality unknown).
-sculpta, Brady.
-Lepeophtheirus suhmi, n.sp.
-sinensis, Brady. TN * Lernæa hemiramphi, Krøyer. T
-subrhomboidea, n.sp.
-* Nogagus grandis, Steenstrup and Lütken
-variolata, Brady. T
-(locality unknown).
-Macrocypris decora, Brady. ST
-* Pandarus zygænæ, n.sp.
-T
-maculata, Brady.
-ST Perissopus dentatus (Steenstrup and
-orientalis, Brady. T
-Lütken) (locality unknown).
-setigera, n.sp.
-S
-tumida, n.sp.
-CIRRIPEDIA:
-Paracypris polita, Sars. S TN
-* Acasta fenestrata, Darwin. T
-* Paradoxostoma abbreviatum, Sars. S * Balanus amaryllis, Darwin.
-Τ Ν
-ensiforme, Brady. N
-lævis, Bruguière.
-s
+* Cosmonotus grayii, Adams and White.
+nov.
 T
 T
-anomala, n.sp.
-T
-T
-T
-T
-T
-T
-s
-*
-S
 >
+T
+2 72 72
+T
+*
+nov.
+fissurus, n.sp.
+gracilis, Dana. ST
+incisipes, n.sp.
+T
+indicus, M.-Edwards.
+monodon, Fabricius.
+philippinensis, n.sp.
+T
+rectacutus, n.sp.
+T
+tenellus, n.sp.
+N
+velutinus, Dana. Τ Ν
+* Philonicus (Pleoticus) mülleri, n.g.,
+n.sp.
+S
+( ) pectinatus, n.g.,
+n.sp.
+T
+* Pontocaris pennata, n.g., n.sp. T
+* Pontonia meleagrina (Peters). T
+* Sabinea septemcarinata (Sabine). N
+* Scallasis amboinæ, n.g., n.sp.
+T
+* Sicyonia carinata (Olivier).
+lancifer (Olivier). T
+sculpta, M.-Edwards. T
+Spirontocaris spinus (Sowerby). N
+* Spongicola venusta, De Haan.
+* Stenopus hispidus, Olivier. Τ Ν
+Synalphæus falcatus, n.g., n.sp.
+T
+* Thalassina scorpionoides, Latreille.
+* Thenus orientalis, Rumph.
+, ,
+* Cryptodromia japonica, n.sp.
+N
+lateralis (Gray).
+nodulifera, n.sp.
+Diogenes brevirostris, Stimpson. S
+custos (Fabricius). S
+guttatus, n.sp.
+T
+* Dromia ciliata, n.sp.
+S
+* Dromidia antillensis, Stimpson. T
+spongiosa, Stimpson. s
+Eupagurus comptus (White), var. jugosa,
+S
+constans, Stimpson. N
+excavatus (Herbst), var.
+meticulosa, Roux. TN
+lacertosus, n.sp., var, nana,
+S.
+pubescens (Krøyer), var.
+kroyeri, Stimpson. N.
+(?) sp. T
+* Galathea aculeata, Haswell. T
+australiensis, Stimpson.
+T
+dispersa, Spence Bate. N
+elegans, White.
+T
+grandirostris, Stimpson. T
+labidolepta, Stimpson.
+s
+sp. (?). S
+nov,
+T
+T
+*
+*
+T
+T
+ANOMURA:
+sp. (?). T
+* Albunea microps (White), Miers.
+T
+* Homola orientalis, n.sp.
+T

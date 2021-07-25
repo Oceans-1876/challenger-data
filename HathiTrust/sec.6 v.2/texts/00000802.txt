@@ -1,182 +1,185 @@
-1520
+1524
 THE VOYAGE OF H.M.S. CHALLENGER.
-Lithoconus (see Conus).
-Lithocabus,
-astragalus, 1040.
-geometricus, 875.
-octacanthus, 1040.
-Lithocyclia,
-cingulata, 879.
-heteropora, 1006.
-lenticula, 879, 1022.
-Lithodes, 1441, 1451.
-agassizii, 282, 284, 297,1307,1441.
-antarcticus, 1441.
-brevipes, 1441.
-camtschaticus, 1441.
-ferox, 1441.
-maia, 1441.
-murrayi, 437, 1342, 1441.
-spinsoissimus, 1441.
-Lithodomus, 365.
-antillarum, 245, 1396.
-appendiculatus, 245, 1396.
-dactylus, 365.
-malaccanus, 705, 1396.
-Lithogromia,
-diatomacea, 1250.
-lenticula, 1218.
-Litholophus,
-decastylus, 1218.
-fasciculus, 1101.
-ligurinus, 1062.
-penicillus, 977.
-pyramidalis, 1017.
-rhipidium, 1261.
-Lithomelissa,
-bicornis, 1255, 1257, 1261, 1266.
-bütschlii, 1016, 1023, 1027, 1031,
-1041, 1051, 1056, 1060.
-corythium, 1023.
-decacantha, 1251.
-ehrenbergii, 1011.
-haeckelii, 1250.
-macroceras, 1041, 1047, 1218.
-pycnoptera, 1011.
-thoracites, 1041.
-Lithomespilus,
-flammabundus, 1249.
-phloginus, 1039.
-phlogoides, 1031, 1039, 1050.
-Lithomitra,
-chrysalis, 1017, 1043.
-eruca, 1012, 1017, 1024.
-infundibulum, 1043.
-lineata, 512, 513.
-nodosaria, 1006, 1012, 1017,
-1023, 1027, 1032, 1043, 1052,
-1056, 1061.
-Lithopera,
-ananassa, 1251, 1255, 1257, 1261.
-bacca, 777, 876, 1018, 1047.
-globosa, 1041.
-Lithopera—continued.
-gutta, 881.
-Lithophæna,
-circumtexta, 1016.
-Lithophyllium,
-condylatum, 1017.
-cruciatum, 1261, 1266, 1268.
-gladiatum, 950.
-Lithoptera,
-darwinii, 1137.
-dodecaptera, 1046.
-lamarckii, 1046.
-quadrata, 922.
-tetragona, 958.
-tetraptera, 1255.
-Lithornithium,
-ciconia, 1042, 1218.
-falco, 1023.
-fringilla, 1052.
-hirundo, 881.
-trochilus, 1016.
-Lithostrobus,
-bicornis, 513.
-botryocyrtis, 1012.
-caloceras, 881.
-conulus, 1052
-cornutella, 513.
-cornutus, 881, 1012, 1017, 1023,
-1043, 1047.
-cuspidatus, 1254.
-cyrtoceras, 1043.
-distichus, 1023.
-hexagonalis, 1052.
-hexastichus, 1032, 1043, 1050,
-1052, 1061.
-leptoceras, 980.
-lithobotrys, 1023.
-macroceras, 1047, 1061.
-monostichus, 881.
-pentastichus, 1118.
-quadratus, 1043, 1052, 1056, 1061.
-seriatus, 1032, 1043, 1052, 1056,
-1061.
-tetrastichus, 1052
-tristichus, 950.
-Lithostrotion, 1456.
-Lithotympanum,
-spinosum, 875.
-tuberosum, 880.
-Litiopa,
-melanostoma, 178,251,1347, 1359.
-Litocheira,
-kingsleyi, 421, 1343.
-Litorina,
-cincta, 599, 1402.
-mauritiana, 542, 1402.
-peruviana, 1120, 1402.
-pintado, 999, 1402.
-punctata, 312, 1402.
-setosa, 474, 1402.
-Litorina-continued.
-striata, 136, 1402.
-(Hamus),
-granularis, 925, 1402.
-montrouzieri, 711, 1402.
-nodulosa, 345, 1402.
-Lituaria,
-phalloides, 906, 1367.
-Lituus,
-reticulatus, 754.
-Lobophytum,
-marenzelleri, 667, 1366.
-Lobularia, 1445.
-Locusta, 324.
-Loimia,
-savignyi, 308, 1381.
-Loligo, 760.
-brasiliensis, 1195, 1410.
-edulis, 926, 1410.
-ellipsura, 1170, 1410.
-galatheæ, 786, 1410.
-indica, 730, 1410, 1427.
-japonica, 926, 1410.
-kobiensis, 910, 914, 1410, 1427.
-Loligopsis, 525.
-Lonchostaurus,
-bifidus, 592.
-bifurcus, 922.
-crystallinus, 1046.
-lanceolatus, 1053.
-rhombicus, 980.
-rhomboides, 1136.
-Lonchotaster, 1452.
-forcipifer, 502, 507, 1293, 1298.
-tartareus, 299, 502, 1285.
-Lophactæa,
-granulosa, 997, 1391.
-lobata, 244, 1391.
-Lophaster, 1444, 1452.
-stellans ,1138, 1151, 1155, 1334,
-1355.
-Lophius,
-naresii, 789, 861, 865, 1354,
-1357, 1360, 1418.
-piscatorius, 1440.
-setigerus, 928, 1418.
-Lophoconus,
-cornutella, 1042, 1047, 1265.
-hexagonalis, 881, 1042.
-rhinoceros, 1012.
-Lophocorys,
-astrocephala, 1016, 1042.
-bovicornis, 1032.
-quadricornis, 1218.
-Lophocyrtis,
-coronata, 1056.
-holothuria, 1023.
-Lophogaster, 260.
-typicus, 417, 421, 1341, 1359,
-1387, 1440, 1442, 1448.
+van.
+Melosira-continued.
+borreri, 481.
+clavigera, 939.
+granulata, 303.
+mediterranea,
+var. punctulata, 939, 1119.
+nummuloides, 931.
+sol, 443.
+solida, 939.
+sulcata,
+var. biseriata, 911.
+Membranipora, 188, 189, 932, 1119,
+1127, 1156, 1158, 1209.
+albida, 276, 628, 1352, 1360, 1412.
+cervicornis, 440, 485.
+crassimarginata, 1360,1427,1449.
+var. erecta, 397, 491, 543,
+1412.
+var. incrustans, 397, 491,
+1352.
+dumerilii, 397, 1412.
+falcifera, 1191.
+galeata, 475, 1326, 1327, 1357,
+1360, 1412, 1427, 1447.
+var. erecta, 1191, 1323.
+var, furcata, 440, 485, 1352,
+1412.
+multifida, 276, 414,
+1352, 1412.
+spinosa, 550, 1352.
+umbonata, 1191, 1323,1326,1327.
+Menæthius,
+monoceros,
+var. angusta, 625, 700, 1391,
+1425.
+Menipea, 1451.
+aculeata, 1138, 1152, 1173, 1352,
+1360, 1412, 1427.
+benemunita, 475, 1138, 1152,
+1170, 1173, 1179, 1352, 1357,
+1360, 1412, 1427.
+cirrata, 414, 1412.
+clausa, 260, 1297.
+flabellum, 414, 1412.
+flagellifera, 439, 475, 1170, 1173,
+1352, 1360, 1412, 1427.
+marionensis, 439, 1352, 1360,
+1412.
+pateriformis, 1125, 1287.
+triseriata, 414, 1412.
+Merhippolyte,
+agulhasensis, 421, 1341.
+orientalis, 739, 1321.
+Merluccius, 1440.
+gayi, 1121, 1166, 1418, 1428.
+Merocryptus,
+lambriformis, 540, 549, 1343,
+1359, 1391.
+Merulina,
+crispa, 756, 1370.
+Merulina-continued.
+prolifera, 769, 1370.
+Mesocena,
+annulus, 1250.
+octogona, 1054, 1057, 1062.
+stellata, 1032.
+Mesoplodon, 1087.
+layardi, 415, 1421, 1428.
+Mesoprion,
+annularis, 657, 1418.
+bengalensis, 657, 1418.
+chrysotenia, 715, 1419.
+chrysurus, 170, 1419.
+fulviflamma, 629, 657, 1419,
+1428.
+marginatus, 657, 1419.
+monostigma, 861, 1419.
+semicinctus, 657, 1419.
+vitta, 796, 1419.
+Mespilia,
+globulus, 828, 1378.
+Metacrinus,
+angulatus, 745, 747, 1333.
+cingulatus, 745, 1333.
+costatus, 840, 1317.
+interruptus, 809, 1374.
+moseleyi, 839, 1317.
+murrayi, 745, 814, 839, 1317.
+nobilis, 746, 1333.
+nodosus, 613, 1317.
+tuberosus, 746, 1333.
+varians, 613, 839, 1317, 1324.
+wyvillii, 613, 840, 1317, 1324.
+Metaha,
+maculosa, 721, 1378.
+pectoralis, 375, 1378.
+Metasepia (see Sepia).
+Metopa,
+compacta, 1170, 1385.
+crenatipalmata, 394, 1169, 1340,
+1359, 1385.
+magellanica, 1169, 1385.
+nasutigenes, 468, 1340.
+ovata, 1170, 1385.
+parallelocheir, 1169, 1385.
+Metopograpsus,
+messor, 1425.
+frontalis, 649, 997,
+1075, 1391.
+Metoporaphis,
+forficulatus, 359, 376, 1392, 1425.
+Metrodira,
+subulata, 694, 1375.
+Metula (see Fusus).
+Micippa,
+spinosa, 560, 1392, 1425.
+var, affinis, 539, 1391.
+Microbus,
+dodecastoa, 1040.
+zonarius 040.
+Microcosmus,
+helleri, 730, 1415.
+polymorphus, 544, 1415, 1449.
+propinquus, 544, 1415.
+Microcubus,
+amphispyris, 1051.
+cornutus, 920.
+dodecastoma, 1051, 1056, 1060.
+quadrupes, 980.
+Microcyphus,
+zigzag, 531, 537, 1378, 1423.
+Micromelissa,
+bombus, 881, 1016.
+vespa, 881.
+Micropanope,
+spinipes, 377, 1392.
+Microphrys,
+bicornutus, 244, 1392.
+Micropogon,
+ornatus, 1195, 1419.
+undulatus, 1195, 1419.
+Micropora, 1451.
+coriacea, 276, 397, 1352, 1360,
+1412, 1447.
+uncifera, 397, 1352.
+Microporella,
+ciliata, 398, 1352.
+coscinopora,
+var, armata, 543, 1412.
+distoma, 276.
+malusii, 398, 1179, 1352, 1360,
+1412.
+personata, 807, 1412.
+Microptilum, 1327.
+willemöesi, 917, 1316.
+Micropyga, ,
+tuberculata, 637, 788, 810, 864,
+1318, 1326, 1327, 1336, 1355,
+1358, 1378.
+Miliolina, 98, 124, 139, 211, 353, 400,
+511, 581, 630, 640, 716,
+778, 862, 1084.
+agglutinans, 423, 426, 580, 630,
+685, 716, 862.
+alveoliniformis, 629, 716, 862,
+1002, 1071.
+amygdaloides, 145, 165, 903.
+auberiana, 133, 165, 181, 200,
+285, 449, 522, 663, 1162.
+bicornis, 1002.
+boueana, 198.
+bucculenta, 181, 480.
+placentiformis, 181,
+580.
+circularis, 124, 133, 195, 198,
+211, 353, 400, 423, 426, 480,
+511, 610, 630, 639, 685, 862,
+964, 1111.
+crassatina, 581.
+cultrata, 190.
+var.
+var.

@@ -1,45 +1,37 @@
-18
+22
 THE VOYAGE OF H.M.S. CHALLENGER.
-1
-mantle which have overrun the shell. This union of the two primitive pallial nerves
-explains the origin of the “commissure” of the stellate ganglia, so well developed in all
-the Egopsids, already reduced in Loligo," and still more so in the adult Sepiola
-(better marked in the embryosº), and finally disappearing in the Sepiidæ and Octopods ;
-by the disappearance of the pallial siphon and the primitive mantle, the median nerve
-has been lost, the “commissure” not being then any longer carried forward by this nerve
-has not preserved its curvature, has become more posterior, and has passed into the
-mantle where it joins the two ganglia in a straight line.*
-Behind the stellate ganglia, the pallial nerves, preserving sensibly their diameter (Pl.
-V. figs. 1, 2, 6, f.n; Fig. N, iii), are directed posteriorly in running along the wall of
-the shell-sac, but, immediately on leaving the ganglia, they give rise to a thinner
-latero-ventral trunk (Pl. V. fig. 6), innervating the mantle, and to another much larger
-one, which arrives at the fins, where it expands by dividing to an extraordinary extent,
-without, however, presenting ganglionic swellings (Pl. V. fig. 6).
-Stomato-Gastric System.-In the Challenger specimen (the only one examined which
-was provided with a head), the “inferior buccal" ganglia, or stomato-gastric ganglia, have
-not been seen; they were apparently situated under the superficial muscular layer of the
-buccal bulb (as they are in some degree in certain Ommatostrephidæ). There can be
-no doubt of their existence; two parallel stomato-gastric nerves run along the ventral
-face of the csophagus and end in the large gastric ganglion (Pl. VI. figs. 2, 3, gł.).
-Sense Organs.—The olfactory pits, the otocysts, and the eyes are well developed.
-A. The olfactory pit is situated quite at the back of the ocular prominence, at
-the junction of the lateral and ventral faces of the head (Pl. I. fig. 6, ol. ; Pl. II, fig. 1,
-ol.). It is limited by a slightly elevated margin in the interior of which the bottom
-projects in the form of a papilla, the whole having thus the aspect of a “circumvallate
-papilla” of the tongue of mammals (Pl. VI. fig. 11)."
-B. The otocyst is situated between the wings of the “cranial" cartilage and the
-i For example, in Ommatostrephes (Hancock, op. cit.).
-2 Von Jhering, Vergleichende Anatomie des Nervensystemes und Phylogenie der Mollusken, p. 257, 1877.
-3 Joubin, Recherches sur la coloration du tégument chez les Céphalopodes (Arch. de Zool. Expér., sér.
-2, t. x. p. 306, 1894).
-4 The pallial nerves may then be joined to one another on the dorsal side of the digestive tube, as they are
-likewise in the Lamellibranchs, behind and at the back of the rectum ; this enables us to understand the supra-
-rectal commissure of the Amphineura (Chiton, &c.), in the identification of which were found certain difficulties
-(see especially Lang, Lehrbuch der Vergleichenden Anatomie, p. 711, 1892; Bouvier and Fischer, Recherches et
-considérations sur l'Asymétrie des Mollusques univalves (Journ. de Conchyl., t. xxxii. pp. 200, 201, 1892];
-Grobben, Zur Kenntniss der Morphologie, der Verwandtschaftsverhältnisse und des Systems der Mollusken
-[Sitzungsber. Akad. Wiss. Wien, Math. Naturw. Cl., Bd. ciii. p. 85, 1894]). It is only a junction like that of
-the pallial nerves and in no way homologous to the visceral commissure ; the Amphineura thus re-enter into
-the common plan of organisation of the Molluscs.
-6 The central prominence is probably the point of departure of the rhinophore in form of papilla of certain
-Egopsids (Chiroteuthis, Doratopsis).
+the extremity of a slight conical papilla in Spirula peronië (Pl. III. an.), whilst it is
+completely sessile in Spirula reticulata (Fig. R, viii). This anal opening has no filiform
+appendages, such as are found in other Dibranchiate Cephalopods. The intestine
+presents internally a longitudinal furrow bounded by two very distinct folds, as in all
+Cephalopods examined in this respect (Fig. O, i)."
+The little ink bag is situated ventrally (Pl. III., ik.) in the bend formed by the
+intestine (Fig. R, iii); it opens into the intestine quite close to the anus.
+IV. CIRCULATORY SYSTEM.
+The heart is situated in the viscero-pericardial cavity towards the ventral aspect, in
+front of the spire of the shell and under the intestine and the kidneys (Pl. VI. fig. 8).
+Vio
+n
+Fig. 0.--Transverse section of the in-
+testine of Sepia ; x 18. i, longi-
+tudinal furrow; ii, intestinal epi-
+thelium.
+Fig. P.--Heart of Spirula reticulata, ventral view;
+x 4. i, right auricle ; ii, ventricle; iii, pos-
+terior aorta ; iv, posterior pallial artery ; v,
+recurrent (genital) artery ; vi, left branchio-
+cardiac vessel (auricle); vii, anterior aorta.
+It is (especially in the individual of Spirula reticulata examined) very flat dorso-
+ventrally and asymmetric (Fig. P); the ventricle is almost entirely placed at the right of
+the median line, while at the left is found only one prominence towards the branchio-cardiac
+vessel or auricle.
+1 Ommatostrephes, Sepiola, Sepia, Octopus, Nautilus. A similar furrow has been met with in other
+Molluscs, as in certain Rhipidoglossids (example, Trochus). But in the initial portions of the intestine of
+Molluscs there is a corresponding longitudinal cushion (typhlosolis): e.g., in all the Lamellibranchs examined from
+this point of view (Anodonta, Anomia, Donax, Ostrea), and the Gastropods, including the Pteropods (Paludina,
+Helix, Auricula, Tritonia, Æolis, Actæon, Limacina, Clio), and Chiton among the Amphineura. In all these
+animals, the intestine being much rolled up, it is difficult to determine the morphological position of this typhlosolis,
+but in the Cephalopods, where the intestine is only turned back and not twisted, we can see that the
+furrowed typhlosolis occupies the dorsal side, as is the case also for the organ of the same name known in
+the Oligochætæ. It is then probable that the dorsal ciliated furrow of the intestine of Neomeniidæ also
+corresponds to it.

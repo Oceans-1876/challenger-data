@@ -1,39 +1,43 @@
-926
+928
 THE VOYAGE OF H.M.S. CHALLENGER.
 JAPAN.
-POLYPLACOPHORA (Haddon, Zool. pt. 43).
-Acanthopleura (?) incana (Gould). One specimen (Oosima); obtained also at
-Port Jackson.
-CEPHALOPODA (Hoyle, Zool. pt. 44).
-Octopus macropus, Risso. One specimen (Yokohama market); obtained at no other
-locality by the Challenger. A widely-distributed species.
-Sepia esculenta, n.sp. Two specimens (Yokohama market); obtained at no
-other locality.
-andreanoides, n.sp. Three specimens (Yokohama market); obtained at no
-other locality.
-Sepiella maindroni, Rochebrune. One specimen (Inland Sea); obtained at no
-other locality by the Challenger. Recorded from Pondichery.
-Loligo edulis, n.sp. One specimen (Yokohama market); obtained at no other locality.
-japonica, Steenstrup, MS. One specimen (Yokohama market); obtained at
-no other locality by the Challenger.
-Todarodes pacificus, Steenstrup. One specimen (Inland Sea); obtained at no other
-locality by the Challenger. Recorded from Japan.
-TUNICATA (Herdman, Zool. pt. 17).
-Corella japonica, n.sp. Two specimens (Yokohama, shallow-water); obtained also
-at Station 233 and Hong Kong.
-FISHES (Günther, Zool. pts. 6 and 57).
-Trygon pastinaca, Linné. (Yokohama market); obtained also in Arafura Sea.
-Myliobatis aquila, Linné. (Yokohama market); obtained at no other locality by
+Latilus argentatus, C.V. (Yokohama market); obtained at no other locality by
 the Challenger.
-Percalabrax japonicus, C.V. (Inosima and Inland Sea—from fishing boats);
+Lophius setigerus, Wahl. (Yokohama and Kobé); obtained at no other locality
+by the Challenger.
+Platycephalus insidiator, Forsk. (Yokohama Bay and Inland Sea); obtained also
+at Queensland, Cape York, and Hong Kong.
+punctatus, C.V.
+(Inland Sea); obtained at no other locality by
+the Challenger.
+rudis, n.sp. (Yokohama market); obtained at no other locality.
+Lepidotrigla microptera, Günther. (Inland Sea); obtained at no other locality by
+the Challenger.
+Gobius yokohamæ, n.sp. (Inland Sea and Yokohama Bay, 15 fathoms); obtained
+at no other locality.
+hexanema, Bleeker. (Inland Sea, Kobé, and Yokohama Bay, 15 fathoms);
 obtained at no other locality by the Challenger.
-Niphon spinosus, C.V. (Yokohama market) ; obtained at no other locality by
+flavimanus, Schlegel. (Yokohama market); obtained at no other locality by
 the Challenger.
-Serranus octocinctus, Schlegel. (Yokohama market); obtained at no other locality
-by the Challenger.
-A pogon lineatus, Schlegel. (Inland Sea and Yokohama Bay, 15 fathoms); obtained
-also at Station 233.
-Chætodon modestus, Schlegel. (Yokohama market); obtained at no other locality
-by the Challenger.
-Upeneoides bensasi, Schlegel. (Yokohama market and Kobé); obtained at no
+Callionymus lunatus, Schlegel. (Inland Sea, Kobé, and Yokohama Bay, 15 fathoms);
+obtained also at Port Jackson.
+Chirus hexagrammus, Pall. (Inland Sea and Yokohama market); obtained at no
 other locality by the Challenger.
+Agrammus schlegeli, Günther. (Yokohama market); obtained at no other locality
+by the Challenger.
+Centronotus nebulosus, Schlegel. (Inland Sea and Yokohama market); obtained
+at no other locality by the Challenger.
+Fistularia serrata, Cuv. (Yokohama); obtained at no other locality by the
+Challenger.
+Platyglossus pæcilopterus, Schlegel. (Inland Sea and Yokohama market); obtained
+at no other locality by the Challenger.
+pyrrhogramma, Schlegel. (Yokohama market); obtained at no other
+locality by the Challenger.
+Pseudorhombus olivaceus, Schlegel. (Inland Sea); obtained at no other locality by
+the Challenger.
+pentophthalmus, Günther. (Inland Sea); obtained at no other
+locality by the Challenger.
+Pleuronectes variegatus, Schlegel. (Yokohama market); obtained at no other
+locality by the Challenger.
+yokohamæ, n.sp. (Inland Sea and Yokohama Bay, 15 fathoms);
+obtained at no other locality.

@@ -1,135 +1,121 @@
-1346
+1350
 THE VOYAGE OF H.M.S. CHALLENGER.
+T
+T
 S
->
-sp. (?).
+n.sp. (?). S
+T
+s
+T
 T
 T
 *
+n.sp. (?).
 T
 T
 S
-sp. (?). S
-T
-T
-T
-99
-nov.
-T
-99
-T
-T
-T
-* Cassidaria (Sconsia) striata, Lamarck. T * Cyclostrema sp. (?). T
-* Cassis (Bezoardica) wyvillei, n.sp. T
-Τ Ν
-Cylichna alba (Brown).
-three species undetermined.
-Cerithiopsis fayalensis, n.sp.
-N
-crispula, n.sp.
-pulchella (Adams). T
-cylindracea (Pennant). ST
-* Cerithium matukense, n.sp.
-discus, n.sp.
-ordinaria, n.sp.
-ovata, Jeffreys. Τ Ν
-Cithna tenella (Jeffreys). TN
-* Clathurella araneosd, n.sp.
-(Volvula) paupercula, n.sp. T
-chariessa, n.sp.
-Τ Ν
-Cypræa cinera, Gmelin.
-circumvoluta, n.sp.
-T
-spurca (Linné). TN
-crispata (Jan). Τ Ν
-* Dentalium ægeum, n.sp.
+*
 S
-formosa (Jeffreys).
+>>
+S
+* Triforis inflata, n.sp.
+* Turritella deliciosa, n.sp.
+perversa (Linné).
 Τ Ν
-capillosum, Jeffreys. TN
-hormophora, n.sp.
-var. paucicostatum,
-leufroyi (Michaud). N
-pachia, n.sp.
-Τ Ν
-circumcinctum, n.sp.
+exoleta (Linné). T
+Triton (Lagena) magellanicus (Chem-
+* Utriculus oryctus, n.sp.
 T
-(?) perparva, n.sp.
-compressum, n.sp.
+nitz).
+spatha, n.sp.
 T
-perpauxilla, n.sp.
-didymum, n.sp.
-T
-porcellana, n.sp.
-ensiculus, Jeffreys.
-pudens, n.sp.
-entalis, Linné, var, agile,
-reticulata (Renier).
-N
-Sars. STN
-(Daphnella) compsa, n.sp. T
-orthrum,
-four species undetermined. T
-* Clionella aglaophanes, n.sp.
-T
-* Emarginula, two species undetermined. s
-amblia, n.sp.
-T
-* Eulima acerrima, n.sp.
-T
-exsculpta, n.sp.
-amblia, n.sp.
-lophoëssa, n.sp., var. platia,
-campyla, n.sp.
-T
-chaskanon, n.sp.
-tholoïdes, n.sp.
-chydæa, n.sp.
-T
-* Columbella (Anachis) haliæeti, Jeffreys. N *
-chyta, n.sp.
-(Pyrene) stricta, n.sp. T
-cylindrata, n.sp.
+(Tornatina) leptekes, n.sp. T
+(Simpulum) philomelæ, n.sp. s *
+two species undetermined. T
+* Trochus (Gibbula) glyptus, n.sp.
+S. * Velutina, sp. (?). T
+(Margarita) ægleës, n.sp.
+* Voluta (Cymbiola) lutea, n.sp.
+S
 (
-ephamilla, n.sp.
-( ) var. subacta,
-eurychades, n.sp. T
-famelica, n.sp.
+) azorensis, n.sp. N (Volutilithes)abyssicola, Adams
+(
+) cancellatus, Jef-
+and Reeve.
+freys.
+Xenophora caribæa, Petit.
+(
+) charopus, n.sp. S
+pallidula (Reeve). T
+) clavatus, n.sp.
+) dnopherus, n.sp. T * Zeidora naufraga, n.sp.
+) pompholugotus,
+n.sp.
+T
+POLYPLACOPHORA :
+) rhina, n.sp.
 N
-(Zafra) greci, Philippi. N
-fasciata, n.sp.
+(
+) rhysus, n.sp. TN
+* Lepidopleurus dallii, n.sp.
+(
+) scintillans, n.sp.
+dorsuosus, n.sp.
+Τ Ν
+* Plaxiphora carmichaelis (Gray).
+(Omphalius) hotesserianus,
+simplex (Carpenter, MS.). S
+d'Orbigny. T
+(Oxystele) euspira (Dall). T NUDIBRANCHIATA :
+(Photinula) expansus (Sowerby). * Tritonia challengeriana, n.sp.
+S
+(Ziziphinus) stirophorus, n.sp. T
+CEPHALOPODA :
+(
+) striatus, Linné. N
+(
+) tiara, n.sp.
+Τ Ν Calliteuthis reversa, Verrill.
+four species undetermined. * Nautilus pompilius, Linné.
+* Trophon acanthodes, n.sp.
+* Octopus areolatus, De Haan, MS. T
 T
-gomphus, n.sp.
-* Conus sp. (?). T
-Cyclostrema conicum, 1.sp.
-hians, n.sp.
-excavatum, n.sp.
-hyalina, n.sp.
+Doscü (Lesueur), var. pallida,
+carduelis, n.sp.
+declinans, n.sp.
+duplex, n.sp.
+liratus, Couthouy, MS. S
+januarii, Steenstrup, MS. Τ Ν
+scolopax, n.sp.
+punctatus, Gabb. N
+sp. (?). S
+Sepia cultrata, Steenstrup, MS. S
+* Turbo (Calcar) henicus, n.sp.
+(Collonia) indutus, n.sp. T
+sulcata, n.sp.
+Spirula peronië, Lamarck.
+s
+N
 T
-nov.
 T
 s
->
+*
+aculeatus, n.sp.
+>>
+*
+S
+Nov.
+S
+S
+S
+*
+s
+*
+T
+kiensis, n.sp.
 T
 T
-nov.
-T
-29
-T
->
-T
-) strix, n.sp.
+(?) sp.
 T
 T
->
-nov.
-T
-sp. (?). T
-hebes, n.sp.
-T
-T
-T
-T
-T
+1

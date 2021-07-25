@@ -1,41 +1,40 @@
 REPORT ON OCEANIC CIRCULATION.
-13
-round to east, south, and, finally, to the south-west as they sweep over the West Indian
-Islands and past the east coasts of the States. The result is that a generous rainfall is
-deposited over the Eastern States, and on the western portion of the Atlantic adjoining.
-Thus, the specific gravity there is reduced, and it is still further reduced by the upwell-
-ing set in along that coast by the south-westerly winds blowing seawards from the land.
-These south-westerly winds pass northwards over the Atlantic, more particularly
-its eastern half, at all seasons, carrying with them their higher temperature and specific
-gravity. This is seen in the most impressive manner by the extraordinary protrusion
-northwards of the specific gravity line of 1.0260 which reaches the latitude of about
-72° N. In the North Pacific the northern extension of this line stops at lat. 34° N.,
-or nearly 40° short of its position in the Atlantic.
-In the closed basin of the Gulf of Mexico, which is virtually cut off from the great
-wind system of the North Atlantic, the specific gravity of its eastern half is 1.0271.
-Again, in the closed area of the Mediterranean the specific gravity rises to 1.0280 in
-the western basin, and to 1.0290 in the eastern basin. Further, in the Red Sea,
-which is more effectually closed to the ocean than either of the above seas, the specific
-gravity rises from 1.0275 at the Straits of Bab-el-Mandeb successively to 1.0310 near
-Suez, being the highest known mean specific gravity anywhere observed on the surface
-of the sea.
-Of all the great oceans, the North Pacific shows by far the lowest specific gravity
-on the surface. The two regions of highest specific gravity, and they are comparatively
-of small extent, are marked off by the line of 1.0265. During the whole year, but
-especially the summer months, the rainfall over the western half of this great ocean
-is large, being occasioned both by the many high islands that the prevailing winds
-meet in their course, and by the low barometric gradients characterising this region,
-resulting in calms and light winds, to which this ocean owes its name, and a larger
-rainfall and less evaporation than would otherwise be observed. Further, as this ocean
-on its northern side is really a closed basin, neither the prevailing winds nor the ocean
-currents they generate cross into the Arctic Ocean, but re-curve round on the coast of
-America from lat. 50° N. southward. Hence over the whole of that part of the North
-Pacific skies are more clouded, rainfall larger, and evaporation and specific gravity
-therefore less.
-In the South Pacific the area of high specific gravity is large, extending from
-South America across the whole breadth of the ocean. The region of highest specific
-gravity, 1:0270, is confined to the eastern half of the ocean, the specific gravity of the
-western half being reduced from like causes to those which lower the specific gravity of
-the western half of the North Pacific.
-The Indian Ocean exhibits several marked peculiarities of its own. Owing to the
-arid climates of Arabia and adjoining regions, and the high specific gravity of the Red
+17
+Thus, the most powerful causes concerned in deflecting the isothermals of tempera-
+ture of sea-water and the lines of specific gravity from their normal east and west
+directions are the prevailing winds and the surface currents of the ocean they originate
+and maintain ; and further, as regards the specific gravities, the rainfall of the different
+regions powerfully influences the direction of the lines, and, as will appear further on,
+the vertical and horizontal movements in the ocean to which they give rise.
+TEMPERATURE OF THE OCEAN AT DIFFERENT DEPTHS.
+The Atlantic and Pacific Oceans.
+Depth of 100 Fathoms (Map 3').—On this map the isothermals are drawn for
+every five degrees of temperature, except in the cases of the highest and lowest
+temperatures of the oceans respectively, which are given to the nearest degree. From
+all the observations the mean temperature at this depth is 60°:7, and on the map, as
+on all the others, isothermals above the mean temperature at the particular depth are
+coloured red, and below it are coloured blue.
+Looking first at the distribution of the temperature from about lat. 30° N. to lat.
+30° S., it is at once seen that the higher temperatures lie to the westwards of the
+anticyclonic regions of the different oceans, and that the temperature of the western
+portions of these oceans is very much higher than in the eastern portions. The great
+difference observed is occasioned by the ocean currents setting in to the west, which
+are originated and maintained by the north-east and south-east trade winds. These
+winds drive the warm surface waters before them onwards towards the eastern coasts
+of the continents, In those cases where the higher temperatures do not quite reach
+the continents, it is owing to the interposition of islands in their paths ; as, for example,
+Madagascar, the West Indies, and the East Indies, as respectively affecting Africa,
+North America, and Asia.
+The North and South Atlantic present a strong contrast to each other. It will be
+seen that on the whole the surface specific gravities of the two oceans (Map 1) do not
+very materially differ from each other, but their temperatures at the 100 fathom depth
+are widely different. In the South Atlantic the area showing a temperature above 60°:7,
+the mean temperature of the oceans, is small as compared with the extent of the same
+temperature and upwards in the North Atlantic. Further, in the South Atlantic the
+highest isothermal is only 63°, whereas in the North Atlantic there is a large area with
+a temperature exceeding 65°, which encloses two small areas each with a temperature
+rising to 70'.
+1 A large number of maps were constructed for depths intermediate to those discussed in this Report, particularly
+for depths down to 200 fathoms, in connection with the question as to the depth to which the influence of season is
+experienced.
+(PHYS. CHEM. CHALL. EXP.-PART VIII.-1895.)

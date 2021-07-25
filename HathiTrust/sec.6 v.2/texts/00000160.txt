@@ -1,53 +1,58 @@
-920
+922
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 235.
-Belonaspis lanceolata, Haeckel.
-Microcubus cornutus, Haeckel.
+STATIONS 236
+AND 236a.
+Acanthephyra brachytelsonis, n.sp. One specimen; obtained also at Stations 170,
+171, 194, 214, 232, and 318.
+Pasiphæa amplidens, n.sp. One specimen ; obtained at no other locality.
+acutifrons, n.sp. One specimen; obtained also at Station 311, 245 fathoms.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Lima goliath, Sowerby. One specimen ; obtained also at Station 311, 245 fathoms.
+In addition to the foregoing, the following are recorded in the Station-book :-
+Aphrocallistes (?), several specimens of Isis, Onuphis and another Annelid in tube
+(Terebellid ?), small Scalpellum, small Coccia and another Sternoptychid.
+Excluding Protozoa, over 40 specimens of invertebrates were obtained in this
+trawling, belonging to about 29 species, of which 16 are new to science, including
+representatives of 2 new genera; 6 of the new species were not obtained elsewhere.
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms. -The following species are recorded from the surface in the
+vicinity of this Station :
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Actissa discoides, Haeckel.
+Sphærozoum medusinum, Haeckel.
+polygonalis, Haeckel.
+Styptosphæra spumacea, Haeckel.
+Drymosphæra polygonalis, Haeckel.
+Cenellipsis circopora, Haeckel.
+Heliosestrum liriope, Haeckel.
+Spongasteriscus myelastrum, Haeckel.
+Lonchostaurus bifurcus, Haeckel.
+Lithoptera quadrata, Haeckel.
+Ceriaspis cicatricosa, Haeckel.
+Hexacolpus conifer, Haeckel.
+Plectanium ovodimare, Haeckel.
+Zygostephanium paradictyum, Haeckel.
+Toxarium constrictum, Haeckel.
+Parastephanus quadrispinus, Haeckel.
+Dictyophimus brandtii, Haeckel.
+Sethophormis umbrella, Haeckel.
 Sethoconus trochus, Haeckel.
+Corocalyptra margaretha, Haeckel.
 Theocampe cryptoprora, Haeckel.
-Phormocampe mitra, Haeckel.
 Auloceros furcosus, Haeckel.
 Sagoplegma pyramidophora, Haeckel.
 Medusetta quadrigata, Haeckel.
 Gazelletta trispathilla, Haeckel.
 Castanidium bethelli, Haeckel.
-Castanissa crosbiei, Haeckel.
-Cælodendrum flabellatum, Haeckel.
-In addition, the following are recorded in the note-books :-Noctiluca (abundant),
-Pyrocystis noctiluca (abundant), Pyrocystis fusiformis (a few), Diatoms, Peridinium,
-Vorticella (on Diatoms), pelagic Foraminifera, Medusæ, Physalia, Sagitta, Annelid
-larvæ, Daphnia, Cypridina, Copepods, Cirriped larvæ, Phronima, Hyperids, Euphausia,
-Sergestes larvæ, Zoëæ, Atlanta, Pterotrachea, Pteropods and larvæ, Doliolum,
-Appendicularia, Salpa. Several sharks were seen and one was caught, belonging to the
-usual species taken at sea (Carcharias lamia), and with one Echeneis attached.
-STATIONS 236
-AND 236a.
-Stations 236 and 236A (Soundings 337 and 338), off Japan (see Chart 35).
-June 5, 1875; lat. 34° 58' N., long. 139° 29' E.
-Temperature of air at noon, 64°:8; mean for the day, 65°-2.
-Temperature of water :-
-47-2
-Surface, .
-70 fathoms,
-170
-66.5
-60.0
-52.2
-270 fathoms,
-370
-Bottom (775 fathoms),
-99
-42.2
-37.6
-Depth, 775 and 420 fathoms ; deposit, Green Mud, containing only a trace of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 2 A.m. observed Omae Saki lighthouse on port bow, and at 6 A.m. observed land
-about Iro-o-Saki. At 1 P.M. stopped and sounded in 775 fathoms. At 2 P.M. put over
-trawl, veering 1000 fathoms. Obtained serial temperatures. Found on sounding at
-3.15 P.M. that the ship had drifted into 420 fathoms. At 3.45 P.M. commenced heaving
-in trawl, which was hauled up very slowly and with great strain. At 4.45 P.M. trawl
-came up, considerably damaged, the net being torn in several places. The bag contained
-a quantity of stones and gravel, along with several specimens. At 5 P.M. proceeded
-towards Yokohama, anchoring there at 8.40 P.M.
-The following species are recorded in the Zoological Reports from the trawl at this
-place :
+Conchidium dimerella, Haeckel.
+Calodendrum flabellatum, Haeckel.
+TUNICATA (Herdman, Zool. pt. 76).
+Salpa cordiformis-zonaria, Quoy and
+Gaimard-Pallas.
+The tow-nets procured much the same things as on the previous day (Station 235.)
+ANIMALS FROM
+JAPAN.
+The following species are recorded in the Zoological Reports as having been obtained
+during the stay of the Challenger in the neighbourhood of Japan, in shallow water,
+on shore, &c.:-

@@ -1,107 +1,67 @@
 SUMMARY OF RESULTS.
-1287
+1291
+Notes on the Geographical Distribution. --An examination of the foregoing list shows
+that of the 262 species taken in this zone between 2000 and 2500 fathoms, 133 species
+(or 51 per cent.) were taken south of the southern tropic, 122 species (or 47 per cent.)
+were taken within the tropics, and 99 species (or 38 per cent.) were taken north of the
+northern tropic; while 23 species (or 9 per cent.) were found to be common to all those
+three areas, 11 species (or 4 per cent.) were common to the southern and northern areas,
+22 species (or 8 per cent.) were common to the southern and tropical areas, and 13
+species (or 5 per cent.) were common to the tropical and northern areas.
+3. ANIMALS OBTAINED IN THE DREDGINGS AND TRAWLINGS IN DEPTHS BETWEEN
+1500 AND 2000 FATHOMS.
+The Challenger dredged or trawled at 32 Stations where the depth was between 1500
+and 2000 fathoms, about 1250 specimens of invertebrates and fishes being procured,
+belonging to about 500 species and about 345 genera. The total number of species and
+genera actually described and recorded in the Zoological Reports from the zone between
+these depths amounts to 412 species, of which 348 (or 84 per cent.) are new to science,
+belonging to 272 genera, of which 105 (or 39 per cent.) are new to science, as shown in
+the following list. Those species taken by the Challenger in this zone only (numbering
+249 species, or 60 per cent.) are indicated by an asterisk thus. * The geographical dis-
+tribution of the species is indicated by the heavy letters S, T, and N, used to denote
+that the species was taken south of the tropic of Capricorn (S), between the tropics of
+Capricorn and Cancer (T), or north of the tropic of Cancer (N).
+* Thenea fenestrata (Schmidt).
+DEEP-SEA KERATOSA :
+Holopsamma cretaceum, n.sp.
+* Psammina plakina, n.g., n.sp.
+*
+N
+sp. (?). S
+s
+S
+s
+S
+S
+MONAXOXIDA:
+Axinella erecta (Carter).
+* Cladorhiza moruliformis, n.sp.
+(?) tridentata, n.sp.
+Esperella mammiformis, n.sp.
+Esperiopsis profunda, n.sp.
+s
+Meliiderma stipitata, n.g., n.sp.
+S
+Stylocordyla stipitata (Carter). STN
+S
+HEXACTINELLIDA :
+Aulocalyx irregularis, n.g., n.sp.
+* Balanella pipetta, n.g., n.sp.
+S
+Bathydorus spinosus, n.g., n.sp.
+S
+Caulophacus latus, n.g., n.sp. S
+Euplectella suberea, n.sp.
 TN
-* Nymphon longicollum, n.sp. s
-procerum, n.sp.
-S
-Farciminaria delicatissima, n.sp.
-pacifica, n.sp. N
-Flustra biseriata, n.sp.
-ST
-Kinetoskias pocillum, n.sp.
-ST
-* Menipea pateriformis, n.sp.
-S
-LAMELLIBRANCHIATA :
-Arca (Barbatia) corpulenta, n.sp. S T
-( ) pteroessa, n.sp.
-Τ Ν
-* Callocardia adamsii, n.sp. T
-* Nucula profundorum, n.sp.
-N
-Sarepta abyssicola, n.sp. Τ Ν
-BRACHIOPODA:
-Discina atlantica, King. S TN
-Terebratula wyvillii, n.sp.
-S TN
-* Waldheimia wyvillii, n.sp.
+* Farrea sp. (?). S
+Holascus fibulatus, n.g., 1.sp.
+polejaevii, n.g., n.sp.
 s
-N
-SCAPHOPODA AND GASTEROPODA:
-* Basilissa lampra, n.g., n.sp.
-N
-* Cithna margaritifera, n.sp.
-Dentalium acutissimum, n.sp. Τ Ν
-keras, n.sp.
-SN
-* Pleurotoma (Surcula) rotundatu, n.sp. N
-* Trochus (Bembix) abyssorum, n.sp.
-T
-N
-TUNICATA :
-* Bathyoncus discoideus, n.g., n.sp. N
-Corynascidia suhmi, n.g., n.sp. s
-* Culeolus moseleyi, n.g., n.sp.
-murrayi, n.g., n.sp.
-N
-willemoesi, n.g., n.sp.
-N
-Octacnemus bythius, n.g., n.sp. ST
-Pyrosoma giganteum (Lesueur),(surface ?).
-S T
-spinosum, n.sp. (surface ?).
-SN
-Styela pusilla, n.sp.
-N
-POLYPLACOPHORA :
-* Leptochiton benthus, n.sp.
-N
-NUDIBRANCHIATA :
-* Bathydoris abyssorum, n.g., n.sp.
-T
+Hyalonema conus, n.sp.
+tenue, n.sp.
 S
-T
-S
-T
-CEPHALOPODA :
-FISHES:
-Cirroteuthis magna, n.sp.
-S
-* Bathylagus atlanticus, n.g., n.sp.
-pacifica, n.sp.
-Bathysaurus mollis, n.g., n.sp. Τ Ν
-Eledone rotunda, n.sp.
-S
-* Bathytroctes macrolepis, n.g., n.sp. T
-T
-Enoploteuthis margaritifera, Rüppel. T * Ceratias uranoscopus, n.sp.
-* Histiopsis atlantica, n.g., n.sp.
-Chauliodus sloanii, Bl. Schn. Τ Ν
-Spirula peronii, Lamarck (surface ?).
-Gonostoma gracile, n.sp. N
-Taonius suhmi, n.sp. (surface ?). SN
-microdon, n.sp.
-S TN
-Ipops murrayi, n.g., n.sp.
-ST
-POLYZOA :
-Lepidopus tenuis, n.sp. (surface ?). N
-Bicellaria navicularis, n.sp.
-ST
-Macrurus armatus, Hector. STN
-Bifaxaria reticulata, n.g., n.sp.
-T
-filicauda, n.sp.
+TETRACTINELLIDA :
+* Thenea delicata, n.sp.
 s
-Bugula margaritifera, n.sp.
-liocephalus, n.sp.
-mirabilis, n.sp.
-* Malacosarcus macrostoma, n.g., n.sp.
-T
-reticulata, n.sp.
-S T N
-Melanocetus murrayi, n.sp.
-T
 S
-N
-T
+S

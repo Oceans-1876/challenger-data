@@ -1,10 +1,7 @@
 
-THE AT
-DEPTH OF
-1000 FATHOMS
-365
-Oceanic Circulation. Map 12
-140
+5 AT DEPTH OF 1500 FATHOMS
+35:3
+o
 40
 30
 20
@@ -13,79 +10,86 @@ Oceanic Circulation. Map 12
 10
 20
 30
-10
+Oceanic Circulation.
+40
 50
-60
+30
 70
+Map 13.
 80
 90
-100
-no
-120
-130
-150
-180
-80
-70
-retic Circle
-30°
-50
-34
-38%
-40
-30
-40
-20
-399
-20
-38
-39
-10
-38
-20
-38
-30
-374
-8
-40
-36°
-36°
-30
-60
-EXPLANATION OF COLOURING
-70
-6000 Feet
-Contours showing
-Height of Land
-3000
-SEA LEVEL
-100 Fathoms
-800
-1000
-1500
-Contours showing
-Depth of Seå
-120
 100
 110
+120
 130
 140
-160
 150
-90
-BO
+160
 80
-40
+29
 30
-50
+Arctic Circle
 70
-20
+36%
+50
+3735
 40
+04
 10
+ao
+37°
 20
+356
+10
+38
+10
+35°
+20
+38°
+355
+355
 30
+Le
+360
+40
+35
+35°
+50
+60
+EXPLANATION OF COLOURING
+Contours showing
+Height of Land
+6000 Feet
+70
+3000
+SEA LEVEL
+100 Farthoms
+800
+Contours showing
+Depth of Seå
+LOOO
+1500
+0
+30
+20
 10
 o
-Bertholomew, Edin?
-shown thus
-Isothermals below Average shown in Blue thus
+10
+20
+30
+40
+50
+60
+70
+80
+20
+100
+wn. thus
+110
+120
+130
+140
+250
+160
+Isothermals below Average shown in Blue thus.
+Bartholomew, Edin!

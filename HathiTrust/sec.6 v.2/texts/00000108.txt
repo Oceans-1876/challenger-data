@@ -1,26 +1,20 @@
-872
+874
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 222.
-small Cephalopods, Appendicularia, Doliolum, Balistes and other small fishes. On the
-18th a female shark (Carcharias lamia), about 7 feet long, was caught. The specimens of
-Halobates, Balistes, &c., were picked up by Mr. Murray when away in the dingey on
-the 18th. Collosphæra was observed in patches in considerable abundance, but on the
-whole the water was exceedingly pure, and the white bag of the tow-net could be seen at
-a great depth.
-STATION 223.
-Station 223 (Sounding 361), Admiralty Islands to Yokohama (see Chart 31 and
+STATION 224.
+Station 224 (Sounding 362), Admiralty Islands to Yokohama (see Chart 31 and
 Diagram 16).
-March 19, 1875 ; lat. 5° 31' N., long. 145° 13' E.
-Temperature of air at noon, 83°.5 ; mean for the day, 81°:1.
+March 21, 1875; lat. 7° 45' N., long. 144° 20' E.
+Temperature of air at noon, 82°:3; mean for the day, 80°:6.
 Temperature of water :-
-O
-93
->
+81-2
 Surface,
 10 fathoms,
 20
 30
 40
+2
+2
+)
 50
 60
 70
@@ -34,23 +28,22 @@ Surface,
 150
 160
 170
-82.0
-817
-81:7
-81.7
-81.7
-81.7
-81:7
-81.7
-81.7
+81.5
+81.1
+80.6
+80.0
+79.5
 79.0
-70.9
-63.5
-59.5
-56:3
-53.8
-51.6
-50.0
+78.1
+75.0
+68.5
+63.2
+59.6
+56:7
+54:3
+52.5
+51.0
+49.9
 49.3
 180 fathoms,
 190
@@ -69,47 +62,51 @@ Surface,
 1400
 1500
 Bottom,
-48.8
-48.2
-47.7
-45.8
-44:3
-42.8
+48.9
+48.6
+48:3
+45.7
+43:4
 41:3
-40.0
-38.8
-37.7
-36.8
-36:1
-35.7
-35.5
-35.5
-35.5
-35.5
+39.5
+38.2
+37.2
+36.7
+36.3
+36.0
+35.8
+35.6
+35.4
+35.4
+35.4
+19
 Density at 60° F. :-
-.
-.
-.
 Surface,
 10 fathoms,
-20
+25
 50
 100
-. 1.02595
-1.02587
-1.02575
-. 1.02589
+1.02585
+1:02564
+: 1:02553
 . 1.02569
+. 1.02564
 200 fathoms,
 300
 400
 Bottom,
-1.02566
 1:02556
+1:02556
+. 1.02556
 1.02567
-. 1.02578
-.
-.
-.
-Depth, 2325 fathoms ; deposit, Globigerina Ooze, containing 52:47 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+Depth, 1850 fathoms ; deposit, Globigerina Ooze, containing 79.20 per cent. of
+carbonate of lime (sce Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+over.
+At 4 A.M. got up steam. At 5.30 A.M. shortened and furled sails, and at 6 A.M.
+proceeded under steam. At 7 A.M. sounded in 1850 fathoms. At 8 A.M. put dredge
+At noon obtained serial temperatures down to 1500 fathoms. At 1
+commenced heaving in dredge, which came up at 3.30 P.M. with a large quantity of ooze
+and a few specimens. Made sail and proceeded towards Japan. During this and the
+following day gannets were occasionally observed from the ship.
+Distance at noon from Faraulep Island, Caroline Islands, 52 miles; from Guam
+Island, 330 miles. Made good 85 miles. Amount of current 10 miles, direction W.

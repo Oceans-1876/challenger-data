@@ -1,38 +1,94 @@
-1224
+1228
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 335.
-Distance at noon from Ascension, 1470 miles; from Tristan da Cunha, 280 miles.
-Made good 171 miles. Amount of current 17 miles, direction S. 29° E.
-ANIMALS FROM
+1
+STATION 336.
+Distance at noon from Ascension, 1182 miles. Made good 167 miles. No current
+observed.
+Surface Organisms.—Two hauls of the tow-net near the surface yielded much the
+same kind of things as at the previous Station, including Pyrocystis, Sagitta, Copepods,
+and Lucifer.
+ORGANISMS FROM
+SURFACE-NETS.
+STATION 337.
+2
+Station 337 (Sounding 487), Tristan da Cunha to Ascension Island (see Chart 16
+and Diagram 7).
+March 19, 1876 ; lat. 24° 38' S., long. 13° 36' W.
+Temperature of air at noon, 78°:8; mean for the day, 74°:9.
+Temperature of water :-
+.
+1
+Surface,
+25 fathoms,
+50
+75
+100
+125
+150
+175
+200
+225
+250
+77.0
+72.0
+68.2
+65.1
+63.0
+61.0
+59.0
+57.0
+55.0
+53:1
+51.2
+275 fathoms,
+300
+400
+500
+600
+700
+800
+900
+1000
+Bottom,
+49.5
+48.0
+42:0
+39.3
+38.7
+38.4
+38.1
+37.9
+37.7
+37.2
+>
+>
+9
+.
+. 1.02704
+1.02707
+1:02658
+. 1.02639
+.
+.
+Density at 60° F. :-
+Surface,
+100 fathoms,
+. 1.02649
+25 fathoms,
+Bottom,
+50
+Depth, 1240 fathoms ; deposit, Pteropod Ooze, containing 98·47 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 11.30 A.M. shortened and furled sails, and proceeded under steam to sound. At
+noon sounded in 1240 fathoms. Put large dredge over and veered 1600 fathoms. Took
+serial temperatures down to 1000 fathoms. At 4 P.M. commenced heaving in dredge,
+which came up at 5.30 P.M., having probably been only a short time in contact with
+the bottom; the bag contained a very small quantity of the deposit. Made sail.
+Distance at noon from Ascension, 1002 miles. Made good 182 miles. Amount of
+current for the last two days 27 miles, direction S. 51° W.
+The following species is recorded from this Station :-
+FISHES (Günther, Zool. pt. 57).
+Gonostoma microdon, n.sp. One specimen ; for distribution see Station 23.
+ANIMAL FROM
 DREDGE.
-The following species are recorded in the Zoological Reports from the dredge at this
-Station :-
-DEEP-SEA MEDUSÆ (Haeckel, Zool. pt. 12).
-Nauphanta challengeri, n.g., n.sp. Two specimens; obtained at no other locality.
-Only species of the genus.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Hymenaster anomalus, n.sp. Obtained at no other locality.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Salenia hastigera, n.sp. Numerous specimens; for distribution see Station 106.
-ANNELIDA (MʻIntosh, Zool. pt. 34).
-Nothria abranchiata ( = abyssicola), n.sp. Two specimens; obtained also Station 156.
-OSTRACODA (Brady, Zool. pt. 3).
-Bythocypris elongata, n.g., n.sp. A few valves; obtained at no other locality.
-Bairdia victrix, Brady (?). Single valve ; for distribution see Station 24.
-Cythere (?) serratula, n.sp. A few valves ; obtained also at Stations 24 and 85.
-dictyon, n.sp. For distribution see Station 24.
-dorsoserrata, n.sp. Obtained at no other locality.
-dasyderma, n.sp. For distribution see Station 5.
-irpex, n.sp.
-Obtained also at Stations 73 and 78.
-Krithe producta, n.sp. For distribution see Station 70.
-Cytheropteron fenestratum, n.sp.
-Obtained also at Station 149.
-CIRRIPEDIA (Hoek, Zool. pt. 25).
-Scalpellum velutinum, n.sp. One specimen (attached to pumice-stone); obtained
-also at Station III.
-Verruca incerta, n.sp. Several specimens (on spines of Salenia); obtained at no
-other locality
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Cyphocaris micronyx, n.sp. One specimen ; obtained also in deep tow-net at
-Station 295.
+mitindows* *** *tematu

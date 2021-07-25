@@ -1,73 +1,54 @@
 MEAN TEMPERATURE OF
-The Voyage of H.M.S "Challenger"
-
-160
-150
-140
-130
-180
-120
+TH
 100
-170
-110
+80
 90
-80
+70
+
+120
+110
+130
+150
+140
+160
 170
+180
 150
 160
+170
 140
-130
-100
-no
-120
-80
-70
-60
-380
-50
-40
-O
-30
-Tropic of Cancer.
-20
-Equator
-43
-10
-41
-20
-Tropic of Capricorn
-42
-30
-40
-42
-40
+37
+Tropic of Cancer
+39°
 40°
-389
-50
-во
+Equator
+40-
+.
+Tropic of Capricorn
+240°
+40°
+39
+38
 Antarctic Circle
-70
+3
 ISOTHERMAL LINES
 SHOWING THE MEAN TEMPERATURE (FAHR)
 OF THE OCEAN AT
-DEPTH OF 500 FATHOMS
+DEPTH OF 600 FATHOMS
 80
 90
-110
+no
 100
 120
-100
-110
-120
-130
+230
 140
 150
-60
-130-
+160
+180
 170
+0
+140
 160
 170
 150
-140
-A. Bachan Delt.
-Isothermais above average shown in Red thus
+isothermuils above Average shown in Red thus

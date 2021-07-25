@@ -1,126 +1,116 @@
-1406
+1410
 THE VOYAGE OF H.M.S. CHALLENGER.
-S
-T
 *
->
-*
+9
 T
->
-* Ringicula doliaris, Gould. s
-pusilla, n.sp.
-T
-sp. (?).
-* Rissoa costulata, Alder. N
-similis, Scacchi.
-N
-(Alvania) canariensis, d’Orbigny.
-N
-( ) costata (Adams). N
-( ) leacocki, Watson. N
-( ) trajectus, n.sp.
-T
-(Cingula) glabrata (Mühlfeldt).
-N
-( ) scopulorum, n.sp.
-(Onoba) fenestrata, Krauss.
-) mercurialis, n.sp.
-T
-( ) striata (Adams). N
-( ) watsoni, Schwartz. N
-(Scrobs) badia, n.sp.
-) scrobiculator, n.sp.
+sp. (?) T
 S
-(Setia) albugo, Watson.
-) australis, n.sp.
-callosa, Manzoni.
-) principis, n.sp.
-) sinapi, n.sp.
 S
-fourteen species undetermined.
 T
-three
-undetermined.
-TS
+N
+T
+* Ceratosoma cornigerum (Adams). T * Octopus pictus, Brock, var. fasciata, nov.
+* Chromodoris runcinata, Bergh. S
 S
-sp. (?). S
-Rotella (?) sp.
-N
-* Scalaria aculeata, Sowerby.
-jukesiana, Forbes. s
-(Acirsa) subdecussata, Cantraine.
-N
-(Cirsostrema) dentiscalpium,
-n.sp.
+striatella, Bergh. T
+tehuelchus, d'Orbigny. T
+* Discodoris morphæa, Bergh. T
+tonganus, n.sp.
 T
-(
-) hellenica, Forbes.
+* Doriopsis nebulosa, Pease. T
+tuberculatus, Blainville. T
+* Janolus australis, n.g., n.sp.
 T
-two species undetermined.
-Scaliola arenosa, Adams. T
-bella, Adams. T
-caledonica, Crosse. T
-Schismope carinata, n.sp. ST
-Scissurella alta, n.sp.
-NT
-coronata, n.sp.
-T
-obliqua, n.sp.
+verrucosus, n.sp.
+,
 s
-two species undetermined. T
+* Marionia occidentalis, n.sp.
 S
-Separatista chemnitzii, Adams.
-Siphodentalium dichelum, n.sp.
-eboracense, n.sp.
+vitiensis, n.sp.
 T
-honoluluense, n.sp.
-T
-tetraschistum, n.sp.
-T
-* Siphonaria cancer, Reeve. s
-(Liriola) tristensis, Leach. S
-Skenea subcanaliculata, Smith. S
-(?), four species undetermined. T
+* Ohola pacifica, n.g., n.sp.
+* Onchidium melanopneumon, n.sp.
+T Rossia patagonica, Smith.
+* Platydoris eurychlamys, Bergh. T
+sublevis, Verrill.
+* Rizzolia australis, n.sp.
 S
-* Solarium (Architectonica) perspectivum
-(Linné). T
-(
-) reevei, Hanley
-S
-(Torinia) rosulentum, n.sp.
-T
-* Stomatella imbricata, Lamarck. s
-(Gena) nigra, Quoy and
-Gaimard. ST
-* Strebloceras subannulatum, n.sp. T
-T
+(?) tenera (Verrill). N
+* Thordisa (?) clandestina, n.sp.
+Sepia andreanoides, n.sp.
+elliptica, n.sp. T
+MARSENIADA:
+esculenta, n.sp.
 N
+kobiensis, n.sp
+N
+* Marsenia dubia, n.sp.
+N
+papuensis, n.sp. T
+* Marseniopsis murrayi, n.g., n.sp.
+S
+smithi, n.sp.
+T
+pacifica, n.g., n.sp.
+S
+(Metasepia) pfefferi, n.sp.
+* Sepiella maindroni, Rochebrune. N
+CEPHALOPODA :
+Spirula peronië, Lamarck. T
+* Argonauta argo, Linné. s
+* Todarodes pacificus, Steenstrup. N
+* Inioteuthis morsei, Verrill.
+* Loligo brasiliensis, Blainville. s
+POLYZOA :
+edulis, n.sp.
+Adeonella atlantica, n.g., n.sp.
+(?) ellipsura, n.sp.
+distoma, Busk. Τ Ν
+galatheæ, Steenstrup, MS.
+intricaria, n.g., n.sp.
+T
+indica, Pfeffer
+pectinata, n.g., n.sp.
+japonica, Steenstrup, MS. N
+platalea, Busk. T
+kobiensis, n.sp.
+N
+polymorpha, n.g., n.sp.
+T
+* Octopus australis, n.sp. S
+Ætea anguina (Linné). SN
+bamensis, n..
+T
+Alecto granulata, M.-Edwards.
+bermudensis, n.sp.
+N
+* Amathia brasiliensis, n.sp.
+boscii (Lesueur), var. pallida, *
+connexa, n.sp.
+T
+T
+granulatus, Lamarck. ST
+lendigera (Linné). N
+S
+semispiralis (Kirchenpauer). T
+macropus, Risso. N
+spiralis, Lamouroux. S
+marmoratus, n.sp.
+T
+Amphiblestrum capense, n.sp. S
+occidentalis, Steenstrup, MS. T
+cervicorne, Busk. S
+N
+n.sp. N
+S
 S
 T
-N
+T
+T
+S
+>>
+T
+nov.
 s
-*
-species
-S
-sp. (?). S
-T
-99
-* Rissoina cincta, Angas. S
-ephamilla [scalariformis), n.sp.
-T
-honoluluensis, n.sp.
-T
-mercurialis, n.sp.
-miranda (Adams). T
-reticulata (Sowerby). T
-transenna, n.sp.
-T
-triangularis, n.sp.
-triticea, Pease. T
-S
-sp. (?).
-*
-.
-T
-.
-sp. (?). T
+distans, n.sp.
+levis, n.sp.

@@ -1,41 +1,39 @@
 SUMMARY OF RESULTS.
-1173
-STATION 314
-see
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophiacantha vivipara, Ljungman. Three specimens ; for distribution
-Station 145.
-Ophiomyxa vivipara, Studer. Obtained also at Stations 142, 308, and 313.
-Gorgonocephalus pourtalesii, Lyman. For distribution see Station 149.
-HOLOTHURIOIDEA (Théel, Zool. pt. 39).
-Cucumaria crocea, Lesson. Several specimens ; obtained also at Stations 313,
-315, and 316.
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Chosroës incisus, n.g., N.sp. One specimen ; obtained also at Station 313. Only
-species of the genus.
+1177
+FALKLAND
+ISLANDS
 ISOPODA (Beddard, Zool. pt. 33).
-Serolis schythei, Lütken. Several specimens ; obtained also at Stations 304, 313,
-315, and 316.
+Serolis paradoxa (Fabricius). Many specimens (Station 316, 4 fathoms); obtained
+at no other locality by the Challenger. Recorded from Patagonia,
+Africa (?), and New Zealand (?).
+convexa, Cunningham. One specimen (Station 315, 5 to 12 fathoms);
+obtained at no other locality by the Challenger. Recorded from
+Fuegia.
+schythei, Lütken. Several specimens (Stations 315 and 316, 4 to 12 fathoms);
+obtained also at Stations 304, 313, and 314.
+MACRURA (Spence Bate, Zool. pt. 52).
+Nauticaris marionis, n.g., n.sp. One specimen (Station 315, 12 fathoms); obtained
+also at Station 145.
+ANOMURA (Henderson, Zool. pt. 69).
+Paralomis verrucosus (Dana). Two specimens (Station 316, 4 fathoms, and Port
+Stanley); obtained also at another locality uncertain,
+Recorded from Fuegia.
+Eupagurus comptus (White), var. jugosa, nov. One specimen (Station 315, 5 to
+12 fathoms); obtained also at Station 308.
+Porcellanella triloba, White. One specimen (Station 315, 5 to 12 fathoms);
+obtained also at Station 212.
+Munida subrugosa (White). Four specimens (Station 315, 5 to 12 fathoms); for
+distribution see Station 304.
 BRACHYURA (Miers, Zool. pt. 49).
-Eurypodius latreillei, Guérin-Ménéville. One specimen ; for distribution see
-Station 304.
->
-PYCNOGONIDA (Hoek, Zool. pt. 10).
-Colossendeis megalonyx, n.sp. Two or three specimens; obtained also at Stations 149
-and 313.
-POLYZOA (Busk, Zool. pt. 30).
-Menipea benemunita, n.sp. Obtained also at Stations 149, 308, 313, and 315.
-aculeata (d'Orbigny). Obtained also at Stations 308 and 315.
-flagellifera, n.sp. Obtained also at Stations 145, 149, and 313.
-Ichthyaria oculata, n.g., n.sp. Obtained also at Station 320, 600 fathoms. Only
-species of the genus.
-Carbasea elegans, Busk. Obtained also at Station 162.
-Salicornaria variabilis, 1.sp. Obtained also at Stations 149 and 304.
-tenuirostris, Busk. Obtained at no other locality by the Challenger.
-Recorded from Australia and Florida Gulf.
-Cellepora bicornis, n.sp. Obtained also at Stations 145, 150, and 313.
-TUNICATA (Herdman, Zool. pt. 38).
-Colella pedunculata (Quoy and Gaimard). Two specimens ; obtained also at
-Stations 149, 151, 313, and 315.
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
-148
+Eurypodius latreillei, Guérin-Ménéville. Ten specimens (Stations 315 and 316,
+4 to 12 fathoms); for distribution see Station 304.
+Hypopeltarium spinosulum (White). Eight specimens (Stations 315 and 316, 4 to
+12 fathoms); obtained also at Station 304.
+Halicarcinus planatus (Fabricius). Six specimens (Station 316, 4 fathoms);
+obtained also at Stations 145 and 149.
+LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
+Tapes (Amygdala) exalbida (Chemnitz). (Station 316, 4 to 5 fathoms); obtained
+at no other locality by the Challenger. Recorded from
+Magellan Strait.
+Cryptodon falklandicus, n.sp. (Station 316, 3 to 5 fathoms); obtained at no other
+locality.

@@ -1,144 +1,122 @@
 SUMMARY OF RESULTS.
-1333
-T
+1337
+S
+* Cerebratulus sp. (?).
+* Eupolia nipponensis, n.g., n.sp.
+sp. (?). N
 N
-*
-T
-*
-*
-T
-S
-S
-T
-T
-T
-T
-T
-S
-T
-*
-N
-*
-T
-S
-S
-S
-N
-T
-* Pliobothrus symmetricus, Pourtalès. Streptocaulus pulcherrimus, n.g., n.sp. T
-* Rhizotrochus fragilis, Pourtalès. ST
-* Thuiaria pharmacopola, n.sp.
-Solenosmilia variabilis, Duncan. S T
-SIPHONOPHORA :
-Sphenotrochus rubescens, n.sp.
-Stenohelia profunda, n.sp.
+Schizaster moseleyi, n.sp.
+ventricosus, Gray. N
+Spatangus raschi, Lovén. S
+Temnopleurus hardwicki (Gray).
+reynaudi, Agassiz.
+Τ Ν
 ST
-Stephonalia bathyphysa, n.g., n.sp.
-* Stephanophyllia complicata, n.sp.
-formosissima, 1.sp. T CRINOIDEA :
-Stephanotrochus platypus, n.g., n.sp. Actinometra pulchella (Pourtalès).
-Stylaster duchassaingi, Pourtalès.
-stelligera, n.sp.
+GEPHYREA :
+* Chætoderma militare, n.sp.
 T
-Thecopsammia elongata, n.sp.
-Antedon angustiradia, n.sp.
-gemma, n.sp.
-australis, n.sp.
-compressa, n.sp. T
-discoidea, n.sp.
-HYDROIDA:
-distincta, n.sp.
-T
-Aglaophenia acacia, n.sp.
-exigua, n.sp.
 S
-filicula, n.sp.
+*
+>
+T
+S
+T
+nov.
+S
+T
+S
+S
+HOLOTHURIOIDEA :
+ANNELIDA :
+Ankyroderma danielsseni, n.sp.
+* Allmaniella setubalensis, n.g., n.sp.
 N
-flexilis, n.sp.
-Intennularia fascicularis, n.sp.
-hirsuta, n.sp.
-Campanularia tulipifera, n.sp.
-latipinna, n.sp.
-Cryptolaria crassicaulis, n.sp.
-longicirri, n.sp.
-flabellum, n.sp.
-manca, n.sp.
-geniculata, 1.sp.
-multispina, n.sp.
-S T
-Diphasia pinaster (Ellis and Solander). N
-parripinna, n.sp.
-* Eudendrium rameum (Pallas).
-patula, 1.sp.
-* Halecium arboreum, n.sp.
-porrecta, n.sp.
-beanai, Johnston. SN
-pusilla, n.sp.
-T
-fastigiatum, n.sp.
-quinquecostata, n.sp.
-Hypopyxis labrosa, n.g., n.sp.
-rhomboidea, n.sp.
-Lafoëa dumosa (Fleming). T
-robusta, n.sp.
-* Lictorellu cyathifera, n.g., n.sp.
-spinicirru, n.sp.
-S
-Perisiphonia filicula, n.g., n.sp.
-tenuicirra, n.sp.
-* Plumularia abietina, 1.sp.
-tuberosa, n.sp.
-insignis, n.sp.
-* Atelecrinus balanoides, n.sp.
-laxa, n.sp.
-S
+simile, n.sp.
+N
+Ampharete kerguelensis, n.sp. S
+* Chirodota sp. (?). T
+sombreriana, n.sp. T
+Cucumaria capensis, n.sp. S
+Amphicteis japonica, n.sp. N
+serrata, n.sp.
 s
-Eudiocrinus semperi, n.g., n.sp.
-* Plumularia stylifera, n.sp.
-* Metacrinus angulatus, n.g., n.sp.
-Polyplumaria pumila, n.sp.
-cingulatus, n.g., n.sp.
-* Sertularia catena, n.sp.
-nobilis, n.g., n.sp.
-laxa [exigua), 1.sp.
-tuberosus, n.g., n.sp.
-leiocarpa, n.sp.
-Pentacrinus alternicirrus, n.sp.
-maclearanus, n.sp.
-* Staurotheca dichotoma, n.g., n.sp.
-(SUMMARY OF RESULTS CHALL. EXP.--1894.)
-T
-T
-T
-T
-T
-S
-T
-S
-T
-S
-T
-S
-*
-S
-T
-T
+Aphrodita echidna, Quatrefages.
+var. intermedia, nov.
+intermedia, n.sp.
+Holothuria atra, Jæger. T
+* Apomatus elisabetha, n.sp.
+murrayi, n.sp., var. parva,
+* Chatozone atlantica, n.sp.
+STN
+Dasychone capensis, n.sp.
+Ilyodæmon maculatus, n.g., n.sp.
+Ditrypa arietina, Müller. N
+* Lætmogone violacea, n.g., n.sp.
+* Ereutho kerguelensis, n.sp.
+s
+wyville-thomsoni, n.g., n.sp.
+Eulagisca corrientis, n.g., n.sp.
+s
 SN
+Eulepis challengerix, n.sp. T
+* Orphnurgus asper, n.g., n.sp.
 T
-Ω Ω
+wyvillei, n.sp.
+N
+Pannychia moseleyi, n.g., n.sp.
+* Eunice eduardsi, n.sp.
+S
+Pseudostichopus mollis, n.g., n.sp.
+s
+magellanica, n.sp. S
+Psolus antarcticus, Philippi. S
+prognatha, n.sp. T
+disciformis, 1.sp.
+pycnobranchiata, n.sp.
+ephippifer, n.sp.
+s
+* Eunou iphionoides, n.sp.
+incertus, n.sp.
+opalind, n.sp.
+s
+squamatus, Diben and Koren. S
+yedoensis, n.sp.
+N
+Stichopus moseleyi, n.sp.
+N
+S
+* Eunotomastus grubei, n.g., n.sp.
+* Synapta aculeata, n.sp. N
+Euphione elisabethæ, n.g., n.sp.
+beseli, Jæger.
 T
-*
-T
+* Eupolynoë mollis, M'Intosh.
+challengeri, n.sp.
+Eusyllis kerguelensis, n.sp. s
+* Trochostoma antarcticum, n.sp. s * Euthelepus setubalensis, n.g., n.sp.
+N
+violaceum, Studer. s * Glycera capitata, Ersted.
+s
+kerguelensis, n.sp.
+tesselata, Grube.
+NEMERTEA :
+Hemipodus (?) magellanicus, n.sp. S
+Amphiporus marioni, n.sp.
+Hyalinæcia tubicola, Müller,
+Cerebratulus macroren, n.sp.
+SN
+longibranchiata, nov. S TN
+S
+S
+S
+وو
+s
+S
 S
 T
 N
-T
-T
-T
+(?) sp.
+S
 N
-T
 S
-ST
-S
-ТІ
-168
+var.

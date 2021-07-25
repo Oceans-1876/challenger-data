@@ -1,109 +1,135 @@
-1316
+1320
 THE VOYAGE OF H.M.S. CHALLENGER.
-S
-S
-S
-S
-S
-S
-S
+T
 T
 S
-N
-S
-N
-*
-sp. (?). T
-Sarakka crassa, Danielssen. S
-Cyathoceras cornu, n.g., n.sp.
-* Stachyodes regularis, n.g., n.sp.
-* Cyathohelia axillaris, M.-Edwards and
-Haime. T
-* Stenella acanthina, n.sp.
-gigantea, n.sp.
-T
-Deltocyathus italicus, M.-Edwards and
-Haime. S T N
-Strophogorgia challengeri, n.g., n.sp. N
-Errina labiata, n.sp.
-verrilli, n.g., n.sp.
-N
-Flabellum apertum, n.sp.
-SN
-Sympodium verrilli, n.sp.
-curvatum, n.sp.
-s
-* Thouarella antarctica (Valenciennes). S
-* Spinipora echinata, n.g., n.sp. S
-moseleyi, n.sp.
-Sporadopora dichotoma, n.g., n.sp.
-PENNATULIDA :
-Stenohelia profunda, n.sp.
 ST
-* Anthoptilum thomsoni, n.g., n.sp.
-s Stephanotrochus diadema, n.g., n.sp. TN
-discoides, n.g., n.sp.
-* Kophobelemnon sp. (?). S
-* Leptoptilum gracile, n.g., n.sp.
-S
-* Stylaster densicaulis, n.sp.
-* Microptilum willemoesi, n.g., n.sp.
-erubescens, Pourtalès.
-* Pennatula pearceyi, n.sp.
-and
-N
-gracilis, M.-Edwards
-* Protocaulon molle, n.g., n.sp.
-Haime. S T
-S
-* Scleroptilum durissimum, n.g., n.sp.
-lævis, Studer. S
-* Umbellula durissima, n.sp. N
-husleyi, n.sp.
-N
-HYDROIDA:
-* Virgularia bromleyi, n.sp.
-* Cladocarpus formosus, Allman. N
-ACTINIARIA :
-pectiniferus, n.sp. N
-* Epizoanthus parasiticus, Verrill. * Cryptolaria gracilis, n.sp.
-Phellia spinifera, n.sp.
-* Perisiphonia pectinata, n.g., n.sp.
-Polysiphonia tuberosa, n.g., n.sp.
-N * Sertularia clausa, n.sp.
 s
-producta, n.sp.
-CORALS :
-* Thuiaria hyalina, n.sp.
-* Allopora profunda, n.sp.
-* Astylus subviridis, n.g., n.sp.
-DEEP-SEA MEDUSÆ :
-* Bathelia candida, n.g., n.sp.
+sp. (?).
+T
 S
-* Drymonema victoria, Haeckel. N
-Bathyactis symmetrica(Pourtalès). S TN
-* Pectanthis asteroides, Haeckel. N
-Caryophyllia communis (Seguenza). S N
-lamellifera, n.sp.
-SIPHONOPHORÆ :
-maculata (Pourtalès). S T
-* Rhodalia miranda, n.g., n.sp.
-* Cladocora debilis, M.-Edwards and
-Haime.
-Conopora tenuis, n.g., n.sp. S
-CRINOIDEA :
-Cryptohelia pudica, M.-Edwards and Actinometra parvicirra (Müller). S T
-Haime. S TN
-typica (Lovén). T
+T
+* One
+T
+.
+ISOPODA:
+Cythere ericea, n.sp.
+pyriformis, n.sp.
+Acanthomunna proteus, n.g., n.sp.
+radula, n.sp.
+T
+* Anceus bathybius, n.sp.
 N
+Cytherella lata, n.sp.
+Τ Ν
+* Arcturus annd, n.sp.
+S
+punctata, Brady. S T
+T
+cornutus, n.sp.
+Cytherideis sp. (?). T
+S
+myops, n.sp.
+Krithe bartonensis (Jones).
+spinifrons, n.sp.
+T
+producta, n.sp. S TN
+* Eurycope atlantica, n.sp.
 N
+Macrocypris canariensis, n.sp. N
+Neasellus kerguelenensis, n.g., n.sp.
+similis, n.sp.
+S T
+* Paranthura chiltoni, n.sp.
+S
+T
+Serolis bromleyana, n.sp.
+S
+* Xiphichilus (?) arcuatus, n. sp.
+gracilis, n.sp.
+T
+neara, n.sp.
+S
+COPEPODA:
+* Stenetrium hasuelli, n.s]).
 s
+* Chondracanthus (?) macrurus, n.sp.
+Trichopleon ramosum, n.g., n.sp.
+CIRRIPEDIA:
+* Two Isopods undetermined. N
+T
+Scalpellum acutum, n.sp.
+SN
+album, n.sp.
+SCHIZOPODA:
+elongatum, n.sp.
+S
+hirsutum, n.sp.
+T
+S
+* Euphausia similis, n.sp.
+intermedium, n.sp.
+S * Gnathophausia calcarata, n.g., 1.sp.
+japonicum, n.sp. N
+elegans, n.g., n.sp.
+nova-zelandiæ, n.sp.
+T
+S
+ingens (Dohrn).
+STN
+parallelogramma, n.sp. S
+zoča, n.g., n.sp.
+triangulare, n.sp.
+S
+MACRURA:
+velutinum, n.sp.
+SN
+T
+* Verruca nitida, n.sp.
+T
+Acanthephyra acutifrons, 1.sp.
+sulcata, n.sp.
+brachytelsonis, n.sp. STN
+edwardsii, n.sp.
+AMPHIPODA:
+media, n.sp.
+T
+Andania boecki, n.sp.
+T
+sica, n.sp.
+S TN
+* Anonys ampulloides, Spence
+Spence Bate Benthesicymus altus, n.g., n.sp.
+STN
+(Stimpson, MS.). N
+* Eiconaxius kermadeci, n.g., n.sp.
+S
+Cystisoma spinosum (Fabricius). STN
+S
+parvus, n.g., n.sp.
+* Elasmopus delaplata, n.sp. S
+Gennadas parvus, n.g., n.sp.
+S TN
+* Euonyx normani, n.sp. S
+* Glyphocrangon aculeata, M.-Edwards. T
+* Eusiroides crassi, n.g., n.sp.
+regalis, n.sp.
+ST
+Lanceola æstiva, n.sp.
+T
+Ilaliporus neptunus, n.g., n.sp.
+* Podoceropsis kermadeci, n.sp.
+obliquirostris, n.g., n.sp.
+>
+T
+T
+a
+S
+T
+*
+S
+T
 S
 2
-T
-T
-s
-T
-s
-#2
-s
+>
+!

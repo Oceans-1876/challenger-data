@@ -1,45 +1,131 @@
-SUMMARY OF RESULTS.
-1461
-1
-DEPOSIT8. .
-a very heterogeneous arrangement of the superficial portions of the earth's crust.
-In some regions sandstones and highly siliceous rocks prevail, in others limestones
-and clays with much iron and manganese. During the Challenger Expedition, particles
-of quartz were found to be almost wholly absent from the deposits towards the central
-portions of the ocean basins, but small quartz particles were found abundantly in
-all the terrigenous deposits laid down near the shore. As continental rocks are largely TERRIGENOUS
-made up of free quartz particles, and all contain particles of quartz, it follows that they
-must have been formed from the deposits laid down near to pre-existing land. Rocks,
-made up in this way of terrigenous deposits, appear to have been again and again
-pushed up to form new land in the gradual evolution of the surface features of the
-planet, and to have been again and again torn down by atmospheric agencies,
-the various strata becoming more simple in composition, while the land masses, on the
-whole, have become more complex in structure at each revolution. Among the strata
-of the continents there are numerous examples of rocks which were apparently
-laid down in a deep sea, but a deep sea which must have been in more or
-less close proximity to some then-existing continental land. It is, on the other
-hand, extremely doubtful whether any continental rock has been laid down
-under physical conditions similar to those under which pelagic deposits are now being
-formed on the sea-bed beyond 300 miles from continental land. A broad distinction
-is to be drawn between pelagic and terrigenous deep-sea deposits. Quartz particles
-are almost wholly absent from the former, while they may make up 80 per cent. of
-the latter.
-In the central parts of the Pacific and Indian Oceans there are in very deep water PELAGIC DEPOSITS.
-dark chocolate coloured deposits containing large quantities of iron and manganese,
-together with immense numbers of zeolitic crystals, small black spherules with metallic
-nuclei and other spherules of cosmic origin, great numbers of sharks' teeth and bones of
-whales, some of these latter belonging to extinct species. All these objects may be
-present as the nuclei of large manganese-iron nodules. At first I was inclined to regard
-the peculiarities of these deposits as being in some way due to hypogene action, but all
-these peculiarities may be better explained by regarding them as the results brought
-about by chemical changes on areas of the sea-bed where there has been an extremely
-slow rate of accumulation, and where all the materials of the deposit have for a long
-time been exposed to the action of sea-water. We now know that manganese can by
-successive deoxidations and reoxidations in, and at the surface of, marine deposits be
-transported on the floor of the ocean from coast regions to the central and deeper
-areas of the Ocean Basins.' Lime, iron, manganese, magnesia, and the alkalies seem
-to have accumulated in the ocean and in the abysmal deposits at the expense of
-| Murray and Irvine, On Manganese Oxides and Manganese Nodules in Marine Deposits, Trans, Roy. Soc. Edin.,
-vol. xxxvii., p. 741, 1894.
+INDEX OF GENERA, SUB-GENERA, SPECIES, AND VARIETIES.
+This index serves in a manner as an index of the species procured by the Challenger, described or referred to in the Zoological
+Reports, for on looking up the pages in the Station lists the reader will find references to the Zoological Parts in which
+the species are fully treated of.
+Abra (sec Semele).
+Acanthephyra-continued.
+A byla, 584.
+brevirostris, 336, 1296.
+carina, 1255.
+carinata, 1157, 1341.
+Abyssascidia,
+edwardsii, 369, 1320.
+vasculosa, 510, 1297.
+kingsleyi, 329, 1279.
+wyvillii, 528, 1280.
+longidens, 772, 1088, 1286, 1288.
+Acabaria, 1452.
+media, 801, 1320.
+Acamptogorgia,
+purpurea, 206, 296, 1268, 1279,
+alternans, 642, 1365.
+1281, 1296, 1298.
+arbuscula, 897, 1330.
+sica, 206, 524, 602, 608, 615,
+Acanella,
+674, 752, 891, 918, 1184, 1279,
+arbuscula, 140, 1292.
+1280, 1281, 1282, 1286, 1288,
+chiliensis, 1147, 1330.
+1289, 1290, 1307, 1320, 1325,
+eburnea, 161, 1330.
+1326, 1341.
+rigida, 752, 1330, 1355.
+Acanthias,
+siinplex, 237, 1303.
+blainvilli, 1115, 1416, 1440,
+Acanthaphritis, 1361.
+1449.
+grandisquamis, 749, 1353.
+vulgaris, 1440.
+Acauthascus, 1451,
+Acanthocardium (see Cardium).
+dubius, 1156, 1330.
+Acanthochiasma,
+grossularia, 458, 1330.
+spirale, 1017.
+Acanthaster,
+Acanthochiton,
+echinites, 646, 327, 1374.
+garnoti, 414, 1409.
+Acanthastræa,
+Acanthocladium,
+irregularis, 643, 1368.
+huxleyi, 720, 1372, 1422.
+Acanthechinus, 1361.
+Acanthocope,
+tricarinatus, 485, 1340.
+acutispina, 520, 1135, 1306.
+Acanthella,
+spinicauda, 520, 1295.
+effusa, 692, 826, 1372, 1422.
+Acanthocorys,
+pulcherrima, 689, 1362.
+dodecaster, 1041.
+stipitata, 689, 1362.
+endeapodia, 1254.
+Acanthephyra,
+furcata, 1201.
+acanthitelsonis, 333, 336, 1296,
+hexapodia, 1060.
+1298.
+macroceras, 1047, 1118.
+acutifrons, 739, 837, 841, 1286,
+macropodia, 1047.
+1290, 1320, 1324.
+polypodia, 1056.
+angusta, 753, 1341.
+pristipodia, 957.
+approxima, 1157, 1341.
+triloba, 1052.
+armata, 753, 1341.
+umbellifera, 1268.
+brachytelsonis, 615, 620, 753, 841, Acanthocyathus,
+900, 922, 1184, 1286, 1290,
+dentatus, 636, 1332.
+1320, 1324, 1326, 1341, 1356.
+spinicarens, 814, 1332.
 (SUMMARY OF RESULTS CHALL. EXP.-1894.)
-184
+Acanthocyclus,
+gayi, 1120, 1166, 1389, 1425.
+Acanthodesmia,
+ceratospyris, 1011.
+müilleri, 1251.
+Acantbogorgia,
+laxa, 1150, 1330.
+longiflora, 801, 1315.
+ramosissima, 432, 1330.
+ridleyi, 1147, 1330.
+Acanthoisis, 1129.
+flabellum, 555, 1365.
+Acantholonche,
+amphipolaris, 1017, 1019, 1024,
+1028, 1032, 1046, 1053, 1057,
+1062.
+peripolaris, 1062.
+Acanthometron,
+bulbiferum, 1013, 1017, 1019,
+1024, 1028, 1032, 1046, 1053,
+1057, 1062.
+bulbosum, 1268.
+catervatum, 1268.
+conicum, 958.
+cylindricum, 1017, 1019, 1024,
+1028, 1032, 1046, 1053, 1057,
+1062
+Acanthomunna,
+proteus, 602, 608, 1306, 1312,
+1320.
+Acanthonia,
+claparedei, 516.
+concava, 1095.
+convexa, 958.
+denticulata, 1017, 1019, 1024,
+1028, 1032, 1046, 1053, 1057,
+1062.
+diplopyramis, 1017, 1019, 1024,
+1028, 1032, 1046, 1053, 1057,
+1062.
+fragilis, 1268.
+mülleri, 1255, 1257, 1261.
+185

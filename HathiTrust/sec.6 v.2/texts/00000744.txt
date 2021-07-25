@@ -1,46 +1,184 @@
-1462
+1466
 THE VOYAGE OF H.M.S. CHALLENGER.
-the rocks of the continents. The bases are being continually leached out of the rocks
-of the continents and carried away in solution, the result being the deposition of the
-greater part of the heavier materials in the abysmal regions, and the accumulation of the
-greater part of the lighter insoluble and refractory quartz on or near the continents.
-The average chemical composition of the pelagic or abysmal deposits shows only about
-36 per cent. of silica, while that of the terrigenous deposits and continental rocks shows
-about 68 per cent. of free and combined silica. Continental rocks have an average
-specific gravity of about 2:5; the abysmal deposits would form rocks with a specific
-gravity of over 3.1. In the original superficial crust all the silica was probably combined
-with bases; the deeper layers would be more basic than the surface ones, but all the
-rocks of the crust were probably much less acid than granite. Gneisses and granites
-were probably formed subsequently to the commencement of subaerial denudation on
-the planet. Many considerations indicate that the continental masses are lighter por-
-tions of the Earth's crust. Pendulum observations indicate a deficiency of mass beneath
-the continents. The plumb-line along continental coasts tend, it is said, towards the
-ocean basins. The grand result of all the denuding and reconstructing agencies in the
-past appears to have been a great accumulation of quartz and highly siliceous materials
-on the present continental areas, that is, on the continents and the adjacent areas
-covered by terrigenous deposits, and this is possibly the chief reason why the average
-level of the plane of the abysmal regions lies at about three miles beneath the plane
-representing the average height of the continents.
-If down to the close of Palæozoic times the ocean had throughout a nearly uniform
-high temperature, the deposits then formed in deep water would certainly be different,
-CONTINENTAL AND
-for reasons indicated above, from what we now find in the abysmal regions. It is most
-probable that the Ocean Basins were not so deep in these early ages, and numerous
-islands probably existed in them, with rocks similar to those that now make up the bulk
-of continental land. Possibly these former land-masses now form the submerged bases
-of the groups of oceanic islands wholly consisting, so far as we can see, of erupted
-rocks. In the gradual evolution of the surface features of the planet, continental land
-appears, on the whole, to have become more compact, more circumscribed and higher,
-while the ocean basins have become more shut off from each other and deeper.
-Continental land has been far from permanent, but there are many reasons for believing
-that the areas on the surface of the planet, within which the present continents are
-situated, are areas within which continents have been torn down and built up again since
-the dawn of geological history, while similar revolutions have not taken place in
-abysmal or pelagic areas of the Ocean Basins to anything like the same extent, and not at
-all during any of the later geological periods. In the evolution of the surface features of
-the globe and in the evolution of climate, as in the evolution of the solar system and in
-the evolution of organisms, there has been a progressive advance from simple to comples
-conditions, from states of more or less homogeneity to those of greater heterogeneity.
-RELATIVE PER-
-MANENCE OF
-OCEANIC AREAS.
+539,
+Acanthonia-continued.
+multispina, 1255.
+prismatica, 500.
+quadrangula, 1268.
+quadrifolia, 977, 980, 982.
+serrulata, 1053.
+stellata, 1046.
+Acanthonus, 1314.
+armatus, 793, 853, 1310, 1311.
+Acanthonyx,
+lunulatus, 310, 1389.
+Acanthopleura,
+incana, 572, 926, 1409, 1427, 1447.
+spiniger, 713, 1409.
+Acanthosona,
+brevitelsonis, 895.
+dorsispinalis, 895.
+longitelsonis, 1139.
+macrotelsonis, 829, 1387.
+tynitelsonis, 895.
+Acanthosphæra,
+angulata, 1217.
+antarctica, 512, 516.
+brevispina, 1021, 1038.
+capillaris, 992, 1004, 1006, 1008,
+1013, 1017, 1019, 1024, 1028,
+1032, 1044, 1053, 1056, 1061.
+castanea, 879, 958.
+clavata, 879.
+conifera, 1021.
+enneacantha, 1010.
+florida, 1206.
+fortispina, 957.
+gibbosa, 1038, 1044, 1061.
+insignis, 1032, 1044, 1053, 1056,
+1061, 1206, 1250.
+longispina, 980.
+macropora, 1044.
+marginata, 1061.
+maxima, 1254.
+megaporum, 1267.
+micropora, 1095.
+mucronata, 1038.
+octahedralis, 979.
+reticulata, 1038.
+tenuis, 1015, 1021, 1027, 1031,
+1038, 1044, 1050, 1055, 1059.
+Acanthostaurus,
+æquatorialis, 1046,
+bipinnis, 958.
+copacanthus, 1218.
+forceps, 1268.
+purpurascens, 516, 1255, 1257,
+1261, 1266, 1268.
+Acanthurus, 1076, 1416.
+blochi, 659, 861, 1001, 1416, 1428.
+gahm, 659, 1416.
+hepatus, 834, 1416.
+rhombeus, 659, 1416.
+triostegus, 659, 1416.
+Acar (see Arca).
+Acarnus,
+ternatus, 1072, 1362.
+Acartia,
+denticornis, 545, 835, 1003, 1167,
+1203, 1226.
+laxa, 717, 835, 1258, 1261.
+Acasta, 807.
+fenestrata, 805, 1384.
+spongites, 1450.
+Aceste,
+bellidifera, 132, 1049, 1198, 1278,
+1281, 1293, 1300, 1318.
+Acetabularia, 629.
+Achæopsis,
+spinulosus, 411, 1389.
+Achæus, 1451.
+japonicus, 908, 1389.
+tenuicollis, 533,
+1389,
+1425.
+Achelia, 1452.
+lævis, 1450.
+Achelous (see Neptunus).
+Achilognathus,
+melanogaster, 929, 1416.
+Achlyonice, 1450.
+lactea, 453, 1294.
+paradoxa, 947, 1285.
+Achnanthes, 904,
+brevipes, 287, 442, 760, 1028.
+var. subsessilis, 442.
+longipes, 277.
+parvula, 442.
+subsessilis, 889, 1028.
+Aciculina (sce Nassa).
+Acila (sce Nucula).
+Acineta, 150, 845, 894, 1068.
+Acirsa (see Scalaria).
+Acis,
+pustulata, 897, 1330.
+Aclis,
+hyalina, 362, 1345.
+minutissima, 684, 1345.
+mizon, 129, 1398.
+sarissa, 362, 1345.
+Acmæa, 344, 1398.
+dorsuosa, 925, 1398.
+saccharina, 925, 1398.
+virginea, 273, 1345.
+Acontaspis,
+capillata, 958.
+furcata, 1053.
+hastata, 845.
+lanceolata, 1207.
+Acontiostoma, 1429.
+kergueleni, 468, 1385.
+magellanicum, 1169, 1385.
+marionis, 436, 1385.
+pepinii, 468, 1385.
+Acridium, 304.
+Acrobotrys,
+acuminata, 1051.
+aquaria, 1089.
+auriculata, 1041.
+disolepia, 1011, 1016, 1023, 1027,
+1031, 1041, 1051, 1056, 1060.
+pentasolenia, 1250.
+tetrasolenia, 957.
+trisolenia, 1016.
+Acrocubus,
+amphistylus, 1022.
+arcuatus, 1011.
+brachiatus, 957.
+cortina, 1015.
+lasanum, 950.
+octopylus, 880.
+tesseralis, 880, 1254.
+tetrapodius, 1218.
+Acrohelia,
+horrescens, 755, 1368.
+Acronurus, 1076.
+Acropoma,
+japonicum, 731, 1416.
+philippinense, 781, 1416.
+Acrosphæra,
+collina, 858.
+echinoides, 1119.
+erinacea, 167, 1038.
+inflata, 254, 878.
+setosa, 798.
+Acrospyris,
+clathrocanium, 1041.
+dictyophimus, 950.
+fragilis, 958, 1041.
+Actæa,
+granulata, 700, 1389.
+hirsutissima, 700, 1389.
+hystrix, 700, 1389.
+nodulosa, 997, 1389.
+peronii, 540, 560, 1389, 1425.
+rufopunctata,
+var. nodosa, 377, 1389.
+Actæodes,
+tomentosus, 830, 1389.
+Actæon, 284, 1308.
+amabilis, 267, 293, 1308, 1311.
+austrinus, 542, 1398.
+exilis, 275, 1345.
+flammeus, 628,656,729, 1398,1426.
+globulinus, 284, 1308.
+pusillus, 164, 1345.
+turritus, 179, 1345.
+(Acteonina),
+chariis, 284, 1308.
+edentulus, 474, 1398.
+(Buccinulus),
+affinis, 570, 1398.
+cinereus, 656.
+insculptus, 712, 1398.
+niveus, 570, 1398.

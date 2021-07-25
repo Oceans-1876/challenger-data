@@ -1,60 +1,114 @@
-1328
+1332
 THE VOYAGE OF H.M.S. CHALLENGER.
-Notes on the Geographical Distribution.--Anexamination of the foregoing list shows
-that of the 631 species taken in this zone between 500 and 1000 fathoms, 356 species
-(or 56 per cent.) were taken south of the southern tropic, 282 species (or 45 per cent.) were
-taken within the tropics, and 164 species (or 26 per cent.) were taken north of the
-northern tropic; while 30 species (or 5 per cent.) were found to be common to all those
-three areas, 23 species (or 4 per cent.) were common to the southern and northern areas,
-57 species (or 9 per cent.) were common to the southern and tropical areas, and 32
-species (or 5 per cent.) were common to the tropical and northern areas.
-i
-6. ANIMALS OBTAINED IN THE DREDGINGS AND TRAWLINGS IN DEPTHS
-BETWEEN 100 AND 500 FATHOMS.
-The Challenger dredged or trawled at 40 Stations where the depth was between 100
-and 500 fathoms, about 6000 specimens of invertebrates and fishes being procured,
-belonging to about 2050 species and about 865 genera. The total number of species and
-genera actually described and recorded in the Zoological Reports from the zone between
-these depths amounts to 1893 species and 776 genera, of which 1296 species (or 68 per
-cent.) and 168 genera (or 21 per cent.) are new to science, as shown in the following list.
-Those species taken by the Challenger in this zone only (numbering 1408 species, or 74
-per cent.) are indicated by an asterisk thus.* The geographical distribution of the
-species is indicated by the heavy letters S, T, and N, used to denote that the species was
-taken south of the tropic of Capricorn (S), between the tropics of Capricorn and Cancer
-(T), or north of the tropic of Cancer (N.)
-T
-T
-T
-KERATOSA :
-* Cacospongia intermedia, n.sp.
-levis, n.sp.
-spinifera, n.sp.
-Stelospongos longispinus (Fonbressin and
-Michelotti). T
-* Verongia tenuissima, Hyatt.
-T
-S
-T
 *
-* Desmacella annexa, Schmidt.
-* Desmacidon fruticosa (Montagu). S
-(?) ramosa, n.sp.
 S
-Echinoclathria carteri, n.sp.
-* Esperiopsis pulchella, n.sp.
-symmetrica, n.sp.
-* Gellius angulatus (Bowerbank)
-. N
-carduus, n.sp.
-var. magellanica, nov.
-glacialis, n.sp.
+var.
+T
+T
 s
-var. nivea, nov.
+S
+T
 S
 T
 s
-MONAXONIDA :
-Arinella erecta (Carter). S
-* Clathria inanchorata, n.sp.
+Antipathella contorta, n.g., n.sp.
+s * Caryophyllia clavus, Scacchi, var, smithi,
+minor, n.g., n.sp.
+Duncan.
+(?) speciosa, n.g., n.sp.
 S
-,,
+[Antipathes] cylindrica, n.sp.
+transversalis, nov.
+Aphanipathes cancellata, 1.g., n.sp. T
+communis (Seguenza). S N
+sarothamnoides, n.g., n.sp.T
+cylindracea, Reuss. N
+Cladopathes plumosa, n.g., n.sp.
+s
+lævicostata, n.sp.
+* Dendrobrachia fallax, n.g., n.sp.
+T
+maculata (Pourtalès). S T
+Schizopathes conferta, n.g., n.sp.
+paucipalata, n.sp. T
+Taxipathes recta, n.g., n.sp.
+T
+profunda, n.sp.
+ST
+T
+Tylopathes crispa, n.g., n.sp.
+rugosa, n.sp.
+Cladocora arbuscula, M.-Edwards and
+Haime. SN
+ACTINIARIA:
+Cryptohelia pudica, M.-Edwards and
+* Adamsia (?) sp.
+Haime. S TN
+* Corynactis (?) sp.
+T
+Cyathoceras cornu, n.g., n.sp.
+* Leiotealia nymphæa (Drayton). S
+pubescens, n.g., n.sp.
+Liponema multiporum, n.g., n.sp.
+SN
+Deltocyathus italicus, M.-Edwards and
+* Phellia pectinata, n.sp.
+S
+Haime. S TN
+spinifera, n.sp.
+var. calcar, nov.
+* Sagartia sp. (?).
+. T
+magnificus, n.sp.
+Scytophorus striatus, n.g., n.sp.
+Dendrophyllia cornigera, Blainville.
+* Stephanactis tuberculata, n.g., n.sp.
+* Desmophyllum cailleti, Duchassaing and
+* Actinian undetermined.
+Michelotti. T
+eburneum, n.sp.
+CORALS :
+ingens, n.sp.
+S
+Acanthocyathus dentatus, 11.sp.
+Errina labiata, n.sp.
+S
+spinicarens, n.sp.
+Flabellum apertum, n.sp.
+SN
+Astræa abyssorum, n.sp. T
+australe, n.sp.
+* Acohelia dumetosa, Duchassaing. N
+japonicum, n.sp.
+N
+* Balanophyllia cornu, n.sp. T
+patagonichum, n.sp.
+malaccensis, Kent. T
+patens, n.sp.
+T
+parvula, n.sp.
+Lophohelia arbuscula, n.sp. T
+candida, n.sp.
+T
+Bathyactissymmetrica (Pourtalès). S T N *
+prolifera, M.-Edwards and
+* Caryophyllia clavus, Scacchi, var, borealis,
+Haime. ST
+Duncan. S TN *
+var. epithecata, * Odontocyathus coronatus (Pourtalès). T
+Duncan. * Pleurocyathus brunneus, n.g., n.sp.
+T
+s
+T
+N
+T
+S
+T
+T
+S
+T
+rediviva, n.sp.
+T
+tenuis, n.sp.
+T
+T

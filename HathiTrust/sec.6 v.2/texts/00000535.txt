@@ -1,69 +1,82 @@
 SUMMARY OF RESULTS.
-1257
-Surface Organisms. -— The following species are recorded from the surface at this Station 349.
-Station :-
-ORGANISMS FROM
+1261
+STATION 352.
+Density at 60° F. :-
+Surface, .
+25 fathoms,
+50
+. 1.02662
+. 1.02645
+. 1.02624
+100 fathoms,
+200
+300
+. 1.02618
+. 1.02596
+: 1.02600
+At 1.30 P. M. stopped and took a series of temperatures down to 300 fathoms, about
+30 miles from the 100-fathom line off the Bijouga Islands; depth indicated on Admiralty
+Chart, 680 fathoms. At 2.50 P.M. proceeded under steam. Several Thalassidromas were
+seen, and on the evening of the 15th a swallow flew about the ship.
+Cape Verde distant at noon, 237 miles ; Bijouga Breakers, 66 miles N.E.
+127 miles. Amount of current 3 miles, direction N. 70° E.
+Made good
+Surface Organisms.—The following species are recorded from the surface at this ORGANISMS FROM
 SURFACE-NETS.
+Station :-
 RADIOLARIA (Haeckel, Zool. pt. 40).
-Collozoum vermiforme, Haeckel.
-Icosaspis plegans, Haeckel.
-Spongodictyon arcadophoron, Haeckel.
-Dictyospyris anthophora, Haeckel.
+Sphærozoum ovodimare, Haeckel.
 Collosphæra polygona, Haeckel.
-Lithomelissa bicornis, Ehrenberg,
-Siphonosphara cyathina, Haeckel.
-Lithopera ananassa, Haeckel.
+pyriformis, Haeckel (?).
+irregularis, Haeckel.
+Siphonosphæra cyathina, Haeckel.
 socialis, Haeckel.
-Arachnocorys circumtecta, Haeckel.
 Haliomma tenellum, Haeckel.
-Auloscena pyramilalis, Haeckel.
-Spongodrymus elaphococcus, Haeckel.
-Aulatractus fusiformis, Haeckel.
+Spongiomma helioiles, Haeckel.
 Rhizosphæra leptomita, Haeckel.
-Aulonia hecagonia, Haeckel.
-Tetrapyle pluteus, Haeckel.
-Challengeria riphodon, Haeckel.
+Tetrapyle plutcus, Haeckel.
 Lithelius spiralis, Haeckel.
-Castanella sloggetti, Haeckel.
+Litholophus rhipilium, Haeckel.
+Zygacantha compressa, Haeckel.
 Acanthonia mülleri, Haeckel.
-Castanidium buchanani, Haeckel.
+Lithophyllium cruciatum, Haeckel.
 Xiphacantha quadridentata, Haeckel.
-moreleyi, Haeckel.
 ciliata, Haeckel.
-Castanopsis naresi, Haeckel.
 Acanthostaurus purpurascens, Haeckel.
-Conchidium argiope, Haeckel.
-Ceriaspis icosahedra, Haeckel.
-Celo lentrum spinosissimum, Haeckel.
-Coscinaspis polypora, Haeckel.
+Amphilonche diodon, Haeckel.
+tetraptera, Haeckel.
+Hystrichaspis pectinata, Haeckel.
+Icosarpix elegans, Haeckel.
+Hexalaspis hexaglypha, Haeckel.
+Lithomelissa iricornis, Ehrenberg.
+Lithopera ananassa, Haeckel.
+Arachnocorys circumtecta, Haeckel.
+Theoconus campanulatus, Haeckel.
+Dictyocha navicula, Ehrenberg.
+Distephanus aculeata, Haeckel.
+Challenjeria xiphodon, Haeckel.
+Medusetta tetranema, Haeckel.
+Castanella channeri, Haeckel.
+Castanidium murrayi, Haeckel.
+1
 SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
+Cucubalus pyramidalis, Haeckel.
+Cuboides crystallus, n.sp.
 Ersæa compressa, n.sp.
-COPEPODA (Brady, Zool. pt. 23).
-Calanus gracilis, Dana.
-Eucalanus attenuatus (Dana).
-Rhincalanus cornutus, Dana.
-Pleuromma abdominale (Lubbock).
-Undina vulgaris, Dana.
+Mitrophyes peltifera, n.g., n.sp.
+Praya galea, n.sp.
+Polyphyes ungulata, n.g., n.sp.
 Scolecithrix dana (Lubbock).
 Euchæta prestandreæ, Philippi.
-Candace pectinata, Brady.
-Drepanopus furcatus, n.g., n.sp.
+hessei, n.sp.
 Temora dubia (Lubbock).
-Oithona challengerii, 1.sp.
+armata, Claus.
+Leuckartia flavicornis, Claus.
+Candace pectinata, Brady.
+Acartia laxa, Dana.
+Oithona challengerii, n.sp.
 Miracia efferata, Dana.
-Corycæus varius, Dana.
-Copilia mirabilis, Dana.
-Lubbockia squillimana, Claus.
-Oncæa obtusa (Dana).
-Saphirina ovalis, Dana.
-inæqualis, Dana.
-Saphirinella stylifera (Lubbock).
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Clio (Creseis) acicula (Rang).
-Cavolinia longirostris (Lesueur).
-The tow-nets again yielded an abundant harvest of the same character as at the
-previous Station, Echinoderm larvæ and Brachyurous Zoëæ (?) being very abundant.
-Station 350 (Sounding 500), Ascension Island to St. Vincent (see Chart 12).
-STATION 350.
-April 11, 1876 ; lat. 7° 33' N., long. 15° 16' W.
-Temperature of air at noon, 84°:3 ; mean for the day, 82°.5.
+COPEPODA (Brady, Zool. pt. 2:3).
+Undina vulgaris, Dana.
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+159

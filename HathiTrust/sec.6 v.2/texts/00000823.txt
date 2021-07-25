@@ -1,188 +1,177 @@
 SUMMARY OF RESULTS.
-1541
-219, 22, 3554,3
-F0, 552, 60,
-Pinna, 203, 545, 808.
-tasmanica, 541, 1397.
-Pinnotheres,
-villosulus, 701, 1393.
-Pinnularia,
-criophila, 515, 517.
-forficula, 277, 286.
-viridis, 931.
-Pinnularia (sce Navicula).
-Pipetta,
-5, 92)
-, 84, 14,
-conus, 949,
-11
-Phymastræa,
-aspera, 756, 1371.
-Phymodius,
-monticulosus, 831, 1392.
-Phymosoma,
-japonicum, 557, 1380, 1448.
-scolops, 805, 1380.
-Physalia, 122, 139, 142, 143, 145, 380,
-383, 530, 586, 775, 845, 848, 852, 920,
-987, 1064, 1068, 1092, 1262, 1266,
-1269.
-Physiculus,
-kaupi, 901, 1354.
-Physogyra,
-aperta, 755, 1371.
-Picroceroides, 1429.
-tubularis, 344, 376, 1392, 1425.
-Pilidium, 768, 790, 793, 799, 877, 931.
-Pilidium (see Lepeta).
-Pilochrota,
-anancora, 372, 1364.
-crassispicula, 372, 1364.
-gigas, 338, 1364.
-lendenfeldi, 536, 1361.
-moseleyi, 690, 1364.
-pachydermata, 1072, 1364.
-purpurea,
-var. longancora, 690, 1365.
-tenuispicula, 239, 1365.
-Pilulina,
-jeffreysii, 294.
-Pilumnoplax,
-abyssicola, 633, 1343.
-heterochir, 395, 421, 1343, 1356.
-vestita,
-var. sexdentata, 913, 925,
-1392, 1425.
-Pilumnus,
-africanus, 310, 1392.
-brasiliensis, 377, 1392.
-dehaani, 806, 1392.
-floridanus, 359, 377, 1392, 1425.
-fragosus, 377, 1392.
-globosus, 908, 1392.
-labyrinthicus, 701, 1393.
-longicornis, 625, 1393.
-minutus,
-var. hirsutus, 908, 1393.
-normani, 748, 1343.
-pulcher, 701, 1393, 1425.
-rufopunctatus, 561, 1393.
-scabriusculus, 831, 1393.
-seminudus, 701, 1393.
-spinifer, 272, 1393.
-tomentosus, 533, 540, 1393, 1425.
-vestitus, 560, 1393.
-Pimelepterus,
-bosci, 245, 1419.
-fuscus, 425.
-waigiensis, 850, 861, 1419.
-fusus, 1022.
-salpinx, 1010, 1015, 1022,
-tuba, 879.
-Pipettaria,
-fusaria, 879, 1132.
-tubaria, 1010.
-Pipettella,
-elongata, 1039.
-fusiformis, 957.
-prismatica, 879.
-tubulosa, 879.
-Pisa,
-(Arctopsis),
-tribulus, 126, 271, 1393, 1425.
-Pisania,
-(Cantharus),
-lineata, 312, 1404.
-undosa, 652, 1404.
-Pista,
-abyssicola, 508, 1295.
-corrientis, 1190, 1319.
-fasciata, 907, 1382.
-mirabilis, 1190, 1319.
-sombreriana, 163, 1338.
-Pityomma,
-drymodes, 1126.
-piniferum, 512.
-scoparium, 1038, 1045, 1056.
-Placogorgia, 1429.
-atlantica, 338, 1366.
-Placopsilina,
-bulla, 211, 449, 581, 604, 1126,
-1200.
-cenomana, 181, 196, 198, 498,
-630, 631, 862, 1200.
-vesicularis, 115, 285, 511, 581.
-Placostegus, 1451.
-assimilis, 193, 1338.
-benthalianus, 978, 1279.
-mörchii, 1088, 1286.
-ornatus, 956, 978, 1088, 1279,
-1280, 1286, 1446.
-Plagiacantha,
-dodecantha, 1062.
-elatine, 1022.
-furcata, 982.
-Plagiogramma,
-inæquala, 197.
-lyratum, 191, 197.
-Plagiogramma-continued.
-obesum, 197.
-pygmæum, 197.
-Plagonidium,
-quadrigeminum, 524.
-Plagoniscus,
-cortinarius, 1231.
-euscenium, 967.
-nassellaris, 876.
-tripodiscus, 1006.
-Plagonium,
-distriactis, 1095.
-lampoxanthium, 94 1.
-sphærozoum, 1251.
-trigeminum, 1013.
-Plagusia, 1458.
-chabrus, 411, 1393.
-depressa, 311, 1393.
-immaculata, 850.
-Planaria, 320.
-Planaxis,
-sulcata, 656, 1404.
-Planispirina, 639, 717.
-celata, 115, 165, 181, 198, 211,
-215, 285, 353, 449, 581, 604,
-857, 903, 936, 1153.
-communis, 115, 133.
-contraria, 261, 285, 1131.
-exigua, 198, 685, 717, 862.
-sigmoidea, 165, 181, 294, 353,
-610, 630, 639, 936, 1104.
-Planktoniella, 869, 873.
-Planorbulina,
-acervalis, 196, 631, 717.
-larvata, 631, 641, 687, 862, 1003.
-mediterranensis, 134, 182, 191,
-196, 199, 295.
-Platamon, 1314.
-longimanus, 110, 1306.
-Platax,
-orbicularis, 658, 861, 1419, 1428.
-Platessa, 534, 545.
-Platophium,
-cheloniæ, 123.
-danæ, 469, 1340.
-inconspicuum, 559, 1386.
-Platy bema,
-rugosum, 173, 1341.
-Platycaulos, 1429.
-danielsseni, 755, 1366.
-Platycephalus, 787, 807, 834, 913, 915,
-1420, 1428.
-insidiator, 715, 796, 928, 1419,
-1428.
-isacanthus, 715, 1419.
-japonicus, 796, 1419.
-malabaricus, 731, 1419.
-pristiger, 715, 1420.
-punctatus, 928, 1420.
-rudis, 928, 1420.
-".
+1545
+Polystomella--continued.
+Pontocypris--continuel.
+crispa, 124, 481,! 630, 687, 717,
+subreniformis, 409,558, 1384,1424.
+863, 903, 965, 1172, 1181.
+trigonella, 193, 1339.
+macella, 134, 424, 481, 631, 687, Pontolimax, 836.
+717, 863, 1181.
+Pontonia,
+striatopunctata, 183, 197, 216,
+meleagrinæ, 699, 1388.
+481, 529, 717, 1003, 1181. Pontophilus,
+subnodosa, 191, 717.
+gracilis, 386, 602, 680, 772, 1286,
+verriculata, 427.
+1289, 1296, 1300, 1307, 1311.
+Polystomidium, 1301.
+junceus, 776, 1341.
+patens, 1110, 1292.
+profundus, 585, 1279.
+Polytrema,
+Pontostratiotes,
+miniaceum, 134, 167, 183, 191,
+abyssicola, 1219.
+197, 199, 286, 295, 630, 631, Porania, 1452.
+641, 863, 1003.
+antarctica, 433,452, 1293,1300, 1334.
+Polytropa (see Purpura).
+glabel, 462, 1376.
+Pomacanthus,
+magellanica, 1140, 1376.
+para, 170, 1420.
+spiculata, 484, 488, 738, 1317,
+Pomacentrus,
+1325, 1327, 1334, 1358, 1376.
+scolopsis, 659, 1420.
+Porcellana, 379, 822.
+Pomatocerus,
+robertsoni, 173, 1342.
+strigiceps, 593, 1338.
+sayana, 170, 1389.
+Pontaster,
+serratifrons, 724, 795, 1389, 1425.
+forcipatus, 210, 213, 217, 229,
+streptocheles, 411, 1389.
+1293, 1299, 1304, 1310, 1446. Porcellanaster,
+var. echinata, 210, 444.
+cæruleus, 213, 217, 218, 1304,1310.
+hebitus, 224, 1376.
+caulifer, 738, 1317.
+mimicus, 738, 1317.
+crassus, 1091, 1285.
+oxyacanthus, 898, 1334.
+eremicus, 402, 1278.
+planeta, 1160, 1334.
+gracilis, 1116, 1285.
+pristinus, 1205, 1278.
+tuberosus, 933, 1293.
+subtuberculatus, 577, 1334. Porcellanella,
+teres, 746, 1334.
+triloba, 819, 1177, 1389, 1425.
+trullipes, 792, 1304.
+Porcupinia,
+venustus, 279, 288, 1285, 1289,
+aculeata, 1250.
+1290, 1317, 1327.
+cordiformis, 1218.
+var. robusta, 306, 1376. Porella,
+Pontella, 853, 871, 873, 887.
+lævis,
+acuta, 575, 734, 778, 835.
+var. subcompressa, 313,1352.
+acutifrons, 314, 575, 675, 835, Porichthys,
+986, 1263.
+porosus, 1121, 1420.
+detruncata, 314, 986, 1203.
+Porina,
+elephas, 778, 835.
+coronata,
+inermis, 1243.
+var, labrosa, 714, 730.
+kröyeri, 734, 778, 835.
+proboscidea, 164, 1352.
+lævidentata, 778, 835.
+Porites,
+magna, 1211.
+arenosa, 623, 645, 756, 1074, 1371.
+plumata, 314, 575, 660, 675, 717,
+astræoides, 168, 1371.
+835, 852, 869, 1003.
+bulbosa, 995, 1371.
+securifer, 1033.
+clavaria, 241, 1371.
+strenua, 383, 1263.
+compressa, 995, 1371.
+Pontellopsis,
+crassa, 645, 1371.
+villosa, 986, 1208, 1210.
+crassistellata, 645, 1371.
+Pontocaris,
+explanata, 826, 1371.
+pennata, 723, 1388.
+gaimardi, 756, 1371.
+propensalata, 748, 1341.
+guadaloupensis, 306, 1371.
+Pontocypris, 1071.
+latistellata, 1074, 1371.
+attenuata, 794, 852, 1384, 1424.
+lichen, 995, 1371.
+faba, 538, 996, 1384, 1424.
+lutea, 826, 1371.
+simplex, 1240, 1384.
+mirabilis, 826, 1371.
+(SUMMARY OF RESULTS CHALL. EXP.—1894.)
+Porites -continued.
+palmata, 762, 826, 1371, 1422.
+parvistellata, 667, 1371.
+superficialis, 306, 1371.
+tenuis, 667, 995, 1371, 1422.
+Porocidaris, 580.
+elegans, 578, 840, 1318,1326,1336.
+Porocapsa,
+coronodon, 516.
+poronodon, 500.
+tetrodon, 980.
+Porodiscus,
+bispiralis, 1022.
+centrospira, 879.
+concentricus, 1039, 1045.
+deformis, 1015, 1022.
+flustrella ,513,516,879, 1039, 1045.
+heterocyclus, 513, 879.
+orbiculatus, 879, 1039, 1045.
+perispira, 1053, 1056, 1061.
+quadrigatus, 1039.
+radiatus, 1217.
+semispiralis, 1039, 1045, 1051.
+spiralis, 513, 879, 1039, 1045.
+Porogadus,
+gracilis, 681, 1310.
+rostratus, 772, 1288.
+Poromya,
+australis, 683, 1345.
+lævis, 683, 1345.
+Porpalia,
+prunella, 871.
+Porpema,
+medusa, 1210.
+Porpita, 131, 150, 889, 890, 893, 941,
+944, 987, 1064, 1068.
+fungia, 980, 982, 983.
+Porpitella,
+pectanthis, 958.
+Porponia, 1450.
+elongata, 527, 1277.
+robusta, 933, 1292.
+Portunus,
+corrugatus, 272, 311, 533, 540,
+1393, 1425.
+Potamilla,
+torelli, 225, 1382.
+Potamonantes (see Thelphusa).
+Pourtalesia, 220, 528, 902, 948, 11:35.
+carinata, 452, 507, 1117, 1285,
+1288, 1294, 1298.
+ceratopyga, 507, 1117, 1124,
+1285, 1288, 1294.
+hispida, 452, 503, 1294, 1298.
+laguncula, 601, 607, 738, 899,
+955, 1278, 1281, 1282, 1305,
+1312, 1318, 1324, 1326, 1336.
+phiale, 503, 1294, 1448.
+rosea, 1049, 1278.
+Praniza, 480, 853.
+195

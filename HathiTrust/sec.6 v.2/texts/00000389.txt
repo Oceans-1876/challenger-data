@@ -1,37 +1,44 @@
 SUMMARY OF RESULTS.
-1125
-STATION 299.
-CIRRIPEDIA (Hoek, Zool. pt. 25).
-Scalpellum darwinii, n.sp. One specimen (attached to manganese nodule); obtained
-at no other locality.
-PYCNOGONIDA (Hoek, Zool. pt. 10).
-Nymphon procerum, n.sp. One specimen ; obtained at no other locality.
-SCAPHOPODA (Watson, Zool. pt. 42).
-Dentalium keras, n.sp. One specimen ; obtained also at Station 246. Recorded
-subsequently from North Atlantic (“ Blake").
-POLYZOA (Busk, Zool. pt. 30).
-Menipea pateriformis, n.sp. Obtained at no other locality.
-Bugula reticulata, n.sp. Obtained also at Stations 147, 303, and 320.
-Kinetoskias pocillum, n.sp.
-Obtained also at Station 122.
-Flustra biseriata, n.sp.
-Obtained also at Station 196.
-BRACHIOPODA (Davidson, Zool. pt. 1).
-Terebratula wyvillii, n.sp. Two specimens; obtained also at Stations 160, 184,
-244, 302, and 317.
-Waldheimia wyvillii, n.sp. One specimen ; obtained at no other locality.
-TUNICATA (Herdman, Zool. pts. 17 and 76).
-Corynascidia suhmi, n.g., n.sp. One specimen ; obtained also at Station 146.
+1129
+STATION 300.
+HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
+Lætmogone wyville-thomsoni, n.g., n.sp. A great many specimens ; obtained also at
+Stations 147, 158, and 232.
+Euphronides depressa, n.g., n.sp. Two specimens; obtained also at Station V.
 Only species of the genus.
-Octacnemus bythius, Moseley, n.g., n.sp. One specimen ; obtained also at Station 218.
-Only species of the genus.
-FISHES (Günther, Zool. pt. 57).
-Macrurus filicauda, n.sp. One specimen ; obtained also at Stations 146, 157, 158,
-323, and 325.
-In addition to the foregoing, the following are recorded in the Station-book :-Several
-specimens of Stephanoscyphus, Hydroid, several Serpulæ, Arcturus (?), Fusus with
-Epizoanthus, several specimens of Discina, and single valve of Pleuronectia (?). The
-Polyzoa, Discina, Stephanoscyphus, and Serpulæ were attached both to the manganese
-nodules and to the Holothurians.
-(SUMMARY OF RESULTS CHALL. EXP.--1893.)
-142
+Benthodytes papillifera, n.g., n.sp. Five specimens ; obtained also at Stations 184
+and 271.
+Cucumaria abyssorum, n.sp., var. hyalina, nov. Two specimens; the species
+obtained also at Stations 147, 156, 298, and 299.
+Pælopatides confundens, n.g., n.sp. Six specimens ; obtained also at Stations 298
+and 299.
+Stichopus (?) torvus, n.sp. One specimen ; obtained at no other locality.
+Holothuria murrayi, n.sp. Two specimens ; obtained at no other locality.
+OSTRACODA (Brady, Zool. pt. 3).
+Bairdia hirsuta, n.sp. Obtained also at Station 296.
+Cythere stolonifera, n.sp. Obtained also at the Cape.
+sulcato-perforata, n.sp. Obtained at no other locality.
+dictyon, n.sp.
+For distribution see Station 24.
+dasyderma, n.sp.
+For distribution see Station 5.
+scutigera, Brady. For distribution see Station 167.
+Krithe producta, n.sp.
+For distribution see Station 70.
+Xestoleberis curta, Brady. For distribution see Station 33.
+Cytheropteron mucronalatum, n.sp. For distribution see Station 70.
+MACRURA (Spence Bate, Zool. pt. 52).
+Pentacheles lævis, n.g., n.sp. One specimen ; obtained also at Station 214.
+Willemæsia leptodactyla (Willemoes-Suhm), n.g., 1.sp. Three specimens ; obtained
+also at Stations 13, 133, and 298.
+Sergestes profundus, n.sp. One specimen ; obtained also at Station 137.
+Glyphocrangon rimapes, n.sp. Two specimens ; obtained also at Stations 237 and 331.
+Nematocarcinus procimatus, n.sp. Three specimens ; obtained also at Stations 146,
+188, 237, and 302.
+ANOMURA (Henderson, Zool. pt. 69).
+Parapagurus abyssorum, M.-Edwards, MS. Many specimens ; for distribution see
+Station 56.
+Munidopsis antonii (M.- Edwards, MS.). One specimen ; obtained also at Station 158.
+Galacantha bellis, n.sp.
+Six specimens ; obtained at no other locality.
+>

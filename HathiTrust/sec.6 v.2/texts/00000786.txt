@@ -1,183 +1,182 @@
-1504
+1508
 THE VOYAGE OF H.M.S. CHALLENGER.
-Eupagurus-continued.
-pubescens,
-var. kroyeri, 226, 1388.
-rubricatus, 608, 1321.
-spinulentus, 789, 1342.
-tristanensis, 395, 1342.
-Eupatagus,
-valenciennesii, 557, 721, 1378,
-1423.
-Euphausia, 233, 260, 380, 387, 389, 428,
-430, 443, 487, 505, 521, 525,
-530, 546, 552, 586, 587, 799,
-845, 848, 853, 871, 873, 877,
-882, 884, 885, 887, 893, 916,
-920, 940, 942, 943, 944, 951,
-952, 953, 959, 960, 965, 968,
-70, 971, 973, 975, 977, 980,
-982, 987, 988, 990, 991, 994,
-1007, 1009, 1018, 1025, 1033,
-1048, 1063, 1068, 1079, 1083,
-1086, 1096, 1099, 1105, 1109,
-1113, 1127, 1138, 1174, 1182,
-1185, 1186, 1193, 1203, 1212,
-1213, 1215, 1219, 1221, 1232,
-1234, 1236, 1245, 1263, 1264,
-1266, 1268, 1269.
-antarctica, 495, 498, 505.
-gibba, 661.
-gracilis, 322, 675, 835.
-latifrons, 552, 575, 734, 778.
-mucronata, 1119.
-murrayi, 471, 500, 1387.
-pellucida, 252, 322,383, 428, 592,
-661, 675, 835, 852, 869, 889,
-895, 951, 1096, 1262, 1263.
-similis, 1190, 1320.
-splendens, 418, 425,
-425, 1096,
-1174.
-superba, 500.
-Euphione, 1261.
-elisabethæ, 420, 1337.
-Eupholoë, 1429.
-philippinensis, 780, 1381.
-Euphronides, 1314, 1450.
-depressa, 120, 1129, 1305, 1310,
-1446.
-Euphrosyne,
-borealis, 225, 1381.
-capensis, 408, 1381.
-Euphyllia,
-glabrescens, 692, 755, 1368, 1422.
-rugosa, 761, 1368.
-striata, 692, 1368.
-turgida, 692, 1368.
-Euphyllodium, 904.
-spathulatum, 191, 197.
-Euphysetta,
-amphicodon, 1218.
-hybocodon, 1250.
-staurocodon, 1254.
-Eupista, 1450.
-darwini, 251, 1118, 1278, 1280,
-1285, 1446.
-grubei, 1118, 1205, 1278.
-Euplas,
-(Chænostoma),
-boscii, 649, 1390.
-Euplectella, 122, 294, 448, 808, 810, 811,
-1008, 1036, 1253, 1432.
-aspergillum, 809, 1365.
-crassistellata, 1058, 1277.
-nodosa, 236, 239, 1302, 1365.
-suberea, 117, 118, 120, 367,
-1291, 1299, 1300, 1302, 1311,
-1315.
-Eupleura (see Ranella).
-Euplexaura,
-parciclados, 906, 1366.
-pinnata, 906, 1366.
-Euplocamus, 1452.
-pacificus, 615, 1322.
-Eupodiscus,
-radiatus, 220, 303.
-sparsus, 220, 278.
-Eupolia,
-australis, 607, 1319.
-delineata, 307, 1380.
-giardii, 607, 1319.
-nipponensis, 899, 1337.
-Eupolynoë,
-mollis, 464, 1337.
-Eupompe,
-australiensis, 696, 1381.
-Eupronoë, 889, 992.
-atlantica, 1263.
-inscripta, 383, 892.
-intermedia, 334.
-minuta, 1095.
-pacifica, 975.
-Eupsammia, 787.
-Eurete,
-carteri, 744, 1330.
-farreopsis, 744, 1330.
-marshalli, 744, 1330.
-schmidtii, 779, 1330.
-semperi, 744, 1330.
-Euryale, 228, 230, 1162.
-aspera, 695, 785, 1376, 1423.
-Eurybia, 890.
-Eurycope, 454, 1295.
-abyssicola, 257, 1286.
-atlantica, 280, 454, 1320, 1447.
-fragilis, 454, 494, 520, 934, 1295,
-1298, 1299, 1306, 1447.
-intermedia, 976, 1279.
-novæ-zelandie, 602, 1306.
-pellucida, 855, 1306.
-sarsii, 446, 453, 1295, 1299,
-1307.
-spinosa, 509, 1295.
-Eurylepta, 848, 853.
-Euryplegma, 1327.
-auriculare, 612, 1315.
-Eurypodius,
-latreillei, 1140, 1164, 1170, 1173,
-1177, 1390, 1425.
-longirostris, 1152, 1343.
-Eurythoë,
-pacifica, 242, 1381, 1424.
-var. levukaensis, 647, 1381.
-Eurytium,
-limosum, 244, 1390.
-Eusamytha, 1290.
-pacifica, 947, 956, 1279, 1285.
-Euscenium,
-archicyrtis, 880.
-furcatum, 1254.
-hemisphæricum, 957.
-plectaniscus, 1060.
-quadratum, 1041, 1047, 1051.
-ramosum, 1041.
-tricolpium, 1016.
-tripospyris, 1118.
-Eusiroides,
-cæsaris, 532, 1385.
-crassi, 1190, 1320.
-pompeii, 490, 1385.
-Eusirus,
-cuspidatus, 141.
-longipes, 469, 485, 1340, 1359,
-1385, 1448.
-Euspongia,
-officinalis,
-var. lobosa, 371, 1362.
-Eusyllis, 1450.
-kerguelensis, 465, 1337.
-tubifex, 221, 1381.
-Eusyringium,
-cannostoma, 1013.
-conosiphon, 1024, 1043.
-leptosiphon, 1250.
-macrosiphon, 1017.
-pachysiphon, 882.
-siphonostoma, 1052.
-Euthelepus, 1450.
-chilensis, 112, 1124, 1285.
-setubalensis, 112, 1337.
-Euthemisto, 1451.
-australis, 545.
-bispinosa, 218.
-gaudichaudii, 482, 1137, 1174.
-thomsoni, 450, 469, 487, 522,
-1385.
-Euthria (see Fusus).
-Eutympanium,
-coronarium, 1218.
-dotecarium, 1132.
-militare, 880.
-musicantum, 1015, 1040, 1046.
-octonarium, 1022.
+Gnathaster-continued.
+meridionalis, 433, 462, 484, 488,
+1334, 1355, 1358, 1375, 1423.
+pilulatus, 1168, 1375.
+Gnathophausia, 268, 621,740, 760, 777,
+778, 782.
+affinis, 335, 1296.
+calcarata, 739, 841, 843, 1320,
+1324.
+elegans, 638, 1320.
+gigas, 258, 509, 740, 843, 1286,
+1289, 1296, 1447.
+gracilis, 335, 1296.
+ingens, 739, 1320.
+longispina, 776, 1341.
+willemoesii, 759, 1307.
+zoëa, 266, 332, 369, 370, 402, 620,
+621, 639,760, 778, 1243, 1296,
+1299, 1300, 1307, 1312, 1320,
+1324.
+Gobius, 732, 915, 1418.
+albopunctatus, 574, 715, 1418,
+1428.
+brevifilis, 574, 1418.
+bynoensis, 715, 1418.
+echinocephalus, 834, 1418.
+flavimanus, 928, 1418.
+genivittatus, 669, 1418.
+hexanema, 928, 1418.
+knutteli, 796, 1418.
+ornatus, 715, 1418.
+phalana, 659, 1418.
+sandvicensis, 1001, 1418.
+stamineus, 1001, 1418.
+yokohamæ, 928, 1418.
+Gomeza,
+bicornis, 820, 1390.
+Gomphina (sce Venus).
+Gomphonema,
+acuminatum,
+var. clavus, 931.
+geminatum, 889, 892, 904, 939,
+973.
+Gomphosus,
+tricolor, 1076, 1418.
+Gonatorhynchus,
+tumidus, 560, 1390.
+Gonatus, 853.
+Goniastræa,
+cerium, 643, 1369.
+coronalis, 756, 1369. 1
+eximia, 756,11369.
+favistella, 756, 1369.
+grayi, 824, 1369.
+laxa, 667, 1369.
+multilobata, 761, 1369.
+quoyi, 692, 756, 1369, 1422.
+Goniocidaris, 545.
+canaliculata, 452, 463, 484, 497,
+503, 1169, 1175, 1294, 1298,
+Goniocidaris canaliculata--continued.
+1300, 1301, 1336, 1355, 1358,
+1378, 1423.
+florigera, 746, 788, 1336, 1355.
+tubaria, 531, 537, 1378, 1423.
+Goniopora,
+pedunculata, 826, 1369.
+Goniopsis,
+cruentatus, 245, 1390.
+Goniopsyllus,
+rostratus, 1185.
+Goniosoma,
+cruciferum, 795, 1390.
+ornatum, 725, 1390.
+variegatum,
+var. bimaculatum, 909, 1390.
+Goniothecium, 425, 939.
+Gonodactylus,
+chiragra, 169, 202, 243, 829,
+1386, 1424.
+var. minutus, 202, 348, 1386.
+glabrous, 829, 1386.
+graphurus, 698, 1386.
+Gonoplax,
+sinuatifrons, 764, 1390.
+Gonostoma, 251, 257, 317.
+elongatuni, 740, 754, 1324, 1326,
+1353.
+gracile, 891, 901, 1287, 1290, 1353.
+microdon, 164, 206, 247, 249, 324,
+334, 352, 402, 504, 521, 574,
+609, 616, 621, 768, 856, 867,
+873, 883, 930, 936, 1010, 1091,
+1228, 1280, 1281, 1282, 1287,
+1288, 1289, 1290, 1298, 1299,
+1300, 1301, 1310, 1311, 1312,
+1313, 1324, 1325, 1326, 1353.
+Goodsiria,
+coccinea, 1171, 1180, 1415, 1428.
+pedunculata, 1180, 1415.
+placenta, 415, 1415.
+var. fusca, 415, 1415.
+Gordius, 324, 595.
+Gorgonella,
+orientalis, 897, 1331.
+Gorgonetta,
+bisenaria, 1006.
+carmarina, 1184.
+mirabilis, 1251, 1255.
+Gorgonia, 85, 96, 399, 992.
+flabellum, 240, 1366.
+Gorgonocephalus,
+pourtalesii, 463, 484, 489, 1148,
+1151, 1169, 1173, 1335, 1355,
+1358, 1376, 1423.
+verrucosus, 408, 1376.
+Gorgospyris,
+eurycolpos, 1031.
+liriope, 1201.
+medusa, 950.
+Gorgospyris—continued.
+medusetta, 1060.
+polypus, 1218.
+schizopodia, 880.
+Grammaria, 1445, 1452, 1459.
+insignis, 433, 1372, 1445, 1459.
+magellanica, 1172,1372, 1445,1459.
+stentor, 462, 1372, 1445, 1459.
+Grammatophora, 930.
+adriatica, 904.
+angulosa,
+var. hamulifera, 443.
+var. islandica, 443, 481.
+var, uncina, 930.
+epsilon, 191.
+gibberula, 904.
+japonica, 904.
+macilenta, 197, 287, 303, 1119.
+marina, 287, 303, 424, 481, 492.
+var, subundulata, 278.
+var. tropica, 938.
+maxima,
+var. genuina, 443.
+oceanica, 443, 760.
+ovalauensis, 938.
+serpentina, 264, 278, 287, 405.
+stricta, 443, 904, 938.
+subundulata, 443.
+undulata, 278, 1119.
+var. japonica, 938.
+Grantia, 96.
+tuberosa, 305, 1365,
+Granula (see Marginella).
+Grapsus, 851, 852.
+maculatus, 244, 311, 339, 344,
+1240, 1390, 1425.
+strigosus, 736, 1390.
+Greeffia,
+oahuensis, 1003.
+Gregarina, 886.
+clavata, 885.
+Grubianella, 1301.
+antarctica, 503, 508, 520, 1294,
+1298.
+Guinardia,
+flaccida, 734.
+Guivillea, 1301.
+alabastrina, 454, 1297.
+Gutturnium (see Triton).
+Gymnasteria,
+carinifera, 645, 1375.
+Gymnelis, 1440, 1452.
+picta, 1440.
+viridis, 1440.
+Gypsina, 197.
+globulus, 115, 183, 197, 199.
+inhærens, 124, 134, 167, 183, 197,
+400, 630, 631, 863.
+vesicularis, 183, 197, 199, 630,
+631, 687, 717, 863, 1003.

@@ -1,98 +1,104 @@
-1056
+1060
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 273.
+STATION 274.
+1
+Trigonactura rhopalastrella, Haeckel.
+Astractura clavigera, Haeckel.
+Archidiscus polythalamus, Haeckel.
+Ascodiscus octogonus, Haeckel.
+spinosum, Haeckel.
+Stylodictya centrospira, Haeckel.
+Hexalastrum palmanthum, Haeckel.
+Triopyle trigona, Haeckel.
+Discozonium trigonium, Haeckel.
+Spongotripus ypsilon, Haeckel.
+Stylotrochus geddesii, Haeckel.
+Dictyocoryne profunda, Ehrenberg.
+tetradiscus, Haeckel.
+Spongaster quadratus, Haeckel.
+Larcarium amphistylum, Haeckel.
+Coccolarcus platellipsis, Haeckel.
+Dizonium transversum, Haeckel.
+Tetrapyle turrita, Haeckel.
+Tetrapylonium pantellipticum, Haeckel.
+Staurotholus octostylus, Haeckel.
+Tholonium sphæronium, Haeckel.
+Zonarium quadrispinum, Haeckel.
+Larcospira qualrangula, Haeckel.
+Tessaraspis concreta, Haeckel.
+Archicircus princeps, Haeckel.
+monostephus, Haeckel.
+primordialis, Haeckel.
+Dendrocircus elegans, Haeckel.
+Cortina dendroides, Haeckel.
+Clathrocircus multiforis, Haeckel.
+Cortiniscus tripodiscus, Haeckel.
+Stephaniscus tetrapoilius, Haeckel.
+Plectocoronis anacantha, Haeckel.
+Podocoronis cortiniscus, Haeckel.
+Toxarium circospyris, Haeckel.
 Microcubus dodecastoma, Haeckel.
-Octotympanum octospinum, Haeckel.
+Octotympanum arborescens, Haeckel.
 Triceraspyris tripodiscus, Haeckel.
+Cephalospyris triangulata, Haeckel.
 Dorcadospyris dentata, Haeckel.
 antilope, Haeckel.
 Aegospyris æquispina, Haeckel.
+Elaphospyris capricornis, Haeckel.
+Gorgospyris medusetta, Haeckel.
 Dictyospyris spinulosa, Ehrenberg.
 quadriloba, Haeckel.
-Androspyris homunculus, Haeckel.
+Tholospyris cupola, Haeckel.
+Phormospyris tridentata, Haeckel.
+Lamprospyris huxleyi, Haeckel.
+Nephrospyris nephridium, Haeckel.
 Botryopera cyrtoloba, Haeckel.
-Cannobotrys cortina, Haeckel.
+Cannobotrys sagittalis, Haeckel.
+cortina, Haeckel,
 Botryopyle dictyocephalus, Haeckel.
 Acrobotrys disolenia, Haeckel.
+Lithobotrys mascula, Haeckel.
+Bothryocyrtis theocampe, Haeckel.
+Tripodiscium ramosum, Haeckel
+Euscenium plectaniscus, Haeckel
+Cla loscenium ancoratum, Haecke.
+Archiscenium quadrispinum, Haeckel.
+Pteroscenium pinnatum, Haeckel.
+Archipera multicornis, Haeckel.
+Peripyramis spongiosa, Haeckel.
+Phænoscenium polypodium, Haeckel.
+Carpophæna hexacorethra, Haeckel.
+Halicapsa hystrix, Haeckel.
+Dictyophimus triserratus, Haeckel.
 Lithomelissa bütschlii, Haeckel.
 Psilomelissa calvata, Haeckel.
-Callimitra agnesa, Haeckel.
-Lychnodictyum wycillei, Haeckel.
-Sethophormis rotula, Haeckel.
+Clathrocanium reginæ, Haeckel.
+Callimitra emma, Haeckel.
+Clathrocorys giltschii, Haeckel.
+Lychnodictyum uyrillei, Haeckel.
+scaphopodium, Haeckel.
+Sethophormis hexalactis, Haeckel.
+rotula, Haeckel.
 aurelia, Haeckel.
 Sethamphora costata, Haeckel.
-Acanthocorys polypodia, Haeckel.
+Acanthocorys hexapodia, Haeckel.
 Anthocyrtium chrysanthemum, Haeckel.
 flosculus, Haeckel.
-Clistophæna polyolena, Haeckel.
+Clistophæna pyramilalis, Haeckel.
+polyolena, Haeckel.
 Sethocyrtis oxycephalis, Haeckel.
 Sethocorys patrocli, Haeckel.
-Lophophæna liothorax, Haeckel.
-Sethocapsa pyriformix, Haeckel.
+Lophophæna liothorar, Haeckel.
+Sethocapsa pyriformis, Haeckel.
 Dictyoceras insectum, Haeckel.
+Pteropilium eques, Haeckel.
 Pterocanium orcinum, Haeckel.
 Podocyrtis scaphopodia, Haeckel.
 Theopera fusiformis, Haeckel.
 Cycladophora pantheon, Haeckel.
+Lamprocyclas reginx, Haeckel.
 Theocyrtis microtheca, Haeckel.
-Lophocyrtis coronata, Haeckel.
 Tricolocampe cylindrica, Haeckel.
 urnula, Haeckel.
 arcta, Haeckel.
-Theocampe sphærothorax, Haeckel.
-Theocapsa mülleri, Haeckel.
-daruinii, Haeckel.
-Stichocampe convergens, Haeckel.
-Stichophormis pyramidalis, Haeckel.
-Artophæna senaria, Haeckel.
-Lithost robus hexastichus, Haeckel.
-seriutus, Haeckel.
-quadratus, Haeckel.
-Artostrobus articulatus, Haeckel.
-Lithomitra nodosaria, Haeckel.
-Eucyrtidium teuscheri, Haeckel.
-stöhrii, Haeckel.
-Spirocyrtis scalaris, Haeckel.
-merospira, Haeckel.
-Spirocampe allospira, Haeckel.
-Stichocapsa pentacola, Haeckel.
-Aulospathis variabilis, Haeckel.
-Auloscena mirabilis, Haeckel.
-Cannosphæra pacifica, Haeckel.
-Challengeria bidens, Haeckel.
-Challengeron monodon, Haeckel.
-crosbiei, Haeckel.
-Haeckeliana murrayana, Haeckel.
-Conchopsis lenticula, Haeckel.
-Coelodendrum serratum, Haeckel.
-Colospathis octostyla, Haeckel.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.—The following species of Radiolaria are recorded from the
-surface at this Station :-
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Thalassoxanthium ovodimare, Haeckel.
-Collosphæra primordialis, Haeckel.
-Xiphostylus edolius, Haeckel.
-Saturnalis annularis, Haeckel.
-Acanthosphæra insignis, Haeckel.
-capillaris, Haeckel.
-Cladococcus pinetum, Haeckel.
-Haliomma favosum, Haeckel.
-datura, Haeckel.
-wyvillei, Haeckel.
-Heliosoma ra lians, Haeckel.
-Diplosphæra hexagonalis, Haeckel.
-Actinomma hexagonium, Haeckel.
-capillaceum, Haeckel.
-Pityomma scoparium, Haeckel.
-Arachnosphæra dolichacantha, Haeckel.
-Rhizosphæra serrata, Haeckel.
-Cypassis puella, Haeckel.
-Sethodiscus phacoides, Haeckel.
-Heliosestrum craspedotum, Haeckel.
-Heliodiscus trochiscus, Haeckel.
-Porodiscus perispira, Haeckel.
-Dictyastrum trirhopalum, Haeckel.
-Hymeniastrum euclidis, Haeckel.
->
+Theocampe sphxrothorax, Haeckel.

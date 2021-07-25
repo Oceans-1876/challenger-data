@@ -1,64 +1,57 @@
-976
+978
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 252.
+STATION 253.
 Density at 60° F. :-
+.
 Surface,
-35 fathoms,
-75
-130
-225
-1.02535
-1.02511
-102522
-1.02532
-. 1.02527
+25 fathoms,
+50
+100
+200
+1.02536
+. 1.02504
+. 1.02502
+1.02534
+. 1.02517
 300 fathoms,
 400
-850
-2640
+800
+3000
 Bottom,
-. 1.02514
-1:02518
-1.02546
-1.02527
-. 1.02567
+1.02517
+. 1.02537
+. 1.02524
+102578
+. 1.02569
+Depth, 3125 fathoms ; deposit, Red Clay, containing only a trace of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
 .
-.
-Depth, 2740 fathoms; deposit, Red Clay, containing only a trace of carbonate of
-lime (see Murray, and Renard, Deep-Sea Deposits Chall. Exp.).
-At 3 A.M. shortened and furled sails, and got up steam. At 4.30 A.M. proceeded
-under steam. Put trawl over, veering 3500 fathoms. At 7 A.M. sounded in 2740 fathoms.
-Obtained serial temperatures down to 1500 fathoms. The carbonic acid was determined
-in bottom water, and amounted to 42.0 milligrammes per litre. At 1.10 P.M. commenced
-heaving in trawl, which came up much torn at 4.20 P.M., but containing many hundreds,
-of manganese nodules (the nuclei of which consisted of pumice, volcanic glass, and
-Carcharodon, Oxyrhina, and Lamna teeth), and one or two living animals. Swung
-ship to ascertain error of compasses, and at 6 P.m. proceeded under steam. Albatrosses
-and stormy petrels were seen.
-Honolulu distant at noon, 1002 miles. Made good 57 miles. Amount of current
-14 miles, direction N. 43° E.
+At 4.35 A.M. stopped and sounded in 3125 fathoms. At 6 A.M. put over small dredge
+with swabs and tow-nets at the dredge and weights. At 9 A.M. obtained serial
+temperatures down to 1500 fathoms. The carbonic acid was determined in water from
+400, 800, 2990, and 3090 fathoms, and amounted respectively to 39.7, 23.8, 25:5,
+30:1 milligrammes per litre. At 1 P.m. commenced heaving in dredge, which came up
+at 4.40 P.M. with some manganese nodules and a few specimens, and the tow-nets also
+contained some deposit and manganese nodules. One of the nodules measured
+12 x 8 x 2 inches, and had on its upper surface attached Foraminifera, Serpula-tubes,
+four specimens of Stephanoscyphus, Polyzoa, Ascidians, while to the under surface some
+Annelids were attached. At 5 P.M. proceeded under steam. Albatrosses continued to
+follow the ship.
+Distance at noon from Honolulu, 1015 miles. Made good 93 miles. Amount of
+current 11 miles, direction N.
 ANIMALS FROM
-TRAWL.
-The following species are recorded in the Zoological Reports from the trawl
-at this Station :
-ISOPODA (Beddard, Zool. pt. 48).
-Eurycope intermedia, n.sp. One specimen ; obtained at no other locality.
-SCHIZOPODA (Sars, Zool. pt. 37).
-Boreomysis obtusata, n.sp. One specimen ; obtained also at Station 232.
-In addition to the foregoing, a fragment of arm of Brisinga and backbone of small
-fish were attached to the trawl-net, and Professor Thomson remarks that a small starfish,
-probably a Hymenaster, fell off the net as the trawl was being taken in.
-ORGANISMS FROM
-THE DEPOSIT.
-RADIOLARIA (Haeckel, Zool. pt. 40). —The following species of Radiolaria were
-observed in the deposit from this Station (see also Murray and Renard, Deep-Sea
-Deposits Chall. Exp.) :-
-Siphonosphæra serpula, Haeckel.
-Aulospathis triodon, Haeckel.
-Clathrosphæra circumtecta, Haeckel.
-Challengeron triangulum, Haeckel.
-Theocyrtis proserpina, Haeckel.
-Conchellium tridacna, Haeckel.
-Aulographis hexancistra, Haeckel.
-Conchopsis compressa, Haeckel.
-Auloceros dicranaster, Haeckel.
+DREDGE.
+The following species are recorded in the Zoological Reports from the dredge at this
+Station :
+ANNELIDA (M'Intosh, Zool. pt. 34).
+Leæna abyssorum, n.sp. One specimen ; obtained at no other locality.
+Placostegus ornatus, Sowerby. One specimen ; obtained also at Stations 244
+and 285.
+benthalianus, n.sp. One specimen ; obtained at no other locality.
+Polyzoa (Busk, Zool. pt. 30).
+Bugula johnstonia, Gray. Fragmentary specimens.
+Bifaxaria abyssicola, n.g., n.sp. Obtained at no other locality.
+Cribrilina monoceros (Busk). For distribution see Station 145.
+Phylactella sp. (?). Fragmentary specimens.
+TUNICATA (Herdman, Zool. pt. 38).
+Bathyoncus minutus, n.g., n.sp. One specimen ; obtained at no other locality.

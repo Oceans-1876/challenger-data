@@ -1,84 +1,69 @@
 SUMMARY OF RESULTS.
-1103
-STATION 293.
-O
-.
-250 fathoms,
-275
-300
-400 g
-500
-600
-700
-800
-43.5
-43.2
-42.9
-418
-40.9
-40.0
-39.2
-38.4
-900 fathoms,
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-37:7
-37.1
-36.8
-36.5
-36.3
-36.0
-35.8
-34.4
-Density at 60° F. :-
+1107
+some of them being quite as large as any found in the deposits at the bottom. In a great Station 294.
+many instances they were surrounded with yellow-coloured sarcode ; apparently this
+expands in the form of a large float, but we have never been able to get a specimen fully
+expanded as in the case of Hastigerina.
+Station 295 (Sounding 440), Tahiti to Valparaiso (see Chart 38 and Diagram 20).
+STATION 295.
+41-3
+November 5, 1875; lat. 38° 7' S., long. 94° 4' W.
+Temperature of air at noon, 60°:8; mean for the day, 58°8.
+Temperature of water :-
 Surface,
+58.5 400 fathoms,
 25 fathoms,
+55.7
+500
 50
+53.0
+600
+75
+50.5
+700
 100
-200
-1.02522
-. 1.02523
-. 1.02517
-1:02531
-1:02538
-300 fathoms,
-400
+47.8
 800
-1550
-Bottom,
-. 1.02538
-1.02525
-. 1.02548
-1.02563
-1.02573
-.
-Depth, 2025 fathoms; deposit, Globigerina Ooze, containing 44:68 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4.30 A.M. shortened and furled sails, and proceeded under steam. At 5.30 A.M.
-sounded in 2025 fathoms. In this, as in the last Station, the deposit, though a Globigerina
-Ooze, was of a dark brown colour, which was due to the large quantity of the peroxides
-of iron and manganese. Associated with the Foraminiferous shells were very many
-fragments of basic volcanic rocks. Some of the manganese nodules had a nucleus of
-hard black volcanic glass (sideromelan), which was surrounded by a zone of 'altered
-material (palagonite). At 7 A.M. put trawl over and veered 2500 fathoms. Obtained
-serial temperatures down to 1500 fathoms. At 1 P.M. commenced heaving in traw),
-which came up at 3 P.M. with several specimens, about a dozen manganese nodules, and
-two sharks' teeth. Made all plain sail. The following birds were noticed :-Diomedea
-erulans (two large white ones remained near the ship, and twice or thrice took the hook,
-but were not landed on board), molly mauks (Diomedea melanophrys ?), Procellaria
-capensis, mutton birds, several petrels rather less in size than the Cape pigeon but with
-longer wings, and a large petrel-like bird less than the molly mauk.
-Valparaiso distant at noon, 1661 miles. Made good 141 miles. Amount of current
-6 miles, direction S.
-The following species is recorded from the trawl at this Station :-
-ANIMAL FROM
-TRAWL.
-ACTINIARIA (Hertwig, Zool. pt. 15).
-Corallimorphus profundus, Moseley, n.g., n.sp. One specimen ; obtained
-Station 300, 1375 fathoms.
-also at
+125
+460
+900
+150
+44:8 1000
+175
+44.0 1100
+200
+43:4 1200
+225
+43.0 1300
+250
+42.6 1400
+275
+42:3 Bottom,
+300
+42:0
+40.3
+39.5
+38.7
+38.0
+37.4
+36.8
+36:3
+36.1
+35.9
+35.6
+35.3
+Density at 60° F. at surface, 1.02536; 1000 fathoms, 1·02563; bottom, 1.02562.
+Depth, 1500 fathoms; deposit, Globigerina Ooze.
+At 10 A.M. stopped. Put trawl over and veered 2500 fathoms. Sounded in
+1500 fathoms. The sounding-tube contained some water, which on being allowed to settle
+gave indications of a red-coloured Globigerina Ooze, but the tow-nets at the trawl
+contained many fragments of augite-andesite, which may possibly have been derived from
+a comparatively recent volcanic outflow at the bottom. Took serial temperatures from
+surface to bottom. The carbonic acid was determined in bottom water, and amounted to
+47.5 milligrammes per litre. At 3 P.M. commenced heaving in trawl, having previously
+shortened the line to 1900 fathoms. It came up at 4.30 P.M. containing only a fish, which
+was still alive when taken out of the trawl. Made sail. Two specimens of Diomedea
+exulans were caught from the ship, and two mutton birds were shot from a boat; there
+were seen besides Procellaria maxima or Procellaria, gigantea, Procellaria capensis,
+Prion turtur, Mother Carey's chickens, along with a molly mauk (?), Diomedea fuliginosa (?),
+and a small black petrel with white belly.

@@ -1,50 +1,42 @@
-1072
+1074
 THE VOYAGE OF H.M.S. CHALLENGER.
-Station 279.
-Discorbina saulcii (a'Orbigny).
-Truncatulina haidingerii (d’Orbigny).
-lobatula (Walker and Jacob).
-ungeriana (d'Orbigny).
-Pulvinulina auricula (Fichtel and Moll).
-elegans (d’Orbigny).
-Pulvinulina hauerii (d'Orbigny).
-Rotalia orbicularis, d'Orbigny.
-soldanii, d'Orbigny.
-Amphistegina lessonii, d'Orbigny.
-Operculina complanata (Defrance).
-Heterostegina depressa, d'Orbigny.
-9
-Ат TAHITI.
-The Challenger remained at Tahiti from 4.20 P.M. on September 18 till 9 A.M. on
-October 3 (for description of the island see Narr. Chall. Exp., vol. i. pp. 776-788).
-Mr. Murray and Lieutenant Swire spent most of the time in examining the outward
-slope of the reef, by dredging, sounding, &c., from the steam pinnace and boats. The
-following species are recorded in the Zoological Reports as having been obtained from
-shore and shallow-water during the stay -
-ANIMALS FROM
-Tahiti.
-KERATOSA (Poléjaeff, Zool. pt. 31).
-Luffaria variabilis, n.sp. Obtained also at New Hebrides.
-MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Halichondria solida, n.sp. One specimen (30 to 70 fathoms); obtained also at
-New Hebrides (var.).
-Acarnus ternatus, Ridley. One specimen (20 fathoms); obtained at no other
-locality by the Challenger. Recorded from Bombay,
-Torres Strait, and Amirante Islands.
-Echinodictyum asperum, n.sp. Eight specimens (20 fathoms); obtained at no
-other locality
-TETRACTINELLIDA (Sollas, Zool. pt. 63).
-Pilochrota pachydermata, n.g., n.sp. One specimen (30 to 70 fathoms); obtained
-at no other locality.
-ALCYONARIA (Wright and Studer, Zool. pt. 64).
-Spongodes carnea, n.sp. (30 to 70 fathoms); obtained at no other locality.
-pustulosa, n.sp. Three specimens (30 to 70 fathoms); obtained at no
-other locality.
-cervicornis, n.sp. (30 to 70 fathoms); obtained at no other locality.
+TAHITI, .
+Madrepora plantaginea, Lamarck. One specimen ; obtained at no other locality
+by the Challenger.
+retusa, Dana. One specimen ; obtained at no other locality by
+the Challenger.
+nasuta, Dana. Two specimens ; obtained at no other locality by
+the Challenger.
+paxilligera, Dana. One specimen ; obtained at no other locality by
+the Challenger.
+virgata, Dana. Several specimens ; obtained at no other locality by
+the Challenger.
+parilis, n.sp. (?). Obtained also at Philippines.
+speciosa, n.sp. Several specimens ; obtained at no other locality.
+cytherea, Dana. Several specimens ; obtained at no other locality by
+the Challenger.
+surculosa, Dana. Several specimens ; obtained at no other locality by
+the Challenger.
+Montipora papillosa (Lamarck). One specimen ; obtained at no other locality by
+the Challenger.
+aspera, Verrill. Obtained at no other locality by the Challenger.
+Porites arenosa (Esper). Obtained also at Tongatabu, Fiji, and Banda.
+latistellata, n.sp. One specimen ; obtained at no other locality.
+Napopora irregularis, n.g., n.sp. One specimen ; obtained at no other locality.
+Only species of the genus.
+Synaræa convexa, Verrill. Several specimens; obtained at no other locality by
+the Challenger.
+Millepora nodosa, Esper. Several specimens; obtained at no other locality by
+the Challenger.
+gonagra, M.-Edwards and Haime. One specimen; obtained also at
+Fiji and Philippines.
 >
-REEF CORALS (Quelch, Zool. pt. 46).
-Pocillopora cespitosa, Dana. One specimen ; obtained also at Sandwich Islands.
-solida, n.sp. One specimen ; obtained at no other locality.
-grandis, Dana. One specimen ; obtained at no other locality by the
-Challenger.
-37
+1
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Diadema setosum, Gray. Obtained also at Cape Verdes, St. Thomas, and Philippines.
+Echinothrix calamaris (Pallas). Obtained also at Fiji and Philippines.
+Echinometra lucunter (Leske). For distribution see Tongatabu.
+Peronella decagonalis (Lesson). (20 fathoms); for distribution see Station 173.
+Rhinobrissus hemiasteroides, n.sp. (20 fathoms); obtained at no other locality.
+HOLOTHURIOIDEA (Théel, Zool. pt. 39).
+Synapta beselii, Jæger. Numerous specimens ; for distribution see Station 177.

@@ -1,20 +1,40 @@
 SUMMARY OF RESULTS.
-1215
-In addition, the following are recorded in the note-books :-Challengeride and other
-Radiolaria, Ctenophore, Distomum (probably from the Euphausiæ), Cypridina,
-Copepods, Hyperids and other Amphipods, Euphausia, and Pteropods. The stomachs
-of the Salpæ were filled with Coccospheres, Rhabdospheres, small specimens of Peridinium,
-many small yellow cells, &c. In the tow-net attached to the trawl, in addition to deep-
-sea Radiolaria, red Copepods, and Cypridinas, there were large numbers of the dead
-shells of pelagic Foraminifera, evidently from the bottom.
-Station 332.
-Station 332 (Sounding 482), Rio de la Plata to Tristan da Cunha (see Chart 16
-and Diagram 6).
-March 10, 1876 ; lat. 37° 29' S., long. 27° 31' W.
-Temperature of air at noon, 62°:3; mean for the day, 62°:3.
+1219
+STATION 332.
+OSTRACODA (Brady, Zool. pt. 3).
+Cythere dictyon, n.sp.
+dasyderma, n.sp.
+Nematoscelis megalops, n.g., n.sp.
+Stylocheiron elongatum, n.g., n.sp.
+COPEPODA (Brady, Zool. pt. 23).
+Pontostratiotes abyssicola, n.g., n.sp.
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Vibilia sp. (?).
+PTEROPODA (Pelseneer, Zool. pts. 58 and 65).
+Spongiobranchæa australis, d'Orbigny.
+Clio (Styliola) subula (Quoy and
+Gaimard).
+pyramidata, Linné.
+TUNICATA (Herdman, Zool. pt. 76).
+Salpa runcinata - fusiformis,
+Chamisso-Cuvier.
+SCHIZOPODA (Sars, Zool. pt. 37).
+Thysanoëssa gregaria, n.sp.
+The tow-nets at the surface and down to 150 or 200 fathoms yielded :—Ctenophoræ,
+Tomopteris, small Copepods, Amphipods, Isopods, many Euphausiæ (some with Distomum
+and Bopyrus parasitic), Pleuropus and Diacria [ = Cavolinia) and other small Pteropods,
+many Salpæ, small Scopelids. Most of these animals appeared to feed on Peridinium,
+Coccospheres, and other minute organisms, for their stomachs were filled with them.
+The tow-net at the weights showed no signs of having touched the bottom, and contained
+several varieties of Challengeridæ, while one of the tow-nets at the trawl had very
+little
+deposit in it and brought up a specimen of Sternoptyx.
+Station 333 (Sounding 483), Rio de la Plata to Tristan da Cunha (see Chart 16 and; Station 333.
+Diagram 6).
+March 13, 1876 ; lat. 35° 36' S., long. 21° 12' W.
+Temperature of air at noon, 71°:3 ; mean for the day, 69°:4.
 Temperature of water :-
-o
-,2
+O
 Surface,
 25 fathoms,
 50
@@ -26,53 +46,43 @@ Surface,
 200
 225
 250
-64.0
-58.8
-57:0
-56.2
-55.5
-55.0
-54.7
-54.0
-52:0
-50.0
-47.5
-275 fathoms,
+275
 300
-400
+67.0
+62.2
+57.2
+55.2
+55.0
+54.2
+52.0
+49.3
+46.5
+45.0
+43.8
+42:7
+42:0
+400 fathoms,
 500
 600
 700
 800
 900
 1000
+1250
+1450
+1650
+1850
 Bottom,
-45.5
-43.8
-38.9
-37.5
-37.3
+39.9
+38.4
+37.6
 37.3
 37:3
+37:3
 37.3
-373
-34.0
-Density at 60° F.:--
-.
-Surface,
-800 fathoms,
-1.02604
-1:02552
-1400 fathoms,
-Bottom,
-1:02591
-1.02580
-Depth, 2200 fathoms; deposit, Globigerina Ooze, containing 65-67 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 8.45 A.M. shortened and furled sails. At 9 A.M. proceeded under steam to sound
-and trawl. At 10 A.M. sounded in 2200 fathoms. Put trawl over and veered
-2700 fathoms. This Station is about 220 miles distant from Station 132 on the track of
-1873. Obtained serial temperatures down to 1000 fathoms. The carbonic acid was
-determined in water from 800 fathoms and the bottom, and amounted respectively to 43:6
-and 46.6 milligrammes per litre. At 3.30 P.M. commenced heaving in trawl, which came
-up at 4.55 P.M. with only a few specimens, having evidently been wrong side up; one of
+37.3
+37.3
+37.3
+37.3
+35.4
+>

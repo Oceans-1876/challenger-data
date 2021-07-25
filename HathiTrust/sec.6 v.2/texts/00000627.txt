@@ -1,133 +1,131 @@
 SUMMARY OF RESULTS.
-1349
-sp (?). T
-Rotella (?) sp.
-* Scalaria acus, n.sp.
-N
+1353
 T
+rar.
+*
+*
+var.
 T
-N
-tortilis, n.sp.
-T
-T
-T
-T
-T
-T
-T
->
->>
-T
+S
+3
+S
+s
 T
 *
-alta, n.sp.
-* Puncturella (Cranopsis) profundi,
-* Rissoina dubiosa (Adams). T
-Jeffreys. T
-(Fissurisepta) rostrata
-(Seguenza). T
-Τ Ν
-* Ranella fijiensis, n.sp.
-distincta, n.sp. S
-(Argobuccinum) argus (Gmelin). S * funiculata, n.sp.
-Ringicula peracuta, n.sp.
-Τ Ν
-philtata, n.sp. S
-* Rissoa fayalensis, n.sp.
 T
-microstoma, n.sp.
-vermetiformis, n.sp.
+S
+*
+S
+s
+$
+02
+S
+N
 T
-pernambucensis, n.sp.
-(Acirsa) pyrrhias, n.sp.
-pyrrhias, n.sp
-Scaliola arenosa, Adams.
-xanthias, n.sp.
-bella, Adams.
-(Alvania) calathus, Forbes and Scaphander punctostriatus(Mighels). T N
-Hanley. N
-Schismope carinata, n.sp.
+Terebratula vitrea (Born), var. minor, FISHES :
+Philippi. SIN * Acanthaphritis grandisquamis, n.g.,
+* Terebratulina cailleti, Crosse. T
+n.sp.
+caput-serpentis, Linné,
+Anthias megalepis, n.sp. T
+septentrionalis, Anticitharus polyspilus, n.g., n.sp.
+Couthouy. SN
+Antigonia capros, Lowe. T
+wyvillii, n.sp.
+T
+Aphritis gobio, Günther.
+Waldheimia kerguelenensis, n.sp.
+Bathyanthias roseus, n.g., n.sp.
+Bathythrissa dorsalis, n.g., n.sp. N
+TUNICATA :
+Beryx decadactylus, C.V. N
+* Amaroucium colelloides, n.sp. S
+Brachionichthys hirsutus, Lac. S
+recumbens, n.sp.
+S
+Callionymus calauropomus,
+Rich.
+* Ascidia cylindracea, n.sp.
+S
+ST
+nigra (Savigny). S N
+kaianus, n.sp.
+placenta, n.sp.
+phasis, n.sp.
+tenera, n.sp.
+* Catætyx messieri, n.g., n.sp.
+S
+Ascopera gigantea, n.g., n.sp.
+* Centrophorus foliaceus, n.sp. N
+pedunculata, n.g., n.sp.
+squamulosus, n.sp.
+Colella murrayi, n.g., n.sp.
+S
+* Centropristis annularis, n.sp. T
+ramulosa, n.g., n.sp.
+s
+pleurospilus, n.sp.
+Cynthia pallida, Heller. ST
+* Centroscyllium granulatum, n.sp.
+Cystodytes draschii, n.sp. T
+* Ceratias bispinosus, n.sp.
+* Didemnum savignüi, n.sp. S
+carunculatus, n.sp.
+N
+* Ecteinascidia crassa, n.g., n.sp.
+Champsodon vorax, Günther. T
+Leptoclinum edwardsi, n.sp. S
+* Chaunax pictus, Lowe. T
+propinquum, n.sp. s Chlorophthalmus nigripinnis, n.sp. s
+speciosum,
+n.sp.,
+productus, n.sp.
+asperum, nov. ST * Congromuræna guttulata, n.sp.
+tenue, n.sp.
+* Cyttus abbreviatus, Hector. S
+Molgula pedunculata, n.sp. S
+Diplacanthopoma brachysoma, n.g.,
+* Polycarpa minuta, n.sp.
+quadrata, n.sp.
+T
+* Echeneis albescens, Schleg.
+radicata, n.sp.
+S
+* Etelis sp. (?). S
+Psammaplidium subviride, n.g., n.sp. S
+Gonostoma elongatum, n.sp.
+Pyrosoma giganteum, Lesueur (surface.)
+gracile, n.sp.
+N
 S T
-( ) cancellata (Costa). N *
-lacuniformis, n.sp.
+microdon, n.sp.
+STN
+Styela convexa, n.sp. S
+Haloporphyrus inosimæ, n.sp. N
+grandis, n.sp.
+* Heliastes roseus, n.sp.
 T
-) deliciosa, Jeffreys. TN *
-tabulata, n.sp.
-(
-) didyma, n.sp.
-(?) sp. T
-( ) hispidula (Montero- * Scissurella aëdonia, n.sp. ST
-sato). N
-Τ Ν
-(
-) lusciniæ, n.sp.
-crispata, Fleming. S T
-(
-) tarsodes, n.sp.
-declinans, n.sp.
-(Ceratia) glaphyra, n.sp. S
-two species undetermined. S
-( ) macra, n.sp. S
-Seguenzia ionica, n.sp. TN
-(
-) pachia, n.sp.
-monocingulata, Seguenza. T N
-( ) transenna, n.sp. S
-var. lineata,
-(Cingula) alvearium, n.sp.
-(
-) rustica, n.sp.
-Sigaretus sp. (?). T
-(Onoba) aëdonis, n.sp.
-Siliquaria (Tenagodus) sp. (?). T
-( ) arenaria (Mighels). S Siphodentalium platamodes, n.sp,
-(
-) brachia, n.sp.
-prionotum, n.sp.
-т
-(Setia) edwardiensis, n.sp. S
-tytthum, n.sp.
-( ) marionensis, n.sp.
+radicosa, n.sp.
 S
-* Solarium atkinsoni, n.sp.
-S
-(
-) philomelæ, n.sp. S
-two species undetermined. T
-(
-) principis, n.sp.
-* Stomatella (Gena) caliginosa, Adams. T
-( ) quisquiliarum, n.sp. * Strombus pugilis, Linné.
-(
-T
-) tenuisculpta, Watson. * Terebra (Myurella) mamillata, n.sp.
-( ) triangularis, n.sp. T Trachysma delicatum (Philippi). TN
-six species undetermined. * Triforis bigemma, n.sp.
-* Rissoina chesnelii (Michaud). T
-S
-(SUMMARY OF RESULTS CHALL, EXP.—1894.)
-S
->
-N
-T
+* Hippocampus guttulatus, Cuv. T
+(?) clava, n.sp. (genus doubtful). N Læops parviceps, n.g., n.sp.
+ST
+s
+100
+*
 T
 *
 T
-nov.
 *
+S
+var.
+T
 T
 S
 *
-T
-T
-:)
-T
-»
+*
 S
-N
+n.sp. T
 T
 T
-T
-T
-hebes, n.sp.
-170
+s

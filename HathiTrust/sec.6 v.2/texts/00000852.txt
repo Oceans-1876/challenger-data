@@ -1,182 +1,120 @@
-1570
+1574
 THE VOYAGE OF H.M.S. CHALLENGER.
-Trochus-continued.
-(Chrysostoma),
-paradoxus, 832, 860, 1407, 1427.
-(Clanculus),
-clangulus, 565, 1407.
-floridus, 566, 1407.
-homalomphalus, 566, 1407.
-maugeri, 566, 1407.
-(Diloma),
-porcifer, 598, 1407.
-(Elenchus),
-badius, 566, 1407.
-(Euchelus),
-atratus, 706, 806, 1407, 1427.
-baccatus, 566, 1407.
-dunkeri, 533, 1407.
-(Gibbula), 786, 1408.
-glyptus, 579, 1350.
-zonatus, 412, 1408.
-(Leiopyrga),
-picturatus, 566, 1408.
-(Margarita), 1191, 1322.
-ægleës, 175, 1350.
-azorensis, 273, 1350.
-brychius, 495, 1309.
-cancellatus, 176, 1350.
-charopus, 473, 1350, 1359.
-var. cæruleus, 473, 490,
-1408.
-clavatus, 176, 351, 1322, 1326,
-1350.
-dnopherns, 360, 1350.
-illotus, 1141, 1408.
-infundibulum, 237, 447, 1309,
-1311, 1447.
-pachychiles, 781, 1408.
-pompholugotus, 175, 1350.
-rhina, 267, 273, 283, 1309, 1311,
-1313, 1350.
-rhysus, 113, 164, 1350, 1357.
-scintillans, 176, 237, 1309, 1313,
-1350.
-streptophorus, 842, 1322.
-(Monilea),
-belcheri, 627, 1408.
-benzi, 412, 1408.
-(Monodonta),
-labio, 706, 925, 1408, 1427.
-(Omphalius),
-hotesserianus, 360, 1350.
-(Oxystele),
-euspira, 175, 1350.
-(Photinula),
-cærulescens, 1178, 1408.
-expansus, 438, 473, 1178, 1350,
-1359, 1408, 1427.
-tæniatus, 1178, 1408, 1449.
-(Solariella), 706, 1408.
-albugo, 566, 1408.
-lamprus, 651, 1408.
-Trochus (Solariella)—continued.
-philippensis, 533, 1408.
-prodictus, 566, 1408.
-vitiligineus, 566, 706, 1408, 1427.
-(Trochocochlea),
-colubrinus, 136, 1408.
-fuligineus, 566, 1408.
-(Ziziphinus),
-arruensis, 736, 1408.
-decoratus, 566, 1408.
-exasperatus, 273, 1408.
-similaris, 706, 1408.
-stephanephorus, 781, 1408.
-stirophorus, 175, 1350.
-striatus, 127, 1350, 1357, 1359,
-1408.
-tiara, 175, 237, 1309, 1313, 1350.
-tinctus, 541, 1408.
-transenna, 781, 1408.
-zizyphinus, 273, 1408.
-Trophon, 485, 1350.
-acanthodes, 1152, 1161, 1350,
-1357.
-aculeatus, 360, 1350.
-albolabratus, 473, 1408.
-carduelis, 579, 1350.
-declinans, 438, 485, 1350, 1359,
-1408.
-geversianus, 490, 1178, 1408.
-liratus, 1152, 1178, 1350, 1359,
-1408.
-scolopax, 485, 1350.
-septus, 473, 1408.
-Trophonia,
-capensis, 409, 1382.
-kerguelarum, 465, 1338.
-wyvillei, 508, 1295.
-Tropiocaris,
-planipes, 680, 891, 1286.
-tenuipes, 680, 891, 1307.
-Truncatulina, 124, 191, 197, 427, 641,
-862, 948, 1104.
-advena, 98.
-akneriana, 354, 529, 589, 630,
-1201.
-culter, 295, 354.
-dutemplei, 427, 640, 1037, 1085.
-echinata, 630, 631, 687, 862,
-1003.
-grosserugosa, 449.
-haidingerii, 134, 139, 182, 424,
-427, 430, 529, 582, 687, 1072,
-1112, 1154, 1231.
-humilis, 286, 187, 1067, 1112.
-lobatula, 124, 134, 145, 167, 183,
-196, 199, 216, 262, 286, 342,
-354, 424, 427, 449, 481, 486,
-492, 498, 512, 582, 587, 605,
-610, 630, 631, 640, 798, 843,
-862, 876, 903, 937, 957, 965,
-Truncatulina lobatula-continued.
-1003, 1026, 1037, 1067, 1072,
-1085, 1092, 1112, 1126, 1132,
-1154, 1163, 1172, 1181, 1201,
-1217.
-polymorpha, 582.
-præcincta, 641, 687, 862.
-pygmæa, 115, 145, 147, 342, 427,
-430, 498, 512, 529, 589, 671,
-876, 949, 965, 979, 986, 1026,
-1037, 1067, 1078, 1085, 1089,
-1092, 1104, 1112, 1126, 1136,
-1201, 1253.
-refulgens, 124, 139, 424, 427,
-1154, 1163.
-reticulata, 134, 167, 183, 582,
-631, 687.
-robertsoniana, 167, 183, 262, 286,
-354.
-rosea, 167, 183.
-rostrata, 630, 862.
-soluta, 183.
-tenera, 191, 200, 216, 262, 354,
-449, 522, 589, 605, 631, 641,
-965, 1026, 1067, 1085, 1104,
-1132, 1158, 1253.
-tenuimargo, 167, 582, 687.
-tumidula, 145.
-ungeriana, 167, 183, 191, 197,
-199, 200, 212, 216, 262, 295,
-319, 512, 522, 529, 582, 640,
-687, 858, 862, 949, 1037, 1072,
-1078, 1104, 1132, 1136, 1217,
-1226, 1254.
-variabilis, 124, 134, 400, 424,
-427, 630, 631, 687, 937, 965,
-1003, 1154, 1163.
-wuellerstorfi, 139, 153, 167, 197,
-200, 212, 262, 286, 295, 319,
-354, 424, 427, 430, 449, 529,
-582, 589, 605, 641, 664, 671,
-687, 858, 876, 903, 965, 1026,
-1037, 1078, 1085, 1104, 1112,
-1132, 1136, 1217, 1226, 1231,
-1247, 1254.
-Tryblimella (see Nitzschia).
-Trygon,
-kuhli, 629, 1421.
-pastinaca, 731, 926, 1421, 1428.
-Trypanosphæra,
-coronata, 878, 949.
-dentata, 1059.
-terebrata, 878.
-transformata, 878.
-trepanata, 1021.
-Trypauchen,
-chinensis, 796, 1421.
-vagina, 766, 796, 910, 1421, 1428.
-Tryphana,
-boecki, 1263.
+Xiphostylus-continued.
+trochilus, 957.
+trogon, 878.
+Yoldia, 1451.
+hoylei, 956, 1279.
+isonata, 472, 1398.
+lischkei, 900, 1345.
+subæquilateralis, 472, 1398.
+Zafra (see Columbella).
+Zanclifer,
+caribensis, 376, 1389.
+Zanclorhynchus, 1429.
+spinifer, 478, 1421.
+Zaramilla,
+kergueleni, 482.
+Zaus,
+spinatus, 482.
+Zeidora,
+naufraga, 175, 1350.
+Zemira (see Eburna).
+Zetes, 261, 365.
+Zonarium-continued.
+quadrispinum, 1060.
+tetratholium, 949, 1046.
+Zonaspis,
+æquatorialis, 1251.
+cingulata, 1064.
+fragilis, 1218.
+Zoniscus,
+hexathalamus, 957.
+hexatholius, 879, 1040, 1132.
+octacanthus, 1006.
+rectangulus, 979.
+tetracanthus, 1040.
+Zonodiscus,
+saturnalis, 1226.
+Zoontocaris,
+approximus, 835, 836.
+galatheæ, 552.
+Zoroaster,
+fulgens, 217, 229, 350, 1304,
+1310, 1311, 1317.
+tenuis, 855, 1304.
+Zozymus,
+æneus, 648, 1393.
+Zygacantha,
+complanata, 958.
+compressa, 1261.
+costata, 1013, 1017, 1019, 1024,
+1028, 1032, 1046, 1053, 1057,
+1062.
+Zygæna,
+malleus, 308, 309, 629, 1000,
+1421, 1428.
+Zygartus,
+chrysalis, 1031, 1039, 1050, 1055,
+1059.
+doliolum, 1031, 1039, 1045.
+Zygocampe,
+chrysalidium, 1050, 1055, 1059.
+corasium, 979.
+Zygocampe—continued.
+pupula, 1015.
+Zygocircus,
+acacia, 1015.
+dodecanthus, 1006, 1011, 1015,
+1022.
+hexagonus, 950.
+pentagonus, 1022.
+rhombicus, 1040, 1046, 1226.
+sagittalis, 1011, 1015, 1022.
+tetragonus, 1231.
+Zygospyris,
+equus, 1250.
+quadrupes, 1226.
+Zygostaurus,
+amphithectus, 1053.
+caudatus, 1013.
+frontalis, 1062.
+longicornis, 1108.
+sagittalis, 1046.
+Zygostephanium,
+constrictum, 1053.
+dizonium, 1022.
+paradictyum, 922.
+Zygostephanus,
+bicornis, 1132.
+dissocircus, 1040, 1046.
+ramosus, 957.
+reniformis, 880, 1040.
+serratus, 1015.
+violina, 1218.
+Zeus,
+faber, 1440.
+japonicus, 927, 1421.
+Zeuxis (see Nassa).
+Zidona (see Voluta).
+Ziphius, 383.
+Ziziphinus (see Trochus).
+Zoanthus, 240, 1367.
+confertus, 406, 1367.
+danæ, 240, 1367.
+Zoëa,
+elaphoceras, 783.
+Zonarium,
+octangulum, 1040.
+quadrigatum, 1051.
+Genera doubtful :-
+(?),
+clava, 277, 1353.
+(?),
+ignotus, 1171, 1416.
+(!),
+pyriformis, 477, 1416.
+
+AL
+PEARSON.SE
+LABORATORY FOR MICROSCOPIC WORK ON BOARD H.M.S. CHALLENGER.

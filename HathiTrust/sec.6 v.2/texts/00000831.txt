@@ -1,187 +1,201 @@
 SUMMARY OF RESULTS.
-1549
-67.
-S. 119
-- 1132, 133
-1:31.
-3. 15, N.
-5104. 1112
-31
-Pyrocystis-continued.
-noctiluca, 845, 853, 884, 920,
-982, 1048, 1226.
-Pyrosoma, 157, 258, 288, 304, 316, 317,
-327, 388, 525, 528, 601, 616,
-617, 676, 871, 877, 884, 887,
-890, 1260, 1262, 1264, 1280,
-1323.
-atlanticum, 322.
-elegans, 871, 892.
-giganteum, 322, 364, 524, 528,
-790, 1287, 1290, 1353, 1360.
-spinosum, 258, 387, 1287, 1289,
-1297, 1447.
-Pyrula,
-morio, 312, 1405.
-ternatana, 786, 1405.
-Pythonaster, 1301.
-murrayi, 1198, 1293.
-Pyxidicula,
-cruciata, 812.
-Pyxilla, 812.
-baltica, 931.
-Pusia (sce Mitra).
-Pusiostoma (see Columbella).
-Pustulopora,
-deflexa, 491, 1449.
-proboscidea, 441, 491, 1360, 1413,
-1449.
-proboscidioides, 441, 1413, 1449.
-regularis, 544, 1413.
-Pycnogonum, 78, 479, 902, 1452.
-litorale, 1450.
-Pycnopodia,
-helianthoides, 1450.
-Pylobotrys,
-fontinalis, 880.
-putealis, 1250.
-Pylocheles,
-spinosus, 549, 1342.
-Pylodiscus,
-nephropylus, 1022.
-sexangularis, 939.
-triangularis, 879, 1032.
-Pylolena,
-armata, 1207.
-inermis, 1250.
-Pylonium,
-circozonium, 957.
-hexazonium, 1010.
-nephropylium, 1055.
-octacanthum, 879.
-quadricorne, 1032, 1046, 1053,
-1057, 1061.
-stenozonium, 1250.
-Pylospira,
-octopyle, 979, 1046.
-tetra pyle, 1022.
-Pylozonium,
-novemcinctum, 979.
-octacanthum, 957.
-Pyramidella,
-nodicincta, 655, 1405.
-Pyrene (see Columbella).
-Pyrgula, 571, 1405.
-Pyrocystis, 317, 318, 321, 322, 325, 326,
-334, 380, 382, 642, 661, 664,
-671, 672, 673, 676, 677, 735,
-737, 742, 751, 770, 782, 787,
-790, 793, 797, 799, 816, 817,
-835, 836, 848, 853, 866, 868,
-869, 871, 873, 877, 882, 884,
-885, 886, 889, 893, 894, 916,
-940, 941, 943, 944, 951, 952,
-953, 968, 981, 982, 983, 987,
-988, 989, 991, 994, 1005, 1007,
-1018, 1025, 1029, 1054, 1062,
-1064, 1068, 1083, 1085, 1089,
-1092, 1228, 1232, 1236, 1237,
-1245, 1251, 1256, 1262, 123,
-1266, 1269, 1455.
-fusiformis, 845, 853, 884, 920,
-1048, 1226.
-Quadrilonche,
-platystaura, 919.
-telostaura, 1207.
-tetrastaura, 1017.
-Quasillina,
-brevis, 224, 1364.
-var.
-Ranella-continued.
-(Lampas),
-granifera, 654, 1405.
-thomæ, 136, 1405.
-Ranina, 379, 545, 551, 575, 639.
-Raninoides,
-personatus, 763, 1389.
-Ranzania,
-capensis, 417, 1382.
-Rapana,
-bulbosa, 806, 1405.
-Raphidopus,
-ciliatus, 795, 1389.
-Rasbora,
-philippina, 834, 1420.
-Raspailia,
-flagelliformis, 406, 1364.
-rigida, 419, 1329.
-tenuis, 372, 1364.
-Rataria,
-cristata, 1255.
-Regulus,
-lucidus, 887.
-Remipes, 822.
-scutellatus, 243, 310, 1389, 1425.
-testudinarius, 770, 1389.
-Reniera,
-aquæductus, 1355.
-infundibularis, 1147,
-1165, 1329.
-cinerea, 808, 1364.
-implexa, 269, 1329.
-subglobosa, 1147, 1329.
-tufa, 304, 1329.
-Renilla,
-mülleri, 1194, 1367.
-Reophax, 115, 353, 511, 1084, 1200.
-adunca, 285, 294, 353, 429, 511,
-529, 604, 936, 957, 964, 986,
-1066, 1084, 1131, 1200, 1218.
-ampullacea, 480.
-bacillaris, 211, 581, 857.
-cylindrica, 429, 936.
-den taliniformis, 166, 181, 211,
-285, 294, 423, 427, 429, 480,
-529, 581, 604, 610, 876, 936,
-941, 949, 964, 979, 1002, 1037,
-1067, 1084, 1091, 1111, 1131,
-1200, 1216, 1253.
-difflugiformis, 145, 200, 211, 353,
-480, 498, 511, 529, 581, 604,
-610, 640, 857, 936, 941, 949,
-964, 986, 1037, 1067, 1084,
-1092, 1126, 1131, 1158, 1200,
-1216, 1225, 1230.
-distans, 319, 427, 429, 449, 529,
-604, 610, 857, 936, 949, 964,
-1092, 1126, 1131, 1200.
-fusiformis, 139, 261, 423, 498,
-640, 1200.
-Raeta,
-pulchella, 914, 925, 1397.
-Raja, 480, 551, 1174, 1440, 1451.
-brachyura, 1171, 1174,1420,1428.
-eatoni, 478, 1420.
-isotrachys, 919, 1324.
-microps, 1195, 1420.
-murrayi, 478, 1420.
-nitida, 550, 1354.
-platana, 1195, 1420.
-Ramulina, 610.
-globulifera, 166, 196, 354, 582,
-641, 687.
-Randallia,
-granulata, 626, 633, 1343, 1356.
-Ranella,
-fijiensis, 634, 789, 1349, 1357.
-margaritula, 736, 806, 1405, 1427.
-rana, 728, 765, 786, 1405, 1427.
-(Argobuccinum),
-argus, 396, 1349, 1359, 1405.
-leucostoma, 569, 1405.
-pusilla, 627, 654, 708, 1405,
+1553
+, 510, 1199,
+1352
+5,665, 66,
 1427.
-(Aspa),
-marginata, 128, 140
-(Eupleura),
-perca, 708, 1405.
+13, 1149.
+, 1173, 1413,
+- 1174, 1420,
+1336, 1358,
+-5,1876,1423
+, 137, 153,
+, 425, 443.
+5, 618, 642
+5, 137, 141,
+, 175, 790
+5, 045, 931,
+, 991, 2016,
+Salpa-continued.
+Sargus,
+scutigera-confederata, 783, 1109.
+argenteus, 1240, 1420.
+Salvatoria, 1429.
+capensis, 245, 1420.
+kerguelensis, 465, 1382.
+Saturnalis,
+Samaris,
+annularis, 1032, 1038, 1044, 1053,
+maculatus, 750, 1354.
+1056, 1061.
+Samus,
+circularis, 1217.
+anonymus, 372, 1365.
+rotula, 958.
+Samythopsis, 1290.
+Saturninus,
+grubei, 1118, 1286.
+triplex, 1053.
+Sandalolitha, 1429.
+Saturnulus,
+dentata, 1073, 1372.
+annulus, 958.
+Saphirina, 231, 325, 327, 334, 389, 530,
+circulus, 1053.
+552, 586, 617, 642, 664, 671,
+planetes, 777.
+673, 677, 737, 741, 742, 768, Saurida,
+775, 782, 783, 802, 836, 853,
+argyrophanes, 796, 1420.
+858, 868, 869, 871, 873, 877,
+grandisquamis, 732, 1420.
+882, 884, 887, 893, 894, 940,
+tumbil, 929, 1420.
+942, 943, 944, 951, 952, 953,
+Saurus,
+959, 960, 968, 987, 991, 994,
+intermedius, 732, 1420.
+1007, 1009, 1018, 1025, 1048,
+kaianus, 750, 1354.
+1063, 1068, 1079, 1082, 1083,
+varius, 660, 1420.
+1085, 1096, 1099, 1105, 1186, Saxicava, 1451.
+1202, 1221, 1232, 1263.
+arctica, 272, 395, 418, 421, 437,
+angusta, 1226.
+485, 562, 1161, 1170, 1344,
+edwardsii, 119.
+1356, 1359, 1397, 1426, 1447.
+gemma, 835, 1126, 1186, 1263. Scabricola (see Mitra).
+inæqualis, 575, 660, 675, 778, Scalaria, 351, 706, 1322, 1406.
+835, 1126, 1186, 1203, 1208,
+aculeata, 567, 1406.
+1257, 1258, 1262.
+acus, 176, 267, 1309, 1313, 1349.
+metallina, 330, 773, 799, 1003, distincta, 579, 1349.
+1029, 1245, 1255, 1260.
+funiculata, 360, 1349.
+jukesiana, 567, 1406.
+opalina, 660, 799, 835, 852.
+philtata, 396, 1349.
+ovalis, 314, 545, 660, 675, 717,
+tortilis, 176, 1349.
+835, 852, 1003, 1093, 1186,
+vermetiformis, 360, 1349.
+1226, 1257, 1263.
+(Acirsa),
+reticulata, 384, 1186.
+pyrrhias, 177, 1349.
+serrata, 314, 675.
+subdecussata, 128, 1406.
+sinuicauda, 835.
+(Cirsostrema),
+splendens, 575, 1126.
+dentiscalpium, 706, 1406.
+Saphirinella, 137, 139, 382, 389, 530.
+hellenica, 345, 1406.
+stylifera, 384, 498, 530, 660, Scalibregma,
+1257, 1263.
+inflatum, 417, 608, 1319, 1327,
+Sarakka,
+1382, 1448.
+crassa, 392, 1316, 1325, 1331, 1448. Scaliola,
+Sarcophyllum,
+arenosa, 684, 712, 999, 1349,
+grande, 555, 1367.
+1359, 1406, 1427.
+Sarcophytum,
+bella, 628, 684, 712, 999, 1349,
+ambiguum, 755, 1366.
+1359, 1406, 1427.
+atlanticum, 392, 1366.
+caledonica, 712, 999, 1406, 1427.
+glaucum, 642, 1366.
+Scalisetosus, 1361.
+philippinensis, 804, 1366.
+ceramensis, 753, 1338.
+tongatabuensis, 623, 1366.
+Scallasis, 1429.
+trocheliophorum,
+amboinæ, 763, 1388.
+var. amboinense, 642, 1366. Scalpellum, 156, 248, 249, 251, 299, 528,
+Sarepta,
+595, 922, 956, 1243.
+abyssicola, 963, 1081, 1287, 1288. abyssicola, 963, 1286.
+Sargassum, 188, 189, 348, 349, 365, 783.
+acutum, 282, 614, 1306, 1312,
+bacciferum, 155, 254.
+1320, 1324, 1447.
+(SUMMARY OF RESULTS CHALL. EXP.-1894.)
+Scalpellum-continued.
+africanum, 394, 1339.
+album, 841, 1320.
+antarcticum, 497, 1295.
+australicum, 679, 1306.
+balanoides, 747, 1339.
+brevicarinatum, 446, 453, 1295,
+1299, 1306.
+carinatum, 394, 1306.
+compressum, 772, 1286.
+darwinii, 1125, 1286.
+distinctum, 855, 1306.
+dubium, 679, 1306.
+elongatum, 394, 578, 608, 1320,
+1326, 1339, 1356.
+eximium, 394, 1306
+flavum, 446, 1306.
+gigas, 963, 1286.
+hirsutum, 767, 1320.
+improvisum, 509, 1295.
+indicum, 747, 1339.
+insigne, 122, 1295.
+intermedium, 578, 608, 1320,
+1326, 1339.
+japonicum, 918, 1320.
+marginatum, 847, 1286.
+minutum, 1135, 1306.
+moluccanum, 759, 1306.
+novæ-zelandiæ, 608, 1320.
+ovatum, 847, 1286.
+parallelogramma, 190, 1320.
+pedunculatum, 594, 1339.
+planum, 528, 1279.
+recurvirostrum, 485, 1340.
+regium, 249, 251, 1279, 1280
+var. ovale, 249.
+rubrum, 788, 1340.
+stroemii, 225, 1385.
+tenue, 446, 1306.
+triangulare, 1190, 1320.
+trispinosum, 780, 1385.
+truncatum, 679, 1306.
+velutinum, 117, 1224, 1306,
+1312, 1320, 1447.
+vitreum, 934, 1295.
+Scaphander,
+gracilis, 268, 284, 1309, 1311.
+mundus, 740, 1322.
+niveus, 842, 1322.
+punctostriatus, 179, 268, 284,
+1309, 1311, 1313, 1349.
+Scapharca (sce Arca).
+Scaphella (see Voluta).
+Scarus, 308.
+chrysopterus, 314, 1420.
+Sceptroneis,
+clavus: 904.
+Schismope, 176, 1349.
+carinata, 566, 684, 1349, 1359,
+1406.
+opaca, 1186.
+109, 11%
+7133, 1185
+,
+7213, 1995,
+7200, 1202
+192, 646
+144, !A
+177. ISMAIL
+315, ,
+3.1.1
+196

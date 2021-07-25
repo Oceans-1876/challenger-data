@@ -1,135 +1,122 @@
 SUMMARY OF RESULTS.
-1293
-var.
-S
-N
+1297
 *
 S
+Bugula bicornis, n.sp.
 S
-loveni, n.sp.
-S
-*
-nobilis, n.sp.
-S
-***
-S
-T
-S
-S
-*
-(?) sp.
-S
-S
-Dytaster exilis, n.g., n.sp.,
-Ophiocten pallidum, n.sp.
-carinata, nov. S N * Ophiocymbium cavernosum, n.g., n.sp. S
-var. gracilis, nov. Ophioglypha bullata, n.sp.
-SN
-mailreporifer, n.g., n.sp.
-fraterna, n.sp.
-s
-Freyella fragilissima, n.sp.
-T
-s
-inornata, n.sp.
-pennata, n.sp.
+leontodon, n.sp.
 N
-irrorata, n.81
-S
-Hymenaster cælatus, n.sp.
-lienosa, n.sp.
-s
-S
-crucifer, n sp.
-formosus, n.sp.
-S
-minuta, n.sp.
-latebrosus, n.sp.
-s
-orbiculata, n.sp.
-N
-sculptilis, n.sp.
-N
-præcoquis, n. sp.
-undulata, n.sp.
-sacculatus n.sp.
-Ophiolebes scorteus, n.g., n.sp.
-* Hyphalaster inermis, n.g., n.sp.
-N Ophiomitra carduus, n.sp. N
-planus, n.g., n.sp.
-S
-chelys, n.sp.
-N
-* Lonchotaster forcipifer, 1.g., n.sp. s
-N
-* Nymphaster protentus, n.g., n.sp.
-N Ophiomusium archuster, n.sp.
-Paragonaster cylindratus, n.sp. T
-armigerum, n.sp. S T N
-* Pararchaster antarctica, n.g., n.sp.
-corticosum, n.sp.
-T
-pedicifer, n.g., n.sp.
-S
-N
-granosum, n.sp.
-semisquamatus, n.g.,n.sp. N
-lymani, Wyville Thomson.
-occidentalis,
+margaritifera, n.sp. S
+reticulata, n.sp.
 S TN
-pulchellum, n.sp.
-S TN
-Phocaster pumilus, n.g., n.sp.
-* Ophioplinthus grisea, n.g., n.sp.
-S
-Plutonaster rigidus, n.g., n.sp.
+var. unicornis, nov.
+* Canda simplex, n.sp.
 N
-medusa, n.g., n.sp.
-Pontaster forcipatus, n.g., n.sp.
-SN * Ophiotholia supplicans, n.g., n.sp.
-s
-Porania antarctica, Smith. s
-* Porcellanaster tuberosus, n.g., n.sp.
-N ECHINOIDEA :
-* Psilaster gracilis, n.g., n.sp.
-Aceste bellidifera, n.g., 11.sp.
-STN
-Pythonaster murrayi, n.g., n.sp.
-s
-Aspidodiadema microtuberculatum,
-Styracaster armatus, n.g., n.sp.
+* Catenaria bicornis, n.sp.
 T
-n.g., n.sp.
-S T
-tonsum, n.g., n.sp.
-OPHIUROIDEA :
-ST
-Amphilepis tenuis, n.sp.
-N
-Cystechinus clypeatus, n.g., n.sp.
-S T
-Amphiura patula, n.sp.
-vesica, n.g., n.sp.
-Ophiacantha cosmica, n.sp.
-S T
-wyvillä, n.g., n.sp.
-S
-* Echinocrepis cuneata, n.g., n.sp.
+Cellularia crateriformis, n.sp.
 s
-Ophiernus vallincola, n.g., n.sp.
-SN Echinus magellanicus, Phil. S
-Ophiocten amitinum, n.sp. s
-1 * Genicopatagus affinis, n.g., n.sp.
-(SUMMARY OF RESULTS CHALL. EXP.-1894.)
-163
+* Farciminaria cribraria, n.sp.
+s
+delicatissima, n.sp.
+TN
+gracilis, n.sp.
+TN
+magna, n.sp. S
+armata,
+2
+S
+SCAPHOPODA AND GASTEROPODA :
+* Basilissa simplex, n.g., n.sp.
+* Clathurella homæotata, n.sp.
+T
+phyxanor, n.sp.
+T
+* Columbella sp. (?). N
+* Dentalium amphialum, n.sp.
+S
+leptoskeles, n.sp.
+S
+n.sp. (?). T
+* Fusus (Neptunea) calathiscus, n.sp.
+( ) setosus, n.sp.
+* Guivillea alabastrina, n.g., n.sp.
+Ianthina exigua, Lamarck (surface). TN
+rotundata, Leach (surface). S N
+Oocorys sulcata, Fischer.
+* Pleurotoma (Bela) climakis, n.sp.
+(Vangelia) sp. (?). N
+(Pleurotomella) brychia,
+n.sp.
+T
+) papyracea,
+n.sp.
+* Pleurotoma (Spirotropis) aganactica,
+n.sp.
+(Surcula) lepta, n.sp.
+* Trochus sp. (?).
+S
+S
 var.
+T
 nov.
-N
+T
+2
+* Foveolaria orbicularis, n.g., n.sp.
+s
+Idmonea marionensis, Busk. s
+Kinetoskias cyathus, n.sp.
+SN
+Menipea clausa, n.sp. N
+Nellia simplex, Busk. N
+Onchopora sinclairü, Busk.
+Salicornaria magnifica, n.sp.
+S T
+Tessaradoma boreale (Busk).
 S
-N
+S
+S
+T
 *
 S
+BRACHIOPODA :
+Discina atlantica, King. S TN
+Megerlia (?) incerta, n.sp. T
+* Terebratula (or Terebratulina)
+*
 s
-nodosa, n.sp.
+dalli, n.sp.
 N
+sp. (?).
+T
+CEPHALOPODA :
+Bathyteuthis abyssicola, n.g., n.sp.
+* Cranchia (Liocranchia) reinhardtii,
+Steenstrup (surface ?). T
+Eledone rotunda, n.sp.
+Mastigoteuthis agassizii, Verrill.
+Octopus januarii, Steenstrup, MS. N.
+* Promachoteuthis megaptera, n.g., n.sp. N
+s
+N
+N
+TUNICATA :
+Abyssascidia vasculosa, n.g., n.sp.
 S
+* Bathyoncus mirabilis, n.g., n.sp. s
+* Culeolus perlatus, n.g., n.sp.
+perlucidus, n.g., n.sp.
+Fungulus cinereus, n.g., n.sp.
+Pharyngodictyon mirabile, n.g., n.sp. S
+Pyrosoma spinosum, n.sp. (surface). S N
+* Styela sericata n.sp.
+s
+POLYZOA :
+* Bicellaria infundibulata, n.sp.
+* Bifaxaria minuta, n.g., n.sp.
+N
+reticulata, n.g., n.sp.
+T
+s
+S
+s

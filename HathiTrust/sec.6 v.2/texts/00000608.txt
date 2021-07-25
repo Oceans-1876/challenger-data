@@ -1,122 +1,136 @@
-1330
-THE VOYAGE OF H.M.S. CHALLENGER,
-T
-T
-T
-V2
-s
-S
-"
-S
-N
-2
-1
-2
-levis, n.sp.
-S
-T
-T
-1
-Thenea schmidtii, n.n. TN
-Rhabdocalyptus raperi, n.g., n.sp.
-s
-* Thrombus challengeri, n.g., n.sp.
-Rossella antarctica, Carter. s
-* Tretolophus paniccus, n.g., n.sp.
-T * Sclerothamnus clausii, Marshall. T
-* Triptolemus cludosus, n.g., n.sp.
-T Semperella schultzei, Semper. T
-* Sympagella nux, Schmidt.
-HEXACTINELLIDA :
-Dictyonine.
-* Acanthascus dubius, n.g., n.sp.
-* Euretid, T
-grossularia, n.g., n.sp.
-Aphrocallistes bocagei, Wright. TN
-CALCAREA:
-rumosus, n.sp.
-T
-Amphoriscus elongatus, n.sp.
-Aulascus johnstoni, n.g., n.sp.
-S
-Eilhardia schulzei, n.g., n.sp.
-S
-Aulocalyx irregularis, n.g., n.sp.
-* Leuconia crucifera, n.sp.
-Aulocystis zittelii (Marshall). T
-fruticosa (Haeckel).
-Bathydorus stellatus, n.g., n.sp.
-* Chonelasma sp. (?). T
-* Leucosolenia blanca (M.-Mackay), var.
-Crateromorpha murrayi, n.sp. T
-bathybia, nov. N
-thierfelderi, p.sp.
-poterium (Haeckel). S
-tumida, n.sp.
-* Ute argentea, n.sp.
-S
-Cyrtaulon solutus, n.g., n.sp.
-N
-Dactylocalyx (?) patella, n.sp.
-N
-ALCYONARIA :
-* Eurete carteri, n.sp.
-Acamptogorgia arbuscula (Gray, MS.). N
-farreopsis, Carter. T
-* Acanella chiliensis, n.sp.
-S
-marshalli, n.sp.
-T
-eburnea (Pourtalès). T
-schmidtii, n.sp.
-T
-rigida, n.sp.
-T
-semperi, n.sp.
-T
-Acanthogorgia laxa, n.sp.
-* Farrea clavigera, n.sp. T
-ramosissima, n.sp.
-occa (Bowerbank), Carter. S T
-ridleyi, n.sp.
-s
-Acis pustulata, n.sp.
-N
-* Fieldingia lagettoides, Kent. T
-* Alcyonium haddoni, n.sp.
-S
-* Hexactinella lata, n.sp.
-T
-Amphilaphis regularis, n.g., n.sp. S
-* Hyalonema toceres, n.sp.
-Anthogorgia japonica, n.sp.
-(Stylocalyx) apertum, n.sp.
-N * Anthomuricea argentea, n.g., n.sp.
-) globus, n.sp. T * Bellonella bocagei (Kent). N
-* Lanuginella pupa, Schmidt. T
-* Caligorgia flabellum (Ehrenberg). N
-Lefroyella decora, n.g., n.sp.
-sertosa, n.sp.
-* Myliusia callocyathus, Gray.
-Callistephanus koreni, n.g., n.sp.
-* Pheronema giganteum, n.sp.
-Ceratoisis grandiflora, Studer. T
-globosum, n.sp.
-paucispinosa, n.sp.
-N
-Polylophus philippinensis (Gray). T * Chironephthya crassa, n.g., n.sp.
-T
-S
+1334
+THE VOYAGE OF H.M.S. CHALLENGER.
+Pentacrinus naresianus, n.sp. S T
+Rhizocrinus lofotensis, Sars. S T
 *
->>
-sp. (?). T
-T
-N
 S
 N
+S
 T
 T
 T
+s
 T
 T
+>>
+S
+Ophidiaster ophidianus (Lamarck),
+Agassiz. N
+* Palmipes diaphanus, n.sp.
+T
+* Paragonaster ctenipes, n.g., n.sp.
+T
+Pararchaster' armatus, n.g., n.sp.
+N
+spinosissimus, n.g., n.sp. N
+* Pedicellaster hypernotius, n.sp.
+* Pentagonaster arcuatus, n.sp. N
+japonicus, n.sp.
+patagonicus, 1.sp.
+S
+* Perknaster densus, n.g., n.sp.
+S
+* Pholidaster distinctus, n.g., 1.sp.
+T
+squamatus, n.g., n.sp.
+* Plutonaster ambiguus, n.g., n.sp.
+marginatus, n.g., 1.sp.
+* Pontaster oxyacanthus, n.g., 1.sp.
+N
+planeta, n.g., n.sp.
+S
+subtuberculatus, n.g., n.sp. S
+teres, n.g., n.sp.
+T
+Porania antarctica, Smith.
+spiculata, n.sp.
+ST
+* Pseudarchaster discus, n.g., n.sp).
+Psilaster acuminatus, n.g., n.sp.
+* Pteraster rugatuls, n.sp.
+stellifer, n.sp.
+* Retaster gibber, n.sp.
+S
+peregrinator, n.sp.
+* Solaster paxillatus, n.sp.
+N
+regularis, n.sp.
+S
+subarcuatus, n.sp.
+S
+Stichaster felipes, n.sp.
+s
+polygrammus, n.sp.
+S
+* Tarsaster stoichodes, n.g., n.sp. T
+T
+>
+s
+ASTEROIDEA :
+Archaster typicus, Müller and Troschel. T
+* Asterias (Cosmasterias) sulcifera
+(Valenciennes, MS.), Perrier. S
+(Smilasterias) triremis, n.sp. S
+(Stolasterias) eustyla, n.sp.
+) stichantha, n.sp.N
+* Astropecten acanthifer, n.sp.
+brevispinus, n.sp.
+N
+cingulatus, n.sp.
+hermatophilus, n.sp. N
+imbellis, n.sp.
+Bathybiaster loripes, n.sp.
+var. obesa, nov.
+* Brisinga cricophora, n.sp.
+* Calyptraster coa, n.g., n.sp.
+T
+Chataster longipes (Retzius), Sars.
+* Cribrella compacta, n.sp.
+s
+præstans, n.sp.
+S
+simplex, n.sp.
+* Crossaster penicillatus, n.sp.
+* Ctenodiscus procurator, n.sp.
+Gnathaster elongatus, n.g., n.sp.
+S
+meridionalis (Smith).
+Labidiaster annulatus, n.sp.
+S T
+* Leptogonaster cristatus, n.g., n.sp. T
+Leptoptychaster antarcticus, n.sp.
+Lophaster stellans, n.sp.
+Luidia aspera, n.sp.
+* Mimaster cognatus, n.sp.
+* Nymphaster bipunctus, n.g., n.sp.
+T
+symbolicus, n.g., n.sp.
+T
+N
+s
+obesa, n.sp.
+S
+s
+s
+V2 2
+*
+s
+S
+S
+S
+S
+s
+T
+S
+N
+var.
+OPHIUROIDEA :
+Amphilepis norvegica, Ljungman.
+* Amphiura angularis, n.sp.
+s
+Τ Ν
+glauca, n.sp.
+Vellis, n.sp.
+breviradiata, nov.
+* Ophidiaster attenuatus, Gray. N
 N

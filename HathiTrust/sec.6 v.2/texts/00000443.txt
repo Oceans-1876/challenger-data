@@ -1,44 +1,46 @@
 SUMMARY OF RESULTS.
-1171
-STATION 313.
-TUNICATA (Herdman, Zool. pts. 17 and 38).
-Molgula gigantea (Cunningham). Nearly forty specimens ; obtained at no other
-locality by the Challenger. Recorded from Magellan Strait
-and Patagonian Bank.
-Ascidia meridionalis, n.sp. Two specimens ; obtained also at Station 320,
-600 fathoms.
-Colella pedunculata (Quoy and Gaimard). Five specimens; obtained also at
-Stations 149, 151, 314, and 315.
-Atopogaster gigantea, n.g., n.sp. One specimen ; obtained at no other locality.
-elongata, n.g., n.sp. Numerous specimens; obtained also at the Cape
-(var. pallida).
-Polyclinum incertum, n.sp. Three specimens ; obtained at no other locality.
-Amaroucium irregulare, n.sp. Over twelve specimens ; obtained at no other locality.
-var. concinnum, nov. One specimen; obtained at no
+1175
+Station 314a.
+sounding-tube. Took serial temperatures. The carbonic acid was determined in surface
+water, and amounted to 42:9 milligrammes per litre. Put over trawl, which came up at
+10.15 A.M. empty. Owing to a strong northerly current, it probably did not touch the
+bottom. At 10.30 A.M. made sail.
+Jason West Cay distant at noon, 22 miles. Made good 135 miles.
+The Challenger remained at the Falkland Islands from January 23 till February 6, 1876,
+during which time several dredgings and trawlings were taken from the steam pinnace
+and from the ship in Port William, Port Louis, &c., in from 4 to 12 fathoms (Stations 315
+and 316). The deposit in Stanley Harbour, in 6 fathoms, was a Blue Mud containing
+39:12 per cent. of carbonate of lime (for description of the islands see Narr. Chall.
+Exp., vol. i. pp. 883–894). The following species are recorded in the Zoological
+Reports as having been obtained during the visit, the depth and locality being
+indicated :
+AT FALKLAND
+ISLANDS.
+ANIMALS FROM
+FALKLAND
+ISLANDS.
+(Stations 315
+AND 316).
+HYDROIDA (Allman, Zool. pt. 70).
+Obelia geniculata (Linné). (Station 315, 5 to 12 fathoms); obtained also at
+Station 149.
+Hypanthea hemispherica, n.sp. (Station 315, 5 to 12 fathoms); obtained at no
 other locality.
-lævigatum, n.sp. One specimen ; obtained at no other locality.
-(?) ignotus, n.sp. Two specimens (genus doubtful); obtained at no
-other locality by the Challenger. Recorded from Antarctic.
-Goodsiria coccinea, Cunningham. About twenty specimens; obtained also at
-Stations 314 and 315, 70 and 12 fathoms. Recorded from
-Magellan Strait and Falkland Islands.
-Synstyela incrustans, n.sp. Numerous specimens ; obtained also at Philippines.
-FISHES (Günther, Zool. pts. 6 and 57).
-Raja brachyura, n.sp. Four specimens ; obtained also at Station 314, 70 fathoms.
-Psammobatis rudis, Günther. Obtained at no other locality by the Challenger.
-Notothenia longipes, Steindachner. Obtained also at Stations 306 and 312.
-elegans, n.sp.
-Obtained at no other locality.
-Thysanopsetta naresi, n.g., n.sp. Obtained at no other locality. Only species of
-the genus.
-Salilota australis, n.g., n.sp.
-Obtained also at Station 314 and Puerto Bueno.
-Only species of the
-genus.
-In addition to the foregoing, the following are recorded in the Station-book :- Many
-Sertularians and many other Hydroids, Brissopsis, four specimens of Margarita,
-Pleurotoma, and several specimens of Calyptræa.
-Excluding Protozoa, over 400 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 82 species, of which 42 are new to science,
-including representatives of 7 new genera; 26 of the new species and 1 new genus
-were not obtained elsewhere.
+Sertularia polyzonias, Linné. (Station 315, 5 to 12 fathoms); obtained at no other
+locality by the Challenger.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Cycethra electilis, n.sp. (Station 315, 12 fathoms); obtained at no other locality.
+Cribrella obesa, n.sp. (Station 315, 12 fathoms); obtained also at Station 311.
+Asterias glomerata, n.sp. (Station 315, 12 fathoms); obtained also at Station 313.
+cunninghami, Perrier. (Station 315, 12 fathoms); obtained also at
+Station 313.
+Calvasterias stolidota, n.sp. (Station 315, 5 to 10 fathoms); obtained also in
+Messier Channel.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophiactis asperula (Phil.). (Station 315, 5 to 12 fathoms); obtained also at
+Stations 308, 311, and 312.
+Ophiacantha vivipara, Ljungman. (Station 315, 5 to 12 fathoms); for distribution
+see Station 145.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Goniocidaris canaliculata, Agassiz. (Station 315, 5 to 12 fathoms); for
+distribution see Station 147.

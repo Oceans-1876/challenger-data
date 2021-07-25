@@ -1,41 +1,44 @@
 REPORT ON OCEANIC CIRCULATION.
-23
-are in the lines of the drift of the surface currents. The highest isothermal in any
-other ocean is 53°, or 10° lower than that of the North Atlantic, thus emphatically
-distinguishing this ocean as, in this respect, markedly different from all other oceans.
-The ten observed specific gravities in the Atlantic from lat. 13° to 40° N. give a
-mean of 1.0266, only one occurring as low as 1:0262 near Cape Verde Islands. In
-marked contrast with this, the mean of the fifteen specific gravities observed between
-lat. 10° and 40° S. is 1.0258, only one of which exceeded the minimum of the North
-Atlantic. Thus, we have still in the North Atlantic the specific gravities greatly more
-favourable to the descent of the warm water of the higher strata, and the observa-
-tions of temperature amply show that this descent takes place.
-A very different state of things now holds good in the Pacific Ocean, which in its
-western division has temperatures above the mean uninterruptedly through eighty
-degrees of latitude, and in its eastern division through forty degrees. As in the case
-of the Atlantic, the higher temperatures are in the western part of the ocean or in the
-lines of the warm surface currents. A lower temperature still prevails in mid-ocean
-immediately south of the equator, and from the western projection of this low
-temperature area to the south there is a somewhat rapid increase of temperature
-amounting at this depth to 5º. The two regions of highest temperature are 51° about
-ten degrees of latitude south of Japan, and 50° the same distance north of New Zealand.
-The specific gravities, while still a little higher in the South than in the North
-Pacific, now approximate to each other over the whole extent of the ocean from lat.
-30° N. to 40° S., the mean being 1.0256, very much below the specific gravity of the
-North Atlantic,
-Depth of 400 Fathoms (Map 6). — The mean temperature of the ocean at 400
-fathoms is 41°:8, or 2°.9 less than at 300 fathoms. The excess of temperature in the
-North Atlantic is even more pronounced than at the previous depth. In the South
-Atlantic the highest temperature is 42º.5, or only 0°:7 above the mean temperature of
-the whole ocean, but in the North Atlantic nearly the whole extent of it has a higher
-temperature than this, and the maximum temperature rises to 55°, or 12°.5 higher than
-in the South Atlantic. It is also to be noted that the higher temperatures still occupy
-the western division of the ocean.
-The specific gravities of the two oceans are very different. In the North Atlantic
-the mean is 1.0264, but in the South Atlantic it is 1.0258, and in the Gulf of Guinea
-1.0254. The densities thus favour the descent of the warmer water of the upper layers
-to greater depths in the North than in the South Atlantic.
-In the North Pacific the highest isothermal is 43°, but in the South Pacific this
-isothermal covers a much wider extent, and temperature rises within the warm area to
-47°, or 4° higher than in the North. In this part of the ocean the mean specific gravity
-is 1.0259, but elsewhere in the North and South Pacific it is only 1.0255.
+27
+Atlantic between latitudes 40° and 30° at depths of 1000 and 1500 fathoms are 39°:1
+and 37°:4; and between the same two latitudes of the South Atlantic they are 37°•1 and
+37°•0. Hence the temperature in the North Atlantic falls 1°:7, whereas in the South
+Atlantic the fall is only 0°.1. The following gives the results for both oceans from the
+equator to lat. 40°:
+North
+Atlantic.
+South
+Atlantic.
+Mean Temperature at depth of 1000 fathoms,
+Mean Temperature at depth of 1500 fathoms,
+39° 0
+37° :3
+1º7
+37°:8
+37°1
+0°.7
+Differences,
+The relatively slow rate of decrease of temperature of the South Atlantic may be
+regarded as commencing about 800 fathoms, to be clearly marked at 1000 fathoms, from
+which depth downwards it gradually approximates through 1100, 1200, 1300, and 1400
+fathoms to what is shown at 1500 fathoms on Map 14. The specific gravities at the
+bottom of the ocean (Map 16) afford a ready explanation of this remarkable distribution
+of temperature. Owing to the higher specific gravities of the North Atlantic, an
+extensive deep-sea current from the North to the South Atlantic, carrying a higher
+temperature with it, sets in at depths at which the influence of the surface currents is no
+longer felt, and becomes more pronounced as the depth below 1000 fathoms is increased.
+Hence the North Atlantic receives large accessions to its salinity from the South
+Atlantic through the surface currents, which the deep-sea currents again return to the
+South Atlantic. It will be seen from Map 16 that this source of movement, viz.,
+differences of specific gravities, is virtually absent from the deep waters of the Pacific.
+The Gulf of Mexico.
+This sea exhibits several peculiarities as regards temperature and specific gravity
+which have important bearings on oceanic circulation. The surface temperature of the
+southern half is above 80º and the northern half under it. The specific gravity in the
+south-eastern portion is 1.0271, rising in November to a mean of 1.0283, falling in the
+north of the Gulf to 1.0266. The high temperature and the specific gravity of the Gulf
+of Mexico is due to the circumstance that the strong current entering it from the east
+has had, during its passage across the Atlantic, its surface long exposed to a blazing sun
+and a dry, clear atmosphere. As there is no passage to westward for the current, the
+surface waters are further delayed in the Gulf till they escape into the Atlantic, chiefly
+through the Straits of Bemini.

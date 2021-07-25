@@ -1,183 +1,182 @@
-1550
+1554
 THE VOYAGE OF H.M.S. CHALLENGER.
-Reophax-continued.
-guttifera, 261,' 294,: 449, 529,
-604, 936, 964, 1067, 1084,
-1092, 1200.
-membranacea, 294,936,941,1200.
-nodulosa, 147, 1319, 353, 498,
-511, 514, 604, 631, 663, 671,
-857, 876, 936, 941, 949, 957,
-964, 979, 986, 1010, 1126,
-1200, 1247, 1253.
-pilulifera, 181, 211, 285, 319,
-353, 427, 498, 511, 529, 581,
-857, 936, 957, 1158, 1200, 1247.
-| scorpiurus, 139, 145, 166, 181,
-198, 215, 261, 285, 319, 353,
-449, 480, 492, 198, 511, 522,
-529, 581, 604, 630, 631, 685,
-717, 798, 862, 903, 936, 941,
-979, 986, 1002, 1037, 1084,
-1089, 1092, 1153, 1158, 1163,
-1216, 1230.
-spiculifera, 166, 480, 936, 964,
-1067, 1092.
-Retaster,
-gibber, 1160, 1334.
-insignis, 694, 720, 1376, 1423.
-peregrinator, 462, 1334.
-verrucosus, 1168, 1376.
-Retepora, 96, 545, 808.
-apiculata, 628, 1413.
-atlantica, 276, 1352, 1360, 1413.
-cavernosa, 459, 1323.
-columnifera, 730, 1413.
-contortuplicata, 1000, 1413.
-crassa, 534, 543, 1413, 1427.
-delicatula, 730, 1413.
-denticulata, 1000, 1413.
-gigantea, 459, 1323.
-hirsuta, 714, 1413.
-imperati, 276, 313, 1352, 1357.
-jacksoniensis, 572, 1413.
-lata, 414, 1413.
-magellensis, 1191, 1323.
-margaritacea, 664, 669, 1352.
-monilifera,
-form munita, 543.
-form umbonata, 714.
-mucronata, 807, 1413.
-philippinensis, 821, 1413.
-phænicia, 543, 1413.
-producta, 628, 833, 1413, 1427.
-simplex, 833, 861, 1413, 1427.
-tessellata, 414, 422, 1360, 1413.
-var. cæspitosa, 414, 1413.
-var. imperati, 276, 313.
-var. pubens, 414, 1352, 1413.
-tubulata, 714, 1413.
-victoriensis, 534, 543, 1413,
-1427, 1447.
-r. japonica, 543, 910, 1413.
-Reteporella,
-flabellata, 491, 1413.
-myriozoides, 459, 491, 1323.
-Rhabdammina, 211, 511, 604, 964.
-abyssorum, 115, 124, 211, 215,
-261, 285, 294, 319, 423, 427,
-449, 498, 511, 581, 663, 857,
-936, 1200.
-cornuta, 133, 604.
-discreta, 166, 181, 285, 480, 610,
-857, 1126, 1131.
-linearis, 166, 181, 211, 353, 581,
-604, 610, 936, 964, 1200.
-Rhabdocalyptus, 1451.
-ræperi, 1156, 1330.
-Rhabdodictyum,
-delicatum, 236, 1303.
-Rhabdogonium,
-minutum, 134.
-tricarinatum, 166, 182, 196, 295,
-354, 582, 641, 686.
-Rhabdonema,
-adriaticum, 278, 287, 481, 904,
-938.
-arcuatum, 938.
-minutum, 481.
-Rhabdopleura,
-normani, 399, 1352.
-Rhabdosoma, 247, 676, 845, 846, 894,
-1256.
-armatum, 1251.
-brevicaudatum, 1262.
-Rhachotropis, 1451.
-aculeatus, 226, 1386.
-kergueleni, 469, 1386.
-Rhaphidophlus,
-filifer, 803, 1364.
-gracilis, 372, 1364.
-lobatus,
-var. horrida, 406, 1364.
-Rhaphidozoum,
-ascensionis, 1237.
-asperum, 1095.
-australe, 585.
-capense, 425.
-pacificum, 1044.
-pandora, 1239.
-patagonicum, 1136.
-pelagicum, 1019.
-polymorphum, 1108.
-Rhaphitoma (sce Pleurotoma).
-Rhaphoneis, 904.
-gemmifera, 904.
-moorei, 130, 191, 197.
-surirella,
-var. australis, 938.
-Rhina,
-squatina, 1440.
-Rhincalanus,
-cornutus, 777, 799, 834, 1257.
-Rhincalanus-continued.
-gigas, 498,524,799,992, 1193, 1207.
-Rhinobrissus,
-hemiasteroides, 1074, 1378.
-Rhipidaster, 1429.
-vannipes, 720, 1376.
-Rhizammina, 640, 964, 1037.
-algæformis, 139, 152, 166, 261,
-285, 423, 429, 449, 511, 522,
-529, 640, 758, 845, 936, 956,
-964, 1036, 1066, 1111, 1126,
-1131, 1200, 1230, 1253.
-indivisa, 166, 423, 640.
-Rhizochalina,
-fistulosa, 239, 265, 718, 1302,
-1313, 1364, 1422.
-pedunculata, 666, 1364.
-putridosa, 371, 536, 553, 1384,
-1422.
-singaporensis, 391, 1329.
-Rhizocrinus, 365, 399, 1200.
-lofotensis, 171, 172, 356, 1198,
-1292, 1300, 1317, 1325, 1334.
-rawsoni, 279, 1317.
-Rhizophysa, 150.
-filiformis, 139.
-Rhizoplegma,
-lychnosphæra, 1085.
-polyacanthum, 1061.
-radicatum, 1045.
-spirale, 1013.
-trigonacantha, 1265.
-Rhizosolevia,514, 734,853, 863, 939, 953,
-982.
-alata, 931.
-arafurensis, 734
-calcar-avis, 734.
-cochlea, 734.
-furcata, 515.
-hastata, 481.
-imbricata, 734.
-indica, 517, 734.
-inermis, 515, 517.
-robusta, 734.
-setigera, 514, 515, 517, 931.
-shrubsolei, 931.
-stolterfothii, 734.
-striata, 734.
-styliformis, 514, 515, 517, 734,
-1028, 1043.
-var. polydactyla, 734.
-temperei, 734.
-Rhizosphæra,
-antarctica, 512, 516.
-leptomita, 1255, 1257, 1261,
-1265, 1267.
-serrata, 1032, 1045, 1053, 1056,
-1061.
-trigonacantha, 512, 516, 1038,
-1045.
-var.
+Schismope—continued.
+lacuniformis, 176, 1349.
+tabulata, 176, 1349.
+Schizaster, 504.
+fragilis, 225, 420, 1336, 1358,
+1378, 1444, 1446.
+japonicus, 721, 794, 906, 912,
+923, 1378, 1423.
+moseleyi, 445, 463, 1142, 1148,
+1155, 1157, 1160, 1305, 1313,
+1337, 1355.
+ventricosus, 899, 1337.
+Schizochiton,
+incisus, 832, 1409.
+Schizonema,
+smithii, 930.
+Schizopathes,
+affinis, 758, 855, 1303, 1310.
+conferta, 432, 1332.
+crassa, 1198, 1292.
+Schizophrys,
+aspera, 700, 1393.
+Schizoporella,
+auriculata,
+var, alba, 398, 1352.
+cecilii, 534, 1413.
+challengeria, 1192.
+circinata, 398, 1413.
+elegans, 422, 459, 1323, 1326,
+1352.
+furcata, 1000, 1413.
+jacksoniensis, 573, 1413.
+longispinata, 1165, 1413.
+marsupifera, 441, 594, 1352,
+1360, 1413.
+pivea, 422, 1352.
+tenuis, 415, 1000, 1413, 1427.
+triangula, 491, 544, 1413,
+1427.
+vitrea, 398, 1413.
+woosteri, 544, 1413.
+Schizoscelus,
+ornatus, 835.
+Schizotricha, 1429.
+multifurcata, 461, 488, 1373.
+unifurcata, 461, 1373.
+Schmardanella,
+pterochæta, 409 1382.
+Sciacaris, 1033.
+telsonis, 853, 887.
+Sciadephorus, 843.
+Sciana,
+sina, 927, 1420.
+Scina,
+cornigera, 380, 383, 672
+Scirpearella, 1361.
+gracilis, 667, 1331.
+moniliforme, 761, 1331.
+profunda, 667, 1331.
+rubra, 897, 1331.
+Scissurella, 396,571,706,1075,1349,1406.
+aëdonia, 360, 396, 1319, 1357.
+alta, 176, 273, 1349, 1359, 1406.
+coronata, 1075, 1406.
+crispata, 176, 438, 1349, 1357.
+declinans, 684, 1349.
+obliqua, 473, 1406.
+Sciurella, 1429.
+indivisa, 692, 1373.
+Scleritoderma,
+flabelliformis, 743, 1329.
+Sclerochilus,
+contortus, 467, 490, 597, 1384,
+1424, 1443, 1448.
+Scleronephthya, 1429.
+pustulosa, 804, 1366.
+Scleroptilum,
+durissimum, 917, 1316.
+grandiflorum, 917, 946, 1284.
+Sclerothamnus,
+clausii, 752, 1330.
+Scolecithrix,
+danæ, 314, 575, 660, 675, 717,
+751, 799, 834, 852, 940, 1003,
+1024, 1226, 1237, 1255, 1257,
+1258, 1259, 1261, 1263, 1266.
+minor, 449.
+Scolecolepis,
+cirrata, 162, 465, 1338, 1356.
+Scolopes, 1429.
+moseleyi, 373, 1365.
+Scoloplos,
+kerguelensis, 465, 1338.
+Scolopsis,
+bilineatus, 658, 1420.
+monogramma, 786, 1420.
+temporalis, 658, 1420.
+Scombresox,
+forsteri, 993.
+saurus, 1212, 1263, 1269.
+Scombrops,
+chilodipteroides, 901, 1354.
+Sconsia (see Cassidaria).
+Scopelus, 858.
+antarcticus, 504, 510, 1298,
+1299.
+caninianus, 790, 853, 1263.
+coccoi, 160, 895, 1013, 1094,
+1109, 1212, 1263.
+dumerilii, 634, 1354.
+engraulis, 777.
+macrolepidotus, 616, 1324, 1325,
+1449.
+nigro-ocellatus, 895.
+Scorpæna,
+cirrhosa, 796, 1420.
+cruenta, 550, 599, 1354, 1360,
+1420.
+dactyloptera, 315.
+miostoma, 927, 1420.
+Scorpæna-continued.
+nuchalis, 1001, 1420.
+percoides, 550, 591, 634, 1354,
+1357.
+plumieri, 170, 1420.
+scrofa, 313, 1420.
+thomsoni, 1115, 1420.
+zanzibarensis, 658, 1420.
+Scotoanassa, 1282.
+diaphana, 527, 1278.
+Scotoplanes,
+albida, 426, 1294.
+globosa,508,1124, 1285,1288,1294.
+insignis, 503.
+mollis, 527, 1278.
+murrayi, 494, 1305.
+papillosa, 1205, 1278.
+robusta, 508, 1294.
+Scrobs (see Rissoa).
+Scrupocellaria,
+ciliata, 730, 1413.
+macandrei, 312, 339, 1310, 1314,
+1413.
+marsupiata, 260.
+ornithorhynchus, 1000, 1413.
+pilosa, 397, 1352, 1360,1413,1449.
+securifera, 861, 1413.
+Scutus (see Emarginula).
+Scylla,
+serrata, 1075, 1393.
+Scyllæa, 775, 1266.
+pelagica, 155, 254, 1266.
+Scyllium,
+canescens, 1158, 1354.
+chilense, 1166, 1420.
+Scyra,
+compressipes, 908, 1393.
+Scytalium,
+sarsi, 818, 1367.
+tentaculatum, 784, 1367.
+Scytophorus, 1361.
+striatus, 483, 1332.
+Seba,
+saundersii, 1170, 1386.
+Sebastes, 1440.
+hexanema, 749, 1354.
+macrochir, 901, 927, 1354, 1360,
+1420.
+marmoratus, 796, 1420.
+nematophthalmus, 781, 1420.
+oblongus, 927, 1420.
+oculatus, 1146, 1148, 1166, 1354,
+1357.
+percoides, 551, 574, 599, 1354,
+1360, 1420, 1428.
+ventricosus, 927, 1421.
+Seguenzia,
+carinata, 267, 283, 293, 351,
+1309, 1311, 1312, 1322.
+ionica, 176, 267, 1309, 1313, 1349.

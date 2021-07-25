@@ -1,105 +1,117 @@
-1016
+1018
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 266.
-Dipospyris irregularis, Haeckel.
-forcipata, Haeckel.
-Dorcadospyris lunulata, Haeckel.
-decussata, Haeckel.
-Stephanoskyris verticillata, Haeckel.
-Hexaspyris alterna, Haeckel.
-Liriospyris hexapoda, Haeckel.
-amphithectu, Haeckel.
-Aegosjyris æquispina, Haeckel.
-Pentuspyris pentacantha, Haeckel.
-Elaphospyris alcicornis, Haeckel.
-Petalospyris floscula, Haeckel.
-Anthospyris trapogon, Haeckel.
-Dictyospyris distoma, Haeckel.
-Tholospryris fenestrata, Haeckel.
-Lamprospyris lyellii, Haeckel.
-Amphispyris quadrigemina, Haeckel.
-Nephrospyris phuseolus, Haeckel.
-Botryopera cyrtoloba, Haeckel.
-Cannobotrys cortina, Haeckel.
-Acrobotrys disolenia, Haeckel.
-trisoleniu, Haeckel.
-Phormobotrys trithalamia, Haeckel.
-Archipilium sigmopterum, Haeckel.
-Eusrenium tricolpium, Haeckel.
-Clarloscenium fulcratum, Haeckel.
-Archiscenium clathrocorys, Haeckel.
-Pteroscenium tripocol pum, Haeckel.
-Peridium spinipes, Haeckel.
-cervinum, Haeckel.
-Cyrtophormis ærostatica, Haeckel.
-Archiphormis urceolata, Haeckel.
-Halicalyptra petalospyris, Haeckel.
-Archicorys ovata, Haeckel.
-Archicapsa quadriforis, Haeckel.
-Dictyophimus pyramis, Haeckel.
-Sethopilium orthopus, Haeckel.
-Lithomelissa bütschlii, Haeckel.
-Prilomelissa calvata, Haeckel.
-Lychnocanium lanterna, Haeckel.
-favosum, Haeckel.
-ventricosum, Ehrenberg.
-tripodium, Ehrenberg.
-Lychnodictyum wycillei, Haeckel.
-Micromelissa bombnis, Haeckel.
-Sethophormis pentalartis, Haeckel.
-arachnium, Haeckel.
-aurelia, Haeckel.
-Sethamp'ora hexapleura, Haeckel.
-costata, Haeckel.
-Sethopyramis enneactis, Haeckel.
-Plectopyramis trapezomma, Haeckel.
-Anthocyrtis lauranthus, Haeckel.
-Anthocyrtium adonis, Haeckel.
-leptostylum, Haeckel.
-flosculus, llaeckel.
-Clistophæna armata, Haeckel.
-Sethocyrtis oxycephalis, Haeckel.
-diomelis, Haeckel.
-Sethocorys patrocli, Haeckel.
-Lithophæna circumtexta, Haeckel.
-Dictyocephalus amphora, Haeckel.
-cavea, Haeckel.
-Sethorapsa pyriformis, Haeckel.
-Dictyoceras insectum, Haeckel.
-Pterocanium orrinum, Haeckel.
-Pyramis, Haeckel.
-Podocyrtis tripodiscus, Haeckel.
-centriscus, Ehrenberg.
-costata, Haeckel.
-perlicellaria, Haeckel.
-scaphopodia, Haeckel.
-sphærogaster, Haeckel.
-Thyrsocyrtis rhizopodium, Haeckel.
-Dictyopodium scaphopodium, Haeckel.
-Lithornithium trochilus, Haeckel.
-Theopera fusiformis, Haeckel.
-chytropus, Haeckel.
-Rhopalocanium lasanum, Haeckel.
-Rhopalatractus fenestratus, Haeckel.
-Lithochytris cortina, Haeckel.
-Pyramidalis, Ehrenberg.
-Phormocyrtis embolum, Haeckel.
-Alacorys heracantha, Haeckel.
-carcinus, Haeckel.
-Cyclalophora getheana, Haeckel.
-pantheon, Haeckel.
-Calocyclas pulica, Haeckel.
-Clathrocyclas domina, Haeckel.
-Hexalatractus fusiformis, Haeckel.
-Theoconus laterna, Haeckel.
-Theocyrtis cylindrica, Haeckel.
-microtheca, Haeckel.
-Theosyringium siphonium, Haeckel.
-Tricolocampe cylindrica, Haeckel.
-polyzona, Haeckel.
-arcta, Haeckel.
-Theocorys ovata, Haeckel.
-sphärophila, Haeckel.
-Lophocorys astrocephala, Haeckel.
+Protympanium primordiale, Haeckel.
+Tetraspyris calcarata, Haeckel.
+Anthospyris aculeata, Haeckel.
+Arachnocalpis sphæroides, Haeckel.
+Cornutella hexagona, Haeckel.
+Tripocyrtis plagoniscus, Haeckel.
+Lamprodiscus coscinodiscus, Ehrenberg.
+Eucecryphalus halicalyptra, Haeckel.
+Lithopera bacca, Ehrenberg.
+Arachnocorys hexaptera, Haeckel.
+Carpocanium irregulare, Haeckel.
+Sethoconus trochus, Haeckel.
+pileus, Haeckel.
+rayianus, Haeckel.
+Sethoconus setosus, Haeckel.
+Sethocyrtis pleuracantha, Haeckel.
+Pterocorys campanula, Haeckel.
+Theopilium tricostatum, Haeckel.
+Theophormis medusa, Haeckel.
+Cannobelos ralymmata, Haeckel.
+Sagoscena debilis, Haeckel.
+Sagmidium tricorne, Haeckel.
+Auloscena gigantea, Haeckel.
+Gazelletta penicillata, Haeckel.
+robusta, Haeckel.
+Polypetta polynema, Haeckel.
+Castanidium willemoesi, Haeckel.
+In addition, the following are recorded in the note-books Oscillatoriaceæ,
+Pyrocystis, Diatoms, Globigerina, Orbulina, Hastigerina, Pulvinulina, Diphyes and
+other Siphonophoræ, Sagitta, Alciopa, Tomopteris, Evadne, Copilia, Saphirina, and
+other Copepods, Hyperids (Cynthia ?), Euphausia, Lucifer, Sergestes and larvæ,
+Halobates, Ianthina, Glaucus, Atlanta, many varieties of Pteropods, Appendicularia,
+Salpa, and small fishes.
+STATION 267.
+Station 267 (Sounding 409), Sandwich Islands to Tahiti (see Chart 38 and
+Diagram 19).
+August 28, 1875; lat. 9° 28' N., long. 150° 49' W.
+Temperature of air at noon, 82°:0; mean for the day, 79°•2.
+Temperature of water :-
 .
->>
+.
+.
+.
+Surface,
+10 fathoms
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+80.0
+77.0
+73.5
+68.4
+61.3
+56.0
+53.6
+52:3
+51.7
+51:4
+51:0
+50.7
+50.3
+50.0
+49.7
+49.4
+49.1
+48.8
+180 fathoms,
+190
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+48.4
+48:1
+47.8
+45.0
+42-5
+40:8
+39.5
+38.5
+37.8
+37.1
+36.6
+36.1
+35.7
+35.4
+35.2
+35.0
+35.0
+>

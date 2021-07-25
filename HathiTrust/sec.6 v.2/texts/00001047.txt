@@ -1,56 +1,77 @@
-HPERATURE ***
-AT DEPTH
-OF 600
-FATHOMS - 3900
-00
 
+I PERATURE OFTE AT DEPTH OF 700 FATHOMS - 38°-1
+00
+10
 40
 30
 20
+Oceanic Circulation. Map 9.
 10
-0
+o
 10
 20
 30
 40
 50
-80
+90
 70
 80
 90
-pl
+100
+110
+120
+130
+140
+150
+180
+BO
+30
+70
 Arctic Circle
-38
-39
-GO
-439
-39°
-42
-38
-8
-374
-363
-39°
-38
-37
+50
+399
 36
+40
+40
+30
+3
+20
+40°
+10
+42
+41
+10
+39
+20
+C
+30
+sze
+39°
+38
+40
+36
+37)
+36
+80
+60
 EXPLANATION OF COLOURING
 Contours showing
-Height of Land"
+Height of Land
+70
 6000 Feet
 3000
 SEA LEVEL
-Loo Fathoms
-500
-Contours showing
-Depth of Seå
+200 Fathoms
+800
 1000
+Contours showing
+Depth of Sed
 1500
 40
 30
 20
 10
-0
+o
 10
 20
 30
@@ -61,5 +82,12 @@ Depth of Seå
 80
 90
 100
-er shown thus
+210
+120
+130
+140
+150
+160
+pr shown thus
 Isothermals below Average shown in Blue thus
+Bartholomew, Edin?

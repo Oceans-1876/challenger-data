@@ -1,125 +1,125 @@
-1372
+1376
 THE VOYAGE OF H.M.S. CHALLENGER.
+var.
 *
+T
 *
+>
+99
 T
-compressa, Studer.
 T
+2
+var.
 S
-T
-"
-T
 S
-T
-T
-T
-* Rhodaræa calicularis (Lamarck). T * Turbinaria patula (Dana). T
-tenuidens, n.sp. T
-peltata (Esper). T
-* Rhodopsammia parallela, Semper. T
-stellulata (Blainville). T
-* Sandalolitha dentata, n.g., n.sp. T Ulophyllia aspera, 1.sp. T
-* Seriutopora aculeata, n.sp. T
-cellulosa, n.sp.
-T
-caliendrum, Ehrenberg.
-cervina (Lamarck).
-T
-HYDROIDA:
-T * Acanthella effusa (Busk). T
-conferta, n.sp
-* Acanthocladium huxleyi (Busk). T
-contortu, Studer.
-T
-* Aglaophenia attenuata, n.sp.
-Cl'assa, n.sp.
-calamus, n.sp.
-T
-gracilis, Dana. T
-T
-coarctata, n.sp.
-hystrix, Dana.
-macgillivrayi (Busk). T
-ocellata, Ehrenberg T * Azygoplon rostratum, n.g., n.sp.
+sp. (?). T
+* Pentaceros productus (Bell),
+OPHIUROIDEA :
+tuberata, nov.
+Amphiura antarctica (Ljungman). S
+turritus, Linck. T
+capensis, Ljungman. S
+constricta, n.sp.
 S
-stellata, n.sp.
+* Pentagonaster astrologorum (Müller and *
+Troschel). S
+depressa (Ljungman). TN
+S
+dilatata, n.sp.
+granularis (Retzius). N
+patagonicus, n.sp. S
+impressa (Ljungman). N
+semilunatus, Linck.
+incana, n.sp.
+S
+* Peribolaster folliculatus, n.g., n.sp.
+S
+josephina, Ljungman.
+* Perknaster fuscus, n.g., n.sp.
+S
+maxima, n.sp.
 T
-* Calamphora parvula, n.g., n.sp.
-valida, Ehrenberg
-* Campanularia insignis, n.sp. N
-* Siderastraa galaxea (Ellis and
-T
-ptychocyathus, n.sp.
-Solander). N
-retroflexa, n.sp.
-* Stephanaria stellata, Verrill. T
-* Cryptolaria pulchella, n.sp.
-Stylophora cellulosa, n.sp. T
-Desmoscyphus acanthocarpus, n.sp.
-digitata (Pallas). T
-gracilis, n.sp.
+* Pontaster hebitus, n.g., n.sp.
 N
-flabellata, n.sp.
-obliquus, n.sp.
+squamata (Delle Chiaje), Sars.
+venustus,
+S
+n.g., n.sp.,
+robusta, nov. Τ Ν
+studeri, Lyman.
+* Porania glaber, n.sp.
+S
+tomentosa, n.sp.
+magellanica, Studer. S
 T
-palmata (Blainville). T
-pectinatus, n.sp.
+spiculata, n.sp.
 ST
-prostrata, Klunzinger. T * Dictyocladium dichotomum, n.g., n.sp. S
-Symphyllia acuta, n.sp. T
-Diplocheilus mirabilis, n.g., n.sp.
+Astronyx loveni, Müller and Troschel.
+* Pseudarchaster intermedius, n.g., n.sp.
+N
+N
+* Astrophyton costosum, Seba. T
+tessellatus, n.g., n.sp.
 S
-sinuosa (Quoy and Gaimard). * Diplocyathus dichotomus, n.g., n.sp.
-T
-* Eudendrium vestitum, n.sp.
-S
-* Synaræa convexa,
-Verrill. T
-* Grammaria insignis, n.sp. S
-* Tichopora tenella, n.g., n.sp.
-T
-magellanica, n.sp.
-S
-* Tichoseris obtusata, n.g., n.sp.
-T
-stentor, n.sp.
-S
-* Trachyphyllia amarantus (Dana). T * Halecium cymiforme, n.sp.
+exiguum, Agassiz. T
+Psilaster acuminatus, n.g., p.sp. S Astrotoma agassizii, Lyman.
 s
-* Tridacophyllia manicina, Dana. T
-dichotomum, n.sp.
-* Trochoseris stokesi, M.-Edwards and
-flexile, n.sp.
-s
-Haime. T
-telescopicum, n.sp.
-S
-* Turbinaria æqualis, n.sp.
+cassiope, n.g., n.sp. T
+* Euryale aspera, Lamarck.
+patagiatus, n.g., n.sp.
 T
-* Halicornaria plumosa, n.sp.
-T
-brassica (Dana). T
-* Hebella striata, n.g., n.sp.
-s
-cinerascens (Ellis and * Heteroplon pluma, n.g., n.sp.
+Gorgonocephalus pourtalesii, Lyman. S
+* Pteraster affinis, Smith. S
+verrucosus (Lamarck).
+militaris, Müller and Troschel.
 S
-Solander) T
-Hypanthea aggregata, n.sp.
+N
+Ophiacantha bidentata (Retzius), Ljung-
+semireticulatus, n.sp.
+N
+* Retaster insignis, n.sp.
+discoidea, n.sp.
+verrucosus, n.sp.
+imago, n.sp.
 s
-crater (Pallas).
-hemispherica, n.sp.
+* Rhipidaster vannipes, n.g., n.sp.
+T
+longidens, n.sp.
+T
+* Solaster endeca (Retzius), Forbes. N
+vivipara, Ljungman. S
+* Stellaster incei, Gray. T
+Ophiactis asperula (Phil.). S
+princeps, n.sp.
+T
+carnea, Ljungman. S
+* Stichaster albulus (Stimpson), Verrill.
+milleri, Lütken,
+N
+quinqueradia, nov.
+aurantiacus (Meyen), Verrill.
+resiliens, n.sp.
+s
+S.
+savignyi (Müller and Troschel).
+felipes, n.sp. S
+T
+polyplas (Müller and Troschel).
+S
+s
+S
 T
 *
-T
 >
 *
-T
-*
-*
 S
-*
-9)
->
-23
+man.
+T
 T
 S
+*
+var.
+T
+*
+T
+sp. (?).

@@ -1,95 +1,106 @@
 SUMMARY OF RESULTS.
-1127
-In addition, the following are recorded in the note-books :-Peridinium (tripos Station 299.
-and two other species), Diatoms, green circular Algæ (Halosphæra ?), small bladder-like
-organisms (Noctiluca ?), Coccospheres, Globigerina, Orbulina, Pulvinulina, Acanthometra,
-Polycystinæ, Challengeridæ, and compound Radiolaria, Infusoria, Medusæ, Siphonophoræ,
-Sagitta, Tomopteris, Aphroditacean larvæ, Planarian larvæ, Cypridina, Hyperids and
-other Amphipods, Euphausia, Heteropods, Pteropods and larvæ, larvæ of Membrani pora,
-Appendicularia. A hump-back whale followed the ship for over an hour, coursing round
-the ship several times, and turning on its back and side frequently when it came to the
-surface ; there were bunches of Cirripeds at the blow-holes, on the dorsal fin, and on some
-parts of the pectoral fins. On the 15th Globigerina were exceedingly abundant in the
-surface-nets, and the pseudopodia were observed ramifying between the calcareous spines,
-and projecting beyond the tips of the latter, as well as forming the bubble-like expansions
-of the float. In the sarcode surrounding the Pulvinulina were numerous small Diatoms,
-Peridinium, Coccospheres, and Infusoria.
-Station 300.
-Station 300 (Sounding 445), Valparaiso to Gulf of Peñas (see Chart 40 and
-Diagram 21).
-December 17, 1875; lat. 33° 42' S., long. 78° 18' W.
-Temperature of air at noon, 62°:8; mean for the day, 61°:3.
-Temperature of water :--
-11:3
-Surface,
-25 fathoms,
-50
-75
-100
-125
-150
-175
-200
-225
-250
-275
-62:5
-57.8
-53:7
-51.2
-49.5
-17:8
-46:3
-15.3
-44:1
-43.4
-42.6
-12:0
-300 fathoms,
-100
-500
-600
-700
-800
-900
-1000
-1100
-1200
-Bottom,
-40:1
-39:4
-38.7
-38:0
-37:4
-36:9
-36.4
-35.9
-35.7
-35.5
-"
-.
-Density at 60° F.:-
-Surface,
-25 fathoms,
-50
-100
-200
-.
-1:02526
-1.02509
-. 1:02512
-. 1.02520
-. 1.02541
-300 fathoms,
-400
-800
-1350
-Bottom,
-1.02535
-1.02532
-1:02552
-1.02563
-1.02543
-.
-Depth, 1375 fathoms; deposit, Globigerina Ooze, containing 54:09 per cent.
-of carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+1131
+Planispirina contraria (d'Orbigny).
+Cornuspira involvens, Reuss.
+STATION 300.
+sp. (?).
+Pelosina sp. (?).
+Saccammina sphærica, Sars (?).
+Hyperammina elongata, Brady.
+ramosa, Brady.
+subnodosa, Brady.
+Marsipella cylindrica, Brady.
+Rhabdammina discreta, Brady.
+Aschemonella catenata (Norman) (?).
+Rhizammina algaformis, Brady.
+Reophax adunca, Brady.
+dentaliniformis, Brady.
+difflugiformis, Brady.
+distans, Brady.
+Haplophragmium agglutinans (d'Orbigny).
+fontinense, Terquem.
+globigerini forme (Parker and
+Jones).
+latidorsatum (Bornemann).
+rotulatum, Brady.
+Thurammina papillata, Drady.
+Hormosina carpenteri, Brady.
+globulifera, Brady.
+normani, Brady.
+Trochammina pauciloculata, Brady.
+Webbina clavata, Jones and Parker.
+Testularia agglutinans, d’Orbigny.
+concava (Karrer).
+quailrilatera, Schwager.
+Virgulina texturata, Brady.
+Bolivina decussata, Brady.
+punctata, d'Orbigny.
+tectilarioides, Reuss (?).
+Cassidulina crassa, d’Orbigny.
+subylobosa, Brady
+Ehrenbergina serrata, Reuss.
+Layena aspera, Reuss.
+desmophora, Rymer Jones.
+formosa, Schwager.
+globosa (Montagu).
+gracilis, Williamson.
+hispida, Reuss.
+lævis (Montagu).
+lineata (Williamson).
+longispina, Brady
+marginata (Walker and Boys).
+orbigyana (Seguenza).
+seminiformis, Schwager.
+seminuda, Brady.
+striata (d'Orbigny).
+sulcata (Walker and Jacob).
+torquata, Brady.
+trigono-marginata, Parker and Jones.
+truncata, Brady.
+sp. (?).
+sp (?).
+Verneuilina pygmæa (Egger).
+Bigenerina capreolus (d'Orbigny).
+robusta, Brady.
+Gaudryina pupoides, d'Orbigny.
+var, chilostoma, Reuss.
+Valvulina conica, Parker and Jones.
+Clavulina communis, d'Orbigny.
+Bulimina buchiana, d'Orbigny.
+elegantissima, d’Orbigny, var. seminua,
+Terquem.
+inflata, Seguenza.
+marginata, d'Orbigny.
+ovata, d’Orbigny.
+pupoides, d'Orbigny.
+pyrula, d'Orbigny.
+Virgulina schreibersiana, Czjzek.
+subdepressa, Brady.
+subsquamosa, Egger.
+Nodosaria communis, d'Orbigny.
+consobrina, d'Orbigny.
+farcimen (Soldani).
+hispida, d'Orbigny, var. sublineata, Brady.
+inflexa, Reuss.
+(Glanolulina) lævigata, d'Orbigny.
+mucronata, Neugeboren.
+plebeia (Reuss).
+raphanus (Linné).
+verruculosa, Neugeboren.
+sp. (1).
+Marginulina glabra, d'Orbigny.
+Cristellaria convergens, Bornemann.
+crepidula (Fichtel and Moll).
+Polymorphina anguta, Egger.
+longicollis, Brady.
+Uvigerina aculeata, d’Orbigny.
+angulosa, Williamson.
+var. spinipes, Brady.
+asperula, Czjzek.
+var. ampullacea, Brady.
+brunnensis, Karrer ().
+canariensis, d'Orbigny.
+interrupta, Brady.
+9
+9)
+99

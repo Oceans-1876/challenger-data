@@ -1,46 +1,71 @@
-1228
+1232
 THE VOYAGE OF H.M.S. CHALLENGER.
+STATION 338.
+SIPHONOPHORÆ (Haeckel, Zool. pt. 77.)
+Calpe gegenbauri, n.sp.
+PTEROPODA (Pelseneer, Zool. pt. 65).
+Cavolinia longirostris (Lesueur).
+SCHIZOPODA (Sars, Zool. pt. 37).
+Thysanopoda tricuspidata,
+M.-Edwards.
+Stylocheiron carinatum, n.g., n.sp.
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Grenacher's pelagic larva.
+The tow-nets at the surface and down to 150 fathoms yielded : Ceratium
+(Peridinium) tripos (in catena), Pyrocystis, Ethmodiscus and other Diatoms,
+Halosphæra, Hastigerina, Pulvinulina menardii, Acanthometræ, Polycystinæ, and
+compound Radiolaria, Medusæ, Siphonophoræ, Sagitta, Tomopteris, Alciopa, Evadne,
+Cypridina, Copilia, Saphirina, and other Copepods, Hyperids, Euphausia, Sergestes,
+small shells (Ianthina ?), Pleuropus [ = Cavolinia] and other Pteropods and larvæ, small
+Cephalopods (Cranchia), Doliolum, and small fishes. The tow-net at the weights
+contained deep-sea Radiolaria and a red deep-sea Amphipod, while the tow-nets at the
+dredge brought up a little ooze.
 1
-STATION 336.
-Distance at noon from Ascension, 1182 miles. Made good 167 miles. No current
-observed.
-Surface Organisms.—Two hauls of the tow-net near the surface yielded much the
-same kind of things as at the previous Station, including Pyrocystis, Sagitta, Copepods,
-and Lucifer.
-ORGANISMS FROM
-SURFACE-NETS.
-STATION 337.
-2
-Station 337 (Sounding 487), Tristan da Cunha to Ascension Island (see Chart 16
+STATION 339.
+Station 339 (Sounding 489), Tristan da Cunha to Ascension Island (see Chart 16
 and Diagram 7).
-March 19, 1876 ; lat. 24° 38' S., long. 13° 36' W.
-Temperature of air at noon, 78°:8; mean for the day, 74°:9.
+March 23, 1876 ; lat. 17° 26' S., long. 13° 52' W.
+Temperature of air at noon, 79°:8; mean for the day, 76°:3.
 Temperature of water :-
-.
 1
+.
 Surface,
-25 fathoms,
+10 fathoms,
+20
+30
+40
 50
-75
+60
+70
+80
+90
 100
-125
-150
-175
+110
+120
+130
+140
+3
+76.0
+75.8
+75.4
+74:3
+72:3
+70.0
+6707
+65.5
+63.5
+61.6
+59.8
+58.0
+56.4
+55.1
+53.8
+150 fathoms,
+160
+170
+180
+190
 200
-225
-250
-77.0
-72.0
-68.2
-65.1
-63.0
-61.0
-59.0
-57.0
-55.0
-53:1
-51.2
-275 fathoms,
 300
 400
 500
@@ -50,45 +75,20 @@ Surface,
 900
 1000
 Bottom,
-49.5
-48.0
-42:0
-39.3
-38.7
-38.4
+52:7
+51.8
+51.0
+50.2
+49.6
+49.0
+43.0
+39.8
+39.5
+39.2
+38.9
+38.6
+38.3
 38.1
-37.9
-37.7
 37.2
->
->
 9
-.
-. 1.02704
-1.02707
-1:02658
-. 1.02639
-.
-.
-Density at 60° F. :-
-Surface,
-100 fathoms,
-. 1.02649
-25 fathoms,
-Bottom,
-50
-Depth, 1240 fathoms ; deposit, Pteropod Ooze, containing 98·47 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 11.30 A.M. shortened and furled sails, and proceeded under steam to sound. At
-noon sounded in 1240 fathoms. Put large dredge over and veered 1600 fathoms. Took
-serial temperatures down to 1000 fathoms. At 4 P.M. commenced heaving in dredge,
-which came up at 5.30 P.M., having probably been only a short time in contact with
-the bottom; the bag contained a very small quantity of the deposit. Made sail.
-Distance at noon from Ascension, 1002 miles. Made good 182 miles. Amount of
-current for the last two days 27 miles, direction S. 51° W.
-The following species is recorded from this Station :-
-FISHES (Günther, Zool. pt. 57).
-Gonostoma microdon, n.sp. One specimen ; for distribution see Station 23.
-ANIMAL FROM
-DREDGE.
-mitindows* *** *tematu
+"

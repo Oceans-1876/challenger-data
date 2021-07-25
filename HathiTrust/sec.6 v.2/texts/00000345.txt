@@ -1,75 +1,41 @@
-1
 SUMMARY OF RESULTS.
-1083
-Density at 60° F. :-
-STATION 283.
-.
-Surface,
-25 fathoms,
-50
-75
-100
-1.02633
-. 1.02632
-. 1.02617
-: 1.02617
-. 1:02617
-200 fathoms,
-300
-400
-Bottom,
-1.02595
-1.02561
-. 1.02538
-. 1.02583
-Depth, 2075 fathoms ; deposit, Globigerina Ooze, containing 46:61 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 8 A.M. got up steam.
-At 9 A.M. shortened and furled sails. At 10 A.M. sounded
-in 2075 fathoms. Nearly a foot of the deposit came up in the tube, the upper
-surface
-being a light yellow Globigerina Ooze; passing down the tube the ooze became gradually
-darker, till at the bottom there was a dark chocolate coloured clay containing rounded
-pellets of manganese and many yellow crystals of phillipsite. Obtained serial temperatures
-down to 1500 fathoms. At 12.55 P.M. completed observations and made sail.
-A large
-albatross (Diomedea exulans), large black or brown petrels, another petrel of a lighter
-colour, and five or six apparently land-birds, like plovers, were seen.
-Distance at noon from Valparaiso, 3854 miles ; from Oparo Island, 101 miles; from
-Lancaster or Neilson Reef, about 70 miles. Made good 161 miles. Amount of current
-23 miles, direction N. 41° E.
-Surface Organisms.—The following are recorded in the note-books from the OrganiSMS FROM
-surface at this Station - Peridinium, Pyrocystis, Ethmodiscus and other Diatoms, SURFACE-NETS.
-Coccospheres, Rhabdospheres, Globigerina, Acanthometræ, Polycystinæ, and other
-Radiolaria, Infusoria, Siphonophoræ, Sagitta, Alciopa, Tomopteris, Cypridina, Copilia,
-Saphirina, and other Copepods, Evadne, Euphausia, Lucifer, small Lamellibranch
-shells, Salpa, Appendicularia.
-Station 284 (Sounding 429), Tahiti to Valparaiso (see Chart 38 and Diagram 19). Station 234.
-October 11, 1875; lat. 28° 22' S., long. 141° 22' W.
-Temperature of air at noon, 67°8; mean for the day, 66°:5.
-Temperature of water :-
-0
-Surface,
-25 fathoms,
-50
-75
-100
-125
-68.0
-67.4
-66.6
-65.0
-63.2
-61.0
-150 fathoms,
-175
-200
-225
-250
-275
-59.0
-56.8
-546
-52.5
-50.2
-48:1
+1087
+contained carbonate of lime in the upper layers in the form of pelagic Foraminifera, but Station 285.
+that in the trawl did not show any effervescence when treated with dilute acid.
+There were between two and three bushels of manganese nodules. The great majority
+of these were of small size, from 1 to 2.5 cm. in diameter, resembling a lot of marbles.
+One large nodule, however, with a large white-coloured nucleus, appeared to have been
+broken to pieces in the trawl. The white nucleus had at one time been a portion of a deep-
+sea deposit, but not like the dark-coloured clay that came up in the trawl, for it contained
+numerous casts of Globigerina shells, along with many angular fragments of basic volcanic
+glass. The inner concentric layers of the great majority of the nodules formed light
+brown coloured nuclei, which have frequently been compared to coprolites by geologists
+who have examined them. These lighter layers are less than 1 mm. in diameter, and are
+arranged concentrically around altered pieces of volcanic glass, sharks' teeth or their
+fragments. The outer layers are of a darker colour, and contain much more manganese
+than the inner ones. The typical nodules contain about 37 per cent. of manganese
+peroxide and 24 per cent. of ferric oxide. The structure of bone can be readily recognised
+in some of the nodules, while others appear to have been formed upon fragments of bone,
+though now all traces of the bone have disappeared.
+Altogether about fifty petrous and tympanic bones of Cetaceans were procured,
+belonging to the genera Balænoptera, Mesoplodon, Delphinus, Globiocephalus, and
+Baleen whales. Many of these were deeply imbedded in concentric layers of manganese,
+while in other cases large portions of the bone had been removed and substituted by
+depositions of manganese.
+More than fifteen hundred sharks' teeth and fragments, over 1 cm. in length, were
+present, belonging to the genera Carcharodon, Oxyrhina, Lamna, Corax or Galeus or
+Hemipristis, while immense numbers of smaller teeth and fragments were found in the
+deposit or in the nodules. Some of the larger teeth were surrounded with layers of
+manganese, but, as a rule, they were not so deeply imbedded as the smaller teeth and
+fragments. The internal portions of the teeth were generally filled with deposits of
+manganese ; the vaso-dentine and osteo-dentine had been entirely removed, the hard
+external enamel-like dentine alone remaining.
+The nuclei of the nodules were occasionally pieces of volcanic rock; most of these
+had undergone considerable alteration, the glassy base having been converted into
+palagonite. Many of the specimens showed agate-like bands. These palagonitic layers
+were soft and could be cut with a knife like cheese when taken from the sea, but they
+have since become quite brittle. Among the nodules were several bomb-like fragments,
+about 1 cm. in diameter, with a hard thin exterior, and a hollow interior partly filled
+with ferruginous matters. Some of the nodules contained hollow spaces, in which the
+manganese assumed a radiate, crypto-crystalline, structure. The outsides of the nodules
+were generally covered with Rhizopod tubes, or the stolons of Hydroids, and these

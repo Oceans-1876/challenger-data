@@ -1,95 +1,105 @@
-1422
+1424
 THE VOYAGE OF H.M.S. CHALLENGER.
-Notes on the Bathymetrical Distribution.—Of the species in the above list, 654
-species (or 15 per cent.) were taken at more than one Station or locality (when taken
-at more than two Stations the number of times is indicated within brackets after the
-name), viz.:-
-Cacospongia collectrix.
-Luffaria variabilis.
-Psammopemma densum.
-.
-Amphilectus pilosus.
-Echinoclathria carteri.
-Halichondria panicea.
-solida.
-Myilla mariana.
-Pachychalina fibrosa (3).
-Petrosia similis.
-Rhizochalina fistulosa.
-putridosa (3)
-Stylocoriyla stipitata (3).
-Suberites carnosus.
-Tedania digitata.
-Tentorium semisuberites.
-Anthastra communis.
-Azorica pfeifferæ.
-Craniella simillima (3).
-Disyringa dissimilis.
-Myriastra clavosa (3).
-Tethya ingalli.
-seychellensis.
-Heteropegma nodus gordii.
-Leucilla uter.
-Leuconia dura.
-multiformis.
-Sycon arcticum.
-raphanus.
-Ellisella maculata.
-Heliopora cerulea.
-Calliactis polypus.
-Dusactis crassicormit.
-Sphenopus arenaceus.
-marsupialis.
-Balanophyllia bairdiana.
-Flabellum stokesi.
-Madracis asperula (3).
-Paracyathus de filippii.
-Agaricia fragilis.
-Euphyllia glabrescens.
-Fungia confertifolia.
-patella (3).
-paumotensis.
-Fungia repanda (3).
-Goniastræa quoyi.
-Madrepora parilis.
-pocillifera (3).
-rosacea.
-securis.
-Manicina areolata.
-Millepora alcicornis.
-gonagra (3).
-Montipora levis.
-Oculina diffusa.
-caricosa.
-Pocillopora acuta (3).
-brevicornis.
-cespitosa.
-Porites palmata.
-tenuis.
-Rhodaræa tenuidens.
-Rhodopsammia parallela.
-Seriatopora caliendrum.
-cervina.
-Stephanaria stellata.
-Stylophora digitata.
-palmata.
-Tridacophyllia manicina (3).
-Turbinaria crater (3).
-Acanthella effusa.
-Acanthoclaclium huxleyi.
-Desmoscyphus obliquus.
-pectinatus.
-Halecium flexile.
-Ilia pristis.
-Lytocarpus spectabilis.
-Obelia geniculata.
-Actinometra corpingeri.
-fimbriata.
-nobilis.
-parvicirra (6)
-paucicirra (3)
-pertinata.
-solaris.
-Antedon milberti.
-variipinna.
-Promachocrinus kerguelenensis.
+>
+9
+Cucumaria mirabilis.
+serrata.
+Holothuria atra.
+impatiens.
+martensii.
+monacaria.
+vagabunda (3)
+Psolus ephippifer (3).
+incertus.
+Stichopus chloronotus.
+Synapta beselii (3).
+distincta.
+Cerebratulus corrugatus.
+truncatus (3)
+Drepanophorus serraticollis.
+Chloeia flava.
+Eunice aphroditois.
+erstedi.
+vittata.
+Eurythoë pacifica
+Hermadion kerguelensis.
+Hermodice carunculata (3).
+Hyalinacia tubicola.
+Lætmonice producta (4).
+Lumbriconereis heteropoda.
+Neottis antarctica (4).
+Nephthys trissophyllus.
+Nereis (Platynereis) eatoni (4).
+Serpula narconensis (3).
+Thalenessa oculata.
+Myzostoma gigas.
+horologium.
+Bairdia amygdaloides (5).
+crossheiana (3)
+foveolata (5).
+Cythere audei.
+canaliculata.
+cancellata.
+convoluta.
+crispata (3).
+cymba.
+darwini.
+fungoides.
+goujoni (3).
+kerguelenensis (5)
+obtusalata.
+quadriaculeata.
+rastromarginata.
+reussi (3).
+scabrocuneata (3).
+Cythere scutigera.
+tricristata.
+Cytherella cavernosa.
+polita.
+semitalis (4).
+Loxoconcha australis.
+avellana.
+pumicosa.
+sinensis.
+Macrocypris maculata (5).
+orientalis.
+tumida.
+Paracypris polita.
+Phlyctenophora zealandica (3).
+Pontocypris attenuata.
+faba.
+subreniformis.
+Sclerochilus contortus (3).
+Xestoleberis curta (4).
+granulosa.
+Balanus amaryllis (3).
+trigonus.
+Chosroës incisus.
+Elasmopus subcarinata,
+Liljeborgia consanguinea.
+Arcturus furcatus.
+Ceratocephalus grayanus.
+Serolis pallida.
+schythei (5).
+septemcarinata.
+tuberculata.
+Gonodactylus chiragra (3).
+Pseudosquilla ciliata.
+Squilla nepa (4).
+Alpheus avarus (4).
+crinitus.
+longimanus.
+minus,
+Arctus immaturus.
+Artemesia longinaris.
+Bithynis lar (4).
+Crangon affinis.
+Leptochela robusta.
+Nauticaris marionis.
+Codeopus duplex.
+Paralpheus diversimanus.
+Penæus anchoralis (4).
+canaliculatus (3)
+fissurus.
+gracilis.
+2

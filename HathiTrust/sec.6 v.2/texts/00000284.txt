@@ -1,100 +1,113 @@
-1032
+1034
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 270.
-:p
->
-Sethocapsa pyriformis, Haeckel.
-macroceros, Haeckel.
-Dictyoceras insectum, Haeckel.
-Pterocanium orcinum, Haeckel.
-Podoc yrtis tripodiscus, Haeckel.
-costata, Haeckel.
-scaphopodia, Haeckel.
-lithoconus, Haeckel.
-Theopera fusiformis, Haeckel.
-Cycladophora pantheon, Haeckel.
-Theocyrtis microtheca, Haeckel.
-Tricolocampe cylindrica, Haeckel.
-polyzona, Haeckel.
-urnula, Haeckel.
-arcta, Haeckel.
-Lophocorys bovicornis, Haeckel.
-Theocampe sphærothorax, Haeckel.
-Theocapsa mülleri, Haeckel.
-daruinii, Haeckel.
-Lithost robus hexastichus, Haeckel.
-Lithostrobus seriatus, Haeckel.
-Artostrobus articulatus, Haeckel.
-Lithomitra nodosaria, Haeckel.
-Eucyrtidium hexagonatum, Haeckel.
-teuscheri, Haeckel.
-stöhrii, Haeckel.
-Siphocampe erucosa, Haeckel.
-Spirocyrtis cornutella, Haeckel.
-merospira, Haeckel.
-Spirocampe collispira, Haeckel.
-Stichocapsa quadrigata, Haeckel.
-Mesocena stellata, Haeckel.
-Dictyocha triommata, Ehrenberg.
-Distephanus pentasterias, Haeckel.
-octonarius, Haeckel.
-Cannosphæra pacifica, Haeckel.
-Challengeron monodon, Haeckel.
-crosbiei, Haeckel.
-Caelodendrum serratum, Haeckel.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms. The following species are recorded from the surface at this
-Station :
-RADIOLARIA (Haeckel, Zool., pt. 40).
-Sphærozoum stellatum, Haeckel.
-Sethodiscus phacoides, Haeckel.
-Plegmosphæra pachyplegma, Haeckel.
-Hymeniastrum euclidus, Haeckel.
-Collosphæra pyriformis, Haeckel (?).
-Myelastrum dodecaceros, Haeckel.
-polyedra, Haeckel.
-Hexapyle dodecantha, Haeckel,
-Siphonosphæra macrosiphonia, Haeckel.
-Pylodiscus triangularis, Haeckel.
-Saturnalis annularis, Haeckel.
-Spongobrachium lanceolatum, Haeckel.
-Hexalonche xenophanis, Haeckel.
-Larnacantha quadricornis, Haeckel.
-Hecacontium phænaxonium, Haeckel.
-Amphipyle octoceros, Haeckel.
-acophænum, Haeckel.
-Tetrapyle quadricornis, Haeckel.
-papillosum, Haeckel.
-quadrigata, Haeckel,
-Acanthosphæra insignis, Haeckel.
-Octopyle sexangulata, Haeckel.
-capillaris, Haeckel.
-Pylonium quadricorne, Haeckel.
-Heliosphæra polygonuria, Haeckel.
-Lithelius solaris, Haeckel.
-Cladococcus pinetum, Haeckel.
-Phorticium spironium, Haeckel.
-Haliomma datura, Haeckel.
-Actinelius primordialis, Haeckel.
-wyvillei, Haeckel.
-Acanthometron cylindricum, Haeckel.
-Heliosoma radians, Haeckel.
-bulbiferum, Haeckel.
-Elatomma pinetum, Haeckel.
-Zygacantha costata, Haeckel.
-Diplosphæra hexagonalis, Haeckel.
-Acanthonia denticulata, Haeckel.
-Actinomma hexagonium, Haeckel.
-diplopyramis, Haeckel.
-capillaceum, Haeckel.
-Astrolonche bicruciata, Haeckel.
-Arachnosphæra dolichacantha, Haeckel.
-Xiphacantha
-falcata, Haeckel.
-Rhizosphæra serrata, Haeckel.
-Amphilonche conica, Haeckel.
-Druppatractus hippocampus, Haeckel.
-acufera, Haeckel.
-Cypassis puella, Haeckel.
-Acantholonche amphipolaris, Haeckel.
+STATION 271.
+Station 271 (Sounding 413), Sandwich Islands to Tahiti (see Chart 38 and
+Diagram 19).
+September 6, 1875 ; lat. 0° 33' S., long. 151° 34' W.
+Temperature of air at noon, 78°:3; mean for the day, 77°:3.
+Temperature of water :-
+.
+Surface,
+10 fathoms,
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+78.7
+77.0
+76.2
+76.2
+76.2
+76.2
+76.2
+74.5
+68.8
+63.2
+59.4
+57.0
+56.0
+55.3
+54.7
+54:1
+53:4
+52.8
+180 fathoms,
+190
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+52.2
+51.6
+51.0
+46.5
+42.9
+40:7
+39.5
+38.7
+38.2
+37.7
+37.2
+36.7
+36.3
+36:1
+35.9
+35.7
+35.0
+99
+Density at 60° F.:-
+Surface,
+25 fathoms,
+50
+100
+200
+.
+. 1.02661
+1.02625
+. 1.02638
+1:02622
+. 1.02588
+400 fathoms,
+800
+1975
+Bottom,
+. 1.02577
+1.02591
+. 1.02594
+. 1.02587
+.
+Depth, 2425 fathoms; deposit, Globigerina Ooze, containing 81.27 per cent. of
+carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.30 A.M. shortened and furled sails, and got up steam to sound. At 5.30 A. M.
+sounded in 2425 fathoms. It is to be noted that in this and the previous sounding
+there was a greater abundance of carbonate of lime organisms than might be expected at
+such great depths, and this seems to be connected with the large number of pelagic
+Foraminifera and Pteropods found on the surface in this locality in the equatorial and
+counter equatorial streams. At 7.30 A.m. put over trawl. Obtained serial temperatures
+down to 1500 fathoms. At 1 P.M. commenced heaving in trawl, which came up at 4 P.M.
+with numerous specimens. At 4.30 P.M. made all plain sail.
+Venus Point, Tahiti, distant at noon, 1020 miles. Made good 94 miles. Amount of
+current 41 miles, direction S. 81° W.

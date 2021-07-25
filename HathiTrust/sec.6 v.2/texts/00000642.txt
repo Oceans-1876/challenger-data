@@ -1,99 +1,131 @@
-1362
+1366
 THE VOYAGE OF H.M.S. CHALLENGER.
-7. ANIMALS OBTAINED IN THE DREDGINGS AND TRAWLINGS IN DEPTHS
-UNDER 100 FATHOMS.
-genera.
-The Challenger dredged or trawled in shallow water less than 100 fathoms at about
-seventy stations or localities. It is impossible to estimate the number of individual
-specimens procured, but they represent about 4400 species, belonging to about 1500
-The total number of species and genera actually described and recorded in the
-Zoological Reports amounts to about 4250 species, and about 1440 genera, of which
-1527 species (or 36 per cent.) and 132 genera (or 9 per cent.) are new to science, as
-shown in the following list. Those species taken by the Challenger in this zone
-only (numbering 3900 species, or 92 per cent.) are indicated by an asterisk, thus *
-The geographical distribution of the species is indicated by the heavy letters S, T,
-and N, used to denote that the species was taken south of the tropic of Capricorn (S),
-between the tropics of Capricorn and Cancer (T), or north of the tropic of Cancer (N).
 T
 T
+S
+>
+crassa
 T
-N
-20
 S
 T
 T
 T
-KERATOSA :
-Psammopemma porosum, n.sp.
 T
-* Cacospongia amorpha, n.sp.
-* Spongelia horrida, Selenka.
-collectrix (Schulze).
-TN
-pallescens, Schmidt.
-compacta, n.sp.
 T
-spinifera, Schulze. S
-dendroides, n.sp.
-T * Verongia hirsuta, Ilyatt.
-irregularis, n.sp.
 T
-murrayi, n.sp.
-MONAXONIDA :
-oligoceras, n.sp.
-* Acanthella pulcherrima, n.sp.
-T
-tuberculata, n.sp.
-S
-(?) stipitata, Carter. T
-vesiculifera, n.sp.
-s
-Acarnus ternatus, Ridley. T
-* Carteriospongia otahitica (Esper). Agelas mauritianus (Carter). s
-radiata, Hyatt.
-Amphilectus apollinis, n.sp.
-* Coscinoderma altum, n.sp.
-S
-ceratosus, n.sp.
-denticulatum, n.sp.
-pilosus, n.sp.
-S
-Euspongia officinalis (Linné), var. lobosa, * Artemisina suberitoides, Vosmaer.
-T
-* Axinella arborescens, n.sp.
-* Hippospongia anomala, n.sp. T
-bulfourensis, n.sp.
-s
-mauritiana (Hyatt). T
-echidnæa, Ridley.
-* Ianthella flabelliformis (Pallas).
-fibrosa, n.sp.
-s
-* Luffaria variabilis, n.sp.
-(?) lunacharta, n.sp.
-* Psammoclema foliaceum, n.sp.
-mariana, n.sp.
-ramosum, Marshall.
-monticularis, n.sp.
-vosmaeri, n.sp.
-T
-(?) paradoxa, n.sp.
-* Psammopemma densum, Marshall. SN
-reticulata, n.sp.
-s
-S
-T
-N
 nov.
+T
+* Echinogorgia pseudosassapo, Kölliker.
+T
+Platycaulos danielsseni, n.g., n.sp.
+* Plezaura valenciennesi, n.sp. N
+* Echinomuricea indomalaccensis, Ridley. * Plexaurella philippinensis, n.sp.
+T
+* Plexauroides prælonga (Ridley). T
+* Elasmogorgia filiformis, n.g., n.sp.
+T Primnoella australasia, Gray. S
+* Ellisella maculata, Studer.
 S
 T
-T
-T
-T
-S
+* Primnoisis ambigua, n.g., n.sp.
 s
-2
+* Eunicella papillosa (Esper), Verrill.
+sparsa, n.g., n.sp.
+Euplexaura parciclados, n.sp. N * Pseudoplexaura
+(Ellis and
+pinnata, n.sp.
+N
+Solander). N
+* Gorgonia flabellum, Linné. N
+Sarcophytum ambiguum, n.sp.
+* Heliopora cærulea, Blainville. T
+atlanticum, n.sp.
+* Iciligorgia orientalis, Ridley.
+glaucum, Quoy
+and
+Gaimard. T
+* Juncella gemmacea (Valenciennes). T
+juncea (Pallas), var, alba, nov.
+philippinensis, n.sp.
+tongatabuensis, n.sp.
+Leptogorgia purpurea (Pallas).
+Maren-
+S T
+trocheliophorum,
+torresia, n.sp.
+zeller, var. amboinense,
+Lobophytum marenzelleri, n.sp.
 T
+* Lophogorgia flammea (Ellis and * Scleronephthya pustulosa, n.g., n.sp.
+Solander). S
+Siphonogorgia köllikeri, n.sp. T
+* Melitodes dichotoma (Pallas). T
+pallida, n.sp.
+esperi, n.sp.
+T
+pendula, n.sp.
+fragilis, n.sp.
+T
+Spongodes anguina, n.sp.
+T
+bicolor, n.sp.
+T
+philippinensis, n.sp. T
+carnea, n.sp.
+T
+T
+cervicornis, n.sp.
+T
+rugosa, n.sp.
 S
-09
+coronata, n.sp.
 T
+sinuatů, n.sp.
+T
+corymbosa, n.sp. T
+Mopsea dichotoma (Linné).
+dendrophyta, n.sp.
+T
+encrinula (Lamarck).
+digitata, n.sp.
+* Muricea bicolor, n.sp. T
+florida (Esper). T
+* Muricella crassa, n.sp.
+heterocyathus, n.sp.
+T
+gracilis, n.sp.
+macrospina, p.sp.
+T
+umbraticoides, Studer.
+monticulosa, n.sp.
+T
+* Paramuricea æquatorialis, n.sp. T
+nephthyæformis, n.sp.
+* Paranephthya capitulifera, n.g., n.sp.
+pustulosa, n.sp.
+spicata, n.sp.
+* Parisis australis, n.sp.
+S
+spinosa, Gray. T
+* Placogorgia atlantica, n.g., n.sp.
+T
+umbellata, n.sp.
+T
+T
+T
+lævis, n.sp.
+rubeola, n.sp.
+>
+02
+S
+T
+T
+T
+>>
+T
+T
+T
+T
+T
+T
+2

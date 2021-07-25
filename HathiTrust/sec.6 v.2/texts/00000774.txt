@@ -1,182 +1,183 @@
-1492
+1496
 THE VOYAGE OF H.M.S. CHALLENGER.
-Coscinodiscus-continued.
-impolitus, 516.
-janischii, 425, 931, 938, 1119.
-var. arafurensis, 733, 760,
-1119.
-kutzingii, 220, 514, 931.
-var. glacialis, 443, 516, 517.
-lentiginosus, 403, 424, 443, 481,
-493, 515, 517, 1028.
-var, maculata, 515.
-leptopus, 198, 278, 760, 812,
-888, 892, 904, 938, 950, 974,
-1012, 1028, 1043.
-lineatus, 135, 220, 264, 278, 287,
-303, 319, 403, 443, 514, 515,
-517, 733, 892, 904, 931, 938,
-950, 972, 1028, 1119.
-forma major, 972.
-lunæ, 515, 517.
-margaritaceus, 515, 517.
-marginatus, 220, 278, 287, 516,
-812, 889, 892, 911, 938, 950,
-972, 974, 1012, 1028, 1119.
-minor, 516, 930, 1012, 1119.
-mölleri,
-var. antarctica, 515.
-naviculoides, 1028.
-nitidulus, 191, 198, 812.
-nitidus, 130, 135, 191, 198, 278,
-287, 303, 812, 904, 938.
-var, sparsa, 287.
-nobilis, 733, 911.
-nodulifer, 191, 198, 220, 264,
-278, 287, 303, 319, 347, 405,
-424, 443, 733, 760, 812, 889,
-892, 931, 938, 950, 1012, 1028,
-1043.
-normanni, 220, 514, 516, 733,
-889, 911, 931.
-obnubilus, 198.
-obovatus, 938, 1013.
-obscurus, 220, 760, 889, 938,
-1013, 1043, 1119.
-var, floralis, 938.
-oculus-iridis, 135, 198, 220, 287,
-303, 514, 516, 517, 733, 760,
-904, 911, 931, 938, 950, 1028,
-1119.
-var. loculifera, 911, 938.
-papuanus, 733.
-patellæformis, 1028.
-perforatus, 911.
-var. cellulosa, 481.
-polyacanthus, 889, 972.
-radiatus, 130, 135, 191, 198, 220,
-253, 264, 278, 287, 303, 319,
-347, 405, 424, 481, 515, 733,
-760, 812, 889, 904, 911, 931,
-938, 950, 972, 974, 1012, 1028,
-1119.
-Ooscinodiscus radiatus-continued.
-var. media, 889, 892, 904,
-938, 950, 972, 1028.
-var.minor, 198, 287, 424,904.
-radiosus, 443, 938, 1028.
-var. kerguelensis, 481.
-reniformis, 812.
-repleta, 514.
-rex, 760, 845, 889, 892, 911,
-938, 972, 1028.
-robustus, 220, 515, 938, 1028.
-var, minor, 515.
-rothii, 443, 1028.
-rotula, 516.
-rudis, 1013, 1028.
-stellaris, 516.
-sublineatus, 974.
-subtilis, 191, 198, 220, 278,
-287, 515, 517, 733, 812, 904,
-931, 938, 950, 974, 1028,
-1119.
-var. glacialis, 514, 515.
-symbolophorus, 443, 974.
-tuberculatus, 287.
-var. antarctica, 515.
-var. excentrica, 515.
-tumidus, 264, 443, 515, 517,
-1028.
-var. fasciculata, 515.
-zonulatus, 931.
-Coscinomma,
-amphisiphon, 1044.
-ectosiphon, 980.
-endosiphon, 1095.
-macrosiphon, 1044, 1061.
-Cosmasterias (sce Asterias).
-Cosmonotus,
-grayii, 763, 1388.
-Cossyphus,
-rufus, 340.
-Costellaria (sce Mitra).
-Cottaldia,
-forbesiana, 633, 1336.
-Cottus, 223.
-bathybius, 919, 1324.
-Cranchia, 320, 321, 322, 327, 334, 382,
-430, 450, 664, 793, 799, 1009,
-1232.
-(Liocranchia),
-reinhardtii, 333, 1297.
-Crangon, 604, 772, 915, 1434.
-affinis, 908, 913, 1387, 1424.
-vulgaris, 924, 1387.
-Crania, 194, 1352.
-Craniella,
-carteri, 372, 1364.
-pulchra, 547, 1329.
-schmidtii, 171, 1329.
-simillima, 554, 690, 822, 1364,
-1422.
-Cranopsis (see Puncturella).
-Craspedodiscus,
-coscinodiscus, 939, 1028.
-groveanus, 1028.
-stella, 911.
-Craspidaster,
-hesperus, 785, 794, 1375, 1423.
-Crassatella,
-aurora, 540, 1395.
-parva, 174, 1343.
-rhomboides, 704, 727, 1395, 1426.
-torresi, 727, 1395.
-Crassispira (see Pleurotoma).
-Crateromorpha,
-megeri, 809, 1365.
-murrayi, 744, 1330.
-thierfelderi, 744, 1330.
-tumida, 752, 1330.
-Crenella, 1452.
-marionensis, 438, 1343.
-Crepidula,
-aculeata, 569, 910, 1400, 1426,
-1447.
-dilatata, 1178, 1400.
-fornicata, 312, 1400.
-immersa, 542, 1400.
-onyx, 396, 1400.
-Creseis (sce Clio).
-Cribrella, 399, 459, 1444, 1450.
-compacta, 591, 1334.
-obesa, 1160, 1175, 1334, 1358,
-1375.
-oculata, 217, 221, 224, 1303,
-1313, 1375, 1423.
-ornata, 407, 1375.
-præstans, 458, 1334.
-sanguinolenta, 399.
-simplex, 393, 399, 433, 458,
-1334, 1355, 1358, 1375, 1423.
-var. granulosa, 462, 1375.
-sufflata, 613, 1317.
-Cribrilina, 1451.
-labiosa,
-var. fragilis, 414, 1411.
-latimarginata, 1191, 1323.
-monoceros, 440, 572, 978, 1138,
-1153, 1170, 1179, 1191, 1280,
-1282, 1323, 1326, 1327, 1351,
-1360, 1411, 1427, 1447.
-philomela, 440, 1411, 1427.
-var. adnata, 440, 491, 1411.
-radiata, 276, 398, 1351, 1360,
-1411, 1449.
-Crisia,
-acropora, 534, 1411.
-acuminata, 1192, 1323.
-biciliata, 398, 1309, 1323, 1351.
-conferta, 313, 550, 1351, 1360,
-1411.
-cylindrica, 398, 1351.
+Cythere—continued.
+canaliculata, 538, 558, 1383,
+1424.
+cancellata, 625, 696, 1383, 1424.
+circumdentata, 962, 1066, 1286,
+1288.
+clavigera, 558, 1383.
+convoluta, 625, 996, 1383, 1424.
+craticula, 410, 1383.
+cribriformis, 795, 1383.
+crispata, 558, 696, 795, 1383,
+1424.
+cristatella, 697, 1383.
+cumulus, 558, 1383.
+curvicostata, 697, 1383.
+cymba, 795, 913, 1383, 1424.
+cytheropteroides, 420, 1339.
+darwini, 795, 913, 1383, 1424.
+dasyderma, 144, 259, 293, 358,
+446, 509, 578, 594, 683, 742,
+855, 962, 1111, 1129, 1135,
+1143, 1161, 1182, 1219, 1224,
+1246, 1279, 1280, 1281, 1282,
+1286, 1288, 1289, 1290, 1295,
+1298, 1299, 1300, 1306, 1311,
+1312, 1313, 1319, 1326, 1339,
+1356.
+demissa, 558, 1383.
+dictyon, 173, 253, 259, 266, 271,
+279, 282, 350, 358, 446, 485,
+509, 578, 742, 852, 855, 875,
+962, 1078, 1111, 1129, 1135,
+1143, 1152, 1219, 1224, 1279,
+1280, 1281, 1282, 1286, 1288,
+1289, 1290, 1295, 1298, 1299,
+1300, 1301, 1306, 1311, 1312,
+1313, 1319, 1324, 1326, 1327,
+1339, 1356, 1358, 1383.
+dorsoserrata, 1224, 1306.
+ericea, 350, 1320.
+euplectella, 722, 1383.
+exilis, 410, 1383.
+falklandi, 1176, 1383.
+flabellicostata, 410, 1383.
+flos-cardui, 996, 1383.
+fortificata, 1071.
+foveolata, 466, 189, 1339, 1358,
+1383.
+fulvotincta, 1176, 1383.
+fungoides, 193, 697, 722, 1339,
+1358, 1383, 1424.
+goujoni, 558, 697, 795, 1383,
+1424.
+hodgii, 913, 1383.
+impluta, 394, 1176, 1339, 1358,
+1383.
+inconspicua, 682, 1339.
+irpex, 266, 282, 1224, 1306,
+1311, 1447.
+irrorata 860, 1383.
+Cythere-continued.
+kerguelenensis, 436, 466, 489,
+538, 558, 1383, 1424.
+lactea, 1071.
+laganella, 682, 1339.
+lauta, 697, 1383.
+lepralioides, 410, 420, 1339, 1358,
+1383.
+lubbockiana, 696, 1383.
+melobesioides, 697, 1383.
+moseleyi, 1176, 1383.
+murrayana, 597, 1383.
+normani, 485, 1111, 1295, 1300,
+1339.
+obtusalata, 538, 860, 1383, 1424.
+ovalis, 696, 1383.
+packardi, 697, 1383.
+papuensis, 852, 1383.
+parallelogramma, 436, 1339.
+patagoniensis, 1152, 1339.
+polytrema, 436, 1339.
+prava, 860, 1383.
+pyriformis, 350, 1320.
+quadriaculeata, 913, 996, 1383,
+1424.
+radula, 742, 1320.
+rastromarginata, 538, 594, 996,
+1339, 1358, 1383, 1424.
+reussi, 697, 996, 1169, 1383, 1424.
+sabulosa, 697, 1383.
+scabrocuneata, 538, 597, 913,
+1383, 1424, 1447.
+scalaris, 683, 1143, 1339, 1356.
+scintillulata, 1169, 1383.
+scutigera, 594, 763, 852, 1129,
+1306, 1313, 1339, 1358, 1383,
+1424.
+securifer, 436, 1339.
+serratula, 173, 293, 1224, 1306,
+1311, 1313, 1339.
+speyeri, 308, 1242, 1306, 1313,
+1339.
+squalidentata, 1199, 1295.
+stimpsoni, 1270, 1383.
+stolonifera, 410, 1129, 1306,
+1313, 1383.
+subrufa, 436, 466, 1339, 1358,
+1383.
+suhmi, 436, 947, 1286, 1290,
+1339, 1447.
+sulcato-perforata, 1129, 1306.
+tenera, 1270, 1383.
+tetrica, 697, 1383.
+torresi, 682, 1339.
+tricristata, 558, 860, 1383, 1424.
+velivola, 722, 1383.
+vellicata, 558, 1383.
+viminea, 446, 1306.
+wyville-thomsoni, 460, 484, 489,
+623, 1.339, 1356, 1359, 1383.
+Cytherea,
+(Callista),
+chione, 127, 1395.
+disrupta, 563, 1395.
+lilacina, 820, 1395.
+multistriata, 598, 1395.
+roseotincta, 821, 1395.
+rutila, 540, 1395.
+(Caryatis),
+coxeni, 703, 1395.
+hebræa, 820, 1395.
+regularis, 703, 726, 1395, 1426.
+rostrata, 1194, 1395.
+(Dione),
+philippinarum, 650, 757, 1075,
+1395, 1426.
+Cytherella, 1152, 1339.
+cavernosa, 538, 697, 1383, 1424.
+cingulata, 697, 722, 795.
+cribrosa, 625, 1383.
+dromedaria, 410, 1383.
+irregularis, 193, 1339.
+lata, 173, 271, 350, 683, 742,
+1320, 1324, 1326, 1339, 1356.
+latimarginata, 683, 1339.
+polita, 597, 1194, 1383, 1424.
+pulchra, 193, 559, 594, 763, 1242,
+1339, 1356, 1359, 1383.
+punctata, 394, 559, 594, 742,
+1143, 1320, 1326, 1327, 1339,
+1356, 1359, 1383.
+semitalis, 697, 722, 852, 860,
+1384, 1424.
+truncata, 683, 1339.
+venusta, 996, 1384.
+Cytheridea,
+spinulosa, 763, 1071, 1339, 1359,
+1384.
+Cytherideis, 742, 1320.
+lævata, 490, 1384.
+Cytheropteron,
+abyssorum, 528, 1279.
+angustatum, 467, 683, 1339,
+1359, 1384.
+assimile, 467, 489, 1339, 1359,
+1384.
+fenestratum, 467, 1224, 1306
+1313, 1339.
+intermedium, 1270, 1384.
+mucronalatum, 259, 509, 875,
+962, 1111, 1129, 1135, 1286,
+1289, 1295, 1298, 1299, 1306,
+1311.
+patagoniense, 1143, 1339.
+scaphoides, 467, 1384.
+wellingtoniense, 597, 1384.
+Cytherura,
+clausi, 410, 1384.
+clavata, 1176, 1384.
+costellata, 467, 1384.
+|

@@ -1,12 +1,28 @@
-1252
+1256
 THE VOYAGE OF H.M.S. CHALLENGER.
-Station 348.
-Station 348 (Sounding 498), Ascension Island to St. Vincent (see Chart 12).
-April 9, 1876 ; lat. 3° 10' N., long. 14° 51' W.
-Temperature of air at noon, 84°:8; mean for the day, 82°:1.
+STATION 348.
+The tow-nets at the surface and down to 200 fathoms yielded an abundant harvest,
+including :—Many Oscillatoriaceæ, Peridinium, Pyrocystis, Diatoms, Globigerina,
+Orbulina, Hastigerina, Pullenia, Sphæroidina, Pulvinulina, Acanthometræ, Polycystinæ,
+Challengeridæ, and compound Radiolaria, Medusæ, Siphonophoræ, Echinoderm larvæ
+(Bipinnaria), Sagitta, Alciopa, Tomopteris, Distomum parasitic on Sagitta, Cypridina,
+various Copepods, Hyperids, Rhabdosoma, Lucifer, Gasteropod shells, Atlanta, Acura
+pelagica, various Pteropods, larvæ of Cymbulia (?) and Pleuropus [ = Cavolinia),
+Appendicularia, Doliolum, and larval fishes. The sarcode of a large number of
+Sphæroidina was carefully examined, and frequently there were observed in the interior
+of the shells two large cells, some of them with a coarse granular appearance and others
+very much more minutely granular, but no conclusion was arrived at concerning their
+function or origin. Several sharks were about the ship, with suckers and pilot fishes,
+and two were caught.
+STATION 349.
+Station 349 (Sounding 499), Ascension Island to St. Vincent (see Chart 12).
+April 10, 1876 ; lat. 5° 28' N., long. 14° 38' W.
+Temperature of air at noon, 80°3 ; mean for the day, 81°:9.
 Temperature of water :-
-1
-2
+83.5
+.
+)
+>
 Surface,
 10 fathoms,
 20
@@ -18,7 +34,7 @@ Surface,
 80
 90
 100
-110
+110 fathoms,
 120
 130
 140
@@ -26,90 +42,47 @@ Surface,
 160
 170
 180
-84:0
-84:0
-82.2
-70-8
-62.2
-59.5
-58.2
-57.6
-57.0
-56.5
-56:1
-55.7
-55.3
-54.9
-54:5
-54:1
-53.0
-52-0
-50.9
-190 fathoms,
+190
 200
-225
-250
-275
-300
-400
-500
-600
+822
 700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-49.7
-49.1
-47.8
-46:4
-45:1
-43.8
-41.2
-40'4 .
-40.0
-39.8
-39.6
-39.3
-39.0
-38.7
-38.4
-38.1
-37.8
-37.6
-99
-99
+62:6
+602
+59.2
+58.5
+57.8
+57:1
+56.5
+55.9
+55.2
+54.6
+540
+53.3
+52:4
+52:1
+51.4
+508
+50.1
+1
+>
+49.5
 Density at 60° F. :-
 .
 Surface,
 25 fathoms,
 50
-100
-1.02578
-1.02599
-1:02629
-. 1.02627
-200 fathoms,
+1.02616
+1.02630
+1.02624
+100 fathoms,
+200
 300
-385
-800
-. 1.02589
-. 1.02602
-1.02580
-. 1.02565
+1:02620
+1.02599
+1.02583
 .
-.
-Depth (2450 fathoms); deposit, Globigerina Ooze, containing 83:13 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 5.40 A.M. stopped to dredge and obtain temperatures in the same position as
-Station 102 of August 21, 1873, about 430 miles W.S.W. of Cape Palmas. At 6 A.M.
-put over dredge, veering 3000 fathoms. Took serial temperatures down to 1500 fathoms.
-At 11 A.M. commenced heaving in dredge, which came up at 2 P.M. with very few
-specimens, but the dredge and attached tow-net contained over eleven litres of the deposit.
-At 2.10 P.M. proceeded under steam. One Thalassidroma was seen.
-Cape Verde distant at noon, 714 miles. Made good 110 miles. Amount of current
-6 miles, direction N. 39° W.
+At 6 A.M. a waterspout began to form about 8 miles to the S. W. and continued, .
+varying in size, until 7.20 A.M. when it gradually disappeared; it was only joined for
+a few minutes. At 1.25 P. M. stopped and took serial temperatures down to 200 fathoms,
+about 25 miles to the S. E. of Station 101, August 19, 1873. At 2.50 P.M. proceeded.
+Cape Verde distant at noon, 588 miles. Made good 130 miles.

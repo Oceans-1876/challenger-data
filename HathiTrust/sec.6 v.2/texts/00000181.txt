@@ -1,93 +1,61 @@
 SUMMARY OF RESULTS.
-939
-STATION 237.
-9
-Paralia sulcata, Cleve.
-Melosira mediterranea, Grunow, var. punctulata,
-Brun.
-solida, Eulenstein.
-clavigera, Grunow.
-Podosira hormoides, Kutzing.
-lævis, Gregory.
-maxima, Grunow.
-Cyclotella striata, Grunow, var. intermedia, Grunow.
-Arachnoidiscus ehrenbergii, Harvey and Bailey.
-japonicus, Ebrenberg.
-ornatus, Ehrenberg.
-var. (near var. montereyana,
-but with the transverse costæ more
-regular, and near Arachnoidiscus
-grevilleanus, Hardman).
-Stictodiscus californicus, Greville.
-var. nankoorensis, Grunow.
-var. areolata, Grunow.
-var. ecostata, Grunow.
-varians, Castracane.
-parallelus, A. Schmidt, forma tetragona.
-Auliscus sculptus, Ralfs.
-cælatus, Bailey
-Curataulus turgidus, Ehrenberg.
-Bildulphia pulchella, Gray.
-reticulata, Roper.
-tridentata, Ehrenberg.
-rhombus, Smith.
-aurita, Brebisson.
-Anaulus minutus, Grunow.
-Isthmia nervosa, Kutzing.
-Euodia janischii, Grunow.
-Hemidisus cuneiformis, Wallich.
-Triceratium farus, Ehrenberg.
-fimbriatum, Wallich.
-Triceratium formosum, Brightwell.
-armatum, Roper.
-grande, Brightwell.
-listinctum, Janisch.
-arrticum, Brightwell, var. permagnu,
-Rattray, MS.
-var. californira, Grunow.
-var. japonica, A. Schmidt.
-calvescens, Castracane.
-tumescens, Castracane.
-rivale, A. Schmidt.
-grunovii, Janisch (= T. ferox,
-Castracane).
-scitulum, Brightwell.
-quadrangulare, Greville.
-cuspidatum, Janisch.
-americanum, Ralfs (= T. amblyoceros,
-Brightwell).
-Chætoceros coarctatum, Lauder.
-Goniothecium sp. (?).
-Craspedodiscus coscinodiscus, Ehrenberg.
-Asterolampra marylandica, Ehrenberg.
-Hyalodiscus subtilis, Bailey.
-stelliger, Bailey.
-Bacteriastrum varians, Lauder.
-Rhizosolenia sp. ().
-Gomphonema geminatum, Agardh (fresh water).
-Striatella unipunctata, Agardh.
-Stauroneis phoenicenteron, Ehrenberg (fresh water).
-Epithemia turgida, Kutzing, var. granulata, Cleve
-(fresh water).
-gibba, Kutzing (fresh water).
-argus, Smith, var. amphicephala,
-Grunow (= E. alpestris, W.
-Smith), (fresh water).
-Podocystis alriatica, Bailey.
-Surface Organisms—The following species are recorded from the surface in the ORGANISMS FROM
-neighbourhood of this Station :-
-SURFACE-NETS.
+941
+Density at 60° F. at bottom, 1.02558.
+STATION 238.
+Depth, 3950 fathoms ; deposit, Red Clay, containing no carbonate of lime (see
+Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 11.45 A.M. shortened and furled sails, and proceeded under steam.
+At 1 P.M.
+sounded in 3950 fathoms. Obtained serial temperatures down to 1500 fathoms. At
+4.30 P.M. completed temperatures and made sail. Black albatrosses and a small prion-
+like bird were seen.
+Distance at noon from Honolulu, 3170 miles. Made good 172 miles. Amount of
+current 35 miles, direction N. 9° E,
+The following species of Foraminifera and Radiolaria were observed in the deposit OrganiSMS FROM
+THE DEPOSIT.
+from this Station, in which there was no trace of the bluish-coloured mud, nor of the
+glauconitic particles characteristic of all the deposits nearer the coast of Japan (see also
+Murray and Renard, Deep-Sea Deposits Chall. Exp.) :-
+FORAMINIFERA (Brady, Zool. pt. 22).
+Miliolina labiosa (d'Orbigny).
+Haplophragmium latidorsatum (Bornemann).
+Reophu dentaliniformis, Brady.
+tenuimargo, Brady.
+difflugriformis, Brady.
+Ilormosina ovicula, Brady.
+membranacea, Brady.
+Ammodiscus shoneanus, Siddall.
+nodulosa, Brady.
+Trochammina coronata, Brady ().
+scorpiurus, Montfort,
+pauciloculata, Brady.
+Haplophraimium canariense (d'Orbigny).
+trullissata, Brady.
+globigeriniforme (Parkerand Jones). Gaudryina siphonella, Reuss.
 RADIOLARIA (Haeckel, Zool. pt. 40).
-Cromyechinus polyacanthus, Haeckel.
-Panartus fusiformis, Haeckel.
-Desmocampe catenula, Haeckel.
-Myelastrum anomalum, Haeckel.
-Pylodiscus sexangularis, Haeckel.
-Rhopalodictyum bifidum, Haeckel.
-Sethophormis umbrella, Haeckel.
-Sethoconus trochus, Haeckel.
-Pterocorys columba, Haeckel.
+Clathrosphæra circumtexta, Haeckel.
+| Challengeron bethelli, Murray.
+Surface Organisms.—The following species are recorded from the surface at
+SURFACE-NETS.
+this Station :
+RADIOLARIA (Haeckel, Zool. pt. 40).
 Theocampe cryptoprora, Haeckel.
+Xiphoptera tessaractena, Haeckel.
 Auloceros furcosus, Haeckel.
-Sagoplegma pyramidophora, llaeckel.
-Auloplegma perplexum, Haeckel.
+Hystrichaspis serrata, Haeckel.
+Sagoplegma pyramidophora, Haeckel.
+Phractopelta tessaraspis, Haeckel.
+Gazelletta trispathilla, Haeckel.
+Plectophora triomma, Haeckel.
+Castanidium bethelli, Haeckel.
+Plectaniscus tripodiscus, Haeckel.
+Cælodendrum flabellatum, Haeckel.
+Sethophormis umbrella, Haeckel. TUNICATA (Herdman, Zool. pt. 76).
+Sethoconus trochus, Haeckel.
+Doliolum challengeri, n.sp.
+In addition, the following are recorded in the note-books :-Noctiluca, Pyrocystis
+(two varieties), Peridinium tripos (in catena) and other species, Diatoms, Globigerina,
+Orbulina, Hastigerina, Pullenia, and other Foraminifera, Vorticella on Diatoms,
+Medusæ, Porpita and other Siphonophoræ, young Ophiurids, Echinoderm larvæ, Sagitta,
+(SUMMARY OF RESULTS CHALL. EXP.—1893.)
+119

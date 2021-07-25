@@ -1,108 +1,129 @@
-1390
+1394
 THE VOYAGE OF H.M.S. CHALLENGER.
-T
-* Elalia (Phlysia) undecimspinosa (Kina-
-han), var. orbicularis,
-Haswell. s
-* Egeria arachnoides (Rumph). T
-Epigrapsus politus, Heller.
-riphia gonagra (Fabricius). N
-* Etisus lævimanus, Randall.
-* Euplax (Chænostoma) boscii (Audouin).
-T
-*
-T
-T
-T
-* Eurypodius latreillei, Guérin-Ménéville.
+N
 s
-* Eurytium limosum (Say). N
-* Gelasimus annulipes, M.-Edwards.
-rubripes, Jacquinot and Lucas.
+>
+lævis, n.sp.
+T
+dilecta, n.sp.
+%
+>
+sp. (?).
+S
 T
 N
 T
-* Bathyplax typhlus, M-Edwards, var.
-oculiferus, nov.
-* Brachynotus(Heterograpsus)penicillatus
-(De Haan). N
-Calappa depressa, n.sp. S
-flammea (Herbst). SN
-gallus (Herbst). TN
-granulata (Linné). N
-hepatica (Linné). T
-lophos (Herbst). S
-* Cancer longipes, Bell. S
-* Cardiosoma armatum, Herklots.
-carnifex (Herbst). T
-guanhumi, Latreille.
-* Carpilius maculatus (Linné). T
-Carpilodes bellus (Dana). T
-* Ceratocarcinus longimanus, Adams and
-White. T
-Ceratoplax arcuata, Miers. T
-ciliata, Stimpson. T
-* Chlorinoides coppingeri (Haswell).
-* Chorilibinia gracilipes, Miers. T
-* Cronius bispinosus, n.sp.
 T
-Cryptopodia fornicata (Fabricius). T
-Cryptosoma cristatum (Leach). T
-* Cymopolia caronii, Roux.
-jukesii, White.
-* Dehaanius dentatus (M.-Edwards). S
-* Dorippe facchino (IIerbst).
-japonica, Siebold. N
-* Ebalia lambriformis (Bell).
-lævis (Bell). S
-tuberculosa (M.-Edwards).
-(Phlyxia) crassipes (Bell). S
+*
+7,
+nox, Linné.
+T
+* Nymphon grossipes (Fabricius).
+Cardita astartoides, Martens.
+Pallene australiensis, n.sp. s
+beddomei, n.sp.
+s
+S
+bimaculata, Deshayes. S
+languida, n.sp.
+S
+calyculata (Linné). S N
+* Phoxichilidium fluminense, Krøyer.
+canaliculata, Reeve. T
+insigne, n.sp.
+T
+S
+patagonicum, n.sp. S
+excavata, Deshayes. s
+insignis, n.sp.
+T
+LAMELLIBRANCHIATA :
+(Thecalia) concamerata
+Amussium cancellatum, n.sp.
+Τ Ν
+(Chemnitz). S
+s
+pleuronectes (Linné). T
+scitulum, n.sp.
+T
+* Carditella angasi, n.sp.
+S
+* Anatina elliptica, King and Broderip. S
+capensis, n.sp.
+T
+siphonata, Reeve.
+infans, n.sp.
+* Anomia laqueata, Reeve.
+torresi, n.sp.
+T
+* Arca imbricata, Bruguière.
+Cardium (Acanthocardium) papillosum,
+Poli. N
+navicularis, Bruguière.
+N
 (
-) dentifrons, n.sp.
-( ) intermedia, n.sp.
-( ) quadridentata, Gray,
-var. spinifera, nov.
-S
-V2
-*
+) setosum,
+(Acar) congenita, n.sp.
 T
+Redfield.
+( 9 ) domingensis, Lamarck. TN
+(
+) sueziense,
+(Barbatia) fasciata, Reeve. s
+Issel. T
+( ) fusca, Bruguière. T
+(Bucardium) australe, Sowerby.
+( ) lima, Reeve.
+T
+T
+( ) radulu, Adams.
+(
+) mirabile,
+(
+T
+) sculptilis, Reeve.
+Deshayes.
+(Macrodon) dalli, n.sp. N
+(
+) multispinosum,
+(Scapharca) angicostata, Reeve. T
+Sowerby. T
+(
+) clathrata, Reeve. T
+(
+) pulchellum, Gray.
+( ?) consociata, n.sp.
+T
+s
+(
+) gubernaculum, Reeve.
+(
+) tenuicostatum,
+Lamarck. ST
+(Trisis) semitorta, Lamarck. T
+(Fragum) fornicatum, Sowerby.
+* Astarte macandrewi, Smith.
+T
+* Avicula macroptera, Lamarck.
+( ) imbricatum, Sowerby.
+(Meleagrina) muricata, Reeve. T
+T
+( ) sma'agdima, Reeve. * ( ) medium, Linné.
+( ) torresi, n.sp. T
+(
+) squamulosa,
+(Lævicardium) norvegicum,
+Lamarck.
+Spengler.
+09
+s
+T
+>
+S
 N
 T
+>>
 T
 T
-tetragonon (Herbst). T
-vocans (Linné). T
-* Geocarcinus lagostoma, M.-Edwards. TN
-* Geograpsus grayi (M.-Edwards). T
-* Gomeza bicornis, Gray. T
-* Gonatorhynchus tumidus, Haswell.
-* Goniopsis cruentatus (Latreille). N
-* Goniosoma cruciferum (Fabricius). T
-ornatum, M.-Edwards.
-variegatum (Fabricius), var.
-bimaculatum, nov.
-Gonoplax sinuati
-frons, n.sp.
-Grapsus maculatus (Catesby). TN
-strigosus (Herbst). T
-* Halicarcinus ovatus, Stimpson.
-planatus (Fabricius). S
-* Helice crassa, Dana. s
-latreillei, M.-Edwards.
-* Hemiplax hirtipes, Heller.
-* Herbstia ovata (Stimpson). T
-rubra, M.-Edwards.
-violacea (M.-Edwards). T
-(Herbstiella) depressa (Stimp-
-son). T
 T
-S
-T
-S
-T
-s
-s
-s
-T
-*
-s
+N

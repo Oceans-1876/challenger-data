@@ -1,79 +1,87 @@
 SUMMARY OF RESULTS.
-1255
-Station 348.
-Rhizosphæra leptomita, Haeckel.
-Trizonium amphibelonium, Haeckel.
-Tetrapyle pluteus, Haeckel.
-Staurotholus dodecastylus, Haeckel.
-Lithelius spiralis, Haeckel.
-Acanthonia mülleri, Haeckel.
-multispina, Haeckel.
-X'iphacantha quadridentata, Haeckel.
-ciliata, Haeckel.
-Acanthostaurus purpurascens, Haeckel.
-Lithoptera tetraptera, Haeckel.
-Lychnaspis giltschii, Haeckel.
-Icosaspis elegans, Haeckel.
-Octopelta scutella, Haeckel.
-Phatnaspis ensiformis, Haeckel.
-Hexonaspis heliosestrum, llaeckel.
-Semantis distephanus, Haeckel.
-Lithomelissa bicornis, Ehrenberg.
-Lithopera ananassa, Haeckel.
-Arach nororys circumtecta, Haeckel.
-Auloscena pyramidalis, Haeckel.
-Aulatractus fusiformis, Haeckel.
-Aulonia hexagonia, Haeckel.
-Gorgonetta mirabilis, Haeckel.
-Castanella sloggetti, Haeckel.
-Castanidium buchanani, llaeckel.
-moseleyi, Haeckel.
-Castanopsis naresi, Haeckel.
-Conchidium argiope, Haeckel.
-Cælodendrum spinosissimum, Haeckel.
-DEEP-SEA MEDUSA (Haeckel, Zool. pt. 12).
-Charybdea murrayana, n.sp.
-SIPHONOPHORÆ (Haeckel, Zool. pt. 77).
-Rataria cristata, n.sp.
-Cucubalus pyramidalis, Haeckel.
-Amphiroa carina, n.si).
-Ersæd compressit, n.sp.
-Cymba crystallus, n.sp.
-Diphyopsis compressa, n.g., n.sp.
-Abyla carina, n.sp.
-Ætidius armatus, n.g., n.sp.
-Temora dubia (Lubbock).
-Oithona challengerii, n.sp.
-Ectinosoma atlanticum (Brady and
-Robertson).
-Setella gracilis, Dana.
-Corycæus varius, Dana.
-venustus, Dana.
-Oncæa obtusa (Dana).
-Saphirina metallina, Dana.
-OSTRACODA (Brady, Zool. pt. 3).
-Halocypris atlantica, Lubbock.
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Phronimella elongata, Claus.
-Anchylomera sp. (?).
-Platyscelus serratulus, n.n.
-SCHIZOPODA (Sars, Zool. pt. 37).
-Nematoscelis tenella, n.g., n.sp.
-rostrata, n.g., n.sp.
-Stylocheiron abbreviatum, n.g., n.sp.
+1259
+STATION 350.
+Doliolum sp., (blastozooid).
+FISHES (Günther, Zool. pt. 78).
+Salpa democratica - mucronata, Trigla macrodactylus, n.sp.
+Forskål.
+Young Pleuronectids.
+The tow-net procured the same things as at the last two Stations, Foraminifera being
+very abundant.
+Station 351 (Sounding 501), Ascension Island to St. Vincent (see Chart 12).
+STATION 351,
+April 12, 1876 ; lat. 9° 9' N., long. 16° 41' W.
+Temperature of air at noon, 82°:5; mean for the day, 80°:8.
+Temperature of water :-
+550
+99
+Surface, .
+10 fathoms,
+20
+30
+40
+50
+60
+70
+80
+90
+100
+81.8
+79.8
+66.0
+62:1
+60-7
+59.8
+59:1
+58.2
+57.4
+56.5
+55.8
+110 fathoms,
+120
+130
+140
+150
+160
+170
+180
+190
+200
+54.2
+53:4
+52.6
+51.8
+51:0
+50.2
+49.4
+48.7
+48.0
+9
+Density at 60° F. :-
+Surface, .
+25 fathoms,
+50
+. 1.02653
+1.02637
+1:02643
+100 fathoms,
+200
+300
+1:02620
+. 1.02606
+· 1:02582
+At 1.40 P.M. stopped and took a series of temperatures down to 200 fathoms, about
+30 miles from the 100-fathom line. At 2.30 P.M. proceeded.
+Cape Verde distant at noon, 348 miles ; Porto Praya, St. Iago, 538 miles. Made
+good 127 miles. Amount of current 5 miles, direction N.
+Surface Organisms.—The following species are recorded from the surface at this ORGANISMS FROM
+SURFACE-NETS.
+Station :-
 COPEPODA (Brady, Zool. pt. 23).
-Calanus valgus, n.sp.
-propinquus, n.sp.
-gracilis, Dana.
-Eucalanus attenuatus (Dana).
-Heterochæta spinifrons, Claus.
-Undina vulgaris, Dana.
-Scolecithrix dana (Lubbock).
+Scolecithriz dana (Lubbock).
+Calanus gracilis, Dana.
 Euchæta prestandreæ, Philippi.
-Candace pectinata, Brady.
-pachydactyla, Dana.
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Clio (Creseis) virgula (Rang).
-Fishes (Günther, Zool. pt. 78).
-Carcharias obscurus, Les.
-Echeneis remora, Linné (from shark).
+Eucalanus attenuatus (Dana).
+Leuckartia flavicornis, Claus.
+Undina vulgaris, Dana.
+Temora dubia (Lubbock).

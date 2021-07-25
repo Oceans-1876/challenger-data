@@ -1,78 +1,42 @@
 SUMMARY OF RESULTS.
-931
-JAPAN.
-Coscinoiliscus lineatus, Ehrenberg.
-curvatulus, Grunow.
-normanni, Gregory.
-subtilis, Ehrenberg.
-kutzingii, A. Schmidt
-zonulatus, Rattray.
-concinnus, W. Smith.
-nodulifer, Janisch.
-radiatus, Ehrenberg.
-oculus-iridis, Ehrenberg.
-asteromphalus, Ehrenberg.
-decrescens, Grunow.
-janischii, A. Schmidt.
-entoleion, Grunow.
-extravagans, A. Schmidt.
-apiculatus, Ehrenberg.
-Biddulphia aurita, Brebisson.
-longicruris, Greville, var. japonica,
-Grunow.
-reticulata, Roper.
-forma subquadrata.
-chinensis, Greville.
-Cerataulus turgidus, Ehrenberg.
-Auliscus caelatus, Bailey.
-var. strigillata, A. Schmidt.
-sp. (1).
-Ditylum brightwellii, Grunow.
-Hemiaulus chinensis, Greville.
-Eucampia zodiacus, Ehrenberg, var. nodosa, Grunow.
-Molleria cornuta, Cleve.
-Lauderia annulata, Cleve.
-Rhizosolenia shrubsolei, Cleve.
-setigera, Brightwell.
-alata, Brightwell.
-Chætoceros peruvianum, Brightwell.
-distans, Cleve.
-ralfsii, Cleve.
-æquatoriale, Cleve.
-protuberans, Lauder.
-secundum, Cleve.
-didymum, Ehrenberg.
-compressum, Lauder.
-sociale, Lauder.
-pelagicum, Cleve.
-sp. (?).
-Stephanopyris turgida, Ralfs.
-palmeriana, Grunow.
-turris, Ralfs, var. paucispina,
-Grunow (=S. campana,
-Castracane).
-Thalassiosira nordenskioldii, Cleve.
-Melosira nummuloides, Agardh.
-Pyrilla baltica, Grunow.
-Paralia sulcata, Cleve.
-Skeletonema costatum, Cleve.
-Cyclotella striata, Grunow.
-The following fresh-water species occurred :--
-Pinnularia viridis, Ehrenberg.
-Cocconeis placentula, Ehrenberg.
-Cymbella turgidula, A. Schmidt.
-Epithemia gibba, Kutzing.
-cistula, Hempricht.
-Synedra ulna, Ehrenberg,
-Gomphumema acuminatum, Ehrenberg, var. clavus, Denticula tenuis, Kutzing.
-Van Heurck.
-COPEPODA (Brady, Zool. pt. 45).
-Corycæus obtusus, Dana.
-MACRURA (Spence Bate, Zool. pt. 52).
-Thalassocaris stimpsoni, n.sp.
-PTEROPODA (Pelseneer, Zool. pt. 65).
-Cavolinia inflexa (Lesueur), young ( = Pleuropus pellucidus).
-In addition, the following are recorded in the note-books :-Noctiluca, Diatoms,
-Peridinium tripos and other species, Acanthometræ and other Radiolaria, Vorticellinæ
-and other Infusoria, Medusæ and larvæ, Siphonophoræ, Cydippe and other Ctenophoræ,
-Pluteus, Ophiurid and other Echinoderm larvæ, Rotifera, Sagitta, Pilidium, Polygordius
+933
+STATION 237,
+Density at 60° F. at surface, 1.02570 ; bottom, 1.02555.
+Depth, 1875 fathoms ; deposit, Blue Mud, containing 4:45 per cent. of carbonate
+of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 5 A.M. sounded in 1875 fathoms, about 40 miles S. E. of No Sima lighthouse.
+At 7 A.M. put trawl over. At 10 A.M. obtained serial temperatures down to 1500 fathoms.
+At noon commenced heaving in trawl, which came up at 2.40 P.M. with numerous
+specimens, a large quantity of mud, pumice-stones, large hardened blocks of the deposit,
+Cephalopod beak, vertebra of fish, and leaves of dicotylodonous trees. Surface current
+running at the rate of about 11 knots per hour. At 3.15 P.M. completed temperatures,
+and made sail to a strong southerly breeze, which during the night increased to a gale.
+Black albatrosses, small petrel-like birds, and larger petrels were seen.
+Distance at noon from Honolulu, Sandwich Islands, 3346 miles.
+Made good
+41 miles. Amount of current 14 miles, direction N. 74° E.
+The following species are recorded in the Zoological Reports from the trawl at
+this Station :-
+ANIMALS FROM
+TRAWL.
+ALCYONARIA (Wright and Studer, Zool. pt. 64).
+Strophogorgia verrilli, n.g., n.sp. Obtained also at Station 235.
+Dasygorgia japonica, n.sp. Obtained at no other locality.
+Stenella dæderleini, n.sp. Several specimens; obtained at no other locality.
+ACTINIARIA (Hertwig, Zool. pts. 15 and 73).
+Cereus spinosus, n.sp.
+Four specimens; obtained also at Station 157.
+Paractis (?) tubulifera, n.sp. Two specimens ; obtained at no other locality.
+Porponia robusta, n.g., n.sp. One specimen ; obtained at no other locality. The
+only other species of the genus (Porponia elongata) was
+taken at Station 160.
+Liponema multiporum, n.g., n.sp. One specimen ; obtained also at Stations 147
+and 305. Only species of the genus.
+HYDROIDA (Allman, Zool. pt. 70).
+Monocaulus imperator, n.sp. Obtained also at Station 248, 2900 fathoms.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Pararchuster semisquamatus, n.g., n.sp. Obtained also at Stations 44 or 45 (var.)
+and 235.
+Porcellanaster tuberosus, n.g., n.sp. Obtained at no other locality.
+(SUMMARY OF RESULTS CHALL. EXP.--1893).
+118

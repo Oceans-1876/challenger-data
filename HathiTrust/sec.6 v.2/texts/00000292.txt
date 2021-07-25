@@ -1,104 +1,104 @@
-1038
+1042
 THE VOYAGE OF H.M.S. CHALLENGER.
-Station 271.
-99
-Cenosphæra polygonalis, Haeckel.
-papillata, Haeckel.
-antiqua, Haeckel.
-marginata, Haeckel.
-Carposphæru melitomma, Haeckel.
-nodosa, Haeckel.
-cubaconia, Haeckel.
-infundibulum, Haeckel.
-nobilis, Haeckel.
-Thecosphæra phænasonia, Haeckel.
+STATION 271,
+Arachnacorys polyptera, Haeckel.
+Anthocyrtium chrysanthemum, Haeckel.
+flosculus, Haeckel.
+Anthocyrtidium cineraria, Haeckel.
+Carpocanium cylindricum, Haeckel.
+petalospyris, Haeckel.
+diadema, Haeckel.
+Sethophæna enneaptera, Haeckel.
+Clistophæna polyolena, Haeckel.
+Sefhoconus mitra, Haeckel.
+Sethocyrtis orycephalis, Haeckel.
+Sethocorys patrocli, Haeckel.
+amphora, Haeckel,
+Lophophæna liothorac, Haeckel.
+Dictyocephalus amphora, Haeckel.
+tabulatus, Haeckel.
+globiceps, Haeckel.
+Sethocapsa pyriformis, Haeckel.
+Pterocorys aquila, Haeckel.
+columba, Haeckel.
+pipetta, Haeckel.
+macroptera, Haeckel.
+Corocalyptra elisabetha, Haeckel.
+Dictyoceras insectum, Haeckel.
+virchowi, Haeckel.
+Pteropilium clathrocanium, Haeckel.
+Pterocanium orcinum, Haeckel.
+virgineum, Haeckel.
+proserpina, Haeckel.
+contiguum, Haeckel.
+Pyramis, Haeckel.
+Pleuropodium cortina, Haeckel.
+Podocyrtis tripodiscus, Haeckel.
+costata, Haeckel.
+scaphopodia, Haeckel.
+surena, Haeckel.
+conulus, Haeckel.
+flosculata, Haeckel.
 favosa, Haeckel.
-inermis, Haeckel.
-medusa, Haeckel.
-diplococcus, Haeckel.
-Cromyosphæra rosetta, Haeckel.
-comifera, Haeckel.
-fragilis, Haeckel,
-Caryosphæra hecalepas, Haeckel.
-Plegmosphæra pachypila, Haeckel.
-ecodictyon, Haeckel.
-Collosphæra regularis, Haeckel.
-polygona, Haeckel,
-pyriformis, Haeckel.
-Tribonosphæra centripetalis, Haeckel.
-Chenicosphæra flammabunia, Haeckel.
-Acrosphæra erinacea, Haeckel.
-Siphonosphæra macrosiphonia, Haeckel.
-serpula, Haeckel,
-Caminosphæra elongata, Haeckel.
-dichotoma, Haeckel.
-Solenosphæra variabilis, Haeckel.
-pandora, Haeckel.
-megalactis, Haeckel.
-cornucopia, Haeckel.
-amalthea, Haeckel.
-Otosphæra polymorpha, Haeckel.
-auriculata, Haeckel.
-Coronosphæra calycina, Haeckel.
-convolvulus, Haeckel.
-Clathrosphæra lamellosa, Haeckel.
-Xanthiosphæra lappacea, Haeckel.
-erinacea, Haeckel.
-Xiphosphæra planeta, Haeckel,
-gæa, Haeckel.
-venus, Haeckel.
-resta, Haeckel.
-Xiphostylus phasianus, Haeckel.
-Saturnalis anni:laris, Haeckel.
-Stylosphæra clio, Haeckel.
-Sphærostylus hippocampus, Haeckel.
-Amphisphæra neptunus, Haeckel.
-coronos, Haeckel.
-pluto, Haeckel.
-Amphistylus hippocampus, Haeckel.
-Cromyostylus gladius, Haeckel.
-Spongostylus hastatus, Haeckel.
-Staurosphæra cruciata, Haeckel.
-thomæ, Haeckel.
-Stylostaurus gladiatus, Haeckel.
-Staurolonche epicurii, Haeckel.
-Staurolonchidium artioscelides, Haeckel.
-Stauranсistra quadricuspis, Haeckel.
-Staurocromyum quadruplex, Haeckel.
-Hexastylus pittaci, Haeckel.
-hirsutus, Haeckel.
-phænasconius, Haeckel.
-biantis, Haeckel.
-cochleatus, Haeckel.
-Hexalonche phænaconia, Haeckel.
-cristata, Haeckel.
-pythagoræa, Haeckel.
-granlis, Haeckel.
-castanella, Haeckel.
-Hecancistra quadricuspis, Haeckel.
-Hexacontium octahedrum, Haeckel.
-lævigatum, Haeckel.
-Hexadoridium streptacanthum, Haeckel.
-Acanthosphæra tenuis, Haeckel.
-mucronata, Haeckel.
-reticulata, Haeckel.
-brerispina, Haeckel.
-gibbosa, Haeckel.
-Heliosphæra hexagonaria, Haeckel.
-Conosphæra orthoconus, Haeckel.
-Haliomma lirianthus, Haeckel.
-circumtextum, Haeckel.
-compactum, Haeckel.
-longispinum, Haeckel.
-uyvillei, Haeckel.
-Heliosoma hastatum, Haeckel.
-longispina, n.sp., MS,
-Diplosphæra dictyota, Haeckel.
-Astrosphæra hexagonalis, Haeckel.
-Actinomma denticulatum, Haeckel
-japonicum, Haeckel.
-dodecomma, Haeckel.
-Pityomma scoparium, Haeckel.
-Cromyod rymus abietinus, Haeckel.
-Cromyechinus icosacanthus, Haeckel.
-Rhizosphæra trigonacantha, Haeckel.
+lithoconus, Haeckel.
+Dictyopodium scaphopodium, Haeckel.
+Lithornithium ciconia, Haeckel.
+Sethornithium dictyopterum, Haeckel
+Theopera fusiformis, Haeckel.
+Rhopalocanium cortinium, Haeckel.
+Lithochytris galeata, Haeckel.
+lucerna, Haeckel.
+Theophormis senaria, Haeckel.
+Phormocyrtis carinata, Haeckel.
+Alacorys octacantha, Haeckel.
+Cyclalophora pantheon, Haeckel.
+Calocyclas vestalis, Haeckel.
+monumentum, Haeckel.
+Lamprocyclas nuptialis, Haeckel.
+Diplocyclas bicorona, Haeckel.
+Theoconus jovis, Haeckel.
+longicornis, Haeckel.
+triadnes, Haeckel.
+Lophoconus hexagonalis, Haeckel.
+cornutella, Haeckel.
+Theocyrtis microtheca, Haeckel.
+barbadensis, Haeckel.
+cylindrica, Haeckel.
+Tricolocampe stenozona, Haeckel.
+amphizona, Haeckel.
+cylintrica, Haeckel.
+polyzona, Haeckel.
+urnula, Haeckel.
+arcta, Haeckel.
+A.cocorys macroceros, Haeckel.
+Theocorys veneris, Haeckel.
+ovata, Haeckel.
+tuberculata, Haeckel.
+Lophocorys astrocephala, Haeckel.
+Theocampe megalopora, Haeckel.
+8phærothorax, Haeckel.
+Theocapsa democriti, Haeckel.
+mülleri, Haeckel.
+darwinii, Haeckel.
+galeni, Haeckel.
+uottonis, Haeckel.
+malpighii, Haeckel.
+Tricolocapsa theophrasti, Haeckel.
+Phrenocodon diaphragma, Haeckel.
+Stichopilium bicorne, Haeckel.
+pectinatum, Haeckel.
+Artopilium elegans, Haeckel.
+Podocampe trictenota, Haeckel.
+conica, Haeckel.
+Stichopera verticillata, Haeckel.
+pectinata, Haeckel.
+Artopera motacilla, Haeckel.
+Stichophormis lucerna, Haeckel.
+radiata, Haeckel.
+novena,
+Haeckel.
+Phormocampe campanula, Haeckel.
+eucalyptra, Haeckel.
+Cyrtophormis cornuta, Haeckel,
+cylindrica, Haeckel
+Stichophæna darwiniana, Haeckel.

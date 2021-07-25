@@ -1,102 +1,94 @@
 SUMMARY OF RESULTS.
-1061
-STATION 274.
-»
-Theocapsa mülleri, Haeckel.
-darwinii, Haeckel.
-Tricolocapsa dioscoridis, Haeckel.
-Artopilium elegans, Haeckel.
-Cyrtopera ornithoptera, Haeckel.
-Lithostrobus hexastichus, Haeckel.
-macroceras, Haeckel.
-seriatus, Haeckel.
-quadratus, Haeckel.
-Artostrobus articulatus, Haeckel.
-Lithomitra nodosaria, Haeckel.
-Eucyrtidium teuscheri, Haeckel.
-stöhrii, Haeckel.
-Siphocampe annulosa, Haeckel.
-Lithocampe octocola, Haeckel.
-Spirocyrtis scalaris, Haeckel.
-merospira, Haeckel.
-9
-Spirocyrtis diplospira, Haeckel.
-Cyrtocapsa chrysalidium, Haeckel.
-Artocapsa elegans, Haeckel.
-Aulospathis variabilis, Haeckel.
-Auloscena mirabilis, Haeckel.
-Cannosphæra pacifica, Haeckel.
-Challengeria bidens, Haeckel.
-Challengeron monodon, Haeckel.
-crosbiei, Haeckel.
-willemoesii, Haeckel.
-Cortinetta cortiniscus, Haeckel.
-Haeckeliana murrayana, Haeckel.
-Conchellium hippopus, Haeckel.
-Conchidium terebratula, Haeckel.
-Conchopsis lenticula, Haeckel.
-Crlodendrum serratum, Haeckel.
-Calospathis octostyla, Haeckel.
-39
-Surface Organisms.—The following species are recorded from the surface in the ORGANISMS FROM
-vicinity of this Station
-SURFACE-NETS.
-RADIOLARIA (Haeckel, Zool. pt. 40).
-Actissa prunoides, Haeckel.
-Collozoum stellatum, Haeckel.
-Thalassocanthium cervicorne, Haeckel.
-punctatum, Haeckel.
-Carposphæra capillacea, Haeckel.
-Collosphæra primordialis, Haeckel.
-Saturnalis annularis, Haeckel.
-Hexacaryum arborescens, Haeckel.
-Acanthosphæra insignis, Haeckel.
-marginata, Haeckel.
-capillaris, Haeckel.
-gibbosa, Haeckel.
-Coscinomma macrosiphon, Haeckel.
-Cladococcus pinetum, Haeckel.
-Haliomma favosum, Haeckel.
-datura, Haeckel.
-wyvillei, Haeckel.
-Heliosoma radians, Haeckel.
-Diplosphæra he cagonalis, Haeckel.
-Drymosphæra hecagonalis, Haeckel.
-Astrosphæra stellata, Haeckel.
-Actinomma hexagonium, Haeckel.
-capillaceum, Haeckel.
-Cromyomma perspicuum, Haeckel.
-Arachnopegma increscens, Haeckel.
-Arachnosphæra dolichacantha, Haeckel.
-Spongiomma denticulatum, Haeckel.
-Spongechinus serrulatus, Haeckel.
-(SUMMARY OF RESULTS CHALL. EXP.-1893.)
-Rhizoplegma polyacanthum, Haeckel.
-Octodendron contortum, Haeckel.
-Rhizosphæra serrata, Haeckel.
-Cenellipsis faceta, Haeckel.
-Druppatractus diodon, Haeckel.
-Cypassis puella, Haeckel.
-Sethodiscus phacoides, Haeckel.
-Heliosestrum craspedotum, Haeckel.
-Heliodiscus trochiscus, Haeckel.
-Porodiscus perispira, Haeckel.
-Rhopalastrum triceros, Haeckel.
-Hymeniastrum euclidis, Haeckel.
-archimedis, Haeckel.
-Trigonastrum regulare, Haeckel.
-Myelastrum farfalla, Haeckel.
-rotula, Haeckel.
-Pentalastrum ophidiaster, Haeckel.
-Spongotrochus multispinus, Haeckel.
-Rhopalodictyum elongatum, Haeckel.
-Spongolarcus lentellipsis, Haeckel.
-Larnacantha stauracantha, Haeckel.
-Dizonium circulare, Haeckel.
-Tetrapyle quadricornis, Haeckel.
-Octopyle ovulina, Haeckel.
-Pylonium quadricorne, Haeckel.
-Lithelius capreolus, Haeckel.
-Svironium spinosum, Haeckel.
-Phorticium spironium, Haeckel.
-134
+1065
+STATION 276.
+3
+100 fathoms,
+110
+120
+130
+140
+150
+160
+170
+180
+190
+200
+300
+400
+73:7
+72.2
+70-6
+68.8
+67.0
+65:1
+63.1
+61.0
+58.8
+56.6
+54:3
+44.8
+41.9
+500 fathoms,
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+Bottom,
+40:3
+39:1
+38:3
+37.8
+37.3
+36.9
+36.6
+36:3
+36.0
+35.7
+35.4
+35:1
+Density at 60° F. :-
+Surface,
+25 fathoms,
+.
+1.02628
+1.02669
+. 1.02678
+1:02689
+1.02574
+300 fathoms,
+400
+800
+Bottom,
+1.02557
+1.02552
+1.02568
+1.02593
+50
+100
+200
+Depth, 2350 fathoms; deposit, Red Clay, containing 28-28 per cent. of carbonate
+of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 4.30 A.m. shortened and furled sails, proceeded under steam, and sounded in
+2350 fathoms. The sounding-tube contained about a litre of the deposit ; in the lower
+part of the tube it was of a dark red or chocolate colour, and contained many crystals of
+phillipsite, manganese grains, and volcanic minerals, but no carbonate of lime organisms
+and very few Radiolaria, in short was quite like the deposit at the previous Station.
+On this occasion the deposit was extracted from the tube in a long continuous
+roll, and a good idea could be formed of the arrangement of the deposit, which,
+proceeding upwards from the dark chocolate clay referred to, became lighter and
+lighter in colour, and pari passu with the lighter colour the calcareous organisms in the
+form of Globigerina and other Foraminifera increased in number till at the top of the
+tube there was a light grey coloured ooze containing over 30 per cent. of carbonate of
+lime ; the transition from the Red Clay at the bottom to the calcareous ooze at the top
+was quite gradual. At 7.30 A.M. put trawl over and veered 2500 fathoms. Obtained
+serial temperatures down to 1500 fathoms. At 12.15 P.M. commenced heaving in trawl.
+Sent whaler away with naturalist for surface collecting. At 4.15 P. M. trawl came up
+with a large quantity of Red Clay, about half a ton of manganese nodules, small pieces of
+pumice, angular basaltic pebbles, many sharks' teeth, and a few animals. The tow-nets
+at the trawl were quite full of the deposit, in the siftings of which were found many

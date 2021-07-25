@@ -1,82 +1,84 @@
-890
+892
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 229.
-Sergestes, crab, Zoëæ, Halobates, Ianthina, small shells, Glaucus, Atlanta, Cardiopoda,
-Carinaria, Pneumonoderma, Eurybia [ = Halopsyche], Hyalæa [ = Cavolinia), Styliola,
-Cleodora [= Clio] balantium, Appendicularia, Salpa, Pyrosoma, several fishes (large
-Stomiatidæ and Scopelids four inches in length). A shark was caught, a female
-Carcharias, six feet in length, with the tips of the fins white.
-Willemoes-Suhm writes : “The tow-net brought in some very fine things. Salpæ
-and Medusæ filled the water, along with very large Collosphæride. There were also
-Ctenophoræ, huge specimens of Alciopa with intense black spots, small Tomopteris,
-Crustacea in great abundance, especially Copepods, and Amphipods belonging to the
-genera Anchylomera and Hyperia, and also Dithyrus, the coxæ of the pereiopods of
-which are so singularly enlarged as to form a ventral cavity with the abdomen, and closes
-up the animal entirely. Phyllosoma was very common in all stages, and will furnish
-very valuable material for working out the development of the Pacific Loricata. The
-specimens of Halobates were constantly smaller than the Atlantic specimens. There
-were many small fishes, including Stomiatidæ with phosphorescent lateral spots, some
-over two inches in length. Velella, which has seldom been taken, made its appearance,
-along with its parasite Ianthina, and Porpita and Glaucus. Among the Pteropods I
-found several specimens of Cleodora balantium with the animals—a Mollusc we have
-never taken alive before, and is, I believe, considered to be very rare.”
-Station 230.
-Station 230 (Sounding 368), Admiralty Islands to Yokohama (see Chart 31 and
-Diagram 16).
-April 5, 1875; lat. 26° 29' N., long. 137° 57' E.
-Temperature of air at noon, 73°:3 ; mean for the day, 709:5
-Temperature of water:-
-O
+STATION 230.
+ORGANISMS FROM
+THE DEPOSIT.
+DIATOMACEÆ.—The following species of Diatoms were observed by Mr. Rattray in the
+deposit from this Station :-
+var.
+9
+Coscinodiscus rex, Wallich.
+curvatulus, Grunow, var. genuina,
+Grunow.
+radiatus, Ehrenberg, var. media,
+Grunow.
+excentricus, Ehrenberg.
+leptopus, Grunow.
+gazellæ, Janisch.
+centralis, Ehrenberg.
+marginatus, Ehrenberg.
+lineatus, Ehrenberg.
+africanus, Janisch.
+apiculatus, Ehrenberg, var. ambigua,
+Grunow.
+Coscinodiscus nodulifer, Janisch.
+gigas, Ehrenberg,
+diorama,
+Grunow.
+Stoschia admirabilis, Janisch.
+Asterolampra marylandica, Ehrenberg.
+Asteromphalus stellatus, Ralfs.
+roperianus, Ralfs.
+hiltonianus, Ralfs.
+Hemidiscus cuneiformis, Wallich.
+Navicula spectabilis, Gregory, var.
+Nitzschia scalaris, W. Smith, var.
+Alloioneis antillarum, Cleve and Grunow.
+Synedra affinis, Kutzing, var. approaching hybrida,
+Gomphonema geminatum, Agardh (fresh water).
+ORGANISMS FROM
+SURFACE-NETS.
 >
-Surface,
-25 fathoms,
-50
-75
-100
-125
-150
-175
-200
-225
-250
-275
-300
-68.5
-67.0
-66:0
-65.0
-63.9
-62:8
-61.7
-60:7
-59.7
-58.2
-56.0
-53.3
-50.5
-400 fathoms,
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-43.0
-39.7
-38.0
-37.2
-36.7
-36.3
-35.9
-35.5
-35.5
-35.5
-35.5
-35.5
-35.5
+Surface Organisms.—The following species are recorded from the surface in the
+neighbourhood of this Station :-
+COPEPODA (Brady, Zool. pt. 23).—Parasitic Clio (Styliola) . subula, Quoy and
+on shark.
+Gaimard.
+Pandarus cranchië (Leach), Steenstrup
+pyramidata, Linné.
+and Lütken.
+cuspidata (Bosc).
+Nogagus latreillië (Leach), Steenstrup
+Cuvierina columnella (Rang).
+and Lütken.
+Cavolinia trispinosa (Lesueur).
+curticaudis (Dana).
+longirostris (Lesueur).
+validus, Dana.
+gibbosa (Rang).
+inflexa (Lesueur).
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Orchomene musculosus, n.sp.
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Phronimella elongata, Claus.
+Teleoteuthis caribbæa (Lesueur),
+Phrosina pacifica, n.sp.
+Verrill (?).
+Anchylomera blossevillii, M.-Edwards.
+TUNICATA (Herdman, Zool. pt. 76).
+Eupronoë inscripta, n.sp.
+Pyrosoma elegans, Lesueur (?).
+Brachyscelus sp. (?).
+Salpa costata-tilesii, Quoy and
+Gaimard-Cuvier.
+Macrura (Spence Bate, Zool. pt. 52).
+cordiformis-zonaria, Quoy
+Elaphocaris crassus (Suhm, MS.), n.sp.
+and Gaimard-Pallas.
+PTEROPODA (Pelseneer, Zool. pt. 65).
+cylindrica, Cuvier (?).
+Clio (Creseis) virgula (Rang).
+FISHES (Günther, Zool. pt. 78).
+(Hyalocylix) striata (Rang).
+Carcharias glaucus, Linné.
+sp. (?).

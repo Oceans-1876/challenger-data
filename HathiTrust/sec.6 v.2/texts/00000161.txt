@@ -1,43 +1,40 @@
 SUMMARY OF RESULTS.
-921
-TETRACTINELLIDA (Sollas, Zool. pt. 63).
-Tetilla sp. (?). One specimen.
-Pæcillastra tenuilaminaris, n.sp. Three specimens ; obtained at no other locality.
-STATIONS 236
-AND 236a.
-ANIMALS FROM
-Trawi.
-CORALS (Moseley, Zool. pt. 7).
-Cryptohelia pudica, M.-Edwards and Haime. Two specimens ; for distribution see
-Station 3
-HYDROIDA (Allman, Zool. pt. 20).
-Cladocarpus formosus, Allman. Obtained at no other locality by the Challenger.
-Recorded from North Atlantic (" Porcupine ").
-CRINOIDEA (Carpenter, Zool. pt. 60).
-Antedon alternata, n.sp. Four specimens ; obtained also at Stations 169, 170A,
-and 218.
+923
+Japax.
+MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
+Halichondria panicea, Johnston. One specimen (pool at Oosima); obtained also
+at Kerguelen.
+PennaTULIDA (Kölliker, Zool. pt. 2).
+Pteroeides breviradiatum, Kölliker. Two specimens (Yokohama, 5 to 25 fathoms);
+obtained at no other locality by the Challenger.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Astropecten polyacanthus, Müller and Troschel. (Yokohama, 5 to 25 fathoms); for
+distribution see Port Jackson.
+japonicus, Müller and Troschel. (Yokohama, 5 to 25 fathoms);
+obtained also at Stations 233, 233A, and 233B.
+Luidia limbata, n.sp. (Yokohama, 5 to 25 fathoms); obtained at no other locality.
+Asterina pectinifera (Müller and Troschel). (Yokohama, 5 to 25 fathoms);
+obtained at no other locality by the Challenger.
+Asterias torquata, n.sp. (Yokohama, 5 to 25 fathoms); obtained at no other locality.
+amurensis, Lütken. Several specimens (Yokohama, 5 to 25 fathoms);
+obtained at no other locality by the Challenger.
+99
 OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha albata, n.sp. Obtained at no other locality.
-Ophiomusium cancellatum, n.sp. Obtained also at Station 33 (?).
-Ophiopholis japonica, n.sp. Obtained also at Station 235.
-Amphiura bellis, n.sp. Obtained also at Stations 174 (var. ?) and 232.
-Obtained at no other locality.
-glauca, n.sp.
-Obtained also at Station 232.
-Ophiacantha rosea, n.sp. Obtained also at Stations 145 and 308.
-Ophiomitra normani, n.sp., (young). Obtained also at Stations 232 and 235.
-iris, n.sp.
-3)
-NEMERTEA (Hubrecht, Zool. pt. 54).
-Pelagonemertes rollestoni, Moseley, n.g., n.sp. One specimen (from surface ?);
-obtained also at Station 158.
-ANNELIDA (MʻIntosh, Zool. pt. 34).
-Thelepus marenzelleri, n.sp. One specimen ; obtained at no other locality.
-MYZOSTOMIDA (Graff, Zool. pt. 61).
-Myzostoma cornutum, Graff. (On Antedon alternata).
-AMPHIPODA (Stebbing, Zool. pt. 67).
-Anonyx ampulloides, Spence Bate (Stimpson, Ms.). One specimen ; obtained at no
-other locality by the Challenger. Recorded from Japan.
-Macrura (Spence Bate, Zool. pt. 52).
-Sergestes prehensilis, n.sp.
-One specimen ; obtained at no other locality.
+Ophioglypha sinensis, Lyman. (Yokohama, 8 to 15 fathoms); obtained also at
+Station 233B.
+Echinoidea (Agassiz, Zool. pt. 9).
+Temnopleurus hardwicki (Gray). (Yokohama, 5 to 25 fathoms); obtained also at
+Stations 192, 233, and Arafura Sea.
+Astriclypeus manni, Verrill. (Singisima, Inland Sca); obtained at no other locality
+by the Challenger.
+Schizaster japonicus, n.sp. (Yokohama, 8 to 14 fathoms); obtained also at
+Stations 188, 233, 233B, and Hong Kong.
+HOLOTHURIOIDEA (Théel, Zool. pt. 39).
+Cucumaria multipes, n.sp.
+One specimen (Yokohama, 8 to 10 fathoms); obtained
+at no other locality.
+Stichopus japonicus, Selenka (?). One specimen (pools, Japan); obtained at no
+other locality by the Challenger. Recorded from Japan and
+Hong Kong
+var. typicus, nov. Two specimens (Japan); obtained at no
+other locality.

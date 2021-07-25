@@ -1,24 +1,9 @@
 SUMMARY OF RESULTS.
-987
-In addition, the following are recorded in the note-books :- Oscillatoriaceæ, Station 256.
-Peridinium, Pyrocystis, Ethmodiscus and other Diatoms, Halosphæra, Globigerina,
-Orbulina, Hastigerina, Pulvinulina, Medusæ, Porpita, Physalia, Velella, Ctenophoræ,
-Sagitta, Tomopteris, Sipunculid larvæ, Cypridina, Copilia, Saphirina, Euphausia,
-Siriella, Lucifer, Amphion, Halobates, Ianthina, small shells, Glaucus atlanticus,
-Doliolum, Appendicularia, flying fishes and other small fishes. The tow-net at the
-weights brought up many Phæodaria and Nassellaria not met with on the surface.
-Mr. Murray was away in a boat, but there was a slight breeze and organisms were
-not so plentiful as at the previous Station, but specimens of Porpita, Physalia,
-Velella, lanthina, and Halobates were collected, and a few specimens of Hastigerina
-and Oscillatoriaceæ were observed with the water-glass. A large shark was seen
-while dredging
-Station 257 (Sounding 399), Yokohama to Sandwich Islands (see Chart 36 and Station 257.
-Diagram 19).
-July 23, 1875; lat. 27° 33' N., long. 154° 55' W.
-Temperature of air at noon, 76°8; mean for the day, 73°•4.
+989
 Temperature of water :-
-99
-Surface,
+Station 258.
+>
+Surface, .
 25 fathoms,
 50
 75
@@ -31,19 +16,19 @@ Surface,
 250
 275
 300
-76.5
-71.3
-65.0
-60.0
-56.5
-53.8
-51.8
-50.2
-48.8
-47:4
-46.2
-45.2
-44.2
+77.0
+72.6
+66.6
+62-5
+58.8
+55.3
+52-5
+49.8
+47.6
+45.9
+44.5
+43.4
+42.6
 400 fathoms,
 500
 600
@@ -57,35 +42,46 @@ Surface,
 1400
 1500
 Bottom,
-1.3
-39.5
+07
+404
+39.0
 38.3
-37:3
-36.7
-36:3
-36.0
+37.6
+37.0
+36.5
+36.1
 35.8
 35.6
 35.4
 35.2
-35.0
-34.9
-"
-Density at 60° F.:-
-Surface,
-25 fathoms,
+35.2
+35.2
 .
-. 1.02611
-. 1.02607
-1.02598
-1.02557
-200 fathoms,
-2850
-Bottom,
-. 1.02532
-1.02539
-1:02581
-.
-50
-100
-Depth, 2875 fathoms ; deposit, Red Clay.
+99
+Density at 60° F. at surface, 1.02591 ; bottom, 1.02525.
+Depth, 2775 fathoms ; deposit, Red Clay, containing only a trace of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 1.30 P.M. got up steam to sound. At 2.35 P.M. shortened and furled sails,
+proceeded under steam, and sounded in 2775 fathoms. Took serial temperatures down
+to 1500 fathoms. At 6.15 P.M. completed temperatures and made sail. One albatross
+was seen which proved to be the last in this section of the cruise ; these birds had been
+observed in numbers ever since the departure from Japan. Several boatswain birds were
+seen, and a turnstone (Strepsilas interpres) flew about the ship in an exhausted
+condition.
+East point of Oahu Island distant at noon, 328 miles. Made good 74 miles.
+Amount of current 8 miles, direction S. 61º W.
+Moseley writes, with reference to the birds observed in this part of the Pacific :-
+“ From the time of leaving Japan up till July 21 we were accompanied by numerous
+albatrosses, all apparently young birds of last year and all dark, with the exception of
+the commencement of white about the head and neck. A few stray white-plumaged
+birds were seen, but rarely. With these was a prion which, however, left us almost
+directly we turned south. The albatrosses fed tamely round the ship, as many as
+twenty-four being seen at a time. After July 21 they suddenly diminished in numbers,
+and on the 22nd and 23rd only two or three stragglers were seen ; on the 24th they
+were gone. Boatswain birds (Phæthon) were seen very far north and far from land
+before we turned south ; they re-appeared when the albatrosses began to leave. A
+Thalassidroma and large petrel or puffin also were seen.
+Surface Organisms.—The following are recorded in the note-books from the surface ORGANISMS FROM
+at this Station :-Pyrocystis (two forms), Globigerina, Orbulina, Pulvinulina, Radiolaria, Surface-Ners.
+(SUMMARY OF RESULTS CHALL. EXP.--1893.)
+125

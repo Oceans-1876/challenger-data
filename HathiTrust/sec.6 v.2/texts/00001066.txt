@@ -1,81 +1,105 @@
-MEAN TEMPERATURE OF THE OCEANS AT D
-
+MEAN TEMPERATURE OF THE OCEANS AT DEPTI
 80
-10
-100
 70
+60
+40
 90
-The Voyage of HMS "Challenger"
-110
+100
+180
 120
-130
-150
+110
 140
+- Voyage of H.M.S “Challenger"
+
+150
 160
 170
 180
+160
 170
-180
 150
 140
 130
 120
-100
-110
-80
-70
-80
-35
+00
+no
+10
+8
 50
-40
-o
-379
+so
+TO
+10
+:13
+11
+16
+H0
+N
+3
+7
+15
+2
+13/13
+w
+2:
+10
+.
+1.1
+•13
+112
+il
+10
+3.
+lo
+.2
 30
-Tropic,
-Cancer.
-O
+.2
+10
+4
+Tropic of Cancer.
+15
 20
-0
-35°5
-360
 Equator
 10
-Tropic of Capricorn
+Tropic, lof Capricorn
 20
-30
-3595
 10
-35
+30
+26
+25
+6
+4
+115
+3
+40
+50
 60
-80
 Antarctic Circle
 70
-2
-ISOTHERMAL LINES
-SHOWING THE MEAN TEMPERATURE (FAHR)
-OF THE OCEAN AT
-DEPTH OF 1500 FATHOMS
+FIGURES SHOWING THE
+MEAN TEMPERATURE OF THE OCEAN
+AT DEPTH OF 2200 FATHOMS
+Note: --Red Figures show the Excess above 3592
+Blue Figures show the Defect below 35.2
 60
 70
 80
-00
+90
+10
 100
-no
-130
 120
+130
 140
-Track of H.M.S.
-160
+Track of HMS Challenger
 150
+160
+170
+160
 180
 170
-170
-160
-100
-110
-120
 150
-130
 140
-Isothermals above Average shown in Red thus
-A.Buchan. Delt.
+100
+no
+120
+130
+A Buchan Delt.

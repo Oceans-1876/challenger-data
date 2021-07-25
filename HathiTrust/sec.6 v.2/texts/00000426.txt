@@ -1,55 +1,56 @@
-1158
+1162
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 310.
-POLYPLACOPHORA (Haddon, Zool. pt. 43).
-Lepidopleurus dallii, n.sp. Obtained at no other locality.
+Station 311.
+CEPHALODISCUS (MʻIntosh, Zool. pt. 62).
+Cephalodiscus dodecalophus, n.g., n.sp.
+Obtained at no other locality. Only species
+of the genus.
+TUNICATA (Herdman, Zool. pts. 17 and 38).
+Ascidia tenera, n.sp. Three specimens ; obtained also at Station 320, 600 fathoms.
+Colella ramulosa, n.g.,n.sp. About twelve specimens ; obtained at no other locality.
+Amaroucium recumbens, n.sp. One specimen ; obtained at no other locality.
+Leptoclinum tenue, n.sp. About twenty specimens ; obtained also at Stations 308
+and 320.
+propinquum, n.sp. Several specimens ; obtained at no other locality.
 FISHES (Günther, Zool. pt. 57).
-Scyllium canescens, n.sp. One specimen ; obtained at no other locality.
-Paraliparis membranaceus, n.sp. One specimen ; obtained at no other locality.
-Notacanthus bonapartii, Risso. One specimen ; obtained at no other locality by
-the Challenger. Recorded from Mediterranean.
+Centroscyllium granulatum, n.sp. One specimen ; obtained at no other locality.
+Macrurus fasciatus, n.sp. Five specimens; obtained also at Stations 305 and 309.
 In addition to the foregoing, the following are recorded in the Station-book :-
-Many large masses of Lophohelia, and calcareous Polyzoon.
-Excluding Protozoa, over 150 specimens of invertebrates and fishes were obtained
-at this Station, belonging to about 30 species, of which 24 are new to science, including
-representatives of 7 new genera ; 16 of the new species were not obtained elsewhere.
+Epizoanthus (?) on Gorgonoid stems, Euryale, Ophiomywa, two specimens of Ophiolepis,
+and several other Ophiurids of three species (only two species of Ophiuroidea noted
+above), very many specimens of Hemiaster of two species, Aphroditacean, Dentalium,
+several specimens of Patella (?), Idmonea, and Terebratula.
+1
+.
+Excluding Protozoa, over 350 specimens of invertebrates and fishes were obtained
+at this Station, belonging to about 65 species, of which 42 are new to science, including
+representatives of 7 new genera; 16 of the new species and 1 new genus were not
+obtained elsewhere.
 ORGANISMS FROM
 THE DEPOSIT.
-FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera, were
-observed in the deposit from this Station ; the only pelagic species is Globigerina
-bulloides :
-Biloculina ringens (Lamarck).
+FORAMINIFERA (Brady, Zool. pt. 22).—The following species of Foraminifera were
+observed during the examination of the deposit from this Station; the single pelagic
+species (Globigerina bulloides) makes up about 23 per cent. of the carbonate of lime
+present in the deposit :
+Biloculina depressa, d'Orbigny.
+elongata, d'Orbigny.
+ringens (Lamarck).
 sphæra, d'Orbigny.
-Miliolina seminulum (Linné).
-Reophaz difflugiformis, Brady.
-pilulifera, Brady.
-scorpiurus, Montfort.
-Haplophragmium canariense (d'Orbigny).
-scitulum, Brady.
-Hormosina globulifera, Brady.
-Ammodiscus gordialis (Jones and Parker).
-tenuis, Brady.
-Trochammina squamata, Jones and Parker.
-Cyclammina cancellata, Brady.
-Clavulina communis, d’Orbigny.
-Bulimina pyrula, d’Orbigny.
-Bolirina robusta, Brady.
-Cassidulina crassa, d'Orbigny.
-Lagena lævis (Montagu).
-Nodosaria communis, d'Orbigny.
-Cristellaria rotulata (Lamarck).
-Sagrina dimorpha, Parker and Jones.
-x Gloingerina bulloiles, d'Orbigny.
-Spirillina tuberculata, Brady.
-Truncatulina tenera, Brady.
-Nonionina depressula (Walker and Jacob).
-scapha (Fichtel and Moll).
-I
-1
-1
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.—The tow-nets procured : Diatoms, many specimens of
-Peridinium, many Infusoria, many small Medusæ, Annelid larvæ, Daphnids, Copepods,
-Amphipods, many larval Lamellibranchs (young mussels), Membranipora larvæ,
-Appendicularia.
+Miliolina auberiana (d'Orbigny).
+oblonga (Montagu).
+seminulum (Linné).
+Reophax scorpiurus, Montfort.
+Haplophragmium canariense (d’Orbigny).
+latidorsatum (Bornemann).
+Clavulina communis, d'Orbigny.
+Bulimina pupoides, d'Orbigny.
+pyrula, d’Orbigny.
+Cassidulina crassa, d’Orbigny.
+lævigata, d'Orbigny.
+Lagena distoma, Parker and Jones.
+hispida, Reuss.
+lævis (Montagu).
+striata (d'Orbigny).
+striatopunctata, Parker and Jones.
+Nodosaria (Glandulina) læviyata, d’Orbigny.
+(Dentalina) pauperata, d'Orbigny.

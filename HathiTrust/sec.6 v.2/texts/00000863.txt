@@ -1,92 +1,107 @@
 SUMMARY OF RESULTS.
-1581
-Chierchia, G., 106B.
-Colour of water, 67, 216, 232, 298, 300, 301, 444,
-China, 28, 31, 37, 41, 43, 44.
-499, 502, 718, 751, 945, 965, 1119, 1181,
-Sea, 31, 34.
-1193, 1195, 1207, 1269.
-Chirigui Archipelago, 43.
-Colouring matter of Caligus, 617.
-Chitons, 78, 459 (see also Polyplacophora).
-Holothurians, 505.
-Chumley, James, xxxix.
-lanthina, 112.
-Ciliate Infusorians, 853.
-Stephanotrochus, 285.
-Ciliated organisms, 1064.
-Columbus, Bartholomew, 43.
-Cimicid Hemipter, 530.
-Christopher, xxxv., 3, 4, 15, 22, 29, 31, 38,
-Circe, 9, 18.
-41, 42, 43, 44, 45, 46, 64.
-Cirripedia, 117, 122, 123, 150, 173, 188, 225, 243, Columns of Hercules, 16, 17.
-249, 251, 266, 268, 280, 282, 309, 394, 403, Comatulæ, 379, 418, 515, 551, 617, 621, 681, 716,
-416, 428, 446, 453, 485, 497, 498, 509, 526,
-807, 1444 (see also Crinoidea),
-528, 559, 578, 580, 594, 608, 614, 679, 698, Comber, Thomas, xxxviii. (see also Diatomacea).
-722, 747, 759, 767, 772, 780, 787, 788, 790, Comb-shells, 62, 96.
-805, 812, 829, 841, 847, 850, 855, 907, 918, Compass charts, 39, 40, 41.
-934, 956, 960, 963, 970, 971, 1029, 1068, 1125, Concharidæ, 973.
-1127, 1135, 1164, 1182, 1190, 1199, 1224, Concretions, 248, 1091, 1122, 1182, 1187.
-1242, 1263, 1268, 1279, 1286, 1295, 1306,
-glauconitic (see Glauconitic concretions).
-1320, 1339, 1447.
-manganese (see Manganese nodules).
-larve of (see Larvæ).
-phosphatic (see Phosphatic concretions).
-Clamm, deep-sea, 76, 78.
-Conglomerate, 98, 99, 766, 771.
-Claparède, E., 110, 327.
-Congress, the, 88, 90.
-Claus, C., 122, 137, 382, 525, 575, 783
-Conifer, seeds of, 851.
-Clay, 100.
-Connection between deep-sea and fossil species, 96, 99,
-Clayey concretions, 1091.
-102.
-Clepsydra, 57.
-Continental theory of distribution of land and water,
-Climate of coal period, 1456.
-28.
-Clymenida, 284.
-Continents (influence of) ou distribution of marine
-Clypeastridæ, 195.
-animals, 1459.
-Coccoliths, 92, 589, 885, 966, 971, 1062, 1064, 1222.
-permanence of, 1462.
-Coccospheres, 222, 334, 388, 389, 425, 501, 587, 589, Contours of sea-bottom, 50, 51.
-642, 664, 670, 770, 774, 793, 799, 848, 871, Cook, James, 28, 48, 49, 65, 68, 69, 70, 72, 488.
-873, 886, 895, 970, 971, 982, 1025, 1062, Copepoda, 116, 117, 119, 137, 142, 143, 148, 149, 214,
-1064, 1079, 1082, 1083, 1085, 1092, 1094,
-215, 229, 248, 299, 308, 314, 316, 321, 322,
-1096, 1101, 1127, 1137, 1186, 1203, 1210,
-327, 330, 334, 382, 383, 384, 388, 402, 428,
-1213, 1215, 1219, 1227, 1234, 1248, 1260,
-430, 443, 449, 450, 456, 459, 482, 487, 495,
-1264, 1269, 1455.
-498, 500, 505, 506, 517, 522, 524, 525, 530,
-Cocoa-nuts, 679.
-545, 551, 552, 575, 576, 585, 586, 587, 617,
-Cod-fish, 220, 222.
-620, 621, 660, 664, 671, 675, 688, 717, 734,
-Cælenterata, 902.
-735, 737, 742, 751, 768, 773, 775, 777, 782,
-larvæ of (see Larvæ).
-783, 790, 791, 793, 797, 799, 802, 808, 817,
-pelagic, 1458.
-822, 834, 845, 848, 852, 863, 866, 868, 877,
-Colaus, 9.
-889, 890, 892, 893, 894, 905, 916, 920, 931,
-Collections (Challenger), method of dealing with on
-932, 940, 942, 943, 944, 945, 951, 952, 953,
-board ship, 1272, 1273.
-959, 960, 968, 971, 973, 975, 977, 980,
-stored in University of Edinburgh, 1272.
-982, 983, 986, 988, 991, 992, 1003, 1005,
-Colloidea, 1044.
-1007, 1018, 1024, 1029, 1033, 1048, 1054,
-Colloid masses, 774.
-1062, 1068, 1079, 1082, 1083, 1085, 1089,
-Collosphäridæ, 890, 893.
-1092, 1093, 1095, 1099, 1101, 1102, 1105,
+1585
+Euplectella-ground, 808.
+Euplectellidæ, 263.
+Euryalidæ, 1149.
+Euthymenes, 14.
+Euxinus, Pontus, 6, 9, 11, 13, 19, 20, 24.
+Evolution of the Metazoa, 1458.
+Excreta (see Dung).
+External Sea, 6, 8, 11, 12, 13, 16, 21.
+Eydoux, F. Th., 75.
+Fishes-continued.
+1068, 1076, 1081, 1091, 1094, 1098, 1107,
+1108, 1109, 1115, 1121, 1125, 1130, 1143,
+1146, 1148, 1153, 1155, 1158, 1162, 1165,
+1166, 1171, 1174, 1180, 1184, 1192, 1195,
+1196, 1197, 1200, 1203, 1206, 1207, 1212,
+1225, 1228, 1240, 1253, 1255, 1259, 1260,
+1262, 1263, 1266, 1269, 1273, 1280, 1287,
+1298, 1310, 1323, 1434, 1438, 1447, 1449,
+1451, 1452, 1454.
+flying, 145, 148, 155, 157, 158, 187, 188, 302,
+380, 632, 799, 852, 987, 1020, 1029, 1048,
+1057, 1064, 1186, 1207, 1262, 1261.
+pilot, 143, 158, 617, 893, 1020, 1256.
+pipe-, 184, 1266.
+eggs of (see Eggs).
+observations on deep-sea, 80, 81.
+otoliths of, 138.
+teeth of, 1093, 1265.
+Fiske, John, 44.
+Fitzroy, Robert, 70, 77.
+Flavio Giogo, 33.
+Flavius Arrianus, 27.
+Fleeming Jenkin, H. C., 96.
+Flemish, 52, 53.
+Fleurieu, C. F. C. de, 71.
+Flies, 142.
+Flint, 89.
+Floating driftwood, 849.
+99
+Falkland Islands, 1175.
+Faroe Channel, 101, 1432, 1433.
+Fathoms used to measure distances at sea, 11.
+Fauna (deep-sea), origin of, 1434.
+(Lusitanian), 249.
+(polar), origin of, 1434.
+(universal deep-sea), no sufficient evidence for,
+1439.
+of east and west coasts of Africa, 1459.
+America, 1459.
+Fawn colour of water, 1193.
+,
+Felspar, 98.
+Fernando Noronha, 343, 346.
+Ferrer, Jacques, 42.
+Festus Avienus, R., 5, 6.
+Fiji Islands, 642.
+Finches, 212, 891.
+First account of deep-sea sounding, 22.
+First attempt at deep-sea sounding, 45.
+Fischer, B., 106a.
+H., 23.
+P., 106B.
+Fishes, 110, 111, 118, 120, 137, 153, 157, 160, 164,
+167, 170, 188, 203, 206, 227, 245, 247, 248,
+249, 251, 257, 299, 302, 313, 315, 320, 322,
+324, 329, 334, 336, 340, 346, 352, 364, 367,
+369, 379, 387, 402, 415, 425, 428, 441, 447,
+455, 478, 486, 495, 504, 505, 510, 520, 524,
+530, 544, 545, 546, 550, 551, 574, 591, 592,
+595, 599, 603, 609, 616, 617, 621, 629, 634,
+657, 661, 664, 665, 669, 674, 676, 681, 684,
+688, 715, 731, 732, 735, 737, 740, 741, 749,
+751, 754, 766, 768, 772, 777, 781, 782, 783,
+786, 789, 790, 793, 796, 797, 798, 802, 815,
+816, 833, 838, 842, 843, 845, 848, 849, 850,
+851, 852, 853, 856, 857, 861, 863, 865, 867,
+869, 870, 871, 873, 883, 885, 890, 891, 892,
+895, 901, 902, 910, 911, 915, 919, 926, 935,
+940, 964, 965, 976, 988, 991, 993, 1000, 1004,
+1010, 1013, 1020, 1026, 1029, 1036, 1066,
+(SUMMARY OF RESULTS CHALL. EXP.-1894.)
+spar, 403.
+wood, 189, 235, 268.
+Florez, Padre, 4.
+Florida, 44.
+Keys, 100.
+reefs, 98, 100.
+Flower, W. H., xii.
+Flying fishes (see Fishes).
+Fol, H., 328.
+Folin, Marquis de, 106B.
+Food of Cirriped Zoeæ, 971.
+deep-sea animals, 1433.
+Euphausia, 971.
+Holothurians, 808.
+organisms inhabiting intermediate waters of
+the ocean, 1455.
+shrimps, 1130.
+(struggle for) in deep sea, 1433.
+Foraminifera, xxxviii., 79, 85, 87, 89, 90, 92, 93, 98,
+114, 115, 124, 133, 138, 144, 147, 152, 165,
+180, 187, 190, 195, 198, 200, 203, 211, 215,
+200
+99
+atsistita skaistis tie tus amintimitad tihti sanitare Aktien

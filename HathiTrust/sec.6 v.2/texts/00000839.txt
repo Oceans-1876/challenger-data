@@ -1,182 +1,189 @@
 SUMMARY OF RESULTS.
-1557
-Solaster, 399, 621, 1450.
-endeca, 221, 1376.
-papposus, 399.
-paxillatus, 898, 1334.
-regularis, 1151, 1334.
-subarcuatus, 484, 1334.
-torulatus, 613, 1317.
-Solea, 807, 821, 913, 915, 1197.
-heterorhina, 660, 1421.
-kaiana, 750, 1354.
-orata, 787, 796, 1421, 1428.
-Solecurtus,
-(Azor),
-coarctatus, 726, 1397.
-Solemya,
-patagonica, 1161, 1345.
-Solen,
-Sicyonia--continued.
-sculpta, 309, 1388.
-Sicyonis, 1450.
-crassa, 451, 955, 1292.
-elongata, 955, 1277.
-Siderastræa,
-galaxea, 241, 1372.
-Sideroderma, 1429.
-navicelligerum, 718, 1364.
-Sidnyum, 1452.
-pallidum, 441, 1415.
-Sigalion,
-buskii, 271, 1338.
-Sigaretus, 1243, 1349.
-Silenia,
-sarsii, 509, 1205, 1279, 1281,
-1296.
-Siliquaria,
-(Tenagodus), 362, 1349.
-bernardii, 1270, 1309.
-Sillago,
-ciliata, 715, 1421.
-japonica, 927, 1421.
-sihama, 861, 1421.
-Silurus,
-asotus, 929, 1421.
-Simorhynchotus,
-antennarius, 1262.
-Simpulum (see Triton).
-Sipho (see Fusus).
-Siphocampe,
-annulosa, 1061.
-caminosa, 1052.
-erucosa, 1032.
-quadrantalis, 868, 682.
-spiralis, 882.
-tubulosa, 882.
-Siphodentalium,
-dichelum, 650, 1406.
-eboracense, 705, 1406.
-honoluluense, 998, 1406.
-platamodes, 175, 1349.
-prionotum, 683, 1319.
-pusillum, 293, 1309.
-tetraschistum, 344, 1406.
-tytthum, 175, 1349.
-Siphonaria,
-cancer, 599, 1406.
-(Liriola),
-tristensis, 397, 1406.
-Siphovicytara, 1327.
-serrulata, 767, 1323.
-Siphonidium,
-capitatum, 743, 1329.
-Siphonochalina,
-annulata, 536, 1364.
-intermedia, 553, 1364.
-Siphonogorgia,
-godeffroyi, 898.
-köllikeri, 761, 1331, 1366.
-Siphonogorgia--continued.
-pallida, 859, 1366.
-pendula, 761, 1366.
-pustulosa, 667, 1331.
-Siphonorbis (see Fusus).
-Siphonosphæra,
-chonophora, 1095, 1098, 1099,
-1101, 1105, 1108.
-cyathina, 1254, 1257, 1261.
-fragilis, 585.
-infundibulum, 1217.
-macrosiphonia, 1024, 1028, 1032,
-1038, 1044, 1053.
-marginata, 1021.
-microsiphonia, 1017, 1019.
-patinaria, 167, 1254.
-pipetta, 953, 958, 960, 967, 969,
-973, 977, 980.
-serpula, 976, 979, 986, 1038.
-socialis, 1231, 1237, 1239, 1250,
-1254, 1257, 1261, 1265.
-tubulosa, 882, 1013, 1024.
-Siphonostomum, 479.
-Sipunculus, 165, 214, 215, 228, 233,
-324, 479, 504, 609, 836, 843.
-Siriella, 871, 885, 889, 895, 968, 987.
-gracilis, 734, 853, 887, 1033.
-thompsoni, 160, 252, 586, 1033,
-1094, 1119, 1208, 1210, 1222,
-1263.
-Skeletonema,
-costatum, 931.
-Skenea, 571, 712, 729, 1406.
-subcanaliculata, 474, 1406.
-Skua, 209.
-Smilasterias (see Asterias).
-Smittia,
-delicatula, 1000.
-graciosa, 459, 1352.
-jacobensis, 313, 440, 1352, 1360,
-1413.
-marionensis, 440, 476, 1352,
-1360, 1413.
-marsupialis, 1000, 1170, 1413,
-1427.
-orotavensis, 276, 1352.
-smittiana, 1192, 1323.
-stigmatophora, 1179, 1413.
-tenuis, 378, 1413.
-transversa, 1550, 1352.
-Socarnoides, 1429.
-kergueleni, 468, 1386.
-Solariella (see Trochus).
-Solarium, 152, 176, 345, 360, 1349, 1406.
-atkinsoni, 579, 1349.
-(Architectonica),
-perspectivum, 820, 1406.
-reevei, 567, 1406.
-(Torinia),
-rosulentum, 567, 1406.
-sloanii, 562, 1397.
-Solenognathus, 1440.
-fasciatus, 551, 1354.
-Solenosmilia,
-variabilis, 393, 433, 1242, 1303,
-1312, 1333, 1355.
-Solenosphæra,
-amalthea, 1038, 1044, 1206.
-ascensionis, 1239.
-cornucopia, 1038.
-megalactis, 986, 1006, 1010, 1014,
-1021, 1027, 1031, 1038, 1050,
-1055, 1059, 1064, 1089.
-pandora, 1014, 1021, 1027, 1031,
-1038, 1050, 1055, 1059.
-variabilis, 1031, 1038, 1050.
-Sophrosyne, 1429.
-murrayi, 468, 1386.
-Soreuma,
-acervulina, 1040.
-acinosum, 1040.
-irregulare, 957.
-setosum, 1040.
-spinosum, 949.
-subglobosum, 1015.
-Sorolarcus,
-larnacillifer, 1015.
-terminalis, 957, 1040.
-tetrapylifer, 1051.
-Sorosphæra, 610.
-confusa, 165, 956, 964.
-Spatagocystis, 1301.
-challengeri, 452, 507, 1294, 1298.
-Spatangus, 1450.
-purpureus, 85, 242, 270, 1378,
-1423.
-raschi, 417, 420, 1337, 1358,
-1378 1444, 1448.
-Sphærechinus,
-australiæ, 537, 1378.
-granularis, 307, 1378, 1423.
-Sphærocapsa,
-dentata, 1217.
+1561
+6.
+329.
+316.
+31
+EO.
+318,123,
+1993, 1993
+Stephanoscyphus, 609, 681, 848, 948, Stichopera,
+956, 964, 978, 979, 985, 1008,
+clavata, 1118.
+1036, 1050, 1059, 1066, 1091,
+lagena, 1052.
+1104, 1118, 1125, 1130, 1135.
+ovata, 1017.
+simplex, 507, 1292.
+pectinata, 950, 1042.
+Stephanospyris,
+serrata, 875.
+cordata, 1011, 1040, 1046.
+verticillata, 1042.
+excellens, 1023.
+Stichophæna,
+verticillata, 1016.
+darwiniana, 1012, 1042.
+Stephanotrochus,
+gætheana, 1017.
+diadema, 281, 285, 350, 1303,
+nonaria, 958.
+1311, 1316.
+novena, 1052.
+discoides, 350, 1316.
+ritteriana, 1132.
+robilis, 265, 1303.
+Stichophormis,
+platypus, 577, 1333.
+cornutella, 881, 980,
+Stephonalia, 1361.
+lucerna, 1012, 1042.
+bathy plıysa, 590, 1333.
+novena, 1042.
+Stercorarius,
+pyramidalis, 1056.
+antarcticus, 506.
+radiata, 1042, 1047, 1132.
+Stereoinastis,
+Stichopilium,
+auriculata, 638, 1143, 1321.
+bicorne, 1042.
+suhmi, 1143, 1161, 1342, 1356.
+campanulatum, 1052.
+Sternaspis, 133, 211, 610, 740.
+cortina, 1052.
+princeps, 607, 1319.
+costatum, 881, 957.
+Sternoptyx, 1048, 1219.
+pectinatum, 1042.
+diaphana, 324, 334, 336, 524,
+thoracopterum, 1112.
+621, 842, 856, 919, 1280, 1281,
+triserratum, 881.
+1282, 1288, 1289, 1290, 1298, Stichopterium,
+1299, 1300, 1301, 1310, 1312,
+dictyopodium, 1095.
+1314, 1324, 1325, 1327.
+virgineum, 1082.
+Stichaster, 1444, 1450.
+Stichopus, 122, 123.
+albulus, 224, 1376.
+challengeri, 458.
+aurantiacus, 1120, 1376.
+chloronotus, 624, 647, 1379,
+felipes, 407, 419, 1334, 1358,
+1424.
+1376.
+godeffroyi, 996, 1379.
+polygrammus, 1160, 1334.
+haytiensis, 242, 1379.
+polyplax, 537, 1376.
+japonicus, 923, 1379.
+Stichocampe,
+var. typicus, 923, 1379.
+convergens, 1056.
+möbii, 242, 1379.
+divergens, 881, 1012.
+moseleyi, 1145, 1151, 1160, 1337,
+Stichocapsa,
+1356.
+compacta, 1024.
+sordidus, 596, 1379.
+cylindrica, 1043, 1231.
+torvus, 1129, 1305.
+hexacola, 1017.
+variegatus, 829, 1379.
+monstrosa, 882.
+Stictodiscus,
+paniscus, 882.
+affinis, 812.
+pentacola, 1056.
+bicoronatus, 904.
+pyriformis, 1043.
+californicus, 303, 760, 812, 904,
+quadrigata, 1032.
+939.
+subglobosa, 1012.
+var. areolata, 904, 939.
+tetracola, 882.
+var. ecostata, 939.
+tricincta, 1024.
+var. nankoorensis, 303, 904,
+Stichocorys,
+939.
+baerii, 958.
+japonicus, 904
+huschkei, 1043, 1089.
+parallelus,
+mülleri, 1023.
+forma hexagona, 135, 278,
+kenii, 1052.
+287.
+panderi, 881, 1012.
+forma tetragona, 939.
+rathkei, 980.
+forma trigona, 905.
+wolffii, 882.
+varians, 939, 950.
+(SUMMARY OF RESULTS CHALL. EXP.-1894.)
+Stigmosphæra,
+actinocentra, 1044.
+Stochasmus, 1314.
+exilis, 292, 293, 1307.
+Stolasterias (see Asterias).
+Stomatella,
+imbricata, 566, 1406.
+(Gena),
+caliginosa, 176, 1349.
+nigra, 345, 566, 1406, 1427.
+Stomatodiscus,
+amphistomus, 1136.
+osculatus, 879, 1039, 1045.
+Stomias,
+affinis, 164, 1354.
+boa, 521, 1298, 1449.
+Storthosphæra, 211, 285, 511, 936, 1036.
+albida, 1200.
+confusa, 285.
+Stoschia,
+admirabilis, 287, 760, 812, 889,
+892.
+Stramonita (see Purpura).
+Streblacantha,
+calcarina, 1089.
+hastigerina, 1040.
+siderolina, 1118.
+Strebloceras,
+subannulatum, 998, 1406.
+Streblonia,
+bulimina, 1022.
+globigerina, 979.
+polymorphina, 1015.
+pulvinulina, 1006, 1046.
+rosalina, 1040.
+uvigerina, 1217.
+Streblopyle,
+helicina, 1015.
+Streetsia,
+challengeri, 944.
+Strepsilas,
+interpres, 989.
+Streptocaulus, 1361.
+pulcherrimus, 306, 1333.
+Striatella,
+unipunctata, 939.
+Strobalia,
+conifera, 1095.
+Stromateus,
+argenteus, 796, 1421.
+Strombus, 379, 736, 1407.
+lentiginosus, 413, 1407.
+pugilis, 361, 1349.
+(Canarium),
+gibberulus, 627, 654, 1407, 1427.
+muricatus, 708, 1407.
+rugosus, 655, 1407.
+rupellii, 655, 1407.
+(Gallinula),
+campbellii, 708, 1407, 1427.
+197

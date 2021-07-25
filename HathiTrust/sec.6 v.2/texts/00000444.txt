@@ -1,51 +1,42 @@
-1172
+1176
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 313.
-FORAMINIFERA (Brady, Zool. pt. 22). — The following species of Foraminifera were
-ORGANISMS FROM observed in the deposit from this Station ; the only pelagic species is Globigerina
-bulloides :-
-THE DEPOSIT.
-Biloculina ringens (Lamarck).
-Miliolina oblonga (Montagu).
-seminulum (Linné).
-subrotunda (Montagu).
-Haplophragmium canariense (d'Orbigny).
-Cassidulina subglobosa, Brady.
-Lagena lævigata (Reuss).
-Lagena læris (Montagu).
-sulcata (Walker and Jacob).
-x Globigerina bulloides, d'Orbigny.
-Discorbina globularis (d'Orbigny).
-Truncatulina lobatula (Walker and Jacob).
-Polystomella crispa (Linné).
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.-- The tow-net yielded compound Radiolaria, small Copepods,
-many Zoëæ of Crabs, Megalopæ, and larval Lamellibranchs.
-STATION 314.
-Station 314 (Sounding 463), Sandy Point to Falkland Islands (see Chart 42).
-January 21, 1876; lat. 51° 35' S., long. 65° 39' W.
-Temperature of air at noon, 49°:8; mean for the day, 48°:9.
-Temperature of water at surface, 48°:0; bottom, 46°:0.
-Density at 60° F. at surface, 1.02468; bottom, 1.02476.
-Depth, 70 fathoms ; deposit, Coarse Sand.
-At 9.10 A. M. shortened and furled sails. Sounded in 70 fathoms. Put over trawl,
-which came up at 10.40 A. M. with numerous specimens. The carbonic acid was determined
-in bottom water, and amounted to 42.4 milligrammes per litre. Proceed .
-Jason West Cay, Falkland Islands, distant at noon, 159 miles. Made good
-122 miles. Amount of current 11 miles, direction N. 15° E.
+FALKLAND
+ISLANDS.
+Echinus magellanicus, Phil. (Station 315, 5 to 12 fathoms); for distribution see
+Station 145.
+HOLOTHURIOIDEA (Théel, Zool. pt. 39).
+Chirodota purpurea, Lesson. Numerous specimens (Station 316, 4 to 5 fathoms);
+obtained at no other locality by the Challenger. Recorded
+from Falklands.
+australiana, Stimpson. Two specimens (Station 315, 5 to 10 fathoms);
+obtained at no other locality by the Challenger. Recorded
+from Australia.
+Cucumaria crocea, Lesson. Numerous specimens (Stations 315 and 316,
+4 to 12 fathoms) ; obtained also at Stations 313 and 314.
+mendax, n.sp.
+Six specimens (Station 315, 5 to 12 fathoms); obtained
+at no other locality.
 1
-ANIMALS FROM
-TRAWL.
-The following species are recorded in the Zoological Reports from the trawl
-at this Station :
-MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
-Petrosia similis, n.sp., var. massa, nov. Several specimens; the species obtained
-also at Stations 142, 150, and 208 (var. compacta).
-Tedania tenuicapitata, Ridley. One specimen ; obtained also at Stations 308
-and 311.
-HYDROIDA (Allman, Zool. pt. 70).
-Grammaria magellanica, n.sp. Several specimens ; obtained at no other locality.
-Sertularia implexa, n.sp. Obtained at no other locality.
-Thuiaria quadridens, n.sp.
-Obtained at no other locality.
+!
+ANNELIDA (MʻIntosh, Zool. pt. 34).
+Hermadion kerguelensis, n.sp. Several specimens (Station 315, 5 to 10 fathoms);
+obtained also at Station 149.
+Nereis (Platynereis) eatoni, MʻIntosh. One specimen (Station 315, 5 to 10 fathoms);
+obtained also at Stations 113, 145, and 149.
+OSTRACODA (Brady, Zool. pt. 3).
+Aglaia (?) meridionalis, n.sp. (Stanley Harbour, 6 fathoms); obtained at no other
+locality.
+Cythere moseleyi, n.sp. (Stanley Harbour, 6 fathoms); obtained at no other locality.
+falklandi, n.sp. (Stanley Harbour, 6 fathoms); obtained at no other locality.
+fulvotincta, n.sp. (Stanley Harbour, 6 fathoms); obtained at no other locality.
+impluta, n.sp. (Stanley Harbour, 6 fathoms); obtained also at Station 135.
+Xestoleberis polita, Brady. (Stanley Harbour, 6 fathoms) ; obtained at no other
+locality by the Challenger. Recorded from Magellan Strait.
+Cytherura clavata, n.sp. (Stanley Harbour, 6 fathoms); obtained at no other
+locality.
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Halirages huxleyanus (Spence Bate). One specimen (Stanley Harbour, from kelp);
+obtained at no other locality by the Challenger. Recorded
+from Hermit Island.
+1
+1

@@ -1,43 +1,42 @@
 SUMMARY OF RESULTS.
-1117
-STATION 298.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophiacantha sentosa, n.sp. Two specimens ; obtained at no other locality.
-cosmica, n.sp. Three specimens ; for distribution see Station 122.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Aspidodiadema microtuberculatum, n.g., n.sp. Obtained also at Stations 122, 124,
-134, and 299.
-Pourtalesia carinata, n.sp. Obtained also at Stations 147 and 157.
-ceratopyga, n.sp. Obtained also at Stations 157 and 299.
-Cystechinus vesica, n.g., n.sp.
-Obtained also at Stations 153 and 299.
-HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
-Parelpidia cylindrica, n.g., n.sp. One specimen ; obtained at no other locality.
-The only other species of the genus (Parelpidia
-elongata) was taken at Station 299.
-Psychropotes longicauda, n.g., n.sp. One specimen ; obtained also at Stations 156
-and 157.
-Benthodytes sanguinolenta, n.g., n.sp. Three specimens ; obtained at no other
-locality. [Recorded in error from Station 295).
-abyssicola, n.g., n.sp. Several specimens ; obtained at no other locality.
-sordida, n.g., n.sp.
-One specimen ; obtained also at Stations 156,
-157, and 158.
-mamillifera, n.g., n.sp. One specimen ; obtained also at Station 299,
-2160 fathoms. [Recorded in error from Station 295].
-Cucumaria abyssorum, n.sp., var. grandis, nov. Two specimens ; the species
-obtained also at Stations 147, 156, 299, and 300.
-[Recorded in error from Station 295].
-Pælopatides confundens, n.g., n.sp. Three specimens ; obtained also at Stations 299
-and 300, 2160 and 1375 fathoms.
-Holothurian (closely resembling Pseudostichopus villosus, n.g., n.sp.). One specimen ;
-obtained also at Station 299, 2160 fathoms.
->>
-ANNELIDA (MʻIntosh, Zool. pt. 34).
-Lumbriconereis abyssorum, n.sp. One specimen ; obtained at no other locality.
-Nothria pycnobranchiata, n.sp. Several specimens ; obtained also at Station 299,
-2160 fathoms.
-ehlersi, n.sp. Several specimens ; obtained also at Station 299, 2160 fathoms.
-Maldanella valparaisiensis, n.g., n.sp. One specimen ; obtained at no other locality.
-(SUMMARY OF RESULTS CHALL. EXP.--1893.)
-141
+1121
+VALPARAISO.
+POLYPLACOPHORA (Haddon, Zool. pt. 43).
+Chiton murrayi, n.sp. (Shore); obtained at no other locality.
+FISHES (Günther, Zool. pt. 6).
+Haplodactylus punctatus, C.V. Obtained at no other locality by the Challenger.
+Thyrsites atun, Euphrasen. Obtained at no other locality by the Challenger.
+Trachurus trachurus, Linné. Obtained also at Japan.
+Latilus jugularis, C.V. Obtained at no other locality by the Challenger.
+Porichthys porosus, C.V. Obtained at no other locality by the Challenger.
+Clinus microcirrhis, C.V. Obtained at no other locality by the Challenger.
+Atherinichthys brevianalis, n.sp. Obtained at no other locality.
+Genypterus chilensis, Guich. Obtained at no other locality by the Challenger.
+Merluccius gayi, Guich. Obtained also in Messier Channel.
+Clupea sagax, Jen. Obtained at no other locality by the Challenger.
+Ophichthys dicellurus, Rich. Obtained at no other locality by the Challenger.
+Bdellostoma polytrema, Girard. Obtained at no other locality by the Challenger.
+In the foregoing list 25 species are enumerated, of which 2 are new to science, and
+were not obtained elsewhere.
+Surface Organisms.—The following species are recorded from the surface in the ORGANISMS FROM
+SURFACE-NETS.
+vicinity of Valparaiso :
+COPEPODA (Brady, Zool. pt. 23).
+Undina darwinii, Lubbock.
+Calanus propinquus, n.sp.
+Drepanopus furcatus, n.g., n.sp.
+gracilis, Dana.
+Corycæus pellucidus, Dana.
+Eucalanus attenuatus (Dana).
+Oncæa obtusa, Dana.
+The tow-nets on December 11 and 12 gave large quantities of small blue Salpæ,
+along with Diatoms, Globigerina, Orbulina, Acanthometræ, Infusoria, &c. Whales and
+porpoises were seen ; two whales were observed to cross the mouth of Valparaiso Harbour
+in company, the smaller one of which came to the surface at intervals of about two
+hundred yards and rose right out of the water, sometimes exposing fully two-thirds of its
+body, when it gave a half turn and fell usually on its back or side, making a tremendous
+splash; this it did about half a dozen times, mostly in the same manner.
+Station 299 (Sounding 444), Valparaiso to Gulf of Peñas (see Chart 40 and Station 299.
+Diagram 21).
+December 14, 1875; lat. 33° 31' S., long. 74° 43' W.
+Temperature of air at noon, 63°-8; mean for the day, 60°.8.

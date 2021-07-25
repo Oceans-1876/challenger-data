@@ -1,177 +1,184 @@
 SUMMARY OF RESULTS.
----
-1563
-Suberogorgia-continued.
-suberosa, 859, 1367.
-verriculata, 897, 1331.
-Sula,
-fusca, 322, 891.
-piscator, 672.
-Supercytis,
-digitata, 594, 1352.
-tubigera, 491, 1413
-Surcula (see Pleurotoma).
-Surirella, 911.
-dives, 812.
-fastuosa, 130, 191, 197, 278, 287,
-303, 733, 812, 904, 911, 930,
-938, 973, 1028.
-var. suborbicularis, 938.
-fluminensis, 911.
-japonica, 904.
-lata, 130, 135, 278, 287, 303, 938.
-laxa, 278, 303.
-macraeana, 278, 287.
-mexicana, 130.
-ocellata, 938.
-patens, 130, 278.
-proclara, 930.
-recedens, 812, 938.
-robusta, 889.
-slesvicensis, 938.
-Sycon,
-arboreum, 536, 1365.
-arcticum, 809, 1422.
-var, maximum, 201, 1365.
-raphanus, 809, 1365, 1422.
-var, tergestinum, 392, 1365.
-Syllis, 114, 119, 121, 817.
-brasiliensis, 358, 1338.
-capensis, 417, 1382.
-gigantea, 465, 1382.
-ramosa, 747, 810, 1338, 1358,
-1382.
-robertianæ, 1190, 1319.
-setubalensis, 112, 1338.
-Sylon,
-challengeri, 225, 1385.
-Sympagella,
-nux, 305, 1330.
-Symphyllia,
-acuta, 755, 1372.
-sinuosa, 824, 1372.
-Symplegma, 1429.
-viride, 245, 1416.
-Sympodium, 1450.
-armatum, 236, 1303.
-glomeratum, 392, 1331.
-verrilli, 1188, 1316.
-Sympronoë, 782.
-parva, 799.
-propinqua, 383.
-Synalpheus, 1429.
-falcatus, 699, 1388.
-Synanceia,
-Synopioides,
-verrucosa, 658, 1421.
-macronyx, 1105, 1108.
-Synaphobranchus, 936.
-Synops,
-bathybius, 448, 936, 964, 1288,
-neptuni, 356, 365, 1365.
-1289, 1298, 1300, 1310, 1447.
-nitida, 554, 1365.
-brevidorsalis, 856, 902, 1310,
-vosmaeri, 356, 1329.
-1313, 1354.
-Synstyela,
-pinnatus, 368, 369, 815, 842, incrustans, 833, 1171, 1416,
-901, 919, 1324, 1325, 1327,
-1428.
-1354, 1357.
-Synthecium,
-Synapta, 130, 369, 639, 821.
-alternans, 555, 1373.
-abyssicola, 1246, 1285.
-campylocarpum, 555, 1373.
-aculeata, 899, 1337.
-Syringammina, 964.
-beselii, 668, 763, 829, 1074, 1337, Syrnola (see Odostomia).
-1358, 1379, 1424.
-Syrrhoë,
-challengeri, 637, 1337.
-papyracea, 173, 1340.
-distincta, 907, 912, 1379, 1424.
-semiserrata, 532, 1386.
-glabra, 829, 1379.
-Systellaspis,
-incerta,
-lanceocaudata, 900, 1342.
-var. variabilis, 907, 1379.
-insolens, 721, 1379.
-lappa, 135, 1379.
-Tabellaria,
-picta, 242, 1379.
-fenestrata, 481.
-verrilli, 695, 1379.
-Tachypetes, 871.
-Synaptura, 895.
-Tægeria, 1327.
-arafurensis, 732, 1421.
-pulchra, 636, 1315.
-zebra, 732, 1421.
-Tænia, 501.
-Synaræa,
-clavulus, 695, 1380.
-convexa, 1074, 1372.
-diomedeæ, 954.
-Synedra, 442.
-increscens, 596, 1380.
-affinis,
-trichoglossi, 696, 1380.
-var. hybrida,
-Tanais, 211, 284, 479, 480.
-forma elongata, 973.
-hirsutus, 437, 1340.
-capitata, 889.
-willemoesii, 470, 1386.
-doliolus, 760, 904, 938, 1027, Tanystylum, 1452.
-1043.
-Taonius, 1451.
-fasciculata, 930.
-hyperboreus, 230, 1309.
-filiformis, 515.
-suhmi, 524, 584, 586, 676, 1262,
-fulgens, 197.
-1287, 1290, 1447.
-var. dalmatica, 973.
-gaillionii, 191, 197, 278, 287,
-obscurata, 764, 1397.
-889, 938.
-(Amygdala),
-goulardii, 904.
-exalbida, 1177, 1397.
-lanceolata, 515, 517.
-fabagella, 563, 1397.
-philippinarum, 733.
-intermedia, 598, 1397.
-pulchella, 287.
-(Paratapes),
-robusta, 197, 812.
-semirugata, 726, 1397.
-superba, 278, 287, 303, 904, 938.
-textrix, 563, 1397.
-thalassiothrix, 513, 515, 517.
-undulata, 726, 909, 1397, 1426.
-ulna, 931, 973, 1027.
-Tarsaster, 1361.
-vitrea,
-stoichodes, 864, 1334.
-forma angustior tepuirostris, Taurospyris,
-1027.
-bovina, 1250.
-(Ardissonia),
-cervina, 1218.
-baculus, 287, 973.
-Taxipathes, 1361.
-Syngnathus, 187, 1451.
-recta, 1242, 1332.
-pelagicus, 188.
-Tealia,
-superciliaris, 574, 1421.
-bunodiformis, 392, 1367.
-Synopia,
-Tealidium, 1301.
-schécleana, 314, 848, 889, 1033.
-cingulatum, 517, 1292.
-Tapes,
+1567
+995,
+Tholospira,
+cervicornis, 1040.
+dendrophora, 1051.
+hystrix, 1268.
+spinosa, 1095.
+Tholospyris,
+cupola, 1060.
+fenestrata, 1016.
+galeata, 1006.
+ramosa, 1041.
+tripodiscus, 1051.
+Tholostaurus,
+cruciformis, 1011.
+dodecabelos, 957.
+octobelonis, 1101.
+quadrigatus, 1053.
+tetrabelonis, 1095.
+Thoracaspis,
+bipennis, 1062.
+circopora, 1095.
+ellipsoides, 980.
+nephropora, 1024.
+Thoracaster,
+cylindratus, 299, 1285.
+Thordisa,
+clandestina, 713, 1410.
+Thouarella,
+affinis, 392, 1367.
+antarctica, 458, 1316.
+hilgendorfi, 744, 1331.
+küllikeri, 1150, 1156, 1331, 1355.
+moseleyi, 618, 1316.
+variabilis, 432, 1331, 1355.
+var. brevispinosa, 432, 1331.
+var. gracilis, 483, 1331.
+Thracia,
+meridionalis, 437, 472, 1345,
+1359, 1398.
+modesta, 562, 1398.
+myodoroides, 540, 1398.
+watsoni, 540, 1398.
+Thrinacophora, 1429.
+cervicornis, 804, 1364.
+funiformis, 372, 1364.
+Thrombus, 1360.
+challengeri, 666, 1330.
+Thuiaria,
+cupressina, 221, 1373.
+hyalina, 369, 1316.
+pectinata, 407, 1373.
+pharmacopola, 270, 1333.
+quadridens, 1172, 1373.
+vincta, 693, 1373.
+Thurammina, 353.
+albicans, 511, 965, 1111, 1200.
+compressa, 511.
+globulifera, 1216.
+ovicula, 1216.
+papillata, 145, 181, 211, 261,
+285, 294, 319, 353, 427, 429,
+Thurammina papillata-continued.
+511, 529, 604, 937, 965, 979,
+1026, 1037, 1067, 1092, 1111,
+1131, 1200, 1216, 1230, 1247,
+1253.
+Thynnus,
+thunnina, 895.
+Thyone,
+fusus,
+var. papuensis, 695, 1379.
+pervicax, 375, 1379.
+recurvata, 464, 1379.
+Thyonidium,
+cebuense, 780, 1379.
+rugosum, 596, 1380.
+Thyropus,
+danæ, 334.
+sphæroma, 1263.
+Thyroscyphus,
+ramosus, 373, 1373.
+simplex, 693, 1373.
+Thyrsites,
+atum, 1121, 1421.
+prometheus, 940, 988.
+Thyrsocyrtis,
+arborescens, 881, 1023.
+furcata, 1231.
+rhizopodium, 1016.
+trifida, 1012, 1047.
+Thysanoissa,
+gregaria, 428, 575, 975, 1096,
+1174, 1185, 1208, 1210, 1219,
+1221, 1268.
+macrura, 450, 482, 493, 498, 500,
+1193.
+Thysanopoda, 233, 521, 737.
+cristata, 837, 1286.
+microphthalma, 1266.
+obtusifrons, 1089.
+tricuspidata, 330, 661, 675, 835,
+836, 1008, 1024, 1232, 1269.
+Thysanopsetta, 1429.
+naresi, 1171, 1421.
+Tiarospyris,
+amphora, 1089.
+galea, 1011.
+mitra, 880.
+pervia, 880, 957, 1041, 1046.
+Tichopora, 1429.
+tenella, 826, 1372.
+Tichoseris, 1429.
+obtusata, 644, 1372.
+Tiedemannia, 959, 982, 1007, 1025,
+1048, 1068.
+Tinoporus,
+baculatus, 631, 641, 687, 863.
+Tintinnus, 388, 853, 871, 882, 886, 982.
+Tisiphonia, 367.
+Todarodes,
+pacificus, 926, 1410.
+Tomopteris, 122, 234, 252, 330, 334,
+383, 384, 388, 430, 495, 505,
+676, 808, 817, 836, 850, 889,
+890, 893, 894, 951, 953, 973,
+982, 987, 1009, 1018, 1062,
+1068, 1083, 1089, 1096, 1102,
+1109, 1113, 1115, 1119, 1127,
+1138, 1185, 1202, 1203, 1219,
+1227, 1232, 1236, 1237, 1256,
+1262, 1266, 1268.
+carpenteri, 487.
+Torinia (see Solarium).
+Tornaria, 677, 775, 836.
+Tornatina (see Utriculus).
+Toxarium,
+bifurcum, 880, 1040.
+circospyris, 1011, 1015, 1022,
+1027, 1031, 1040, 1051, 1055,
+1060.
+constrictum, 922.
+cordatum, 1254.
+furcatum, 1031, 1040.
+thorax, 1011.
+Toxochalina,
+robusta, 371, 1364.
+Toxonidea,
+insignis, 287.
+Toxopneustes,
+pileolus, 828,
+1379,
+1423.
+variegatus, 242, 1379.
+Tracheloteuthis, 1108, 1114.
+Trachicthys, 595.
+intermedius, 591, 1354.
+Trachurus, 1451.
+trachurus, 927, 1121, 1421,
+1428, 1447.
+Trachycaulus, 1282.
+gurlittii, 1097, 1277.
+Trachyneis,
+debyii, 938.
+Trachyneis (see Alloioneis).
+Trachynotus,
+ovatus, 715, 1421.
+Trachyphyllia,
+amarantus, 824, 1372.
+Trachypterus,
+repandus, 802, 1324.
+Trachyrhynchus, 81.
+longirostris, 609, 1324.
+Trachysma, 706, 1407.
+delicatum, 273, 283, 360, 1309,
+1313, 1349, 1357.
+Trachysphenia,
+australis, 443, 481, 492.
+var. antarctica, 514, 515,
+517.
+Trachytedania,
+patagonica, 1149, 1159, 1329,
+1355.

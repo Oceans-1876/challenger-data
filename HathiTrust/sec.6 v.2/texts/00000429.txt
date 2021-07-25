@@ -1,37 +1,41 @@
 SUMMARY OF RESULTS.
-1161
-STATION 311.
-ANNELIDA (M‘Intosh, Zool. pt. 34).
-Eunoa opalina, n.sp. Several specimens ; obtained also at Station 299 (eyeless
-variety).
-Eunice magellanica, n.sp. Several specimens ; obtained also at Stations 149 and 308.
-OSTRACODA (Brady, Zool. pt. 3).
-Cythere dasyderma, n.sp. For distribution see Station 5.
-Krithe producta, n.sp. For distribution see Station 70.
-Pseudocythere fuegiensis, n.sp. Obtained at no other locality.
-MACRURA (Spence Bate, Zool. pt. 52).
-Stereomastis suhmi, n.g., n.sp. Nine specimens ; obtained also at Station 305.
-Campylonotus semistriatus, n.g., n.sp. Many specimens ; for distribution see
-Station 305.
-Pasiphæa acutifrons, n.sp. One specimen ; obtained also at Station 236.
-ANOMURA (Henderson, Zool. pt. 69).
-Parapagurus dimorphus (Studer). Several specimens; obtained also at Stations 135,
-142, and 145.
-Elasmonotus asper, n.sp.
-Over a dozen specimens ; obtained at no other locality.
-BRACHYURA (Miers, Zool. pt. 49).
-Libinia smithii, n.sp.
-One specimen ; obtained at no other locality.
-LAMELLIBRANCHIATA (Smith, Zool. pt. 35).
-Saxicava arctica, Linné. For distribution see Station 75.
-Lucina lamellata, Smith. Several specimens ; obtained at no other locality by the
-Challenger. Recorded from St. Andrew's Sound and S.W.
-Patagonia.
-Solemya patagonica, n.sp. One specimen; obtained at no other locality.
-Modiolarca trapezina (Lamarck). Single valve ; obtained also at Stations 145, 149,
-and 315.
-Lima goliath, Sowerby. Single valve ; obtained also at Station 236.
-Pecten vitreus (Chemnitz). For distribution see Station 204.
-GASTEROPODA (Watson, Zcol. pt. 42).
-Trophon acanthodes, n.sp. Two specimens ; obtained also at Station 308.
-Capulus compressus, Smith, n.sp. [See Proc. Zool. Soc. Lond., 1891, p. 437].
+1165
+Station 312.
+Polyzoa (Busk, Zool. pt. 30).
+Carbasca ovoidea, Busk. Many specimens ; for distribution see Station 144.
+Schizoporella longispinata, n.sp. Many specimens ; obtained at no other locality.
+BRACHIOPODA (Davidson, Zool. pt. 1).
+Magasella flexuosa (King). Thirteen specimens; obtained also at Station 315,
+5 to 12 fathoms. Recorded from Patagonia.
+TUNICATA (Herdman, Zool. pt. 17).
+Boltenia legumen, Lesson. One specimen ; obtained also at Stations 315 and 316,
+4 to 12 fathoms. Recorded from Antarctic, Falklands, Possession
+Bay, Philip Bay, Peckett Harbour, and British Islands.
+FISHES (Günther, Zool. pt. 6).
+Agonus chiloensis, Jen. Obtained at no other locality by the Challenger.
+Aphritis gobio, Günther. Obtained also at Stations 307 and 308.
+Notothenia longipes, Steindachner. Obtained also at Stations 306 and 313.
+In addition to the foregoing, the following are recorded in the Station-book :-Sponge
+and two or three large Annelids (Eunice ?) in tough leathery tubes.
+Excluding Protozoa, over 200 specimens of invertebrates and fishes were obtained at
+this Station, belonging to about 23 species, of which 6 are new to science, including
+representative of 1 new genus ; 4 of the new species were not obtained elsewhere.
+The following species are recorded in the Zoological Reports as having been obtained in Animals FROM
+Magellan Strait and other channels between the Gulf of Peñas and Sandy Point, in shallow
+MAGELLAN
+water, on shore, &c.:
+STRAIT.
+MonAXONIDA (Ridley and Dendy, Zool. pt. 59).
+Halichondria caduca, Bowerbank. One specimen (S. W. Patagonia); obtained at
+no other locality by the Challenger. Recorded from
+British seas.
+Reniera aquæductus, Schmidt, var. infundibularis, nov. Two or three specimens
+(S. W. Patagonia); obtained also at Station 307.
+Tedania infundibuliformis, n.sp. One specimen (S. W. Patagonia); obtained at
+no other locality.
+Myxilla mariana, n.sp., var. massa, nov. One specimen (S. W. Patagonia); the
+species obtained also at Marion Island.
+Hymeniacidon (?) hyalina, n.sp. Two or three specimens (S.W. Patagonia);
+obtained at no other locality.
+147
+(SUMMARY OF RESULTS CHALL. EXP.--1893.)

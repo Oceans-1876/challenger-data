@@ -1,97 +1,60 @@
-880
+882
 THE VOYAGE OF H.M.S. CHALLENGER.
 STATION 225.
-II. NASSELLARIA.—Of the Nassellaria, the Plectoidea, Stephoidea, and Botryodea are
-but sparsely represented, while the Spyroidea and Cyrtoidea are abundant and large ; in
-fact, the individuals belonging to the Spyroidea and Cyrtoidea make up three-fourths of
-the Nassellaria, and one-half of the total Radiolaria, present in the deposit.
-99
-Clathrocircus multiforis, Haeckel.
-Zygostephanus reniformis, Haeckel.
-Coronidium dyostephanus, Haeckel.
-Triplagia horizontalis, Haeckel.
-Archicircus ellipsis, Haeckel.
-Lithocircus crambessa, Haeckel.
-Dendrocircus stalactites, Haeckel.
-Semantis dipyla, Haeckel.
-Semantiscus hexapylus, Haeckel.
-Eucoronis lævigata, Haeckel.
-Acrocubus octopylus, Haeckel.
-tesseralis, Haeckel.
-Toxarium bifurcum, Haeckel.
-Octotympanum arborescens, Haeckel.
-Prismatium tripodium, Haeckel.
-Tympanidium binoctonum, Haeckel.
-Lithotympanum tuberosum, Haeckel.
-Eutympanium militare, Haeckel.
-Tripospyris conifera, Haeckel.
-diomma, Haeckel.
-semantis, Haeckel.
-tribrachiata, Haeckel.
-Triceraspyris corallorrhiza, Haeckel.
-giraffa, Haeckel.
-Tristylospyris scaphipes, Haeckel.
-ramosa, Haeckel.
-Dipospyris cubus, Haeckel.
-forcipata, Haeckel.
-sigmopodium, Haeckel.
-Dentrospyris furcata, Haeckel.
-Dorcarlospyris antilope, Haeckel.
-Elaphrospyris capricornis, Haeckel.
-cervicornis, Haeckel.
-Petalospyris eupetala, Haeckel.
-Liriospyris heteropoda, Haeckel.
-Therospyris leo, Haeckel.
-Ceratospyris allmersii, Haeckel.
-carnerii, Haeckel.
-strasburgeri, Haeckel.
-Gorgospyris schizopodia, Haeckel.
-Dictyospyris mammillaris, Haeckel.
-Lophospyris dipodiscus, Haeckel.
-Tiarospyris mitra, Haeckel.
-pervia, Haeckel.
-Phormospyris trilentata, Haeckel.
-Desmospyris cyrtocolpos, Haeckel.
-mammillata, Haeckel.
-Tricolospyris kantiana, Haeckel.
-leibnitziana, Haeckel.
-newtoniana, Haeckel.
-Nephrospyris corilata, Haeckel.
-Perispyris bicincta, Haeckel.
-Botryopera multiloba, Haeckel.
-Cannobotrys pentacanna, Haeckel.
-Botryopyle cephalodes, Haeckel.
-sethocorys, Haeckel.
-Botryocampe camerata, Haeckel. .
-rotalia, Haeckel.
-Lithobotrys sphærothorax, Haeckel.
-Pylobotrys fontinalis, Haeckel.
-Phormobotrys cannothalamia, Haeckel.
-pentathalamia, Haeckel.
-Trissopilium lithomelissa, Haeckel.
-Tripililium ovatum, Haeckel.
-Tripoliscium tristylospyris, Haeckel.
-Euscenium archicyrtis, Haeckel.
-Clarlioscenium gla liatum, Haeckel.
-pinnatum, Haeckel.
-Pteroscenium spinulosum, Haeckel.
-Peridium cervinum, Haeckel.
-Bothropyramis quadrata, Haeckel.
-Carpocanistrum giganteum, Haeckel.
-Cornutella mitra, Haeckel.
-Archiscenium callimitra, Haeckel.
-Archipera cortiniscus, Haeckel.
-Cyrtophormis spiralis, Haeckel.
-Cornutanna loxoconus, Haeckel.
-Archicorys ampulla, Haeckel.
-microstoma, Haeckel.
-Halicapsa hystrix, Haeckel.
-Cyrtocalpis gromia, Haeckel.
-Dictyophimus bicornis, Haeckel.
-brandtii, Haeckel.
-challengeri, Haeckel.
-sphærocephalus, Haeckel.
-triserratus, Haeckel.
-Sethopilium orthopus, Haeckel.
-Psilomelissa calvata, Haeckel.
 9
+9
+Stichocorys wolffii, Haeckel.
+Eucyrtidium hertuigii, Haeckel.
+hexagonatum, Haeckel.
+profundissimum, Ehrenberg.
+tricinctum, Haeckel.
+Eusyringium pachysiphon, Haeckel.
+Siphocampe quadrantalis, Haeckel.
+spiralis, Haeckel.
+tubulosa, Haeckel.
+Lithocampe diploconus, Haeckel.
+Lithocampe ovata, Haeckel.
+Cyrtocapsa chrysalidium, Haeckel.
+costata, Haeckel.
+pyrum, Haeckel.
+tetrapera, Haeckel.
+Stichocapsa monstrosa, Haeckel.
+paniscus, Haeckel.
+tetracola, Haeckel.
+Artocapsa armata, Haeckel.
+octocamera, Haeckel.
+III. PHÆODARIA.
+Cannopilus diplostaurus, Haeckel.
+Challengeron bathybium, Haeckel.
+1
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms. --The following species of Radiolaria are recorded from the
+surface at this Station :
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Siphonosphæra tubulosa, Müller.
+Octodendron arboretum, Haeckel.
+A.cellipsis lobata, Haeckel.
+Tessaraspis micropora, Haeckel.
+Hexacolpus nivalis, Haeckel.
+Diploconus cyathiscus, Haeckel.
+Psilomelissa galeata, Haeckel.
+Sethoconus trochus, Haeckel.
+Sethocyrtis pleuracantha, Haeckel.
+Theocampe cryptoprora, Haeckel.
+Dictyomitra macilenta, Haeckel.
+In addition, the following are recorded in the note-books :-Two species of
+Peridinium (in catena), Pyrocystis, Ethmodiscus, Coscinodiscus, and other Diatoms,
+Globigerina, Orbulina, Pulvinulina, Tintinnus and other Infusoria, Medusa,
+Siphonophoræ, Echinoderm larvæ, Sagitta, Alciopa, Aphroditacean, tubicolous, and
+other Annelid larvæ, Sipunculid (?) larvæ, Planarian larve with lateral appendages,
+Balanoglossus larvæ (Tornaria), Copilia, Setella, Saphirina, Euphausia larvæ, Lucifer,
+Sergestes Zoëæ, small Lamellibranchs and Gasteropods (Echinospira), Atlanta, Cardio-
+poda, Pteropods, Appendicularia, Doliolum, Salpa. Several sharks were seen, and one
+was caught; it was a male, about five feet in length, and had on it Caligus and another
+genus of parasites.
+STATION 226.
+Station 226 (Sounding 364), Admiralty Islands to Yokohama (see Chart 31 and
+Diagram 16).
+March 25, 1875 ; lat. 14° 44' N., long. 142° 13' E.
+Temperature of air at noon, 79°:3 ; mean for the day, 78°:9.

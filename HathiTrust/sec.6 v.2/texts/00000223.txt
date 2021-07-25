@@ -1,92 +1,82 @@
 SUMMARY OF RESULTS.
-977
-Surface Organisms.—The following species are recorded from the surface at this Station 252.
-Station :
-ORGANISMS FROM
-SURFACE-NETS.
+979
+The Station-book records also small Sponge, and four specimens of Stephanoscyphus Station 253.
+attached to manganese slab.
+Excluding Protozoa, about 20 specimens of invertebrates were obtained at this
+Station, belonging to about 10 species, of which 4 are new to science, including repre-
+sentatives of 2 new genera; the 4 new species were not obtained elsewhere.
+The following species of Foraminifera and Radiolaria were observed in the deposit from ORGANISMS FROM
+this Station (see also Murray and Renard, Deep-Sea Deposits Chall. Exp.)
+THE DEPOSIT.
+FORAMINIFERA (Brady, Zool. pt. 22).—The four pelagic species are marked thus x.
+Biloculina depressa (d'Orbigny).
+Textularia agglutinans, d'Orbigny.
+Miliolina labiosa (d'Orbigny).
+Verneuilina pygmæa (Egger).
+seminulum (Linne).
+Clavulina parisiensis, d'Orbigny.
+Hyperammina elongata, Brady.
+Bulimina affinis, d'Orbigny (?).
+ramosa, Brady.
+Virgulina schreibersiana, Czjzek.
+Aschemonella ramuliformis, Brady.
+squamosa, d'Orbigny.
+Reophax dentaliniformis, Brady.
+Chilostomella ovoidea, Reuss.
+nodulosa, Brady.
+Lagena lævigata (Renss).
+scorpiurus, Montfort.
+marginata (Walker and Boys).
+Haplophragmium agglutinans (d'Orbigny).
+orbignyana (Seguenza).
+canariense (d'Orbigny).
+semistriata, Williamson.
+globigeriniforme (Parker and x Globigerina bulloides, d'Orbigny.
+Jones).
+inflata, d’Orbigny.
+latidorsatum (Bornemann).
+pachyderma (Ehrenberg).
+nanum, Brady.
+x Orbulina universa, d’Orbigny.
+Thurammina papillata, Brady.
+Truncatulina pygmæa, Hantken.
+Ammodiscus gordialis (Jones and Parker).
+Pulvinulina umbonata, Reuss.
+incertus (d'Orbigny).
+Nonionina umbilicatula (Montagu).
+Х
+Х
+"
 RADIOLARIA (Haeckel, Zool. pt. 40).
-Auloscena flammabunda, Haeckel.
-Siphonosphæra pipetta, Haeckel.
-Challengeria bromleyi, Haeckel.
-Stylosphæra nana, Haeckel.
-Gazelletta dendronema, Haeckel.
-Litholophus penicillus, Haeckel.
-Polypetta mammillata, Haeckel.
-Acanthonia quadrifolia, Haeckel.
-Castanella wyvillei, Haeckel.
-Sethoconus trochus, Haeckel.
-Conchidium rhynchonella, Haeckel.
-Theocampe cryptoprora, Haeckel.
-Cælodendrum bifurcum, Haeckel.
-Aulacantha spinosa, Haeckel.
-Cælospathis octodactyla, Haeckel.
-Auloceros furcosus, Haeckel.
-Cælostylus flabellatus, Haeckel.
-Sagoplegma scenophora, Haeckel. SCHIZOPODA (Sars, Zool. pt. 37).
-Aulosphæra undulata, Haeckel.
-Euchætomera typica, n.g., n.sp.
-In addition, the following are recorded in the note-books :-Globigerina, Orbulina,
-Medusæ, Siphonophoræ, Distomum, Cypridina, Copepods, Cypris stage of Lepas
-fascicularis, Archizoëa, Hyperids, Phronima, Euphausia, Sergestes (?), Halobates,
-Nudibranchs (on dead Velellæ), Atlanta, Oxygyrus, and other Heteropods and larvæ,
-Pteropods, Salpa, fish eggs and egg-capsules (on dead Velellä). Two tow-nets were
-sent down on the trawl-line—one at the trawl and one at the weights; the former was
-completely torn, but the latter contained Phæodaria and other Radiolaria, as well as
-some Crustacea not observed on the surface. A shark was seen about the ship.
-Station 253 (Sounding 395), Yokohama to Sandwich Islands (see Chart 36, and Station 253.
-Diagrams 18 and 19).
-July 14, 1875 ; lat. 38° 9' N., long. 156° 25' W.
-Temperature of air at noon, 70°:3; mean for the day, 69°-2.
-Temperature of water :-
-Surface,
-67:7 400 fathoms,
-39.2
-25 fathoms,
->
-50
-75
-100
-125
-150
-175
-200
-225
-250
-275
-300
-58.8
-53.4
-51:3
-50:4
-49.6
-49.1
-48.2
-46.9
-44.8
-43.0
-41:5
-40.5
-500
-600
-700
-800
-900
-1000
-1100
-1200
-1300
-1400
-1500
-Bottom,
-38.3
-37.6
-36.9
-36.4
-36.2
-36.0
-35.8
-35.7
-35.5
-35.3
-35:1
-35:1
+Siphonosphæra serpula, Haeckel.
+Mazosphæra hippotis, Haeckel.
+Clathrosphæra circumtexta, Haeckel.
+Staurosphæra matthæi, Haeckel.
+Hexastylus triaxonius, Haeckel.
+Hexalonche brevicornis, Haeckel.
+Hexacromyum quadrigatum, Haeckel.
+Acanthosphæra octahedralis, Haeckel.
+Actinomma facetum, Haeckel.
+Ellipsostylus ciconia, Haeckel.
+Lithatractus hexugonalis, Haeckel.
+Cyphinidium apicatum, Haeckel.
+Cannartiscus amphiconiscus, Haeckel.
+Panartus setosus, Haeckel.
+Panarium annularium, Haeckel.
+Ommatartus amphiobolus, Haeckel.
+Zygocampe corasium, Haeckel.
+Crucidiscus endostaurus, Haeckel.
+Heliodiscus glyphodon, Haeckel.
+Archidiscus stauroniscus, Haeckel.
+Tripodictya triacantha, Haeckel.
+Euchitonia echinata, Haeckel.
+Hexapyle heracantha, Haeckel.
+Larcidium dissacanthum, Haeckel.
+Larnacalpis phacodiscus, Haeckel.
+Amphipylonium tetraceros, Haeckel.
+Pylozonium novemcinctum, Haeckel.
+Zoniscus rectangulus, Haeckel.
+Pylospira octopyle, Hacckel.
+Streblonia globigerina, Haeckel.
+Lithocircus furcatus, Haeckel.
+Semantrum tetrapylum, Haeckel.

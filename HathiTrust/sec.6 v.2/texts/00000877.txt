@@ -1,93 +1,105 @@
-1593
 SUMMARY OF RESULTS.
-Macrura_continued.
-Manila, 790, 799.
-648, 661, 663, 665, 668, 672, 674, 680, 682, Man-of-war birds, 1064.
-698, 717, 723, 734, 736, 739, 747, 753, 757, Mantell, G. A., 89.
-759, 763, 767, 772, 776, 778, 781, 785, 788,
-Map projections introduced, 19.
-792, 795, 798, 799, 801, 805, 810, 829, 835, Marcet, F., 75.
-836, 837, 841, 845, 853, 856, 865, 867, 869, Marchand, E., 71.
-885, 887, 891, 892, 895, 900, 908, 913, 915, Marco Polo, 14, 32, 41, 42.
-918, 921, 924, 931, 934, 960, 963, 972, 983, Mar di India, 49.
-986, 988, 992, 997, 1006, 1020, 1029, 1033,
-Pacifico, 49.
-1049, 1062, 1066, 1075, 1077, 1081, 1088, 1089, Mare Aethiopicum, 49.
-1097, 1108, 1118, 1126, 1129, 1135, 1139, 1140, concretum, 6.
-1143, 1145, 1148, 1152, 1155, 1157, 1161, 1177,
-cronium, 6.
-1184, 1190, 1194, 1199, 1205, 1214, 1251,1262, del Nort, 49.
-1268, 1269, 1270, 1279, 1286, 1296, 1307, 1320,
-Zur, 49.
-1341, 1447, 1448, 1451.
-Indicum, 49.
-Macruridæ, 754, 772.
-Internum, 25.
-Mactan, 45.
-mortuum, 6.
-Madagascar, 32, 33, 43.
-Nostrum, 25.
-Madeira, 81, 125, 291.
-Pacificum, 49.
-Mæotis, Palus, 11, 16, 20, 21.
-pigrum, 6.
-Maffitt, Lieut., 98.
-Septentrionale, 49.
-Magellan, Ferdinand, xxxv., 22, 45, 46, 47, 49, 58. Mariana Islands, 45.
-Magellan Strait, 45, 47, 49, 1139-1165.
-Marine monsters, 6, 35.
-Maghrib, 33.
-Mariners' compass introduced, 32.
-Magnaghi, G. B., 106B.
-Marinus of Tyre, 28, 29.
-Magnetic spherules, 1088, 1460.
-Marion, A. F., 1068.
-Maiidæ, 551.
-Marion Island, 430.
-Major, R. H., 33, 42, 47.
-Markham, C. R., 14, 40. .
-Makaroff, Admiral S., 106c.
-Markland, 31.
-Malacca, 44.
-Marquesas Islands, 48, 71.
-Maldive Islands, 34.
-Marseniadæ, 312, 439, 475.
-Malle, Dureau de la, 19.
-Marsili, 68, 76.
-Malte-Brun, C., 72.
-Marsilli, L. F. de, 59, 60, 62, 65, 66, 67.
-Mandeville, John, 41.
-Martens, E. v., 902.
-Manganese, 802, 848, 969, 1049, 1065, 1080, 1083,
-Martins, C. F., 73.
-1087, 1088, 1090, 1093, 1097, 1100, Massilia, 10, 13, 14.
-1102, 1103, 1110, 1114, 1122, 1128,
-Masóūdi, 32, 34, 35, 36, 37, 59.
-1212, 1233, 1235, 1237, 1238, 1241,
-Matuku, 632.
-1265, 1461.
-Maurino, Antonio, 53.
-encrusting coral, 295, 296.
-Maury, M. F., 73, 74, 87, 88, 90, 91, 199.
-in deep-sea deposits, 1460.
-bathymetrical chart, 91.
-nodules, 106D, 140, 156, 248, 526, 954,
-May, Capt., 101.
-969, 976, 978, 982, 985, 1008, 1049,
-Mediterranean cable raised, 95, 96..
-1058, 1059, 1065, 1066, 1078, 1080,
-word first used, 25.
-1086, 1087, 1088, 1090, 1097, 1098,
-Medium night, 29.
-1100, 1103, 1104, 1114, 1116, 1118,
-Medusæ, 109, 118, 142, 153, 229, 234, 248, 249, 327,
-1122, 1125, 1134, 1135, 1460.
-oxide, 1102, 1103, 1114.
-slabs, 978, 979, 1080, 1081.
-Mango, 44.
-(SUMMARY OF RESULTS CHALL. EXP.-1894.)
-383, 388, 418, 494, 495, 497, 502, 507, 522,
-523, 530, 552, 587, 601, 618, 671, 768, 773,
-775, 780, 782, 783, 790, 793, 797, 799, 802,
-808, 836, 853, 858, 866, 868, 869, 871, 873,
-201
+1597
+----
+Ova of Lepas, 262.
+Scombresocid, 1203.
+Ovid, 23.
+Owen, Richard, 754.
+Oxides (see Iron and Manganese).
+Oxygen, supply of, in the deep sea, 1439.
+Oyster, 101.
+>
+2
+Pacific Ocean, 49, 50, 51, 52, 71, 72.
+discovery of, 32, 45.
+first hint of in Europe, 43.
+Pack ice, 496, 501.
+Paguridæ, 379, 423, 1130.
+Palæmonidæ, 230, 249.
+Palagonite, 1087, 1102, 1103, 1114.
+Palm, 851.
+fruits, 681, 771.
+Palmyridæ, 141.
+Palos, 43.
+Palus Mæotis, 11, 16, 20, 21.
+Palythoid, 284.
+Panama coast, 105.
+Paradise of pleasure, 29.
+Parallels of latitude introduced, 18.
+Parasitic Crustacea, 251.
+Nemerteans, 254.
+Pennatulida—continued.
+260, 299, 332, 385, 399, 444, 451, 502, 506,
+555, 577, 585, 595, 606, 616, 621, 639, 674,
+745, 784, 809, 815, 818, 898, 906, 917, 923,
+946, 962, 1130, 1188, 1194, 1284, 1292,
+1303, 1316, 1331, 1450.
+Pentacrinida, 842.
+Pentacrinoid larvæ of Antedon, 1242.
+Penteconters, 10.
+Percoid fishes, 551, 869.
+Periplus of Erythræan Sea, 27.
+Hanno, 5.
+Mediterranean, 13.
+Necho, 5, 12.
+Pontus Euxinus, 27.
+Pytheas, 14.
+Scandinavia, 47.
+Scylax, 13.
+Permanence of continents, 1461.
+and oceans, 99, 100.
+Péron, F., 74, 75.
+Pérouse, J. F. la, 70, 71.
+Peroxide of iron, 1103, 1114,
+manganese, 1102, 1103, 1114.
+Perrier, E., 106B.
+Persian Gulf, 5, 12, 13, 16, 25, 31, 34, 44.
+Peru current, 64.
+Pescecola, 59.
+Peschel, O., 28, 33, 36, 38, 39, 42.
+Petalophthalmidæ, 479.
+Petrels, 204, 221, 428, 429, 431, 444, 450, 456, 457,
+488, 496, 500, 523, 585, 606, 611, 618,
+871, 873, 888, 891, 915, 917, 933, 944,
+953, 989, 990, 1014, 1083, 1091, 1095,
+1103, 1107, 1114, 1116, 1122, 1128,
+1138, 1182, 1196, 1208, 1209.
+stormy, 208, 209.
+Wilson's, 205.
+Petro Vesconti of Genoa, 39.
+Petrous bones of Cetacea (see Earbones).
+Petrus Alliacus, 38.
+Pettersson, O., 106D.
+Pfeffer, G., on the shallow-water fauna of South
+Georgia, 1445.
+*Pflasterepithel,” 138.
+Phæodaria, 167, 512, 513, 516, 878, 882, 953, 960,
+967, 977, 987, 988, 1007, 1009, 1043, 1047,
+1049, 1054, 1098,1101, 1105, 1109, 1115, 1137.
+Phæodium, 973, 1048, 1054.
+Phæogromia, 1007.
+worm, 324,
+Parker, Lieut., 88.
+Parry, W. E., 40, 70.
+Pattersou,
+81.
+Pearcey, F. G., xxxviii.
+Pebbles, 78, 99, 200, 201, 493, 496, 518, 1065, 1086,
+1088, 1090, 1128, 1134, 1182.
+Pedicellina, 551.
+Pedro de Covilham, 43.
+Pekin, 31.
+Pelagic animals, origin of, 1458.
+deposits, species captured on, 1437.
+Gasteropoda, 1251, 1256.
+Hemiptera (see Hemiptera).
+organisms, distribution of in different latitudes,
+1455.
+Pelseneer, P. (see Pteropoda and Spirula).
+Peltogastridæ, 521.
+Peneid shrimps, 110, 211, 249, 297, 324, 521, 528,
+604, 639, 802, 815, 843, 873, 956.
+Penguin, the, 106c.
+Island, 1142.
+Penguins, 429, 431, 444, 456, 457, 488, 496.
+Pennatulida, 120, 123, 210, 212, 216, 229, 238, 239,

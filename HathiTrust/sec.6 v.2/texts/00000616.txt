@@ -1,137 +1,142 @@
-1338
+1342
 THE VOYAGE OF H.M.S. CHALLENGER.
 T
-N
-var.
 S
 T
+T
+T
+T
+T
+*
+T
+S
+S
+I
+T
+sp. (?). T
+"
+T
+T
+Sergestes atlanticus, M-Edwards. S T N * Munida incerta, n.sp.
+TN
+inornata, n.sp.
+japonicus, n.sp.
+T
+* Sicyonia lævis, n.sp.
+microphthalma, M.-Edwards.
+ST
+* Stereomastis suhmi, n.g., n.sp.
+* Stylodactylus bimaxillaris, n.sp.
+T
+miles, M.-Edwards.
+* Systellaspis lanceocaudata, n.g., n.sp. N *
+militaris, n.sp.
+* Thaumastocheles zaleuca, n.sp.
+var. curvirostris, nov.
+normani, n.sp.
+proxima, n.sp.
+T
+scabra, n.sp.
+ANOMURA :
+spinicordata, n.sp.
+* Clibanarius (?) sp.
+T
+spinosa, n.sp.
+T
+Cryptodromia incisa, n.sp.
+squamosa, n.sp.
+T
+lateralis (Gray). S
+stimpsoni, M.-Edwards.
+* Dromidia bicornis, Studer. S
+subrugosa (White). S
+* Elasmonotus armatus, M.-Edwards.
+T
+tuberculata, n.sp.
+asper, n.sp.
+S
+debilis, n.sp.
+T
+* Munidopsis erinacea (M.-Edwards). T
+lævigatus, n.sp.
+siysbei (M.-Edwards). T
+miersii, n.sp.
+trifida, n.sp.
+S
+* Eudromia frontalis, n.g., n.sp.
+* Notopoides latus, n.g., n.sp.
+* Eumunida smithii, n.sp.
+T
+Notopus ovalis, n.sp.
+T
+Eupagurus comptus (White), var. jugosa, * Paguristes subpilosus, n.sp.
 s
-var.
+visor, n.sp.
 T
-N
+lacertosus, n.sp.
+Pagurodes piliferus, n.g., n.sp.
+occlusus, n.sp.
+Paguropsis typicus, n.g., n.sp.
+T
+spinulentus, n.sp.
+Pagurus striatus, Latreille.
+tristanensis, n.sp.
 S
-N
+* Paralomis aculeatus, n.sp.
+S
+* Galathea inconspicua, n.sp.
+Parapagurus dimorphus (Studer). S
+pusilla, n.sp.
+gracilis, n.sp.
+T
+subsquamata, Stimpson.
+* Porcellana robertsoni, n.sp.
+* Glaucothoë carinata, n.sp.
+Ptychogaster lævis, n.sp.
+Homola orientalis, n.sp.
+T
+milne-edwardsi, n.sp.
+Latreillia australiensis, n.sp.
+* Pylocheles spinosus, n.sp. s
+* Lithodes murrayi, n.sp.
+S
+Uroptychus australis, n.sp. S T
+Lyreidus tridentatus, De Haan. S T
+gracilimanus, n.sp.
+* Munida gracilis, n.sp.
+s
+insignis n.sp.
+S
+granulata, n.sp.
+T
+nitidus (M.-Edwards).
+haswelli, n.sp.
+s
+parvulus, n.sp.
+s
+*
+T
+>
+S
+T
+S
+nov.
+S
+T
+T
+T
+T
 1
-N
+T
+*
 S
-T
-N
-T
-1
-s
-* Lætmonice japonica, n.sp.
-* Praxilla köllikeri, n.sp.
-lankesteri, n.sp.
-N
-Grube,
-producta,
-wyvillei, nov.
-s
-* Protula capensis, n.sp.
-S TN
-lusitanica, n.sp.
-N
-Lagisca antarctica, n.sp.
-T
-darwini, n.sp.
-s
-Psammolyce occidentalis, n.sp.
-magellanica, n.sp.
-s
-* Scalisetosus ceramensis, n.g., n.sp.
-S T
-var. grubei, nov. Scolecolepis cirrata, Sars.
-murrayi, nov. * Scoloplos kerguelensis, n.sp.
-* Leanira areolata, n.sp. N
-Serpula
-narconensis, Baird,
-s
-magellanica, n.sp.
-magellanica, nov.
-S
-* Leaniricola rotundata, n.g., n.sp.
-sombreriana, n.sp.
-[Crustacean parasite on L. areolata.]N * Sigalion busku, MʻIntosh.
-Lepidonotus squamatus (Linné). N * Sphærosyllis kerguelensis, n.sp.
-* Lumbriconereis bifurcata, n.sp.
-* Spirobranchus occidentalis, n.sp.
-japonica, Marenzeller. N Spirorbis sp. (?). S
-T
-kerguelensis, Grube.
-* Syllis brasiliensis, n.sp.
-T
-ramosa, n.sp.
-* Macdufjia bonhardi, n.g., n.sp.
-* Maldane (?) atlantica, n.sp.
-setubalensis, n.sp.
-* Terebella grubei, n.sp.
-S
-sarsi, Malmgren. N
-* Melinna maculata, Webster.
-(Lanice) flabellum, Baird.
-* Terebellides ehlersi, n.sp.
-T
-* Nematonereis schmarda, n.sp.
-Neottis antarctica, MʻIntosh.
-stræmiz, Sars,
-SN
-kerguelensis, nov.
-Nephthys malmgreni, Théel.
-* Nicomache japonica, n.sp.
-N
-* Trophonia kerguelarum, Grube.
-* Nothria macrobranchiata, n.sp.
-sombreriana, n.sp.
-T
-MYZOSTOMIDA :
-tenuisetis, n.sp.
-ST
-willemoesii, n.sp.
-T
-Myzostoma beardi, n.sp.
-* Notomastus (?) sp. S
-folium, n.sp.
-T
-* Phyllodoce duplex, n.sp.
-S
-inflator, n.sp.
-* Pista sombreriana, n.sp.
-murrayi, n.sp.
-ST
-* Placostegus assimilis, n.sp.
-willemoesii, n.sp.
-ST
-* Polycirrus kerguelensis, n.sp.
-wyville-thomsoni, n.sp.
-* Polyeunoa lævis, n.g., n.sp.
-T
-Polynoë platycirrus, n.sp. s
-* Pomatocerus strigiceps, Mörch.
-OSTRACODA :
-* Praxilla assimilis, n.sp.
-s
-(?) challengerii, n.sp. N
-Argillæcia eburnea, n.sp.
-kerguelensis, n.sp.
-* Asterope sp. (?). N
-T
-T
-var.
-S
-N
-S
-N
 *
 T
 T
+S
 T
-N
-T
-V2
->>
+2
+S
 S
 *
-sp. (?).
-S
-S
-s
+T

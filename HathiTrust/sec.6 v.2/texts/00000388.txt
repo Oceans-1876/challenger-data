@@ -1,43 +1,41 @@
-1124
+1128
 THE VOYAGE OF H.M.S. CHALLENGER.
-+
-STATION 299.
-Ophiomusium armigerum, n.sp. (?). Several specimens ; obtained also a
-Stations 83, 106, and 332.
-Amphilepis patens, n.sp. Obtained at no other locality.
-Ophiacantha cosmica, n.sp. Several specimens; for distribution see Station 122.
+STATION 300.
+At 4.20 A.M. observed the island of Juan Fernandez in the west. At 4.30 A.M.
+shortened and furled sails, and got up steam. At 5.15 A.M. put trawl over and veered
+2700 fathoms. At 6.30 A.m. brought ship to wind and sounded in 1375 fathoms.
+Obtained serial temperatures down to bottom. The carbonic acid was determined in
+water from 50 fathoms and the bottom, and amounted respectively to 50:4 and
+49:3 milligrammes per litre. At 1 P.M. commenced heaving in trawl, which came up at
+4.25 P.M. with numerous specimens and a considerable quantity of ooze, in which were
+several small basaltic pebbles with a slight coating of manganese, and flat pieces of
+hardened tufa of a red colour with a thick coating of manganese. At 4.30 P.M. proceeded
+under steam and sail. Juan Fernandez in sight the whole afternoon. Diomedea exulans,
+Diomedea melanophrys (?), Procellaria maxima, mutton birds, petrels, Prion turtur, and
+Thalassidroma were seen.
+Juan Fernandez (East Pt.) distant at noon, 23 miles. Made good 74 miles.
+Amount of current 16 miles, direction N. 45° W.
+ANIMALS FROM
+TRAWL.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :
+HEXACTINELLIDA (Schulze, Zool. pt. 53).
+Hyalonema poculum, n.sp. One specimen ; obtained at no other locality.
+ACTINIARIA (Hertwig, Zool. pt. 15).
+Corallimorphus profundus, Moseley, n.g., n.sp. One specimen ; obtained also at
+Station 293.
+Paractis excavata, n.sp. One specimen ; obtained at no other locality.
+Ophiodiscus sulcatus, n.g., n.sp. One specimen; obtained at no other locality.
+The only other species of the genus (Ophiodiscus
+annulatus) was taken at Station 299.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Dytaster exilis, n.g., n.sp. Obtained also at Station 133 (var. gracilis).
+Hymenaster vicarius, n.sp. Two specimens ; obtained at no other locality.
+porosissimus, n.sp. Two specimens ; obtained at no other locality.
 ECHINOIDEA (Agassiz, Zool. pt. 9).
-Aspidodiadema microtuberculatum, n.g., n.sp. Obtained also at Stations 122, 124,
-134, and 298.
-Phormosoma asterias, n.sp. Obtained at no other locality.
-Pourtalesia ceratopyga, 11.sp.
-Four specimens ; obtained also at Stations 157
-and 298.
-Cystechinus vesica, n.g., n.sp. Obtained also at Stations 153 and 298.
-wyvillii, n.g., n.sp.
-Obtained also at Stations 146, 147, 158, 296,
-and 300.
-HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
-Parelpidia elongata, n.g., n.sp. One specimen ; obtained at no other locality.
-The only other species of the genus (Parel pidia cylindrica)
-was taken at Station 298.
-Elpidia verrucosa, n.sp. One specimen ; obtained at no other locality.
-Scotoplanes globosa, n.g., n.sp. About thirty specimens; obtained also at Station 157.
-Oneirophanta mutabilis, n.g., n.sp. Several specimens ; obtained also at
-Stations 146, 157, 160, 241, 244, 281, and 325. Only
-species of the genus.
-Benthodytes mamillifera, 1.g., n.sp. Eight specimens; obtained also at Station 298.
-Trochostoma sp. (?). One specimen.
-Cucumaria abyssorum, n.sp., var. grandis, nov. Eight specimens ; the species
-obtained also at Stations 147, 156, 298, and 300.
-Pælopatides confundens, n.g., n.sp. One specimen ; obtained also at Stations 298
-and 300.
-Holothurian (closely resembling Pseudostichopus villosus, n.g., n.sp.). Obtained
-also at Station 298.
-ANNELIDA (M·Intosh, Zool. pt. 34).
-Eunoa opalina, n.sp. One specimen (eyeless variety); obtained also at Station 311,
-245 fathoms.
-Nothria pycnobranchiata, n.sp. Several specimens ; obtained also at Station 298.
-ehlersi, n.sp. Several specimens ; obtained also at Station 298.
-Euthelepus chilensis, n.g., n.sp. Several specimens ; obtained at no other locality.
-WWW***
+Phormosoma hoplacantha, Wyville Thomson, n.sp.
+Obtained also at Stations 1643
+and 235.
+Cystechinus wyvillii, n.g., n.sp. Three specimens; obtained also at Stations 146, 147,
+158, 296, and 299.
+1

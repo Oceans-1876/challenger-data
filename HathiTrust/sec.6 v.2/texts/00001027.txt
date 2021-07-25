@@ -1,86 +1,7 @@
-WUN
-RE OF THE AT
 
-DEPTH OF 300 FATHOMS
-44:7
-40
-30
-20
-10
-10
-20
-30
-Oceanic Circulation. Map 5.
-40
-50
-90
-70
-80
-90
-100
-no
-120
-130
-140
-150
-160
-80
-32°
-35
-37
-Circle
-70
-39
-40°
-50
-389
-40
-40
-30
-519
-50°
-49
-50°
-ao
-753
-5
-469
-20
-50°
-42
-50°
-10
-51°
-52
-53
-20
-464
-30
-53
-52°
-42°
-51
-50°
-40
-40
-40°
-35°
-50
-60
-EXPLANATION OF COLOURING
-32
-Contours showing
-Height of Land
-6000 Evet
-3000
-SEA LEVEL
-Loo Fathoms
-800
-70
-Contours showing
-Depth of Ses
-1000
-1500
+URE OF THE AT
+DEPTH OF 400 FATHOMS
+41.8
 40
 30
 20
@@ -91,11 +12,11 @@ Depth of Ses
 30
 40
 50
-80
+Oceanic Circulation. Map 6.
+60
 70
 80
-er shown thus
-00
+90
 100
 110
 120
@@ -103,7 +24,86 @@ er shown thus
 140
 150
 180
-Isothermals below Average shown in Blue thus
-TITIH
-Bartholomaw, Edin
-HITTITT
+80
+30°
+36
+Arctic Circle
+70
+42°
+389
+39
+40%
+4.44
+45
+47
+48%
+50
+350
+569
+55
+3,8
+40
+39
+30
+42
+45°
+649
+42
+20
+10
+410
+46°
+440
+90
+10
+45
+20
+48
+80°
+30
+50°
+46
+40
+420
+40
+35
+35
+50
+60
+EXPLANATION OF COLOURING
+Contours sharing
+Height of Land
+70
+6000 Feet
+3000
+SEA LEVEL
+200 Fathoms
+300
+2000
+1500
+Cantours showing
+Depth of Sex
+40
+30
+20
+10
+0
+10
+20
+30
+shown thus
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+Isothermals below. Average shown in Blue thus
+150
+160
+Bertholomew, Edin?

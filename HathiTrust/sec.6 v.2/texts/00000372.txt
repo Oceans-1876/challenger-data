@@ -1,59 +1,56 @@
-1110
+1114
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 296.
-Density at 60° F. :-
-Surface, .
-25 fathoms,
-50
-100
-200
-. 1.02536
-1.02525
-1:02527
-1.02520
-1.02536
-300 fathoms,
-400
-800
-1350
-Bottom,
-. 1.02537
-1.02530
-. 1.02556
-1.02552
-. 1.02544
-.
->
-Depth, 1825 fathoms ; deposit, Globigerina Ooze, containing 64:34 per cent. of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4.30 A. M. shortened and furled sails, and proceeded under steam. At 5.30 A.M.
-sounded in 1825 fathoms. Two layers were noticeable in the sounding-tube, a straw-
-coloured upper layer and a dark brown lower layer, which latter contained much manganese
-and very little carbonate of lime. Put trawl over and veered 2300 fathoms. Obtained
-serial temperatures from surface to bottom. The carbonic acid was determined in bottom
-water and amounted to 447 milligrammes per litre. At 1 P.M. commenced heaving in
-trawl, which came up at 2.20 P.M. containing a few specimens and a little deposit, while
-the attached tow-nets were filled with ooze. At 3 P.M. made sail. Diomedea exulans,
-Diomedea melanophrys (?), Procellaria gigantea, Procellaria capensis, mutton birds,
-Prion turtur, and several small Thalassidromas were seen.
-Juan Fernandez distant at noon, 510 miles. Made good 124 miles. Amount of
-current 17 miles, direction S. 30° W.
-The following species are recorded in the Zoological Reports from the trawl at
-this Station :
-ANIMALS FROM
+Station 297.
+;
+a small Sponge, and about four litres of manganese nodules, while about three litres of
+nodules were obtained in the tow-net attached to the trawl, along with a quantity of
+Globigerina Ooze. The yellowish brown colour of this deposit is due to the presence of
+manganese and iron, and, like the deposit at Station 292, it contained abundance of
+volcanic ashes. In the examination of a large quantity of the deposit Mr. Murray
+recognised only two or three Radiolaria and a few siliceous spicules. The association of
+manganese nodules here in a Globigerina Ooze with a considerable quantity of basic
+volcanic glass, fine areolar volcanic ash, and palagonitic grains, deserves special mention
+indeed, this association of altered basic volcanic material and
+manganese
+is
+very constant
+in deep-sea deposits. While there were perfect casts of Foraminifera observed in the
+nuclei of many of the nodules, no casts of these organisms were found in the deposit
+itself. The accumulation of free silica in these nuclei is very remarkable, especially when
+the small proportion of siliceous organisms in the deposit is remembered. One of the
+tow-nets contained several rounded lumps of the deposit, loosely held together by dendritic
+depositions of manganese and iron, which seemed to indicate the beginning of the nodule
+formation. Proceeded under steam. Seven Mother Carey's chickens and three albatrosses
+(Diomedea exulans) were shot, and prions, mutton birds, and another petrel were seen,
+but birds were on the whole rare, a single one or occasionally two coming along at
+intervals.
+Juan Fernandez distant at noon, 302 miles. Made good 88 miles. Amount of
+current 3 miles, direction S. 39° W.
+1
+ANIMAL FROM
 TRAWL.
-ACTINIARIA (Hertwig, Zool. pt. 15).
-Polystomidium patens, n.g., p.sp. One specimen; obtained at no other locality.
-Only species of the genus.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophiomusium lymani, Wyville Thomson. For distribution see Station 45.
-Ophiotholia supplicans, n.g., n.sp.
-Obtained at no other locality. Only species of
-the
-genus.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Cystechinus wyvillii, n.g., n.sp. Obtained also at Stations 146, 147, 158, 299,
-and 300.
-HOLOTHURIOIDEA (Théel, Zool. pt. 39).
-Pseudostichopus villosus, n.g., n.sp. One specimen ; obtained also at Stations 61,
-146, 147, 156, 157, 216A, 244, 302, and 325.
+The following species is recorded from the trawl at this Station :-,
+TETRACTINELLIDA (Sollas, Zool. pt. 63).
+Thenea sp. (possibly young of Thenea wrightii, n.sp.).
+ORGANISMS FROM
+SURFACE-NETS.
+Surface Organisms.—The following species are recorded from the surface and deep
+tow-nets at this Station :
+Cleonardo longipes, n.g., n.sp.
+Lanceola
+sp. (?).
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Spongocore puella, Haeckel.
+Chiastolus amphicopium, Haeckel.
+Phormocampe conus, Haeckel.
+Castanella thomsoni, Haeckel.
+Castanidium wildi, Haeckel.
+PTEROPODA (Pelseneer, Zool. pt. 58).
+Dexiobranchæa polycotyla,
+Boas,
+(larvæ).
+AMPHIPODA (Stebbing, Zool. pt. 67).
+Pardaliscoides tenellus, n.g., n.sp.
+CEPHALOPODA (Hoyle, Zool. pt. 44).
+Tracheloteuthis (?) sp.
+1

@@ -1,110 +1,36 @@
-904
+906
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 232.
->
-0
-5
-Navicula brasiliensis, Grunow.
-maxima, Gregory.
-liber, Smith.
-smithii, Ralfs.
-nitescens, Ralfs.
-egyptiaca, Greville.
-bomboides, A. Schmidt.
-crabro, Ehrenberg.
-multicostata, Grunow.
-entomon, Kutzing.
-pandura, Brebisson.
-pelagi, A. Schmidt.
-gemmata, Greville.
-aspera, Ehrenberg.
-Alloroneis antillarum, Cleve and Grunow.
-Pleurosigma pulchrum, Grunow.
-affine, Grunow, var. normanni, Ralfs.
-Rhoikosigma reichartii, Grunow.
-Gomphonema geminatum, Agardh (fresh water).
-Epithemia turgida, Kutzing (fresh water).
-Cocconeis heteroidea, Hantzsch.
-pellucida, Hantzsch.
-pseudomarginata, Gregory.
-scutellum, Ehrenberg.
-Orthoneis splendida, Grunow.
-Sceptroneis clavus, Kitton.
-Grammatophora stricta, Ehrenberg.
-gibberula, Kutzing.
-japonica, Grunow.
-alriatica, Grunow.
-Synedra goulardii, Brebisson.
-superba, Kutzing
-doliolus, Wallich.
-Nitzschia jelinekii, Grunow.
-weissflogii, Grunow.
-distans, Gregory.
-marina, Grunow.
-panduriformis, Gregory.
-recta, Hantzsch.
-Surirella fastuosa, Ehrenberg.
-japonica, A. Schmidt.
-Campylodiscus bicinctus, Castracane.
-erosus, Castracane, and var.
-latus, Shadbolt.
-biangulatus, Greville.
-pfitzeri, A. Schmidt.
-undulatus, Greville.
-Perrya pulcherrima, Kitton.
-Rhaphoneis gemmifera, Ehrenberg.
-sp. (9)
-Glyphodesmis fusiformis, Cleve and Grunow ().
-Rhabdonema alriaticum, Kutzing.
-Achnanthes sp. (?).
-Gephyria media, Arnott.
-gigantea, Greville.
-Climacosphenia moniligera, Ehrenberg.
-elongata, Bailey.
-Euphyllodium sp. (?).
-Asteromphalus darvinii, Ehrenberg.
-elegans, Greville.
-cleveanus, Grunow.
-Actinocyclus punctulatus, Castracane.
-complanatur, Castracane.
-japonicus, Castracane.
-pruinosus, Castracane.
-sp. (?).
-Actinoptychus splendens, Ralfs, var. halionyx, Grunow,
-undulatus, Ehrenberg, and var.
-areolatus, A. Schmidt,
-Coscinodiscus lineatus, Ehrenberg.
-leptopus, Janisch.
-bipartitus, Rattray.
-excentricus, Ehrenberg.
-subtilis, Ehrenberg, and var.
-nitidus, Gregory.
-radiatus, Ehrenberg.
-var. media, Grunow.
-var, minor, Grunow.
-fimbriatus, Ehrenberg.
-oculus-iridis, Ehrenberg.
-asteromphalus, Ehrenberg.
-var. princeps, Grunow.
-var. pulchra, Grunow.
-centralis, Ehrenberg.
-concinnus, Smith.
-var, jonesiana, Rattray.
-gigas, Ehrenberg.
-apiculatus, Ehrenberg, var. wood-
-wardii, Rattray.
->
-02
-sp. (?).
-Paralia sulcata, Cleve.
-Podosira macima, Grunow.
-Hyalodiscus stelliger, Bailey.
-ambiguus, Grunow.
-Cyclotella stylorum, Brightwell.
-Stictodiscus japonicus, Castracane.
-californicus, Greville.
-var. areolatus, Grunow.
-var, nankoorensis, Grunow,
-bicoronatus, Castracane.
-»
-2
+STATIONS 233
+AND 233A.
+MONAXONIDA (Ridley and Dendy, Zool. pt. 59).
+Myxilla rosacea (Lieberkühn), var. japonica, nov. Three specimens and fragments ;
+obtained at no other locality. The species recorded from
+Mediterranean.
+TETRACTINELLIDA (Sollas, Zool. pt. 63).
+Myriastra subtilis, n.g., n.sp. Two specimens; obtained at no other locality.
+ALCYONARIA (Wright and Studer, Zool. pts. 64 and 81).
+Echinogorgia modesta, n.sp. One specimen ; obtained at no other locality.
+Euplexaura pinnata, n.sp. Several specimens ; obtained at no other locality.
+parciclados, n.sp. One specimen ; obtained at no other locality.
+PENNATULIDA (Kölliker, Zool. pt. 2).
+Lituaria phalloides, Pallas (?). One specimen ; obtained at no other locality by
+the Challenger.
+ASTEROIDEA (Sladen, Zool. pt. 51).
+Astropecten polyacanthus, Müller and Troschel. For distribution see Port Jackson.
+japonicus, Müller and Troschel. Many specimens ; obtained also at
+Station 233B and Yokohama.
+Asterina penicillaris (Lamarck). Obtained at no other locality by the Challenger.
+Recorded from Indian and Pacific Oceans.
+Asterias versicolor, n.sp. Several specimens ; obtained at no other locality.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Amphiura impressa (Ljungman) (?). Obtained at no other locality by the
+Challenger. Recorded from East Indies.
+Ophionereis schayeri (Müller and Troschel) (?). Obtained also at Station 162.
+Ophiothrix ciliaris (Lamarck) (?). Obtained also at Station 209.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Temnopleurus hardwicki (Gray). Obtained also at Station 192, Arafura Sea, and
+Yokohama.
+Pleurechinus bothryoides, Agassiz. Obtained also at Station 186.
+Echinocardium australe, Gray. Obtained also at Port Jackson.
+Schizaster japonicus, n.sp. Obtained also at Stations 188, 233B, Yokohama, and
+Hong Kong

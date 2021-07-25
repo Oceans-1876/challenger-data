@@ -1,127 +1,141 @@
 SUMMARY OF RESULTS.
-1379
-*
-T
-minax, n.sp.
-T
-T
+1383
 T
 S
->>
+S
+S
+T
+T
 s
+23
+*
+T
+*
+*
+S
+ovalis, n.sp.
+>
+N
+T
+2
+Bairdia foveolata, Brady. STN
+fusca, Brady. S
+globulus, n.sp.
+minima, n.sp.
+SN
+ovata, Bosquet.
+simplex, n.sp.
+tuberculata, Brady.
+victrix, Brady. STN
+villosa, n.sp.
+S
+woodwardiana, n.sp.
+T
+Bythocypris (?) compressa, n.g., 1.sp.
+reniformis, n.g., n.sp.
+S T
+Bythocythere (?) exigua, n.sp. S
+pumilio, n.sp.
+* Cythere acupunctata, n.sp.
+adunca, Brady. T
+audei, Brady. S T
+vicarinata, n.sp.
+N
+canaliculata (Reuss). S
+cancellata, Brady: T
+clavigera, n.sp.
+S
+convoluta, Brady.
+T
+craticula, n.sp.
+s
+cribriformis, Brady. T
+crispata, Brady. ST
+cristatella, n.sp.
+T
+cumulus, n.sp.
+S
+curvicostata, n.sp.
+cymba, Brady. TN
+darwini, Brady. TN
+demissa, Brady S
+dictyon, n.sp.
+S TN
+euplectella, Brady.
+exilis, n.sp.
+S
+falklandi, n.sp. S
+flabellicosta, n.sp.
+s
+flos cardui, n.sp.
+T
+foveolata, n.sp.
+S
+fulvotincta, n.sp.
+Cythere fungoides (Brady). TN
+goujoni, Brady. S T
+hodgii, Brady. N
+impluta, n.sp.
+s
+irrorata, n.sp.
+T
+kerguelenensis, n.sp.
+lauta, n.sp.
+lepralioides, n.sp.
+lubbockiana, n.sp.
+T
+melobesioides, Brady. T
+moseleyi, n.sp. S
+murid yana, n.sp.
+S
+obtusalata, n.sp.
+S T
+T
+packardi, n.sp.
+papuensis, n.sp.
+T
+prava (Baird). T
+quadriaculeata, n.sp.
+Τ Ν
+rastromarginata, n.sp. S T
+reussi, Brady. S T
+sabulosa, n.sp.
+scabrocuneata, n.sp.
+SN
+scintillulata, n.sp.
+S
+scutigera, Brady. S T
+stimpsoni, Brady. N
+stolonifera, n.sp.
+s
+subrufa, n.sp.
+S
+tenera, Brady. N
+tetrica, n.sp.
+tricristata, n.sp.
+S T
+velivola, n.sp.
+vellicata, n.sp.
+S
+wyville-thomsoni, n.sp. ST
+* Cytherella cavernosa, Brady. S T
+cribrosa, n.sp.
+T
+dromedaria, n.sp.
+polita, Brady. S
+pulchra, Brady. S TN
+punctata, Brady. S T
+>>
 T
 >
-T
-N
-Strongylocentrotus eurythrogrammus Holothuria curiosa, Ludwig. T
-(Val.). S
-fusco-rubra, n.sp.
-T
-gibbosus (Val.). S
-impatiens, Forskål. T
-Temnopleurus hardwicki (Gray). TN
-martensii, Semper.
-T
-toreumaticus (Klein).
-N
-* Toxopneustes pileolus (Lamarck). T
-monacaria, Lesson. T
-variegatus (Lamarck).
-N
-ocellata, Jæger. T
-spinifera, n.sp.
-HOLOTHURIOIDEA :
-vagabunda, Selenka.
-* Actinocucumis typica, Ludwig. T Ilyodæmon maculatus, n.g., 11.sp.
-* Caudina coriacea, Hutton.
-* Ocnus typicus, n.sp.
-T
-* Chirodota australiana, Stimpson. S * Orcula hypsipyrga, Marenzeller. N
-contorta, Ludwig. S
-Phyllophorus (?) incompertus, n.sp.
-s
-japonica, Marenzeller. s
-Pseudostichopus mollis, n.g., n.sp.
-S
-purpurea, Lesson.
-S
-Psolus ephippifer, n.sp.
-S
-Colochirus australis, Ludwig. S
-incertus, n.sp.
-s
-challengeri, n.sp.
-operculatus, Pourtalès. SN
-cucumis, n.sp.
-T
-Stichopus chloronotus, Brandt.
-inornatus, Marenzeller.
-godeffroyi, Semper.
-Pygmæus, n.sp.
-haytiensis, Semper. N
-quadrangularis, Lesson.
-japonicus, Selenka. N
-spinosus (Quoy and Gaimard).
-var. typicus, nov.
-s
-möbii, Semper. N
-violaceus, n.sp.
-T
-sordidus, n.sp.
-Cucumaria capensis, n.sp.
-variegatus, Semper.
-T
-crocea, Lesson s
-Synapta beselii, Jæger. T
-discolor, n.sp.
-S
-distincta, Marenzeller.
-insolens, 1.sp.
-S
-glabra, Semper. T
-kerguelensis, n.sp.
-incerta, Ludwig, var. variabilis,
-lævigata (Verrill). S
-N
-mendax, n.sp.
-S
-T
-mirabilis, n.sp.
-S T
-lappa, Müller. N
-multipes, n.sp.
-picta, n.sp.
-N
-serrata, n.sp.,
-verrilli, n.sp.
-intermedia, nov. s * Thyone fusus (Müller), var. papuensis,
-n.SP,
-marionensis, nov.
-pervicax, n.sp.
-T
-* Holothuria africana, n.sp.
-S
-recurvata, n.sp.
-s
-atra, Jæger.
-* Thyonidium cebuense, Semper. T
+>>
 T
 T
+92
 T
-s
-S
+T
+>
+2
 *
-N
-2
 S
-> >
-nov.
-2
-insolens, n.sp.
-N
-var.
-T
-var.
-nov.
-T
-T
+s

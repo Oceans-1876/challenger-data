@@ -1,39 +1,42 @@
 SUMMARY OF RESULTS.
-1189
-STATION 320.
-Flabellum curvatum, n.sp. Eight specimens ; obtained at no other locality.
-Bathelia candida, n.g., n.sp. Several specimens ; obtained at no other locality,
-Only species of the genus.
-Cladocora debilis, M.-Edwards and Haime. One specimen ; obtained at no other
-locality by the Challenger.
-HYDROIDA (Allman, Zool. pt. 70).
-Sertularia clausu, n.sp.
-Obtained at no other locality.
-SIPHONOPHORE (Haeckel, Zool. pt. 77).
-Rhodalia miranda, n.g., n.sp. Four specimens ; obtained at no other locality.
-Only species of the genus.
-Crinoidea (Carpenter, Zool. pt. 60).
-Antedon lineata, n.sp.
-Obtained at no other locality.
-longipinna, n.sp. Three specimens ; obtained at no other locality.
-angustipinna, n.sp. One specimen ; obtained at no other locality.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Ctenodiscus australis (Lovén, MS.), Lütken. Several specimens; obtained also at
-Station 313.
-OPHIUROIDEA (Lyman, Zool. pt. 14).
-Ophioglypha meridionalis, 1.sp. Several specimens ; obtained also at Station 317.
-confragosa, n.sp. Several specimens ; obtained also off coast of
-Portugal.
-Ophiacantha vivipara, Ljungman. Several specimens ; obtained also at Stations 145,
-149, 151, 313, and 314.
-Ophiochondrus stelliger, n.sp. Several specimens ; obtained at no other locality:
-ECHINOIDEA (Agassiz Zool. pt. 9).
-Dorocidaris (Cidaris) papillata, Leske. For distribution see Station 24.
-HOLOTAURIOIDEA (Théel, Zool. pt. 39).
-Troclostoma (?) sp. One incomplete specimen.
-Psolus murrayi, n.sp.
-One specimen ; obtained at no other locality.
-operculatus, Pourtalès. Several specimens ; obtained also at Station 49.
-antarcticus, Philippi. One specimen ; obtained also at Station 308.
-(SUMMARY OF RESULTS CHALL. EXP.—1893.)
-150
+1193
+Excluding Protozoa, nearly 500 specimens of invertebrates and fishes were obtained Station 320.
+at this Station, belonging to about 127 species, of which 103 are new to science, including
+representatives of 19 new genera; 80 of the new species and 6 new genera were not
+obtained elsewhere.
+Surface Organisms.— The following species are recorded from the surface at this ORGANISMS FROM
+Station :
+SURFACE-NETS.
+SCHIZOPODA (Sars, Zool. pt. 37).
+Thysanoëssa macrura, n.sp.
+COPEPODA (Brady, Zool. pt. 23).
+Calanus propinquus, n.sp.
+Rhincalanus gigas, n.sp.
+Pleuromma abdominale (Lubbock).
+Heterochata spinifrons, Claus.
+TUNICATA (Herdman, Zool. pt. 76).
+Salpa cordiformis-zonaria, Quoy and
+Gaimard--Pallas.
+In addition, the following are recorded in the note-books :-Peridinium, Globigerina,
+Acanthometræ and compound Radiolaria, Carchesium and other Infusoria, Medusa,
+Siphonophoræ, Sagitta, Annelid larvæ, Hyperids and other Amphipods, Squilla larvæ,
+Mysis, Euphausia, Amphion (?), Zoëæ, Appendicularia. The tow-net at the weights
+gave some deep-sea Radiolaria (Challengeria, &c.), large Sagittæ, and other things.
+Video,
+The Challenger remained at Monte Video from the afternoon of February 15 till AT MONTE
+5 A.M. on February 25, 1876 (see Narr. Chall. Exp., vol. i. p. 907). The water off
+Monte Video was of a reddish or fawn colour, and contained a few Diatoms and Copepods.
+Station 321 (Sounding 471), Rio de la Plata to Tristan da Cunha.
+STATION 321.
+February 25, 1876 ; lat. 35° 2' S., long. 55° 15' W.
+Temperature of air at noon, 79°:8; mean for the day, 73°:9.
+Temperature of water at surface, 73° 5.
+Depth, 13 fathoms ; deposit, Blue Mud, containing 1'13 per cent. of carbonate of
+lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+At 5 A.M. weighed anchor, swung ship, and then proceeded down the river.
+At 4 P.M.
+stopped and put over trawl in 13 fathoms, which came up at 5 P. M. with a large quantity
+of tenaceous mud and numerous specimens. Position of Statiou about 8 miles south of
+Punta Negra at the mouth of the Rio de la Plata.
+The following species are recorded in the Zoological Reports from the trawl at this
+Station :-

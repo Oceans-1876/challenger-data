@@ -1,90 +1,130 @@
-1378
+1382
 THE VOYAGE OF H.M.S. CHALLENGER.
 T
-*
 T
-27
-*
-T
-T
-T
-*
-ECHINOIDEA :
-Hipponoë variegata (Leske). S T
-* Amblypneustes formosus, Val. S * Holopneustes purpurescens (Lütken). S
-Arbacia dufresnii (Bl.). s
-Laganum depressum, Lesson.
-nigra (Molin). S
-putnami, Barn.
-pustulosa (Leske). T
-* Lovenia elongata, Gray. S T
-Aspidodiadema tonsum, n.g., n.sp. S T
-subcarinata, Gray. T
-Asthenosoma coriaceum, n.sp.
-T * Maretia planulata, Gray. S T
-grubii, n.sp.
-* Mellita sexforis, Agassiz. T
-pellucidum, n.sp.
-T Mespilia globulus, Agassiz.
-* Astriclypeus manni, Verrill. N
-* Metalia maculosa (Gmelin). T
-* Astropyga pulvinata (Lamarck). T
-pectoralis, Agassiz. T
-* Breynia australasia (Leach). T Microcyphus zigzag, Agassiz. S
-Brissopsis luzonica (Gray). S TN Micropyga tuberculata, n.g., n.sp. T
-lyrifera (Forbes). S * Periaster limicola, n.sp. T
-* Cidaris tribuloides (Lamarck).
-Peronella decagonalis (Lesson). T
-Clypeaster humilis (Leske). T
-peroni (Agassiz). S
-subdepressus (Gray). . T * Phyllacanthus annulifera (Lamarck). T
-* Diadema setosum (Gray). T
-baculosa (Lamarck). T
-Dorocidaris (Cidaris) bracteata, n.sp. T
-gigantea, Agassiz. T
-( ) papillata (Leske). . *
-verticillata (Lamarck). T
-STN * Pleurechinus bothyroides, Agassiz. TN
-Echinanthus testudinarius, Gray. * Pseudoboletia indiana (Michelin). T
-* Echinocardium australe, Gray. SN * Rhinobrissus hemiasteroides, n.sp.
-T
-* Echinometra lucunter (Leske). T
-Salenia hastigera, n.sp.
-S TN
-subangularis (Leske). T * Salmacis bicolor, Agassiz. T
-* Echinothrix calamaris (Pallas). T
-dussumieri, Agassiz. T
-turcarum (Schynv.).
-globator, Agassiz. T
-* Echinus angulosus (Leske). S
-rarispina, Agassiz. T
-magellanicus, Phil. S
-sulcata, Agassiz. T
-margaritaceus, Lamarck. S Schizaster fragilis (Düben and Koren).
-Encope emarginata (Leske).
-SN
-* Eupatagus valenciennesii, Agassiz. S T
-japonicus, n.sp.
-Τ Ν
-* Evechinus chloroticus (Val.). T
-Spatangus purpureus, Müller. N
-Fibularia australis, Desmoulins. S
-raschi, Lovén. S
-volva, Agassiz. T
-Sphærechinus australiæ, Agassiz. S
-Goniocidaris canaliculata, Agassiz.
-granularis (Lamarck).
-tubaria (Lamarck).
-Τ Ν
-Hemiaster cavernosus (Phil.). S
-Strongylocentrotus dröbachiensis
-* Heterocentrotus mammillatus (Klein). T
-(Müller). N
+N
 S
-*
-*
-T
-T
-*
-02
+N
 S
+S
+sp. (?). T
+S
+T
+T
+Notomastus agassizii, n.sp. TN
+S
+* Syllis gigantea, n.sp.
+* Notopygos labiatus, n.sp.
+ramosa, n.sp.
+megalops, n.sp.
+N
+* Terebella crassicohms, Schmarda.
+S
+* Palmyra aurifera, Savigny. N
+(Lanice) flabellum, Baird.
+* Palolo viridis, Gray. T
+(„ ) seticornis, n.sp.
+* Thalenessa digitata, n.sp.
+T
+* Phyllochætopterus claparedii, n.sp.
+* Phyllocomus crocea, Grube. s
+fimbriata, n.sp.
+oculata, n.sp.
+ST
+* Phyllodoce (Anaitis ?) sancti-vincentis,
+n.sp.
+T * Thelepus cincinnatus (Fabricius), var.
+canadensis, nov.
+N
+* Piste fasciata (Grube). N
+* Polynoë attenuata, n.sp.
+S
+s
+capensis, n.sp.
+S
+* Travisia kerguelensis, n.sp.
+ocellata, n.sp.
+s
+N
+* Trophonia capensis, n.sp.
+platycirrus, n.sp.
+MYZOSTOMIDA :
+pustulata, n.sp. N
+T
+(Langerhansia) euplectellæ, n.sp. Myzostoma dentatum, n.sp.
+T
+filiferum, n.sp.
+N
+(Lepidonotus) iphionoides, n.sp.
+fimbriatum, n.sp.
+gigas, Lütken. Τ Ν
+T
+* Potamilla torelli, Malmgren. N
+horologium, n.sp.
+* Praxilla capensis, n.sp.
+s
+intermedium, n.sp.
+T
+Prionospio capensis, n.sp.
+longicirrum, n.sp.
+* Protula americana, n.sp.
+N
+membranaceum, n.sp.
+arafurensis, n.sp.
+T
+T
+platypus, n.sp.
+* Psammolyce fijiensis, n.sp.
+quadricaudatum, n.sp.
+* Ranzaniu (?) capensis, n.sp.
+quadrifilum, n.sp.
+* Sabella bipunctata, Baird.
+OSTRACODA :
+fusca, Grube.
+s
+zebuensis, n.sp.
+* Aglaia clavata, n.sp.
+s
+* Sabellaria (Pallasia)capensis(Schmarda).
+(?) meridionalis, n.sp.
+(?) obtusata, n.sp.
+S
+(
+) giardi, n.sp.
+(?) pusilla, n.sp.
+S
+) johnstoni, n.sp.
+T Argillæcia badia, n.sp.
+* Salvatoria kerguelensis, n.g., n.sp.
+eburnea, n.sp.
+Scalibregma inflatum, Rathke. S
+ST
+Bairdia amygdaloides, Brady.
+* Schmardanella pterochæta (Schmarda). S
+attenuata, n.sp.
+Serpula narconensis, Baird.
+crosskeiana, Brady. T
+* Staurocephalus australiensis, n.sp. s
+expansa, n.sp.
+T
+Syllis capensis, n.sp. S
+fortificata, n.sp.
+T
+s
+T
+T
+T
+T
+S
+T
+S
+T
+S
+W2
+S
+S
+S
+T
+s
+T
+99

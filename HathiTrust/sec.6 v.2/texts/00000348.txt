@@ -1,16 +1,11 @@
-1086
-THE VOYAGE OF H.M.S, CHALLENGER,
-STATION 284.
-Phronimids, Stomatopod larvæ, Euphausia, many Pteropods, Salpa, Appendicularia,
-and
-many
-small fishes.
-STATION 285
-Station 285 (Sounding 430), Tahiti to Valparaiso (see Chart 38 and Diagram 19).
-October 14, 1875; lat. 32° 36' S., long. 137° 43' W.
-Temperature of air at noon, 62°:8; mean for the day, 62°-2.
+1090
+THE VOYAGE OF H.M.S. CHALLENGER.
+STATION 286.
+Station 286 (Sounding 431), Tahiti to Valparaiso (see Chart 38 and Diagram 19).
+October 16, 1875; lat. 33° 29' S., long. 133° 22' W.
+Temperature of air at noon, 61°:8; mean for the day, 60°:0.
 Temperature of water :-
-o
+9
 Surface,
 25 fathoms,
 50
@@ -24,19 +19,19 @@ Surface,
 250
 275
 300
-65.0
-63.8
-63.4
 63.0
-61.8
-60.0
-57.5
-55.0
-52:3
-49.8
-46.8
+62-6
+59:4
+59.4
+59:4
+57.3
+54:3
+51:3
+49.0
+47.5
 46.2
-45.2
+45:3
+44.5
 400 fathoms,
 500
 600
@@ -50,51 +45,60 @@ Surface,
 1400
 1500
 Bottom,
-42.8
+42:4
 41:0
-39.5
-38.4
+40.0
+39.0
+38.2
 37.7
-37.0
-36.6
-36:3
-36:1
+37.1
+36.5
+36.2
+36.0
 35.9
 35.8
-35.7
-35.0
->
+34.8
+*)
 Density at 60° F.:-
-!
+.
+.
+.
 .
 Surface,
 25 fathoms,
 50
 100
 200
-. 1.02621
-, 1:02600
-. 1.02609
-. 1.02600
-1.02581
+1:02608
+1.02602
+1:02603
+1.02599
+1.02563
 300 fathoms,
 400
 800
+2290
 Bottom,
-1.02550
-1:02556
-1:02553
-. 1.02575
+1.02545
+1.02548
+1.02536
+1.02570
+1.02570
+.
 .
 1
-Depth, 2375 fathoms ; deposit, Red Clay, containing 26-25 per cent. of carbonate of
-lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 4.15 A.M. shortened and furled sails, and at 5 A.M. proceeded under steam. At
-5.30 A.M. sounded in 2375 fathoms.
-At 7 A.M. put trawl over and veered 2900 fathoms.
-Obtained serial temperatures down to 1500 fathoms. The carbonic acid was determined
-in bottom water, and amounted to 45.6 milligrammes per litre. . At 1 P.M. commenced
-heaving in trawl, which came up at 3.45 P. M. with several specimens, several quarts of dark
-chocolate-coloured clay, and large numbers of manganese nodules, sharks' teeth, earbones
-and fragments of other bones of Cetaceans, pumice-stones, and angular and rounded
-pebbles, apparently ice-borne. The specimen of the deposit procured in the sounding-tube
+Depth, 2335 fathoms; deposit, Red Clay, containing 25:13 per cent. of carbonate
+of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
+Under steam all night. At 5.10 A.M. stopped, and at 5.30 A.M. sounded in
+2335 fathoms. Two layers were to be observed in the contents of the sounding-tube ;
+the upper two inches were very dark red and contained very little carbonate of lime, the
+lower four or five inches light yellow, smooth, firm, containing a considerable quantity of
+carbonate of lime, and with much less manganese than in the upper layer, this being the
+reverse order in which the layers have been noticed at the last few Stations. At 8 A.M.
+put trawl over and veered 2800 fathoms. Sent whaler away with naturalist for surface
+collecting. Obtained serial temperatures down to 1500 fathoms. At 1 P. M. commenced
+heaving in trawl, which came up with several specimens, about two bushels of manganese
+nodules and pumice-stones, over three hundred sharks' teeth and fragments, and about
+ninety tympanic bullæ and forty-two detached petrous bones, beaks of Ziphioid whales,
+fragments of flat and spongy bones, and numerous other small fragments forming nuclei
+of the manganese nodules, a large granitic pebble, apparently ice-borne, and numbers of

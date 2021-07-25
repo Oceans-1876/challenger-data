@@ -1,182 +1,185 @@
-1538
+1542
 THE VOYAGE OF H.M.S. CHALLENGER.
-Pelosina-continued.
-rotundata, 152, 261, 511, 581,
-604, 610, 640, 1200.
-variabilis, 294, 604, 610.
-Peltidium, 482.
-Peltogaster, 521, 777, 842, 843.
-Penæus,
-anchoralis, 723, 736, 924, 1388,
-1424.
-canaliculatus, 661, 1388, 1424.
-var. australiensis, 559, 1388.
-var. japonicus, 924.
-fissurus, 723, 788, 811, 1341,
-1359, 1388, 1424.
-gracilis, 560, 668, 1388, 1424.
-incisipes, 723, 785, 1388, 1425.
-indicus, 785, 1388.
-monodon, 723, 785, 1388, 1425.
-philippinensis, 748, 781, 865,
-1341, 1356, 1359, 1388.
-rectacutus, 633, 811, 1341, 1359,
-1388.
-serratus,633,680,1307,1313,1341.
-tenellus, 908, 1388.
-velutinus, 680, 698, 723, 908, 913,
-915, 1307, 1314, 1388, 1425.
-Peneroplis,
-lævigatus, 165, 181.
-pertusus, 165, 181, 196, 629, 630,
-640, 685, 717, 862, 1002.
-Peniagone,
-affinis, 453, 1294.
-atrox, 527, 1278.
-challengeri, 519.
-horrifer, 508, 1294.
-lugubris, 328, 1278.
-naresi, 519.
-vitrea, 1134, 1305.
-wyvillii, 1035, 1285.
-Pennatula, 228.
-moseleyi, 577, 1331.
-murrayi, 745, 1331.
-naresi, 898, 1331.
-pearceyi, 917, 1316.
-sulcata, 784, 1367.
-Pentaceropsis,
-obtusatus, 827, 1375.
-Pentaceros,
-callimorphus, 694, 1375.
-dorsatus, 306, 1375.
-productus, 827, 1423.
-var. tuberata, 819, 1376.
-turritus, 694, 720, 819, 827, 1376,
+'
+Pleuropodium,
+cortina, 1042, 1268.
+Pleuropus, 1219, 1221, 1223, 1232, 1236,
+1256, 1264.
+pellucidus, 931.
+Pleurosigma,
+æstuarii, 911.
+affine,
+.
+1
+Platycephalus-continued.
+sculptus, 731, 1420.
+spinosus, 715, 1420.
+Platydia,
+anomioides, 441, 1352, 1449.
+Platydoris,
+eurychlamys, 628, 833, 1410,
+1427.
+Platyglossus,
+cyanostigma, 340.
+pæcilopterus, 928, 1420.
+pyrrhogramma, 928, 1420.
+trimaculatus, 659, 1420.
+Platygrapsus,
+depressus, 909, 1393.
+Platyischnopus, 1429.
+mirabilis, 559, 1386.
+Platymaia, 1361.
+wyville-thomsoni, 865, 1343.
+Platynereis (see Nereis).
+Platyonychus,
+bipustulatus, 561, 1393.
+iridescens, 748, 1343.
+Platysaccus,
+crenatus, 1262.
+Platyscelus,
+armatus, 889, 1263.
+ovoides, 953.
+risseine, 625, 1340.
+serratulus, 334, 337, 1255, 1263.
+Platystethus,
+huttonii, 592.
+Platytroctes, 1301.
+apus, 336, 1298.
+Plaxiphora,
+carmichaelis, 1145, 1350.
+carpenteri, 397, 1409.
+simplex, 397, 1350, 1359, 1409.
+Plecoglossus,
+altivelis, 939, 1420.
+Plectaniscus,
+cladoscenium, 1062.
+clathrocorys, 1040.
+cortiniscus, 958.
+tripodiscus, 941.
+Plectanium,
+ovodimare, 922.
+sphærozoum, 1017.
+trigeminum, 958.
+Plectocoronis,
+anacantha, 1060.
+pentacantha, 1046.
+triacantha, 1011.
+Plectophora,
+pyramidalis, 1019.
+triomma, 941.
+Plectopyramis,
+dodecomma, 1041.
+heteromma, 1218.
+hexapleura, 881, 1011.
+Plectopyramis—continued.
+lagena, 881, 1226.
+quadratomma, 957.
+serrata, 1118.
+trapezomma, 1016.
+Plectropoma,
+maculatum, 657, 1420.
+Plegmosphæra,
+exodictyon, 1038, 1044, 1206.
+leptodictyon, 1017.
+leptoplegma, 980.
+maxima, 1044
+pachypila, 973, 1038.
+pachyplegma, 1032.
+Pleoticus (see Philonicus).
+Pleroma, 1360.
+turbinatum, 632, 1329.
+Plesiastræa,
+indurata, 643, 1371.
+urvillei, 643, 1371.
+Plesionika,
+brevirostris, 776, 1341.
+semilævis, 579, 615, 633, 776,
+1321, 1326, 1341, 1356.
+spinipes, 865, 1341.
+unidens, 865, 1341.
+uniproducta, 358, 1341.
+Plesiops,
+corallicola, 658, 1420.
+Pleuraspis,
+amphithecta, 1062.
+horrida, 845.
+pyramidalis, 871.
+ramosa, 1053
+Pleurechinus,
+bothyroides, 695, 906, 1378,
 1423.
-Pentacheles, 634.
-euthrix, 615, 617, 633, 639, 1321,
-1326, 1341.
-gracilis, 638, 1321.
-lævis, 841, 843, 1129, 1307,
-1312, 1321.
-Pentacheles-continued.
-obscura, 856, 1307.
-Pentacrinites, 79.
-Pentacrinus, 365, 842.
-alternicirrus, 619, 814, 839, 840,
-1317, 1324, 1325, 1333.
-maclearanus, 356, 1333.
-mollis, 917, 1317.
-naresianus, 613, 619, 662, 814,
-839, 1303, 1311, 1312, 1317,
-1324, 1325, 1334.
-Pentactura,
-astropecten, 1011, 1039, 1045.
-Pentagonaster,
-arcuatus, 898, 1334.
-astrologorum, 556, 1376.
-granularis, 224, 1376.
-japonicus, 898, 1334.
-lepidus, 282, 1304.
-patagonicus, 1160, 1168, 1334,
-1358, 1376.
-semilunatus, 306, 1376.
-Pentalastrum,
-asteracauthion, 1051.
-astropecten, 1006.
-cometa, 1095.
-ophidiaster, 1061.
-Pentapus,
-vitta, 731, 1419.
-Pentaspyris,
-isacantha, 1023.
-pentacantha, 1016.
-Pentinastrum,
-asteriscus, 1015.
-Pentophiastrum,
-caudatum, 1265.
-dicranastrum, 1249.
-forcipatum, 1217.
-Peraclis,
-bispinosa, 133, 195, 277, 280,
-285, 294, 366.
-reticulata, 165, 180, 195, 285,
-294, 366, 1008.
-Percalabrax,
-japonicus, 926, 1419.
-Percis,
-allporti, 544, 551, 1354, 1360, 1419.
-colias, 599, 1419.
-hexophthalma, 658, 1419.
-sexfasciata, 927, 1419.
-Percophis,
-brasilianus, 1196, 1419.
-Periarachnium,
-periplectum, 1047.
-Periaster,
-limicola, 721, 1378.
-Peribolaster, 1429.
-folliculatus, 1140, 1376.
-Pericera, 284, 297, 815.
-cornuta, 411, 1392.
-Pericharax, 1429.
-carteri, 392, 1365.
-Perichlamydium,
-accrescens, 1015.
-antillarum, 167.
-prætextum, 879.
-saturnus, 1011.
-Peridinium, 137, 322, 327, 334, 384,
-418, 428, 605, 642, 661, 670,
-671, 676, 735, 737, 741, 742,
-751, 760, 768, 770, 773, 775,
-782, 783, 787, 790, 793, 797,
-800, 816, 838, 845, 848, 849,
-853, 869, 871, 873, 882, 886,
-889, 893, 894, 905, 920, 932,
-940, 942, 951, 968, 973, 982,
-987, 988, 991, 994, 1025, 1029,
-1048, 1064, 1068, 1079, 1082,
-1083, 1085, 1096, 1101, 1109,
-1113, 1115, 1127, 1156, 1158,
-1163, 1185, 1186, 1193, 1195,
-1197, 1215, 1219, 1227, 1245,
-1251, 1256, 1260, 1262, 1263,
-1264, 1269, 1270.
-tripos, 322, 790, 797, 799, 800,
-853, 877, 884, 885, 916, 931,
-941, 944, 952, 953, 960, 968,
-970, 973, 994, 1062, 1068,
-1082, 1101, 1102, 1105, 1106,
-1113, 1115, 1119, 1127, 1137,
-1138, 1146, 1186, 1207, 1209,
-1226, 1232, 1237.
-Periilium,
-alatum, 1051.
-cervinum, 880, 1016.
-curvipes, 798.
-lasanum, 980.
-palmipes, 875, 1041, 1047.
-papillatum, 1023.
-spinipes, 1016, 1041, 1047.
-Perinereis (sce Nereis).
-Periophthalmus,
-kölreuteri, 659, 1419.
-Peripanarium,
-cenoconicum, 879.
-cenocylindricum, 1022.
-Peripanartus,
-amphiconus, 1031.
-atractus, 957.
-cylindrus, 1031, 1039, 1050,
-1055, 1059.
-lævigatus, 1059.
-palliatus, 1039, 1050.
-Peripanicium,
-amphicorona, 1039.
-coronarium, 1059.
-Periphena,
-cincta, 1022.
-statoblastus, 1132.
-Periphema, 1301.
+Pleurobrachia, 889, 1109.
+Pleurobranchus, 447, 571, 910, 1309,
+1404.
+Pleurocorallium,
+johnsoni, 140, 292, 1292, 1299,
+1303.
+secundum, 432, 744, 752, 1331,
+1355.
+Pleurocyathus, 1361.
+brunneus, 752, 1332.
+Pleurogonium,
+albidum, 470, 1340.
+minutum, 395, 1340.
+serratum, 470, 1340.
+Pleuromma,
+abdominale, 314, 498, 500, 524,
+551, 575, 600, 675, 986, 1093,
+1095, 1141, 1167, 1193, 1207,
+1213, 1257, 1266, 1269.
+Pleuronectes,
+variegatus, 928, 1420.
+yokohamæ, 928, 1420.
+Pleuronectia, 1125.
+var, normanni, 812, 904, 938.
+angulatum, 277.
+antarcticum, 514, 517.
+balticum, 286, 911, 930.
+decorum, 889, 930.
+delicatulum, 481.
+directum, 220, 286, 302, 424, 615.
+elegantissimum, 733.
+elongatum, 930.
+japonicum, 733.
+kerguelense, 442.
+macilentum, 733.
+naviculaceum, 812.
+var. arafurensis, 733.
+pulchrum, 904.
+rigidum, 492,
+strigilis, 287.
+strigosum, 733, 911, 930, 973.
+Pleurostomella, 511.
+alternans, 200.
+brevis, 511.
+subnodosa, 139, 215, 1092, 1111,
+1217, 1247, 1253.
+Pleurotoma, 266, 267, 333, 351, 361,
+387, 422, 542, 560, 568, 603,
+684, 708, 786, 792, 795, 841,
+1171, 1309, 1322, 1348, 1405.
+carinata, 684.
+ischna, 609, 1322.
+maritima, 86.
+marmorata, 653, 708, 806, 1404,
+1427.
+monilifera, 653, 1404.
+phymatias, 793, 1309.
+speciosa, 728, 1404.
+spicea, 361, 1348.
+tigrina, 653, 1405.
+undosa, 708, 1405.
+xanthophaes, 568, 1405.
+(Bela),
+climakis, 333, 1297.
+dyscrita, 164, 1348.
+phacra, 361, 1348.
+ula, 609, 1322.
+(Crassispira),
+owenii, 568, 1405.
+(Drillia),
+challengeri, 579, 1348.
+climacota, 627, 1405.
+crossei, 579, 1348.
+horrenda, 361, 1348.
+hoylei, 579, 1348.

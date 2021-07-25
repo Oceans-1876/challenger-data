@@ -1,61 +1,41 @@
-1138
+1140
 THE VOYAGE OF H.M.S. CHALLENGER.
-STATION 303.
-Density at 60° F. :-
-.
-.
-Surface,
-25 fathoins,
-50
-100
-1.02504
-1.02509
-1.02513
-1.02517
-300 fathonis,
-400
-850
-Bottom,
-1:02535
-1.02533
-1.02557
-1.02563
-.
-.
-Depth, 1325 fathoms; deposit, Blue Mud, containing 25.79 per cent of
-carbonate of lime (see Murray and Renard, Deep-Sea Deposits Chall. Exp.).
-At 2.20 P.M. shortened and furled sails, and proceeded under steam. At 3.15 P.M.
-sounded in 1325 fathoms. Took serial temperatures down to the bottom. The carbonic
-acid was determined in water from the surface and 100 fathoms, and amounted
-respectively to 48:9 and 50:4 milligrammes per litre. At 5.40 P.M. completed observations
-and made all plain sail. Diomedea exulans and stormy petrels were seen.
-Cape Gallegos distant at noon, 146 miles ; Cape Tres Montes, 167 miles. Made good
-135 miles, Amount of current 4 miles, direction N. 19° E.
-The following species are recorded in error from this Station ; they probably came
-from Station 308 (see Station 308).
+STATION 304.
+ANIMALS FROM
+DREDGE AND
+TRAWL.
+HYDROIDA (Allman, Zool. pt. 70).
+Sertularia operculata, Linné. Several specimens ; obtained at no other locality by
+the Challenger. Recorded from European Seas.
 ASTEROIDEA (Sladen, Zool. pt. 51).
-Ctenodiscus procurator, n.sp.
-Mimaster cognatus, n.sp.
-Lophaster stellans, n.sp.
-Menipea aculeata (a’Orbigny).
-Bugula reticulata, n.sp.
-Carbasea ovoidea, Busk.
-Cribrilina monoceros (Busk).
-Cellepora eatonensis, n.sp.
-PolyzoA (Busk, Zool. pt. 30).
-Menipea benemunita, n.sp.
-ORGANISMS FROM
-SURFACE-NETS.
-Surface Organisms.— The following species are recorded from the surface at this
-Station :
-OSTRACODA (Brady, Zool. pt. 3).
-Halocypris atlantica, Lubbock.
-brevirostris, Dana.
-COPEPODA (Brady, Zool. pt. 23).
-Eucalanus attenuatus (Dana).
-Oncæa obtusa (Dana).
-In addition, the following are recorded in the note-books from the tow-nets at the
-surface and down to 30 fathoms :-Peridinium tripos, Globigerina, Orbulina,
-Acanthometræ and other Radiolaria, Siphonophoræ, Sagitta, Tomopteris, Hyperids and
-other Amphipods, Euphausia, Zoëæ, small Lamellibranchs, Heteropods, and Pteropods.
-A few porpoises were seen.
+Porania magellanica, Studer. Several specimens ; obtained at no other locality by
+the Challenger. Recorded from Magellan Strait.
+Peribolaster folliculatus, n.g., n.sp. Obtained at no other locality. Only species
+,
+of the genus.
+Asterias (Cosmasterias) tomidata, n.sp. Several specimens ; obtained at no other
+locality.
+OPHIUROIDEA (Lyman, Zool. pt. 14).
+Ophioglypha lymani, Ljungman. Obtained also at Stations 305, 307, 308, 309, 311,
+and 313, 40 to 245 fathoms.
+ECHINOIDEA (Agassiz, Zool. pt. 9).
+Arbacia dufresnii (Bl.). Four specimens ; obtained also at Stations 135 and 308.
+Strongylocentrotus gibbosus (Val.). Obtained at no other locality by the Challenger.
+Echinus magellanicus, Phil. Four specimens ; for distribution see Station 145.
+ISOPODA (Beddard, Zool. pt. 33).
+Serolis schythei, Lütken. Many specimens ; obtained also at Stations 313, 314,
+315, and 316, 4 to 70 fathoms. Recorded from Patagonia and
+Falkland Islands.
+MACRURA (Spence Bate, Zool. pt. 52).
+Nothocaris spiniserratus, n.g., n.sp. Eight specimens; obtained at no other locality
+ANOMURA (Henderson, Zool. pt. 69).
+Parapagurus abyssorum, M.-Edwards, MS. One specimen ; for distribution see
+Station 56.
+Munida subrugosa (White). Several specimens ; for distribution see Station 162.
+BRACHYURA (Miers, Zool. pt. 49).
+Eurypodius latreillei, Guérin-Ménéville. One specimen; obtained also at
+Stations 312, 313, 314, 315, 316, and Falkland Islands,
+4 to 70 fathoms. Recorded from E. and W. coasts of
+South America, Magellan Strait, and Falklands.
+Libinia gracilipes, n.sp. Six specimens ; obtained at no other locality.
+1

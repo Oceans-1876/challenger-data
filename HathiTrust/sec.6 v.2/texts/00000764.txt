@@ -1,182 +1,182 @@
-1482
+1486
 THE VOYAGE OF H.M.S. CHALLENGER.
-Campylodiscus-continued.
-robertsianus, 812.
-samoensis, 911.
-tæniatus, 938.
-thuretii, 278, 287.
-undulatus, 812, 904, 911, 938.
-Campyloneis,
-grevillei, 424, 938.
-Campylonotus, 1361.
-capensis, 358, 437, 1341, 1356.
-semistriatus, 1143, 1145, 1148,
-1152, 1155, 1157, 1161, 1341,
-1356.
-vagans, 1152, 1341.
-Canarium (see Strombus).
-Cancellaria, 361, 1345.
-exigua, 579, 1345.
-imbricata, 422, 1345.
-spengleriana, 909, 1399.
-undulata, 568, 1399.
-(Admete), 473, 1399.
-carinata, 473, 1399.
-specularis, 473, 490, 1399, 1426.
-Cancer, 600, 1452.
-longipes, 1120, 1390.
-Cancilla (see Mitra).
-Canda, 1451.
-arachnoides, 543, 1411.
-simplex, 210, 1297.
-Candace,
-pachydactyla, 314, 575, 585, 660,
-835, 1003, 1208, 1210, 1263,
-1266.
-pectinata, 314, 545, 552, 575,
-675, 799, 835, 940, 1255, 1257,
-1258, 1260, 1261.
-truncata, 449, 500, 660, 675, 773,
-778, 799, 835, 986, 1237, 1266.
-Candeina,
-nitida, 153, 167, 182, 354, 631,
-640, 664, 687, 843, 1078, 1085,
-1132, 1226, 1229, 1231.
-Cannartidium,
-amphiconicum, 879.
-amphisiphon, 183.
-bicinctum, 1217.
-mammiferum, 879, 1022.
-mastophorum, 1015.
-Canpartiscus,
-amphiconiscus, 979.
-amphicylindrus, 1022.
-Cannartus,
-biscottus, 1254.
-bitubulus, 1217.
-violina, 1022, 1039.
-Cannobelos,
-calymmata, 1006, 1008, 1013,
-1018, 1020, 1024, 1029, 1033,
-1047, 1054, 1057, 1062.
-thalassoplaneta, 1251.
-Cannobotrys,
-cortina, 1006, 1011, 1016, 1023,
-1027, 1031, 1041, 1051, 1056,
-1060.
-monocanna, 1041, 1046, 1250.
-pentacanna, 880.
-sagittalis, 1060.
-tetracanna, 980.
-tricanna, 1011.
-Cannocapsa,
-stethoscopium, 1221.
-tubulosa, 1184.
-Cannopilus,
-cyrtoides, 1017.
-diplostaurus, 882.
-Cannorrhaphis,
-lampoxanthium, 1098.
-lappacea, 1047.
-spinulosa, 958.
-Cannosphæra,
-antarctica, 512, 513.
-atlantica, 1250.
-pacifica, 1032, 1043, 1052, 1056,
+Chætoceros remotum-continued.
+var. robusta, 517.
+secundum, 734, 931.
+sigmoidea, 517.
+sociale, 931.
+tetrachæta, 517.
+Chætoderma, 179, 180, 230, 815.
+militare, 814, 1337.
+nitidulum, 180.
+Chætodon, 853.
+modestus, 926, 1417.
+ratlesi, 658, 1417.
+vagabundus, 658, 1417.
+Chætopterus, 114, 911.
+Chetozone,
+atlantica, 163, 1337.
+benthaliana, 229, 1305.
+pacifica, 608, 1319.
+Chalaraspidum, 521.
+Chalaraspis, 387, 448, 455, 1301.
+alata, 520, 1295.
+ungnifer, 334, 365, 387, 455, 521.
+Chalina, 536, 689, 1363.
+palmata, 689, 1363.
+pergamentacea, 535, 1363.
+rectangularis, 803, 1363.
+Challengeria, 952, 1020, 1098, 1101,
+1106, 1137, 1185, 1193.
+aldrichi, 958, 960, 967.
+bidens, 1043, 1050, 1052, 1061.
+bromleyi, 958, 960, 967, 970, 973,
+977, 980.
+campbelli, 1218, 1226.
+harstoni, 894.
+havergalli, 1132.
+macleari, 1206, 1218.
+murrayi, 894.
+naresii, 513.
+pyramidalis, 1184.
+quadridens, 1012, 1017, 1024.
+sigmodon, 894.
+sloggettii, 1250, 1254.
+thomsoni, 1185, 1186, 1201, 1207,
+1213.
+trifida, 513.
+trigona, 1218, 1226.
+wildi, 1250, 1254.
+xiphodon, 1257, 1261.
+Challengeron, 516.
+balfouri, 516, 1266, 1268.
+bathybium, 882.
+bethelli, 941, 950.
+buchanani, 1254.
+carpenterii, 1250, 1254.
+channeri, 894.
+ciliatum, 894.
+crosbiei, 1032, 1043, 1052, 1056,
 1061.
-Cantharospyris,
-carabus, 1023, 1231.
-platybursa, 1041.
-Cantharus, 1440.
-Cantharus (see Pisania).
-Caprella, 379, 418, 479, 797, 799, 836,
-868, 870, 1029, 1141.
-danilevskij, 243, 1385.
-equilibra, 428, 835.
-scaura, 908, 1385.
-Caprellinoides, 1361.
-tristanensis, 394, 1340.
-Capulus, 655, 1243, 1345, 1399.
-compressus, 1161, 1345.
-japonicus, 861, 1399.
-(Amathina),
-tricarinatus, 709, 910, 1399, 1426.
-Caranx,
-armatus, 715, 1417.
-ascensionis, 340, 1240, 1417,
-1428.
-caballus, 246, 1417.
-crumenophthalmus, 313, 861,
-1001, 1417, 1428.
-georgianus, 1115, 1417.
-hippos, 1001, 1076, 1417.
-muroadsi, 927, 1417.
-speciosus, 658, 715, 1417, 1428.
-Carbasea,
-cribriformis, 713, 730, 1411, 1427.
-dissimilis, 534, 543, 550, 767,
-1323, 1326, 1327, 1351, 1360,
-1411, 1427.
-elegans, 543, 1173, 1411, 1427.
-moseleyi, 616, 1323.
-ovoidea, 440, 475, 1138, 1153,
-Carbasea ovoidea-continued.
-1165, 1179, 1351, 1357, 1360,
-1411, 1427.
-pedunculata, 276, 280, 1323,
-1326, 1351.
-pisciformis, 543, 1411.
-Carcharias, 852, 887, 890, 1005.
-brachyurus, 168.
-glaucus, 892, 893, 1207.
-lamia, 617, 642, 676, 775, 794,
-869, 872, 873, 920.
-obscurus, 1240, 1255, 1417, 1428.
-Carcharodon, 976, 1080, 1087.
-megalodon, 1080.
-Carchesium, 734, 773, 1193, 1201, 1209.
-Cardenio, 1429.
-paurodactylus, 468, 1385.
-Cardiopoda, 143, 790, 845, 871, 882,
-887, 890, 973, 975.
-placenta, 737, 741.
-Cardiosoma,
-armatum, 311, 1390.
-carnifex, 648,860,1075,1390,1425.
-guanhumi, 244, 1390.
-Cardita, 564, 1394.
-astartoides, 472, 485, 1343, 1359,
-1394.
-beddomei, 540, 1394.
-bimaculata, 540, 1394.
-calyculata, 127, 540, 1394, 1425,
-1447.
-canaliculata, 820, 1394.
-dilecta, 540, 1394.
-excavata, 564, 1394.
-insignis, 727, 1394.
-(Thecalia),
-concamerata, 412, 1394.
-Carditella,
-angasi, 564, 1394.
-capensis, 412, 1394.
-exulata, 395, 1343.
-infans, 727, 1394.
-torresi, 704, 727, 1394, 1425.
-Cardium,
-(Acanthocardium),
-papillosum, 127, 272, 1343, 1359
-1394.
-setosum, 820, 1394.
-sueziense, 650, 1394.
-(Bucardium),
-australe, 650, 806, 1394, 1425.
-mirabile, 786, 1394.
-multispinosum, 726, 1394, 1425.
-pulchellum, 533, 540, 564, 1394,
-1425.
-tenuicostatum, 564, 806, 1394,
-1425.
-(Fragum),
-fornicatum, 626, 1394.
-imbricatum, 704, 1394.
+diodon, 1118.
+fergusoni, 875.
+Challengeron—continued.
+heptacanthum, 1250, 1254.
+monodon, 1032, 1043, 1052, 1056,
+1061.
+moseleyi, 958.
+pearceyi, 516.
+richardsii, 516.
+swirei, 516.
+tizardi, 1218, 1226.
+triangulum, 958, 960, 967, 972,
+976, 980.
+triodon, 960.
+willemoesii, 1061, 1064.
+wyvillei, 1250.
+Chama,
+brassica, 626, 1395.
+carditæformis, 806, 1395.
+gryphoides, 127, 272, 1343, 1359,
+1395.
+jukesii, 704, 1395.
+spinosa, 564, 1395.
+sulphurea, 704, 1395.
+Chamelæa (see Venus).
+Champsodon,
+vorax, 731, 749, 789, 865, 1353,
+1357, 1360, 1417.
+Chanos,
+salmoneus, 1001, 1417.
+Characella, 1360.
+aspera, 356, 1329.
+Charybdea,
+murrayana, 1255.
+Chauliodus,
+sloanii, 248, 329, 740, 848, 919,
+1280, 1281, 1282, 1287, 1290,
+1324.
+Chaunax, 635.
+pictus, 634, 1353.
+Cheirimedon, 1361.
+crenatipalmatus, 468, 1340.
+Cheiroplatea, 1361.
+cenobita, 753, 1341.
+Cheirothrix, 1429.
+parvimanus, 699, 1387.
+Chelone,
+imbricata, 117, 123, 262.
+viridis, 1241, 1421.
+Cheramus,
+occidentalis, 163, 723, 1341.
+orientalis, 723, 1387.
+Chiasmodus,
+niger, 336, 1298.
+Chiastolus,
+amphicopium, 1114.
+Chicoreus (see Murex).
+Chilinus,
+chlorurus, 659, 1417.
+trilobatus, 659, 1417.
+Chilodactylus, 1440.
+macropterus, 599, 1417.
+Chilodactylus-continued.
+monodactylus, 1115, 1417.
+zonatus, 796, 1417.
+Chilomycterus,
+orbicularis, 834, 1417.
+Chiloscyllium,
+indicum, 833, 1417.
+Chilostomella,
+ovoidea, 134, 166, 182, 196, 286,
+295, 581, 610, 631, 663, 798,
+857, 903, 937, 949, 979, 1071,
+1104, 1112, 1247.
+Chimæra,
+monstrosa, 1440.
+Chione (see Venus).
+Chirocentrus,
+dorab, 716, 1417.
+Chirodota, 369, 495, 500, 505, 735, 747,
+799, 812, 835, 836, 990, 991,
+1174, 1337.
+australiana, 1176, 1379.
+contorta, 434, 1169, 1379, 1423.
+japonica, 557, 1379, 1448.
+purpurea, 1176, 1379.
+Chironephthya, 898, 1360.
+crassa, 898, 1330.
+dipsacea, 897, 1331.
+scoparia, 897, 1331.
+Chiroteuthis, 1029.
+Chirus,
+hexagrammus, 928, 1417.
+Chiton, 78, 1451.
+jugosus, 571, 1409.
+murrayi, 1121, 1409.
+nigrovirescens, 413, 1409.
+pellis-serpentis, 599, 1409.
+squamosus, 202, 1409.
+Chitonaster, 1301.
+cataphractus, 502, 1292.
+Chitonastrum,
+bathybium, 879.
+dicranodes, 1265.
+jugatum, 1206.
+triglochin, 1039.
+Chlidonia,
+cordieri, 713, 1411.
+Chloeia,
+flava, 722, 912, 1380, 1424.
+fusca, 757, 1380.
+Chloenea,
+atlantica, 141, 1294.
+Chlorinoides,
+coppingeri, 539, 1890.
+Chlorophthalmus,
+gracilis, 603,1130,1225,1310, 1311.
+nigripinnis, 551, 1353.
+productus, 634, 1353.
+Chlorostoma (see Trochus).
+Chlorotocus,
+incertus, 421, 1341.

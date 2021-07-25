@@ -1,122 +1,89 @@
 SUMMARY OF RESULTS.
-1297
-*
-S
-Bugula bicornis, n.sp.
-S
-leontodon, n.sp.
-N
-margaritifera, n.sp. S
-reticulata, n.sp.
-S TN
-var. unicornis, nov.
-* Canda simplex, n.sp.
-N
-* Catenaria bicornis, n.sp.
-T
-Cellularia crateriformis, n.sp.
-s
-* Farciminaria cribraria, n.sp.
-s
-delicatissima, n.sp.
-TN
-gracilis, n.sp.
-TN
-magna, n.sp. S
-armata,
-2
-S
-SCAPHOPODA AND GASTEROPODA :
-* Basilissa simplex, n.g., n.sp.
-* Clathurella homæotata, n.sp.
-T
-phyxanor, n.sp.
-T
-* Columbella sp. (?). N
-* Dentalium amphialum, n.sp.
-S
-leptoskeles, n.sp.
-S
-n.sp. (?). T
-* Fusus (Neptunea) calathiscus, n.sp.
-( ) setosus, n.sp.
-* Guivillea alabastrina, n.g., n.sp.
-Ianthina exigua, Lamarck (surface). TN
-rotundata, Leach (surface). S N
-Oocorys sulcata, Fischer.
-* Pleurotoma (Bela) climakis, n.sp.
-(Vangelia) sp. (?). N
-(Pleurotomella) brychia,
-n.sp.
-T
-) papyracea,
-n.sp.
-* Pleurotoma (Spirotropis) aganactica,
-n.sp.
-(Surcula) lepta, n.sp.
-* Trochus sp. (?).
-S
-S
-var.
-T
-nov.
-T
-2
-* Foveolaria orbicularis, n.g., n.sp.
-s
-Idmonea marionensis, Busk. s
-Kinetoskias cyathus, n.sp.
-SN
-Menipea clausa, n.sp. N
-Nellia simplex, Busk. N
-Onchopora sinclairü, Busk.
-Salicornaria magnifica, n.sp.
-S T
-Tessaradoma boreale (Busk).
-S
-S
-S
-T
-*
-S
-BRACHIOPODA :
-Discina atlantica, King. S TN
-Megerlia (?) incerta, n.sp. T
-* Terebratula (or Terebratulina)
-*
-s
-dalli, n.sp.
-N
-sp. (?).
-T
-CEPHALOPODA :
-Bathyteuthis abyssicola, n.g., n.sp.
-* Cranchia (Liocranchia) reinhardtii,
-Steenstrup (surface ?). T
-Eledone rotunda, n.sp.
-Mastigoteuthis agassizii, Verrill.
-Octopus januarii, Steenstrup, MS. N.
-* Promachoteuthis megaptera, n.g., n.sp. N
-s
-N
-N
-TUNICATA :
-Abyssascidia vasculosa, n.g., n.sp.
-S
-* Bathyoncus mirabilis, n.g., n.sp. s
-* Culeolus perlatus, n.g., n.sp.
-perlucidus, n.g., n.sp.
-Fungulus cinereus, n.g., n.sp.
-Pharyngodictyon mirabile, n.g., n.sp. S
-Pyrosoma spinosum, n.sp. (surface). S N
-* Styela sericata n.sp.
-s
-POLYZOA :
-* Bicellaria infundibulata, n.sp.
-* Bifaxaria minuta, n.g., n.sp.
-N
-reticulata, n.g., n.sp.
-T
-s
-S
-s
+1301
+Krithe proclucta.
+Macrocypris similis.
+Pseulocythere caulata.
+Arcturus furcatus.
+Serolis antarctica.
+bromleyana.
+Pseudomma sarsii.
+Benthesicymus altus.
+brasiliensis.
+Gennalas parvus.
+Nematocarcinus productus.
+Colossendleis leptorhynchus.
+Arca (Barlatia) pteroessa.
+Limopsis pelayira.
+Ianthina erigua.
+Octopus januarii.
+Bu ſula reticulata.
+Farciminaria gracilis.
+limonea marionensis.
+Onchopora sinclairii.
+Salicornaria magnifica.
+Tessara loma boreale.
+Discina atlantica.
+Gonostoma microclon.
+Macrurus armatus.
+The following 18 species (or 10 per cent.) were taken in depths less than 100 fathoms
+or at the surface :-
+Stylocordyla stipitata.
+Bathyactis symmetrica.
+Aspidodia lema tonsum.
+Echinus magellanicus.
+Goniocidaris canaliculata.
+Salenia hastigera.
+Lætmonice producta.
+Argillæcia eburnea.
+Cythere dictyon.
+Arcturus furcatus.
+Genna las intermedius (surface).
+parvus (surface).
+Nematocarcinus proci matus.
+Parapagurus abyssorum.
+Ianthina rotundata (surface).
+Idmonea marionensis.
+Onchopora sinclairii.
+Sternoptyx diaphana (surface).
+Of the 249 species taken only in this zone between 1500 and 2000 fathoms, 212
+species (or 85 per cent.) are new to science, and the following 35 new genera were obtained
+only in this zone :-
+Meliilerma.
+Balanella.
+Polyrhallus.
+Callozostron.
+Polystomidium.
+Tealiilium.
+Periphema.
+Thamnostylux.
+Chitonaster.
+Colpaster.
+Pythonaster.
+Ophiocymbium.
+Ophioplinthus (2)
+Ophiotholia.
+Echinocrepis.
+Genicopatagus.
+Spatocystis.
+Prothelmins.
+Dalhousia.
+Grubianella.
+Melinnopsis.
+Stelechopus.
+Stenopleura.
+Yalettia.
+Jolanthe.
+Chalaraspis.
+Eryoneicus.
+Guivillea.
+Promachoteuthis.
+Fungulus.
+Pharyngodictyon.
+Cyema.
+Melanonus
+Platytroetes.
+all
+Except the genus Ophioplinthus (which contains two species), these are
+represented by a single species.
+(SUMMARY OF RESULTS CHALL. EXP.-1894.)
+164

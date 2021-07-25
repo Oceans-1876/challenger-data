@@ -1,40 +1,102 @@
 SUMMARY OF RESULTS.
-955
-STATION 244,
-ANIMALS FROM
-ANTIPATHARIA (Brook, Zool. pt. 80).
-Bathypathes patula, n.g., n.sp. One specimen ; obtained also at Stations 195, 218 TRAWL.
-(var.), and 246.
-ACTINIARIA (Hertwig, Zool. pts. 15 and 73).
-Antheomorphe elegans, n.g., n.sp. Three specimens ; obtained at no other locality.
-Only species of the genus.
-Amphianthus ornatum, n.g., n.sp. One specimen ; obtained also at Stations 56
-and 241. The only other species of the genus (Amphianthus
-bathybium) was taken at Station 241.
-Sicyonis elongata, n.g., n.sp. One specimen ; obtained at no other locality. The
-only other species of the genus (Sicyonis crassa) was taken
-at Station 147.
-Another Actinian, genus and species undetermined.
-Corals (Moseley, Zool. pt. 7).
-Bathyactis symmetrica (Pourtalès). Two specimens ; for distribution see Station 24.
-HYDROIDA (Allman, Zool. pt. 70).
-Stylactis vermicola, n.sp. One colony (attached to the back of Lætmonice producta,
-var. benthaliana); obtained at no other locality.
-CRINOIDEA (Carpenter, Zool. pt. 60).
-Antedon abyssicola, n.sp. Two specimens ; obtained also at Station 160.
-ASTEROIDEA (Sladen, Zool. pt. 51).
-Hymenaster infernalis, n.sp. One specimen ; obtained at no other locality.
-Benthaster wyville-thomsoni, n.g., n.sp. Obtained at no other locality. The only
-other species of the genus (Benthaster penicillatus) was
-taken at Station 218.
-Freyella heroina, n.sp. Obtained at no other locality.
-ECHINOIDEA (Agassiz, Zool. pt. 9).
-Pourtalesia laguncula, n.sp.
-Obtained also at Stations 168, 169, 191, and 232.
-HOLOTHURIOIDEA (Théel, Zool. pts. 13 and 39).
-Oneirophanta mutabilis, n.g., n.sp.
-Obtained also at Stations 146, 157, 160, 241,
-281, 299, and 325. Only species of the genus.
-Pseudostichopus villosus, n.g., n.sp. One specimen ; obtained also at Stations 61,
-146, 147, 156, 157, 216, 296, 302, and 325.
-Holothuria thomsoni, n.sp. Three specimens ; obtained also at Station 237.
+957
+STATION 244.
+Reophax adunra, Brady.
+nodulosa, Brady.
+pilulifera, Brady.
+Haplophragmium agglutinans (d'Orbigny).
+globigeriniforme (Parker and
+Jones).
+latidorsatum (Bornemann).
+rotulatum, Brady.
+sritulum, Brady.
+Hormorina gloinulifera, Brady.
+Hormosina normani, Brady.
+Ammodiscus gordialis (Jones and Parker).
+Cyclammina cancellata, Brady.
+Verneuilina propinqua, Brady.
+Pygmæa (Egger).
+x Orbulina universa, d'Orbigny.
+Truncatulina lobatula (Walker and Jacob).
+x Pulvinulina micheliniano (d’Orbigny). ,
+х
+patagonica (d'Orbigny).
+RADIOLARIA (Haeckel, Zool. pt. 40).
+Thecosphæra icosactis, Haeckel.
+Caminosphæra furcata, Haeckel.
+Clathrosphæra cirrumtexta, Haeckel.
+Xiphoxtylus trochilus, Haeckel.
+Amphisphæra mercurius, Haeckel.
+Amphixtylus hippocampus, Haeckel.
+Staurostylus germanicus, Haeckel.
+Aranthosphæra fortispina, Haeckel.
+Haliomwa denticulatum, Haeckel.
+Pipettella fusiformis, Haeckel.
+Druppatractus testudo, Haeckel.
+Spongodruppa frangula, Haeckel.
+Cyphinus amphacanthus, Haeckel.
+Panartus amphiconus, Haeckel.
+Peripanartus atractus, Haeckel.
+Sethodiscus macrococcus, Haeckel.
+Pharostylus caudatus, Haeckel.
+Trigonartura trigonobrachia, Haeckel.
+A.codiscus staurophorus, Haeckel.
+Ommatodiscus stöhrii, Haeckel.
+Xiphodictya amphibelonia, Haeckel.
+Staurodictya medusa, Haeckel.
+Amphibrachium armatum, Haeckel.
+Triolena tribelone, Haeckel.
+Triopyle hecagona, Haeckel.
+Hecapyle serangula, Haeckel.
+Spongostaurus cruciatus, Haeckel.
+Spongasteriscus furcatus, Haeckel.
+Larcidium polyacanthum, Haeckel.
+Larnacidium staurobelonium, Haeckel.
+Ortopyle quadrata, Haeckel.
+Pylonium circozonium, Haeckel.
+Pylozonium octacanthum, Haeckel.
+Tholostaurus dodecabelos, Haeckel.
+Zmiscus hecathalamus, Haeckel.
+Soreuma irregulare, Haeckel.
+Sorolarcus terminalis, Haeckel.
+Dorataspis micropora, Haeckel.
+(SUMMARY OF RESULTS CHALL. EXP.-1893.)
+Archicircus rhombus, Haeckel.
+Semantis distoma, Haeckel.
+Zygostephanus ramosus, Haeckel.
+Acrocubus brachiatus, Haeckel.
+Tympaniscus bipes, Haeckel.
+Circotympanum decagonium, Haeckel.
+Tripospyris semantis, Haeckel.
+Tristylospyris scaphipes, Haeckel.
+Aegospyris aegoceras, Haeckel.
+Petalospyris triomma, Haeckel.
+Tiarospyris pervia, Haeckel.
+Amphispyris coxtata, llaeckel.
+Acrobotrys tetrasolenia, Haeckel.
+Tripodiscium campanula, Haeckel.
+Euscenium hemisphæricum, Haeckel.
+Archiscenium tripterygium, Haeckel.
+Bathropyramis spinosa, Haeckel.
+Archiphæna gorgospyris, Haeckel.
+Halicapsa lithapium, Haeckel.
+Psilomelissa phalacra, Haeckel.
+Amphiplecta acrostoma, Haeckel.
+Sethophormis triloba, Haeckel.
+Sethopyramis quadrata, Haeckel.
+Plectopyramis qualratomma, Haeckel.
+Acanthocorys pristipodia, Haeckel.
+Anthocytium anthemis, Haeckel.
+Carpocanium verecundum, Haeckel.
+Sethocyrtis agamemnonis, Haeckel.
+Pterocanium cucolpum, Haeckel.
+Podocyrtis hexagonalis, Haeckel.
+Lithochytris lanterna, Haeckel.
+Alacorys polyacantha, Haeckel.
+Lamprocyclas saltatricis, Haeckel.
+Theoconus junonis, Haeckel.
+Theocyrtis proserpinæ, Haeckel.
+Theocampe stenostoma, Haeckel.
+Theocapsa gessneri, Haeckel.
+Stichopilium costatum, Haeckel.
+121
