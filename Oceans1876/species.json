@@ -2,7 +2,7 @@
   "metadata": {
     "gnfinder": "version: v0.14.2-1-g4cd681d",
     "gnverifier": "version: v0.3.3-2-ge46118e",
-    "date": "2021-08-12 16:45:23.300515"
+    "date": "2021-08-17 16:28:41.329578"
   },
   "species": {
     "Hymenaster membranaceus": {
@@ -10862,7 +10862,7 @@
         "stemEditDistance": 1,
         "matchType": "Fuzzy"
       },
-      "dataSourcesNum": 11,
+      "dataSourcesNum": 6,
       "curation": "Curated"
     },
     "Euphyllodium spathulatum": {
