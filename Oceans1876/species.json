@@ -1,8 +1,8 @@
 {
   "metadata": {
     "gnfinder": "version: v0.14.2-1-g4cd681d",
-    "gnverifier": "version: v0.3.3-2-ge46118e",
-    "date": "2021-08-17 16:28:41.329578"
+    "gnverifier": "version: v0.3.3-5-gb78d447",
+    "date": "2021-09-22 15:50:38.934842"
   },
   "species": {
     "Hymenaster membranaceus": {
@@ -10862,7 +10862,7 @@
         "stemEditDistance": 1,
         "matchType": "Fuzzy"
       },
-      "dataSourcesNum": 6,
+      "dataSourcesNum": 11,
       "curation": "Curated"
     },
     "Euphyllodium spathulatum": {
@@ -58560,7 +58560,7 @@
         "stemEditDistance": 0,
         "matchType": "Fuzzy"
       },
-      "dataSourcesNum": 1,
+      "dataSourcesNum": 7,
       "curation": "Curated"
     },
     "Vogtia k\u00f6llikeri": {
