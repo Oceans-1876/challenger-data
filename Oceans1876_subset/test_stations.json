@@ -1,0 +1,4411 @@
+[
+    {
+        "Station": "I",
+        "Sediment sample": "Blue mud",
+        "Latitude Degrees": 41,
+        "Latitude Minutes": 58,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 42,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -9.7,
+        "Decimal Latitude": 41.9666666667,
+        "Location": "Off Cape Finisterre, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "30/12/1872",
+        "Gear": "Dredge",
+        "Depth (fathoms)": 1125.0,
+        "Bottom water temperature (C)": null,
+        "Bottom temp (F)": null,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": null,
+        "Surface temp (F)": null,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Station I.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "196-197"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Station I.\nStation I. (Sounding 1), Cape Finisterre to Lisbon (see Chart 2).\nDecember 30, 1872 ; lat. 41\u00b0 58' N., long. 9\u00b0 42' W.\nTemperature of air at noon, 54\u00b0:3; mean for the day, 530.6.\nTemperature of water at surface, 55\u00b00.\nDepth, 1125 fathoms ; deposit, Blue Mud.\nAt 8.10 A.M. took first sounding, and made first attempt at dredging. In hauling\nin, the sounding line carried away, and a thermometer was lost. At 1 P.M. the dredge\ncame up capsized, and at 2.20 P.M. was sent down again in about 1000 fathoms. At\n3.30 P.M. commenced heaving in dredge, which came up at 5.30 P.M. with a few\nspecimens.\nPosition of ship at noon, about 40 miles W. of Vigo Bay; Burlings Islands distant\n153 miles. Made good 137 miles. Amount of current for the day 4 miles, direction W.\nThe following is a list of the animals recorded in the Zoological Reports from the\ndredge at this Station:-\nASTEROIDEA (Sladen, Zool. pt. 51).\nHymenaster membranaceus, Wyville Thomson, n.sp. One specimen (of a rich\ncrimson colour when brought up); obtained at no other\nlocality.\nANIMALS FROM\nDREDGE.\n1 The Roman numerals I. to VIII. were used in the note-books for the preliminary Stations where the working of\nthe apparatus was tested. The regular observing Stations of the Expedition commenced on leaving Tenerife (see page\n136).\n(SUMMARY OF RESULTS CHALL. EXP.-1893.)\n15\n\n110\nTHE VOYAGE OF H.M.S. CHALLENGER.\nSTATION I.\nOPHIUROIDEA (Lyman, Zool. pt. 14).\nOphioglypha lepida, Lyman, var. (?). Obtained also at Stations 45, 46, 76, 343,\nand Bermuda, 420 to 1350 fathoms.\nAMPHIPODA (Stebbing, Zool. pt. 67).\nPlatamon longimanus, n.g., n.sp. One specimen and fragment; obtained at no\nother locality. Only species of the genus.\nFISHES (G\u00fcnther, Zool. pt. 57).\nArgyropelecus olfersi\u00ef, Cuvier. One specimen (probably from surface or sub-\nsurface waters); obtained at no other locality by the\nChallenger. Recorded from the Atlantic. This specimen\nshowed signs of life and was highly phosphorescent when\nbrought up.\nIn addition to the foregoing, the following are recorded in the Station-book :\nAstropecten sp. (?), two Ophiuroidea of two species (only one species reported),\nseveral specimens of Eteone, probably a new species (see M\u02bbIntosh, Zool. pt. 34, p. ii),\nwith tubes composed of Globigerina shells, Peneid shrimp of a fine red colour, and empty\nshells of Pteropoda.\nExcluding the Protozoa, over 20 specimens of invertebrates and fishes were\nobtained at this Station, belonging to about 9 species, of which 2 are new to\nscience, a new genus being represented; the 2 new species and new genus were\nnot obtained elsewhere.\nWillemoes-Suhm writes : \u201cOne of the specimens of Eteone was found without its tube,\nand seemed to show some motion ; perhaps it was brought up alive, though all the rest\nwere dead.\nI spent the day in examining this little Eteone and in making drawings of\nit. Its anatomy showed nothing not already known from other species, though it is re-\nmarkable for its blindness, all the other species of the genus known to me and to Clapar\u00e8de\n(Ann\u00e9l. de Naples) having got eyes.\u201d\nORGANISMS FROM\nSURFACE-NETS.\nSurface Organisms. In the surface tow-nets specimens of Diphyes, Amphipoda,\nand Diacria [ = Cavolinia], were obtained.\nSTATIONS IA. TO IC.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 2,
+                "verbatim": "Hymenaster membranaceus,",
+                "name": "Hymenaster membranaceus",
+                "oddsLog10": 10.9366523675,
+                "start": 914,
+                "end": 938,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "pt",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "Wyville",
+                    "Thomson"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "CHALLENGER.",
+                "name": "Challenger",
+                "oddsLog10": 1.6918811821,
+                "start": 1371,
+                "end": 1382,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Of",
+                    "H\ufffdm\ufffds"
+                ],
+                "wordsAfter": [
+                    "Station",
+                    "I."
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "OPHIUROIDEA",
+                "name": "Ophiuroidea",
+                "oddsLog10": 4.1640214368,
+                "start": 1394,
+                "end": 1405,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Station",
+                    "I."
+                ],
+                "wordsAfter": [
+                    "Lyman",
+                    "Zool"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Ophioglypha lepida,",
+                "name": "Ophioglypha lepida",
+                "oddsLog10": 12.2172382213,
+                "start": 1429,
+                "end": 1448,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "pt",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "Lyman",
+                    "var"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "AMPHIPODA",
+                "name": "Amphipoda",
+                "oddsLog10": 3.5727783283,
+                "start": 1543,
+                "end": 1552,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "\ufffd",
+                    "fathoms"
+                ],
+                "wordsAfter": [
+                    "Stebbing",
+                    "Zool"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Platamon longimanus,",
+                "name": "Platamon longimanus",
+                "oddsLog10": 11.7761015846,
+                "start": 1579,
+                "end": 1599,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "pt",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "n\ufffdg",
+                    "n\ufffdsp"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Argyropelecus",
+                "name": "Argyropelecus",
+                "oddsLog10": 6.78411747,
+                "start": 1729,
+                "end": 1742,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "pt",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "olfersi\u00ef",
+                    "Cuvier"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Challenger.",
+                "name": "Challenger",
+                "oddsLog10": 1.6918811821,
+                "start": 1859,
+                "end": 1870,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "by",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "Recorded",
+                    "from"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Astropecten",
+                "name": "Astropecten",
+                "oddsLog10": 4.8748373081,
+                "start": 2060,
+                "end": 2071,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Station-book",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "sp",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Ophiuroidea",
+                "name": "Ophiuroidea",
+                "oddsLog10": 4.1640214368,
+                "start": 2085,
+                "end": 2096,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "\ufffd",
+                    "two"
+                ],
+                "wordsAfter": [
+                    "of",
+                    "two"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Eteone,",
+                "name": "Eteone",
+                "oddsLog10": 2.8451612346,
+                "start": 2162,
+                "end": 2169,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "specimens",
+                    "of"
+                ],
+                "wordsAfter": [
+                    "probably",
+                    "a"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Pteropoda.",
+                "name": "Pteropoda",
+                "oddsLog10": 5.1866841865,
+                "start": 2329,
+                "end": 2339,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "shells",
+                    "of"
+                ],
+                "wordsAfter": [
+                    "Excluding",
+                    "the"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Protozoa,",
+                "name": "Protozoa",
+                "oddsLog10": 1.8000434621,
+                "start": 2354,
+                "end": 2363,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Excluding",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "over",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Eteone",
+                "name": "Eteone",
+                "oddsLog10": 2.8451612346,
+                "start": 2643,
+                "end": 2649,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "specimens",
+                    "of"
+                ],
+                "wordsAfter": [
+                    "was",
+                    "found"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Eteone",
+                "name": "Eteone",
+                "oddsLog10": 2.8451612346,
+                "start": 2816,
+                "end": 2822,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "this",
+                    "little"
+                ],
+                "wordsAfter": [
+                    "and",
+                    "in"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Diphyes,",
+                "name": "Diphyes",
+                "oddsLog10": 3.3901385619,
+                "start": 3149,
+                "end": 3157,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "specimens",
+                    "of"
+                ],
+                "wordsAfter": [
+                    "Amphipoda",
+                    "and"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Amphipoda,",
+                "name": "Amphipoda",
+                "oddsLog10": 3.5727783283,
+                "start": 3158,
+                "end": 3168,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "of",
+                    "Diphyes"
+                ],
+                "wordsAfter": [
+                    "and",
+                    "Diacria"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Diacria",
+                "name": "Diacria",
+                "oddsLog10": 4.4315312471,
+                "start": 3173,
+                "end": 3180,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Amphipoda",
+                    "and"
+                ],
+                "wordsAfter": [
+                    "\ufffd",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Cavolinia],",
+                "name": "Cavolinia",
+                "oddsLog10": 4.0356738927,
+                "start": 3185,
+                "end": 3196,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "\ufffd",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "were",
+                    "obtained"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "Ia",
+        "Sediment sample": "Hard ground",
+        "Latitude Degrees": 40,
+        "Latitude Minutes": 25,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 38,
+        "Longitude Seconds": 30,
+        "East/West": "W",
+        "Decimal Longitude": -9.6416666667,
+        "Decimal Latitude": 40.4166666667,
+        "Location": "Off Portugal coast",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "01/01/1873",
+        "Gear": null,
+        "Depth (fathoms)": 325.0,
+        "Bottom water temperature (C)": 11.1111111111,
+        "Bottom temp (F)": 52.0,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 13.8888888889,
+        "Surface temp (F)": 57.0,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IA. to IC.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "197-200"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IA. to Ic. (Soundings 2 to 4), Cape Finisterre to Lisbon (see Chart 3).\nJanuary 1, 1873 ; lat. 40\u00b0 23' N., long. 9\u00b0 43' W.\nTemperature of air at noon, 57\u00b0:3; mean for the day, 57\u00b0\u20223.\nTemperature of water at surface, 57\u00b00.\n-\n\nSUMMARY OF RESULTS.\n111\n.\nAt 7 A.M. sounded in 325 fathoms, Hard Ground, bottom temperature 52\u00b0:0 Stations Ia. to Ic.\n(Station Ia.), and at 9 A.m. in 730 fathoms, Hard Ground, bottom temperature 49\u00b0-5\n(Station IB.). At 11 A.M. sounded in 950 fathoms, Hard Ground (Station Ic.), but the\nline carried away owing to a bad splice. At 11.30 A.m. put dredge over in about 1000\nfathoms; it came up without mud at 4 P.M., having apparently not been on the bottom,\nbut contained one small fish, some small Crustacea, and Pteropoda. Between Vigo Bay\nand Burlings Islands the tow-net was used. At night the sea showed luminosity due\napparently to small Crustacea.\nPosition at noon, about 40 miles west of Cape Mondego ; Burlings Islands distant 59\nmiles. Made good 86 miles. Amount of current 12 miles, direction N. 75\u00ba E.\nSurface Organisms.-Crustacea and Pteropoda were obtained in the surface tow-net.\nORGANISMS FROM\nSURFACE-NETS.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Crustacea,",
+                "name": "Crustacea",
+                "oddsLog10": 4.9825642039,
+                "start": 731,
+                "end": 741,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "some",
+                    "small"
+                ],
+                "wordsAfter": [
+                    "and",
+                    "Pteropoda"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Pteropoda.",
+                "name": "Pteropoda",
+                "oddsLog10": 5.1866841865,
+                "start": 746,
+                "end": 756,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Crustacea",
+                    "and"
+                ],
+                "wordsAfter": [
+                    "Between",
+                    "Vigo"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Crustacea.",
+                "name": "Crustacea",
+                "oddsLog10": 4.9825642039,
+                "start": 876,
+                "end": 886,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "to",
+                    "small"
+                ],
+                "wordsAfter": [
+                    "Position",
+                    "at"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Pteropoda",
+                "name": "Pteropoda",
+                "oddsLog10": 5.1866841865,
+                "start": 1079,
+                "end": 1088,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Organisms\ufffd-crustacea",
+                    "and"
+                ],
+                "wordsAfter": [
+                    "were",
+                    "obtained"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "Ib",
+        "Sediment sample": "Hard ground",
+        "Latitude Degrees": 40,
+        "Latitude Minutes": 24,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 45,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -9.75,
+        "Decimal Latitude": 40.4,
+        "Location": "Off Portugal coast",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "01/01/1873",
+        "Gear": null,
+        "Depth (fathoms)": 730.0,
+        "Bottom water temperature (C)": 9.4444444444,
+        "Bottom temp (F)": 49.0,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 13.8888888889,
+        "Surface temp (F)": 57.0,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IA. to IC.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "197-200"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IA. to Ic. (Soundings 2 to 4), Cape Finisterre to Lisbon (see Chart 3).\nJanuary 1, 1873 ; lat. 40\u00b0 23' N., long. 9\u00b0 43' W.\nTemperature of air at noon, 57\u00b0:3; mean for the day, 57\u00b0\u20223.\nTemperature of water at surface, 57\u00b00.\n-\n\nSUMMARY OF RESULTS.\n111\n.\nAt 7 A.M. sounded in 325 fathoms, Hard Ground, bottom temperature 52\u00b0:0 Stations Ia. to Ic.\n(Station Ia.), and at 9 A.m. in 730 fathoms, Hard Ground, bottom temperature 49\u00b0-5\n(Station IB.). At 11 A.M. sounded in 950 fathoms, Hard Ground (Station Ic.), but the\nline carried away owing to a bad splice. At 11.30 A.m. put dredge over in about 1000\nfathoms; it came up without mud at 4 P.M., having apparently not been on the bottom,\nbut contained one small fish, some small Crustacea, and Pteropoda. Between Vigo Bay\nand Burlings Islands the tow-net was used. At night the sea showed luminosity due\napparently to small Crustacea.\nPosition at noon, about 40 miles west of Cape Mondego ; Burlings Islands distant 59\nmiles. Made good 86 miles. Amount of current 12 miles, direction N. 75\u00ba E.\nSurface Organisms.-Crustacea and Pteropoda were obtained in the surface tow-net.\nORGANISMS FROM\nSURFACE-NETS.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Crustacea,",
+                "name": "Crustacea",
+                "oddsLog10": 4.9825642039,
+                "start": 731,
+                "end": 741,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "some",
+                    "small"
+                ],
+                "wordsAfter": [
+                    "and",
+                    "Pteropoda"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Pteropoda.",
+                "name": "Pteropoda",
+                "oddsLog10": 5.1866841865,
+                "start": 746,
+                "end": 756,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Crustacea",
+                    "and"
+                ],
+                "wordsAfter": [
+                    "Between",
+                    "Vigo"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Crustacea.",
+                "name": "Crustacea",
+                "oddsLog10": 4.9825642039,
+                "start": 876,
+                "end": 886,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "to",
+                    "small"
+                ],
+                "wordsAfter": [
+                    "Position",
+                    "at"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Pteropoda",
+                "name": "Pteropoda",
+                "oddsLog10": 5.1866841865,
+                "start": 1079,
+                "end": 1088,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Organisms\ufffd-crustacea",
+                    "and"
+                ],
+                "wordsAfter": [
+                    "were",
+                    "obtained"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "Ic",
+        "Sediment sample": "Hard ground",
+        "Latitude Degrees": 40,
+        "Latitude Minutes": 23,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 43,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -9.7166666667,
+        "Decimal Latitude": 40.3833333333,
+        "Location": "Off Portugal coast",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "01/01/1873",
+        "Gear": "Dredge",
+        "Depth (fathoms)": 950.0,
+        "Bottom water temperature (C)": null,
+        "Bottom temp (F)": null,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 13.8888888889,
+        "Surface temp (F)": 57.0,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IA. to IC.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "197-200"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IA. to Ic. (Soundings 2 to 4), Cape Finisterre to Lisbon (see Chart 3).\nJanuary 1, 1873 ; lat. 40\u00b0 23' N., long. 9\u00b0 43' W.\nTemperature of air at noon, 57\u00b0:3; mean for the day, 57\u00b0\u20223.\nTemperature of water at surface, 57\u00b00.\n-\n\nSUMMARY OF RESULTS.\n111\n.\nAt 7 A.M. sounded in 325 fathoms, Hard Ground, bottom temperature 52\u00b0:0 Stations Ia. to Ic.\n(Station Ia.), and at 9 A.m. in 730 fathoms, Hard Ground, bottom temperature 49\u00b0-5\n(Station IB.). At 11 A.M. sounded in 950 fathoms, Hard Ground (Station Ic.), but the\nline carried away owing to a bad splice. At 11.30 A.m. put dredge over in about 1000\nfathoms; it came up without mud at 4 P.M., having apparently not been on the bottom,\nbut contained one small fish, some small Crustacea, and Pteropoda. Between Vigo Bay\nand Burlings Islands the tow-net was used. At night the sea showed luminosity due\napparently to small Crustacea.\nPosition at noon, about 40 miles west of Cape Mondego ; Burlings Islands distant 59\nmiles. Made good 86 miles. Amount of current 12 miles, direction N. 75\u00ba E.\nSurface Organisms.-Crustacea and Pteropoda were obtained in the surface tow-net.\nORGANISMS FROM\nSURFACE-NETS.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Crustacea,",
+                "name": "Crustacea",
+                "oddsLog10": 4.9825642039,
+                "start": 731,
+                "end": 741,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "some",
+                    "small"
+                ],
+                "wordsAfter": [
+                    "and",
+                    "Pteropoda"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Pteropoda.",
+                "name": "Pteropoda",
+                "oddsLog10": 5.1866841865,
+                "start": 746,
+                "end": 756,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Crustacea",
+                    "and"
+                ],
+                "wordsAfter": [
+                    "Between",
+                    "Vigo"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Crustacea.",
+                "name": "Crustacea",
+                "oddsLog10": 4.9825642039,
+                "start": 876,
+                "end": 886,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "to",
+                    "small"
+                ],
+                "wordsAfter": [
+                    "Position",
+                    "at"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Pteropoda",
+                "name": "Pteropoda",
+                "oddsLog10": 5.1866841865,
+                "start": 1079,
+                "end": 1088,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Organisms\ufffd-crustacea",
+                    "and"
+                ],
+                "wordsAfter": [
+                    "were",
+                    "obtained"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "Id",
+        "Sediment sample": "Green sand",
+        "Latitude Degrees": 39,
+        "Latitude Minutes": 55,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 10,
+        "Longitude Minutes": 5,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -10.0833333333,
+        "Decimal Latitude": 39.9166666667,
+        "Location": "Off Portugal coast",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "02/01/1873",
+        "Gear": "Dredge",
+        "Depth (fathoms)": 1975.0,
+        "Bottom water temperature (C)": null,
+        "Bottom temp (F)": null,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 13.8888888889,
+        "Surface temp (F)": 57.0,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Station ID.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "200"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Station ID. (Sounding 5), Cape Finisterre to Lisbon (see Chart 3).\nSTATION ID.\nJanuary 2, 1873; lat. 39\u00b0 55' N., long. 10\u00b0 5' W.\nTemperature of air at noon, 57\u00b0\u20223 ; mean for the day, 56\u00b0-7.\nTemperature of water at surface, 57\u00b00.\nDepth, 1975 fathoms.\n2 P.M.\nAt 9 A.M. sounded in 1975 fathoms, but the line was carried away, owing to a bad\nsplice, making the third sounding line and third thermometer which have been lost.\nAt 10.30 A.M. lowered dredge in about 2000 fathoms, and commenced heaving in at\nAt 9.20 P.M. the dredge-rope was carried away, about 2000 fathoms of line being\nlost along with the dredge, which probably fouled something at the bottom, as there\nwas a heavy strain on the line, and only a fathom or two could be hauled in at a time.\nPosition at noon, about 40 miles N.W. of Burlings Islands, coast of Portugal. Made\ngood 30 miles. Amount of current 7 miles, direction S. 56\u00b0 E.\nAT LISBON.\nThe Challenger remained at anchor off Lisbon from 1 P.M. on January 3 till 5 P.M.\non January 12, 1873.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Challenger",
+                "name": "Challenger",
+                "oddsLog10": 1.6918811821,
+                "start": 912,
+                "end": 922,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Lisbon",
+                    "The"
+                ],
+                "wordsAfter": [
+                    "remained",
+                    "at"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "II",
+        "Sediment sample": "Green mud",
+        "Latitude Degrees": 38,
+        "Latitude Minutes": 10,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 14,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -9.2333333333,
+        "Decimal Latitude": 38.1666666667,
+        "Location": "South-west Lisbon, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "13/01/1873",
+        "Gear": "Dredge",
+        "Depth (fathoms)": 470.0,
+        "Bottom water temperature (C)": null,
+        "Bottom temp (F)": null,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 13.8888888889,
+        "Surface temp (F)": 57.0,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations II. and IIA.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "200-206"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations II. and IIa. (Soundings 6 and 7), off the mouth of the Tagus (see Stations II. AND\nIIa.\nChart 3).\nJanuary 13, 1873 ; lat. 38\u00b0 10' N., long. 9\u00b0 14' W.\nTemperature of air at noon, 54\u00b0:3; mean for the day, 55\u00b0:0.\nTemperature of water at surface, 57\u00b0:0.\nAt 7.30 A.M. sounded in 470 fathoms, deposit Green Mud, containing about 40\n\nSUMMARY OF RESULTS.\n115\nobserved in the deposit from this Station (see also Murray and Renard, Deep-Sea Stations II.\nDeposits Chall. Exp.); the pelagic species, which make up 25 per cent. of the carbonate\nAND IIA.\nof lime present in the deposit, are marked thus * :\nBiloculina bulloides, d'Orbigny.\ncomata, Brady.\ndepressa, d'Orbigny.\nringens (Lamarck).\ntubulosa, Costa.\nSpiroloculina limbuta, d'Orbigny.\nMiliolina seminulum (Linne).\nPlanispirina celata (Costa).\ncommunis, Seguenza.\nPsammosph\u00e6ra fusca, Schulze.\nKalamopsis (?) sp.\nHyperammina ramosa, Brady.\nRhabdammina abyssorum, Sars.\nBotellina labyrinthica, Brady.\nReophax sp. (?)\nHaplophragmium latidoreatum (Bornemann).\nPlacopsilina vesicularis, Brady (?).\nAmmodiscus incertus (d'Orbigny).\nWebbina clavata, Jones and Parker.\nCyclammina cancellata, Brady.\nBigenerina capreolus, d'Orbigny.\nValvulina fusca (Williamson).\nClavulina communis, d'Orbigny.\nparisiensis, d'Orbigny.\nBulimina inflata, Seguenza.\npyrula, d'Orbigny.\nBolivina amygdal\u00e6formis, Brady,\npunctata, d'Orbigny.\nLagena l\u00e6vis (Montagu).\nsulcata (Walker and Jacob).\nNodosaria comata (Batsch) (1).\n(Glandulina) l\u00e6vigata, d'Orbigny.\nscalaris (Batsch).\nsoluta, Reuss.\nLingulina carinata, d'Orbigny, var. seminuda,\nHantken.\nMarginulina costata (Batsch).\nVaginulina legumen (Linn\u00e9).\nCristellaria articulata, Reuss.\ncalcar (Linn\u00e9).\ncompressa, d'Orbigny.\ncultrata (Montfort).\nitalica (Defrance).\nrotulata (Lamarck).\nvortex (Fichtel and Moll).\nsp. (?)\nUvigerina angulosa, Williamson.\npygm\u00e6a, d'Orbigny.\n* Globigerina bulloides, d'Orbigny.\nconglobata, Brady.\ninflata, d'Orbigny.\nX\nrubra, d'Orbigny.\nx Orbulina universa, d'Orbigny.\nPullenia sph\u00e6roides (d'Orbigny).\nTruncatulina pygm\u00e6a, Hantken.\nAnomalina ariminensis (d'Orbigny).\ncoronata, Parker and Jones.\nCarpenteria balaniformis, Gray.\nRupertia stabilis, Wallich.\n* Pulvinulina canariensis (d'Orbigny).\nelegans (d'Orbigny).\nmicheliniana (d'Orbigny).\npunctulata (d'Orbigny).\n\u0425\nsp. (?).\nRotalia orbicularis, d'Orbigny.\nGypsina globulus (Reuss).\nNonionina umbilicatula (Montagu).\nOperculina ammonoides (Gronovius).\nORGANISMS FROM\nSURFACE-NETS.\nSurface Organisms.\u2014Willemoes-Suhm writes :-\"Among the surface things were\nfound a beautiful Gammarus with enormous eyes, a Crustacean larva offering a curious\ncombination of Phyllopodal and Copepodal characters, and the little Hyperia inhabiting\nthe Salp\u00e6.\"\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Tagus",
+                "name": "Tagus",
+                "oddsLog10": 4.7294397931,
+                "start": 64,
+                "end": 69,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "of",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "see",
+                    "Stations"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Biloculina bulloides,",
+                "name": "Biloculina bulloides",
+                "oddsLog10": 9.2534122638,
+                "start": 602,
+                "end": 623,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "\ufffd",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "comata"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady.",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 643,
+                "end": 649,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "d\ufffdorbigny",
+                    "comata"
+                ],
+                "wordsAfter": [
+                    "depressa",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Spiroloculina",
+                "name": "Spiroloculina",
+                "oddsLog10": 4.7514230085,
+                "start": 707,
+                "end": 720,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "tubulosa",
+                    "Costa"
+                ],
+                "wordsAfter": [
+                    "limbuta",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Miliolina seminulum",
+                "name": "Miliolina seminulum",
+                "oddsLog10": 11.0442061929,
+                "start": 741,
+                "end": 760,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "limbuta",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Linne",
+                    "Planispirina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Planispirina celata",
+                "name": "Planispirina celata",
+                "oddsLog10": 11.9223827508,
+                "start": 770,
+                "end": 789,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "seminulum",
+                    "Linne"
+                ],
+                "wordsAfter": [
+                    "Costa",
+                    "communis"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Seguenza.",
+                "name": "Seguenza",
+                "oddsLog10": 3.8123612173,
+                "start": 809,
+                "end": 818,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Costa",
+                    "communis"
+                ],
+                "wordsAfter": [
+                    "Psammosph\u00e6ra",
+                    "fusca"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Psammosph\u00e6ra fusca,",
+                "name": "Psammosph\u00e6ra fusca",
+                "oddsLog10": 2.9557986362,
+                "start": 819,
+                "end": 838,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "communis",
+                    "Seguenza"
+                ],
+                "wordsAfter": [
+                    "Schulze",
+                    "Kalamopsis"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Kalamopsis",
+                "name": "Kalamopsis",
+                "oddsLog10": 5.1091303323,
+                "start": 848,
+                "end": 858,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "fusca",
+                    "Schulze"
+                ],
+                "wordsAfter": [
+                    "\ufffd",
+                    "sp"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Hyperammina ramosa,",
+                "name": "Hyperammina ramosa",
+                "oddsLog10": 11.2523839301,
+                "start": 867,
+                "end": 886,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "\ufffd",
+                    "sp"
+                ],
+                "wordsAfter": [
+                    "Brady",
+                    "Rhabdammina"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady.",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 887,
+                "end": 893,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Hyperammina",
+                    "ramosa"
+                ],
+                "wordsAfter": [
+                    "Rhabdammina",
+                    "abyssorum"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Rhabdammina abyssorum,",
+                "name": "Rhabdammina abyssorum",
+                "oddsLog10": 11.642288726,
+                "start": 894,
+                "end": 916,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "ramosa",
+                    "Brady"
+                ],
+                "wordsAfter": [
+                    "Sars",
+                    "Botellina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Botellina labyrinthica,",
+                "name": "Botellina labyrinthica",
+                "oddsLog10": 11.8809111478,
+                "start": 923,
+                "end": 946,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "abyssorum",
+                    "Sars"
+                ],
+                "wordsAfter": [
+                    "Brady",
+                    "Reophax"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady.",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 947,
+                "end": 953,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Botellina",
+                    "labyrinthica"
+                ],
+                "wordsAfter": [
+                    "Reophax",
+                    "sp"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Reophax",
+                "name": "Reophax",
+                "oddsLog10": 3.8672598167,
+                "start": 954,
+                "end": 961,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "labyrinthica",
+                    "Brady"
+                ],
+                "wordsAfter": [
+                    "sp",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Haplophragmium latidoreatum",
+                "name": "Haplophragmium latidoreatum",
+                "oddsLog10": 8.8077775673,
+                "start": 970,
+                "end": 997,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "sp",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "Bornemann",
+                    "Placopsilina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Placopsilina vesicularis,",
+                "name": "Placopsilina vesicularis",
+                "oddsLog10": 12.3212637697,
+                "start": 1011,
+                "end": 1036,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "latidoreatum",
+                    "Bornemann"
+                ],
+                "wordsAfter": [
+                    "Brady",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 1037,
+                "end": 1042,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Placopsilina",
+                    "vesicularis"
+                ],
+                "wordsAfter": [
+                    "\ufffd",
+                    "Ammodiscus"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Ammodiscus incertus",
+                "name": "Ammodiscus incertus",
+                "oddsLog10": 13.8948878291,
+                "start": 1048,
+                "end": 1067,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Brady",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "Webbina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Webbina clavata,",
+                "name": "Webbina clavata",
+                "oddsLog10": 11.2640492021,
+                "start": 1081,
+                "end": 1097,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "incertus",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Jones",
+                    "and"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Cyclammina cancellata,",
+                "name": "Cyclammina cancellata",
+                "oddsLog10": 12.3209334588,
+                "start": 1116,
+                "end": 1138,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "and",
+                    "Parker"
+                ],
+                "wordsAfter": [
+                    "Brady",
+                    "Bigenerina"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady.",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 1139,
+                "end": 1145,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Cyclammina",
+                    "cancellata"
+                ],
+                "wordsAfter": [
+                    "Bigenerina",
+                    "capreolus"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Bigenerina capreolus,",
+                "name": "Bigenerina capreolus",
+                "oddsLog10": 11.4343758191,
+                "start": 1146,
+                "end": 1167,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "cancellata",
+                    "Brady"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "Valvulina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Valvulina fusca",
+                "name": "Valvulina fusca",
+                "oddsLog10": 9.1965262582,
+                "start": 1179,
+                "end": 1194,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "capreolus",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Williamson",
+                    "Clavulina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Clavulina communis,",
+                "name": "Clavulina communis",
+                "oddsLog10": 11.1540311904,
+                "start": 1209,
+                "end": 1228,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "fusca",
+                    "Williamson"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "parisiensis"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Bulimina inflata,",
+                "name": "Bulimina inflata",
+                "oddsLog10": 11.5101805984,
+                "start": 1264,
+                "end": 1281,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "parisiensis",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Seguenza",
+                    "pyrula"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Seguenza.",
+                "name": "Seguenza",
+                "oddsLog10": 3.8123612173,
+                "start": 1282,
+                "end": 1291,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Bulimina",
+                    "inflata"
+                ],
+                "wordsAfter": [
+                    "pyrula",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Bolivina amygdal\u00e6formis,",
+                "name": "Bolivina amygdal\u00e6formis",
+                "oddsLog10": 6.7190966316,
+                "start": 1311,
+                "end": 1335,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "pyrula",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Brady",
+                    "punctata"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady,",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 1336,
+                "end": 1342,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Bolivina",
+                    "amygdal\u00e6formis"
+                ],
+                "wordsAfter": [
+                    "punctata",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Nodosaria comata",
+                "name": "Nodosaria comata",
+                "oddsLog10": 12.1087313918,
+                "start": 1416,
+                "end": 1432,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "and",
+                    "Jacob"
+                ],
+                "wordsAfter": [
+                    "Batsch",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "(Glandulina)",
+                "name": "Glandulina",
+                "oddsLog10": 4.3028820497,
+                "start": 1447,
+                "end": 1459,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Batsch",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "l\u00e6vigata",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Lingulina carinata,",
+                "name": "Lingulina carinata",
+                "oddsLog10": 11.8752407833,
+                "start": 1515,
+                "end": 1534,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "soluta",
+                    "Reuss"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "var"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Marginulina costata",
+                "name": "Marginulina costata",
+                "oddsLog10": 11.9705966979,
+                "start": 1570,
+                "end": 1589,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "seminuda",
+                    "Hantken"
+                ],
+                "wordsAfter": [
+                    "Batsch",
+                    "Vaginulina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Vaginulina legumen",
+                "name": "Vaginulina legumen",
+                "oddsLog10": 9.0556128613,
+                "start": 1600,
+                "end": 1618,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "costata",
+                    "Batsch"
+                ],
+                "wordsAfter": [
+                    "Linn\u00e9",
+                    "Cristellaria"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Cristellaria articulata,",
+                "name": "Cristellaria articulata",
+                "oddsLog10": 13.3928728548,
+                "start": 1628,
+                "end": 1652,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "legumen",
+                    "Linn\u00e9"
+                ],
+                "wordsAfter": [
+                    "Reuss",
+                    "calcar"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Uvigerina angulosa,",
+                "name": "Uvigerina angulosa",
+                "oddsLog10": 11.4419846655,
+                "start": 1794,
+                "end": 1813,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "sp",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "Williamson",
+                    "pygm\u00e6a"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Globigerina bulloides,",
+                "name": "Globigerina bulloides",
+                "oddsLog10": 9.3753045001,
+                "start": 1847,
+                "end": 1869,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "d\ufffdorbigny",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "conglobata"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady.",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 1893,
+                "end": 1899,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "d\ufffdorbigny",
+                    "conglobata"
+                ],
+                "wordsAfter": [
+                    "inflata",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Orbulina universa,",
+                "name": "Orbulina universa",
+                "oddsLog10": 9.866188706,
+                "start": 1942,
+                "end": 1960,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "d\ufffdorbigny",
+                    "x"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "Pullenia"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Pullenia",
+                "name": "Pullenia",
+                "oddsLog10": 3.8654709061,
+                "start": 1972,
+                "end": 1980,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "universa",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "sph\u00e6roides",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Truncatulina",
+                "name": "Truncatulina",
+                "oddsLog10": 4.661516989,
+                "start": 2005,
+                "end": 2017,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "sph\u00e6roides",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "pygm\u00e6a",
+                    "Hantken"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Anomalina ariminensis",
+                "name": "Anomalina ariminensis",
+                "oddsLog10": 12.0651431642,
+                "start": 2035,
+                "end": 2056,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "pygm\u00e6a",
+                    "Hantken"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "coronata"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Carpenteria balaniformis,",
+                "name": "Carpenteria balaniformis",
+                "oddsLog10": 12.2496996094,
+                "start": 2098,
+                "end": 2123,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "and",
+                    "Jones"
+                ],
+                "wordsAfter": [
+                    "Gray",
+                    "Rupertia"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Rupertia stabilis,",
+                "name": "Rupertia stabilis",
+                "oddsLog10": 12.2549150453,
+                "start": 2130,
+                "end": 2148,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "balaniformis",
+                    "Gray"
+                ],
+                "wordsAfter": [
+                    "Wallich",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Pulvinulina canariensis",
+                "name": "Pulvinulina canariensis",
+                "oddsLog10": 12.3553562771,
+                "start": 2160,
+                "end": 2183,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Wallich",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "elegans"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Rotalia orbicularis,",
+                "name": "Rotalia orbicularis",
+                "oddsLog10": 8.3074711319,
+                "start": 2279,
+                "end": 2299,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "sp",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "Gypsina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Gypsina globulus",
+                "name": "Gypsina globulus",
+                "oddsLog10": 10.6870040993,
+                "start": 2311,
+                "end": 2327,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "orbicularis",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Reuss",
+                    "Nonionina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Nonionina umbilicatula",
+                "name": "Nonionina umbilicatula",
+                "oddsLog10": 11.4514315275,
+                "start": 2337,
+                "end": 2359,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "globulus",
+                    "Reuss"
+                ],
+                "wordsAfter": [
+                    "Montagu",
+                    "Operculina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Operculina ammonoides",
+                "name": "Operculina ammonoides",
+                "oddsLog10": 10.740029463,
+                "start": 2371,
+                "end": 2392,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "umbilicatula",
+                    "Montagu"
+                ],
+                "wordsAfter": [
+                    "Gronovius",
+                    "Organisms"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "(Gronovius).",
+                "name": "Gronovius",
+                "oddsLog10": 4.9789299192,
+                "start": 2393,
+                "end": 2405,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Operculina",
+                    "ammonoides"
+                ],
+                "wordsAfter": [
+                    "Organisms",
+                    "From"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Gammarus",
+                "name": "Gammarus",
+                "oddsLog10": 5.2595192486,
+                "start": 2527,
+                "end": 2535,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "a",
+                    "beautiful"
+                ],
+                "wordsAfter": [
+                    "with",
+                    "enormous"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Hyperia",
+                "name": "Hyperia",
+                "oddsLog10": 4.4315312471,
+                "start": 2662,
+                "end": 2669,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "the",
+                    "little"
+                ],
+                "wordsAfter": [
+                    "inhabiting",
+                    "the"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "II a",
+        "Sediment sample": "Green mud",
+        "Latitude Degrees": 38,
+        "Latitude Minutes": 5,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 39,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -9.65,
+        "Decimal Latitude": 38.0833333333,
+        "Location": "South-west Lisbon, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "13/01/1873",
+        "Gear": "Dredge",
+        "Depth (fathoms)": 1270.0,
+        "Bottom water temperature (C)": null,
+        "Bottom temp (F)": null,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 13.8888888889,
+        "Surface temp (F)": 57.0,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations II. and IIA.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "200-206"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations II. and IIa. (Soundings 6 and 7), off the mouth of the Tagus (see Stations II. AND\nIIa.\nChart 3).\nJanuary 13, 1873 ; lat. 38\u00b0 10' N., long. 9\u00b0 14' W.\nTemperature of air at noon, 54\u00b0:3; mean for the day, 55\u00b0:0.\nTemperature of water at surface, 57\u00b0:0.\nAt 7.30 A.M. sounded in 470 fathoms, deposit Green Mud, containing about 40\n\nSUMMARY OF RESULTS.\n115\nobserved in the deposit from this Station (see also Murray and Renard, Deep-Sea Stations II.\nDeposits Chall. Exp.); the pelagic species, which make up 25 per cent. of the carbonate\nAND IIA.\nof lime present in the deposit, are marked thus * :\nBiloculina bulloides, d'Orbigny.\ncomata, Brady.\ndepressa, d'Orbigny.\nringens (Lamarck).\ntubulosa, Costa.\nSpiroloculina limbuta, d'Orbigny.\nMiliolina seminulum (Linne).\nPlanispirina celata (Costa).\ncommunis, Seguenza.\nPsammosph\u00e6ra fusca, Schulze.\nKalamopsis (?) sp.\nHyperammina ramosa, Brady.\nRhabdammina abyssorum, Sars.\nBotellina labyrinthica, Brady.\nReophax sp. (?)\nHaplophragmium latidoreatum (Bornemann).\nPlacopsilina vesicularis, Brady (?).\nAmmodiscus incertus (d'Orbigny).\nWebbina clavata, Jones and Parker.\nCyclammina cancellata, Brady.\nBigenerina capreolus, d'Orbigny.\nValvulina fusca (Williamson).\nClavulina communis, d'Orbigny.\nparisiensis, d'Orbigny.\nBulimina inflata, Seguenza.\npyrula, d'Orbigny.\nBolivina amygdal\u00e6formis, Brady,\npunctata, d'Orbigny.\nLagena l\u00e6vis (Montagu).\nsulcata (Walker and Jacob).\nNodosaria comata (Batsch) (1).\n(Glandulina) l\u00e6vigata, d'Orbigny.\nscalaris (Batsch).\nsoluta, Reuss.\nLingulina carinata, d'Orbigny, var. seminuda,\nHantken.\nMarginulina costata (Batsch).\nVaginulina legumen (Linn\u00e9).\nCristellaria articulata, Reuss.\ncalcar (Linn\u00e9).\ncompressa, d'Orbigny.\ncultrata (Montfort).\nitalica (Defrance).\nrotulata (Lamarck).\nvortex (Fichtel and Moll).\nsp. (?)\nUvigerina angulosa, Williamson.\npygm\u00e6a, d'Orbigny.\n* Globigerina bulloides, d'Orbigny.\nconglobata, Brady.\ninflata, d'Orbigny.\nX\nrubra, d'Orbigny.\nx Orbulina universa, d'Orbigny.\nPullenia sph\u00e6roides (d'Orbigny).\nTruncatulina pygm\u00e6a, Hantken.\nAnomalina ariminensis (d'Orbigny).\ncoronata, Parker and Jones.\nCarpenteria balaniformis, Gray.\nRupertia stabilis, Wallich.\n* Pulvinulina canariensis (d'Orbigny).\nelegans (d'Orbigny).\nmicheliniana (d'Orbigny).\npunctulata (d'Orbigny).\n\u0425\nsp. (?).\nRotalia orbicularis, d'Orbigny.\nGypsina globulus (Reuss).\nNonionina umbilicatula (Montagu).\nOperculina ammonoides (Gronovius).\nORGANISMS FROM\nSURFACE-NETS.\nSurface Organisms.\u2014Willemoes-Suhm writes :-\"Among the surface things were\nfound a beautiful Gammarus with enormous eyes, a Crustacean larva offering a curious\ncombination of Phyllopodal and Copepodal characters, and the little Hyperia inhabiting\nthe Salp\u00e6.\"\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Tagus",
+                "name": "Tagus",
+                "oddsLog10": 4.7294397931,
+                "start": 64,
+                "end": 69,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "of",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "see",
+                    "Stations"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Biloculina bulloides,",
+                "name": "Biloculina bulloides",
+                "oddsLog10": 9.2534122638,
+                "start": 602,
+                "end": 623,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "\ufffd",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "comata"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady.",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 643,
+                "end": 649,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "d\ufffdorbigny",
+                    "comata"
+                ],
+                "wordsAfter": [
+                    "depressa",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Spiroloculina",
+                "name": "Spiroloculina",
+                "oddsLog10": 4.7514230085,
+                "start": 707,
+                "end": 720,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "tubulosa",
+                    "Costa"
+                ],
+                "wordsAfter": [
+                    "limbuta",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Miliolina seminulum",
+                "name": "Miliolina seminulum",
+                "oddsLog10": 11.0442061929,
+                "start": 741,
+                "end": 760,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "limbuta",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Linne",
+                    "Planispirina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Planispirina celata",
+                "name": "Planispirina celata",
+                "oddsLog10": 11.9223827508,
+                "start": 770,
+                "end": 789,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "seminulum",
+                    "Linne"
+                ],
+                "wordsAfter": [
+                    "Costa",
+                    "communis"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Seguenza.",
+                "name": "Seguenza",
+                "oddsLog10": 3.8123612173,
+                "start": 809,
+                "end": 818,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Costa",
+                    "communis"
+                ],
+                "wordsAfter": [
+                    "Psammosph\u00e6ra",
+                    "fusca"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Psammosph\u00e6ra fusca,",
+                "name": "Psammosph\u00e6ra fusca",
+                "oddsLog10": 2.9557986362,
+                "start": 819,
+                "end": 838,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "communis",
+                    "Seguenza"
+                ],
+                "wordsAfter": [
+                    "Schulze",
+                    "Kalamopsis"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Kalamopsis",
+                "name": "Kalamopsis",
+                "oddsLog10": 5.1091303323,
+                "start": 848,
+                "end": 858,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "fusca",
+                    "Schulze"
+                ],
+                "wordsAfter": [
+                    "\ufffd",
+                    "sp"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Hyperammina ramosa,",
+                "name": "Hyperammina ramosa",
+                "oddsLog10": 11.2523839301,
+                "start": 867,
+                "end": 886,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "\ufffd",
+                    "sp"
+                ],
+                "wordsAfter": [
+                    "Brady",
+                    "Rhabdammina"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady.",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 887,
+                "end": 893,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Hyperammina",
+                    "ramosa"
+                ],
+                "wordsAfter": [
+                    "Rhabdammina",
+                    "abyssorum"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Rhabdammina abyssorum,",
+                "name": "Rhabdammina abyssorum",
+                "oddsLog10": 11.642288726,
+                "start": 894,
+                "end": 916,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "ramosa",
+                    "Brady"
+                ],
+                "wordsAfter": [
+                    "Sars",
+                    "Botellina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Botellina labyrinthica,",
+                "name": "Botellina labyrinthica",
+                "oddsLog10": 11.8809111478,
+                "start": 923,
+                "end": 946,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "abyssorum",
+                    "Sars"
+                ],
+                "wordsAfter": [
+                    "Brady",
+                    "Reophax"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady.",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 947,
+                "end": 953,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Botellina",
+                    "labyrinthica"
+                ],
+                "wordsAfter": [
+                    "Reophax",
+                    "sp"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Reophax",
+                "name": "Reophax",
+                "oddsLog10": 3.8672598167,
+                "start": 954,
+                "end": 961,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "labyrinthica",
+                    "Brady"
+                ],
+                "wordsAfter": [
+                    "sp",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Haplophragmium latidoreatum",
+                "name": "Haplophragmium latidoreatum",
+                "oddsLog10": 8.8077775673,
+                "start": 970,
+                "end": 997,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "sp",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "Bornemann",
+                    "Placopsilina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Placopsilina vesicularis,",
+                "name": "Placopsilina vesicularis",
+                "oddsLog10": 12.3212637697,
+                "start": 1011,
+                "end": 1036,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "latidoreatum",
+                    "Bornemann"
+                ],
+                "wordsAfter": [
+                    "Brady",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 1037,
+                "end": 1042,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Placopsilina",
+                    "vesicularis"
+                ],
+                "wordsAfter": [
+                    "\ufffd",
+                    "Ammodiscus"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Ammodiscus incertus",
+                "name": "Ammodiscus incertus",
+                "oddsLog10": 13.8948878291,
+                "start": 1048,
+                "end": 1067,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Brady",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "Webbina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Webbina clavata,",
+                "name": "Webbina clavata",
+                "oddsLog10": 11.2640492021,
+                "start": 1081,
+                "end": 1097,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "incertus",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Jones",
+                    "and"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Cyclammina cancellata,",
+                "name": "Cyclammina cancellata",
+                "oddsLog10": 12.3209334588,
+                "start": 1116,
+                "end": 1138,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "and",
+                    "Parker"
+                ],
+                "wordsAfter": [
+                    "Brady",
+                    "Bigenerina"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady.",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 1139,
+                "end": 1145,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Cyclammina",
+                    "cancellata"
+                ],
+                "wordsAfter": [
+                    "Bigenerina",
+                    "capreolus"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Bigenerina capreolus,",
+                "name": "Bigenerina capreolus",
+                "oddsLog10": 11.4343758191,
+                "start": 1146,
+                "end": 1167,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "cancellata",
+                    "Brady"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "Valvulina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Valvulina fusca",
+                "name": "Valvulina fusca",
+                "oddsLog10": 9.1965262582,
+                "start": 1179,
+                "end": 1194,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "capreolus",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Williamson",
+                    "Clavulina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Clavulina communis,",
+                "name": "Clavulina communis",
+                "oddsLog10": 11.1540311904,
+                "start": 1209,
+                "end": 1228,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "fusca",
+                    "Williamson"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "parisiensis"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Bulimina inflata,",
+                "name": "Bulimina inflata",
+                "oddsLog10": 11.5101805984,
+                "start": 1264,
+                "end": 1281,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "parisiensis",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Seguenza",
+                    "pyrula"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Seguenza.",
+                "name": "Seguenza",
+                "oddsLog10": 3.8123612173,
+                "start": 1282,
+                "end": 1291,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Bulimina",
+                    "inflata"
+                ],
+                "wordsAfter": [
+                    "pyrula",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Bolivina amygdal\u00e6formis,",
+                "name": "Bolivina amygdal\u00e6formis",
+                "oddsLog10": 6.7190966316,
+                "start": 1311,
+                "end": 1335,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "pyrula",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Brady",
+                    "punctata"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady,",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 1336,
+                "end": 1342,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Bolivina",
+                    "amygdal\u00e6formis"
+                ],
+                "wordsAfter": [
+                    "punctata",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Nodosaria comata",
+                "name": "Nodosaria comata",
+                "oddsLog10": 12.1087313918,
+                "start": 1416,
+                "end": 1432,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "and",
+                    "Jacob"
+                ],
+                "wordsAfter": [
+                    "Batsch",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "(Glandulina)",
+                "name": "Glandulina",
+                "oddsLog10": 4.3028820497,
+                "start": 1447,
+                "end": 1459,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Batsch",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "l\u00e6vigata",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Lingulina carinata,",
+                "name": "Lingulina carinata",
+                "oddsLog10": 11.8752407833,
+                "start": 1515,
+                "end": 1534,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "soluta",
+                    "Reuss"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "var"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Marginulina costata",
+                "name": "Marginulina costata",
+                "oddsLog10": 11.9705966979,
+                "start": 1570,
+                "end": 1589,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "seminuda",
+                    "Hantken"
+                ],
+                "wordsAfter": [
+                    "Batsch",
+                    "Vaginulina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Vaginulina legumen",
+                "name": "Vaginulina legumen",
+                "oddsLog10": 9.0556128613,
+                "start": 1600,
+                "end": 1618,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "costata",
+                    "Batsch"
+                ],
+                "wordsAfter": [
+                    "Linn\u00e9",
+                    "Cristellaria"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Cristellaria articulata,",
+                "name": "Cristellaria articulata",
+                "oddsLog10": 13.3928728548,
+                "start": 1628,
+                "end": 1652,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "legumen",
+                    "Linn\u00e9"
+                ],
+                "wordsAfter": [
+                    "Reuss",
+                    "calcar"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Uvigerina angulosa,",
+                "name": "Uvigerina angulosa",
+                "oddsLog10": 11.4419846655,
+                "start": 1794,
+                "end": 1813,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "sp",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "Williamson",
+                    "pygm\u00e6a"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Globigerina bulloides,",
+                "name": "Globigerina bulloides",
+                "oddsLog10": 9.3753045001,
+                "start": 1847,
+                "end": 1869,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "d\ufffdorbigny",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "conglobata"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Brady.",
+                "name": "Brady",
+                "oddsLog10": 2.6502585471,
+                "start": 1893,
+                "end": 1899,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "d\ufffdorbigny",
+                    "conglobata"
+                ],
+                "wordsAfter": [
+                    "inflata",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Orbulina universa,",
+                "name": "Orbulina universa",
+                "oddsLog10": 9.866188706,
+                "start": 1942,
+                "end": 1960,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "d\ufffdorbigny",
+                    "x"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "Pullenia"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Pullenia",
+                "name": "Pullenia",
+                "oddsLog10": 3.8654709061,
+                "start": 1972,
+                "end": 1980,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "universa",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "sph\u00e6roides",
+                    "d\ufffdorbigny"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Truncatulina",
+                "name": "Truncatulina",
+                "oddsLog10": 4.661516989,
+                "start": 2005,
+                "end": 2017,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "sph\u00e6roides",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "pygm\u00e6a",
+                    "Hantken"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Anomalina ariminensis",
+                "name": "Anomalina ariminensis",
+                "oddsLog10": 12.0651431642,
+                "start": 2035,
+                "end": 2056,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "pygm\u00e6a",
+                    "Hantken"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "coronata"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Carpenteria balaniformis,",
+                "name": "Carpenteria balaniformis",
+                "oddsLog10": 12.2496996094,
+                "start": 2098,
+                "end": 2123,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "and",
+                    "Jones"
+                ],
+                "wordsAfter": [
+                    "Gray",
+                    "Rupertia"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Rupertia stabilis,",
+                "name": "Rupertia stabilis",
+                "oddsLog10": 12.2549150453,
+                "start": 2130,
+                "end": 2148,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "balaniformis",
+                    "Gray"
+                ],
+                "wordsAfter": [
+                    "Wallich",
+                    "\ufffd"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Pulvinulina canariensis",
+                "name": "Pulvinulina canariensis",
+                "oddsLog10": 12.3553562771,
+                "start": 2160,
+                "end": 2183,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Wallich",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "elegans"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Rotalia orbicularis,",
+                "name": "Rotalia orbicularis",
+                "oddsLog10": 8.3074711319,
+                "start": 2279,
+                "end": 2299,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "sp",
+                    "\ufffd"
+                ],
+                "wordsAfter": [
+                    "d\ufffdorbigny",
+                    "Gypsina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Gypsina globulus",
+                "name": "Gypsina globulus",
+                "oddsLog10": 10.6870040993,
+                "start": 2311,
+                "end": 2327,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "orbicularis",
+                    "d\ufffdorbigny"
+                ],
+                "wordsAfter": [
+                    "Reuss",
+                    "Nonionina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Nonionina umbilicatula",
+                "name": "Nonionina umbilicatula",
+                "oddsLog10": 11.4514315275,
+                "start": 2337,
+                "end": 2359,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "globulus",
+                    "Reuss"
+                ],
+                "wordsAfter": [
+                    "Montagu",
+                    "Operculina"
+                ]
+            },
+            {
+                "cardinality": 2,
+                "verbatim": "Operculina ammonoides",
+                "name": "Operculina ammonoides",
+                "oddsLog10": 10.740029463,
+                "start": 2371,
+                "end": 2392,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "umbilicatula",
+                    "Montagu"
+                ],
+                "wordsAfter": [
+                    "Gronovius",
+                    "Organisms"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "(Gronovius).",
+                "name": "Gronovius",
+                "oddsLog10": 4.9789299192,
+                "start": 2393,
+                "end": 2405,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Operculina",
+                    "ammonoides"
+                ],
+                "wordsAfter": [
+                    "Organisms",
+                    "From"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Gammarus",
+                "name": "Gammarus",
+                "oddsLog10": 5.2595192486,
+                "start": 2527,
+                "end": 2535,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "a",
+                    "beautiful"
+                ],
+                "wordsAfter": [
+                    "with",
+                    "enormous"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "Hyperia",
+                "name": "Hyperia",
+                "oddsLog10": 4.4315312471,
+                "start": 2662,
+                "end": 2669,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "the",
+                    "little"
+                ],
+                "wordsAfter": [
+                    "inhabiting",
+                    "the"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "II b",
+        "Sediment sample": "Green mud",
+        "Latitude Degrees": 38,
+        "Latitude Minutes": 31,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 31,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -9.5166666667,
+        "Decimal Latitude": 38.5166666667,
+        "Location": "South-west Lisbon, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "14/01/1873",
+        "Gear": null,
+        "Depth (fathoms)": 84.0,
+        "Bottom water temperature (C)": null,
+        "Bottom temp (F)": null,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 13.8888888889,
+        "Surface temp (F)": 57.0,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IIB. to IIH.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "206-207"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IIB. to IIH. (Soundings 8 to 14), off the mouth of the Tagus (see Chart 3). Stations IIB. To\nOn January 14, 1873, soundings were taken successively in 84 fathoms, deposit\nIIa.\n\n116\nTHE VOYAGE OF H.M.S. CHALLENGER.\n\u0406\u0406\u043d.\n;\nStations IIB. TO Green Mud (Station IIB.); in 280 fathoms, deposit Green Mud (Station IIc.); in 560\nfathoms, deposit Green Sand, containing 31.81 per cent. of carbonate of lime, bottom\ntemperature 52\u00b0:0 (Station IId.); in 1290 fathoms, deposit Blue Mud, containing 19 per\ncent. of carbonate of lime (Station IIE.); in 1475 fathoms, deposit Blue Mud, containing\n26.50 per cent. of carbonate of lime, bottom temperature 37\u00b0\u20225 (Station IIF.); in 1380\nfathoms, deposit Blue Mud, containing 28.86 per cent. of carbonate of lime, bottom\ntemperature 38\u00b0:0 (Station IIG.); and in 1800 fathoms, deposit Blue Mud, containing\n19.88\nper\ncent. of carbonate of lime, bottom temperature 37\u00b0:0 (Station Ilh.).\nDistance at noon from Cape St. Vincent, 81 miles. Made good 21 miles.\n;\nORGANISMS FROM\nSURFACE-NETS.\nSurface Organisms.-Willemoes-Suhm writes :\u2014\u201c Among the surface things were\nsome Acanthometr\u00e6, the common Copepoda, and a Crustacean larva (Brachyuran).\u201d\nSTATIONS IIJ. AND\nIIK.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Tagus",
+                "name": "Tagus",
+                "oddsLog10": 4.7294397931,
+                "start": 64,
+                "end": 69,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "of",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "see",
+                    "Chart"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "CHALLENGER.",
+                "name": "Challenger",
+                "oddsLog10": 1.6918811821,
+                "start": 211,
+                "end": 222,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Of",
+                    "H\ufffdm\ufffds"
+                ],
+                "wordsAfter": [
+                    "\u0406\u0456\u043d.",
+                    "\ufffd"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "II c",
+        "Sediment sample": "Green mud",
+        "Latitude Degrees": 38,
+        "Latitude Minutes": 28,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 35,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -9.5833333333,
+        "Decimal Latitude": 38.4666666667,
+        "Location": "South-west Lisbon, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "14/01/1873",
+        "Gear": null,
+        "Depth (fathoms)": 280.0,
+        "Bottom water temperature (C)": null,
+        "Bottom temp (F)": null,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 13.8888888889,
+        "Surface temp (F)": 57.0,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IIB. to IIH.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "206-207"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IIB. to IIH. (Soundings 8 to 14), off the mouth of the Tagus (see Chart 3). Stations IIB. To\nOn January 14, 1873, soundings were taken successively in 84 fathoms, deposit\nIIa.\n\n116\nTHE VOYAGE OF H.M.S. CHALLENGER.\n\u0406\u0406\u043d.\n;\nStations IIB. TO Green Mud (Station IIB.); in 280 fathoms, deposit Green Mud (Station IIc.); in 560\nfathoms, deposit Green Sand, containing 31.81 per cent. of carbonate of lime, bottom\ntemperature 52\u00b0:0 (Station IId.); in 1290 fathoms, deposit Blue Mud, containing 19 per\ncent. of carbonate of lime (Station IIE.); in 1475 fathoms, deposit Blue Mud, containing\n26.50 per cent. of carbonate of lime, bottom temperature 37\u00b0\u20225 (Station IIF.); in 1380\nfathoms, deposit Blue Mud, containing 28.86 per cent. of carbonate of lime, bottom\ntemperature 38\u00b0:0 (Station IIG.); and in 1800 fathoms, deposit Blue Mud, containing\n19.88\nper\ncent. of carbonate of lime, bottom temperature 37\u00b0:0 (Station Ilh.).\nDistance at noon from Cape St. Vincent, 81 miles. Made good 21 miles.\n;\nORGANISMS FROM\nSURFACE-NETS.\nSurface Organisms.-Willemoes-Suhm writes :\u2014\u201c Among the surface things were\nsome Acanthometr\u00e6, the common Copepoda, and a Crustacean larva (Brachyuran).\u201d\nSTATIONS IIJ. AND\nIIK.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Tagus",
+                "name": "Tagus",
+                "oddsLog10": 4.7294397931,
+                "start": 64,
+                "end": 69,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "of",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "see",
+                    "Chart"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "CHALLENGER.",
+                "name": "Challenger",
+                "oddsLog10": 1.6918811821,
+                "start": 211,
+                "end": 222,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Of",
+                    "H\ufffdm\ufffds"
+                ],
+                "wordsAfter": [
+                    "\u0406\u0456\u043d.",
+                    "\ufffd"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "II d",
+        "Sediment sample": "Green mud",
+        "Latitude Degrees": 38,
+        "Latitude Minutes": 26,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 38,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -9.6333333333,
+        "Decimal Latitude": 38.4333333333,
+        "Location": "South-west Lisbon, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "14/01/1873",
+        "Gear": null,
+        "Depth (fathoms)": 560.0,
+        "Bottom water temperature (C)": 11.1111111111,
+        "Bottom temp (F)": 52.0,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 14.1666666667,
+        "Surface temp (F)": 57.5,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IIB. to IIH.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "206-207"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IIB. to IIH. (Soundings 8 to 14), off the mouth of the Tagus (see Chart 3). Stations IIB. To\nOn January 14, 1873, soundings were taken successively in 84 fathoms, deposit\nIIa.\n\n116\nTHE VOYAGE OF H.M.S. CHALLENGER.\n\u0406\u0406\u043d.\n;\nStations IIB. TO Green Mud (Station IIB.); in 280 fathoms, deposit Green Mud (Station IIc.); in 560\nfathoms, deposit Green Sand, containing 31.81 per cent. of carbonate of lime, bottom\ntemperature 52\u00b0:0 (Station IId.); in 1290 fathoms, deposit Blue Mud, containing 19 per\ncent. of carbonate of lime (Station IIE.); in 1475 fathoms, deposit Blue Mud, containing\n26.50 per cent. of carbonate of lime, bottom temperature 37\u00b0\u20225 (Station IIF.); in 1380\nfathoms, deposit Blue Mud, containing 28.86 per cent. of carbonate of lime, bottom\ntemperature 38\u00b0:0 (Station IIG.); and in 1800 fathoms, deposit Blue Mud, containing\n19.88\nper\ncent. of carbonate of lime, bottom temperature 37\u00b0:0 (Station Ilh.).\nDistance at noon from Cape St. Vincent, 81 miles. Made good 21 miles.\n;\nORGANISMS FROM\nSURFACE-NETS.\nSurface Organisms.-Willemoes-Suhm writes :\u2014\u201c Among the surface things were\nsome Acanthometr\u00e6, the common Copepoda, and a Crustacean larva (Brachyuran).\u201d\nSTATIONS IIJ. AND\nIIK.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Tagus",
+                "name": "Tagus",
+                "oddsLog10": 4.7294397931,
+                "start": 64,
+                "end": 69,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "of",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "see",
+                    "Chart"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "CHALLENGER.",
+                "name": "Challenger",
+                "oddsLog10": 1.6918811821,
+                "start": 211,
+                "end": 222,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Of",
+                    "H\ufffdm\ufffds"
+                ],
+                "wordsAfter": [
+                    "\u0406\u0456\u043d.",
+                    "\ufffd"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "II e",
+        "Sediment sample": "Green mud",
+        "Latitude Degrees": 38,
+        "Latitude Minutes": 22,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 44,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -9.7333333333,
+        "Decimal Latitude": 38.3666666667,
+        "Location": "South-west Lisbon, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "14/01/1873",
+        "Gear": null,
+        "Depth (fathoms)": 1290.0,
+        "Bottom water temperature (C)": null,
+        "Bottom temp (F)": null,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 13.8888888889,
+        "Surface temp (F)": 57.0,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IIB. to IIH.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "206-207"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IIB. to IIH. (Soundings 8 to 14), off the mouth of the Tagus (see Chart 3). Stations IIB. To\nOn January 14, 1873, soundings were taken successively in 84 fathoms, deposit\nIIa.\n\n116\nTHE VOYAGE OF H.M.S. CHALLENGER.\n\u0406\u0406\u043d.\n;\nStations IIB. TO Green Mud (Station IIB.); in 280 fathoms, deposit Green Mud (Station IIc.); in 560\nfathoms, deposit Green Sand, containing 31.81 per cent. of carbonate of lime, bottom\ntemperature 52\u00b0:0 (Station IId.); in 1290 fathoms, deposit Blue Mud, containing 19 per\ncent. of carbonate of lime (Station IIE.); in 1475 fathoms, deposit Blue Mud, containing\n26.50 per cent. of carbonate of lime, bottom temperature 37\u00b0\u20225 (Station IIF.); in 1380\nfathoms, deposit Blue Mud, containing 28.86 per cent. of carbonate of lime, bottom\ntemperature 38\u00b0:0 (Station IIG.); and in 1800 fathoms, deposit Blue Mud, containing\n19.88\nper\ncent. of carbonate of lime, bottom temperature 37\u00b0:0 (Station Ilh.).\nDistance at noon from Cape St. Vincent, 81 miles. Made good 21 miles.\n;\nORGANISMS FROM\nSURFACE-NETS.\nSurface Organisms.-Willemoes-Suhm writes :\u2014\u201c Among the surface things were\nsome Acanthometr\u00e6, the common Copepoda, and a Crustacean larva (Brachyuran).\u201d\nSTATIONS IIJ. AND\nIIK.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Tagus",
+                "name": "Tagus",
+                "oddsLog10": 4.7294397931,
+                "start": 64,
+                "end": 69,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "of",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "see",
+                    "Chart"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "CHALLENGER.",
+                "name": "Challenger",
+                "oddsLog10": 1.6918811821,
+                "start": 211,
+                "end": 222,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Of",
+                    "H\ufffdm\ufffds"
+                ],
+                "wordsAfter": [
+                    "\u0406\u0456\u043d.",
+                    "\ufffd"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "II f",
+        "Sediment sample": "Green mud",
+        "Latitude Degrees": 38,
+        "Latitude Minutes": 14,
+        "Latitude Seconds": 25,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 49,
+        "Longitude Seconds": 42,
+        "East/West": "W",
+        "Decimal Longitude": -9.8283333333,
+        "Decimal Latitude": 38.2402777778,
+        "Location": "South-west Lisbon, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "14/01/1873",
+        "Gear": null,
+        "Depth (fathoms)": 1475.0,
+        "Bottom water temperature (C)": 3.0555555556,
+        "Bottom temp (F)": 37.5,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 14.1666666667,
+        "Surface temp (F)": 57.5,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IIB. to IIH.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "206-207"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IIB. to IIH. (Soundings 8 to 14), off the mouth of the Tagus (see Chart 3). Stations IIB. To\nOn January 14, 1873, soundings were taken successively in 84 fathoms, deposit\nIIa.\n\n116\nTHE VOYAGE OF H.M.S. CHALLENGER.\n\u0406\u0406\u043d.\n;\nStations IIB. TO Green Mud (Station IIB.); in 280 fathoms, deposit Green Mud (Station IIc.); in 560\nfathoms, deposit Green Sand, containing 31.81 per cent. of carbonate of lime, bottom\ntemperature 52\u00b0:0 (Station IId.); in 1290 fathoms, deposit Blue Mud, containing 19 per\ncent. of carbonate of lime (Station IIE.); in 1475 fathoms, deposit Blue Mud, containing\n26.50 per cent. of carbonate of lime, bottom temperature 37\u00b0\u20225 (Station IIF.); in 1380\nfathoms, deposit Blue Mud, containing 28.86 per cent. of carbonate of lime, bottom\ntemperature 38\u00b0:0 (Station IIG.); and in 1800 fathoms, deposit Blue Mud, containing\n19.88\nper\ncent. of carbonate of lime, bottom temperature 37\u00b0:0 (Station Ilh.).\nDistance at noon from Cape St. Vincent, 81 miles. Made good 21 miles.\n;\nORGANISMS FROM\nSURFACE-NETS.\nSurface Organisms.-Willemoes-Suhm writes :\u2014\u201c Among the surface things were\nsome Acanthometr\u00e6, the common Copepoda, and a Crustacean larva (Brachyuran).\u201d\nSTATIONS IIJ. AND\nIIK.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Tagus",
+                "name": "Tagus",
+                "oddsLog10": 4.7294397931,
+                "start": 64,
+                "end": 69,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "of",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "see",
+                    "Chart"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "CHALLENGER.",
+                "name": "Challenger",
+                "oddsLog10": 1.6918811821,
+                "start": 211,
+                "end": 222,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Of",
+                    "H\ufffdm\ufffds"
+                ],
+                "wordsAfter": [
+                    "\u0406\u0456\u043d.",
+                    "\ufffd"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "II g",
+        "Sediment sample": "Green mud",
+        "Latitude Degrees": 38,
+        "Latitude Minutes": 9,
+        "Latitude Seconds": 43,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 48,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -9.8,
+        "Decimal Latitude": 38.1619444444,
+        "Location": "South-west Lisbon, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "14/01/1873",
+        "Gear": null,
+        "Depth (fathoms)": 1380.0,
+        "Bottom water temperature (C)": 3.3333333333,
+        "Bottom temp (F)": 38.0,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 14.1666666667,
+        "Surface temp (F)": 57.5,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IIB. to IIH.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "206-207"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IIB. to IIH. (Soundings 8 to 14), off the mouth of the Tagus (see Chart 3). Stations IIB. To\nOn January 14, 1873, soundings were taken successively in 84 fathoms, deposit\nIIa.\n\n116\nTHE VOYAGE OF H.M.S. CHALLENGER.\n\u0406\u0406\u043d.\n;\nStations IIB. TO Green Mud (Station IIB.); in 280 fathoms, deposit Green Mud (Station IIc.); in 560\nfathoms, deposit Green Sand, containing 31.81 per cent. of carbonate of lime, bottom\ntemperature 52\u00b0:0 (Station IId.); in 1290 fathoms, deposit Blue Mud, containing 19 per\ncent. of carbonate of lime (Station IIE.); in 1475 fathoms, deposit Blue Mud, containing\n26.50 per cent. of carbonate of lime, bottom temperature 37\u00b0\u20225 (Station IIF.); in 1380\nfathoms, deposit Blue Mud, containing 28.86 per cent. of carbonate of lime, bottom\ntemperature 38\u00b0:0 (Station IIG.); and in 1800 fathoms, deposit Blue Mud, containing\n19.88\nper\ncent. of carbonate of lime, bottom temperature 37\u00b0:0 (Station Ilh.).\nDistance at noon from Cape St. Vincent, 81 miles. Made good 21 miles.\n;\nORGANISMS FROM\nSURFACE-NETS.\nSurface Organisms.-Willemoes-Suhm writes :\u2014\u201c Among the surface things were\nsome Acanthometr\u00e6, the common Copepoda, and a Crustacean larva (Brachyuran).\u201d\nSTATIONS IIJ. AND\nIIK.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Tagus",
+                "name": "Tagus",
+                "oddsLog10": 4.7294397931,
+                "start": 64,
+                "end": 69,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "of",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "see",
+                    "Chart"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "CHALLENGER.",
+                "name": "Challenger",
+                "oddsLog10": 1.6918811821,
+                "start": 211,
+                "end": 222,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Of",
+                    "H\ufffdm\ufffds"
+                ],
+                "wordsAfter": [
+                    "\u0406\u0456\u043d.",
+                    "\ufffd"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "II h",
+        "Sediment sample": "Green mud",
+        "Latitude Degrees": 37,
+        "Latitude Minutes": 50,
+        "Latitude Seconds": 0,
+        "North/South": "N",
+        "Longitude Degrees": 10,
+        "Longitude Minutes": 8,
+        "Longitude Seconds": 0,
+        "East/West": "W",
+        "Decimal Longitude": -10.1333333333,
+        "Decimal Latitude": 37.8333333333,
+        "Location": "South-west Lisbon, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "14/01/1873",
+        "Gear": null,
+        "Depth (fathoms)": 1800.0,
+        "Bottom water temperature (C)": 2.7777777778,
+        "Bottom temp (F)": 37.0,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 13.8888888889,
+        "Surface temp (F)": 57.0,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IIB. to IIH.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "206-207"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IIB. to IIH. (Soundings 8 to 14), off the mouth of the Tagus (see Chart 3). Stations IIB. To\nOn January 14, 1873, soundings were taken successively in 84 fathoms, deposit\nIIa.\n\n116\nTHE VOYAGE OF H.M.S. CHALLENGER.\n\u0406\u0406\u043d.\n;\nStations IIB. TO Green Mud (Station IIB.); in 280 fathoms, deposit Green Mud (Station IIc.); in 560\nfathoms, deposit Green Sand, containing 31.81 per cent. of carbonate of lime, bottom\ntemperature 52\u00b0:0 (Station IId.); in 1290 fathoms, deposit Blue Mud, containing 19 per\ncent. of carbonate of lime (Station IIE.); in 1475 fathoms, deposit Blue Mud, containing\n26.50 per cent. of carbonate of lime, bottom temperature 37\u00b0\u20225 (Station IIF.); in 1380\nfathoms, deposit Blue Mud, containing 28.86 per cent. of carbonate of lime, bottom\ntemperature 38\u00b0:0 (Station IIG.); and in 1800 fathoms, deposit Blue Mud, containing\n19.88\nper\ncent. of carbonate of lime, bottom temperature 37\u00b0:0 (Station Ilh.).\nDistance at noon from Cape St. Vincent, 81 miles. Made good 21 miles.\n;\nORGANISMS FROM\nSURFACE-NETS.\nSurface Organisms.-Willemoes-Suhm writes :\u2014\u201c Among the surface things were\nsome Acanthometr\u00e6, the common Copepoda, and a Crustacean larva (Brachyuran).\u201d\nSTATIONS IIJ. AND\nIIK.\n"
+        },
+        "Species": [
+            {
+                "cardinality": 1,
+                "verbatim": "Tagus",
+                "name": "Tagus",
+                "oddsLog10": 4.7294397931,
+                "start": 64,
+                "end": 69,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "of",
+                    "the"
+                ],
+                "wordsAfter": [
+                    "see",
+                    "Chart"
+                ]
+            },
+            {
+                "cardinality": 1,
+                "verbatim": "CHALLENGER.",
+                "name": "Challenger",
+                "oddsLog10": 1.6918811821,
+                "start": 211,
+                "end": 222,
+                "annotationNomenType": "NO_ANNOT",
+                "wordsBefore": [
+                    "Of",
+                    "H\ufffdm\ufffds"
+                ],
+                "wordsAfter": [
+                    "\u0406\u0456\u043d.",
+                    "\ufffd"
+                ]
+            }
+        ]
+    },
+    {
+        "Station": "II j",
+        "Sediment sample": "Green mud",
+        "Latitude Degrees": 37,
+        "Latitude Minutes": 1,
+        "Latitude Seconds": 45,
+        "North/South": "N",
+        "Longitude Degrees": 9,
+        "Longitude Minutes": 23,
+        "Longitude Seconds": 45,
+        "East/West": "W",
+        "Decimal Longitude": -9.3958333333,
+        "Decimal Latitude": 37.0291666667,
+        "Location": "Off Cape Sao Vincente, Portugal",
+        "FAOarea": 27,
+        "Water body": "Northeast Atlantic Ocean",
+        "Sea Area": null,
+        "Place": "Portugal",
+        "Date": "15/01/1873",
+        "Gear": null,
+        "Depth (fathoms)": 1000.0,
+        "Bottom water temperature (C)": 4.1666666667,
+        "Bottom temp (F)": 39.5,
+        "Bottom water depth D (fathoms)": null,
+        "Specific Gravity at bottom": null,
+        "Surface temp (C)": 15.2777777778,
+        "Surface temp (F)": 59.5,
+        "Specific Gravity at surface": null,
+        "Temp (F) at Fathoms": {
+            "10": null,
+            "20": null,
+            "25": null,
+            "30": null,
+            "40": null,
+            "50": null,
+            "60": null,
+            "70": null,
+            "75": null,
+            "80": null,
+            "90": null,
+            "100": null,
+            "110": null,
+            "120": null,
+            "125": null,
+            "130": null,
+            "140": null,
+            "150": null,
+            "160": null,
+            "170": null,
+            "175": null,
+            "180": null,
+            "190": null,
+            "200": null,
+            "225": null,
+            "250": null,
+            "275": null,
+            "300": null,
+            "400": null,
+            "500": null,
+            "600": null,
+            "700": null,
+            "800": null,
+            "900": null,
+            "1000": null,
+            "1100": null,
+            "1200": null,
+            "1300": null,
+            "1330": null,
+            "1400": null,
+            "1450": null,
+            "1500": null,
+            "1530": null,
+            "1580": null,
+            "1600": null,
+            "1650": null,
+            "1700": null,
+            "1725": null,
+            "1730": null,
+            "1775": null,
+            "1780": null,
+            "1800": null,
+            "1825": null,
+            "1850": null,
+            "1900": null,
+            "1915": null,
+            "1980": null,
+            "2000": null,
+            "2025": null,
+            "2100": null,
+            "2125": null,
+            "2180": null,
+            "2200": null,
+            "2225": null,
+            "2270": null,
+            "2300": null,
+            "2325": null,
+            "2400": null,
+            "2425": null,
+            "2400-1": null,
+            "2500": null,
+            "2525": null,
+            "2600": null,
+            "2625": null,
+            "2650": null,
+            "2675": null,
+            "2700": null,
+            "2775": null,
+            "2800": null,
+            "2900": null
+        },
+        "HathiTrust": {
+            "Text Identifier": "Stations IIJ. and IIK.",
+            "Range": [
+                [
+                    "sec.6 v.1",
+                    "207"
+                ]
+            ],
+            "Status": "exists",
+            "Text": "Stations IIJ. and IIK. (Soundings 15 to 17), Lisbon to Gibraltar (see Chart 3).\nJanuary 15, 1873 ; lat. 36\u00b0 58' 50' N., long. 9\u00b0 14' 20\" W.\nTemperature of air at noon, 62\u00b0:3; mean for the day, 60\u00b0-1.\nTemperature of water :-\n.\nSurface,\n25 fathoms,\n50\n75\n100\n60.0\n60.0\n60-0\n59.2\n57:5\n125 fathoms,\n150\n175\n200\n56.3\n55.3\n54.8\n54.5\n>\nAt 9.30 A.M. sounded in 1000 fathoms, deposit Green Mud, containing 18.88 per cent.\nof carbonate of lime, bottom temperature 39\u00b0\u20225 (Station IIJ.). At noon sounded in 525\nfathoms, deposit Green Sand, bottom temperature 54\u00b0:0 (Station IIx.), and at 12.45 P. M.\nlowered dredge, which came up at 3.45 P.M. At 12.45 P.m. Naturalists went away in a\nboat for surface collecting.\nSTATION III.\n"
+        },
+        "Species": []
+    }
+]
