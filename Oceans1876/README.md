@@ -13,7 +13,7 @@
 | dataSourcesNum | integer    | The number of data-sources where the string had a match to a scientific name and out of these, the best result is returned.                                                                                                                                                                                                                        |
 | curation       | string     | The best type of curation level from matched data-sources. Possible values are - **NotCurated** - **AutoCurated** - **Curated** If this flag has a **NotCurated** value, it does not mean that original data-source is not curated, rather it means the curation level is not known to `gnames`.                                                   |
 
-## Attribute description in the `ResultData` field
+### Attribute description in the `ResultData` field
 
 | Attribute              | Data Type | Description                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
