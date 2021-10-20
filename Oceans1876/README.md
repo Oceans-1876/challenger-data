@@ -61,7 +61,7 @@
 | Sea Area                       |             |                                                                                                                                                                                                                                       |
 | Place                          | string      | City/Country to which the station is close to, or belongs to.                                                                                                                                                                         |
 | Date                           | string      | Date on which the station data was collected.                                                                                                                                                                                         |
-| Gear                           | string      |                                                                                                                                                                                                                                       |
+| Gear                           | string      | It is the type of equipment used by the researchers to collect samples from the ocean.                                                                                                                                                |
 | Depth (fathoms)                | double      | The depth at which the sample was collected (perhaps).                                                                                                                                                                                |
 | Bottom water temperature (C)   | double      | Temperature at the bottom of the ocean floor in celcius.                                                                                                                                                                              |
 | Bottom temp (F)                | double      | Temperature at the bottom of the ocean floor in farenheit.                                                                                                                                                                            |
@@ -73,6 +73,22 @@
 | Temp (F) at Fathoms            | JSON Object | Contains key:value pairs of depth:temperature                                                                                                                                                                                         |
 | HathiTrust                     | JSON object | Contains data related to the source of the station data. Contains text present in the range field of this object.                                                                                                                     |
 | Species                        | List        | This is a list of all the species that were found here at this station.                                                                                                                                                               |
+
+## Attribute Description for the fields present in the `data_sources.json` file
+
+| Attribute      | Data Type | Description                                                                                  |
+| -------------- | --------- | -------------------------------------------------------------------------------------------- |
+| id             | integer   | Data Source ID.                                                                              |
+| title          | string    | Name of the Data Source.                                                                     |
+| titleshort     | string    | Shorthand version of Data Source Name.                                                       |
+| description    | string    | Information regarding the Data Source.                                                       |
+| curation       | string    | Type of curation as mentioned above.                                                         |
+| recordCount    | integer   | Total count of the number of records in their database.                                      |
+| updatedAt      | date      | Date of updation.                                                                            |
+| uuid           | string    | Identifier string.                                                                           |
+| homeURL        | string    | Link to the original website of the Data Source.                                             |
+| isOutlinkReady | bool      | Denotes if there is homeURL.                                                                 |
+| URL_template   | string    | A basic template which when fed with `record_id`, will link to the species Data Source page. |
 
 - Source for all the fields was from the API documentation that the `gnverifier` uses to verify the data of the `gnfinder`.
 
