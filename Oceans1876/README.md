@@ -1,6 +1,8 @@
-# Attribute Description for the fields present in the `species.json` file
+# Attribute Descriptions in Data files
 
-## Attributes in the top hierarchy
+## Attribute Description for the fields present in the `species.json` file
+
+### Attributes in the top hierarchy
 
 | Attribute      | Data Type  | Description                                                                                                                                                                                                                                                                                                                                        |
 | -------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -11,7 +13,7 @@
 | dataSourcesNum | integer    | The number of data-sources where the string had a match to a scientific name and out of these, the best result is returned.                                                                                                                                                                                                                        |
 | curation       | string     | The best type of curation level from matched data-sources. Possible values are - **NotCurated** - **AutoCurated** - **Curated** If this flag has a **NotCurated** value, it does not mean that original data-source is not curated, rather it means the curation level is not known to `gnames`.                                                   |
 
-## Attribute description in the `ResultData` field
+### Attribute description in the `ResultData` field
 
 | Attribute              | Data Type | Description                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,6 +39,59 @@
 | stemEditDistance       | integer   | Edit distance according to Levenshtein algorithm between **stemmed** versions of **canonical** forms of input name and matched name.                                                                                                                                                                                                               |
 | matchType              | string    | Indicates the quality of verification. - **NoMatch** (no matched name found) - **Exact** (exact match to a canonical form or a verbatim string) - **Fuzzy** (fuzzy match to a canonical form) - **PartialExact** (match after removing last or middle epithets) - **PartiaFuzzy** (fuzzy partial match after removing some parts) Example: `Exact` |
 
+## Attribute Description for the fields present in the `stations.json` file
+
+| Attribute                      | Data Type   | Description                                                                                                                                                                                                                           |
+| ------------------------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Station                        | string      | Name/Number of the station.                                                                                                                                                                                                           |
+| Sediment Sample                | string      | Description of the type of sample found at that station.                                                                                                                                                                              |
+| Latitude Degrees               | integer     | Latitude Degrees of the station.                                                                                                                                                                                                      |
+| Latitude Minutes               | integer     | Latitude Minutes of the station.                                                                                                                                                                                                      |
+| Latitude Seconds               | integer     | Latitude Seconds of the station.                                                                                                                                                                                                      |
+| North/South                    | string      | "N" or "S" for North or South respectively.                                                                                                                                                                                           |
+| Longitude Degrees              | integer     | Longitude Degrees of the station.                                                                                                                                                                                                     |
+| Longitude Minutes              | integer     | Longitude Minutes of the station.                                                                                                                                                                                                     |
+| Longitude Seconds              | integer     | Longitude Seconds of the station.                                                                                                                                                                                                     |
+| East/West                      | string      | "E" or "W" for East or West respectively.                                                                                                                                                                                             |
+| Decimal Latitude               | double      | Decimal value of the Latitude.                                                                                                                                                                                                        |
+| Decimal Longitude              | double      | Decimal value of the Longitude.                                                                                                                                                                                                       |
+| Location                       | string      | Name of the location where the station is found.                                                                                                                                                                                      |
+| FAOarea                        | integer     | This field represents the ID of the Food and Agricultural Organization of the United Nations. Each part of the oceans is divided into different sections and subsections. [More Details](https://www.fao.org/fishery/area/search/en). |
+| Water Body                     | string      | Which water body does the Station lie in. Example: `Northeast Atlantic Ocean`.                                                                                                                                                        |
+| Sea Area                       |             |                                                                                                                                                                                                                                       |
+| Place                          | string      | City/Country to which the station is close to, or belongs to.                                                                                                                                                                         |
+| Date                           | string      | Date on which the station data was collected.                                                                                                                                                                                         |
+| Gear                           | string      | It is the type of equipment used by the researchers to collect samples from the ocean.                                                                                                                                                |
+| Depth (fathoms)                | double      | The depth at which the sample was collected (perhaps).                                                                                                                                                                                |
+| Bottom water temperature (C)   | double      | Temperature at the bottom of the ocean floor in celcius.                                                                                                                                                                              |
+| Bottom temp (F)                | double      | Temperature at the bottom of the ocean floor in farenheit.                                                                                                                                                                            |
+| Bottom water depth D (fathoms) | double      |                                                                                                                                                                                                                                       |
+| Specific Gravity at bottom     | double      | Specific gravity, also called relative density, ratio of the density of a substance to that of a standard substance. Here, the specific gravity is of the water at the bottom of the ocean floor.                                     |
+| Surface temp (C)               | double      | Temperature at the surface of the water in celcius.                                                                                                                                                                                   |
+| Surface temp (F)               | double      | Temperature at the surface of the water in farenheit.                                                                                                                                                                                 |
+| Specific Gravity at surface    | double      | Specific gravity of the water at the surface of the sea/ocean.                                                                                                                                                                        |
+| Temp (F) at Fathoms            | JSON Object | Contains key:value pairs of depth:temperature                                                                                                                                                                                         |
+| HathiTrust                     | JSON object | Contains data related to the source of the station data. Contains text present in the range field of this object.                                                                                                                     |
+| Species                        | List        | This is a list of all the species that were found here at this station.                                                                                                                                                               |
+
+## Attribute Description for the fields present in the `data_sources.json` file
+
+| Attribute      | Data Type | Description                                                                                  |
+| -------------- | --------- | -------------------------------------------------------------------------------------------- |
+| id             | integer   | Data Source ID.                                                                              |
+| title          | string    | Name of the Data Source.                                                                     |
+| titleshort     | string    | Shorthand version of Data Source Name.                                                       |
+| description    | string    | Information regarding the Data Source.                                                       |
+| curation       | string    | Type of curation as mentioned above.                                                         |
+| recordCount    | integer   | Total count of the number of records in their database.                                      |
+| updatedAt      | date      | Date of updation.                                                                            |
+| uuid           | string    | Identifier string.                                                                           |
+| homeURL        | string    | Link to the original website of the Data Source.                                             |
+| isOutlinkReady | bool      | Denotes if there is homeURL.                                                                 |
+| URL_template   | string    | A basic template which when fed with `record_id`, will link to the species Data Source page. |
+
 - Source for all the fields was from the API documentation that the `gnverifier` uses to verify the data of the `gnfinder`.
+
+- Source for the Stations data was from `HathiTrust` texts and `RAMM` stations data.
 
 - [Global Names Verifier API by Dmitry Mozzherin](https://hub.apitree.com/dimus/gnames/)
