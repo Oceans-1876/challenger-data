@@ -1,30 +1,18 @@
 [
   {
     "texts": [
-      "Trigida, 752, 1330, 1355."
-    ],
-    "page": 739,
-    "column": 1,
-    "line": 15,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(SUMMARY OF RESULTS CHALL. EXP.."
+      "(SUMMARY OF RESULTS CHALL. EXP."
     ],
     "page": 739,
     "column": 1,
     "line": 43,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Dbrevirostris, 336, 1296."
+    "bounding_box": [
+      0,
+      898,
+      165,
+      23
     ],
-    "page": 739,
-    "column": 2,
-    "line": 2,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -33,7 +21,13 @@
     "page": 739,
     "column": 2,
     "line": 43,
-    "message": "invalid line"
+    "bounding_box": [
+      0,
+      900,
+      95,
+      22
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -42,115 +36,13 @@
     "page": 739,
     "column": 3,
     "line": 9,
+    "bounding_box": [
+      28,
+      179,
+      144,
+      18
+    ],
     "message": "species"
-  },
-  {
-    "texts": [
-      "Incana, 572, 926, 1409, 1427, 1447."
-    ],
-    "page": 740,
-    "column": 1,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Megaporum, 1267."
-    ],
-    "page": 740,
-    "column": 1,
-    "line": 41,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1038, 1044, 1050, 1055, 1059."
-    ],
-    "page": 740,
-    "column": 1,
-    "line": 47,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1425."
-    ],
-    "page": 740,
-    "column": 2,
-    "line": 20,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Virginea, 2/3, 1345."
-    ],
-    "page": 740,
-    "column": 2,
-    "line": 49,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Turcata, 10535."
-    ],
-    "page": 740,
-    "column": 2,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmarionis, 436, 1355."
-    ],
-    "page": 740,
-    "column": 2,
-    "line": 58,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Acteonina),"
-    ],
-    "page": 740,
-    "column": 3,
-    "line": 53,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Baccinulus),"
-    ],
-    "page": 740,
-    "column": 3,
-    "line": 56,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Insculptus, 712, 1398."
-    ],
-    "page": 740,
-    "column": 3,
-    "line": 59,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Biveus, 670, i398,"
-    ],
-    "page": 740,
-    "column": 3,
-    "line": 60,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1024, 1028, 1082, 1046, 1000,"
-    ],
-    "page": 741,
-    "column": 1,
-    "line": 8,
-    "message": "invalid line"
   },
   {
     "texts": [
@@ -159,7 +51,28 @@
     "page": 741,
     "column": 1,
     "line": 27,
+    "bounding_box": [
+      72,
+      565,
+      93,
+      19
+    ],
     "message": "species"
+  },
+  {
+    "texts": [
+      "$08, 403, 938."
+    ],
+    "page": 741,
+    "column": 2,
+    "line": 28,
+    "bounding_box": [
+      49,
+      583,
+      111,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -168,196 +81,118 @@
     "page": 741,
     "column": 2,
     "line": 35,
+    "bounding_box": [
+      63,
+      731,
+      97,
+      21
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Tadiata, 950."
+      "peer 550, 1851."
     ],
     "page": 741,
     "column": 2,
-    "line": 44,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Intricaria, 730, 1410,"
+    "line": 50,
+    "bounding_box": [
+      0,
+      1053,
+      160,
+      41
     ],
-    "page": 741,
-    "column": 2,
-    "line": 58,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "ga,"
-    ],
-    "page": 741,
-    "column": 3,
-    "line": 9,
     "message": "genus"
   },
   {
     "texts": [
-      "#gineta, 802."
-    ],
-    "page": 741,
-    "column": 3,
-    "line": 13,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "gospyris,"
-    ],
-    "page": 741,
-    "column": 3,
-    "line": 16,
-    "message": "genus"
-  },
-  {
-    "texts": [
-      "ites, 1451."
+      "tea, 1451."
     ],
     "page": 741,
     "column": 3,
     "line": 27,
+    "bounding_box": [
+      0,
+      561,
+      135,
+      19
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "\"ICli"
-    ],
-    "page": 741,
-    "column": 3,
-    "line": 37,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Diala), 474, 570, 1845, 1398."
+      "$30, 334, 380, 382, 383, 495,"
     ],
     "page": 742,
     "column": 1,
-    "line": 2,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Styliferina),"
+    "line": 29,
+    "bounding_box": [
+      62,
+      599,
+      104,
+      18
     ],
-    "page": 742,
-    "column": 1,
-    "line": 6,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Jorma osculifera, 938,"
+      "Jorma osculifera, 988,"
     ],
     "page": 742,
     "column": 2,
     "line": 9,
+    "bounding_box": [
+      61,
+      176,
+      98,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "O15. |"
+      "$42, 353, 480, 581, 689, 671,"
     ],
     "page": 742,
-    "column": 2,
-    "line": 19,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tapax, 795, 1387. |"
-    ],
-    "page": 742,
-    "column": 2,
-    "line": 37,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Digrum, 477, 1414,"
-    ],
-    "page": 742,
-    "column": 2,
-    "line": 59,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dathybium, 947, 955, 1284. |"
-    ],
-    "page": 743,
-    "column": 1,
-    "line": 10,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmarionis, 436, 1340, |"
-    ],
-    "page": 743,
-    "column": 2,
-    "line": 4,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "\u00abdecussata, 930."
-    ],
-    "page": 743,
-    "column": 2,
+    "column": 3,
     "line": 38,
-    "message": "invalid line"
+    "bounding_box": [
+      44,
+      774,
+      127,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Stauroceros, 1022,"
+      "ati 1269."
     ],
     "page": 743,
     "column": 2,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Sspinosissimum, 879,"
+    "line": 25,
+    "bounding_box": [
+      0,
+      528,
+      159,
+      40
     ],
-    "page": 743,
-    "column": 2,
-    "line": 57,
-    "message": "species"
+    "message": "genus"
   },
   {
     "texts": [
-      "Uranus, 878,"
-    ],
-    "page": 743,
-    "column": 3,
-    "line": 15,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Kerguelensis, 466, 1380,"
-    ],
-    "page": 743,
-    "column": 3,
-    "line": 57,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "_ engularis, 484, 1334, ."
+      "+ See ee aL ra: |"
     ],
     "page": 744,
     "column": 1,
     "line": 2,
-    "message": "invalid line"
+    "bounding_box": [
+      31,
+      30,
+      135,
+      41
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -366,16 +201,13 @@
     "page": 744,
     "column": 3,
     "line": 3,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Amalda),"
+    "bounding_box": [
+      43,
+      51,
+      130,
+      18
     ],
-    "page": 744,
-    "column": 3,
-    "line": 25,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -384,141 +216,42 @@
     "page": 744,
     "column": 3,
     "line": 26,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Anaulax),"
+    "bounding_box": [
+      0,
+      538,
+      173,
+      21
     ],
-    "page": 744,
-    "column": 3,
-    "line": 27,
-    "message": "invalid line"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(Dipsaccus),"
-    ],
-    "page": 744,
-    "column": 3,
-    "line": 33,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(183, 424, 582, 1164,"
+      "$54, 512, 582, 640, 903, 965,"
     ],
     "page": 745,
     "column": 1,
-    "line": 6,
-    "message": "invalid line"
+    "line": 9,
+    "bounding_box": [
+      56,
+      164,
+      95,
+      17
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Macronems, 555, 13/4."
+      "Mmacronems, 555, 13874."
     ],
     "page": 745,
     "column": 2,
     "line": 8,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmarginata, 804, 805, 1374."
+    "bounding_box": [
+      28,
+      146,
+      117,
+      16
     ],
-    "page": 745,
-    "column": 2,
-    "line": 10,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Microdiscus, 693, 1374."
-    ],
-    "page": 745,
-    "column": 2,
-    "line": 11,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmultiradiata, 693, 696, 1374."
-    ],
-    "page": 745,
-    "column": 2,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tregalis, 623, 1374."
-    ],
-    "page": 745,
-    "column": 2,
-    "line": 25,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Variipinna, 693, 696, 735, 10/4,"
-    ],
-    "page": 745,
-    "column": 2,
-    "line": 37,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmarmoratus, 160, 155."
-    ],
-    "page": 745,
-    "column": 2,
-    "line": 40,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tidleyi, 554, 1364."
-    ],
-    "page": 745,
-    "column": 2,
-    "line": 50,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Ormata, 1190, 1416. |"
-    ],
-    "page": 746,
-    "column": 1,
-    "line": 17,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tramosus, 8138, 1330. |"
-    ],
-    "page": 746,
-    "column": 1,
-    "line": 24,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Intermedia, 162, 172, 1837, 1856. |"
-    ],
-    "page": 746,
-    "column": 1,
-    "line": 28,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Incrustans, 1192, 13238. |"
-    ],
-    "page": 746,
-    "column": 1,
-    "line": 38,
     "message": "species"
   },
   {
@@ -528,106 +261,43 @@
     "page": 746,
     "column": 1,
     "line": 52,
+    "bounding_box": [
+      56,
+      1039,
+      107,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "@raneosa, 1033, 1047, 1054. 1057."
+      "$28, 384, 388, 389, 495, 498, 5625,"
     ],
     "page": 746,
     "column": 2,
-    "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1062,"
+    "line": 2,
+    "bounding_box": [
+      0,
+      35,
+      150,
+      18
     ],
-    "page": 746,
-    "column": 2,
-    "line": 30,
-    "message": "invalid line"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "Increscens, 106],"
-    ],
-    "page": 746,
-    "column": 2,
-    "line": 45,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vverticillatum, 1017."
-    ],
-    "page": 746,
-    "column": 2,
-    "line": 47,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Velaris, 1250."
-    ],
-    "page": 746,
-    "column": 2,
-    "line": 57,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Acar),"
-    ],
-    "page": 746,
-    "column": 3,
-    "line": 10,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Barbatia),"
-    ],
-    "page": 746,
-    "column": 3,
-    "line": 13,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Macrodon),"
-    ],
-    "page": 746,
-    "column": 3,
-    "line": 27,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Scapharca),"
-    ],
-    "page": 746,
-    "column": 3,
-    "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Trisis),"
-    ],
-    "page": 746,
-    "column": 3,
-    "line": 37,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1027, 1031, 1039, 1051, 1055, |"
+      "Microstoma, 880. |"
     ],
     "page": 747,
     "column": 1,
-    "line": 21,
-    "message": "invalid line"
+    "line": 11,
+    "bounding_box": [
+      40,
+      235,
+      125,
+      18
+    ],
+    "message": "species"
   },
   {
     "texts": [
@@ -636,16 +306,43 @@
     "page": 747,
     "column": 1,
     "line": 61,
-    "message": "invalid line"
+    "bounding_box": [
+      0,
+      1306,
+      165,
+      22
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "\" abyssicola, 680, 1080, 1286, 1289, |"
+      "* abyssicola, 680, 1080, 1286, 1289,"
     ],
     "page": 747,
     "column": 2,
     "line": 6,
-    "message": "invalid line"
+    "bounding_box": [
+      14,
+      128,
+      145,
+      20
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "(1442. |"
+    ],
+    "page": 747,
+    "column": 2,
+    "line": 14,
+    "bounding_box": [
+      46,
+      300,
+      100,
+      15
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -654,88 +351,43 @@
     "page": 747,
     "column": 2,
     "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Diseriatus, 1254."
+    "bounding_box": [
+      0,
+      1305,
+      101,
+      24
     ],
-    "page": 747,
-    "column": 3,
-    "line": 58,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "Bigra, 245, 423, 1353, 1860,"
+      "$53, 449, 581, 876, 986, 956,"
     ],
     "page": 748,
     "column": 1,
-    "line": 20,
-    "message": "species"
+    "line": 9,
+    "bounding_box": [
+      59,
+      177,
+      105,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Cosmasterias),"
+      "-vesiculosa, 738, 1317."
     ],
     "page": 748,
     "column": 2,
-    "line": 10,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Hydrasterias),"
+    "line": 9,
+    "bounding_box": [
+      30,
+      177,
+      129,
+      18
     ],
-    "page": 748,
-    "column": 2,
-    "line": 13,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Leptasterias),"
-    ],
-    "page": 748,
-    "column": 2,
-    "line": 15,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Smilasterias),"
-    ],
-    "page": 748,
-    "column": 2,
-    "line": 17,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Stolasterias),"
-    ],
-    "page": 748,
-    "column": 2,
-    "line": 20,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Marylandica, 889, 892, 939, 972,"
-    ],
-    "page": 748,
-    "column": 2,
-    "line": 45,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Drobkei, 220, 264, 278, 287, 443,"
-    ],
-    "page": 748,
-    "column": 2,
-    "line": 51,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -744,16 +396,13 @@
     "page": 748,
     "column": 2,
     "line": 55,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1027, 1043."
+    "bounding_box": [
+      61,
+      1152,
+      98,
+      20
     ],
-    "page": 748,
-    "column": 2,
-    "line": 57,
-    "message": "invalid line"
+    "message": "species"
   },
   {
     "texts": [
@@ -762,51 +411,27 @@
     "page": 748,
     "column": 3,
     "line": 3,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Jorma cuvierii, 515."
+    "bounding_box": [
+      44,
+      50,
+      95,
+      16
     ],
-    "page": 748,
-    "column": 3,
-    "line": 5,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Jorma denarius, 515."
-    ],
-    "page": 748,
-    "column": 3,
-    "line": 6,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jorma humboldtii, 515."
+      "Sorma humboldtii, 515."
     ],
     "page": 748,
     "column": 3,
     "line": 7,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Troperianus, 28/7, 303, 7/60, 812,"
+    "bounding_box": [
+      57,
+      134,
+      111,
+      19
     ],
-    "page": 748,
-    "column": 3,
-    "line": 10,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Versipora, 643, 1308."
-    ],
-    "page": 748,
-    "column": 3,
-    "line": 45,
     "message": "species"
   },
   {
@@ -816,367 +441,343 @@
     "page": 748,
     "column": 3,
     "line": 47,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Manni, 923, 1378."
+    "bounding_box": [
+      27,
+      985,
+      141,
+      18
     ],
-    "page": 748,
-    "column": 3,
-    "line": 51,
     "message": "species"
   },
   {
     "texts": [
-      "(1227, 1237, 1256, 1260, 1264,"
+      "Jongimanum, 118, 165,"
+    ],
+    "page": 749,
+    "column": 1,
+    "line": 5,
+    "bounding_box": [
+      42,
+      92,
+      123,
+      21
+    ],
+    "message": "species"
+  },
+  {
+    "texts": [
+      "(1208, 1207, 1209, 1221, 1223,"
     ],
     "page": 749,
     "column": 2,
     "line": 53,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Dinia),"
+    "bounding_box": [
+      48,
+      1093,
+      112,
+      19
     ],
-    "page": 749,
-    "column": 3,
-    "line": 34,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Dovicornis, 1201, 1207. |"
+      "dendroceros, 950, 958, 958. ."
     ],
     "page": 750,
     "column": 1,
-    "line": 46,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "- \u00ab palvinata, 1118."
+    "line": 2,
+    "bounding_box": [
+      0,
+      31,
+      165,
+      24
     ],
-    "page": 750,
-    "column": 1,
-    "line": 56,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Meleagrina);"
-    ],
-    "page": 750,
-    "column": 2,
-    "line": 57,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Dosquetiana, 5609, 1295."
-    ],
-    "page": 751,
-    "column": 1,
-    "line": 4,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "$38, 678, 1224, 1506, 1512,"
-    ],
-    "page": 751,
-    "column": 1,
-    "line": 27,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "$63, 877, 882, 991, 1202."
-    ],
-    "page": 751,
-    "column": 1,
-    "line": 38,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "\u00ab*  amaryliis, 698, 907, 1384, 1424."
-    ],
-    "page": 751,
-    "column": 1,
-    "line": 47,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Munda, 298, 1308."
-    ],
-    "page": 751,
-    "column": 2,
-    "line": 25,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tramosa, 1250."
-    ],
-    "page": 751,
-    "column": 2,
-    "line": 37,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dbathybrotes, 559, 963, 1286,"
-    ],
-    "page": 751,
-    "column": 3,
-    "line": 55,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tostratus, 352, 1324."
-    ],
-    "page": 752,
-    "column": 1,
-    "line": 4,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dicuspis, 1006,"
-    ],
-    "page": 752,
-    "column": 1,
-    "line": 36,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Teticulata, 812, 931, 939."
-    ],
-    "page": 752,
-    "column": 2,
-    "line": 51,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jorma subquadrata, 931."
-    ],
-    "page": 752,
-    "column": 2,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Troperiana, 443, 481, 492."
-    ],
-    "page": 752,
-    "column": 2,
-    "line": 54,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tingens, 115, 124, 133, 145, 181,"
-    ],
-    "page": 752,
-    "column": 3,
-    "line": 54,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Ppigrum, 396, 1345."
-    ],
-    "page": 753,
-    "column": 1,
-    "line": 39,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Teticulatum, 129, 275, 1845, 1859,"
-    ],
-    "page": 753,
-    "column": 1,
-    "line": 42,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Karreriana, 196,354, 663,908, 1071."
-    ],
-    "page": 753,
-    "column": 1,
-    "line": 60,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Teticulata, 166, 429, 686, 1071,"
-    ],
-    "page": 753,
-    "column": 2,
-    "line": 14,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vortuosa, 196, 640."
-    ],
-    "page": 753,
-    "column": 2,
-    "line": 23,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "+1295, 1298, 1442, 1448,"
-    ],
-    "page": 753,
-    "column": 2,
-    "line": 41,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Silicea, 861, 1345,"
-    ],
-    "page": 753,
-    "column": 2,
-    "line": 48,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Digraum, 245, 1414,"
-    ],
-    "page": 753,
-    "column": 2,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Heterograpeus),"
-    ],
-    "page": 753,
-    "column": 3,
-    "line": 32,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Inequipes, 836."
-    ],
-    "page": 753,
-    "column": 3,
-    "line": 40,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tali, 617, 927, 1416."
-    ],
-    "page": 753,
-    "column": 3,
-    "line": 47,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "_-_- pelagicum, 991,"
-    ],
-    "page": 753,
-    "column": 3,
-    "line": 51,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1299, 1303."
-    ],
-    "page": 754,
-    "column": 1,
-    "line": 6,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "irania,"
-    ],
-    "page": 754,
-    "column": 1,
-    "line": 17,
     "message": "genus"
   },
   {
     "texts": [
-      "Jeontodon, 141, 1297."
+      "oylindrica, 618, 839, 1315. ;"
     ],
-    "page": 754,
+    "page": 750,
     "column": 1,
-    "line": 32,
+    "line": 33,
+    "bounding_box": [
+      14,
+      670,
+      151,
+      20
+    ],
+    "message": "genus"
+  },
+  {
+    "texts": [
+      "_- pacificam, 1104. ."
+    ],
+    "page": 750,
+    "column": 1,
+    "line": 41,
+    "bounding_box": [
+      0,
+      839,
+      165,
+      23
+    ],
+    "message": "invalid genus line"
+  },
+  {
+    "texts": [
+      "adeetaieciial"
+    ],
+    "page": 750,
+    "column": 1,
+    "line": 56,
+    "bounding_box": [
+      7,
+      1155,
+      158,
+      42
+    ],
+    "message": "genus"
+  },
+  {
+    "texts": [
+      "pipetta, 606, 1291."
+    ],
+    "page": 751,
+    "column": 1,
+    "line": 35,
+    "bounding_box": [
+      0,
+      733,
+      170,
+      21
+    ],
+    "message": "genus"
+  },
+  {
+    "texts": [
+      "sear lewn oie"
+    ],
+    "page": 751,
+    "column": 1,
+    "line": 37,
+    "bounding_box": [
+      7,
+      775,
+      163,
+      42
+    ],
+    "message": "genus"
+  },
+  {
+    "texts": [
+      "+*  amaryllis, 698, 907, 1384, 1424."
+    ],
+    "page": 751,
+    "column": 1,
+    "line": 46,
+    "bounding_box": [
+      7,
+      988,
+      163,
+      21
+    ],
+    "message": "invalid genus line"
+  },
+  {
+    "texts": [
+      "eee 1086, 1987."
+    ],
+    "page": 751,
+    "column": 3,
+    "line": 1,
+    "bounding_box": [
+      0,
+      8,
+      170,
+      41
+    ],
+    "message": "genus"
+  },
+  {
+    "texts": [
+      "Ddocagei, 269, 1880"
+    ],
+    "page": 752,
+    "column": 1,
+    "line": 19,
+    "bounding_box": [
+      69,
+      384,
+      110,
+      21
+    ],
     "message": "species"
   },
   {
     "texts": [
-      ".  Margaritifera, 1199, 1216, 125/,"
+      "(1286."
+    ],
+    "page": 752,
+    "column": 1,
+    "line": 59,
+    "bounding_box": [
+      86,
+      1231,
+      93,
+      16
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "(1298, 1299, 1307."
+    ],
+    "page": 752,
+    "column": 2,
+    "line": 7,
+    "bounding_box": [
+      49,
+      135,
+      110,
+      18
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "= decadactylus, 901, 1353,"
+    ],
+    "page": 752,
+    "column": 2,
+    "line": 25,
+    "bounding_box": [
+      30,
+      516,
+      129,
+      20
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "Sorma subquadrata, 931."
+    ],
+    "page": 752,
+    "column": 2,
+    "line": 52,
+    "bounding_box": [
+      61,
+      1086,
+      98,
+      21
+    ],
+    "message": "species"
+  },
+  {
+    "texts": [
+      "(428, 426, 449, 580, 640. 1066."
+    ],
+    "page": 752,
+    "column": 3,
+    "line": 24,
+    "bounding_box": [
+      44,
+      494,
+      128,
+      19
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "Karreriana, 196,354, 668,908, 1071."
+    ],
+    "page": 753,
+    "column": 1,
+    "line": 60,
+    "bounding_box": [
+      46,
+      1258,
+      122,
+      21
+    ],
+    "message": "species"
+  },
+  {
+    "texts": [
+      "Teticulata, 166, 429, 686, 1071."
+    ],
+    "page": 753,
+    "column": 2,
+    "line": 14,
+    "bounding_box": [
+      31,
+      284,
+      128,
+      20
+    ],
+    "message": "species"
+  },
+  {
+    "texts": [
+      "_- pelagicum, 991."
+    ],
+    "page": 753,
+    "column": 3,
+    "line": 51,
+    "bounding_box": [
+      28,
+      1076,
+      143,
+      25
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      ".  Margaritifera, 1199, 1216, 1287,"
     ],
     "page": 754,
     "column": 1,
     "line": 35,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Ppinguicula, 275, 1845,"
+    "bounding_box": [
+      4,
+      731,
+      160,
+      20
     ],
-    "page": 754,
-    "column": 1,
-    "line": 51,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(Buccinanops),"
-    ],
-    "page": 754,
-    "column": 1,
-    "line": 56,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "$354, 424, 427, 449, 492, O51,"
+      "$54, 424, 427, 449, 492, 581,"
     ],
     "page": 754,
     "column": 1,
     "line": 60,
-    "message": "invalid line"
+    "bounding_box": [
+      60,
+      1260,
+      104,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "$54, 449, 581, 665, 686, 937,"
+      "$54, 449, 581, 663, 686, 937,"
     ],
     "page": 754,
     "column": 2,
     "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Par, CONRZTUGDS, 1/0, 1090)."
+    "bounding_box": [
+      47,
+      751,
+      112,
+      19
     ],
-    "page": 754,
-    "column": 3,
-    "line": 26,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -1185,52 +786,28 @@
     "page": 755,
     "column": 1,
     "line": 28,
-    "message": "invalid line"
+    "bounding_box": [
+      109,
+      580,
+      84,
+      15
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Mediterranea, 423,"
+      "{SUMMARY OF RESULTS CHALL EXP"
     ],
     "page": 755,
     "column": 1,
-    "line": 32,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "-Caligorgia,"
+    "line": 62,
+    "bounding_box": [
+      44,
+      1282,
+      149,
+      22
     ],
-    "page": 755,
-    "column": 1,
-    "line": 47,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "{SUMMARY OF RESULTS CHALL. EXP."
-    ],
-    "page": 755,
-    "column": 1,
-    "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kkaianus, 749, 1353. |"
-    ],
-    "page": 755,
-    "column": 2,
-    "line": 11,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Virginis, 881, ]"
-    ],
-    "page": 755,
-    "column": 2,
-    "line": 46,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -1239,7 +816,13 @@
     "page": 755,
     "column": 2,
     "line": 57,
-    "message": "invalid line"
+    "bounding_box": [
+      0,
+      1199,
+      159,
+      21
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -1248,313 +831,118 @@
     "page": 755,
     "column": 2,
     "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Telicta, 234, 1278."
+    "bounding_box": [
+      0,
+      1287,
+      100,
+      23
     ],
-    "page": 755,
-    "column": 3,
-    "line": 6,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "Dbathyplous, 602, 1306."
-    ],
-    "page": 755,
-    "column": 3,
-    "line": 18,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dicostatus, 911."
-    ],
-    "page": 755,
-    "column": 3,
-    "line": 41,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "_ iatas, 191, 812, 904, 911."
-    ],
-    "page": 755,
-    "column": 3,
-    "line": 56,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Admete), 473, 1899."
-    ],
-    "page": 756,
-    "column": 1,
-    "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "om 1258, 1260, 1261."
+      "a 1258, 1260, 1261."
     ],
     "page": 756,
     "column": 1,
     "line": 36,
+    "bounding_box": [
+      3,
+      750,
+      163,
+      19
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      " amphiconiscus, 979."
+      ". amphiconiscus, 979."
     ],
     "page": 756,
     "column": 1,
     "line": 50,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Amathina),"
+    "bounding_box": [
+      0,
+      1045,
+      166,
+      20
     ],
-    "page": 756,
-    "column": 2,
-    "line": 40,
-    "message": "invalid line"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(Thecalia),"
-    ],
-    "page": 756,
-    "column": 3,
-    "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Acanthocardium),"
-    ],
-    "page": 756,
-    "column": 3,
-    "line": 45,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Bucardium),"
-    ],
-    "page": 756,
-    "column": 3,
-    "line": 50,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Fragum),"
-    ],
-    "page": 756,
-    "column": 3,
-    "line": 58,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Levicardium),"
-    ],
-    "page": 757,
-    "column": 1,
-    "line": 4,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Papyridea),"
-    ],
-    "page": 757,
-    "column": 1,
-    "line": 6,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Virgineum, 1052,"
-    ],
-    "page": 757,
-    "column": 1,
-    "line": 60,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tregulare, 1021."
+      "Tegulare, 1021."
     ],
     "page": 757,
     "column": 2,
     "line": 22,
+    "bounding_box": [
+      30,
+      454,
+      129,
+      20
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(Sconsia),"
-    ],
-    "page": 757,
-    "column": 2,
-    "line": 52,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1808, 1312, 1322, 1346, 1399."
-    ],
-    "page": 757,
-    "column": 3,
-    "line": 18,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Beszoardica),"
-    ],
-    "page": 757,
-    "column": 3,
-    "line": 19,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Casmaris),"
-    ],
-    "page": 757,
-    "column": 3,
-    "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Semicassis),"
-    ],
-    "page": 757,
-    "column": 3,
-    "line": 23,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "are 1064, 1057, 1062."
+      "- 1064, 1057, 1062."
     ],
     "page": 757,
     "column": 3,
     "line": 51,
-    "message": "genus"
-  },
-  {
-    "texts": [
-      "(Canlophacus, 962, 1234, 1400. |"
+    "bounding_box": [
+      0,
+      1073,
+      170,
+      36
     ],
-    "page": 758,
-    "column": 1,
-    "line": 40,
-    "message": "invalid line"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(1029, 1105, 1232, 1245, 1267,"
+      "$66, 685."
     ],
     "page": 758,
     "column": 2,
-    "line": 3,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Jjacksoniensis, 6/3, 1411."
+    "line": 15,
+    "bounding_box": [
+      47,
+      307,
+      111,
+      18
     ],
-    "page": 758,
-    "column": 2,
-    "line": 45,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Tudis, 1192, 1323."
-    ],
-    "page": 758,
-    "column": 2,
-    "line": 54,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "J4il"
+      "\u201d papillata, 512, 1038, 1044, 1206."
     ],
     "page": 758,
     "column": 3,
-    "line": 4,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Maxima, 1250."
+    "line": 55,
+    "bounding_box": [
+      2,
+      1150,
+      177,
+      24
     ],
-    "page": 758,
-    "column": 3,
-    "line": 17,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "Rirvana, 9/0."
-    ],
-    "page": 758,
-    "column": 3,
-    "line": 23,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jethe, 253."
-    ],
-    "page": 758,
-    "column": 3,
-    "line": 51,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "TPANOSCOPUB, 27\u00a5, 440UY, 440s"
+      "; Ceoratocephalus,"
     ],
     "page": 759,
     "column": 1,
-    "line": 54,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Lampanis),"
+    "line": 59,
+    "bounding_box": [
+      48,
+      1225,
+      149,
+      21
     ],
-    "page": 759,
-    "column": 3,
-    "line": 11,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Vertagus), 628, 1400."
-    ],
-    "page": 759,
-    "column": 3,
-    "line": 13,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kochi, 736, 765, 1400, 1426."
-    ],
-    "page": 759,
-    "column": 3,
-    "line": 16,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -1563,79 +951,28 @@
     "page": 760,
     "column": 1,
     "line": 26,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmurrayi, 894,"
+    "bounding_box": [
+      57,
+      519,
+      109,
+      19
     ],
-    "page": 760,
-    "column": 1,
-    "line": 37,
     "message": "species"
   },
   {
     "texts": [
-      "Daresii, 513,"
-    ],
-    "page": 760,
-    "column": 1,
-    "line": 38,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Murrayana, 1255."
-    ],
-    "page": 760,
-    "column": 2,
-    "line": 32,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tmacropterus, 699, 1417."
+      "Mmacropterus, 699, 1417."
     ],
     "page": 760,
     "column": 2,
     "line": 60,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dassiterna, 838,"
+    "bounding_box": [
+      29,
+      1208,
+      121,
+      18
     ],
-    "page": 761,
-    "column": 1,
-    "line": 7,
     "message": "species"
-  },
-  {
-    "texts": [
-      "Mmacrurus, 620, 1320."
-    ],
-    "page": 761,
-    "column": 1,
-    "line": 12,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dbrongniartii, 414, 1411, 1449."
-    ],
-    "page": 761,
-    "column": 1,
-    "line": 36,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Dorocidaris),"
-    ],
-    "page": 761,
-    "column": 2,
-    "line": 2,
-    "message": "invalid line"
   },
   {
     "texts": [
@@ -1644,6 +981,12 @@
     "page": 761,
     "column": 3,
     "line": 17,
+    "bounding_box": [
+      28,
+      375,
+      143,
+      19
+    ],
     "message": "species"
   },
   {
@@ -1653,70 +996,58 @@
     "page": 761,
     "column": 3,
     "line": 58,
+    "bounding_box": [
+      0,
+      1248,
+      110,
+      19
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "Iendenfeldi, 558, 1363."
-    ],
-    "page": 762,
-    "column": 1,
-    "line": 5,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tregine, 1060,"
-    ],
-    "page": 762,
-    "column": 1,
-    "line": 9,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Daphnella),"
-    ],
-    "page": 762,
-    "column": 2,
-    "line": 13,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Monoceros, 329, 12/9."
-    ],
-    "page": 762,
-    "column": 2,
-    "line": 16,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Creseis),"
-    ],
-    "page": 762,
-    "column": 3,
-    "line": 19,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Hyalocylix),"
-    ],
-    "page": 762,
-    "column": 3,
-    "line": 31,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Styliola),"
+      "(8tyliola),"
     ],
     "page": 762,
     "column": 3,
     "line": 36,
-    "message": "invalid line"
+    "bounding_box": [
+      2,
+      749,
+      141,
+      20
+    ],
+    "message": "invalid genus line"
+  },
+  {
+    "texts": [
+      "(200, 277, 285, 294, 353, 366,"
+    ],
+    "page": 762,
+    "column": 3,
+    "line": 38,
+    "bounding_box": [
+      45,
+      793,
+      125,
+      19
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "(1226, 1229, 1269."
+    ],
+    "page": 762,
+    "column": 3,
+    "line": 41,
+    "bounding_box": [
+      46,
+      857,
+      124,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -1725,25 +1056,73 @@
     "page": 762,
     "column": 3,
     "line": 52,
+    "bounding_box": [
+      0,
+      1089,
+      125,
+      21
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "= var, kerguelensis, 442, 481,"
+      "lypeaster,"
     ],
     "page": 763,
     "column": 1,
-    "line": 36,
-    "message": "invalid line"
+    "line": 9,
+    "bounding_box": [
+      0,
+      186,
+      153,
+      20
+    ],
+    "message": "genus"
   },
   {
     "texts": [
-      "-Cocculina,"
+      "-Cocconeis, 197, 442."
+    ],
+    "page": 763,
+    "column": 1,
+    "line": 30,
+    "bounding_box": [
+      0,
+      633,
+      173,
+      19
+    ],
+    "message": "invalid genus line"
+  },
+  {
+    "texts": [
+      "$02, 424, 904, 930,"
+    ],
+    "page": 763,
+    "column": 1,
+    "line": 51,
+    "bounding_box": [
+      73,
+      1058,
+      100,
+      18
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "-Cooculina,"
     ],
     "page": 763,
     "column": 1,
     "line": 59,
-    "message": "invalid line"
+    "bounding_box": [
+      0,
+      1227,
+      149,
+      19
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -1752,34 +1131,28 @@
     "page": 763,
     "column": 1,
     "line": 62,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Taximus, 1043. |"
+    "bounding_box": [
+      31,
+      1295,
+      142,
+      22
     ],
-    "page": 763,
-    "column": 2,
-    "line": 51,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "p.--1894.)"
+      "p.-1894.)"
     ],
     "page": 763,
     "column": 2,
     "line": 61,
-    "message": "genus"
-  },
-  {
-    "texts": [
-      "Vaginata, 950."
+    "bounding_box": [
+      0,
+      1293,
+      127,
+      24
     ],
-    "page": 763,
-    "column": 3,
-    "line": 8,
-    "message": "species"
+    "message": "genus"
   },
   {
     "texts": [
@@ -1787,277 +1160,88 @@
     ],
     "page": 763,
     "column": 3,
-    "line": 21,
+    "line": 22,
+    "bounding_box": [
+      0,
+      440,
+      177,
+      20
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "(Anachis), |"
-    ],
-    "page": 764,
-    "column": 1,
-    "line": 16,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Atilia), |"
-    ],
-    "page": 764,
-    "column": 1,
-    "line": 18,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Conidea), |"
-    ],
-    "page": 764,
-    "column": 1,
-    "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Mitrella), |"
-    ],
-    "page": 764,
-    "column": 1,
-    "line": 23,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Pusiostoma), |"
-    ],
-    "page": 764,
-    "column": 1,
-    "line": 27,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Mendicaria, 652, 1400. |"
-    ],
-    "page": 764,
-    "column": 1,
-    "line": 28,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Pyrene), ]"
-    ],
-    "page": 764,
-    "column": 1,
-    "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Zafra), ]"
-    ],
-    "page": 764,
-    "column": 1,
-    "line": 33,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Adamsia), |"
-    ],
-    "page": 764,
-    "column": 1,
-    "line": 41,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Bucula, 1218, |"
-    ],
-    "page": 764,
-    "column": 1,
-    "line": 45,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Virgatum, 309, 1355. |"
-    ],
-    "page": 764,
-    "column": 2,
-    "line": 5,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Cylinder), |"
-    ],
-    "page": 764,
-    "column": 2,
-    "line": 34,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cylindrella),"
-    ],
-    "page": 764,
-    "column": 2,
-    "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Hermes),"
-    ],
-    "page": 764,
-    "column": 2,
-    "line": 38,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Leptoconus),"
-    ],
-    "page": 764,
-    "column": 2,
-    "line": 40,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Lithoconus), |"
-    ],
-    "page": 764,
-    "column": 2,
-    "line": 47,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Puncticulis),"
-    ],
-    "page": 764,
-    "column": 2,
-    "line": 50,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "+1083, 1096, 1102, 1106, 1227,"
-    ],
-    "page": 764,
-    "column": 2,
-    "line": 58,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "+1232, 1251, 1268, 1268,"
-    ],
-    "page": 764,
-    "column": 2,
-    "line": 59,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "#99, 835, 852, 1237, 1257,"
-    ],
-    "page": 764,
-    "column": 3,
-    "line": 3,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tigidus, 444, 758, 1123, 1284,"
-    ],
-    "page": 764,
-    "column": 3,
-    "line": 9,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "$53, 480, 581, 630, Gov, OtY,"
+      "$58, 480, 581, 630, 639, 640,"
     ],
     "page": 764,
     "column": 3,
     "line": 45,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Joxoconus, 880."
+    "bounding_box": [
+      41,
+      908,
+      128,
+      19
     ],
-    "page": 764,
-    "column": 3,
-    "line": 51,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1029, 1083, 1047, 100%, 4404,"
-    ],
-    "page": 764,
-    "column": 3,
-    "line": 58,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Mmargarethe, 922."
+      "$94, 1013, 1028, 1043, 1119,"
     ],
     "page": 765,
-    "column": 1,
-    "line": 9,
-    "message": "species"
+    "column": 2,
+    "line": 22,
+    "bounding_box": [
+      47,
+      456,
+      112,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Imperator,"
+      "$08, 405, 930, 1012, 1028,"
     ],
     "page": 765,
-    "column": 3,
-    "line": 59,
-    "message": "species"
+    "column": 2,
+    "line": 54,
+    "bounding_box": [
+      50,
+      1136,
+      109,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Kutzingii, 220, 514, 931. |"
+      "impolitus, 516. |"
     ],
     "page": 766,
     "column": 1,
-    "line": 6,
-    "message": "species"
+    "line": 2,
+    "bounding_box": [
+      0,
+      29,
+      166,
+      20
+    ],
+    "message": "genus"
   },
   {
     "texts": [
-      "Tentiginosus, 403, 424, 443, 481, |"
+      "June, 515, 517. |"
     ],
     "page": 766,
     "column": 1,
-    "line": 8,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tineatus, 135, 220, 264, 278, 287, |"
+    "line": 19,
+    "bounding_box": [
+      39,
+      389,
+      127,
+      19
     ],
-    "page": 766,
-    "column": 1,
-    "line": 14,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "TMmargaritaceus, 615, 517. |"
-    ],
-    "page": 766,
-    "column": 1,
-    "line": 20,
     "message": "species"
   },
   {
@@ -2067,178 +1251,103 @@
     "page": 766,
     "column": 1,
     "line": 21,
+    "bounding_box": [
+      39,
+      432,
+      127,
+      20
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(Cosmasterias (see Asterias)."
+      "$47, 405, 424, 481, 515, 733,"
     ],
     "page": 766,
-    "column": 2,
-    "line": 36,
-    "message": "invalid line"
+    "column": 1,
+    "line": 57,
+    "bounding_box": [
+      60,
+      1194,
+      106,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Liocranchia),"
-    ],
-    "page": 766,
-    "column": 2,
-    "line": 49,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "tted from Station list at Station 18/7, page"
+      "tted from Station list at Station 187, page"
     ],
     "page": 767,
     "column": 2,
     "line": 61,
+    "bounding_box": [
+      0,
+      1288,
+      159,
+      18
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "Incisa, 549, 1342."
+      "; ellipsoides, 1040."
     ],
     "page": 767,
     "column": 3,
-    "line": 14,
-    "message": "species"
+    "line": 57,
+    "bounding_box": [
+      0,
+      1198,
+      173,
+      20
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(Myonera),"
+      "(Cucumaria,"
     ],
     "page": 768,
     "column": 1,
-    "line": 53,
-    "message": "invalid line"
+    "line": 5,
+    "bounding_box": [
+      0,
+      92,
+      139,
+      19
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "Oll, 604, 85/, 93/7, B95/, 1104,"
+      "(Culcita,"
     ],
     "page": 768,
-    "column": 2,
-    "line": 26,
-    "message": "species"
+    "column": 1,
+    "line": 31,
+    "bounding_box": [
+      0,
+      642,
+      113,
+      19
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "* australis, 532, 1386."
+      "* australis, 532, 1886."
     ],
     "page": 768,
     "column": 2,
     "line": 32,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Mnestia),"
+    "bounding_box": [
+      0,
+      664,
+      159,
+      18
     ],
-    "page": 768,
-    "column": 3,
-    "line": 27,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Volvula),"
-    ],
-    "page": 768,
-    "column": 3,
-    "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cymatium (see Triton)."
-    ],
-    "page": 768,
-    "column": 3,
-    "line": 40,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cymbalopora,"
-    ],
-    "page": 768,
-    "column": 3,
-    "line": 43,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Tretomphalus),"
-    ],
-    "page": 768,
-    "column": 3,
-    "line": 48,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Irreguilaris, 573, 1415."
-    ],
-    "page": 769,
-    "column": 1,
-    "line": 20,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1032, 1045, 1053, 1056, 1061."
-    ],
-    "page": 769,
-    "column": 1,
-    "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Virginis, 1045."
-    ],
-    "page": 769,
-    "column": 1,
-    "line": 53,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Virgineum, 879."
-    ],
-    "page": 769,
-    "column": 2,
-    "line": 5,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vitellus, 627, 1401."
-    ],
-    "page": 769,
-    "column": 2,
-    "line": 17,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Trivia),"
-    ],
-    "page": 769,
-    "column": 2,
-    "line": 18,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "+1268, 1269, 1451."
-    ],
-    "page": 769,
-    "column": 2,
-    "line": 35,
-    "message": "invalid line"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -2247,43 +1356,28 @@
     "page": 769,
     "column": 3,
     "line": 37,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1299, 1300, 1306, 1312, 1320,"
+    "bounding_box": [
+      41,
+      721,
+      115,
+      17
     ],
-    "page": 769,
-    "column": 3,
-    "line": 39,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "[2a"
-    ],
-    "page": 770,
-    "column": 1,
-    "line": 6,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "-dictyon, 173, 253, 259, 266, 2/1,"
+      "-dictyon, 173, 253, 259, 266, 271,"
     ],
     "page": 770,
     "column": 1,
     "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1289, 1290, 1295, 1295, Izv\u00a5,"
+    "bounding_box": [
+      36,
+      600,
+      128,
+      20
     ],
-    "page": 770,
-    "column": 1,
-    "line": 35,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -2292,268 +1386,133 @@
     "page": 770,
     "column": 1,
     "line": 39,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(41424,"
+    "bounding_box": [
+      36,
+      812,
+      128,
+      18
     ],
-    "page": 770,
-    "column": 1,
-    "line": 53,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Taganella, 682, 1339,"
-    ],
-    "page": 770,
-    "column": 2,
-    "line": 5,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vvelivola, 722, 1383."
-    ],
-    "page": 770,
-    "column": 2,
-    "line": 56,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Callista),"
-    ],
-    "page": 770,
-    "column": 3,
-    "line": 2,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Caryatis),"
-    ],
-    "page": 770,
-    "column": 3,
-    "line": 9,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Dione),"
-    ],
-    "page": 770,
-    "column": 3,
-    "line": 14,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Irregularis, 193, 1339."
-    ],
-    "page": 770,
-    "column": 3,
-    "line": 22,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(SUMMARY OF RESULTS OHALL. E"
+      "(SUMMARY OF RESULTS CHALL. \u00a3"
     ],
     "page": 771,
     "column": 1,
     "line": 58,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1029, 1083, 1046, 1053, 1057, |"
+    "bounding_box": [
+      21,
+      1292,
+      145,
+      24
     ],
-    "page": 771,
-    "column": 2,
-    "line": 25,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Tramosa, 1265."
-    ],
-    "page": 771,
-    "column": 2,
-    "line": 44,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Homeodictya),"
-    ],
-    "page": 771,
-    "column": 3,
-    "line": 32,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "TMammillata, 880, 1051."
-    ],
-    "page": 771,
-    "column": 3,
-    "line": 58,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Versipellis, 552, |"
+      "$18, 838, 843, 845, 850, 858,"
     ],
     "page": 772,
+    "column": 2,
+    "line": 45,
+    "bounding_box": [
+      48,
+      941,
+      111,
+      19
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "-_ macedonaldi, 879, 1415."
+    ],
+    "page": 773,
     "column": 1,
-    "line": 23,
-    "message": "species"
+    "line": 51,
+    "bounding_box": [
+      44,
+      1075,
+      122,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Trhombicum, |"
+      "- diectyota, 1038,"
     ],
-    "page": 772,
+    "page": 773,
     "column": 1,
-    "line": 32,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1055, 1060. |"
+    "line": 55,
+    "bounding_box": [
+      44,
+      1160,
+      122,
+      20
     ],
-    "page": 772,
-    "column": 2,
-    "line": 38,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Dicornis, 880."
-    ],
-    "page": 772,
-    "column": 2,
-    "line": 49,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Phoebetria),"
-    ],
-    "page": 772,
-    "column": 3,
-    "line": 52,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Zygopora, 1046,"
+      "-vesicularis, 687, 717."
     ],
     "page": 773,
     "column": 2,
-    "line": 3,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1256, 1259, 1262, 1264, 1266,"
+    "line": 60,
+    "bounding_box": [
+      30,
+      1265,
+      130,
+      19
     ],
-    "page": 774,
-    "column": 1,
-    "line": 10,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1268, 1269. |"
+      "-vilardeboana, 124, 191, $54, 492,"
+    ],
+    "page": 773,
+    "column": 3,
+    "line": 2,
+    "bounding_box": [
+      27,
+      27,
+      147,
+      19
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "piles teas"
+    ],
+    "page": 773,
+    "column": 3,
+    "line": 29,
+    "bounding_box": [
+      0,
+      600,
+      174,
+      41
+    ],
+    "message": "genus"
+  },
+  {
+    "texts": [
+      "(1268, 1269, |"
     ],
     "page": 774,
     "column": 1,
     "line": 11,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Teguiaris, 1073, 1368, |"
+    "bounding_box": [
+      67,
+      209,
+      93,
+      18
     ],
-    "page": 774,
-    "column": 1,
-    "line": 23,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Ritidus, 563, 703, 1895, 1426. |"
-    ],
-    "page": 774,
-    "column": 1,
-    "line": 26,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmicropora, 957, |"
-    ],
-    "page": 774,
-    "column": 1,
-    "line": 32,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1056, 1060, |"
-    ],
-    "page": 774,
-    "column": 1,
-    "line": 37,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Japonica, 909, 1390. |"
-    ],
-    "page": 774,
-    "column": 1,
-    "line": 47,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Cidaris), |"
-    ],
-    "page": 774,
-    "column": 1,
-    "line": 50,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Jevicarina, 728, 1887,"
-    ],
-    "page": 774,
-    "column": 1,
-    "line": 57,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tramosa, 1137,"
-    ],
-    "page": 774,
-    "column": 2,
-    "line": 10,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Delone, 1089, 1045, |"
-    ],
-    "page": 774,
-    "column": 2,
-    "line": 41,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -2562,151 +1521,43 @@
     "page": 774,
     "column": 3,
     "line": 11,
+    "bounding_box": [
+      25,
+      212,
+      136,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Inermis, 771, 1284,"
-    ],
-    "page": 774,
-    "column": 3,
-    "line": 33,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "TBYO."
-    ],
-    "page": 774,
-    "column": 3,
-    "line": 43,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Phiyxia),"
-    ],
-    "page": 774,
-    "column": 3,
-    "line": 48,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Zemira),"
-    ],
-    "page": 774,
-    "column": 3,
-    "line": 57,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Indomalaccensis. 784. 1866."
-    ],
-    "page": 775,
-    "column": 1,
-    "line": 56,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Magellanicus, 434, 452, 1140, |"
-    ],
-    "page": 775,
-    "column": 2,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Margaritaceus, 463, 484, 489, |"
+      "Mmargaritaceus, 468, 484, 489, |"
     ],
     "page": 775,
     "column": 2,
     "line": 17,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmarginatus, 603, 1307,"
+    "bounding_box": [
+      29,
+      350,
+      132,
+      20
     ],
-    "page": 775,
-    "column": 3,
-    "line": 14,
     "message": "species"
   },
   {
     "texts": [
-      ". willemoesi, 503, 1294,"
+      ". willemiesi, 508, 1294,"
     ],
     "page": 776,
     "column": 1,
     "line": 14,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Hemitoms),"
+    "bounding_box": [
+      0,
+      272,
+      164,
+      18
     ],
-    "page": 776,
-    "column": 1,
-    "line": 16,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tugosa, 565, 1401,"
-    ],
-    "page": 776,
-    "column": 1,
-    "line": 17,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Scutus),"
-    ],
-    "page": 776,
-    "column": 1,
-    "line": 18,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Tugalia), |"
-    ],
-    "page": 776,
-    "column": 1,
-    "line": 20,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Temipes, 895."
-    ],
-    "page": 776,
-    "column": 2,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1226, 1232, 1236, 123/, 1240,"
-    ],
-    "page": 776,
-    "column": 3,
-    "line": 22,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Ethusina),"
-    ],
-    "page": 776,
-    "column": 3,
-    "line": 34,
-    "message": "invalid line"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -2715,142 +1566,88 @@
     "page": 777,
     "column": 1,
     "line": 9,
-    "message": "invalid line"
+    "bounding_box": [
+      25,
+      176,
+      143,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1237, 1255, 1257, 1258, 1269, |"
+      "(1287, 1255, 1257, 1258, 1259, |"
     ],
     "page": 777,
     "column": 1,
     "line": 11,
-    "message": "invalid line"
+    "bounding_box": [
+      60,
+      219,
+      108,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Kkerguelenensis, 476, 1415. |"
+      "$65, 387, 446, 455, 520, 521, |"
     ],
     "page": 777,
-    "column": 2,
-    "line": 20,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Ccirrobranchiata, 242, 1880,"
-    ],
-    "page": 777,
-    "column": 3,
-    "line": 14,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mindanavensis, 780, 1881."
-    ],
-    "page": 777,
-    "column": 3,
-    "line": 21,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "[3388,"
-    ],
-    "page": 777,
-    "column": 3,
-    "line": 52,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "\u201d Euphausia, 233, 260, 380, 387, 389, 425,"
-    ],
-    "page": 778,
     "column": 1,
-    "line": 10,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1446,"
-    ],
-    "page": 778,
-    "column": 1,
-    "line": 46,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tugosa, 761, 1868."
-    ],
-    "page": 778,
-    "column": 1,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Chenostoma),"
-    ],
-    "page": 778,
-    "column": 2,
-    "line": 6,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tadiatus, 220, 303."
-    ],
-    "page": 778,
-    "column": 2,
-    "line": 23,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dipponensis, 899, 1337."
-    ],
-    "page": 778,
-    "column": 2,
     "line": 29,
-    "message": "species"
+    "bounding_box": [
+      61,
+      579,
+      107,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Sarsu, 446, 453, 1295, 1299,"
+      "Jaxa, 684, 1347."
     ],
-    "page": 778,
-    "column": 2,
-    "line": 58,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Spinosa, 609, 1295,"
-    ],
-    "page": 778,
+    "page": 777,
     "column": 2,
     "line": 60,
+    "bounding_box": [
+      30,
+      1261,
+      129,
+      20
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Tramoea, 399, 13651."
+      "* Eaphausia, 233, 260, 380, 387, 389, 428,"
     ],
-    "page": 779,
+    "page": 778,
     "column": 1,
-    "line": 47,
-    "message": "species"
+    "line": 11,
+    "bounding_box": [
+      1,
+      195,
+      161,
+      19
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(Latirus),"
+      "(1284, 1236, 1245, 1263, 1264, |"
     ],
-    "page": 779,
+    "page": 778,
     "column": 1,
-    "line": 53,
-    "message": "invalid line"
+    "line": 26,
+    "bounding_box": [
+      71,
+      491,
+      91,
+      17
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -2859,87 +1656,72 @@
     "page": 779,
     "column": 1,
     "line": 59,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Lucapina), |"
+    "bounding_box": [
+      20,
+      1292,
+      146,
+      22
     ],
-    "page": 779,
-    "column": 2,
-    "line": 18,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "p.-J&94.)"
+      "p.-J894.)"
     ],
     "page": 779,
     "column": 2,
     "line": 61,
+    "bounding_box": [
+      0,
+      1292,
+      128,
+      20
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "L288,"
+      "\u201d archiaciana, 686,"
     ],
     "page": 779,
     "column": 3,
-    "line": 31,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tugosa, 1073, 1369."
+    "line": 39,
+    "bounding_box": [
+      15,
+      814,
+      156,
+      20
     ],
-    "page": 780,
-    "column": 1,
-    "line": 2,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Euthria), |"
+      "~ 34299."
     ],
-    "page": 780,
-    "column": 1,
-    "line": 26,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Metula), ]"
+    "page": 779,
+    "column": 3,
+    "line": 58,
+    "bounding_box": [
+      27,
+      1219,
+      124,
+      16
     ],
-    "page": 780,
-    "column": 1,
-    "line": 29,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Neptunea), ]"
-    ],
-    "page": 780,
-    "column": 1,
-    "line": 31,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "TMandarinus, 59], 598, 1347."
+      "Mmandarinus, 591, 598, 1347,"
     ],
     "page": 780,
     "column": 1,
     "line": 35,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "RBodosus, 698, 1401,"
+    "bounding_box": [
+      49,
+      684,
+      110,
+      18
     ],
-    "page": 780,
-    "column": 1,
-    "line": 37,
     "message": "species"
   },
   {
@@ -2949,286 +1731,193 @@
     "page": 780,
     "column": 1,
     "line": 38,
+    "bounding_box": [
+      50,
+      743,
+      109,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Setosus, 447, 454, 1297, 1300,"
+      "Ssetosus, 447, 454, 1297, 1300,"
     ],
     "page": 780,
     "column": 1,
     "line": 40,
+    "bounding_box": [
+      51,
+      783,
+      108,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(Sipho), 219, 1309."
+      "Jocusta, 1270."
     ],
     "page": 780,
-    "column": 1,
-    "line": 43,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Siphonorbis),"
-    ],
-    "page": 780,
-    "column": 1,
-    "line": 47,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tnconspicua, 753, 1342,"
-    ],
-    "page": 780,
-    "column": 2,
-    "line": 4,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dll, 522, 529, 561, 587, 588,"
-    ],
-    "page": 780,
-    "column": 2,
-    "line": 45,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jill, 1131, 11386, 1201, 1225,"
-    ],
-    "page": 780,
-    "column": 2,
-    "line": 49,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tubripes, 831, 1390,"
-    ],
-    "page": 780,
-    "column": 3,
-    "line": 23,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1020, 1097, 1279, 1250, i201,"
-    ],
-    "page": 780,
-    "column": 3,
-    "line": 55,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Media, 904, 938."
-    ],
-    "page": 781,
-    "column": 1,
-    "line": 11,
-    "message": "species"
-  },
-  {
-    "texts": [
-      ", 882, 584, 835, 886, 887, 889,"
-    ],
-    "page": 781,
-    "column": 1,
-    "line": 47,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "+1182, 1185, 1186, 1193, 1201,"
-    ],
-    "page": 781,
-    "column": 1,
-    "line": 59,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "+1162, 11638, 1172, 1201, 1217,"
-    ],
-    "page": 781,
-    "column": 2,
-    "line": 25,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "O59, 664, 876, 987, 965,"
-    ],
-    "page": 781,
     "column": 2,
     "line": 29,
+    "bounding_box": [
+      27,
+      570,
+      120,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Kerguelensis, 465, 1837."
+      ", 882, 884, 885, 886, 887, 8&9,"
     ],
     "page": 781,
-    "column": 3,
-    "line": 36,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tegalis, 620, 638, 755, 1320, 1326,"
-    ],
-    "page": 781,
-    "column": 3,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Timapes, 9384, 1129, 1214. 1296."
-    ],
-    "page": 781,
-    "column": 3,
-    "line": 54,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "+1298, 1299, 1307, 1447."
-    ],
-    "page": 781,
-    "column": 3,
-    "line": 55,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Ingens, 739, 1320."
-    ],
-    "page": 782,
     "column": 1,
-    "line": 14,
-    "message": "species"
+    "line": 47,
+    "bounding_box": [
+      45,
+      986,
+      120,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Mmagellanica,1172,1872,1445,1459."
+      "QT1, 261, 286, 295, 354, 424"
     ],
-    "page": 782,
-    "column": 3,
-    "line": 7,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Stentor, 462, 1372, 1445, 1459,"
-    ],
-    "page": 782,
-    "column": 3,
-    "line": 8,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Clavata, 885."
-    ],
-    "page": 782,
-    "column": 3,
-    "line": 41,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Viridis, 1440,"
-    ],
-    "page": 782,
-    "column": 3,
-    "line": 54,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vesicularis, 183, 197, 199, 6380."
-    ],
-    "page": 782,
-    "column": 3,
-    "line": 59,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jatrunculioides, 1187, 1315,"
-    ],
-    "page": 783,
-    "column": 1,
-    "line": 49,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1027, 1031, 1038, 1050,"
-    ],
-    "page": 783,
+    "page": 781,
     "column": 2,
-    "line": 8,
-    "message": "invalid line"
+    "line": 7,
+    "bounding_box": [
+      47,
+      138,
+      112,
+      19
+    ],
+    "message": "species"
   },
   {
     "texts": [
-      "Megaporum, 1267."
+      "(198, 200, 212, 215, 261, 286,"
+    ],
+    "page": 781,
+    "column": 2,
+    "line": 33,
+    "bounding_box": [
+      49,
+      692,
+      110,
+      19
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "(1226, 1229, 1281, 1247, 1253."
+    ],
+    "page": 781,
+    "column": 2,
+    "line": 39,
+    "bounding_box": [
+      49,
+      819,
+      110,
+      19
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "$42, 354, 424, 427, 582, 631,"
+    ],
+    "page": 781,
+    "column": 3,
+    "line": 20,
+    "bounding_box": [
+      47,
+      395,
+      123,
+      19
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "Timapes, 984, 1129, 1214. 1296."
+    ],
+    "page": 781,
+    "column": 3,
+    "line": 54,
+    "bounding_box": [
+      28,
+      1118,
+      142,
+      20
+    ],
+    "message": "species"
+  },
+  {
+    "texts": [
+      "Mmegaporum, 1267."
     ],
     "page": 783,
     "column": 2,
     "line": 21,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "O61,"
+    "bounding_box": [
+      30,
+      436,
+      128,
+      19
     ],
-    "page": 783,
-    "column": 2,
-    "line": 32,
     "message": "species"
   },
   {
     "texts": [
-      "Inosima, 901, 1353."
+      "germanus, 836, 887, 895."
     ],
     "page": 783,
     "column": 3,
-    "line": 22,
-    "message": "species"
+    "line": 2,
+    "bounding_box": [
+      0,
+      32,
+      171,
+      20
+    ],
+    "message": "genus"
   },
   {
     "texts": [
-      "(1126, 1200, 1216, 1200."
+      "- yyucronatus, 910, 1418."
     ],
     "page": 783,
     "column": 3,
-    "line": 52,
-    "message": "invalid line"
+    "line": 38,
+    "bounding_box": [
+      31,
+      794,
+      140,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1227, 1282, 1238, 1284, 1251,"
+      "$19, 358, 427, 449, 498, 522,"
     ],
     "page": 784,
-    "column": 2,
-    "line": 5,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Targinatus, 1011, 1015, 1022."
+    "column": 1,
+    "line": 7,
+    "bounding_box": [
+      57,
+      135,
+      107,
+      18
     ],
-    "page": 784,
-    "column": 2,
-    "line": 44,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -3237,142 +1926,58 @@
     "page": 784,
     "column": 2,
     "line": 58,
+    "bounding_box": [
+      29,
+      1215,
+      129,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Viminalis, 1045."
-    ],
-    "page": 784,
-    "column": 2,
-    "line": 60,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jorma excentrica, 733."
-    ],
-    "page": 784,
-    "column": 3,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Orr. angusta, 1005."
-    ],
-    "page": 785,
-    "column": 1,
-    "line": 6,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Herbstiella),"
-    ],
-    "page": 785,
-    "column": 1,
-    "line": 43,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kerguelensis, 465, 1176, 1381,"
-    ],
-    "page": 785,
-    "column": 1,
-    "line": 51,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(41494."
-    ],
-    "page": 785,
-    "column": 1,
-    "line": 52,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Fallacia),"
-    ],
-    "page": 785,
-    "column": 2,
-    "line": 3,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "fleterocarpus,"
-    ],
-    "page": 785,
-    "column": 2,
-    "line": 12,
-    "message": "genus"
-  },
-  {
-    "texts": [
-      "Vaginatus, 1062."
-    ],
-    "page": 785,
-    "column": 3,
-    "line": 18,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Maximus, 102]."
-    ],
-    "page": 786,
-    "column": 1,
-    "line": 61,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Kerguelen, 467, 1385,"
-    ],
-    "page": 786,
-    "column": 2,
-    "line": 33,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Impatiens, 647, 1379, 1424."
-    ],
-    "page": 786,
-    "column": 3,
-    "line": 23,
-    "message": "species"
-  },
-  {
-    "texts": [
-      ". fasciatus, 927, 1418."
+      ". fasciatus, 927, 1418,"
     ],
     "page": 786,
     "column": 3,
     "line": 51,
-    "message": "invalid line"
+    "bounding_box": [
+      6,
+      1064,
+      174,
+      18
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "$319, 604, 610, 857, 937, 949."
+      "\u00a722, 1078, 1131."
+    ],
+    "page": 786,
+    "column": 3,
+    "line": 56,
+    "bounding_box": [
+      43,
+      1170,
+      137,
+      19
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "$19, 604, 610, 857, 987, 949."
     ],
     "page": 786,
     "column": 3,
     "line": 58,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Stylocalyx),"
+    "bounding_box": [
+      43,
+      1213,
+      137,
+      18
     ],
-    "page": 787,
-    "column": 1,
-    "line": 49,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -3380,8 +1985,14 @@
     ],
     "page": 787,
     "column": 1,
-    "line": 61,
-    "message": "invalid line"
+    "line": 62,
+    "bounding_box": [
+      19,
+      1292,
+      146,
+      23
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -3390,15 +2001,12 @@
     "page": 787,
     "column": 2,
     "line": 43,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vicarius, 1128, 1304."
+    "bounding_box": [
+      33,
+      904,
+      126,
+      18
     ],
-    "page": 787,
-    "column": 2,
-    "line": 52,
     "message": "species"
   },
   {
@@ -3408,151 +2016,133 @@
     "page": 787,
     "column": 2,
     "line": 61,
+    "bounding_box": [
+      0,
+      1293,
+      127,
+      21
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "(1086, 1091, 1131, 1200, 1216."
+      "$19, 353, 429, 581, 639, 979,"
     ],
     "page": 787,
     "column": 3,
-    "line": 27,
-    "message": "invalid line"
+    "line": 26,
+    "bounding_box": [
+      48,
+      540,
+      125,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "OSI, 604, G10, 659, 798, 876,"
+      "$19, 358, 400, 449, 522, 529,"
     ],
     "page": 787,
     "column": 3,
-    "line": 33,
-    "message": "species"
+    "line": 32,
+    "bounding_box": [
+      49,
+      667,
+      124,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "B90, 945, 9Od."
+      "$88, 425, 443, 450, 456, 459,"
     ],
     "page": 787,
     "column": 3,
-    "line": 51,
-    "message": "species"
+    "line": 46,
+    "bounding_box": [
+      46,
+      966,
+      127,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Tuzoni, 799, 885, 1112."
+      "Tnzoni, 799, 885, 1112."
     ],
     "page": 787,
     "column": 3,
     "line": 53,
+    "bounding_box": [
+      29,
+      1114,
+      144,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "lanthella,"
+      "lIanthella,"
     ],
     "page": 788,
     "column": 1,
     "line": 27,
+    "bounding_box": [
+      16,
+      600,
+      143,
+      18
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "lanthina, 117, 119, 142, 234, 254, 387,"
+      "lIanthina, 117, 119, 142, 284, 254, 387,"
     ],
     "page": 788,
     "column": 1,
     "line": 29,
+    "bounding_box": [
+      16,
+      643,
+      164,
+      19
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "Drevipes, 747, 1341."
-    ],
-    "page": 788,
-    "column": 1,
-    "line": 40,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "leilius, ]"
-    ],
-    "page": 788,
-    "column": 1,
-    "line": 47,
-    "message": "genus"
-  },
-  {
-    "texts": [
-      "das,"
+      "lophon, 1451."
     ],
     "page": 788,
     "column": 2,
-    "line": 8,
+    "line": 45,
+    "bounding_box": [
+      0,
+      919,
+      144,
+      20
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "ipomua,"
-    ],
-    "page": 788,
-    "column": 3,
-    "line": 4,
-    "message": "genus"
-  },
-  {
-    "texts": [
-      "Viridulus, 413, 1409,"
-    ],
-    "page": 788,
-    "column": 3,
-    "line": 10,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Marginata, 241, 1369."
-    ],
-    "page": 788,
-    "column": 3,
-    "line": 24,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "lsops,"
-    ],
-    "page": 788,
-    "column": 3,
-    "line": 26,
-    "message": "genus"
-  },
-  {
-    "texts": [
-      "Par, TNOLIS}is, Gol, logk."
-    ],
-    "page": 788,
-    "column": 3,
-    "line": 34,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "\u00bb 445, 607, 679, 1204, 1305,"
+      "bal 1154, 1162."
     ],
     "page": 789,
-    "column": 2,
-    "line": 32,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "JIIe2"
+    "column": 3,
+    "line": 60,
+    "bounding_box": [
+      0,
+      1264,
+      171,
+      17
     ],
-    "page": 789,
-    "column": 2,
-    "line": 56,
-    "message": "species"
+    "message": "genus"
   },
   {
     "texts": [
@@ -3561,7 +2151,28 @@
     "page": 790,
     "column": 1,
     "line": 29,
+    "bounding_box": [
+      46,
+      594,
+      120,
+      19
+    ],
     "message": "species"
+  },
+  {
+    "texts": [
+      "$19, 492, 587, 640, 1085. |"
+    ],
+    "page": 790,
+    "column": 1,
+    "line": 39,
+    "bounding_box": [
+      97,
+      801,
+      69,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -3570,70 +2181,43 @@
     "page": 790,
     "column": 1,
     "line": 59,
+    "bounding_box": [
+      47,
+      1195,
+      119,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "/ var. interrupta, 134, 424."
+      "- var. interrupta, 134, 424."
     ],
     "page": 790,
     "column": 2,
     "line": 37,
-    "message": "invalid line"
+    "bounding_box": [
+      60,
+      744,
+      96,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Variata, 1092. |"
+      "Monoceros, 777, 881, 1041."
     ],
     "page": 790,
-    "column": 2,
-    "line": 45,
+    "column": 3,
+    "line": 37,
+    "bounding_box": [
+      26,
+      764,
+      141,
+      18
+    ],
     "message": "species"
-  },
-  {
-    "texts": [
-      "Magellanica, 464, 1151, 1338,"
-    ],
-    "page": 790,
-    "column": 2,
-    "line": 54,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Agnodice),"
-    ],
-    "page": 790,
-    "column": 2,
-    "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Aulacolambrus),"
-    ],
-    "page": 790,
-    "column": 3,
-    "line": 10,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Parthenolambrus),"
-    ],
-    "page": 790,
-    "column": 3,
-    "line": 14,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Priene),"
-    ],
-    "page": 790,
-    "column": 3,
-    "line": 52,
-    "message": "invalid line"
   },
   {
     "texts": [
@@ -3642,6 +2226,12 @@
     "page": 791,
     "column": 1,
     "line": 7,
+    "bounding_box": [
+      0,
+      139,
+      123,
+      20
+    ],
     "message": "genus"
   },
   {
@@ -3651,259 +2241,163 @@
     "page": 791,
     "column": 1,
     "line": 25,
+    "bounding_box": [
+      44,
+      517,
+      121,
+      20
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Dbispinoga, 811, 1389."
+      "areolata, 899, 1838,"
     ],
     "page": 791,
     "column": 2,
-    "line": 11,
-    "message": "species"
+    "line": 31,
+    "bounding_box": [
+      0,
+      643,
+      157,
+      18
+    ],
+    "message": "genus"
   },
   {
     "texts": [
-      "Mmessanensis, 132, 2/2, ivzi,"
+      "Jamarckii, 554, 1365."
     ],
-    "page": 791,
-    "column": 2,
-    "line": 53,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "TDOVE-CulIneevsis, ses, 400V~"
-    ],
-    "page": 791,
-    "column": 2,
-    "line": 58,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Pilidium),"
-    ],
-    "page": 791,
+    "page": 792,
     "column": 3,
-    "line": 39,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Japonica, 910, 1412,"
+    "line": 31,
+    "bounding_box": [
+      29,
+      638,
+      138,
+      19
     ],
-    "page": 792,
-    "column": 1,
-    "line": 11,
     "message": "species"
   },
   {
     "texts": [
-      "Jonchwa, 861, 1412."
-    ],
-    "page": 792,
-    "column": 1,
-    "line": 12,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Margaritifera, 1179, 1412."
-    ],
-    "page": 792,
-    "column": 1,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Marsupium, 1179, 1412."
-    ],
-    "page": 792,
-    "column": 1,
-    "line": 14,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Toissyana, 1073, 1369."
-    ],
-    "page": 792,
-    "column": 1,
-    "line": 22,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Transversa, 1073, 1369."
-    ],
-    "page": 792,
-    "column": 1,
-    "line": 24,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Morrisii, 322."
-    ],
-    "page": 792,
-    "column": 1,
-    "line": 28,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Kerguelensis, 475, 1409."
-    ],
-    "page": 792,
-    "column": 1,
-    "line": 38,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Ur. grande, 51d, Oli,"
-    ],
-    "page": 792,
-    "column": 1,
-    "line": 41,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Var, O8sperunm, of8, 4240,"
-    ],
-    "page": 792,
-    "column": 1,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Multicostata, 237. 565. 426 1208."
+      "Multicostata, 237. 565. 626 1208."
     ],
     "page": 793,
     "column": 1,
     "line": 5,
+    "bounding_box": [
+      58,
+      100,
+      101,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Mmurrayl, 579, 1344."
+      "Inurrayi, 579, 1344,"
     ],
     "page": 793,
     "column": 1,
     "line": 7,
+    "bounding_box": [
+      58,
+      140,
+      101,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "\u2122{Qamosu, 127, 820, 1396. 1498_"
+      "\u201cUamosu, 127, 820, 1398. 1496."
     ],
     "page": 793,
     "column": 1,
     "line": 8,
-    "message": "invalid line"
+    "bounding_box": [
+      57,
+      160,
+      102,
+      16
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Ctenoides),"
+      "Jaminifera, 164. 174. 1844 14%@"
     ],
     "page": 793,
     "column": 1,
-    "line": 10,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tonera, 650, 1396,"
+    "line": 17,
+    "bounding_box": [
+      59,
+      328,
+      100,
+      18
     ],
-    "page": 793,
-    "column": 1,
-    "line": 11,
     "message": "species"
   },
   {
     "texts": [
-      "(Limatula), 329. 395 509 1189"
-    ],
-    "page": 793,
-    "column": 1,
-    "line": 12,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Mantellum),"
-    ],
-    "page": 793,
-    "column": 1,
-    "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Antarctica, 498,"
-    ],
-    "page": 793,
-    "column": 1,
-    "line": 29,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(41225, ]2v9."
-    ],
-    "page": 793,
-    "column": 1,
-    "line": 40,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1008, 1229."
-    ],
-    "page": 793,
-    "column": 1,
-    "line": 47,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tata, 608, 1321, |"
-    ],
-    "page": 793,
-    "column": 1,
-    "line": 58,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "\u2122Marionensis, 438. 1344_ |"
+      "Marionensis, 438. 1344. |"
     ],
     "page": 793,
     "column": 1,
     "line": 59,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tongiceps, 749, 789, 1354, 139/."
+    "bounding_box": [
+      56,
+      1134,
+      103,
+      18
     ],
-    "page": 793,
-    "column": 2,
-    "line": 24,
     "message": "species"
   },
   {
     "texts": [
-      "(1396, 1445."
+      "Ppacifica,"
     ],
     "page": 793,
     "column": 2,
-    "line": 44,
-    "message": "invalid line"
+    "line": 11,
+    "bounding_box": [
+      28,
+      222,
+      107,
+      17
+    ],
+    "message": "species"
+  },
+  {
+    "texts": [
+      "Jobatus, 1015, 1022, 102/, 4004,"
+    ],
+    "page": 793,
+    "column": 3,
+    "line": 16,
+    "bounding_box": [
+      23,
+      310,
+      137,
+      19
+    ],
+    "message": "species"
+  },
+  {
+    "texts": [
+      "Peers 1018, 1016, 1028."
+    ],
+    "page": 793,
+    "column": 3,
+    "line": 50,
+    "bounding_box": [
+      23,
+      959,
+      137,
+      40
+    ],
+    "message": "species"
   },
   {
     "texts": [
@@ -3912,88 +2406,58 @@
     "page": 794,
     "column": 2,
     "line": 36,
+    "bounding_box": [
+      29,
+      746,
+      127,
+      20
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Kkingsleyi, 421, 1643. |"
+      "\" pentastichus, 1118."
     ],
     "page": 794,
     "column": 2,
-    "line": 53,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Hamus),"
+    "line": 41,
+    "bounding_box": [
+      31,
+      830,
+      125,
+      21
     ],
-    "page": 794,
-    "column": 3,
-    "line": 3,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Teticulatus, 754."
-    ],
-    "page": 794,
-    "column": 3,
-    "line": 10,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Lophoxanthus),"
+      "$384, 348, 382, 383, 385, 552."
     ],
     "page": 795,
     "column": 1,
-    "line": 25,
-    "message": "invalid line"
+    "line": 57,
+    "bounding_box": [
+      57,
+      1191,
+      106,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(SUMMARY OF RESULTS OHALL. E}"
+      "(SUMMARY OF RESULTS OHALL. E!"
     ],
     "page": 795,
     "column": 1,
     "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Codakia), 764, 1396. |"
+    "bounding_box": [
+      15,
+      1276,
+      148,
+      23
     ],
-    "page": 795,
-    "column": 2,
-    "line": 19,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Divaricella),"
-    ],
-    "page": 795,
-    "column": 2,
-    "line": 30,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Loripes),"
-    ],
-    "page": 795,
-    "column": 2,
-    "line": 32,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kkerguelensis, 465, 1338. a"
-    ],
-    "page": 795,
-    "column": 2,
-    "line": 57,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -4002,52 +2466,13 @@
     "page": 795,
     "column": 2,
     "line": 61,
+    "bounding_box": [
+      0,
+      1279,
+      118,
+      22
+    ],
     "message": "genus"
-  },
-  {
-    "texts": [
-      "(Parathranites),"
-    ],
-    "page": 795,
-    "column": 3,
-    "line": 9,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Vincenti, 314."
-    ],
-    "page": 795,
-    "column": 3,
-    "line": 14,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Variegatus, 410, 1385."
-    ],
-    "page": 796,
-    "column": 1,
-    "line": 9,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Septemspinosa, 376, 1391."
-    ],
-    "page": 796,
-    "column": 1,
-    "line": 30,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(41425."
-    ],
-    "page": 796,
-    "column": 1,
-    "line": 32,
-    "message": "invalid line"
   },
   {
     "texts": [
@@ -4055,188 +2480,29 @@
     ],
     "page": 796,
     "column": 1,
-    "line": 51,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Teptolepis, 365, 1354."
-    ],
-    "page": 796,
-    "column": 2,
-    "line": 25,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dasutus, 901,919.1324,1327,1354."
-    ],
-    "page": 796,
-    "column": 2,
-    "line": 33,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Incarnata, 820, 1396,"
-    ],
-    "page": 796,
-    "column": 2,
-    "line": 45,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Incerta, 860, 1396."
-    ],
-    "page": 796,
-    "column": 2,
-    "line": 46,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Mactrinula),"
-    ],
-    "page": 796,
-    "column": 2,
-    "line": 50,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "TMacrostoma, 1036, 1066, 1287,"
-    ],
-    "page": 797,
-    "column": 1,
-    "line": 12,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "L288,"
-    ],
-    "page": 797,
-    "column": 1,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Gibberula),"
-    ],
-    "page": 797,
-    "column": 1,
-    "line": 55,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Iiliaria, 128, 274, 1347, 1359."
-    ],
-    "page": 797,
-    "column": 1,
-    "line": 57,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Glabella),"
-    ],
-    "page": 797,
-    "column": 1,
-    "line": 59,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Granula),"
-    ],
-    "page": 797,
-    "column": 2,
-    "line": 11,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Persicula),"
-    ],
-    "page": 797,
-    "column": 2,
-    "line": 13,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Murrayl, 439, 1410."
-    ],
-    "page": 797,
-    "column": 2,
-    "line": 28,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Spinosissimus, 1091, 1285."
-    ],
-    "page": 797,
-    "column": 2,
     "line": 32,
-    "message": "species"
+    "bounding_box": [
+      64,
+      665,
+      94,
+      15
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Cingulina),"
+      "$19, 641, 686, 908, 1181, 1154,"
     ],
     "page": 797,
     "column": 2,
-    "line": 52,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Inermis, 701, 1391."
+    "line": 21,
+    "bounding_box": [
+      47,
+      434,
+      110,
+      19
     ],
-    "page": 797,
-    "column": 2,
-    "line": 56,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Trevidactyla, 561, 1391."
-    ],
-    "page": 797,
-    "column": 2,
-    "line": 57,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Cetranema, 1261."
-    ],
-    "page": 797,
-    "column": 3,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Willemvuesi, 550, 1352."
-    ],
-    "page": 797,
-    "column": 3,
-    "line": 22,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmaurrayl, 334, 1253, 1287, 1289,"
-    ],
-    "page": 797,
-    "column": 3,
-    "line": 30,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -4245,232 +2511,103 @@
     "page": 797,
     "column": 3,
     "line": 55,
+    "bounding_box": [
+      26,
+      1157,
+      141,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "eee aeecasto!\u201ca, 1040."
+      "aero lecato!\u201cs, 1040."
     ],
     "page": 798,
     "column": 2,
     "line": 58,
+    "bounding_box": [
+      0,
+      1198,
+      156,
+      43
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "~ undulatus, 1195, 1419."
+      "bombus, 881, 1016."
+    ],
+    "page": 798,
+    "column": 3,
+    "line": 13,
+    "bounding_box": [
+      0,
+      256,
+      166,
+      20
+    ],
+    "message": "genus"
+  },
+  {
+    "texts": [
+      "\u201d undulatus, 1195, 1419."
     ],
     "page": 798,
     "column": 3,
     "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "* 41412, 1447,"
+    "bounding_box": [
+      17,
+      421,
+      149,
+      20
     ],
-    "page": 798,
-    "column": 3,
-    "line": 24,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1230,"
+      "Jabiosa, 798, 941, 949, 956, 979,"
     ],
     "page": 799,
     "column": 1,
-    "line": 7,
-    "message": "invalid line"
+    "line": 10,
+    "bounding_box": [
+      53,
+      193,
+      103,
+      17
+    ],
+    "message": "species"
   },
   {
     "texts": [
-      "Tupertiana, /16."
+      "$53, 449, 581, 610, 630, 639,"
     ],
     "page": 799,
     "column": 1,
-    "line": 25,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(294, 342, 353, 423, 429, 449,"
+    "line": 41,
+    "bounding_box": [
+      69,
+      786,
+      87,
+      16
     ],
-    "page": 799,
-    "column": 1,
-    "line": 29,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1066, 1078, 1084, 1104, 1111,"
-    ],
-    "page": 799,
-    "column": 1,
-    "line": 52,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tamosa, 241, 13/0. q"
-    ],
-    "page": 799,
-    "column": 2,
-    "line": 5,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Mithraculus), ]"
-    ],
-    "page": 799,
-    "column": 2,
-    "line": 25,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Nemausa), |"
-    ],
-    "page": 799,
-    "column": 2,
-    "line": 27,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Callithea), |"
-    ],
-    "page": 799,
-    "column": 2,
-    "line": 33,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cancilla), |"
-    ],
-    "page": 799,
-    "column": 2,
-    "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Interlirata, 627, 652, 684, 736, |"
-    ],
-    "page": 799,
-    "column": 2,
-    "line": 39,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Costellaria), 707, 1402. |"
-    ],
-    "page": 799,
-    "column": 2,
-    "line": 44,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Nebularia), ]"
-    ],
-    "page": 799,
-    "column": 2,
-    "line": 51,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Pusia),"
-    ],
-    "page": 799,
-    "column": 2,
-    "line": 54,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Scabricola),"
-    ],
-    "page": 799,
-    "column": 2,
-    "line": 57,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kerguelensis, 4/2, 1396."
-    ],
-    "page": 799,
-    "column": 3,
-    "line": 19,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Imperator, 933, 969, 12/5, 1251,"
-    ],
-    "page": 799,
-    "column": 3,
-    "line": 54,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Disinuata, 780, 1412. ]"
+      "athe 628, 710, 821. 1409."
     ],
     "page": 800,
     "column": 1,
-    "line": 53,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmagnifica, 1000, 1412."
+    "line": 49,
+    "bounding_box": [
+      8,
+      1012,
+      163,
+      40
     ],
-    "page": 800,
-    "column": 1,
-    "line": 58,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Trostrigera, 440, 1352."
-    ],
-    "page": 800,
-    "column": 2,
-    "line": 2,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Phylactella),"
-    ],
-    "page": 800,
-    "column": 2,
-    "line": 9,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kelaarti, 629, 1419."
-    ],
-    "page": 800,
-    "column": 2,
-    "line": 14,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Par. CUFVITOSLTIS, \u00a2f/0, Olay"
-    ],
-    "page": 800,
-    "column": 2,
-    "line": 28,
-    "message": "species"
+    "message": "genus"
   },
   {
     "texts": [
@@ -4479,97 +2616,28 @@
     "page": 800,
     "column": 2,
     "line": 32,
+    "bounding_box": [
+      29,
+      638,
+      128,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(1428,"
-    ],
-    "page": 800,
-    "column": 3,
-    "line": 15,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Chicoreus),"
-    ],
-    "page": 800,
-    "column": 3,
-    "line": 22,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Haustellum), 754, 1347."
-    ],
-    "page": 800,
-    "column": 3,
-    "line": 28,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Ocinebra),"
-    ],
-    "page": 800,
-    "column": 3,
-    "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Phyllonotus),"
-    ],
-    "page": 800,
-    "column": 3,
-    "line": 31,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "\u201c_ endivia, 806, 832, 1403, 1426."
+      "*  endivia, 806, 832, 1403, 1426."
     ],
     "page": 800,
     "column": 3,
     "line": 32,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Pseudomurex),"
+    "bounding_box": [
+      0,
+      662,
+      167,
+      21
     ],
-    "page": 800,
-    "column": 3,
-    "line": 35,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Pteronotus),"
-    ],
-    "page": 800,
-    "column": 3,
-    "line": 40,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Tribulus),"
-    ],
-    "page": 800,
-    "column": 3,
-    "line": 44,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Digrospinosns, 806, 1403."
-    ],
-    "page": 800,
-    "column": 3,
-    "line": 49,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -4578,295 +2646,58 @@
     "page": 801,
     "column": 1,
     "line": 29,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Trotula, 1039, 1045, 1061."
+    "bounding_box": [
+      45,
+      596,
+      122,
+      18
     ],
-    "page": 801,
-    "column": 1,
-    "line": 33,
     "message": "species"
   },
   {
     "texts": [
-      "Kaianus, 749, 1354. |"
+      "Tosaces,"
     ],
     "page": 801,
     "column": 2,
-    "line": 17,
+    "line": 59,
+    "bounding_box": [
+      30,
+      1208,
+      117,
+      15
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(Stavelia), |"
-    ],
-    "page": 801,
-    "column": 2,
-    "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "TOsaces,"
-    ],
-    "page": 801,
-    "column": 2,
-    "line": 58,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "@igas, 222, 375, 1382, 1424."
-    ],
-    "page": 801,
-    "column": 3,
-    "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Rigrum, 842, 1324."
-    ],
-    "page": 801,
-    "column": 3,
-    "line": 42,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Aciculina),"
-    ],
-    "page": 801,
-    "column": 3,
-    "line": 57,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Alectryon),"
-    ],
-    "page": 802,
-    "column": 1,
-    "line": 2,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Arcularia),"
-    ],
-    "page": 802,
-    "column": 1,
-    "line": 7,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Oeesia),"
-    ],
-    "page": 802,
-    "column": 1,
-    "line": 9,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Hebra),"
-    ],
-    "page": 802,
-    "column": 1,
-    "line": 11,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(tHima),"
-    ],
-    "page": 802,
-    "column": 1,
-    "line": 14,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Niotha),"
-    ],
-    "page": 802,
-    "column": 1,
-    "line": 17,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Tritia),"
-    ],
-    "page": 802,
-    "column": 1,
-    "line": 25,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Drychia, 183, 1322."
-    ],
-    "page": 802,
-    "column": 1,
-    "line": 26,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Zeuris),"
-    ],
-    "page": 802,
-    "column": 1,
-    "line": 28,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tufa, 728, 1403."
-    ],
-    "page": 802,
-    "column": 1,
-    "line": 60,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Amauropsis),"
-    ],
-    "page": 802,
-    "column": 2,
-    "line": 7,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Lunatia),"
-    ],
-    "page": 802,
-    "column": 2,
-    "line": 11,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Mamma),"
-    ],
-    "page": 802,
-    "column": 2,
-    "line": 14,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Neverita),"
-    ],
-    "page": 802,
-    "column": 2,
-    "line": 19,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tar, controversa 269."
-    ],
-    "page": 802,
-    "column": 3,
-    "line": 45,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jatissima, 277, 256."
-    ],
-    "page": 802,
-    "column": 3,
-    "line": 56,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jineata, 130, 135, 2/7, 209."
-    ],
-    "page": 802,
-    "column": 3,
-    "line": 60,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Ditescens, 442, 7338, 812, 904,"
+      "$02, 442, 904, 930, 938,"
     ],
     "page": 803,
     "column": 1,
-    "line": 16,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "~ar. subundulata. 442."
+    "line": 39,
+    "bounding_box": [
+      63,
+      804,
+      102,
+      19
     ],
-    "page": 803,
-    "column": 1,
-    "line": 21,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "$12,,903, 938, 1027,"
-    ],
-    "page": 803,
-    "column": 1,
-    "line": 28,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tadiosa, 888,"
-    ],
-    "page": 803,
-    "column": 1,
-    "line": 31,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tetusa, 130,"
-    ],
-    "page": 803,
-    "column": 1,
-    "line": 32,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "O38."
-    ],
-    "page": 803,
-    "column": 1,
-    "line": 41,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Pinnularia),"
-    ],
-    "page": 803,
-    "column": 1,
-    "line": 51,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(SUMMARY OF RESULTS CHALL. &}"
+      "(SUMMARY OF RESULTS CHALL. &)"
     ],
     "page": 803,
     "column": 1,
     "line": 61,
-    "message": "invalid line"
+    "bounding_box": [
+      17,
+      1263,
+      148,
+      22
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -4875,141 +2706,27 @@
     "page": 803,
     "column": 2,
     "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Trenula, 1051."
+    "bounding_box": [
+      0,
+      1265,
+      116,
+      22
     ],
-    "page": 803,
-    "column": 3,
-    "line": 52,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(Achelous), |"
-    ],
-    "page": 804,
-    "column": 1,
-    "line": 2,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Amphitrite), ]"
-    ],
-    "page": 804,
-    "column": 1,
-    "line": 7,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tugosus, /91, 806, 519, 1d\u00a52, |"
+      "Tugosus, 701, 806, 819, 1392, |"
     ],
     "page": 804,
     "column": 1,
     "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Sspinipes, 806, 1392. |"
+    "bounding_box": [
+      48,
+      252,
+      110,
+      18
     ],
-    "page": 804,
-    "column": 1,
-    "line": 15,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Hellenus), |"
-    ],
-    "page": 804,
-    "column": 1,
-    "line": 17,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Sspinicarpus, 359, 1392. |"
-    ],
-    "page": 804,
-    "column": 1,
-    "line": 18,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Neptunus), |"
-    ],
-    "page": 804,
-    "column": 1,
-    "line": 19,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kkerguelensis, 465, 1381. |"
-    ],
-    "page": 804,
-    "column": 1,
-    "line": 27,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Ceratonereis), |"
-    ],
-    "page": 804,
-    "column": 1,
-    "line": 30,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Lycoris),"
-    ],
-    "page": 804,
-    "column": 1,
-    "line": 32,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Perinereis),"
-    ],
-    "page": 804,
-    "column": 1,
-    "line": 34,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Platynereis),"
-    ],
-    "page": 804,
-    "column": 1,
-    "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Spinosus, 926, 1419. |"
-    ],
-    "page": 804,
-    "column": 2,
-    "line": 4,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jorma minuta, 930,"
-    ],
-    "page": 804,
-    "column": 2,
-    "line": 10,
     "message": "species"
   },
   {
@@ -5019,25 +2736,43 @@
     "page": 804,
     "column": 2,
     "line": 16,
+    "bounding_box": [
+      53,
+      313,
+      94,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Tar. coarctats. Vii."
+      "$02, 319, 403, 405, 492, 760,"
+    ],
+    "page": 804,
+    "column": 2,
+    "line": 27,
+    "bounding_box": [
+      42,
+      529,
+      105,
+      17
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "Tar. coarctata. @ll."
     ],
     "page": 804,
     "column": 2,
     "line": 37,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Try blimella),"
+    "bounding_box": [
+      57,
+      729,
+      90,
+      12
     ],
-    "page": 804,
-    "column": 2,
-    "line": 47,
-    "message": "invalid line"
+    "message": "species"
   },
   {
     "texts": [
@@ -5046,79 +2781,88 @@
     "page": 804,
     "column": 3,
     "line": 5,
-    "message": "invalid line"
+    "bounding_box": [
+      40,
+      92,
+      123,
+      17
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1247, 1253."
+      "-verruculusa, 1112, 1131."
     ],
     "page": 804,
     "column": 3,
-    "line": 10,
-    "message": "invalid line"
+    "line": 46,
+    "bounding_box": [
+      25,
+      904,
+      138,
+      17
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "}]12."
+      "Junatus, 1207."
     ],
-    "page": 804,
-    "column": 3,
-    "line": 24,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tadicula, 424, 605, 686, 124/."
+    "page": 805,
+    "column": 1,
+    "line": 5,
+    "bounding_box": [
+      44,
+      95,
+      121,
+      19
     ],
-    "page": 804,
-    "column": 3,
-    "line": 33,
     "message": "species"
   },
   {
     "texts": [
-      "(Dentalina),"
-    ],
-    "page": 804,
-    "column": 3,
-    "line": 49,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Glandulina), ee"
-    ],
-    "page": 804,
-    "column": 3,
-    "line": 54,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "$42, 427, 430, 449, 529, 5682,"
+      "$42, 427, 480, 449, 529, 582,"
     ],
     "page": 805,
     "column": 1,
     "line": 26,
-    "message": "invalid line"
+    "bounding_box": [
+      62,
+      537,
+      103,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "-  lucifaga, 195, 629."
+      "nitidus, 725, 1392."
+    ],
+    "page": 805,
+    "column": 2,
+    "line": 9,
+    "bounding_box": [
+      0,
+      178,
+      157,
+      19
+    ],
+    "message": "genus"
+  },
+  {
+    "texts": [
+      ".  lucifaga, 195, 629."
     ],
     "page": 805,
     "column": 2,
     "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Acila),"
+    "bounding_box": [
+      0,
+      745,
+      157,
+      20
     ],
-    "page": 805,
-    "column": 2,
-    "line": 50,
-    "message": "invalid line"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -5127,97 +2871,43 @@
     "page": 805,
     "column": 3,
     "line": 25,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tonganus, 628, 1410."
+    "bounding_box": [
+      45,
+      553,
+      125,
+      18
     ],
-    "page": 806,
-    "column": 1,
-    "line": 14,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Vitiensis, 657, 1410."
-    ],
-    "page": 806,
-    "column": 1,
-    "line": 17,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tramea, 85. |"
-    ],
-    "page": 806,
-    "column": 1,
-    "line": 44,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "\u00abymatodes, 709, 999, 1404, 1426."
-    ],
-    "page": 806,
-    "column": 1,
-    "line": 60,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Qbeliscus),"
-    ],
-    "page": 806,
-    "column": 2,
-    "line": 11,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Parthenia), 1076, 1404."
-    ],
-    "page": 806,
-    "column": 2,
-    "line": 13,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Syrnola),"
-    ],
-    "page": 806,
-    "column": 2,
-    "line": 15,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Purbonilla), 178, 362, 710, 1348,"
-    ],
-    "page": 806,
-    "column": 2,
-    "line": 17,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cidiceros, |"
+      "(Rdiceros, |"
     ],
     "page": 806,
     "column": 2,
     "line": 40,
-    "message": "invalid line"
+    "bounding_box": [
+      0,
+      834,
+      110,
+      19
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(Kstrelata, |"
+      "(strelata, |"
     ],
     "page": 806,
     "column": 2,
     "line": 42,
-    "message": "invalid line"
+    "bounding_box": [
+      0,
+      875,
+      113,
+      19
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -5226,52 +2916,43 @@
     "page": 806,
     "column": 2,
     "line": 52,
-    "message": "invalid line"
+    "bounding_box": [
+      47,
+      1087,
+      109,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Galeola),"
+      "| amblia, 361, i348."
     ],
     "page": 806,
     "column": 2,
-    "line": 55,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Ispidula),"
+    "line": 60,
+    "bounding_box": [
+      29,
+      1254,
+      127,
+      19
     ],
-    "page": 806,
-    "column": 2,
-    "line": 57,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Olivella),"
-    ],
-    "page": 806,
-    "column": 2,
-    "line": 59,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "~ cornuta, 618, 619, 1317, 1324. |"
+      "* cornuta, 618, 619, 13817, 1324. |"
     ],
     "page": 807,
     "column": 1,
     "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Vivipara, 434, 463, 484, 489, |"
+    "bounding_box": [
+      32,
+      575,
+      133,
+      17
     ],
-    "page": 807,
-    "column": 1,
-    "line": 56,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -5280,6 +2961,12 @@
     "page": 807,
     "column": 2,
     "line": 8,
+    "bounding_box": [
+      0,
+      155,
+      156,
+      18
+    ],
     "message": "genus"
   },
   {
@@ -5289,15 +2976,42 @@
     "page": 807,
     "column": 2,
     "line": 9,
-    "message": "invalid line"
+    "bounding_box": [
+      0,
+      174,
+      143,
+      18
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "Tentus, 619, 898, 1318."
+      "(1299, 1804, 1810, 1446. |"
+    ],
+    "page": 807,
+    "column": 2,
+    "line": 35,
+    "bounding_box": [
+      44,
+      722,
+      112,
+      18
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "Jentus, 619, 898, 1318."
     ],
     "page": 807,
     "column": 2,
     "line": 53,
+    "bounding_box": [
+      28,
+      1098,
+      128,
+      19
+    ],
     "message": "species"
   },
   {
@@ -5307,214 +3021,103 @@
     "page": 807,
     "column": 3,
     "line": 18,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Wis"
+    "bounding_box": [
+      26,
+      362,
+      141,
+      19
     ],
-    "page": 807,
-    "column": 3,
-    "line": 38,
     "message": "species"
   },
   {
     "texts": [
-      "Inermis, 393, 1318,"
+      "(1278, 1281, 1282, 1304, 1312,"
     ],
     "page": 808,
-    "column": 1,
+    "column": 2,
     "line": 3,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Intorta, 434, 1377."
+    "bounding_box": [
+      47,
+      51,
+      109,
+      18
     ],
-    "page": 808,
-    "column": 1,
-    "line": 5,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Mrorata, 114, 426, Of7, 1295,"
-    ],
-    "page": 808,
-    "column": 1,
-    "line": 6,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1299, 13800, 1304, 1510, idlzZ,"
-    ],
-    "page": 808,
-    "column": 2,
-    "line": 11,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Vivipara, 420, 1151, 1169, 1178, |"
-    ],
-    "page": 808,
-    "column": 2,
-    "line": 50,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vicarius, 162, 1336."
-    ],
-    "page": 808,
-    "column": 3,
-    "line": 26,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Rivea, 1/2, 1336."
+      "$638, 449, 480, 581, 630, 639,"
     ],
     "page": 809,
     "column": 1,
-    "line": 7,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dbrevirostris, 801, 1321."
+    "line": 17,
+    "bounding_box": [
+      70,
+      342,
+      100,
+      18
     ],
-    "page": 809,
-    "column": 1,
-    "line": 24,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Marginalis, 165, 181, 196, 630,"
-    ],
-    "page": 809,
-    "column": 1,
-    "line": 39,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tamosa, 919."
-    ],
-    "page": 809,
-    "column": 2,
-    "line": 30,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dastigera, 1052."
-    ],
-    "page": 809,
-    "column": 2,
-    "line": 50,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Famigera, 1218."
-    ],
-    "page": 809,
-    "column": 2,
-    "line": 51,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Spinigera, 1265."
-    ],
-    "page": 809,
-    "column": 2,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Wwrightii, 442,"
+      "Jobata, 558, 1863."
     ],
     "page": 809,
     "column": 3,
-    "line": 4,
+    "line": 48,
+    "bounding_box": [
+      29,
+      1014,
+      141,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(41422,"
-    ],
-    "page": 809,
-    "column": 3,
-    "line": 46,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1285, 1288, 1289, 1805."
-    ],
-    "page": 810,
-    "column": 1,
-    "line": 15,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Palinostus),"
-    ],
-    "page": 810,
-    "column": 1,
-    "line": 54,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Viridis, 647, 1882."
-    ],
-    "page": 810,
-    "column": 2,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tamora, 1150, 1331]."
-    ],
-    "page": 810,
-    "column": 3,
-    "line": 45,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Immaturus, 830, 835."
+      "* dispar, 1182."
     ],
     "page": 811,
     "column": 1,
-    "line": 38,
-    "message": "species"
+    "line": 29,
+    "bounding_box": [
+      28,
+      587,
+      140,
+      24
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "\u00ab pacificus, 1003."
+      "+ pacificus, 1003."
     ],
     "page": 811,
     "column": 1,
     "line": 47,
-    "message": "invalid line"
+    "bounding_box": [
+      37,
+      968,
+      131,
+      20
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(SUMMARY OF RESULTS CHALL. RB)"
+      "(SUMMARY OF RESULTS CHALL, RY"
     ],
     "page": 811,
     "column": 1,
     "line": 61,
-    "message": "invalid line"
+    "bounding_box": [
+      21,
+      1263,
+      147,
+      22
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -5523,70 +3126,28 @@
     "page": 811,
     "column": 2,
     "line": 61,
-    "message": "invalid line"
+    "bounding_box": [
+      0,
+      1266,
+      114,
+      21
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(Janira),"
+      "l'vlamys,"
     ],
     "page": 811,
     "column": 3,
-    "line": 17,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Trollestoni, 619, 522, 921, 1294."
+    "line": 54,
+    "bounding_box": [
+      0,
+      1120,
+      114,
+      20
     ],
-    "page": 811,
-    "column": 3,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "]9O4"
-    ],
-    "page": 811,
-    "column": 3,
-    "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Bssurus, 723, 788, 811, 1341,"
-    ],
-    "page": 812,
-    "column": 1,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Iuspinosa, 133, 195, 277, 280,"
-    ],
-    "page": 812,
-    "column": 2,
-    "line": 40,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "\u00abimoceras, 1051. |"
-    ],
-    "page": 813,
-    "column": 2,
-    "line": 5,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Invaginata, 1250,"
-    ],
-    "page": 813,
-    "column": 3,
-    "line": 11,
-    "message": "species"
+    "message": "genus"
   },
   {
     "texts": [
@@ -5595,195 +3156,102 @@
     "page": 813,
     "column": 3,
     "line": 40,
+    "bounding_box": [
+      25,
+      831,
+      146,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(Pleoticus),"
+      "Joculata, 1268,"
+    ],
+    "page": 813,
+    "column": 3,
+    "line": 41,
+    "bounding_box": [
+      25,
+      851,
+      146,
+      19
+    ],
+    "message": "species"
+  },
+  {
+    "texts": [
+      "$80, 382, 383, 384, 385, 428,"
     ],
     "page": 814,
-    "column": 1,
+    "column": 3,
     "line": 5,
-    "message": "invalid line"
+    "bounding_box": [
+      44,
+      101,
+      127,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1424."
+      "$88, 580, 586, 775, 845, 848, 852, 920, |"
     ],
-    "page": 814,
+    "page": 815,
     "column": 1,
-    "line": 13,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Strongylocera),"
-    ],
-    "page": 814,
-    "column": 2,
-    "line": 17,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1299, 1304."
-    ],
-    "page": 814,
-    "column": 2,
-    "line": 28,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Dass}, 545."
-    ],
-    "page": 814,
-    "column": 2,
-    "line": 40,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "#68, 836, 845, 848, 871, 889,"
-    ],
-    "page": 814,
-    "column": 3,
-    "line": 7,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "POl, 959, 965, 977, 992, 1186."
-    ],
-    "page": 814,
-    "column": 3,
     "line": 9,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1255."
+    "bounding_box": [
+      5,
+      179,
+      158,
+      18
     ],
-    "page": 814,
-    "column": 3,
-    "line": 20,
-    "message": "invalid line"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(Proto),"
-    ],
-    "page": 814,
-    "column": 3,
-    "line": 26,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "{Anaitis),"
-    ],
-    "page": 814,
-    "column": 3,
-    "line": 45,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kkaupi, 901, 1354."
-    ],
-    "page": 815,
-    "column": 1,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jjeffreysii, 294."
-    ],
-    "page": 815,
-    "column": 1,
-    "line": 31,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dboscl, 245, 1419."
+      "Dbosci, 245, 1419."
     ],
     "page": 815,
     "column": 1,
     "line": 58,
+    "bounding_box": [
+      42,
+      1207,
+      121,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(Arctopsis),"
-    ],
-    "page": 815,
-    "column": 2,
-    "line": 24,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cantharus),"
-    ],
-    "page": 815,
-    "column": 2,
-    "line": 27,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Dbenthalianus, 9/8, 12/9."
-    ],
-    "page": 815,
-    "column": 2,
-    "line": 50,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Daassellaris, 876."
-    ],
-    "page": 815,
-    "column": 3,
-    "line": 9,
-    "message": "species"
-  },
-  {
-    "texts": [
-      ". dustriactis, 1095."
+      "_  distriactis, 1095."
     ],
     "page": 815,
     "column": 3,
     "line": 12,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tudis, 928, 1420."
+    "bounding_box": [
+      0,
+      241,
+      168,
+      18
     ],
-    "page": 815,
-    "column": 3,
-    "line": 60,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "Maxima, 1044, |"
+      "Maxima, 1044. |"
     ],
     "page": 816,
     "column": 2,
     "line": 12,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Minutum, 395, 1340."
+    "bounding_box": [
+      28,
+      239,
+      128,
+      17
     ],
-    "page": 816,
-    "column": 2,
-    "line": 50,
     "message": "species"
   },
   {
@@ -5793,141 +3261,42 @@
     "page": 816,
     "column": 3,
     "line": 8,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Bela),"
+    "bounding_box": [
+      17,
+      154,
+      118,
+      20
     ],
-    "page": 816,
-    "column": 3,
-    "line": 48,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Crassispira),"
-    ],
-    "page": 816,
-    "column": 3,
-    "line": 53,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Drillia),"
-    ],
-    "page": 816,
-    "column": 3,
-    "line": 55,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Genota),"
-    ],
-    "page": 817,
-    "column": 1,
-    "line": 12,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Mangelia), 260, 293, 1207, 1008."
-    ],
-    "page": 817,
-    "column": 1,
-    "line": 17,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Perrona),"
-    ],
-    "page": 817,
-    "column": 1,
-    "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Pleurotomella), 283, 1309."
-    ],
-    "page": 817,
-    "column": 1,
-    "line": 31,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Rhaphitoina), |"
-    ],
-    "page": 817,
-    "column": 1,
-    "line": 35,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Spirotropis),"
-    ],
-    "page": 817,
-    "column": 1,
-    "line": 37,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Surcula),"
-    ],
-    "page": 817,
-    "column": 1,
-    "line": 44,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Jeucotropis, 728, 1400."
+      "Jeucotropis, 728, 1405."
     ],
     "page": 817,
     "column": 1,
     "line": 54,
+    "bounding_box": [
+      34,
+      1021,
+      110,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(Thesbia),"
+      "Jaxa, 648, 1333."
     ],
     "page": 817,
     "column": 2,
-    "line": 6,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1405,"
+    "line": 50,
+    "bounding_box": [
+      26,
+      922,
+      116,
+      18
     ],
-    "page": 817,
-    "column": 2,
-    "line": 12,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Typhlomangelis),"
-    ],
-    "page": 817,
-    "column": 2,
-    "line": 14,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tigidus, 210, 213, 1295."
-    ],
-    "page": 817,
-    "column": 2,
-    "line": 58,
     "message": "species"
   },
   {
@@ -5937,160 +3306,148 @@
     "page": 817,
     "column": 3,
     "line": 39,
-    "message": "invalid line"
+    "bounding_box": [
+      11,
+      728,
+      145,
+      17
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Hi costata, 1016, 1023, 1027, 1032,"
+      "A costata, 1016, 1023, 1027, 1032,"
     ],
     "page": 817,
     "column": 3,
     "line": 56,
+    "bounding_box": [
+      23,
+      1050,
+      133,
+      17
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(1027, 1032, 1042, 1042. |"
+      "-tnuberosa, 917, 1316."
     ],
     "page": 818,
+    "column": 3,
+    "line": 57,
+    "bounding_box": [
+      29,
+      1126,
+      132,
+      18
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "-verriculata, 427."
+    ],
+    "page": 819,
     "column": 1,
-    "line": 17,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Maxima, 443, 481, 904, 939. |"
+    "line": 9,
+    "bounding_box": [
+      44,
+      165,
+      106,
+      16
     ],
-    "page": 818,
-    "column": 1,
-    "line": 29,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Sulcata, 757, 1415."
-    ],
-    "page": 818,
-    "column": 1,
-    "line": 58,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Viridis 573, 1415."
-    ],
-    "page": 818,
-    "column": 1,
-    "line": 60,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "O89, 671, 686, 858, 876, 949,"
-    ],
-    "page": 818,
-    "column": 2,
-    "line": 40,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Admetella),"
-    ],
-    "page": 818,
-    "column": 3,
-    "line": 18,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Langerhansia),"
-    ],
-    "page": 818,
-    "column": 3,
-    "line": 20,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Lepidonotus),"
-    ],
-    "page": 818,
-    "column": 3,
-    "line": 22,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Macellicephala),"
-    ],
-    "page": 818,
-    "column": 3,
-    "line": 24,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "( Robertianella),"
-    ],
-    "page": 818,
-    "column": 3,
-    "line": 26,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Jevisetosa, 918, 1319."
-    ],
-    "page": 818,
-    "column": 3,
-    "line": 30,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Miniaceum, 134, 167, 183, 191,"
+      "Mminiaceum, 134, 167, 183, 191,"
     ],
     "page": 819,
     "column": 1,
     "line": 13,
+    "bounding_box": [
+      44,
+      241,
+      106,
+      17
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(1293, 1299, 1304, 1310, 1446,"
+      "$35, 852, 869, 1003."
     ],
     "page": 819,
     "column": 1,
-    "line": 25,
-    "message": "invalid line"
+    "line": 50,
+    "bounding_box": [
+      58,
+      927,
+      92,
+      17
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(SUMMARY OF RESULTS CHALL, F/"
+      "(SUMMARY OF RESULTS CHALL, F)"
     ],
     "page": 819,
     "column": 1,
     "line": 62,
-    "message": "invalid line"
+    "bounding_box": [
+      17,
+      1159,
+      133,
+      18
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "\u00bb-1 894.)"
+      "Jatistellata, 1074, 1371."
+    ],
+    "page": 819,
+    "column": 2,
+    "line": 57,
+    "bounding_box": [
+      26,
+      1076,
+      116,
+      17
+    ],
+    "message": "species"
+  },
+  {
+    "texts": [
+      "Jutea, 826, 1371."
+    ],
+    "page": 819,
+    "column": 2,
+    "line": 59,
+    "bounding_box": [
+      25,
+      1115,
+      117,
+      16
+    ],
+    "message": "species"
+  },
+  {
+    "texts": [
+      "\u00bb-1894.)"
     ],
     "page": 819,
     "column": 2,
     "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kollikeri, 637, 1338,"
+    "bounding_box": [
+      0,
+      1153,
+      104,
+      20
     ],
-    "page": 820,
-    "column": 1,
-    "line": 7,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -6099,412 +3456,223 @@
     "page": 820,
     "column": 1,
     "line": 21,
+    "bounding_box": [
+      48,
+      426,
+      120,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Mmagellanica, 1188, 1315 |"
-    ],
-    "page": 820,
-    "column": 1,
-    "line": 31,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "TMurrayi, 1188, 1315. ]"
-    ],
-    "page": 820,
-    "column": 1,
-    "line": 32,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tigida, 1188, 1315, |"
-    ],
-    "page": 820,
-    "column": 1,
-    "line": 38,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Sparsa, 432, 1366. |"
-    ],
-    "page": 820,
-    "column": 1,
-    "line": 39,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Maxima, 1100, 1107, 1128, 1133,"
-    ],
-    "page": 820,
-    "column": 2,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmegaptera, 935, 1297."
-    ],
-    "page": 820,
-    "column": 2,
-    "line": 26,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Toseum, 749, 1354, _ |"
-    ],
-    "page": 820,
-    "column": 2,
-    "line": 30,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Murrayi, 536, 1365."
-    ],
-    "page": 820,
-    "column": 3,
-    "line": 24,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Castrensis, 626, 1397."
-    ],
-    "page": 820,
-    "column": 3,
-    "line": 33,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Intermedia, 311, 1397,"
-    ],
-    "page": 820,
-    "column": 3,
-    "line": 35,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tamosum, 535, 1362."
-    ],
-    "page": 820,
-    "column": 3,
-    "line": 43,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "\u00abiseus, 1147, 13834,"
-    ],
-    "page": 821,
-    "column": 1,
-    "line": 15,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Indiana, 828, 1378."
-    ],
-    "page": 821,
-    "column": 1,
-    "line": 21,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Villosus, 249, 445, 453, 503, 408,"
-    ],
-    "page": 821,
-    "column": 2,
-    "line": 2,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1804, |"
+      "(1\u00b004. |"
     ],
     "page": 821,
     "column": 2,
     "line": 50,
-    "message": "invalid line"
+    "bounding_box": [
+      72,
+      942,
+      71,
+      14
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(7294,"
+      "(2294."
     ],
     "page": 821,
     "column": 2,
     "line": 54,
-    "message": "invalid line"
+    "bounding_box": [
+      41,
+      1019,
+      90,
+      14
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1027, 1032, 1042, 1052, 1056,"
+      "Junulata, 731, 927, 1420, 1428."
     ],
     "page": 821,
     "column": 3,
-    "line": 8,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Virgineum, 1042,"
+    "line": 37,
+    "bounding_box": [
+      24,
+      692,
+      129,
+      17
     ],
-    "page": 821,
-    "column": 3,
-    "line": 12,
     "message": "species"
   },
   {
     "texts": [
-      "Macroptera, 1042, 1226."
+      "$34, 676, 751, 768, 783, 816. 836 838,"
     ],
     "page": 821,
     "column": 3,
-    "line": 24,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1057, 1062,"
+    "line": 57,
+    "bounding_box": [
+      0,
+      1076,
+      153,
+      16
     ],
-    "page": 821,
-    "column": 3,
-    "line": 28,
-    "message": "invalid line"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "Volitans, ,3l."
-    ],
-    "page": 821,
-    "column": 3,
-    "line": 38,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "$68, 885, 920, 994, 100,, 1266."
-    ],
-    "page": 821,
-    "column": 3,
-    "line": 58,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Oobliquiloculata, 124, 134, 139,"
+      "$19, 342, 354, 424, 427, 529,"
     ],
     "page": 822,
     "column": 1,
-    "line": 15,
-    "message": "species"
+    "line": 18,
+    "bounding_box": [
+      54,
+      346,
+      99,
+      17
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Marinus, 14,"
+      "$88, 584, 621, 631, 641, 642."
     ],
     "page": 822,
     "column": 1,
-    "line": 42,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(087, 988, 989, 991. 994. 1005."
+    "line": 44,
+    "bounding_box": [
+      54,
+      860,
+      99,
+      18
     ],
-    "page": 822,
-    "column": 1,
-    "line": 50,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Karsteni, 631, 1067, 1092, 1181."
+      "$54, 427, 449, 512, 522, 529,"
     ],
     "page": 822,
     "column": 2,
-    "line": 32,
-    "message": "species"
+    "line": 11,
+    "bounding_box": [
+      43,
+      210,
+      105,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Menardii, 134, 139, 145, 147, 153,"
+      "$42, 427, 430, 449, 512, 622,"
     ],
     "page": 822,
-    "column": 2,
-    "line": 34,
-    "message": "species"
+    "column": 3,
+    "line": 7,
+    "bounding_box": [
+      43,
+      131,
+      113,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Tepanda, 124, 183, 197, 199, 631,"
+      "Tepanda, 124, 188, 197, 199, 631,"
     ],
     "page": 822,
     "column": 3,
     "line": 17,
+    "bounding_box": [
+      28,
+      329,
+      128,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(1254,"
+      "$42, 355, 427, 631, 640, 641,"
     ],
     "page": 822,
     "column": 3,
-    "line": 26,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cranopsis),"
+    "line": 22,
+    "bounding_box": [
+      44,
+      429,
+      112,
+      17
     ],
-    "page": 822,
-    "column": 3,
-    "line": 43,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Fissurisepta),"
-    ],
-    "page": 822,
-    "column": 3,
-    "line": 47,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cronia),"
-    ],
-    "page": 822,
-    "column": 3,
-    "line": 50,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Polytropa),"
-    ],
-    "page": 822,
-    "column": 3,
-    "line": 52,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Stramonita),"
-    ],
-    "page": 822,
-    "column": 3,
-    "line": 56,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Thalessa),"
-    ],
-    "page": 822,
-    "column": 3,
-    "line": 58,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "$34, 380, 382, 642, 661, 664,"
+      "-s @etopyle, 979, 1046."
     ],
     "page": 823,
     "column": 1,
-    "line": 44,
-    "message": "invalid line"
+    "line": 34,
+    "bounding_box": [
+      41,
+      707,
+      122,
+      20
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "$27, 388, 525, 628, 601, 616,"
+      "-- novemcinctam, 979."
+    ],
+    "page": 823,
+    "column": 1,
+    "line": 37,
+    "bounding_box": [
+      41,
+      770,
+      122,
+      18
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "-- nodicineta, 655, 1405."
+    ],
+    "page": 823,
+    "column": 1,
+    "line": 40,
+    "bounding_box": [
+      42,
+      833,
+      121,
+      18
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "$27, 388, 525, 528, 601, 616,"
     ],
     "page": 823,
     "column": 2,
     "line": 5,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Mmurrayl, 1196, 1293."
+    "bounding_box": [
+      46,
+      94,
+      111,
+      18
     ],
-    "page": 823,
-    "column": 2,
-    "line": 19,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Argobuccinum),"
-    ],
-    "page": 823,
-    "column": 2,
-    "line": 49,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Aspa), |"
-    ],
-    "page": 823,
-    "column": 2,
-    "line": 54,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Eupleura), |"
-    ],
-    "page": 823,
-    "column": 2,
-    "line": 56,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Lampas),"
-    ],
-    "page": 823,
-    "column": 3,
-    "line": 2,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Dulbosa, 806, 1405."
-    ],
-    "page": 823,
-    "column": 3,
-    "line": 11,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tigida, 419, 1329."
-    ],
-    "page": 823,
-    "column": 3,
-    "line": 18,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1066, 1084, 1131, 1200, 1216."
-    ],
-    "page": 823,
-    "column": 3,
-    "line": 40,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -6513,412 +3681,148 @@
     "page": 824,
     "column": 1,
     "line": 12,
-    "message": "invalid line"
+    "bounding_box": [
+      61,
+      238,
+      103,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "| gscorplurus, 139, 145, 166, 181,"
+      "| scorpiurus, 139, 145, 166, 181,"
     ],
     "page": 824,
     "column": 1,
     "line": 14,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Imperati, 276, 313, 1352, 1357."
+    "bounding_box": [
+      25,
+      280,
+      139,
+      19
     ],
-    "page": 824,
-    "column": 1,
-    "line": 40,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Jorm munita, 543."
+      "Sorm munita, 543."
     ],
     "page": 824,
     "column": 1,
     "line": 46,
+    "bounding_box": [
+      74,
+      949,
+      90,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "JSorm umbonata, 714."
-    ],
-    "page": 824,
-    "column": 1,
-    "line": 47,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Myriozoides, 459, 491, 1323."
-    ],
-    "page": 824,
-    "column": 2,
-    "line": 3,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "\u00abliscreta, 166, 181, 285, 480, 610,"
-    ],
-    "page": 824,
-    "column": 2,
-    "line": 10,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Toeperi, 1156, 1330."
-    ],
-    "page": 824,
-    "column": 2,
-    "line": 15,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "$54, 582, 641, 686."
+      "$54, 582, 641, 686,"
     ],
     "page": 824,
     "column": 2,
     "line": 21,
-    "message": "invalid line"
+    "bounding_box": [
+      49,
+      427,
+      107,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "O38."
+      "Jeacocki, 129, 1406."
     ],
-    "page": 824,
+    "page": 825,
     "column": 2,
-    "line": 24,
+    "line": 27,
+    "bounding_box": [
+      26,
+      516,
+      115,
+      17
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "TMinutum, 481."
+      "$65, 1224, |"
     ],
-    "page": 824,
+    "page": 826,
     "column": 2,
-    "line": 26,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Indivisa, 166, 423, 640,"
-    ],
-    "page": 824,
-    "column": 3,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1028, 1043."
-    ],
-    "page": 824,
-    "column": 3,
-    "line": 51,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Miranda, 1189, 1316,"
-    ],
-    "page": 825,
-    "column": 1,
-    "line": 5,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Digricans,"
-    ],
-    "page": 825,
-    "column": 1,
-    "line": 56,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "sD eerenatus, 879, 1420."
-    ],
-    "page": 825,
-    "column": 1,
-    "line": 58,
-    "message": "genus"
-  },
-  {
-    "texts": [
-      "Biniulis, 129, 1406,"
-    ],
-    "page": 825,
-    "column": 2,
-    "line": 16,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Alvania),"
-    ],
-    "page": 825,
-    "column": 2,
-    "line": 18,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Ceratia),"
-    ],
-    "page": 825,
-    "column": 2,
-    "line": 31,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cingula),"
-    ],
-    "page": 825,
-    "column": 2,
-    "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Onoba),"
-    ],
-    "page": 825,
-    "column": 2,
-    "line": 41,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Scrobs),"
-    ],
-    "page": 825,
-    "column": 2,
-    "line": 49,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Setia),"
-    ],
-    "page": 825,
-    "column": 2,
-    "line": 52,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1406,"
-    ],
-    "page": 825,
-    "column": 2,
-    "line": 60,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1092, 1164, 1181."
-    ],
-    "page": 825,
-    "column": 3,
-    "line": 37,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1067, 1072, 1112, 1182, 121/,"
-    ],
-    "page": 825,
-    "column": 3,
     "line": 44,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(286, 295, 319, 342, 424, 427,"
+    "bounding_box": [
+      47,
+      911,
+      110,
+      18
     ],
-    "page": 825,
-    "column": 3,
-    "line": 48,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1078, 1092, 1112, 1lis2, 1156,"
-    ],
-    "page": 825,
-    "column": 3,
-    "line": 52,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Pallasia), ]"
+      "$02, 315, 8320, 889, 425, 443,"
     ],
     "page": 826,
-    "column": 1,
-    "line": 7,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Vverticilla, 986. |"
-    ],
-    "page": 826,
-    "column": 2,
+    "column": 3,
     "line": 24,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Traphanus, 481, 630, 681, 687, |"
+    "bounding_box": [
+      41,
+      493,
+      127,
+      18
     ],
-    "page": 826,
-    "column": 2,
-    "line": 34,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Varispina, 162, 172, 259, 266,"
-    ],
-    "page": 826,
-    "column": 2,
-    "line": 50,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmagnifica, 152, 368, 510, 1199,"
-    ],
-    "page": 826,
-    "column": 3,
-    "line": 2,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Trarispina, 695, 721, 785,1878, 1423."
-    ],
-    "page": 826,
-    "column": 3,
-    "line": 18,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmacrostoma, 929, 1420,"
-    ],
-    "page": 826,
-    "column": 3,
-    "line": 21,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tuncinata-fusiformis. 3815. 493_"
+      "Tuncinata-fusiformis. 315. 493_"
     ],
     "page": 826,
     "column": 3,
     "line": 57,
+    "bounding_box": [
+      27,
+      1186,
+      141,
+      15
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(1007, 1009, 1018, 1025, 1048, |"
-    ],
-    "page": 827,
-    "column": 1,
-    "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(10638, 1068, 1079, 1082, 1053, |"
-    ],
-    "page": 827,
-    "column": 1,
-    "line": 22,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1085, 1096, 10BB, 1105, 1156,"
-    ],
-    "page": 827,
-    "column": 1,
-    "line": 23,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(SUMMARY OF RESULTS CHALL. &)"
+      "(SUMMARY OF RESULTS CHALL. \u00a31"
     ],
     "page": 827,
     "column": 1,
     "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kalanus, 750, 1354."
+    "bounding_box": [
+      17,
+      1268,
+      147,
+      21
     ],
-    "page": 827,
-    "column": 2,
-    "line": 21,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Acirsa),"
-    ],
-    "page": 827,
-    "column": 2,
-    "line": 37,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cirsostrema),"
-    ],
-    "page": 827,
-    "column": 2,
-    "line": 40,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "\u00bb,- 1894.)"
+      ">, - 1894.)"
     ],
     "page": 827,
     "column": 2,
     "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Improvisum, 509, 1295."
+    "bounding_box": [
+      0,
+      1267,
+      117,
+      22
     ],
-    "page": 827,
-    "column": 3,
-    "line": 20,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Marginatum, 847, 1286."
-    ],
-    "page": 827,
-    "column": 3,
-    "line": 26,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -6927,178 +3831,88 @@
     "page": 827,
     "column": 3,
     "line": 35,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vitreum, 934, 1296."
+    "bounding_box": [
+      28,
+      720,
+      140,
+      20
     ],
-    "page": 827,
-    "column": 3,
-    "line": 45,
     "message": "species"
   },
   {
     "texts": [
-      "Biveus, 842, 1822."
-    ],
-    "page": 827,
-    "column": 3,
-    "line": 49,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Divea, 422, 1852."
+      "Jacuniformis, 176, 1349."
     ],
     "page": 828,
     "column": 1,
-    "line": 36,
+    "line": 2,
+    "bounding_box": [
+      43,
+      30,
+      120,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Bina, 927, 1420."
-    ],
-    "page": 828,
-    "column": 1,
-    "line": 53,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1999."
-    ],
-    "page": 828,
-    "column": 2,
-    "line": 46,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Marsupiata, 260."
+      "-- ganescens, 1158, 1354."
     ],
     "page": 828,
     "column": 3,
-    "line": 24,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Abra),"
-    ],
-    "page": 829,
-    "column": 1,
     "line": 34,
-    "message": "invalid line"
+    "bounding_box": [
+      27,
+      695,
+      139,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Theora),"
+      "_ platyphylla, 1011."
     ],
     "page": 829,
     "column": 1,
-    "line": 42,
-    "message": "invalid line"
+    "line": 50,
+    "bounding_box": [
+      41,
+      945,
+      109,
+      19
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Metasepia),"
+      "- ghemnitzii, 807, 1406."
     ],
     "page": 829,
-    "column": 2,
-    "line": 6,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1202, 1203, 1207, 1225, 122i,"
-    ],
-    "page": 829,
-    "column": 2,
-    "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Jongispinus, 334, 1265."
-    ],
-    "page": 829,
-    "column": 2,
-    "line": 43,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1006, 1062."
-    ],
-    "page": 829,
-    "column": 2,
-    "line": 46,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1281, 1307."
-    ],
-    "page": 829,
-    "column": 2,
+    "column": 1,
     "line": 53,
-    "message": "invalid line"
+    "bounding_box": [
+      41,
+      1002,
+      109,
+      17
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Valida, 823, 1372."
+      "-ventridentatus, 992."
     ],
     "page": 829,
-    "column": 3,
-    "line": 12,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Holometopus),"
-    ],
-    "page": 830,
-    "column": 1,
-    "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1047, 1054, 1057, 1062."
-    ],
-    "page": 830,
     "column": 2,
-    "line": 5,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Virguitus, 1095."
+    "line": 58,
+    "bounding_box": [
+      27,
+      1094,
+      115,
+      17
     ],
-    "page": 830,
-    "column": 2,
-    "line": 22,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1028, 1027, 1031, 1042, 1052,"
-    ],
-    "page": 830,
-    "column": 2,
-    "line": 35,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Micrococcus, 1226."
-    ],
-    "page": 830,
-    "column": 2,
-    "line": 44,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -7107,124 +3921,133 @@
     "page": 830,
     "column": 3,
     "line": 6,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Spicatus, 1254."
+    "bounding_box": [
+      7,
+      114,
+      159,
+      19
     ],
-    "page": 830,
-    "column": 3,
-    "line": 53,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Tenagodus), 362, 1349."
+      "ee dae"
     ],
     "page": 831,
     "column": 1,
-    "line": 19,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Liriola),"
+    "line": 31,
+    "bounding_box": [
+      9,
+      597,
+      148,
+      34
     ],
-    "page": 831,
-    "column": 1,
-    "line": 49,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "ial anamaameress 636, 1364."
-    ],
-    "page": 831,
-    "column": 1,
-    "line": 55,
     "message": "genus"
   },
   {
     "texts": [
-      "Marginata, 1021."
+      "--- dichelum, 650, 1406."
     ],
     "page": 831,
-    "column": 2,
-    "line": 14,
-    "message": "species"
+    "column": 1,
+    "line": 38,
+    "bounding_box": [
+      54,
+      747,
+      103,
+      17
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "$24, 479, 504, 609, 836, 543."
+      "- gancer, 699, 1406."
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 47,
+    "bounding_box": [
+      55,
+      919,
+      102,
+      17
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "-- gerrulata, 767, 1823."
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 51,
+    "bounding_box": [
+      54,
+      997,
+      103,
+      16
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "- gapitatum, 743, 1329."
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 53,
+    "bounding_box": [
+      54,
+      1034,
+      103,
+      20
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "ee 636, 1364."
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 54,
+    "bounding_box": [
+      10,
+      1054,
+      147,
+      36
+    ],
+    "message": "genus"
+  },
+  {
+    "texts": [
+      "-- godeffroyi, 898,"
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 57,
+    "bounding_box": [
+      55,
+      1131,
+      102,
+      19
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "$24, 479, 504, 609, 836, 843."
     ],
     "page": 831,
     "column": 2,
     "line": 25,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Architectonica),"
+    "bounding_box": [
+      0,
+      477,
+      141,
+      18
     ],
-    "page": 831,
-    "column": 2,
-    "line": 56,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Torinia),"
-    ],
-    "page": 831,
-    "column": 2,
-    "line": 59,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tregularis, 1151, 1334."
-    ],
-    "page": 831,
-    "column": 3,
-    "line": 5,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Kaiana, 750, 1354."
-    ],
-    "page": 831,
-    "column": 3,
-    "line": 10,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Azor),"
-    ],
-    "page": 831,
-    "column": 3,
-    "line": 13,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1021, 1027, 1031, 1085, 1000,"
-    ],
-    "page": 831,
-    "column": 3,
-    "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1055, 1059, 1064, 1US\u00a5."
-    ],
-    "page": 831,
-    "column": 3,
-    "line": 30,
-    "message": "invalid line"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -7233,61 +4056,73 @@
     "page": 831,
     "column": 3,
     "line": 44,
+    "bounding_box": [
+      24,
+      835,
+      131,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Kerguelensis, 465, 1338."
+      "~ confusa, 165, 956, 964."
+    ],
+    "page": 831,
+    "column": 3,
+    "line": 48,
+    "bounding_box": [
+      25,
+      911,
+      130,
+      18
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "_ ghallengeri, 452, 507, 1294, 1298."
+    ],
+    "page": 831,
+    "column": 3,
+    "line": 50,
+    "bounding_box": [
+      24,
+      949,
+      131,
+      20
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "--- parpureus, 85, 242, 270, 1878,"
+    ],
+    "page": 831,
+    "column": 3,
+    "line": 52,
+    "bounding_box": [
+      23,
+      988,
+      132,
+      20
+    ],
+    "message": "invalid species line"
+  },
+  {
+    "texts": [
+      "(1226, 1229, 1281, 1247, 1253."
     ],
     "page": 832,
     "column": 1,
-    "line": 37,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vulgaris, 813, 1421."
+    "line": 24,
+    "bounding_box": [
+      61,
+      487,
+      103,
+      19
     ],
-    "page": 832,
-    "column": 2,
-    "line": 8,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Massa, 536, 1364."
-    ],
-    "page": 832,
-    "column": 2,
-    "line": 16,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tentellipsis, 1266."
-    ],
-    "page": 832,
-    "column": 2,
-    "line": 21,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Trostralis, 384."
-    ],
-    "page": 832,
-    "column": 2,
-    "line": 25,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vivipara, 134, 182, 196, 481,"
-    ],
-    "page": 832,
-    "column": 2,
-    "line": 35,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -7296,24 +4131,27 @@
     "page": 832,
     "column": 2,
     "line": 61,
+    "bounding_box": [
+      0,
+      1264,
+      156,
+      20
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "(1002, 1071."
-    ],
-    "page": 832,
-    "column": 3,
-    "line": 6,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tmaucronatus, 1011,"
+      "Toucronatus, 1011,"
     ],
     "page": 832,
     "column": 3,
     "line": 52,
+    "bounding_box": [
+      25,
+      1076,
+      155,
+      18
+    ],
     "message": "species"
   },
   {
@@ -7323,87 +4161,42 @@
     "page": 832,
     "column": 3,
     "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Spinifera, 552, 1362, 1448."
+    "bounding_box": [
+      0,
+      1267,
+      150,
+      20
     ],
-    "page": 833,
-    "column": 1,
-    "line": 4,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "Spinosa, 691, 1366."
-    ],
-    "page": 833,
-    "column": 1,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dbiconcavus, 1011."
-    ],
-    "page": 833,
-    "column": 1,
-    "line": 59,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Thopalura, 1055."
+      "Jarnacilla, 1040."
     ],
     "page": 833,
     "column": 2,
-    "line": 23,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Spongioesa, 1062."
+    "line": 38,
+    "bounding_box": [
+      33,
+      783,
+      124,
+      19
     ],
-    "page": 833,
-    "column": 2,
-    "line": 40,
     "message": "species"
   },
   {
     "texts": [
-      "Spongices, 1041. "
+      "Spongices, 1041. ."
     ],
     "page": 833,
     "column": 2,
     "line": 54,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tregularis, 1053."
+    "bounding_box": [
+      30,
+      1120,
+      127,
+      20
     ],
-    "page": 833,
-    "column": 3,
-    "line": 13,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Willemoesii, 513,"
-    ],
-    "page": 833,
-    "column": 3,
-    "line": 23,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Depa, 908, 913, 924, 996, 1887,"
-    ],
-    "page": 833,
-    "column": 3,
-    "line": 44,
     "message": "species"
   },
   {
@@ -7413,6 +4206,12 @@
     "page": 833,
     "column": 3,
     "line": 49,
+    "bounding_box": [
+      25,
+      1015,
+      161,
+      20
+    ],
     "message": "species"
   },
   {
@@ -7422,25 +4221,28 @@
     "page": 833,
     "column": 3,
     "line": 55,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Mmurrayana, 1218."
+    "bounding_box": [
+      0,
+      1141,
+      186,
+      20
     ],
-    "page": 834,
-    "column": 1,
-    "line": 12,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "@igantea, 636, 1316."
+      "-longispinus, 355, 1828,"
     ],
     "page": 834,
     "column": 3,
-    "line": 10,
-    "message": "invalid line"
+    "line": 6,
+    "bounding_box": [
+      27,
+      110,
+      140,
+      22
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
@@ -7449,33 +4251,27 @@
     "page": 835,
     "column": 1,
     "line": 61,
-    "message": "invalid line"
+    "bounding_box": [
+      17,
+      1266,
+      147,
+      22
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Virgineum, 1082."
+      "Sorma tetragona, 939."
     ],
     "page": 835,
     "column": 2,
-    "line": 30,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jorma hexagona, 135, 278,"
+    "line": 59,
+    "bounding_box": [
+      59,
+      1202,
+      98,
+      20
     ],
-    "page": 835,
-    "column": 2,
-    "line": 56,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jorma tetragona, 939,"
-    ],
-    "page": 835,
-    "column": 2,
-    "line": 58,
     "message": "species"
   },
   {
@@ -7484,260 +4280,119 @@
     ],
     "page": 835,
     "column": 2,
-    "line": 59,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Varians, 939, 950."
-    ],
-    "page": 835,
-    "column": 2,
     "line": 60,
+    "bounding_box": [
+      59,
+      1223,
+      98,
+      20
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "p.- 1894.)"
+      "p.-1894.)"
     ],
     "page": 835,
     "column": 2,
-    "line": 61,
+    "line": 62,
+    "bounding_box": [
+      0,
+      1265,
+      120,
+      22
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "(Gena),"
+      "\u201d affinis, 164, 1354."
     ],
     "page": 835,
     "column": 3,
-    "line": 8,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "BO?"
+    "line": 15,
+    "bounding_box": [
+      15,
+      299,
+      154,
+      21
     ],
-    "page": 835,
-    "column": 3,
-    "line": 22,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Canarium),"
-    ],
-    "page": 835,
-    "column": 3,
-    "line": 54,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Gallinula),"
-    ],
-    "page": 835,
-    "column": 3,
-    "line": 59,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Jactea, 476, 1415. |"
-    ],
-    "page": 836,
-    "column": 1,
-    "line": 33,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "$83, 425, 530, 552, 664, 735, 3/7,"
+      "$83, 425, 530, 552, 664, 735, 737,"
     ],
     "page": 836,
     "column": 2,
     "line": 10,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Urania, 1059."
+    "bounding_box": [
+      0,
+      196,
+      157,
+      18
     ],
-    "page": 836,
-    "column": 3,
-    "line": 17,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "(1055, 1060,"
-    ],
-    "page": 836,
-    "column": 3,
-    "line": 28,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Trobusta, 859."
+      "$03, 733, 812, 904, 911, 930,"
     ],
     "page": 837,
     "column": 1,
-    "line": 27,
-    "message": "species"
+    "line": 14,
+    "bounding_box": [
+      72,
+      272,
+      87,
+      16
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(1354, 135/."
+      "-- ghallengeri, 225, 1385."
     ],
     "page": 837,
-    "column": 2,
-    "line": 10,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Jorma angustior WDUIPOStTis, |"
-    ],
-    "page": 837,
-    "column": 2,
-    "line": 52,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1027. |"
-    ],
-    "page": 837,
-    "column": 2,
-    "line": 53,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Ardissonia),"
-    ],
-    "page": 837,
-    "column": 2,
-    "line": 54,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1287, 1290, 1447."
-    ],
-    "page": 837,
-    "column": 3,
-    "line": 37,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Amygdala),"
-    ],
-    "page": 837,
-    "column": 3,
-    "line": 40,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Paratapes),"
-    ],
-    "page": 837,
-    "column": 3,
+    "column": 1,
     "line": 44,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Jegumen, 165, 480, 581, 862, 936,"
+    "bounding_box": [
+      57,
+      845,
+      102,
+      19
     ],
-    "page": 838,
-    "column": 1,
-    "line": 2,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Taphanus, 133."
+      "-- faleatus, 699, 1388."
     ],
-    "page": 838,
+    "page": 837,
     "column": 1,
-    "line": 5,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1329, 1355, 1357, 1364."
+    "line": 60,
+    "bounding_box": [
+      59,
+      1153,
+      100,
+      18
     ],
-    "page": 838,
-    "column": 1,
-    "line": 16,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Tigida, 263, 1292,"
+      "Tigida, 263, 1292."
     ],
     "page": 838,
     "column": 1,
     "line": 20,
+    "bounding_box": [
+      43,
+      403,
+      121,
+      20
+    ],
     "message": "species"
-  },
-  {
-    "texts": [
-      "(Carijoa),"
-    ],
-    "page": 838,
-    "column": 1,
-    "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Trapicola, 373, 1367."
-    ],
-    "page": 838,
-    "column": 1,
-    "line": 23,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Angulus),"
-    ],
-    "page": 838,
-    "column": 1,
-    "line": 31,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Arcopagis),"
-    ],
-    "page": 838,
-    "column": 1,
-    "line": 37,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Macoma),"
-    ],
-    "page": 838,
-    "column": 1,
-    "line": 40,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Tellinella),"
-    ],
-    "page": 838,
-    "column": 1,
-    "line": 44,
-    "message": "invalid line"
   },
   {
     "texts": [
@@ -7746,124 +4401,43 @@
     "page": 838,
     "column": 1,
     "line": 48,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Lanice), 279, 1319."
+    "bounding_box": [
+      18,
+      986,
+      141,
+      18
     ],
-    "page": 838,
-    "column": 2,
-    "line": 17,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Mmuscaria, 654, 140)."
-    ],
-    "page": 838,
-    "column": 2,
-    "line": 34,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Myurella),"
-    ],
-    "page": 838,
-    "column": 2,
-    "line": 38,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Vitrea, 422, 1313, 1357."
-    ],
-    "page": 838,
-    "column": 2,
-    "line": 58,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Dboreale, 152, 164, 1297, 1301,"
-    ],
-    "page": 838,
-    "column": 3,
-    "line": 18,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Micropora, $82."
-    ],
-    "page": 838,
-    "column": 3,
-    "line": 25,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Merguiensis, 689, 1365."
-    ],
-    "page": 838,
-    "column": 3,
-    "line": 51,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "zl quadricornis, 1015,"
+      "| quadricornis, 1015,"
     ],
     "page": 839,
     "column": 1,
     "line": 8,
-    "message": "genus"
+    "bounding_box": [
+      0,
+      153,
+      166,
+      20
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "~~ forcipatus, 1263."
+      "* forcipatus, 1263."
     ],
     "page": 839,
     "column": 1,
     "line": 48,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Imarmorata, 659, 1421."
+    "bounding_box": [
+      16,
+      991,
+      150,
+      19
     ],
-    "page": 839,
-    "column": 2,
-    "line": 4,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vermiculata, 861, 1421."
-    ],
-    "page": 839,
-    "column": 2,
-    "line": 5,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jugosa, 685."
-    ],
-    "page": 839,
-    "column": 2,
-    "line": 31,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tugosa, 630, 862."
-    ],
-    "page": 839,
-    "column": 2,
-    "line": 37,
-    "message": "species"
+    "message": "invalid genus line"
   },
   {
     "texts": [
@@ -7872,160 +4446,28 @@
     "page": 839,
     "column": 2,
     "line": 39,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Intermedia, 701, 1393."
+    "bounding_box": [
+      47,
+      801,
+      110,
+      18
     ],
-    "page": 839,
-    "column": 2,
-    "line": 51,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Aeipetes),"
+      "triradiatum, 1136."
     ],
     "page": 839,
     "column": 3,
-    "line": 6,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "O15, 517."
+    "line": 50,
+    "bounding_box": [
+      0,
+      1023,
+      167,
+      19
     ],
-    "page": 839,
-    "column": 3,
-    "line": 29,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tenovatus, 518, 1292. |"
-    ],
-    "page": 840,
-    "column": 1,
-    "line": 2,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Icosactis, 957. |"
-    ],
-    "page": 840,
-    "column": 1,
-    "line": 21,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Geothelphusa), |"
-    ],
-    "page": 840,
-    "column": 1,
-    "line": 34,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Potamonautes), |"
-    ],
-    "page": 840,
-    "column": 1,
-    "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Minerve, 1023. |"
-    ],
-    "page": 840,
-    "column": 2,
-    "line": 37,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Vanitatis, 1226."
-    ],
-    "page": 840,
-    "column": 3,
-    "line": 4,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Donaria, 530,"
-    ],
-    "page": 840,
-    "column": 3,
-    "line": 15,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Bagitta, 958,"
-    ],
-    "page": 840,
-    "column": 3,
-    "line": 47,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tramosa, 1041."
-    ],
-    "page": 841,
-    "column": 1,
-    "line": 10,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1026, 1037, 1067, 1092, 1111,"
-    ],
-    "page": 841,
-    "column": 2,
-    "line": 3,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Daresi, 1171, 1421."
-    ],
-    "page": 841,
-    "column": 2,
-    "line": 43,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Daculatus, 631, 641, 687, 563."
-    ],
-    "page": 841,
-    "column": 2,
-    "line": 56,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1428, 1447."
-    ],
-    "page": 841,
-    "column": 3,
-    "line": 37,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Maniculata, 950."
-    ],
-    "page": 842,
-    "column": 1,
-    "line": 33,
-    "message": "species"
+    "message": "genus"
   },
   {
     "texts": [
@@ -8034,15 +4476,27 @@
     "page": 842,
     "column": 1,
     "line": 54,
+    "bounding_box": [
+      72,
+      1108,
+      91,
+      21
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Jorma tetragona, 760."
+      "Jorma tetragona, 760,"
     ],
     "page": 842,
     "column": 1,
     "line": 60,
+    "bounding_box": [
+      72,
+      1233,
+      91,
+      21
+    ],
     "message": "species"
   },
   {
@@ -8052,6 +4506,12 @@
     "page": 842,
     "column": 2,
     "line": 16,
+    "bounding_box": [
+      58,
+      324,
+      98,
+      20
+    ],
     "message": "species"
   },
   {
@@ -8061,33 +4521,27 @@
     "page": 842,
     "column": 2,
     "line": 17,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tivale, 939. |"
+    "bounding_box": [
+      58,
+      345,
+      98,
+      20
     ],
-    "page": 842,
-    "column": 2,
-    "line": 20,
     "message": "species"
   },
   {
     "texts": [
-      "Trobertsianuin, 760, 812. |"
-    ],
-    "page": 842,
-    "column": 2,
-    "line": 21,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Jorma quadrata, 733."
+      "Sorma quadrata, 733."
     ],
     "page": 842,
     "column": 2,
     "line": 23,
+    "bounding_box": [
+      59,
+      470,
+      97,
+      20
+    ],
     "message": "species"
   },
   {
@@ -8097,33 +4551,12 @@
     "page": 842,
     "column": 2,
     "line": 26,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tumescens, 905, 939,"
+    "bounding_box": [
+      59,
+      533,
+      97,
+      20
     ],
-    "page": 842,
-    "column": 2,
-    "line": 28,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Venulosum, 198."
-    ],
-    "page": 842,
-    "column": 2,
-    "line": 30,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Tregulare, 1061]."
-    ],
-    "page": 842,
-    "column": 3,
-    "line": 40,
     "message": "species"
   },
   {
@@ -8133,726 +4566,177 @@
     "page": 842,
     "column": 3,
     "line": 43,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Spinigera, 1217,"
+    "bounding_box": [
+      27,
+      891,
+      139,
+      20
     ],
-    "page": 842,
-    "column": 3,
-    "line": 59,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(SUMMARY OF RESULTS CHALL. \u00a3E:"
+      "(SUMMARY OF RESULTS CHALL. E:"
     ],
     "page": 843,
     "column": 1,
     "line": 61,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tentellipsis, 875."
+    "bounding_box": [
+      15,
+      1264,
+      148,
+      22
     ],
-    "page": 843,
-    "column": 2,
-    "line": 5,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Tramosa, 880, 1011, 1046."
+      "YTamosa, 880, 1011, 1046."
     ],
     "page": 843,
     "column": 2,
     "line": 20,
+    "bounding_box": [
+      31,
+      406,
+      125,
+      18
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "(Cabestana),"
-    ],
-    "page": 843,
-    "column": 2,
-    "line": 34,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cymatiuin),"
-    ],
-    "page": 843,
-    "column": 2,
-    "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Distorsio),"
-    ],
-    "page": 843,
-    "column": 2,
-    "line": 38,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Epidromus), 542, 1407."
-    ],
-    "page": 843,
-    "column": 2,
-    "line": 40,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Gutturnium),"
-    ],
-    "page": 843,
-    "column": 2,
-    "line": 41,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Lagena), 439, 1350."
-    ],
-    "page": 843,
-    "column": 2,
-    "line": 44,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Simpulum),"
-    ],
-    "page": 843,
-    "column": 2,
-    "line": 47,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "p.-1894.)"
+      "p.- 1894.)"
     ],
     "page": 843,
     "column": 2,
     "line": 61,
+    "bounding_box": [
+      0,
+      1264,
+      119,
+      24
+    ],
     "message": "genus"
   },
   {
     "texts": [
-      "Htuiformis, 181, 200, 256, 353,"
-    ],
-    "page": 843,
-    "column": 3,
-    "line": 11,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Bankivia),"
-    ],
-    "page": 843,
-    "column": 3,
-    "line": 54,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Bembix),"
-    ],
-    "page": 843,
-    "column": 3,
-    "line": 56,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Chlorostoma),"
-    ],
-    "page": 843,
-    "column": 3,
-    "line": 58,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Chrysostoma),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 2,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Clanculus),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 4,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Diloma),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 9,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Elenchus),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 11,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Euchelus),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 13,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Gibbula), 786, 1408."
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 17,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Leiopyrga),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 20,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Margarita), 1191, 1322."
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 22,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Moniea),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 44,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Monodonta),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 47,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Omphalius),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 49,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Oxystele),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 51,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Photinula),"
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 53,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Solariella), 706, 1408."
-    ],
-    "page": 844,
-    "column": 1,
-    "line": 58,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Trochocochlea),"
+      "$54, 424, 427, 449, 481, 486,"
     ],
     "page": 844,
     "column": 2,
-    "line": 5,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Ziziphinus),"
+    "line": 57,
+    "bounding_box": [
+      44,
+      1123,
+      104,
+      18
     ],
-    "page": 844,
-    "column": 2,
-    "line": 8,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Kerguelarum, 465, 1338."
-    ],
-    "page": 844,
-    "column": 2,
-    "line": 36,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Baidingerii, 134, 139, 182, 424,"
-    ],
-    "page": 844,
-    "column": 2,
-    "line": 51,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1003, 1026, 1087, 1067, 1072,"
+      "$19, 512, 522, 529, 582, 640,"
     ],
     "page": 844,
     "column": 3,
-    "line": 2,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(1085, 1092, 1112, 1126, 1182,"
+    "line": 31,
+    "bounding_box": [
+      42,
+      608,
+      118,
+      17
     ],
-    "page": 844,
-    "column": 3,
-    "line": 3,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "$54,"
-    ],
-    "page": 844,
-    "column": 3,
-    "line": 19,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "$54, 424, 42/7, 400, \u00a347, Sev,"
+      "$54, 424, 427, 430, 449, O2y,"
     ],
     "page": 844,
     "column": 3,
     "line": 40,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Musica, 823, 1367."
+    "bounding_box": [
+      42,
+      786,
+      118,
+      18
     ],
-    "page": 845,
-    "column": 1,
-    "line": 5,
-    "message": "species"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Bolina),"
-    ],
-    "page": 845,
-    "column": 1,
-    "line": 27,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Calcar),"
-    ],
-    "page": 845,
-    "column": 1,
-    "line": 29,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Collonia),"
-    ],
-    "page": 845,
-    "column": 1,
-    "line": 31,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Lunella),"
-    ],
-    "page": 845,
-    "column": 1,
-    "line": 33,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Ninella),"
-    ],
-    "page": 845,
-    "column": 1,
-    "line": 36,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Senectus),"
-    ],
-    "page": 845,
-    "column": 1,
-    "line": 38,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Uvanilla),"
-    ],
-    "page": 845,
-    "column": 1,
-    "line": 41,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Jamellosa, 642, 1408,"
+      "Jamellosa, 542, 1408."
     ],
     "page": 845,
     "column": 1,
     "line": 59,
+    "bounding_box": [
+      43,
+      1236,
+      121,
+      19
+    ],
     "message": "species"
   },
   {
     "texts": [
-      "Tuncinata, 542, 1408."
-    ],
-    "page": 845,
-    "column": 2,
-    "line": 3,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Eglisia),"
-    ],
-    "page": 845,
-    "column": 2,
-    "line": 5,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kerguelenensis, 470, 963, 1286,"
-    ],
-    "page": 845,
-    "column": 2,
-    "line": 45,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1290, 1340, 1447."
-    ],
-    "page": 845,
-    "column": 2,
-    "line": 46,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(10938, 1121, 1137, 1207, 1266."
-    ],
-    "page": 845,
-    "column": 3,
-    "line": 15,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kkaianus, 731, 749, 1854, 1360,"
-    ],
-    "page": 845,
-    "column": 3,
-    "line": 31,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Tornatina), 713, 1076, 1409."
+      "Jeucus, 268, 1309. |"
     ],
     "page": 846,
     "column": 1,
-    "line": 9,
-    "message": "invalid line"
+    "line": 2,
+    "bounding_box": [
+      43,
+      26,
+      123,
+      19
+    ],
+    "message": "species"
   },
   {
     "texts": [
-      "(1495."
+      "$54, 481, 486, 511, 522, 529,"
     ],
     "page": 846,
-    "column": 2,
-    "line": 12,
-    "message": "invalid line"
+    "column": 1,
+    "line": 28,
+    "bounding_box": [
+      61,
+      572,
+      105,
+      18
+    ],
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "(Anaitis),"
+      "$54, 681, 640, 641, 1071,"
     ],
     "page": 846,
-    "column": 2,
-    "line": 30,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Antigona),"
-    ],
-    "page": 846,
-    "column": 2,
-    "line": 32,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Chamelrma),"
-    ],
-    "page": 846,
-    "column": 2,
+    "column": 1,
     "line": 35,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Chione),"
+    "bounding_box": [
+      94,
+      719,
+      72,
+      17
     ],
-    "page": 846,
-    "column": 2,
-    "line": 38,
-    "message": "invalid line"
+    "message": "invalid species line"
   },
   {
     "texts": [
-      "Jjacksoni, 563, 1398."
-    ],
-    "page": 846,
-    "column": 2,
-    "line": 43,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(Gomphina),"
-    ],
-    "page": 846,
-    "column": 2,
-    "line": 53,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Leukoma),"
-    ],
-    "page": 846,
-    "column": 2,
-    "line": 55,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Ventricola),"
-    ],
-    "page": 846,
-    "column": 2,
-    "line": 57,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "+Vitrularia,"
-    ],
-    "page": 847,
-    "column": 1,
-    "line": 16,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Alcithoe),"
-    ],
-    "page": 847,
-    "column": 1,
-    "line": 25,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Cymbiola),"
-    ],
-    "page": 847,
-    "column": 1,
-    "line": 27,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Scaphella),"
-    ],
-    "page": 847,
-    "column": 1,
-    "line": 30,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Vespertilio),"
-    ],
-    "page": 847,
-    "column": 1,
-    "line": 33,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "(Volutilithes),"
-    ],
-    "page": 847,
-    "column": 1,
-    "line": 38,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "-(Zidona),"
-    ],
-    "page": 847,
-    "column": 1,
-    "line": 41,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Kerguelenensis, 441, 476, 486,"
-    ],
-    "page": 847,
-    "column": 1,
-    "line": 54,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1059."
-    ],
-    "page": 847,
-    "column": 2,
-    "line": 21,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Intermedia, 683."
-    ],
-    "page": 847,
-    "column": 2,
-    "line": 50,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "Mmargaritea, 697, 1384."
-    ],
-    "page": 847,
-    "column": 2,
-    "line": 51,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "(1059."
-    ],
-    "page": 847,
-    "column": 3,
-    "line": 46,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "/anciifer,"
-    ],
-    "page": 848,
-    "column": 1,
-    "line": 10,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "\u201conarium,"
-    ],
-    "page": 848,
-    "column": 1,
-    "line": 34,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "_ tetratholium, 949, 1046."
-    ],
-    "page": 848,
-    "column": 2,
-    "line": 3,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "\u00abdizonium, 1022,"
-    ],
-    "page": 848,
-    "column": 3,
-    "line": 23,
-    "message": "invalid line"
-  },
-  {
-    "texts": [
-      "Tamosus, 95/."
+      "Tamosus, 957."
     ],
     "page": 848,
     "column": 3,
     "line": 28,
+    "bounding_box": [
+      28,
+      571,
+      138,
+      18
+    ],
     "message": "species"
   },
   {
@@ -8862,16 +4746,13 @@
     "page": 848,
     "column": 3,
     "line": 32,
-    "message": "species"
-  },
-  {
-    "texts": [
-      "-- (7),"
+    "bounding_box": [
+      12,
+      695,
+      154,
+      19
     ],
-    "page": 848,
-    "column": 3,
-    "line": 33,
-    "message": "invalid line"
+    "message": "species"
   },
   {
     "texts": [
@@ -8879,16 +4760,43 @@
     ],
     "page": 848,
     "column": 3,
-    "line": 35,
-    "message": "invalid line"
+    "line": 33,
+    "bounding_box": [
+      0,
+      717,
+      120,
+      18
+    ],
+    "message": "invalid genus line"
   },
   {
     "texts": [
-      "- (tf),"
+      "- (ft),"
+    ],
+    "page": 848,
+    "column": 3,
+    "line": 35,
+    "bounding_box": [
+      0,
+      758,
+      120,
+      19
+    ],
+    "message": "invalid genus line"
+  },
+  {
+    "texts": [
+      "- (?),"
     ],
     "page": 848,
     "column": 3,
     "line": 37,
-    "message": "invalid line"
+    "bounding_box": [
+      0,
+      801,
+      120,
+      17
+    ],
+    "message": "invalid genus line"
   }
 ]
