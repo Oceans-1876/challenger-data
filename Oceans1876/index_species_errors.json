@@ -1,0 +1,3586 @@
+[
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALL. EXP."
+    ],
+    "page": 739,
+    "column": 1,
+    "line": 43,
+    "bounding_box": [
+      0,
+      898,
+      165,
+      23
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-1894.)"
+    ],
+    "page": 739,
+    "column": 2,
+    "line": 43,
+    "bounding_box": [
+      0,
+      900,
+      95,
+      22
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$08, 403, 938."
+    ],
+    "page": 741,
+    "column": 2,
+    "line": 28,
+    "bounding_box": [
+      49,
+      583,
+      111,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "peer 550, 1851."
+    ],
+    "page": 741,
+    "column": 2,
+    "line": 50,
+    "bounding_box": [
+      0,
+      1053,
+      160,
+      41
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "tea, 1451."
+    ],
+    "page": 741,
+    "column": 3,
+    "line": 27,
+    "bounding_box": [
+      0,
+      561,
+      135,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$30, 334, 380, 382, 383, 495,"
+    ],
+    "page": 742,
+    "column": 1,
+    "line": 29,
+    "bounding_box": [
+      62,
+      599,
+      104,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$42, 353, 480, 581, 689, 671,"
+    ],
+    "page": 742,
+    "column": 3,
+    "line": 38,
+    "bounding_box": [
+      44,
+      774,
+      127,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "ati 1269."
+    ],
+    "page": 743,
+    "column": 2,
+    "line": 25,
+    "bounding_box": [
+      0,
+      528,
+      159,
+      40
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "+ See ee aL ra: |"
+    ],
+    "page": 744,
+    "column": 1,
+    "line": 2,
+    "bounding_box": [
+      31,
+      30,
+      135,
+      41
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1425, 1441, 1447."
+    ],
+    "page": 744,
+    "column": 3,
+    "line": 3,
+    "bounding_box": [
+      43,
+      51,
+      130,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ". oblonga, 568, 1398."
+    ],
+    "page": 744,
+    "column": 3,
+    "line": 26,
+    "bounding_box": [
+      0,
+      538,
+      173,
+      21
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$54, 512, 582, 640, 903, 965,"
+    ],
+    "page": 745,
+    "column": 1,
+    "line": 9,
+    "bounding_box": [
+      56,
+      164,
+      95,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$28, 384, 388, 389, 495, 498, 5625,"
+    ],
+    "page": 746,
+    "column": 2,
+    "line": 2,
+    "bounding_box": [
+      0,
+      35,
+      150,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALL. EXP."
+    ],
+    "page": 747,
+    "column": 1,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1306,
+      165,
+      22
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "* abyssicola, 680, 1080, 1286, 1289,"
+    ],
+    "page": 747,
+    "column": 2,
+    "line": 6,
+    "bounding_box": [
+      14,
+      128,
+      145,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1442. |"
+    ],
+    "page": 747,
+    "column": 2,
+    "line": 14,
+    "bounding_box": [
+      46,
+      300,
+      100,
+      15
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-1894.)"
+    ],
+    "page": 747,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1305,
+      101,
+      24
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$53, 449, 581, 876, 986, 956,"
+    ],
+    "page": 748,
+    "column": 1,
+    "line": 9,
+    "bounding_box": [
+      59,
+      177,
+      105,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-vesiculosa, 738, 1317."
+    ],
+    "page": 748,
+    "column": 2,
+    "line": 9,
+    "bounding_box": [
+      30,
+      177,
+      129,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ""
+    ],
+    "page": 748,
+    "column": 3,
+    "line": 3,
+    "bounding_box": [
+      44,
+      50,
+      95,
+      16
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1208, 1207, 1209, 1221, 1223,"
+    ],
+    "page": 749,
+    "column": 2,
+    "line": 53,
+    "bounding_box": [
+      48,
+      1093,
+      112,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "dendroceros, 950, 958, 958. ."
+    ],
+    "page": 750,
+    "column": 1,
+    "line": 2,
+    "bounding_box": [
+      0,
+      31,
+      165,
+      24
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "oylindrica, 618, 839, 1315. ;"
+    ],
+    "page": 750,
+    "column": 1,
+    "line": 33,
+    "bounding_box": [
+      14,
+      670,
+      151,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "_- pacificam, 1104. ."
+    ],
+    "page": 750,
+    "column": 1,
+    "line": 41,
+    "bounding_box": [
+      0,
+      839,
+      165,
+      23
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "adeetaieciial"
+    ],
+    "page": 750,
+    "column": 1,
+    "line": 56,
+    "bounding_box": [
+      7,
+      1155,
+      158,
+      42
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "pipetta, 606, 1291."
+    ],
+    "page": 751,
+    "column": 1,
+    "line": 35,
+    "bounding_box": [
+      0,
+      733,
+      170,
+      21
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "sear lewn oie"
+    ],
+    "page": 751,
+    "column": 1,
+    "line": 37,
+    "bounding_box": [
+      7,
+      775,
+      163,
+      42
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "+*  amaryllis, 698, 907, 1384, 1424."
+    ],
+    "page": 751,
+    "column": 1,
+    "line": 46,
+    "bounding_box": [
+      7,
+      988,
+      163,
+      21
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "eee 1086, 1987."
+    ],
+    "page": 751,
+    "column": 3,
+    "line": 1,
+    "bounding_box": [
+      0,
+      8,
+      170,
+      41
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1286."
+    ],
+    "page": 752,
+    "column": 1,
+    "line": 59,
+    "bounding_box": [
+      86,
+      1231,
+      93,
+      16
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1298, 1299, 1307."
+    ],
+    "page": 752,
+    "column": 2,
+    "line": 7,
+    "bounding_box": [
+      49,
+      135,
+      110,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "= decadactylus, 901, 1353,"
+    ],
+    "page": 752,
+    "column": 2,
+    "line": 25,
+    "bounding_box": [
+      30,
+      516,
+      129,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(428, 426, 449, 580, 640. 1066."
+    ],
+    "page": 752,
+    "column": 3,
+    "line": 24,
+    "bounding_box": [
+      44,
+      494,
+      128,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "_- pelagicum, 991."
+    ],
+    "page": 753,
+    "column": 3,
+    "line": 51,
+    "bounding_box": [
+      28,
+      1076,
+      143,
+      25
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ".  Margaritifera, 1199, 1216, 1287,"
+    ],
+    "page": 754,
+    "column": 1,
+    "line": 35,
+    "bounding_box": [
+      4,
+      731,
+      160,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$54, 424, 427, 449, 492, 581,"
+    ],
+    "page": 754,
+    "column": 1,
+    "line": 60,
+    "bounding_box": [
+      60,
+      1260,
+      104,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$54, 449, 581, 663, 686, 937,"
+    ],
+    "page": 754,
+    "column": 2,
+    "line": 36,
+    "bounding_box": [
+      47,
+      751,
+      112,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1425."
+    ],
+    "page": 755,
+    "column": 1,
+    "line": 28,
+    "bounding_box": [
+      109,
+      580,
+      84,
+      15
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "{SUMMARY OF RESULTS CHALL EXP"
+    ],
+    "page": 755,
+    "column": 1,
+    "line": 62,
+    "bounding_box": [
+      44,
+      1282,
+      149,
+      22
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "_ simplex, 305, 1829,"
+    ],
+    "page": 755,
+    "column": 2,
+    "line": 57,
+    "bounding_box": [
+      0,
+      1199,
+      159,
+      21
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-1894.)"
+    ],
+    "page": 755,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1287,
+      100,
+      23
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "a 1258, 1260, 1261."
+    ],
+    "page": 756,
+    "column": 1,
+    "line": 36,
+    "bounding_box": [
+      3,
+      750,
+      163,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ". amphiconiscus, 979."
+    ],
+    "page": 756,
+    "column": 1,
+    "line": 50,
+    "bounding_box": [
+      0,
+      1045,
+      166,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- 1064, 1057, 1062."
+    ],
+    "page": 757,
+    "column": 3,
+    "line": 51,
+    "bounding_box": [
+      0,
+      1073,
+      170,
+      36
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$66, 685."
+    ],
+    "page": 758,
+    "column": 2,
+    "line": 15,
+    "bounding_box": [
+      47,
+      307,
+      111,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "\u201d papillata, 512, 1038, 1044, 1206."
+    ],
+    "page": 758,
+    "column": 3,
+    "line": 55,
+    "bounding_box": [
+      2,
+      1150,
+      177,
+      24
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "; Ceoratocephalus,"
+    ],
+    "page": 759,
+    "column": 1,
+    "line": 59,
+    "bounding_box": [
+      48,
+      1225,
+      149,
+      21
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "h"
+    ],
+    "page": 761,
+    "column": 3,
+    "line": 58,
+    "bounding_box": [
+      0,
+      1248,
+      110,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(8tyliola),"
+    ],
+    "page": 762,
+    "column": 3,
+    "line": 36,
+    "bounding_box": [
+      2,
+      749,
+      141,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(200, 277, 285, 294, 353, 366,"
+    ],
+    "page": 762,
+    "column": 3,
+    "line": 38,
+    "bounding_box": [
+      45,
+      793,
+      125,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1226, 1229, 1269."
+    ],
+    "page": 762,
+    "column": 3,
+    "line": 41,
+    "bounding_box": [
+      46,
+      857,
+      124,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "lionopsis,"
+    ],
+    "page": 762,
+    "column": 3,
+    "line": 52,
+    "bounding_box": [
+      0,
+      1089,
+      125,
+      21
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "lypeaster,"
+    ],
+    "page": 763,
+    "column": 1,
+    "line": 9,
+    "bounding_box": [
+      0,
+      186,
+      153,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-Cocconeis, 197, 442."
+    ],
+    "page": 763,
+    "column": 1,
+    "line": 30,
+    "bounding_box": [
+      0,
+      633,
+      173,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$02, 424, 904, 930,"
+    ],
+    "page": 763,
+    "column": 1,
+    "line": 51,
+    "bounding_box": [
+      73,
+      1058,
+      100,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-Cooculina,"
+    ],
+    "page": 763,
+    "column": 1,
+    "line": 59,
+    "bounding_box": [
+      0,
+      1227,
+      149,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS UBALL. E"
+    ],
+    "page": 763,
+    "column": 1,
+    "line": 62,
+    "bounding_box": [
+      31,
+      1295,
+      142,
+      22
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "p.-1894.)"
+    ],
+    "page": 763,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1293,
+      127,
+      24
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "ollonia (see Turbo)."
+    ],
+    "page": 763,
+    "column": 3,
+    "line": 22,
+    "bounding_box": [
+      0,
+      440,
+      177,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$58, 480, 581, 630, 639, 640,"
+    ],
+    "page": 764,
+    "column": 3,
+    "line": 45,
+    "bounding_box": [
+      41,
+      908,
+      128,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$94, 1013, 1028, 1043, 1119,"
+    ],
+    "page": 765,
+    "column": 2,
+    "line": 22,
+    "bounding_box": [
+      47,
+      456,
+      112,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$08, 405, 930, 1012, 1028,"
+    ],
+    "page": 765,
+    "column": 2,
+    "line": 54,
+    "bounding_box": [
+      50,
+      1136,
+      109,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "impolitus, 516. |"
+    ],
+    "page": 766,
+    "column": 1,
+    "line": 2,
+    "bounding_box": [
+      0,
+      29,
+      166,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$47, 405, 424, 481, 515, 733,"
+    ],
+    "page": 766,
+    "column": 1,
+    "line": 57,
+    "bounding_box": [
+      60,
+      1194,
+      106,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "tted from Station list at Station 187, page"
+    ],
+    "page": 767,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1288,
+      159,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "; ellipsoides, 1040."
+    ],
+    "page": 767,
+    "column": 3,
+    "line": 57,
+    "bounding_box": [
+      0,
+      1198,
+      173,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(Cucumaria,"
+    ],
+    "page": 768,
+    "column": 1,
+    "line": 5,
+    "bounding_box": [
+      0,
+      92,
+      139,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(Culcita,"
+    ],
+    "page": 768,
+    "column": 1,
+    "line": 31,
+    "bounding_box": [
+      0,
+      642,
+      113,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "* australis, 532, 1886."
+    ],
+    "page": 768,
+    "column": 2,
+    "line": 32,
+    "bounding_box": [
+      0,
+      664,
+      159,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$86, 614, 767, 841, 843, 877,"
+    ],
+    "page": 769,
+    "column": 3,
+    "line": 37,
+    "bounding_box": [
+      41,
+      721,
+      115,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-dictyon, 173, 253, 259, 266, 271,"
+    ],
+    "page": 770,
+    "column": 1,
+    "line": 29,
+    "bounding_box": [
+      36,
+      600,
+      128,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-dorsoserrata, 1224, 1306."
+    ],
+    "page": 770,
+    "column": 1,
+    "line": 39,
+    "bounding_box": [
+      36,
+      812,
+      128,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALL. \u00a3"
+    ],
+    "page": 771,
+    "column": 1,
+    "line": 58,
+    "bounding_box": [
+      21,
+      1292,
+      145,
+      24
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$18, 838, 843, 845, 850, 858,"
+    ],
+    "page": 772,
+    "column": 2,
+    "line": 45,
+    "bounding_box": [
+      48,
+      941,
+      111,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-_ macedonaldi, 879, 1415."
+    ],
+    "page": 773,
+    "column": 1,
+    "line": 51,
+    "bounding_box": [
+      44,
+      1075,
+      122,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- diectyota, 1038,"
+    ],
+    "page": 773,
+    "column": 1,
+    "line": 55,
+    "bounding_box": [
+      44,
+      1160,
+      122,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-vesicularis, 687, 717."
+    ],
+    "page": 773,
+    "column": 2,
+    "line": 60,
+    "bounding_box": [
+      30,
+      1265,
+      130,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-vilardeboana, 124, 191, $54, 492,"
+    ],
+    "page": 773,
+    "column": 3,
+    "line": 2,
+    "bounding_box": [
+      27,
+      27,
+      147,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "piles teas"
+    ],
+    "page": 773,
+    "column": 3,
+    "line": 29,
+    "bounding_box": [
+      0,
+      600,
+      174,
+      41
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1268, 1269, |"
+    ],
+    "page": 774,
+    "column": 1,
+    "line": 11,
+    "bounding_box": [
+      67,
+      209,
+      93,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ". willemiesi, 508, 1294,"
+    ],
+    "page": 776,
+    "column": 1,
+    "line": 14,
+    "bounding_box": [
+      0,
+      272,
+      164,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- 778, 799, 884, 852, 940, 986, |"
+    ],
+    "page": 777,
+    "column": 1,
+    "line": 9,
+    "bounding_box": [
+      25,
+      176,
+      143,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1287, 1255, 1257, 1258, 1259, |"
+    ],
+    "page": 777,
+    "column": 1,
+    "line": 11,
+    "bounding_box": [
+      60,
+      219,
+      108,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$65, 387, 446, 455, 520, 521, |"
+    ],
+    "page": 777,
+    "column": 1,
+    "line": 29,
+    "bounding_box": [
+      61,
+      579,
+      107,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "* Eaphausia, 233, 260, 380, 387, 389, 428,"
+    ],
+    "page": 778,
+    "column": 1,
+    "line": 11,
+    "bounding_box": [
+      1,
+      195,
+      161,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1284, 1236, 1245, 1263, 1264, |"
+    ],
+    "page": 778,
+    "column": 1,
+    "line": 26,
+    "bounding_box": [
+      71,
+      491,
+      91,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALL. E"
+    ],
+    "page": 779,
+    "column": 1,
+    "line": 59,
+    "bounding_box": [
+      20,
+      1292,
+      146,
+      22
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "p.-J894.)"
+    ],
+    "page": 779,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1292,
+      128,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "\u201d archiaciana, 686,"
+    ],
+    "page": 779,
+    "column": 3,
+    "line": 39,
+    "bounding_box": [
+      15,
+      814,
+      156,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "~ 34299."
+    ],
+    "page": 779,
+    "column": 3,
+    "line": 58,
+    "bounding_box": [
+      27,
+      1219,
+      124,
+      16
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ", 882, 884, 885, 886, 887, 8&9,"
+    ],
+    "page": 781,
+    "column": 1,
+    "line": 47,
+    "bounding_box": [
+      45,
+      986,
+      120,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(198, 200, 212, 215, 261, 286,"
+    ],
+    "page": 781,
+    "column": 2,
+    "line": 33,
+    "bounding_box": [
+      49,
+      692,
+      110,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1226, 1229, 1281, 1247, 1253."
+    ],
+    "page": 781,
+    "column": 2,
+    "line": 39,
+    "bounding_box": [
+      49,
+      819,
+      110,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$42, 354, 424, 427, 582, 631,"
+    ],
+    "page": 781,
+    "column": 3,
+    "line": 20,
+    "bounding_box": [
+      47,
+      395,
+      123,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "germanus, 836, 887, 895."
+    ],
+    "page": 783,
+    "column": 3,
+    "line": 2,
+    "bounding_box": [
+      0,
+      32,
+      171,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- yyucronatus, 910, 1418."
+    ],
+    "page": 783,
+    "column": 3,
+    "line": 38,
+    "bounding_box": [
+      31,
+      794,
+      140,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$19, 358, 427, 449, 498, 522,"
+    ],
+    "page": 784,
+    "column": 1,
+    "line": 7,
+    "bounding_box": [
+      57,
+      135,
+      107,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ". fasciatus, 927, 1418,"
+    ],
+    "page": 786,
+    "column": 3,
+    "line": 51,
+    "bounding_box": [
+      6,
+      1064,
+      174,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "\u00a722, 1078, 1131."
+    ],
+    "page": 786,
+    "column": 3,
+    "line": 56,
+    "bounding_box": [
+      43,
+      1170,
+      137,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$19, 604, 610, 857, 987, 949."
+    ],
+    "page": 786,
+    "column": 3,
+    "line": 58,
+    "bounding_box": [
+      43,
+      1213,
+      137,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALI. E"
+    ],
+    "page": 787,
+    "column": 1,
+    "line": 62,
+    "bounding_box": [
+      19,
+      1292,
+      146,
+      23
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "p.-1894.)"
+    ],
+    "page": 787,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1293,
+      127,
+      21
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$19, 353, 429, 581, 639, 979,"
+    ],
+    "page": 787,
+    "column": 3,
+    "line": 26,
+    "bounding_box": [
+      48,
+      540,
+      125,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$19, 358, 400, 449, 522, 529,"
+    ],
+    "page": 787,
+    "column": 3,
+    "line": 32,
+    "bounding_box": [
+      49,
+      667,
+      124,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$88, 425, 443, 450, 456, 459,"
+    ],
+    "page": 787,
+    "column": 3,
+    "line": 46,
+    "bounding_box": [
+      46,
+      966,
+      127,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "lIanthella,"
+    ],
+    "page": 788,
+    "column": 1,
+    "line": 27,
+    "bounding_box": [
+      16,
+      600,
+      143,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "lIanthina, 117, 119, 142, 284, 254, 387,"
+    ],
+    "page": 788,
+    "column": 1,
+    "line": 29,
+    "bounding_box": [
+      16,
+      643,
+      164,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "lophon, 1451."
+    ],
+    "page": 788,
+    "column": 2,
+    "line": 45,
+    "bounding_box": [
+      0,
+      919,
+      144,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "bal 1154, 1162."
+    ],
+    "page": 789,
+    "column": 3,
+    "line": 60,
+    "bounding_box": [
+      0,
+      1264,
+      171,
+      17
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$19, 492, 587, 640, 1085. |"
+    ],
+    "page": 790,
+    "column": 1,
+    "line": 39,
+    "bounding_box": [
+      97,
+      801,
+      69,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- var. interrupta, 134, 424."
+    ],
+    "page": 790,
+    "column": 2,
+    "line": 37,
+    "bounding_box": [
+      60,
+      744,
+      96,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "nd"
+    ],
+    "page": 791,
+    "column": 1,
+    "line": 7,
+    "bounding_box": [
+      0,
+      139,
+      123,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "areolata, 899, 1838,"
+    ],
+    "page": 791,
+    "column": 2,
+    "line": 31,
+    "bounding_box": [
+      0,
+      643,
+      157,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "\u201cUamosu, 127, 820, 1398. 1496."
+    ],
+    "page": 793,
+    "column": 1,
+    "line": 8,
+    "bounding_box": [
+      57,
+      160,
+      102,
+      16
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "\" pentastichus, 1118."
+    ],
+    "page": 794,
+    "column": 2,
+    "line": 41,
+    "bounding_box": [
+      31,
+      830,
+      125,
+      21
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$384, 348, 382, 383, 385, 552."
+    ],
+    "page": 795,
+    "column": 1,
+    "line": 57,
+    "bounding_box": [
+      57,
+      1191,
+      106,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS OHALL. E!"
+    ],
+    "page": 795,
+    "column": 1,
+    "line": 61,
+    "bounding_box": [
+      15,
+      1276,
+      148,
+      23
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "p,- 1894.)"
+    ],
+    "page": 795,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1279,
+      118,
+      22
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1425."
+    ],
+    "page": 796,
+    "column": 1,
+    "line": 32,
+    "bounding_box": [
+      64,
+      665,
+      94,
+      15
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$19, 641, 686, 908, 1181, 1154,"
+    ],
+    "page": 797,
+    "column": 2,
+    "line": 21,
+    "bounding_box": [
+      47,
+      434,
+      110,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "aero lecato!\u201cs, 1040."
+    ],
+    "page": 798,
+    "column": 2,
+    "line": 58,
+    "bounding_box": [
+      0,
+      1198,
+      156,
+      43
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "bombus, 881, 1016."
+    ],
+    "page": 798,
+    "column": 3,
+    "line": 13,
+    "bounding_box": [
+      0,
+      256,
+      166,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "\u201d undulatus, 1195, 1419."
+    ],
+    "page": 798,
+    "column": 3,
+    "line": 21,
+    "bounding_box": [
+      17,
+      421,
+      149,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$53, 449, 581, 610, 630, 639,"
+    ],
+    "page": 799,
+    "column": 1,
+    "line": 41,
+    "bounding_box": [
+      69,
+      786,
+      87,
+      16
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "athe 628, 710, 821. 1409."
+    ],
+    "page": 800,
+    "column": 1,
+    "line": 49,
+    "bounding_box": [
+      8,
+      1012,
+      163,
+      40
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "*  endivia, 806, 832, 1403, 1426."
+    ],
+    "page": 800,
+    "column": 3,
+    "line": 32,
+    "bounding_box": [
+      0,
+      662,
+      167,
+      21
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$02, 442, 904, 930, 938,"
+    ],
+    "page": 803,
+    "column": 1,
+    "line": 39,
+    "bounding_box": [
+      63,
+      804,
+      102,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALL. &)"
+    ],
+    "page": 803,
+    "column": 1,
+    "line": 61,
+    "bounding_box": [
+      17,
+      1263,
+      148,
+      22
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "\u00bb,- 1894.)"
+    ],
+    "page": 803,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1265,
+      116,
+      22
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$02, 319, 403, 405, 492, 760,"
+    ],
+    "page": 804,
+    "column": 2,
+    "line": 27,
+    "bounding_box": [
+      42,
+      529,
+      105,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$42, 354, 480, 511, 529, 581,"
+    ],
+    "page": 804,
+    "column": 3,
+    "line": 5,
+    "bounding_box": [
+      40,
+      92,
+      123,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-verruculusa, 1112, 1131."
+    ],
+    "page": 804,
+    "column": 3,
+    "line": 46,
+    "bounding_box": [
+      25,
+      904,
+      138,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$42, 427, 480, 449, 529, 582,"
+    ],
+    "page": 805,
+    "column": 1,
+    "line": 26,
+    "bounding_box": [
+      62,
+      537,
+      103,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "nitidus, 725, 1392."
+    ],
+    "page": 805,
+    "column": 2,
+    "line": 9,
+    "bounding_box": [
+      0,
+      178,
+      157,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ".  lucifaga, 195, 629."
+    ],
+    "page": 805,
+    "column": 2,
+    "line": 36,
+    "bounding_box": [
+      0,
+      745,
+      157,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1445, 1448."
+    ],
+    "page": 805,
+    "column": 3,
+    "line": 25,
+    "bounding_box": [
+      45,
+      553,
+      125,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(Rdiceros, |"
+    ],
+    "page": 806,
+    "column": 2,
+    "line": 40,
+    "bounding_box": [
+      0,
+      834,
+      110,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(strelata, |"
+    ],
+    "page": 806,
+    "column": 2,
+    "line": 42,
+    "bounding_box": [
+      0,
+      875,
+      113,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1257, 1258, 1260, 1261, 1266."
+    ],
+    "page": 806,
+    "column": 2,
+    "line": 52,
+    "bounding_box": [
+      47,
+      1087,
+      109,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "| amblia, 361, i348."
+    ],
+    "page": 806,
+    "column": 2,
+    "line": 60,
+    "bounding_box": [
+      29,
+      1254,
+      127,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "* cornuta, 618, 619, 13817, 1324. |"
+    ],
+    "page": 807,
+    "column": 1,
+    "line": 29,
+    "bounding_box": [
+      32,
+      575,
+      133,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "a flexuosa, 420, 619, 1818, 1825, |"
+    ],
+    "page": 807,
+    "column": 2,
+    "line": 8,
+    "bounding_box": [
+      0,
+      155,
+      156,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ". 1885. |"
+    ],
+    "page": 807,
+    "column": 2,
+    "line": 9,
+    "bounding_box": [
+      0,
+      174,
+      143,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1299, 1804, 1810, 1446. |"
+    ],
+    "page": 807,
+    "column": 2,
+    "line": 35,
+    "bounding_box": [
+      44,
+      722,
+      112,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1278, 1281, 1282, 1304, 1312,"
+    ],
+    "page": 808,
+    "column": 2,
+    "line": 3,
+    "bounding_box": [
+      47,
+      51,
+      109,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$638, 449, 480, 581, 630, 639,"
+    ],
+    "page": 809,
+    "column": 1,
+    "line": 17,
+    "bounding_box": [
+      70,
+      342,
+      100,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "* dispar, 1182."
+    ],
+    "page": 811,
+    "column": 1,
+    "line": 29,
+    "bounding_box": [
+      28,
+      587,
+      140,
+      24
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "+ pacificus, 1003."
+    ],
+    "page": 811,
+    "column": 1,
+    "line": 47,
+    "bounding_box": [
+      37,
+      968,
+      131,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALL, RY"
+    ],
+    "page": 811,
+    "column": 1,
+    "line": 61,
+    "bounding_box": [
+      21,
+      1263,
+      147,
+      22
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-- 1894.)"
+    ],
+    "page": 811,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1266,
+      114,
+      21
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "l'vlamys,"
+    ],
+    "page": 811,
+    "column": 3,
+    "line": 54,
+    "bounding_box": [
+      0,
+      1120,
+      114,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$80, 382, 383, 384, 385, 428,"
+    ],
+    "page": 814,
+    "column": 3,
+    "line": 5,
+    "bounding_box": [
+      44,
+      101,
+      127,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$88, 580, 586, 775, 845, 848, 852, 920, |"
+    ],
+    "page": 815,
+    "column": 1,
+    "line": 9,
+    "bounding_box": [
+      5,
+      179,
+      158,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "_  distriactis, 1095."
+    ],
+    "page": 815,
+    "column": 3,
+    "line": 12,
+    "bounding_box": [
+      0,
+      241,
+      168,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "* affine,"
+    ],
+    "page": 816,
+    "column": 3,
+    "line": 8,
+    "bounding_box": [
+      17,
+      154,
+      118,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "* validus, 835, 1137."
+    ],
+    "page": 817,
+    "column": 3,
+    "line": 39,
+    "bounding_box": [
+      11,
+      728,
+      145,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-tnuberosa, 917, 1316."
+    ],
+    "page": 818,
+    "column": 3,
+    "line": 57,
+    "bounding_box": [
+      29,
+      1126,
+      132,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-verriculata, 427."
+    ],
+    "page": 819,
+    "column": 1,
+    "line": 9,
+    "bounding_box": [
+      44,
+      165,
+      106,
+      16
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$35, 852, 869, 1003."
+    ],
+    "page": 819,
+    "column": 1,
+    "line": 50,
+    "bounding_box": [
+      58,
+      927,
+      92,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALL, F)"
+    ],
+    "page": 819,
+    "column": 1,
+    "line": 62,
+    "bounding_box": [
+      17,
+      1159,
+      133,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "\u00bb-1894.)"
+    ],
+    "page": 819,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1153,
+      104,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1\u00b004. |"
+    ],
+    "page": 821,
+    "column": 2,
+    "line": 50,
+    "bounding_box": [
+      72,
+      942,
+      71,
+      14
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(2294."
+    ],
+    "page": 821,
+    "column": 2,
+    "line": 54,
+    "bounding_box": [
+      41,
+      1019,
+      90,
+      14
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$34, 676, 751, 768, 783, 816. 836 838,"
+    ],
+    "page": 821,
+    "column": 3,
+    "line": 57,
+    "bounding_box": [
+      0,
+      1076,
+      153,
+      16
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$19, 342, 354, 424, 427, 529,"
+    ],
+    "page": 822,
+    "column": 1,
+    "line": 18,
+    "bounding_box": [
+      54,
+      346,
+      99,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$88, 584, 621, 631, 641, 642."
+    ],
+    "page": 822,
+    "column": 1,
+    "line": 44,
+    "bounding_box": [
+      54,
+      860,
+      99,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$54, 427, 449, 512, 522, 529,"
+    ],
+    "page": 822,
+    "column": 2,
+    "line": 11,
+    "bounding_box": [
+      43,
+      210,
+      105,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$42, 427, 430, 449, 512, 622,"
+    ],
+    "page": 822,
+    "column": 3,
+    "line": 7,
+    "bounding_box": [
+      43,
+      131,
+      113,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$42, 355, 427, 631, 640, 641,"
+    ],
+    "page": 822,
+    "column": 3,
+    "line": 22,
+    "bounding_box": [
+      44,
+      429,
+      112,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-s @etopyle, 979, 1046."
+    ],
+    "page": 823,
+    "column": 1,
+    "line": 34,
+    "bounding_box": [
+      41,
+      707,
+      122,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-- novemcinctam, 979."
+    ],
+    "page": 823,
+    "column": 1,
+    "line": 37,
+    "bounding_box": [
+      41,
+      770,
+      122,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-- nodicineta, 655, 1405."
+    ],
+    "page": 823,
+    "column": 1,
+    "line": 40,
+    "bounding_box": [
+      42,
+      833,
+      121,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$27, 388, 525, 528, 601, 616,"
+    ],
+    "page": 823,
+    "column": 2,
+    "line": 5,
+    "bounding_box": [
+      46,
+      94,
+      111,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$53, 427, 498, 511, 529, 581,"
+    ],
+    "page": 824,
+    "column": 1,
+    "line": 12,
+    "bounding_box": [
+      61,
+      238,
+      103,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "| scorpiurus, 139, 145, 166, 181,"
+    ],
+    "page": 824,
+    "column": 1,
+    "line": 14,
+    "bounding_box": [
+      25,
+      280,
+      139,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$54, 582, 641, 686,"
+    ],
+    "page": 824,
+    "column": 2,
+    "line": 21,
+    "bounding_box": [
+      49,
+      427,
+      107,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$65, 1224, |"
+    ],
+    "page": 826,
+    "column": 2,
+    "line": 44,
+    "bounding_box": [
+      47,
+      911,
+      110,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$02, 315, 8320, 889, 425, 443,"
+    ],
+    "page": 826,
+    "column": 3,
+    "line": 24,
+    "bounding_box": [
+      41,
+      493,
+      127,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALL. \u00a31"
+    ],
+    "page": 827,
+    "column": 1,
+    "line": 61,
+    "bounding_box": [
+      17,
+      1268,
+      147,
+      21
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ">, - 1894.)"
+    ],
+    "page": 827,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1267,
+      117,
+      22
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-- ganescens, 1158, 1354."
+    ],
+    "page": 828,
+    "column": 3,
+    "line": 34,
+    "bounding_box": [
+      27,
+      695,
+      139,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "_ platyphylla, 1011."
+    ],
+    "page": 829,
+    "column": 1,
+    "line": 50,
+    "bounding_box": [
+      41,
+      945,
+      109,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- ghemnitzii, 807, 1406."
+    ],
+    "page": 829,
+    "column": 1,
+    "line": 53,
+    "bounding_box": [
+      41,
+      1002,
+      109,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-ventridentatus, 992."
+    ],
+    "page": 829,
+    "column": 2,
+    "line": 58,
+    "bounding_box": [
+      27,
+      1094,
+      115,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ", dodecaster, 1118."
+    ],
+    "page": 830,
+    "column": 3,
+    "line": 6,
+    "bounding_box": [
+      7,
+      114,
+      159,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "ee dae"
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 31,
+    "bounding_box": [
+      9,
+      597,
+      148,
+      34
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "--- dichelum, 650, 1406."
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 38,
+    "bounding_box": [
+      54,
+      747,
+      103,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- gancer, 699, 1406."
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 47,
+    "bounding_box": [
+      55,
+      919,
+      102,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-- gerrulata, 767, 1823."
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 51,
+    "bounding_box": [
+      54,
+      997,
+      103,
+      16
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- gapitatum, 743, 1329."
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 53,
+    "bounding_box": [
+      54,
+      1034,
+      103,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "ee 636, 1364."
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 54,
+    "bounding_box": [
+      10,
+      1054,
+      147,
+      36
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-- godeffroyi, 898,"
+    ],
+    "page": 831,
+    "column": 1,
+    "line": 57,
+    "bounding_box": [
+      55,
+      1131,
+      102,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$24, 479, 504, 609, 836, 843."
+    ],
+    "page": 831,
+    "column": 2,
+    "line": 25,
+    "bounding_box": [
+      0,
+      477,
+      141,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "~ confusa, 165, 956, 964."
+    ],
+    "page": 831,
+    "column": 3,
+    "line": 48,
+    "bounding_box": [
+      25,
+      911,
+      130,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "_ ghallengeri, 452, 507, 1294, 1298."
+    ],
+    "page": 831,
+    "column": 3,
+    "line": 50,
+    "bounding_box": [
+      24,
+      949,
+      131,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "--- parpureus, 85, 242, 270, 1878,"
+    ],
+    "page": 831,
+    "column": 3,
+    "line": 52,
+    "bounding_box": [
+      23,
+      988,
+      132,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(1226, 1229, 1281, 1247, 1253."
+    ],
+    "page": 832,
+    "column": 1,
+    "line": 24,
+    "bounding_box": [
+      61,
+      487,
+      103,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "irula, by Huxley and Pelseneer, appended |"
+    ],
+    "page": 832,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1264,
+      156,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ") this Summary,"
+    ],
+    "page": 832,
+    "column": 3,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1267,
+      150,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      ", Stannoma, 1035, 1049."
+    ],
+    "page": 833,
+    "column": 3,
+    "line": 55,
+    "bounding_box": [
+      0,
+      1141,
+      186,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-longispinus, 355, 1828,"
+    ],
+    "page": 834,
+    "column": 3,
+    "line": 6,
+    "bounding_box": [
+      27,
+      110,
+      140,
+      22
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALL. E"
+    ],
+    "page": 835,
+    "column": 1,
+    "line": 61,
+    "bounding_box": [
+      17,
+      1266,
+      147,
+      22
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "p.-1894.)"
+    ],
+    "page": 835,
+    "column": 2,
+    "line": 62,
+    "bounding_box": [
+      0,
+      1265,
+      120,
+      22
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "\u201d affinis, 164, 1354."
+    ],
+    "page": 835,
+    "column": 3,
+    "line": 15,
+    "bounding_box": [
+      15,
+      299,
+      154,
+      21
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$83, 425, 530, 552, 664, 735, 737,"
+    ],
+    "page": 836,
+    "column": 2,
+    "line": 10,
+    "bounding_box": [
+      0,
+      196,
+      157,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$03, 733, 812, 904, 911, 930,"
+    ],
+    "page": 837,
+    "column": 1,
+    "line": 14,
+    "bounding_box": [
+      72,
+      272,
+      87,
+      16
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-- ghallengeri, 225, 1385."
+    ],
+    "page": 837,
+    "column": 1,
+    "line": 44,
+    "bounding_box": [
+      57,
+      845,
+      102,
+      19
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "-- faleatus, 699, 1388."
+    ],
+    "page": 837,
+    "column": 1,
+    "line": 60,
+    "bounding_box": [
+      59,
+      1153,
+      100,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(-- f),"
+    ],
+    "page": 838,
+    "column": 1,
+    "line": 48,
+    "bounding_box": [
+      18,
+      986,
+      141,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "| quadricornis, 1015,"
+    ],
+    "page": 839,
+    "column": 1,
+    "line": 8,
+    "bounding_box": [
+      0,
+      153,
+      166,
+      20
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "* forcipatus, 1263."
+    ],
+    "page": 839,
+    "column": 1,
+    "line": 48,
+    "bounding_box": [
+      16,
+      991,
+      150,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$57, 1225."
+    ],
+    "page": 839,
+    "column": 2,
+    "line": 39,
+    "bounding_box": [
+      47,
+      801,
+      110,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "triradiatum, 1136."
+    ],
+    "page": 839,
+    "column": 3,
+    "line": 50,
+    "bounding_box": [
+      0,
+      1023,
+      167,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "\u2122margaritacea, 540, 1398,"
+    ],
+    "page": 842,
+    "column": 3,
+    "line": 43,
+    "bounding_box": [
+      27,
+      891,
+      139,
+      20
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "(SUMMARY OF RESULTS CHALL. E:"
+    ],
+    "page": 843,
+    "column": 1,
+    "line": 61,
+    "bounding_box": [
+      15,
+      1264,
+      148,
+      22
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "p.- 1894.)"
+    ],
+    "page": 843,
+    "column": 2,
+    "line": 61,
+    "bounding_box": [
+      0,
+      1264,
+      119,
+      24
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$54, 424, 427, 449, 481, 486,"
+    ],
+    "page": 844,
+    "column": 2,
+    "line": 57,
+    "bounding_box": [
+      44,
+      1123,
+      104,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$19, 512, 522, 529, 582, 640,"
+    ],
+    "page": 844,
+    "column": 3,
+    "line": 31,
+    "bounding_box": [
+      42,
+      608,
+      118,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$54, 424, 427, 430, 449, O2y,"
+    ],
+    "page": 844,
+    "column": 3,
+    "line": 40,
+    "bounding_box": [
+      42,
+      786,
+      118,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$54, 481, 486, 511, 522, 529,"
+    ],
+    "page": 846,
+    "column": 1,
+    "line": 28,
+    "bounding_box": [
+      61,
+      572,
+      105,
+      18
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "$54, 681, 640, 641, 1071,"
+    ],
+    "page": 846,
+    "column": 1,
+    "line": 35,
+    "bounding_box": [
+      94,
+      719,
+      72,
+      17
+    ],
+    "message": "invalid species line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- (),"
+    ],
+    "page": 848,
+    "column": 3,
+    "line": 33,
+    "bounding_box": [
+      0,
+      717,
+      120,
+      18
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- (ft),"
+    ],
+    "page": 848,
+    "column": 3,
+    "line": 35,
+    "bounding_box": [
+      0,
+      758,
+      120,
+      19
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  },
+  {
+    "texts": [
+      "- (?),"
+    ],
+    "page": 848,
+    "column": 3,
+    "line": 37,
+    "bounding_box": [
+      0,
+      801,
+      120,
+      17
+    ],
+    "message": "invalid genus line",
+    "need_verification": false
+  }
+]
