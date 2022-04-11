@@ -10,6 +10,15 @@
         "curation": "Curated",
         "recordCount": 4358539,
         "updatedAt": "2021-06-21",
+        "apiURL":{
+            "aphiaRecordsByID":null,
+            "aphiaRecordsByMatchNames":null,
+            "aphiaSynonymsByID":null,
+            "endpoint":null,
+            "matchedName": "https://api.catalogueoflife.org/name/matching?q={}&verbose=true",
+            "matchedCanonicalFull":null,
+            "matchedCanonicalSimple":null
+        },
         "URL_template": "https://www.catalogueoflife.org/data/taxon/${species_id}"
     },
     {
@@ -23,6 +32,15 @@
         "curation": "Curated",
         "recordCount": 678161,
         "updatedAt": "2021-07-05",
+        "apiURL":{
+            "aphiaRecordsByID":null,
+            "aphiaRecordsByMatchNames":null,
+            "aphiaSynonymsByID":null,
+            "endpoint": "https://species.wikimedia.org/wiki/Special:ApiSandbox homeurl is not having a direct api endpoint",
+            "matchedCanonicalFull":null,
+            "matchedCanonicalSimple":null,
+            "matchedName":null
+        },
         "URL_template": "http://species.wikimedia.org/wiki/${species_id}"
     },
     {
@@ -36,6 +54,15 @@
         "curation": "Curated",
         "recordCount": 859498,
         "updatedAt": "2021-06-23",
+        "apiURL":{
+            "aphiaRecordsByID":null,
+            "aphiaRecordsByMatchNames":null,
+            "aphiaSynonymsByID":null,
+            "endpoint":"no_api_found",
+            "matchedCanonicalFull":null,
+            "matchedCanonicalSimple":null,
+            "matchedName":null
+        },
         "URL_template": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=${species_id}#null"
     },
     {
@@ -49,6 +76,15 @@
         "curation": "NotCurated",
         "recordCount": 2339064,
         "updatedAt": "2021-06-23",
+        "apiURL":{
+            "aphiaRecordsByID":null,
+            "aphiaRecordsByMatchNames":null,
+            "aphiaSynonymsByID":null,
+            "endpoint":"no_api_found",
+            "matchedCanonicalFull":null,
+            "matchedCanonicalSimple":null,
+            "matchedName":null
+        },
         "URL_template": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=${species_id}"
     },
     {
@@ -62,6 +98,15 @@
         "curation": "Curated",
         "recordCount": 547875,
         "updatedAt": "2021-01-07",
+        "apiURL":{
+            "aphiaRecordsByID":null,
+            "aphiaRecordsByMatchNames":null,
+            "aphiaSynonymsByID":null,
+            "endpoint":"no_api_found",
+            "matchedCanonicalFull":null,
+            "matchedCanonicalSimple":null,
+            "matchedName":null
+        },
         "URL_template": "http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=${record_id}"
     },
     {
@@ -74,6 +119,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -86,6 +132,7 @@
         "updatedAt": "2012-08-21",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -99,6 +146,15 @@
         "recordCount": 2392638,
         "updatedAt": "2016-10-21",
         "isOutlinkReady": false,
+        "apiURL":{
+            "aphiaRecordsByID": "https://irmng.org/rest/AphiaRecordByIRMNG_ID/",
+            "aphiaRecordsByMatchNames": "https://irmng.org/rest/AphiaRecordsByMatchNames?",
+            "aphiaSynonymsByID": "https://irmng.org/rest/AphiaSynonymsByIRMNG_ID/",
+            "endpoint":null,
+            "matchedCanonicalFull":null,
+            "matchedCanonicalSimple":null,
+            "matchedName":null
+        },
         "URL_template": "https://irmng.org/aphia.php?p=taxdetails&id=${record_id}"
     },
     {
@@ -112,6 +168,15 @@
         "curation": "Curated",
         "recordCount": 1186652,
         "updatedAt": "2021-06-23",
+        "apiURL":{
+            "aphiaSynonymsByID": "https://marinespecies.org/rest/AphiaSynonymsByAphiaID/",
+            "aphiaRecordsByID": "https://marinespecies.org/rest/AphiaRecordByAphiaID/",
+            "aphiaRecordsByMatchNames": "https://marinespecies.org/rest/AphiaRecordsByMatchNames?",
+            "endpoint":null,
+            "matchedCanonicalFull":null,
+            "matchedCanonicalSimple":null,
+            "matchedName":null
+        },
         "URL_template": "https://marinespecies.org/aphia.php?p=taxdetails&id=${record_id}"
     },
     {
@@ -125,6 +190,7 @@
         "updatedAt": "2012-08-01",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -163,6 +229,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -175,6 +242,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -187,6 +255,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -199,6 +268,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -211,6 +281,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -223,6 +294,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -235,6 +307,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -247,6 +320,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -259,6 +333,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -271,6 +346,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -283,6 +359,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -295,6 +372,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -307,6 +385,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -319,6 +398,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -331,6 +411,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -343,6 +424,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -355,6 +437,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -367,6 +450,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -379,6 +463,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -390,6 +475,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -402,6 +488,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -414,6 +501,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -426,6 +514,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -438,6 +527,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -450,6 +540,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -462,6 +553,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -474,6 +566,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -486,6 +579,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -498,6 +592,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -510,6 +605,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -522,6 +618,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -534,6 +631,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -546,6 +644,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -558,6 +657,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -570,6 +670,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -582,6 +683,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -594,6 +696,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -606,6 +709,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -618,6 +722,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -630,6 +735,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -642,6 +748,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -654,6 +761,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -666,6 +774,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -678,6 +787,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -690,6 +800,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -702,6 +813,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -714,6 +826,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -726,6 +839,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -738,6 +852,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -750,6 +865,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -762,6 +878,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -774,6 +891,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -786,6 +904,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -798,6 +917,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -810,6 +930,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -822,6 +943,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -834,6 +956,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -846,6 +969,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -858,6 +982,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -870,6 +995,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -882,6 +1008,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -907,6 +1034,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -919,6 +1047,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -931,6 +1060,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -943,6 +1073,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -955,6 +1086,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -967,6 +1099,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -979,6 +1112,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -991,6 +1125,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": "https://www.biolib.cz/en/taxon/id${record_id}/"
     },
     {
@@ -1003,6 +1138,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": "https://www.tropicos.org/name/${record_id}"
     },
     {
@@ -1015,6 +1151,7 @@
         "updatedAt": "2012-02-09",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -1028,6 +1165,15 @@
         "curation": "Curated",
         "recordCount": 1779151,
         "updatedAt": "2021-06-24",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":"no_api",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": "https://www.ipni.org/n/${record_id}"
     },
     {
@@ -1041,6 +1187,15 @@
         "curation": "NotCurated",
         "recordCount": 5206388,
         "updatedAt": "2021-01-27",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":"can search on website, no api available",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": "http://www.organismnames.com/details.htm?lsid=${record_id}"
     },
     {
@@ -1053,6 +1208,7 @@
         "updatedAt": "2013-05-31",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": "http://ubio.org/browser/details.php?namebankID=${record_id}"
     },
     {
@@ -1078,6 +1234,7 @@
         "updatedAt": "2014-03-11",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -1117,6 +1274,15 @@
         "curation": "Curated",
         "recordCount": 33993,
         "updatedAt": "2018-08-04",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":"birs species available-no api-excel sheets",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": "https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=${record_id}"
     },
     {
@@ -1130,6 +1296,15 @@
         "curation": "Curated",
         "recordCount": 13785,
         "updatedAt": "2014-12-10",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":"has bird species",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": null
     },
     {
@@ -1142,6 +1317,7 @@
         "updatedAt": "2015-03-03",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -1154,6 +1330,7 @@
         "updatedAt": "2019-11-08",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": "https://www.fishbase.in/summary/${record_id}"
     },
     {
@@ -1166,6 +1343,7 @@
         "updatedAt": "2016-10-18",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -1191,6 +1369,7 @@
         "updatedAt": "2016-10-30",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":null,
         "URL_template": null
     },
     {
@@ -1204,6 +1383,15 @@
         "curation": "Curated",
         "recordCount": 522762,
         "updatedAt": "2021-07-05",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":null,
+            "matchedName": "https://irmng.org/rest/AphiaRecordsByMatchNames?scientificnames[]={}&marine_only=true",
+            "matchedCanonicalSimple": "https://irmng.org/rest/AphiaRecordsByName/{}?offset=1",
+            "matchedCanonicalFull": "https://irmng.org/rest/AphiaRecordsByNames?scientificnames[]={}"
+        },
         "URL_template": "https://irmng.org/aphia.php?p=taxdetails&id=${record_id}"
     },
     {
@@ -1216,6 +1404,7 @@
         "updatedAt": "2019-11-12",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL": null,
         "URL_template": null
     },
     {
@@ -1229,6 +1418,15 @@
         "curation": "Curated",
         "recordCount": 373149,
         "updatedAt": "2020-05-25",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":"no_api_found",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": null
     },
     {
@@ -1242,6 +1440,15 @@
         "curation": "Curated",
         "recordCount": 8921,
         "updatedAt": "2021-07-05",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":"no_api_found",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": "https://www.mammaldiversity.org/explore.html#species-id=${record_id}"
     },
     {
@@ -1255,6 +1462,15 @@
         "curation": "Curated",
         "recordCount": 10964,
         "updatedAt": "2021-01-28",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":"has bird species",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": null
     },
     {
@@ -1268,6 +1484,15 @@
         "curation": "AutoCurated",
         "recordCount": 268608,
         "updatedAt": "2021-02-04",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":"has bird species",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": null
     },
     {
@@ -1281,6 +1506,15 @@
         "curation": "Curated",
         "recordCount": 32509,
         "updatedAt": "2020-05-28",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":"birs species available-no api-excel sheets",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": null
     },
     {
@@ -1294,6 +1528,15 @@
         "curation": "Curated",
         "recordCount": 2154,
         "updatedAt": "2020-05-30",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint":"no_api_found",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": null
     },
     {
@@ -1307,6 +1550,15 @@
         "curation": "Curated",
         "recordCount": 26194,
         "updatedAt": "2020-05-31",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint": "homeurl_not_found",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": null
     },
     {
@@ -1319,6 +1571,15 @@
         "updatedAt": "2021-07-06",
         "isOutlinkReady": false,
         "homeURL": null,
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint": null,
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": null
     },
     {
@@ -1332,6 +1593,15 @@
         "curation": "NotCurated",
         "recordCount": 453117,
         "updatedAt": "2021-06-28",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint": null,
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": "https://www.gbif.org/species/${record_id}"
     },
     {
@@ -1345,6 +1615,15 @@
         "curation": "Curated",
         "recordCount": 163803,
         "updatedAt": "2021-10-21",
+        "apiURL":{
+            "aphiaRecordsByID": null,
+            "aphiaRecordsByMatchNames": null,
+            "aphiaSynonymsByID": null,
+            "endpoint": "https://api.algaebase.org/v1.3/ -- cannot open without key",
+            "matchedCanonicalFull": null,
+            "matchedCanonicalSimple": null,
+            "matchedName": null
+        },
         "URL_template": null
     }
 ]
