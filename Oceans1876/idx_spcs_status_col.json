@@ -1,0 +1,2688 @@
+{
+    "metadata": {
+        "null_entries": 569
+    },
+    "species": {
+        "gn_2175388": {
+            "name": "Acanthastrea irregularis",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12077923
+        },
+        "951043": null,
+        "85K62": {
+            "name": "Caryophyllia (Acanthocyathus) Milne Edwards & Haime, 1848",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 703224
+        },
+        "2828291": null,
+        "106075163": null,
+        "2828159": null,
+        "10808714": null,
+        "2828160": null,
+        "3834673": null,
+        "4333682": null,
+        "3180559": null,
+        "99873581": null,
+        "3180561": null,
+        "52253299": {
+            "name": "Acanthostaurus conacanthus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 6477692
+        },
+        "2828128": null,
+        "934998": {
+            "name": "Acanthostaurus purpurascens",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 554734
+        },
+        "331973": {
+            "name": "Acanthurus rhombeus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12964177
+        },
+        "47016701": {
+            "name": "Aclis minutissima",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13732628
+        },
+        "106332979": null,
+        "11097544": null,
+        "5242576": null,
+        "10295544": {
+            "name": "Acrosphaera echinoides Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12965159
+        },
+        "10387649": {
+            "name": "Acrosphaera erinacea Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12965163
+        },
+        "9900935": {
+            "name": "Acrosphaera inflata Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12965165
+        },
+        "8204126": {
+            "name": "Acteon globulinus (Forbes)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 8291441
+        },
+        "67921": null,
+        "142308634": null,
+        "gn_190677": null,
+        "3926684": null,
+        "3180331": null,
+        "10236960": {
+            "name": "Actissa discoides Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12965280
+        },
+        "10295038": {
+            "name": "Actissa larcoides Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12965286
+        },
+        "10050976": {
+            "name": "Actissa lenticularis Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12965282
+        },
+        "10446423": {
+            "name": "Actissa phacoides Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12965284
+        },
+        "10388161": {
+            "name": "Actissa princeps Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12965289
+        },
+        "9993207": {
+            "name": "Actissa prototypus Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12965291
+        },
+        "SLB:SpecCode:80345": {
+            "name": "Agadina stimpsoni",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12052400
+        },
+        "813874": null,
+        "334377": null,
+        "urn:lsid:marinespecies.org:taxname:961277": {
+            "name": "Alloioneis monodon Brun, 1891",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 807384
+        },
+        "3284394": null,
+        "10517494": {
+            "name": "Amaroucium albidum Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12967372
+        },
+        "9878069": {
+            "name": "Amaroucium complanatum Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12967374
+        },
+        "10121605": {
+            "name": "Amaroucium hepaticum Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12967376
+        },
+        "10166127": {
+            "name": "Amaroucium nigrum Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12967380
+        },
+        "3755608": null,
+        "9040984": {
+            "name": "Ammodiscus spectabilis Brady, 1881",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12967681
+        },
+        "3977868": null,
+        "3977870": null,
+        "106123400": null,
+        "46976720": {
+            "name": "Amphiblestrum cervicornis",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13741443
+        },
+        "3825633": null,
+        "2828167": null,
+        "3180486": null,
+        "3180487": null,
+        "2828169": null,
+        "2828170": null,
+        "2828172": null,
+        "106236335": null,
+        "2828175": null,
+        "urn:lsid:marinespecies.org:taxname:961293": {
+            "name": "Amphiprora antarctica Grunow in Cleve & M\u00f6ller, 1878",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 875399
+        },
+        "102913386": null,
+        "3180660": null,
+        "106280038": null,
+        "348295": {
+            "name": "Amphisile scutata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12967865
+        },
+        "6123514": {
+            "name": "Amphispyris costata Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 6548477
+        },
+        "5241980": null,
+        "3180900": null,
+        "102913341": null,
+        "1149414": null,
+        "gn_236435": null,
+        "gn_123119": null,
+        "gn_123117": null,
+        "133896070": null,
+        "141042385": {
+            "name": "Anguilla aneitensis G\u00fcnther 1870",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12968455
+        },
+        "106010271": null,
+        "3180154": null,
+        "3180155": null,
+        "105969946": null,
+        "3180159": null,
+        "106315852": null,
+        "141043457": {
+            "name": "Apocryptes polyophthalmus G\u00fcnther 1867",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12969582
+        },
+        "3279552": null,
+        "106323918": null,
+        "urn:lsid:marinespecies.org:taxname:1508102": {
+            "name": "Arctus immaturus Spence Bate, 1888",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 13751083
+        },
+        "3954768": null,
+        "gn_22738": null,
+        "4198803": null,
+        "3180470": null,
+        "106331984": null,
+        "3978922": null,
+        "133892703": null,
+        "106164180": null,
+        "106156116": null,
+        "3978469": null,
+        "3180721": null,
+        "106204502": null,
+        "106220632": null,
+        "106026778": null,
+        "10323912": {
+            "name": "Atopogaster informis Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12971537
+        },
+        "4208542": null,
+        "gn_139940": {
+            "name": "Atys parallela (Gould, 1847)",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 8331872
+        },
+        "106018336": null,
+        "3179901": null,
+        "52252945": {
+            "name": "Auloceros arborescens",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 6618842
+        },
+        "3179903": null,
+        "106228122": null,
+        "3179908": null,
+        "3179910": null,
+        "98284601": null,
+        "106252320": null,
+        "98284599": null,
+        "2089239": null,
+        "106276518": null,
+        "3179919": null,
+        "3179920": null,
+        "106300716": null,
+        "3179923": null,
+        "3180001": null,
+        "3180003": null,
+        "3180004": null,
+        "3180005": null,
+        "3180006": null,
+        "106074786": null,
+        "3180010": null,
+        "3716314": null,
+        "3180012": null,
+        "3180014": null,
+        "3180019": null,
+        "3180020": null,
+        "128053": null,
+        "37HV": null,
+        "SLB:SpecCode:142858": {
+            "name": "Balanus corolliformis",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12972430
+        },
+        "7789860": {
+            "name": "Balanus socialis Hoek, 1883",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12972556
+        },
+        "7219071": {
+            "name": "Balanus tenuis Hoek, 1883",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 1378115
+        },
+        "105978126": null,
+        "10221038": {
+            "name": "Bathyoncus discoideus Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12973101
+        },
+        "10462448": {
+            "name": "Bathyoncus minutus Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12973103
+        },
+        "gn_149789": null,
+        "gn_131898": null,
+        "10546520": {
+            "name": "Belonozoum atlanticum Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12973261
+        },
+        "10137304": {
+            "name": "Belonozoum bacillosum Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12973263
+        },
+        "423750": null,
+        "gn_69060": null,
+        "3807410": null,
+        "3911845": {
+            "name": "Branchiostoma cultellum Peters",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 1545735
+        },
+        "10331421": {
+            "name": "Buccinosphaera tubaria Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12974963
+        },
+        "222329": null,
+        "9104114": {
+            "name": "Calcaromma calcarea Thomson, 1878",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12975782
+        },
+        "3954785": null,
+        "9921281": {
+            "name": "Caminosphaera dendrophora Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12976317
+        },
+        "10164827": {
+            "name": "Caminosphaera dichotoma Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12976319
+        },
+        "10122895": {
+            "name": "Caminosphaera furcata Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12976323
+        },
+        "3180472": null,
+        "3180473": null,
+        "3180474": null,
+        "3180478": null,
+        "177754": {
+            "name": "Cannopilus cyrtoides Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11843545
+        },
+        "177756": {
+            "name": "Cannopilus diplostaurus Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11843553
+        },
+        "2572175": null,
+        "106211877": null,
+        "106219942": null,
+        "106228007": null,
+        "3180141": null,
+        "3180143": null,
+        "106260271": null,
+        "10312874": {
+            "name": "Carposphaera nodosa Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12977345
+        },
+        "9962004": {
+            "name": "Caryosphaera hexalepas Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12977385
+        },
+        "10326271": {
+            "name": "Caryosphaera pentalepas Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12977387
+        },
+        "5005608": {
+            "name": "Castanella wyvillei",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13778524
+        },
+        "33001792": {
+            "name": "Castanidium moseleyi",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 1808305
+        },
+        "4033563": null,
+        "9448142": {
+            "name": "Cecryphalium sestrodiscus Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12054560
+        },
+        "4031835": null,
+        "3180489": null,
+        "3180490": null,
+        "3192930": null,
+        "3180600": null,
+        "3180602": null,
+        "840008": null,
+        "3180604": null,
+        "3180605": null,
+        "2670469": null,
+        "gn_128195": null,
+        "3180094": null,
+        "urn:lsid:marinespecies.org:taxname:968578": {
+            "name": "Chaetoceros antarcticum",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 1535646
+        },
+        "4123433": null,
+        "3179957": {
+            "name": "Challengeria murrayi",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 7360564
+        },
+        "3726906": null,
+        "3726908": null,
+        "5986995": {
+            "name": "Challengeron bethelli",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 7360566
+        },
+        "52252950": {
+            "name": "Challengeron tizardi",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 7360575
+        },
+        "33001787": {
+            "name": "Challengeron willemoesii",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 1936727
+        },
+        "142198771": null,
+        "4084929": null,
+        "321496": null,
+        "3374084": null,
+        "3982012": null,
+        "170750": {
+            "name": "Choerops ommopterus (Richardson, 1846)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12433554
+        },
+        "384608": {
+            "name": "Chorinemus toloo",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12980824
+        },
+        "4033625": null,
+        "4033627": null,
+        "187625": null,
+        "3784680": null,
+        "3180170": null,
+        "gn_139184": null,
+        "3180579": null,
+        "3180582": null,
+        "98284591": null,
+        "106268337": null,
+        "106284469": null,
+        "3180254": null,
+        "106316733": null,
+        "106324799": null,
+        "3180520": null,
+        "10437014": {
+            "name": "Clathrosphaera lamellosa Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12981812
+        },
+        "98287176": null,
+        "4107922": null,
+        "urn:lsid:marinespecies.org:taxname:968594": {
+            "name": "Clavicula delicata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 1695720
+        },
+        "346572": {
+            "name": "Clio acicula Yamakawa and Ishikawa 1912",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11362018
+        },
+        "3144247": null,
+        "346575": {
+            "name": "Clio striata Rang 1867",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11362025
+        },
+        "gn_34444": null,
+        "2076944": null,
+        "98284682": null,
+        "106195747": null,
+        "106203812": null,
+        "106147477": null,
+        "3179944": null,
+        "106163605": null,
+        "33001816": {
+            "name": "Coleaspis coronata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 2182591
+        },
+        "52253292": {
+            "name": "Coleaspis vaginata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 7433076
+        },
+        "10227471": {
+            "name": "Collosphaera irregularis Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12982715
+        },
+        "10455990": {
+            "name": "Collosphaera polyedra Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12982717
+        },
+        "10211118": {
+            "name": "Collosphaera primordialis Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12982725
+        },
+        "10060418": {
+            "name": "Collosphaera pyriformis Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12982720
+        },
+        "10472409": {
+            "name": "Collosphaera regularis Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12982727
+        },
+        "10253400": {
+            "name": "Collozoum ovatum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12982740
+        },
+        "10429997": {
+            "name": "Collozoum vermiforme Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12982736
+        },
+        "10185299": {
+            "name": "Collozoum volvocinum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12982731
+        },
+        "172540": null,
+        "7950883": {
+            "name": "Cominella typica",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13794285
+        },
+        "3693402": null,
+        "3726913": null,
+        "99334870": null,
+        "105965401": null,
+        "3180348": null,
+        "3180349": null,
+        "3016575": {
+            "name": "Cornutanna (H.) cyrtoconus Haeckel",
+            "type": "ambiguous",
+            "alternatives": null,
+            "nameKey": 12936890
+        },
+        "1898242": null,
+        "118574": null,
+        "4086113": null,
+        "10302642": {
+            "name": "Coronosphaera calycina Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12983407
+        },
+        "10380460": {
+            "name": "Coronosphaera convolvulus Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12983409
+        },
+        "9908072": {
+            "name": "Coronosphaera diadema Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12983411
+        },
+        "133889721": {
+            "name": "Corticifera tuberculosa",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 2604751
+        },
+        "98287177": null,
+        "3180728": null,
+        "4001836": null,
+        "4033630": null,
+        "4033797": null,
+        "3180351": null,
+        "3180730": null,
+        "3180731": null,
+        "3180355": null,
+        "9882877": {
+            "name": "Cromyosphaera bigemina Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12984502
+        },
+        "10277424": {
+            "name": "Cromyosphaera quadruplex Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12984506
+        },
+        "10010748": {
+            "name": "Cromyosphaera rosetta Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12984508
+        },
+        "10405839": {
+            "name": "Cromyosphaera scorodonium Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12984510
+        },
+        "gn_27241": null,
+        "gn_82251": null,
+        "152707": {
+            "name": "Cubaxonium spongiosum (Haeckel 1887)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 9737722
+        },
+        "102913337": null,
+        "10420230": {
+            "name": "Culeolus willemoesi Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12985085
+        },
+        "2180448": null,
+        "167315": {
+            "name": "Cyclotella castracanei Eulenstein ex Fricke",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 1923335
+        },
+        "142271033": null,
+        "98287178": null,
+        "3180494": null,
+        "3180495": null,
+        "652772": null,
+        "2050623": null,
+        "2928633": null,
+        "3954799": null,
+        "106317225": null,
+        "47032034": {
+            "name": "Dentalium tornatum",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13811275
+        },
+        "47031910": {
+            "name": "Dentalium yokohamense",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13811300
+        },
+        "3954801": null,
+        "3954618": null,
+        "4000999": null,
+        "7697515": {
+            "name": "Diastylis erinaceus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13813495
+        },
+        "7697518": {
+            "name": "Diastylis mystacina",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13813500
+        },
+        "1268411": null,
+        "2091431": null,
+        "52253334": {
+            "name": "Dicranastrum furcatum",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 7530918
+        },
+        "2091432": null,
+        "152568": {
+            "name": "Dictyocephalus amphora (Haeckel) 1887)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 9759457
+        },
+        "1401349": null,
+        "4348061": null,
+        "3147686": null,
+        "109667": null,
+        "3180099": null,
+        "106276895": null,
+        "10454618": {
+            "name": "Didemnum inerme Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12988368
+        },
+        "37808": {
+            "name": "Dimeregramma minus (W.Gregory) Ralfs",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 7536056
+        },
+        "3981829": null,
+        "3180497": null,
+        "106444894": null,
+        "2828188": null,
+        "2828191": null,
+        "1523836": null,
+        "2828299": null,
+        "3725451": null,
+        "3022192": null,
+        "106239708": null,
+        "102913383": null,
+        "3978676": null,
+        "9883046": null,
+        "2679244": null,
+        "33001863": {
+            "name": "Dorataspis micropora",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 2808054
+        },
+        "106066525": {
+            "name": "Dorataspis typica",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 2808061
+        },
+        "129875": null,
+        "98287192": null,
+        "4028764": null,
+        "3180499": null,
+        "372665": null,
+        "2268293": null,
+        "106074589": null,
+        "3180742": null,
+        "4017931": null,
+        "46772533": {
+            "name": "Elasmonotus latifrons",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13826014
+        },
+        "3180359": null,
+        "3180361": null,
+        "3180362": null,
+        "3180363": null,
+        "3180746": null,
+        "3180747": null,
+        "3180748": null,
+        "3726676": null,
+        "52252948": {
+            "name": "Entocannula infundibulum",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 7580135
+        },
+        "3955172": null,
+        "46976320": {
+            "name": "Eschara elegantula",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13833050
+        },
+        "10106269": {
+            "name": "Ethmosphaera conosiphonia Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12992130
+        },
+        "9937893": {
+            "name": "Ethmosphaera leptosiphonia Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12992134
+        },
+        "10577684": {
+            "name": "Ethmosphaera pachysiphonia Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12992138
+        },
+        "10181461": {
+            "name": "Ethmosphaera polysiphonia Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12992132
+        },
+        "10332479": {
+            "name": "Ethmosphaera stenosiphonia Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 12992140
+        },
+        "4134214": null,
+        "945679": null,
+        "57274420": {
+            "name": "Eulimella acerrima",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13835145
+        },
+        "8558752": {
+            "name": "Eupagurus excavatus Pocock, 1889",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11435403
+        },
+        "4017945": null,
+        "85K4D": {
+            "name": "Balanophyllia (Eupsammia) Milne Edwards & Haime, 1848",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 699492
+        },
+        "11006596": null,
+        "4003244": null,
+        "3978930": null,
+        "8951767": {
+            "name": "Flustramorpha hastigera Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12993999
+        },
+        "146856": null,
+        "8833112": {
+            "name": "Fusus setosus R.B.Watson, 1882",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 13842809
+        },
+        "47009847": {
+            "name": "Fusus futile",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 2420344
+        },
+        "3179971": null,
+        "3179972": null,
+        "105937686": null,
+        "106405564": null,
+        "3179976": null,
+        "106421694": null,
+        "3179978": null,
+        "3179979": null,
+        "8927130": {
+            "name": "Gemellipora cribritheca Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12994989
+        },
+        "158149": {
+            "name": "Gephyria incurvata (Arnott) Arnott",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11884007
+        },
+        "1302619": null,
+        "7695298": {
+            "name": "Glaucothoe carinata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13846373
+        },
+        "169220": {
+            "name": "Glyphodesmis fusiformis Cleve & Grove",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 2501947
+        },
+        "141066201": {
+            "name": "Gobius knutteli Bleeker 1858",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12996064
+        },
+        "141066551": {
+            "name": "Gobius yokohamae G\u00fcnther 1877",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12996238
+        },
+        "4123534": null,
+        "urn:lsid:marinespecies.org:taxname:967043": {
+            "name": "Grammatophora adriatica Grunow in Van Heurck, 1881",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 2535209
+        },
+        "154494": {
+            "name": "Grammatophora epsilon Grunow",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 2535489
+        },
+        "169368": {
+            "name": "Grammatophora japonica Pantocsek",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 2535643
+        },
+        "169398": {
+            "name": "Grammatophora ovalauensis Grunow",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11887913
+        },
+        "154265": {
+            "name": "Grammatophora stricta Ehrenberg",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11887920
+        },
+        "urn:lsid:marinespecies.org:taxname:960878": {
+            "name": "Grammatophora subundulata Grunow, 1881",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 2535986
+        },
+        "118870": null,
+        "303946": null,
+        "3179870": null,
+        "8962846": {
+            "name": "Halaphya elongata G\u00fcnther, 1889",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12997173
+        },
+        "03E7237EFFFF4D5DFF77189DF23AF80A": null,
+        "3180368": null,
+        "3180369": null,
+        "3867181": null,
+        "3180372": null,
+        "9596560": {
+            "name": "Haliomma macrodoras Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12058452
+        },
+        "3784994": null,
+        "2928641": null,
+        "3713355": null,
+        "gn_80177": null,
+        "3279578": null,
+        "3180636": null,
+        "9313785": {
+            "name": "Heliodiscus phacodiscus (Haeckel)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12058560
+        },
+        "106294775": null,
+        "3180375": null,
+        "3180379": null,
+        "3180382": null,
+        "3180384": null,
+        "urn:lsid:marinespecies.org:taxname:967060": {
+            "name": "Hemidiscus ventricosus (Castracane) Kuntze, 1898",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 2693563
+        },
+        "46774402": {
+            "name": "Hemipenaeus tomentosus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13856999
+        },
+        "4071060": null,
+        "gn_1373655": {
+            "name": "Hercotheca mamillaris",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 2710754
+        },
+        "3180752": null,
+        "98284571": null,
+        "3180387": null,
+        "3180388": null,
+        "6384450": {
+            "name": "Hexaconus ciliatus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 3867122
+        },
+        "52253293": {
+            "name": "Hexaconus serratus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 7755333
+        },
+        "3180754": null,
+        "3180756": null,
+        "3180758": null,
+        "133870458": null,
+        "4475785": null,
+        "94983813": null,
+        "3180392": null,
+        "3180393": null,
+        "3180396": null,
+        "3180399": null,
+        "3180400": null,
+        "3180401": null,
+        "3180402": null,
+        "3180760": null,
+        "3180761": null,
+        "3180762": null,
+        "3180763": null,
+        "133870459": null,
+        "98287181": null,
+        "3955524": null,
+        "25847": null,
+        "105945866": null,
+        "105937801": null,
+        "141069820": {
+            "name": "Holacanthus cyanotis G\u00fcnther 1860",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12447129
+        },
+        "3191193": null,
+        "106066952": null,
+        "3180502": null,
+        "6384439": {
+            "name": "Hystrichaspis dorsata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4073645
+        },
+        "33001855": {
+            "name": "Hystrichaspis fruticata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4073653
+        },
+        "2914771": {
+            "name": "Icosaspis elegans",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4089476
+        },
+        "4004191": null,
+        "99577376": null,
+        "gn_22739": {
+            "name": "Kraussina pisum",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13872982
+        },
+        "7671232": {
+            "name": "Laetmogone spongiosa",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13873796
+        },
+        "693306": {
+            "name": "Laena dentata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13002577
+        },
+        "10178593": {
+            "name": "Lampoxanthium pandora Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13002787
+        },
+        "9865610": {
+            "name": "Lampoxanthium punctatum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13002785
+        },
+        "127954": null,
+        "52253290": {
+            "name": "Larcidium dodecanthum",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 7843903
+        },
+        "3622172": null,
+        "urn:lsid:marinespecies.org:taxname:962739": {
+            "name": "Lauderia moseleyana Castracane, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 3000708
+        },
+        "4311571": null,
+        "8742158": {
+            "name": "Leonura terminalis Haeckel, 1880",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13003580
+        },
+        "4112192": null,
+        "3976865": null,
+        "10584111": {
+            "name": "Leptoclinum jacksoni Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13004238
+        },
+        "3373853": null,
+        "11069776": null,
+        "129900": null,
+        "8794145": {
+            "name": "Lirus paucidens G\u00fcnther, 1889",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13005476
+        },
+        "4326401": null,
+        "3180772": null,
+        "3180773": null,
+        "3180774": null,
+        "9532342": {
+            "name": "Lithelius solaria Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12060063
+        },
+        "99524509": null,
+        "3924017": null,
+        "219488": null,
+        "4412420": null,
+        "10815155": null,
+        "106317110": null,
+        "2928652": null,
+        "3180776": null,
+        "3180777": null,
+        "3180778": null,
+        "98284851": null,
+        "99654860": {
+            "name": "Loligo ellipsura Hoyle 1885",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13884961
+        },
+        "33001844": {
+            "name": "Lonchostaurus rhombicus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4569507
+        },
+        "4097831": null,
+        "4232678": null,
+        "2928661": null,
+        "33001867": {
+            "name": "Lychnaspis longissma",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4599961
+        },
+        "6384444": {
+            "name": "Lychnaspis serrata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4599968
+        },
+        "99461845": null,
+        "2544022": null,
+        "4036974": null,
+        "4036977": {
+            "name": "Lytocarpus secundus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13888697
+        },
+        "357042": {
+            "name": "Meandrina sinuosissima",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12079705
+        },
+        "402369": null,
+        "57281719": {
+            "name": "Marginella agger",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 9624101
+        },
+        "342421": {
+            "name": "Marginella sagittata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13892579
+        },
+        "169487": {
+            "name": "Mastogloia meleagris (K\u00fctzing) Grunow",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11906905
+        },
+        "10527514": {
+            "name": "Mazosphaera hippotis Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13007648
+        },
+        "9887995": {
+            "name": "Mazosphaera lagotis Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13007650
+        },
+        "106365239": null,
+        "3179982": null,
+        "3179983": null,
+        "106139790": null,
+        "4083571": null,
+        "85K6H": {
+            "name": "Chondrocladia (Meliiderma) Ridley & Dendy, 1887",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 704128
+        },
+        "117220": null,
+        "1818": {
+            "name": "Mesocena octogona Ehrenberg, 1843",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 11908303
+        },
+        "4157414": null,
+        "gn_124630": null,
+        "349582": null,
+        "425G8": {
+            "name": "Mesoprion vitta () non Quoy & Gaimard, 1824",
+            "type": "ambiguous",
+            "alternatives": null,
+            "nameKey": 4805014
+        },
+        "141078276": {
+            "name": "Micropogon ornatus G\u00fcnther 1880",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13900660
+        },
+        "3735352": null,
+        "gn_76608": null,
+        "3727481": null,
+        "3727482": null,
+        "328049": null,
+        "95178775": null,
+        "3233452": null,
+        "gn_117477": null,
+        "gn_122494": null,
+        "gn_129047": null,
+        "8984260": {
+            "name": "Monostomum faba Bremser, 1831",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13010049
+        },
+        "3180666": null,
+        "3812291": {
+            "name": "Montipora erosa ?",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 12079778
+        },
+        "98688092": {
+            "name": "Montipora grandifolia (Dana, 1846)",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 12079788
+        },
+        "98387963": null,
+        "8988055": {
+            "name": "Mucronella magnifica Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13010277
+        },
+        "9059467": {
+            "name": "Mucronella rostrigera Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13010279
+        },
+        "8753811": {
+            "name": "Mucronella simplicissima Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13010281
+        },
+        "8819407": {
+            "name": "Mucronella canalifera Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13010275
+        },
+        "141079316": null,
+        "2271946": null,
+        "2091435": null,
+        "2271947": null,
+        "2091436": null,
+        "2271948": null,
+        "2091437": null,
+        "2271949": null,
+        "397453": null,
+        "8819814": {
+            "name": "Myriozoum immersum Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13011104
+        },
+        "29038": {
+            "name": "Mytilus sulcatus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13666427
+        },
+        "9025878": {
+            "name": "Naresia cyathus Thomson, 1878",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13011706
+        },
+        "141080523": {
+            "name": "Naseus marginatus Valenciennes in Cuvier & Valenciennes 1835",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 12456534
+        },
+        "189506": null,
+        "72722": null,
+        "259816": null,
+        "urn:lsid:marinespecies.org:taxname:620038": null,
+        "6123515": {
+            "name": "Nephrospyris paradictyum Kaeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12061690
+        },
+        "5098695": null,
+        "gn_83603": null,
+        "47485": {
+            "name": "Neptunus pelagicus (Linnaeus, 1758)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 3538357
+        },
+        "4145972": null,
+        "3379594": null,
+        "urn:lsid:marinespecies.org:taxname:963642": {
+            "name": "Nitzschia mammalis Castracane, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 3567268
+        },
+        "7646524": {
+            "name": "Nubecularia tibia",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13914741
+        },
+        "9272754": {
+            "name": "Octodendron spathillatum Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12062032
+        },
+        "106344564": null,
+        "106336499": null,
+        "7980704": {
+            "name": "Odostomia convoluta",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 9800778
+        },
+        "7980710": {
+            "name": "Odostomia dipsycha",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 9800742
+        },
+        "7980721": {
+            "name": "Odostomia homaeotata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13916978
+        },
+        "57274576": {
+            "name": "Odostomia philomelae",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 9800755
+        },
+        "7980745": {
+            "name": "Odostomia phrikalea",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13917032
+        },
+        "57274558": {
+            "name": "Odostomia rhabdoides",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 9800757
+        },
+        "57274572": {
+            "name": "Odostomia rhabdota",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 9800759
+        },
+        "7980760": {
+            "name": "Odostomia scalpidens",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 9800762
+        },
+        "179879": {
+            "name": "Oliva fulgida",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13918059
+        },
+        "287836": null,
+        "3660387": null,
+        "7906298": {
+            "name": "Oodeopus armatus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13919012
+        },
+        "57349151": {
+            "name": "Oodeopus duplex",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13919014
+        },
+        "7906300": {
+            "name": "Oodeopus geminidentatus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13919016
+        },
+        "7906301": {
+            "name": "Oodeopus gibbosus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13919018
+        },
+        "57349150": {
+            "name": "Oodeopus intermedius",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13919020
+        },
+        "7906303": {
+            "name": "Oodeopus longispinus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13919022
+        },
+        "7906304": {
+            "name": "Oodeopus serratus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13919024
+        },
+        "4339131": null,
+        "2670529": null,
+        "2811106": {
+            "name": "Oroscena huxleyi",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 8090227
+        },
+        "171088": {
+            "name": "Orthoneis coronata (T.Brightwell) Grunow ex Moller",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 3716457
+        },
+        "188332": null,
+        "103870": {
+            "name": "Otaria jubata (Schreber 1776)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11573854
+        },
+        "10926773": null,
+        "7906310": {
+            "name": "Parathanas decorticus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13929628
+        },
+        "7906311": {
+            "name": "Parathanas immaturus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13929630
+        },
+        "3851196": null,
+        "4033730": null,
+        "72877": null,
+        "8789293": {
+            "name": "Pentacrinus mollis Carpenter, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13019225
+        },
+        "106318973": null,
+        "2091439": null,
+        "2091440": null,
+        "121040": null,
+        "526661": null,
+        "128929": null,
+        "3180788": null,
+        "98287185": null,
+        "gn_64468": null,
+        "3180793": null,
+        "3180795": null,
+        "106288332": null,
+        "4FVNL": {
+            "name": "Phascolion botulus Selenka, 1885",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 5549847
+        },
+        "7771266": {
+            "name": "Phoberus tenuimanus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13938179
+        },
+        "2670537": null,
+        "133891391": null,
+        "3180504": null,
+        "3180505": null,
+        "3180507": null,
+        "3180509": null,
+        "234452": null,
+        "394731": null,
+        "3180797": null,
+        "172979": {
+            "name": "Plagiogramma lyratum Greville",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 4026409
+        },
+        "gn_67906": null,
+        "gn_113272": null,
+        "gn_151607": null,
+        "gn_130443": null,
+        "4097924": null,
+        "99529": {
+            "name": "Plaxiphora carmichaelis",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13945490
+        },
+        "2670541": null,
+        "10309289": {
+            "name": "Plegmosphaera leptodictyon Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13022696
+        },
+        "9914799": {
+            "name": "Plegmosphaera leptoplegma Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13022699
+        },
+        "10373743": {
+            "name": "Plegmosphaera maxima Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13022692
+        },
+        "154514": {
+            "name": "Pleurosigma antarcticum Grunow",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 4079004
+        },
+        "173637": {
+            "name": "Pleurosigma elegantissimum Castracane",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 4079439
+        },
+        "154495": {
+            "name": "Pleurosigma kerguelense Grunow",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11930543
+        },
+        "261722": null,
+        "4081633": {
+            "name": "Pleurotoma dyscrita St. Thomas",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 10010856
+        },
+        "4081608": {
+            "name": "Pleurotoma (Crassispira) climacota Watson 1881",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13946642
+        },
+        "4081646": {
+            "name": "Pleurotoma incilis",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13946744
+        },
+        "4081636": {
+            "name": "Pleurotoma eritmeta",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13946697
+        },
+        "8QHDN": {
+            "name": "Pleurotoma (Surcula) syngenes Watson, 1881",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 10010850
+        },
+        "152669": {
+            "name": "Podocyrtis triacantha (Ehrenberg 1873)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 10028265
+        },
+        "SLB:SpecCode:151788": {
+            "name": "Polyclinum minutum",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13023399
+        },
+        "8922296": {
+            "name": "Polyplumaria pumila Allman, 1883",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13023527
+        },
+        "3721041": null,
+        "3727095": null,
+        "2670543": null,
+        "3954841": null,
+        "3955631": null,
+        "106397991": null,
+        "89232043": {
+            "name": "Procellaria capen\u017fis Linnaeus 1758",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 385467
+        },
+        "3981517": null,
+        "3180513": null,
+        "10335168": {
+            "name": "Psammaplidium flavum Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13025835
+        },
+        "9953091": {
+            "name": "Psammaplidium rude Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13025839
+        },
+        "10593026": {
+            "name": "Psammaplidium subviride Herdman, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13025843
+        },
+        "3977887": null,
+        "gn_124747": null,
+        "141091640": {
+            "name": "Pseudorhombus hectoris G\u00fcnther 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12466019
+        },
+        "3851208": null,
+        "gn_145299": null,
+        "3982088": null,
+        "6123520": {
+            "name": "Pterocanium orcinum Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12065222
+        },
+        "6123519": {
+            "name": "Pterocanium virgineum Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12065225
+        },
+        "98284537": null,
+        "4055277": null,
+        "143009": null,
+        "102913391": null,
+        "106392954": null,
+        "263122": null,
+        "379988": null,
+        "158978": {
+            "name": "Ranella argus (Gmelin 1791)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11638342
+        },
+        "298111": null,
+        "4098352": null,
+        "8747376": {
+            "name": "Retepora victoriensis Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13028780
+        },
+        "10366166": {
+            "name": "Rhaphidozoum ascensionis Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13028965
+        },
+        "10121856": {
+            "name": "Rhaphidozoum asperum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13028971
+        },
+        "9922331": {
+            "name": "Rhaphidozoum australe Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13028967
+        },
+        "10316863": {
+            "name": "Rhaphidozoum capense Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13028969
+        },
+        "105933141": null,
+        "5375317": null,
+        "98284643": null,
+        "5375322": null,
+        "881668": {
+            "name": "Rhizosphaera trigonacantha",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 8304614
+        },
+        "10627094": {
+            "name": "Rhodosphaera hexagonia Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13029296
+        },
+        "10057264": {
+            "name": "Rhodosphaera melitomma Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13029298
+        },
+        "10230608": {
+            "name": "Rhodosphaera pentaphylla Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13029302
+        },
+        "urn:lsid:marinespecies.org:taxname:967858": {
+            "name": "Rhoicosigma reichardtii Grunow, 1877",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4419493
+        },
+        "99926451": null,
+        "3756095": null,
+        "152638": {
+            "name": "Rhopalocanium ornatum Ehrenberg 1847",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 10144385
+        },
+        "4355712": null,
+        "420456": null,
+        "3180035": null,
+        "106042645": null,
+        "3180044": null,
+        "3180045": null,
+        "3180047": null,
+        "3180037": null,
+        "106010386": null,
+        "3180039": null,
+        "106115221": null,
+        "3180050": null,
+        "3954852": null,
+        "3180464": null,
+        "3180466": null,
+        "2237551": null,
+        "79RMJ": {
+            "name": "Saurus varius () non Lacep\u00e8de, 1803",
+            "type": "ambiguous",
+            "alternatives": null,
+            "nameKey": 6210522
+        },
+        "9067700": {
+            "name": "Scalpellum abyssicola Hoek, 1883",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13030771
+        },
+        "8780889": {
+            "name": "Scalpellum flavum Hoek, 1883",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13030810
+        },
+        "9208532": {
+            "name": "Scalpellum tenue Hoek, 1883",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13030896
+        },
+        "3977043": null,
+        "4033757": null,
+        "4033758": null,
+        "9211757": {
+            "name": "Schizoporella furcata Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13031548
+        },
+        "8844943": {
+            "name": "Schizoporella nivea Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13031552
+        },
+        "47059454": {
+            "name": "Scorpaena zanzibarensis",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13975135
+        },
+        "47039248": {
+            "name": "Scotoplanes mollis",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13975228
+        },
+        "47039247": {
+            "name": "Scotoplanes murrayi",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13975230
+        },
+        "47039246": {
+            "name": "Scotoplanes papillosa",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13975232
+        },
+        "4033763": null,
+        "3977051": null,
+        "4033765": null,
+        "98284533": null,
+        "419024": null,
+        "813920": null,
+        "2670548": null,
+        "3825826": null,
+        "99461854": null,
+        "2303403": null,
+        "10292801": {
+            "name": "Sethosphaera entosiphonia Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13033182
+        },
+        "9995433": {
+            "name": "Sethosphaera entosolenia Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13033184
+        },
+        "3180803": null,
+        "3180804": null,
+        "3180806": null,
+        "3180809": null,
+        "3180808": null,
+        "7PN2P": {
+            "name": "Eutriton (Simpulum) M\u00f6rch, 1852",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 706500
+        },
+        "10319152": {
+            "name": "Siphonosphaera chonophora Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13033885
+        },
+        "10062071": {
+            "name": "Siphonosphaera fragilis Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13033875
+        },
+        "10609196": {
+            "name": "Siphonosphaera macrosiphonia Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13033887
+        },
+        "9831732": {
+            "name": "Siphonosphaera marginata Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13033879
+        },
+        "10457673": {
+            "name": "Siphonosphaera patinaria Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13033883
+        },
+        "9969147": {
+            "name": "Siphonosphaera pipetta Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13033889
+        },
+        "10075019": {
+            "name": "Siphonosphaera serpula Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13033892
+        },
+        "133872282": null,
+        "9026575": {
+            "name": "Smittia marsupialis Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13034218
+        },
+        "9020320": {
+            "name": "Smittia oratavensis Busk, 1884",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13034220
+        },
+        "117547": {
+            "name": "Solecurtus (Azor) coarctatus (Gmelin 1791)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11660087
+        },
+        "10251098": {
+            "name": "Solenosphaera amalthea Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034299
+        },
+        "10432283": {
+            "name": "Solenosphaera cornucopia Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034301
+        },
+        "10036947": {
+            "name": "Solenosphaera pandora Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034293
+        },
+        "193739": null,
+        "9944523": {
+            "name": "Sphaerozoum arborescens Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034946
+        },
+        "10339187": {
+            "name": "Sphaerozoum armatum Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 8404401
+        },
+        "10188166": {
+            "name": "Sphaerozoum circumtextum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034957
+        },
+        "10037555": {
+            "name": "Sphaerozoum hamatum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034934
+        },
+        "10432892": {
+            "name": "Sphaerozoum medusinum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034938
+        },
+        "365455": {
+            "name": "Sphaerozoum ovodimare",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 8404413
+        },
+        "10584455": {
+            "name": "Sphaerozoum quadrigeminum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034951
+        },
+        "10495366": {
+            "name": "Sphaerozoum stellatum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034960
+        },
+        "10250488": {
+            "name": "Sphaerozoum triactinium Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034940
+        },
+        "10343793": {
+            "name": "Sphaerozoum trigeminum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034953
+        },
+        "9856122": {
+            "name": "Sphaerozoum variabile Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13034962
+        },
+        "152641": {
+            "name": "Spongatractus pachystylus (Ehrenberg 1873)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 10242808
+        },
+        "4033677": null,
+        "10083899": {
+            "name": "Spongodictyon arcadophoron Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13035348
+        },
+        "3664946": null,
+        "3369651": null,
+        "135951": null,
+        "9398898": {
+            "name": "Spongotrochus multispinus Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12067150
+        },
+        "3180413": null,
+        "5242009": null,
+        "106078647": null,
+        "106070583": null,
+        "105961996": null,
+        "3954885": {
+            "name": "Stephanidium schulzii Hertwig 1888",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 145016
+        },
+        "3180823": null,
+        "9253153": {
+            "name": "Stichopilium campanulatum Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12067427
+        },
+        "9518005": {
+            "name": "Stichopilium thoracopterum (Haeckel)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12067432
+        },
+        "165709": {
+            "name": "Stictodiscus affinis Castracane",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11955162
+        },
+        "165717": {
+            "name": "Stictodiscus bicoronatus Castracane",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11955163
+        },
+        "urn:lsid:marinespecies.org:taxname:967791": {
+            "name": "Stictodiscus japonicus Castracane, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4785819
+        },
+        "166198": {
+            "name": "Stictodiscus varians Castracane",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 4786202
+        },
+        "10311929": {
+            "name": "Stigmosphaera actinocentra Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13036277
+        },
+        "154493": {
+            "name": "Stoschia admirabilis Janisch",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 4793507
+        },
+        "215501": null,
+        "3954859": null,
+        "3180825": null,
+        "3180826": null,
+        "136025": null,
+        "3180828": null,
+        "4355716": null,
+        "8684259": {
+            "name": "Stylodictya stellata Bailey, 1856",
+            "type": "variant",
+            "alternatives": null,
+            "nameKey": 11479321
+        },
+        "3180830": null,
+        "106406139": null,
+        "106398074": null,
+        "3180421": null,
+        "252018": null,
+        "urn:lsid:marinespecies.org:taxname:965611": {
+            "name": "Synedra philippinarum Castracane, 1886",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4855499
+        },
+        "3978937": null,
+        "4001890": null,
+        "3690692": null,
+        "gn_44733": null,
+        "gn_116788": null,
+        "gn_156366": null,
+        "5576L": {
+            "name": "Tellina (Macoma) uruguayensis E. A. Smith, 1885",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4915247
+        },
+        "5091803": {
+            "name": "Terebratulina caput - serpentis",
+            "type": "ambiguous",
+            "alternatives": null,
+            "nameKey": 7530
+        },
+        "SLB:SpecCode:93075": null,
+        "6123538": {
+            "name": "Tetrapyle circularis Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12068231
+        },
+        "102913387": null,
+        "8447879": {
+            "name": "Tetrapyle quadriloba Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11481132
+        },
+        "3180678": null,
+        "3180680": null,
+        "47059377": null,
+        "3977052": null,
+        "409216": null,
+        "urn:lsid:marinespecies.org:taxname:960571": {
+            "name": "Thalassiosira nordenskioldii Cleve emend Berg, 1952",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 4959338
+        },
+        "10507376": {
+            "name": "Thalassopila cladococcus Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13039089
+        },
+        "10139038": {
+            "name": "Thalassoplancta brevispicula Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13039091
+        },
+        "10210185": {
+            "name": "Thalassosphaera belonium Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13039099
+        },
+        "10276467": {
+            "name": "Thalassoxanthium cervicorne Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13039100
+        },
+        "10011677": {
+            "name": "Thalassoxanthium hexactinium Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13039102
+        },
+        "10652122": {
+            "name": "Thalassoxanthium medusinum Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13039104
+        },
+        "9881930": {
+            "name": "Thalassoxanthium triactinium Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13039109
+        },
+        "10033608": {
+            "name": "Thecosphaera capillacea Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13039199
+        },
+        "10254446": {
+            "name": "Thecosphaera diplococcus Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13039201
+        },
+        "9860032": {
+            "name": "Thecosphaera dodecactis Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13039203
+        },
+        "10010527": {
+            "name": "Thecosphaera entactinia Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13039195
+        },
+        "10428939": {
+            "name": "Thecosphaera icosactis Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13039205
+        },
+        "10499308": {
+            "name": "Thecosphaera maxima Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13039207
+        },
+        "10650964": {
+            "name": "Thecosphaera micropora Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13039197
+        },
+        "3785012": null,
+        "8027915": {
+            "name": "Theocorys minerva",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13998328
+        },
+        "3279618": null,
+        "102913394": null,
+        "106110903": null,
+        "3180916": null,
+        "3180921": null,
+        "106167351": null,
+        "98284525": null,
+        "9514760": {
+            "name": "Tholospyris fenestrata Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12068314
+        },
+        "4028798": null,
+        "3954648": null,
+        "3954650": null,
+        "99617383": null,
+        "7PJSX": null,
+        "2036637": null,
+        "327114": null,
+        "3180835": null,
+        "106349684": null,
+        "99077975": null,
+        "4082244": null,
+        "9114017": {
+            "name": "Trigla macrodactylus G\u00fcnther, 1889",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13041255
+        },
+        "3180515": null,
+        "47105143": null,
+        "3180234": null,
+        "130086": null,
+        "3825918": null,
+        "3180842": null,
+        "360216": null,
+        "594S7": {
+            "name": "Triton costatus Wagler, 1830",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 10376680
+        },
+        "106263906": null,
+        "4003412": null,
+        "4080249": null,
+        "4003403": null,
+        "7984637": {
+            "name": "Trochus azorensis",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 14006514
+        },
+        "47018935": {
+            "name": "Trochus illotus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 14006630
+        },
+        "7984736": {
+            "name": "Trochus pachychiles",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 14006681
+        },
+        "7984744": {
+            "name": "Trochus pompholugotus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 10379475
+        },
+        "47018942": {
+            "name": "Trochus scintillans",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 10379482
+        },
+        "47018992": {
+            "name": "Trochus streptophorus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 14006723
+        },
+        "206465": null,
+        "4130716": null,
+        "57280866": {
+            "name": "Trochus albugo",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 10379511
+        },
+        "3232041": null,
+        "7984762": {
+            "name": "Trochus stirophorus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 10379563
+        },
+        "7984770": {
+            "name": "Trochus transenna",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 14006729
+        },
+        "3690708": null,
+        "9968611": {
+            "name": "Trypanosphaera dentata Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13042231
+        },
+        "10319694": {
+            "name": "Trypanosphaera transformata Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13042229
+        },
+        "106359299": null,
+        "4242996": null,
+        "327391": {
+            "name": "Tubucellaria opuntioides (Pallas 1766)",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 11722123
+        },
+        "98287189": null,
+        "106383494": null,
+        "3180847": null,
+        "407108": null,
+        "gn_147866": null,
+        "gn_19775": null,
+        "SLB:SpecCode:152469": null,
+        "9032246": {
+            "name": "Verruca obliqua Hoek, 1883",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13043595
+        },
+        "8798809": {
+            "name": "Verruca quadrangularis Hoek, 1883",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13043599
+        },
+        "8866261": {
+            "name": "Verruca sulcata Hoek, 1883",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13043608
+        },
+        "358724": {
+            "name": "Voluta sophia",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 14224424
+        },
+        "gn_228807": null,
+        "4494453": null,
+        "9996930": {
+            "name": "Xanthiosphaera capillacea Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13044109
+        },
+        "10291283": {
+            "name": "Xanthiosphaera erinacea Haeckel, 1887",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 13044111
+        },
+        "6123506": {
+            "name": "Xanthiosphaera lappacea Haeckel",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 12069683
+        },
+        "106131841": null,
+        "142308745": null,
+        "489467": {
+            "name": "Xiphacantha quadridentata",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 8613273
+        },
+        "136037": null,
+        "3180424": null,
+        "10514879": {
+            "name": "Xiphosphaera ceres Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044421
+        },
+        "9875472": {
+            "name": "Xiphosphaera clavigera Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044423
+        },
+        "10572793": {
+            "name": "Xiphosphaera euphrosyne Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044397
+        },
+        "10176554": {
+            "name": "Xiphosphaera hebe Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044403
+        },
+        "10327572": {
+            "name": "Xiphosphaera juno Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044417
+        },
+        "9867661": {
+            "name": "Xiphosphaera luna Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044405
+        },
+        "10111127": {
+            "name": "Xiphosphaera maxima Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044407
+        },
+        "9933004": {
+            "name": "Xiphosphaera pallas Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044419
+        },
+        "10025960": {
+            "name": "Xiphosphaera planeta Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044409
+        },
+        "10506969": {
+            "name": "Xiphosphaera venus Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044411
+        },
+        "10413329": {
+            "name": "Xiphosphaera vesta Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044427
+        },
+        "3180432": null,
+        "3180434": null,
+        "10173425": {
+            "name": "Xiphostylus ardea Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044453
+        },
+        "10114284": {
+            "name": "Xiphostylus cuculus Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044439
+        },
+        "3180436": null,
+        "10207496": {
+            "name": "Xiphostylus falco Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044449
+        },
+        "10324433": {
+            "name": "Xiphostylus motacilla Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044435
+        },
+        "10358549": {
+            "name": "Xiphostylus phasianus Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044437
+        },
+        "10569655": {
+            "name": "Xiphostylus picus Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044441
+        },
+        "9929874": {
+            "name": "Xiphostylus trochilus Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044443
+        },
+        "10603857": {
+            "name": "Xiphostylus trogon Haeckel, 1887",
+            "type": "canonical",
+            "alternatives": null,
+            "nameKey": 13044451
+        },
+        "3955377": null,
+        "57349128": {
+            "name": "Zoontocaris approximus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 14018682
+        },
+        "6384431": {
+            "name": "Zygostaurus amphitectus",
+            "type": "exact",
+            "alternatives": null,
+            "nameKey": 6940141
+        }
+    }
+}
