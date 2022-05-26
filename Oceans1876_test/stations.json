@@ -137,7 +137,7 @@
           "Wyville",
           "Thomson"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:124134"
+        "recordId": "3NHT8"
       },
       {
         "cardinality": 1,
@@ -154,7 +154,8 @@
         "wordsAfter": [
           "Station",
           "I."
-        ]
+        ],
+        "recordId": "3547646"
       },
       {
         "cardinality": 1,
@@ -172,7 +173,7 @@
           "Lyman",
           "Zool"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:123084"
+        "recordId": "FH"
       },
       {
         "cardinality": 2,
@@ -190,7 +191,7 @@
           "Lyman",
           "var"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:124878"
+        "recordId": "49XDW"
       },
       {
         "cardinality": 1,
@@ -208,7 +209,7 @@
           "Stebbing",
           "Zool"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1135"
+        "recordId": "MP"
       },
       {
         "cardinality": 2,
@@ -226,7 +227,7 @@
           "n\ufffdg",
           "n\ufffdsp"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1329448"
+        "recordId": "7ZKXH"
       },
       {
         "cardinality": 1,
@@ -244,7 +245,7 @@
           "olfersi\u00ef",
           "Cuvier"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:126196"
+        "recordId": "32RF"
       },
       {
         "cardinality": 1,
@@ -261,7 +262,8 @@
         "wordsAfter": [
           "Recorded",
           "from"
-        ]
+        ],
+        "recordId": "3547646"
       },
       {
         "cardinality": 1,
@@ -279,7 +281,7 @@
           "sp",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:123245"
+        "recordId": "7NPYP"
       },
       {
         "cardinality": 1,
@@ -297,7 +299,7 @@
           "of",
           "two"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:123084"
+        "recordId": "FH"
       },
       {
         "cardinality": 1,
@@ -315,7 +317,7 @@
           "probably",
           "a"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:129443"
+        "recordId": "84NHS"
       },
       {
         "cardinality": 1,
@@ -333,7 +335,7 @@
           "Excluding",
           "the"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:325345"
+        "recordId": "7NFFH"
       },
       {
         "cardinality": 1,
@@ -351,7 +353,7 @@
           "over",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:5"
+        "recordId": "Z"
       },
       {
         "cardinality": 1,
@@ -369,7 +371,7 @@
           "was",
           "found"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:129443"
+        "recordId": "84NHS"
       },
       {
         "cardinality": 1,
@@ -387,7 +389,7 @@
           "and",
           "in"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:129443"
+        "recordId": "84NHS"
       },
       {
         "cardinality": 1,
@@ -405,7 +407,7 @@
           "Amphipoda",
           "and"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:601567"
+        "recordId": "7NWYF"
       },
       {
         "cardinality": 1,
@@ -423,7 +425,7 @@
           "and",
           "Diacria"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1135"
+        "recordId": "MP"
       },
       {
         "cardinality": 1,
@@ -441,7 +443,7 @@
           "\ufffd",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:137755"
+        "recordId": "7NW59"
       },
       {
         "cardinality": 1,
@@ -459,7 +461,7 @@
           "were",
           "obtained"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:137750"
+        "recordId": "7NS65"
       }
     ]
   },
@@ -601,7 +603,7 @@
           "and",
           "Pteropoda"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1066"
+        "recordId": "83677"
       },
       {
         "cardinality": 1,
@@ -619,7 +621,7 @@
           "Between",
           "Vigo"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:325345"
+        "recordId": "7NFFH"
       },
       {
         "cardinality": 1,
@@ -637,7 +639,7 @@
           "Position",
           "at"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1066"
+        "recordId": "83677"
       },
       {
         "cardinality": 1,
@@ -655,7 +657,7 @@
           "were",
           "obtained"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:325345"
+        "recordId": "7NFFH"
       }
     ]
   },
@@ -797,7 +799,7 @@
           "and",
           "Pteropoda"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1066"
+        "recordId": "83677"
       },
       {
         "cardinality": 1,
@@ -815,7 +817,7 @@
           "Between",
           "Vigo"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:325345"
+        "recordId": "7NFFH"
       },
       {
         "cardinality": 1,
@@ -833,7 +835,7 @@
           "Position",
           "at"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1066"
+        "recordId": "83677"
       },
       {
         "cardinality": 1,
@@ -851,7 +853,7 @@
           "were",
           "obtained"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:325345"
+        "recordId": "7NFFH"
       }
     ]
   },
@@ -993,7 +995,7 @@
           "and",
           "Pteropoda"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1066"
+        "recordId": "83677"
       },
       {
         "cardinality": 1,
@@ -1011,7 +1013,7 @@
           "Between",
           "Vigo"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:325345"
+        "recordId": "7NFFH"
       },
       {
         "cardinality": 1,
@@ -1029,7 +1031,7 @@
           "Position",
           "at"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1066"
+        "recordId": "83677"
       },
       {
         "cardinality": 1,
@@ -1047,7 +1049,7 @@
           "were",
           "obtained"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:325345"
+        "recordId": "7NFFH"
       }
     ]
   },
@@ -1188,7 +1190,8 @@
         "wordsAfter": [
           "remained",
           "at"
-        ]
+        ],
+        "recordId": "3547646"
       }
     ]
   },
@@ -1329,7 +1332,8 @@
         "wordsAfter": [
           "see",
           "Stations"
-        ]
+        ],
+        "recordId": "8PRDG"
       },
       {
         "cardinality": 2,
@@ -1347,7 +1351,7 @@
           "d\ufffdorbigny",
           "comata"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:523324"
+        "recordId": "5WL8R"
       },
       {
         "cardinality": 1,
@@ -1382,7 +1386,7 @@
           "limbuta",
           "d\ufffdorbigny"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:112046"
+        "recordId": "7Q2LR"
       },
       {
         "cardinality": 2,
@@ -1400,7 +1404,7 @@
           "Linne",
           "Planispirina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:391210"
+        "recordId": "7XBPX"
       },
       {
         "cardinality": 2,
@@ -1418,7 +1422,7 @@
           "Costa",
           "communis"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:478653"
+        "recordId": "gn_1971242"
       },
       {
         "cardinality": 1,
@@ -1436,7 +1440,7 @@
           "Psammosph\u00e6ra",
           "fusca"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:887548"
+        "recordId": "urn:lsid:irmng.org:taxname:1190681"
       },
       {
         "cardinality": 2,
@@ -1454,7 +1458,7 @@
           "Schulze",
           "Kalamopsis"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:114184"
+        "recordId": "4ND54"
       },
       {
         "cardinality": 1,
@@ -1472,7 +1476,7 @@
           "\ufffd",
           "sp"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:520934"
+        "recordId": "7PLZ5"
       },
       {
         "cardinality": 2,
@@ -1490,7 +1494,7 @@
           "Brady",
           "Rhabdammina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113972"
+        "recordId": "3NNSJ"
       },
       {
         "cardinality": 1,
@@ -1525,7 +1529,7 @@
           "Sars",
           "Botellina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113898"
+        "recordId": "4RVBH"
       },
       {
         "cardinality": 2,
@@ -1543,7 +1547,7 @@
           "Brady",
           "Reophax"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113864"
+        "recordId": "MMYP"
       },
       {
         "cardinality": 1,
@@ -1578,7 +1582,7 @@
           "sp",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:112341"
+        "recordId": "7PXGX"
       },
       {
         "cardinality": 2,
@@ -1596,7 +1600,7 @@
           "Bornemann",
           "Placopsilina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:736638"
+        "recordId": "7WJBR"
       },
       {
         "cardinality": 2,
@@ -1614,7 +1618,7 @@
           "Brady",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:522266"
+        "recordId": "77NND"
       },
       {
         "cardinality": 1,
@@ -1649,7 +1653,7 @@
           "d\ufffdorbigny",
           "Webbina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113819"
+        "recordId": "66BLL"
       },
       {
         "cardinality": 2,
@@ -1667,7 +1671,7 @@
           "Jones",
           "and"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1333592"
+        "recordId": "83VZN"
       },
       {
         "cardinality": 2,
@@ -1685,7 +1689,7 @@
           "Brady",
           "Bigenerina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:114045"
+        "recordId": "32SNF"
       },
       {
         "cardinality": 1,
@@ -1738,7 +1742,7 @@
           "Williamson",
           "Clavulina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:114363"
+        "recordId": "7FDQH"
       },
       {
         "cardinality": 2,
@@ -1756,7 +1760,7 @@
           "d\ufffdorbigny",
           "parisiensis"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:954529"
+        "recordId": "VW6F"
       },
       {
         "cardinality": 2,
@@ -1774,7 +1778,7 @@
           "Seguenza",
           "pyrula"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:906751"
+        "recordId": "7RQZT"
       },
       {
         "cardinality": 1,
@@ -1792,7 +1796,7 @@
           "pyrula",
           "d\ufffdorbigny"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:887548"
+        "recordId": "urn:lsid:irmng.org:taxname:1190681"
       },
       {
         "cardinality": 2,
@@ -1810,7 +1814,7 @@
           "Brady",
           "punctata"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:710428"
+        "recordId": "5WMKW"
       },
       {
         "cardinality": 1,
@@ -1845,7 +1849,7 @@
           "Batsch",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:112223"
+        "recordId": "gn_73898"
       },
       {
         "cardinality": 1,
@@ -1863,7 +1867,7 @@
           "l\u00e6vigata",
           "d\ufffdorbigny"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:112194"
+        "recordId": "4NRT"
       },
       {
         "cardinality": 2,
@@ -1881,7 +1885,7 @@
           "d\ufffdorbigny",
           "var"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113530"
+        "recordId": "3V2WR"
       },
       {
         "cardinality": 2,
@@ -1899,7 +1903,7 @@
           "Batsch",
           "Vaginulina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:417846"
+        "recordId": "3Y5YP"
       },
       {
         "cardinality": 2,
@@ -1917,7 +1921,7 @@
           "Linn\u00e9",
           "Cristellaria"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113811"
+        "recordId": "7F893"
       },
       {
         "cardinality": 2,
@@ -1935,7 +1939,7 @@
           "Reuss",
           "calcar"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:895864"
+        "recordId": "ZJ66"
       },
       {
         "cardinality": 2,
@@ -1953,7 +1957,7 @@
           "Williamson",
           "pygm\u00e6a"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113762"
+        "recordId": "7F5ZY"
       },
       {
         "cardinality": 2,
@@ -1971,7 +1975,7 @@
           "d\ufffdorbigny",
           "conglobata"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113434"
+        "recordId": "6KHF7"
       },
       {
         "cardinality": 1,
@@ -2006,7 +2010,7 @@
           "d\ufffdorbigny",
           "Pullenia"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113460"
+        "recordId": "74TBL"
       },
       {
         "cardinality": 2,
@@ -2024,7 +2028,7 @@
           "d\ufffdorbigny",
           "Truncatulina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113114"
+        "recordId": "78PQ8"
       },
       {
         "cardinality": 1,
@@ -2042,7 +2046,7 @@
           "pygm\u00e6a",
           "Hantken"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:112094"
+        "recordId": "urn:lsid:irmng.org:taxname:1429217"
       },
       {
         "cardinality": 2,
@@ -2060,7 +2064,7 @@
           "d\ufffdorbigny",
           "coronata"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:523486"
+        "recordId": "66V3X"
       },
       {
         "cardinality": 2,
@@ -2078,7 +2082,7 @@
           "Gray",
           "Rupertia"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:479284"
+        "recordId": "RFNY"
       },
       {
         "cardinality": 2,
@@ -2096,7 +2100,7 @@
           "Wallich",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113480"
+        "recordId": "4TQJL"
       },
       {
         "cardinality": 2,
@@ -2114,7 +2118,7 @@
           "d\ufffdorbigny",
           "elegans"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:710623"
+        "recordId": "4QHJ3"
       },
       {
         "cardinality": 2,
@@ -2132,7 +2136,7 @@
           "d\ufffdorbigny",
           "Gypsina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:710935"
+        "recordId": "4TG2S"
       },
       {
         "cardinality": 2,
@@ -2150,7 +2154,7 @@
           "Reuss",
           "Nonionina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1492811"
+        "recordId": "8546M"
       },
       {
         "cardinality": 2,
@@ -2168,7 +2172,7 @@
           "Montagu",
           "Operculina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:479270"
+        "recordId": "47PMM"
       },
       {
         "cardinality": 2,
@@ -2186,7 +2190,7 @@
           "Gronovius",
           "Organisms"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:522116"
+        "recordId": "74NR4"
       },
       {
         "cardinality": 1,
@@ -2203,7 +2207,8 @@
         "wordsAfter": [
           "Organisms",
           "From"
-        ]
+        ],
+        "recordId": "urn:lsid:irmng.org:taxname:1126220"
       },
       {
         "cardinality": 1,
@@ -2221,7 +2226,7 @@
           "with",
           "enormous"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:101537"
+        "recordId": "7P34G"
       },
       {
         "cardinality": 1,
@@ -2239,7 +2244,7 @@
           "inhabiting",
           "the"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:101796"
+        "recordId": "7P5KS"
       }
     ]
   },
@@ -2380,7 +2385,8 @@
         "wordsAfter": [
           "see",
           "Stations"
-        ]
+        ],
+        "recordId": "8PRDG"
       },
       {
         "cardinality": 2,
@@ -2398,7 +2404,7 @@
           "d\ufffdorbigny",
           "comata"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:523324"
+        "recordId": "5WL8R"
       },
       {
         "cardinality": 1,
@@ -2433,7 +2439,7 @@
           "limbuta",
           "d\ufffdorbigny"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:112046"
+        "recordId": "7Q2LR"
       },
       {
         "cardinality": 2,
@@ -2451,7 +2457,7 @@
           "Linne",
           "Planispirina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:391210"
+        "recordId": "7XBPX"
       },
       {
         "cardinality": 2,
@@ -2469,7 +2475,7 @@
           "Costa",
           "communis"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:478653"
+        "recordId": "gn_1971242"
       },
       {
         "cardinality": 1,
@@ -2487,7 +2493,7 @@
           "Psammosph\u00e6ra",
           "fusca"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:887548"
+        "recordId": "urn:lsid:irmng.org:taxname:1190681"
       },
       {
         "cardinality": 2,
@@ -2505,7 +2511,7 @@
           "Schulze",
           "Kalamopsis"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:114184"
+        "recordId": "4ND54"
       },
       {
         "cardinality": 1,
@@ -2523,7 +2529,7 @@
           "\ufffd",
           "sp"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:520934"
+        "recordId": "7PLZ5"
       },
       {
         "cardinality": 2,
@@ -2541,7 +2547,7 @@
           "Brady",
           "Rhabdammina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113972"
+        "recordId": "3NNSJ"
       },
       {
         "cardinality": 1,
@@ -2576,7 +2582,7 @@
           "Sars",
           "Botellina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113898"
+        "recordId": "4RVBH"
       },
       {
         "cardinality": 2,
@@ -2594,7 +2600,7 @@
           "Brady",
           "Reophax"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113864"
+        "recordId": "MMYP"
       },
       {
         "cardinality": 1,
@@ -2629,7 +2635,7 @@
           "sp",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:112341"
+        "recordId": "7PXGX"
       },
       {
         "cardinality": 2,
@@ -2647,7 +2653,7 @@
           "Bornemann",
           "Placopsilina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:736638"
+        "recordId": "7WJBR"
       },
       {
         "cardinality": 2,
@@ -2665,7 +2671,7 @@
           "Brady",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:522266"
+        "recordId": "77NND"
       },
       {
         "cardinality": 1,
@@ -2700,7 +2706,7 @@
           "d\ufffdorbigny",
           "Webbina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113819"
+        "recordId": "66BLL"
       },
       {
         "cardinality": 2,
@@ -2718,7 +2724,7 @@
           "Jones",
           "and"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1333592"
+        "recordId": "83VZN"
       },
       {
         "cardinality": 2,
@@ -2736,7 +2742,7 @@
           "Brady",
           "Bigenerina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:114045"
+        "recordId": "32SNF"
       },
       {
         "cardinality": 1,
@@ -2789,7 +2795,7 @@
           "Williamson",
           "Clavulina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:114363"
+        "recordId": "7FDQH"
       },
       {
         "cardinality": 2,
@@ -2807,7 +2813,7 @@
           "d\ufffdorbigny",
           "parisiensis"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:954529"
+        "recordId": "VW6F"
       },
       {
         "cardinality": 2,
@@ -2825,7 +2831,7 @@
           "Seguenza",
           "pyrula"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:906751"
+        "recordId": "7RQZT"
       },
       {
         "cardinality": 1,
@@ -2843,7 +2849,7 @@
           "pyrula",
           "d\ufffdorbigny"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:887548"
+        "recordId": "urn:lsid:irmng.org:taxname:1190681"
       },
       {
         "cardinality": 2,
@@ -2861,7 +2867,7 @@
           "Brady",
           "punctata"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:710428"
+        "recordId": "5WMKW"
       },
       {
         "cardinality": 1,
@@ -2896,7 +2902,7 @@
           "Batsch",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:112223"
+        "recordId": "gn_73898"
       },
       {
         "cardinality": 1,
@@ -2914,7 +2920,7 @@
           "l\u00e6vigata",
           "d\ufffdorbigny"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:112194"
+        "recordId": "4NRT"
       },
       {
         "cardinality": 2,
@@ -2932,7 +2938,7 @@
           "d\ufffdorbigny",
           "var"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113530"
+        "recordId": "3V2WR"
       },
       {
         "cardinality": 2,
@@ -2950,7 +2956,7 @@
           "Batsch",
           "Vaginulina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:417846"
+        "recordId": "3Y5YP"
       },
       {
         "cardinality": 2,
@@ -2968,7 +2974,7 @@
           "Linn\u00e9",
           "Cristellaria"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113811"
+        "recordId": "7F893"
       },
       {
         "cardinality": 2,
@@ -2986,7 +2992,7 @@
           "Reuss",
           "calcar"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:895864"
+        "recordId": "ZJ66"
       },
       {
         "cardinality": 2,
@@ -3004,7 +3010,7 @@
           "Williamson",
           "pygm\u00e6a"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113762"
+        "recordId": "7F5ZY"
       },
       {
         "cardinality": 2,
@@ -3022,7 +3028,7 @@
           "d\ufffdorbigny",
           "conglobata"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113434"
+        "recordId": "6KHF7"
       },
       {
         "cardinality": 1,
@@ -3057,7 +3063,7 @@
           "d\ufffdorbigny",
           "Pullenia"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113460"
+        "recordId": "74TBL"
       },
       {
         "cardinality": 2,
@@ -3075,7 +3081,7 @@
           "d\ufffdorbigny",
           "Truncatulina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113114"
+        "recordId": "78PQ8"
       },
       {
         "cardinality": 1,
@@ -3093,7 +3099,7 @@
           "pygm\u00e6a",
           "Hantken"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:112094"
+        "recordId": "urn:lsid:irmng.org:taxname:1429217"
       },
       {
         "cardinality": 2,
@@ -3111,7 +3117,7 @@
           "d\ufffdorbigny",
           "coronata"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:523486"
+        "recordId": "66V3X"
       },
       {
         "cardinality": 2,
@@ -3129,7 +3135,7 @@
           "Gray",
           "Rupertia"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:479284"
+        "recordId": "RFNY"
       },
       {
         "cardinality": 2,
@@ -3147,7 +3153,7 @@
           "Wallich",
           "\ufffd"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:113480"
+        "recordId": "4TQJL"
       },
       {
         "cardinality": 2,
@@ -3165,7 +3171,7 @@
           "d\ufffdorbigny",
           "elegans"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:710623"
+        "recordId": "4QHJ3"
       },
       {
         "cardinality": 2,
@@ -3183,7 +3189,7 @@
           "d\ufffdorbigny",
           "Gypsina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:710935"
+        "recordId": "4TG2S"
       },
       {
         "cardinality": 2,
@@ -3201,7 +3207,7 @@
           "Reuss",
           "Nonionina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:1492811"
+        "recordId": "8546M"
       },
       {
         "cardinality": 2,
@@ -3219,7 +3225,7 @@
           "Montagu",
           "Operculina"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:479270"
+        "recordId": "47PMM"
       },
       {
         "cardinality": 2,
@@ -3237,7 +3243,7 @@
           "Gronovius",
           "Organisms"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:522116"
+        "recordId": "74NR4"
       },
       {
         "cardinality": 1,
@@ -3254,7 +3260,8 @@
         "wordsAfter": [
           "Organisms",
           "From"
-        ]
+        ],
+        "recordId": "urn:lsid:irmng.org:taxname:1126220"
       },
       {
         "cardinality": 1,
@@ -3272,7 +3279,7 @@
           "with",
           "enormous"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:101537"
+        "recordId": "7P34G"
       },
       {
         "cardinality": 1,
@@ -3290,7 +3297,7 @@
           "inhabiting",
           "the"
         ],
-        "recordId": "urn:lsid:marinespecies.org:taxname:101796"
+        "recordId": "7P5KS"
       }
     ]
   },
@@ -3431,7 +3438,8 @@
         "wordsAfter": [
           "see",
           "Chart"
-        ]
+        ],
+        "recordId": "8PRDG"
       },
       {
         "cardinality": 1,
@@ -3448,7 +3456,8 @@
         "wordsAfter": [
           "\u0406\u0456\u043d.",
           "\ufffd"
-        ]
+        ],
+        "recordId": "3547646"
       }
     ]
   },
@@ -3589,7 +3598,8 @@
         "wordsAfter": [
           "see",
           "Chart"
-        ]
+        ],
+        "recordId": "8PRDG"
       },
       {
         "cardinality": 1,
@@ -3606,7 +3616,8 @@
         "wordsAfter": [
           "\u0406\u0456\u043d.",
           "\ufffd"
-        ]
+        ],
+        "recordId": "3547646"
       }
     ]
   },
@@ -3747,7 +3758,8 @@
         "wordsAfter": [
           "see",
           "Chart"
-        ]
+        ],
+        "recordId": "8PRDG"
       },
       {
         "cardinality": 1,
@@ -3764,7 +3776,8 @@
         "wordsAfter": [
           "\u0406\u0456\u043d.",
           "\ufffd"
-        ]
+        ],
+        "recordId": "3547646"
       }
     ]
   },
@@ -3905,7 +3918,8 @@
         "wordsAfter": [
           "see",
           "Chart"
-        ]
+        ],
+        "recordId": "8PRDG"
       },
       {
         "cardinality": 1,
@@ -3922,7 +3936,8 @@
         "wordsAfter": [
           "\u0406\u0456\u043d.",
           "\ufffd"
-        ]
+        ],
+        "recordId": "3547646"
       }
     ]
   },
@@ -4063,7 +4078,8 @@
         "wordsAfter": [
           "see",
           "Chart"
-        ]
+        ],
+        "recordId": "8PRDG"
       },
       {
         "cardinality": 1,
@@ -4080,7 +4096,8 @@
         "wordsAfter": [
           "\u0406\u0456\u043d.",
           "\ufffd"
-        ]
+        ],
+        "recordId": "3547646"
       }
     ]
   },
@@ -4221,7 +4238,8 @@
         "wordsAfter": [
           "see",
           "Chart"
-        ]
+        ],
+        "recordId": "8PRDG"
       },
       {
         "cardinality": 1,
@@ -4238,7 +4256,8 @@
         "wordsAfter": [
           "\u0406\u0456\u043d.",
           "\ufffd"
-        ]
+        ],
+        "recordId": "3547646"
       }
     ]
   },
@@ -4379,7 +4398,8 @@
         "wordsAfter": [
           "see",
           "Chart"
-        ]
+        ],
+        "recordId": "8PRDG"
       },
       {
         "cardinality": 1,
@@ -4396,7 +4416,8 @@
         "wordsAfter": [
           "\u0406\u0456\u043d.",
           "\ufffd"
-        ]
+        ],
+        "recordId": "3547646"
       }
     ]
   },
